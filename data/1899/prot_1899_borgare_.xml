@@ -235,15 +235,20 @@
         <note xml:id="i-WyTkt1ukabDuaYiFjwo9A4">
           för Iisalmi: kamreraren Akseli August Lilius, från Helsingfors.
         </note>
-        <note xml:id="i-ERUZuALVvUftTHugvUGPvu">
+        <note xml:id="i-ERUZuALVvUftTHugvUGPvu" type="speaker">
           Generalkonsulin Wasenius, såsom den till åren älste, intog talmansstolen
-          och yttrade: Mina ärade ständsbröder! Det är en betydelsefull
-          fräga, som vid denna urtima landtdag kommer att föreläggas ständerna.
-          Jag hyser den förtröstan att, om vi lojalt och frimodigt gä till
-          värt värf, det skall lyckas oss att bringa denna fråga till en
-          för vär monark och för vårt folk tillfredsställande lösning. I
-          denna förtröstan hälsar jag nu Eder välkomna.
+          och yttrade:
         </note>
+        <u who="unknown">
+          <seg>
+            Mina ärade ständsbröder! Det är en betydelsefull fräga, som vid
+            denna urtima landtdag kommer att föreläggas ständerna. Jag hyser
+            den förtröstan att, om vi lojalt och frimodigt gä till värt värf,
+            det skall lyckas oss att bringa denna fråga till en för vär monark
+            och för vårt folk tillfredsställande lösning. I denna förtröstan
+            hälsar jag nu Eder välkomna.
+          </seg>
+        </u>
         <pb facs="https://swerik-project.github.io/valtiopaivat-records-pdf/1899/prot_1899_borgare_-0006.pdf"/>
         <note xml:id="i-MZG4CccuqvZJA2aM4uQ5oH">
           4 Deputation. 21 jan.
@@ -314,24 +319,29 @@
           Theodor Wegelius samt att desse hvardera inför h. exc. generalguvernören
           aflagt föreskrifven ed.
         </note>
-        <note xml:id="i-KUBSHmk5qhaVfGKJrmU6nW">
+        <note xml:id="i-KUBSHmk5qhaVfGKJrmU6nW" type="speaker">
           Hr Kurtén intog härefter talmansstolen och hälsade ståndet med
-          följande ord: Ärade herrar! Såsom ständets vördade ålderspresident
-          för Eder tillkännagifvit, har det behagat h. exc. generalguvernören
-          att utnämna och förordna mig till talman i borgareståndet under
-          innevarande urtima landtdag. Jag tillåter mig därför nu upptaga
-          till förhandling de förberedande ärenden, som äro nödiga för borgareständets
-          blifvande värksamhet. Men innan jag så gör, utber jag mig hos
-          Eder, mina ärade ståndsbröder, att I nu villen skänka mig Edert
-          förtroende och att I låten mig komma äfven under denna landtdag
-          i åtnjutande af enahanda välvilja och vänskap, som under flere
-          föregående landtdagar har från ståndets sida kommit mig till del.
-          Det skall naturligtvis blifva min oaflåtliga sträfvan att samvetsgrant
-          efterkomma och fullgöra hvad talmanseden och grundlagarna af mig
-          kräfva. Men för att ståndets förhandlingar skola fortlöpa jämt
-          och väl är detta icke tillräckligt. Därutöfver är ständets förtroende
-          till sin talman ound-
+          följande ord:
         </note>
+        <u who="unknown">
+          <seg>
+            Ärade herrar! Såsom ständets vördade ålderspresident för Eder
+            tillkännagifvit, har det behagat h. exc. generalguvernören att
+            utnämna och förordna mig till talman i borgareståndet under innevarande
+            urtima landtdag. Jag tillåter mig därför nu upptaga till förhandling
+            de förberedande ärenden, som äro nödiga för borgareständets blifvande
+            värksamhet. Men innan jag så gör, utber jag mig hos Eder, mina
+            ärade ståndsbröder, att I nu villen skänka mig Edert förtroende
+            och att I låten mig komma äfven under denna landtdag i åtnjutande
+            af enahanda välvilja och vänskap, som under flere föregående landtdagar
+            har från ståndets sida kommit mig till del. Det skall naturligtvis
+            blifva min oaflåtliga sträfvan att samvetsgrant efterkomma och
+            fullgöra hvad talmanseden och grundlagarna af mig kräfva. Men
+            för att ståndets förhandlingar skola fortlöpa jämt och väl är
+            detta icke tillräckligt. Därutöfver är ständets förtroende till
+            sin talman ound-
+          </seg>
+        </u>
         <pb facs="https://swerik-project.github.io/valtiopaivat-records-pdf/1899/prot_1899_borgare_-0008.pdf"/>
         <note xml:id="i-6Cm1dUwSb7WZ3DzBH1JTEp">
           6 Ständets kansli. 21 jan.
@@ -560,10 +570,14 @@
           landets krafter och som står tillsamman med de lagar, som af Finlands
           folk välsignas.
         </note>
-        <note xml:id="i-UwgLUCjDDmLaHeLwL6aoz4">
-          Hr Kumlin till prästeständet: Högvördige herr doktor och biskop,
-          högvördiga prästeständ!
+        <note xml:id="i-UwgLUCjDDmLaHeLwL6aoz4" type="speaker">
+          Hr Kumlin till prästeständet:
         </note>
+        <u who="unknown">
+          <seg>
+            Högvördige herr doktor och biskop, högvördiga prästeständ!
+          </seg>
+        </u>
         <note xml:id="i-PRyujXtLzZ5uvc7AE3JXUw">
           Till högvördiga prästeständet frambär borgareständet genom oss
           sin vördnadsfulla hälsning. Med djupare allvar, med mer oafläten
@@ -596,7 +610,7 @@
           Borgareståndet anhåller att få vara inneslutet i herr biskopens
           och det högvördiga prästeståndets välvilja och förtroende.
         </note>
-        <note xml:id="i-F73nRbEBHans6jxZrnhrTv">
+        <note xml:id="i-F73nRbEBHans6jxZrnhrTv" type="speaker">
           Hr Herckman till bondeståndet:
         </note>
         <note xml:id="i-K5gystVnzwKMo8rt2gNeXR">
@@ -658,7 +672,7 @@
           saada nauttia kunnianarvoisen talonpoikaissäädyn porvarissäädylle
           kallisarvoista suosiota.
         </note>
-        <note xml:id="i-2T6HT6x3viGD33XZKikzZF">
+        <note xml:id="i-2T6HT6x3viGD33XZKikzZF" type="speaker">
           Hälsningsdeputationen från bondeståndet anlände nu, företrädd
           af landtdagsmannen Tuomikoski, som yttrade:
         </note>
@@ -828,7 +842,7 @@
         <note xml:id="i-HTZhpbmW2SGG9f1PGUVqXu">
           23 jan. Hälsningsdeputationer. 15
         </note>
-        <note xml:id="i-W8gtZ56mAeGPZhm1NRQFDJ">
+        <note xml:id="i-W8gtZ56mAeGPZhm1NRQFDJ" type="speaker">
           Frän prästeständet anlände härä en hälsningsdeputation, anförd
           af rektor Melander, som yttrade:
         </note>
@@ -909,19 +923,28 @@
           fä vara inneslutet i det högvördiga prästeständets vänskapsfulla
           välvilja och förtroende.
         </note>
-        <note xml:id="i-NnL53ZmzJj2ZnrkdNFWmuu">
-          Ordet: begärdes härä af hr Elving, som yttrade: Borgareständets
-          hälsningsdeputation har framfört ständets hälsning till samtliga
-          medständ och har glädjen att tillbaka öfverbringa ständens hjärtliga
-          och aktningsfulla hälsningar, jämte anmälan att i svaren a borgareständets
-          hälsningar städse uttalats samma uppfattning beträffande den fräga,
-          för hvilken landtdagen sammankallats, som den, hvilken genomgär
-          hälsningsandragandena.
+        <note xml:id="i-NnL53ZmzJj2ZnrkdNFWmuu" type="speaker">
+          Ordet:
         </note>
-        <note xml:id="i-QKP4cJWPFq4orEBGMngRXP">
-          R. o. A:s hälsningsdeputation inträdde härä, anförd af grefve
-          C. Mannerheim, som yttrade:
+        <u who="unknown">
+          <seg>
+            begärdes härä af hr Elving, som yttrade: Borgareständets hälsningsdeputation
+            har framfört ständets hälsning till samtliga medständ och har
+            glädjen att tillbaka öfverbringa ständens hjärtliga och aktningsfulla
+            hälsningar, jämte anmälan att i svaren a borgareständets hälsningar
+            städse uttalats samma uppfattning beträffande den fräga, för hvilken
+            landtdagen sammankallats, som den, hvilken genomgär hälsningsandragandena.
+          </seg>
+        </u>
+        <note xml:id="i-QKP4cJWPFq4orEBGMngRXP" type="speaker">
+          R. o. A:
         </note>
+        <u who="unknown">
+          <seg>
+            s hälsningsdeputation inträdde härä, anförd af grefve C. Mannerheim,
+            som yttrade:
+          </seg>
+        </u>
         <note xml:id="i-HYJp5ekSLGyHx2UspQ7L3g">
           Högtärade herr talman. Vällofliga borgareständ.
         </note>
@@ -1320,7 +1343,7 @@
         <note xml:id="i-HgveLTzbcNTcksXc92sHHj">
           Härefter skreds till själfva valet, som lämnade följande resultat:
         </note>
-        <note xml:id="i-U15G4NbhL5nR6g17k6BJUn">
+        <note xml:id="i-U15G4NbhL5nR6g17k6BJUn" type="speaker">
           Värnepliktsutskottet :
         </note>
         <note xml:id="i-VjekwsFqFQawLz3bZkCpKm">
@@ -1341,7 +1364,7 @@
           till tredje suppleant: hr Stenström 11, hr Andersin 3 och hr
           Berneri 2 röster samt hrr Eck och Idman hvardera 1 röst.
         </note>
-        <note xml:id="i-BXybGQdTPtG9U1VFBnp1jc">
+        <note xml:id="i-BXybGQdTPtG9U1VFBnp1jc" type="speaker">
           Lagutskottet :
         </note>
         <note xml:id="i-9ygXNgVURuL1M1hoV3tnp">
@@ -1365,7 +1388,7 @@
           till tredje suppleant: hr Eck 12 ock hr Andersin 4 röster samt
           hrr Aejmeleeus och Levonius hvardera 1 röst.
         </note>
-        <note xml:id="i-4dfgxAoXL2dVJGowErd2Nr">
+        <note xml:id="i-4dfgxAoXL2dVJGowErd2Nr" type="speaker">
           Statsutskottet :
         </note>
         <note xml:id="i-M5euQjXPs2V18AuXax72BM">
@@ -1578,7 +1601,7 @@
         <note xml:id="i-2BpmRQAZTX3J3awfecmRCv">
           Öfversättning från ryskan.
         </note>
-        <note xml:id="i-BgK6TwoukRHRXvYFtVZmjs">
+        <note xml:id="i-BgK6TwoukRHRXvYFtVZmjs" type="speaker">
           GENERALGUVERNÖREN I FINLAND. -— Till hr talmannen för borgare-
           HELSINGFORS. ståndet.
         </note>
@@ -1622,7 +1645,7 @@
         <note xml:id="i-Mk2P1hsyWyLgAmSf2sXj5t">
           Öfversättning från ryskan.
         </note>
-        <note xml:id="i-5qQoc8Cct9HYqX3EMKPppX">
+        <note xml:id="i-5qQoc8Cct9HYqX3EMKPppX" type="speaker">
           GENERALGUVERNÖREN I FINLAND. a Till hr talmannen för borgare-
           HELSINGFORS. ståndet. 22 januari
         </note>
@@ -2042,7 +2065,7 @@
           Föredrogos tvänne från h. exc. generalguvernören öfver landet
           till ståndets talman öfversända skrifvelser, sålydande:
         </note>
-        <note xml:id="i-og8fWn9suHNYDCDtXWyNc">
+        <note xml:id="i-og8fWn9suHNYDCDtXWyNc" type="speaker">
           Öfversättning från ryskan. GENERALGUVERNÖREN
         </note>
         <note xml:id="i-Kbpkpy3DDPbhyc9AxCccpr">
@@ -2086,7 +2109,7 @@
         <note xml:id="i-5tym2h9f11uKrGqveYvPBJ">
           Öfversatt af: —P. Jamalainen.
         </note>
-        <note xml:id="i-7UEN7gCurj4r3Xadmetsft">
+        <note xml:id="i-7UEN7gCurj4r3Xadmetsft" type="speaker">
           GENERALGUVERNÖREN I FINLAND. = Till herr talmannen för borgare-
           HELSINGFORS, ständet.
         </note>
@@ -2121,10 +2144,15 @@
           skrifvelser åberopade handlingar till vidare handläggning af
           värneplikts- och lagutskotten, anhöll
         </note>
-        <note xml:id="i-4WBpCtk3kEXs5R3gMtQyWK">
-          hr Schybergson om ordet och yttrade: Jag har vid jämförelse af
-          dessa handlingar och de föregående af enahanda art
+        <note xml:id="i-4WBpCtk3kEXs5R3gMtQyWK" type="speaker">
+          hr Schybergson om ordet och yttrade:
         </note>
+        <u who="unknown">
+          <seg>
+            Jag har vid jämförelse af dessa handlingar och de föregående
+            af enahanda art
+          </seg>
+        </u>
         <pb facs="https://swerik-project.github.io/valtiopaivat-records-pdf/1899/prot_1899_borgare_-0044.pdf"/>
         <note xml:id="i-Yc24tEsVbWyevwQGzhWPVW">
           42 Krigsmannaeden. 25 april.
@@ -2143,35 +2171,55 @@
           utskott tager kännedom om dem likasom om diverse andra dokument,
           som kunna lända dem till upplysning.
         </note>
-        <note xml:id="i-U7uApcQkWFyF6CvcscAqzs">
-          Hr Öhman: Säsom ledamot i talmanskonferen anhäller jag för min
-          del att fä understöda dess förslag. Inom konferensen gjorde sig
-          den äsikt gällande att, enär de till ständerna anlända bilagorna
-          hänföra sig till en paragraf i värnepliktslagen, desamma borde
-          meddelas vederbörande utskott till upplysning.
+        <note xml:id="i-U7uApcQkWFyF6CvcscAqzs" type="speaker">
+          Hr Öhman:
         </note>
+        <u who="unknown">
+          <seg>
+            Säsom ledamot i talmanskonferen anhäller jag för min del att
+            fä understöda dess förslag. Inom konferensen gjorde sig den äsikt
+            gällande att, enär de till ständerna anlända bilagorna hänföra
+            sig till en paragraf i värnepliktslagen, desamma borde meddelas
+            vederbörande utskott till upplysning.
+          </seg>
+        </u>
         <note xml:id="i-DHqXiqET5YeuySaTkFw1bE">
           Hr Wasenius understödde hr Schybergsons förslag.
         </note>
-        <note xml:id="i-PQNavnfwqXgeKcf3jfRVhp">
-          Hr Schybergson: Gentemot hr Öhman mä framhållas att, om vi fortsätta
-          med detta system och emottaga hvilka handlingar som hälst och
-          behandla dem pä samma sätt som dokument, hvilka varit Hans Majestät
-          föredragna, vi icke handla riktigt.
+        <note xml:id="i-PQNavnfwqXgeKcf3jfRVhp" type="speaker">
+          Hr Schybergson:
         </note>
-        <note xml:id="i-Lz53f1wENWUPvHnd4NpfBD">
-          Hr Öhman: Jag ber med anledning af hr Schybergsons anmärkning
-          fä päpeka att till ständerna vid landtdagarna ofta utdelats dokument,
-          hvilka icke varit H. M:t föredragna.
+        <u who="unknown">
+          <seg>
+            Gentemot hr Öhman mä framhållas att, om vi fortsätta med detta
+            system och emottaga hvilka handlingar som hälst och behandla dem
+            pä samma sätt som dokument, hvilka varit Hans Majestät föredragna,
+            vi icke handla riktigt.
+          </seg>
+        </u>
+        <note xml:id="i-Lz53f1wENWUPvHnd4NpfBD" type="speaker">
+          Hr Öhman:
         </note>
-        <note xml:id="i-Hvage1AshBfoNdQRpsgmw">
-          Hr Schybergson: Detta är en urtima landtdag, icke en ordinarie,
-          dä ständerna frän prokuratorn och kejserliga senaten emottaga
-          handlingar, hvilka enligt L. O. skola behandlas. Men vid en urtima
-          landtdag hafva ständerna icke rätt att behandla nägot som hälst
-          dokument, hvilket icke blifvit Hans Majestät föredraget och enligt
-          H. M:ts befallning till ständerna öfverlämnadt.
+        <u who="unknown">
+          <seg>
+            Jag ber med anledning af hr Schybergsons anmärkning fä päpeka
+            att till ständerna vid landtdagarna ofta utdelats dokument, hvilka
+            icke varit H. M:t föredragna.
+          </seg>
+        </u>
+        <note xml:id="i-Hvage1AshBfoNdQRpsgmw" type="speaker">
+          Hr Schybergson:
         </note>
+        <u who="unknown">
+          <seg>
+            Detta är en urtima landtdag, icke en ordinarie, dä ständerna
+            frän prokuratorn och kejserliga senaten emottaga handlingar, hvilka
+            enligt L. O. skola behandlas. Men vid en urtima landtdag hafva
+            ständerna icke rätt att behandla nägot som hälst dokument, hvilket
+            icke blifvit Hans Majestät föredraget och enligt H. M:ts befallning
+            till ständerna öfverlämnadt.
+          </seg>
+        </u>
         <note xml:id="i-FKRiCK364TkEgeDn2qjKPp">
           Diskussionen förklarades härä afslutad, hvarefter hr talmannen
           till ständets besvarande framstälde följande omröstningsproposition:
@@ -2377,7 +2425,7 @@
         <note xml:id="i-XTnyKjd8UcgsptqHbyFk96">
           48 Utskottsval. 19 maj.
         </note>
-        <note xml:id="i-KNnPyRPkTqck4MAGArEanL">
+        <note xml:id="i-KNnPyRPkTqck4MAGArEanL" type="speaker">
           Expeditionsutskottet:
         </note>
         <note xml:id="i-FuLHmWPKAqTAW2X52eQCjF">
@@ -2399,7 +2447,7 @@
         <note xml:id="i-MW8fQu8ApfLP2b3MxZTdCi">
           hr von Pfaler jämväl samtliga 16 röster.
         </note>
-        <note xml:id="i-E9JzV1ccFwp9Cr328fBPXC">
+        <note xml:id="i-E9JzV1ccFwp9Cr328fBPXC" type="speaker">
           Justeringsutskottet:
         </note>
         <note xml:id="i-C3kenqbnLdBTka4wA4ehru">
@@ -2479,13 +2527,18 @@
         <note xml:id="i-2fuQi2LRyiJQcijFrHJbPM">
           Ordet begärdes till först af
         </note>
-        <note xml:id="i-72cyMZ4cb4v1sFKQkk2GSg">
-          hr Elving, som yttrade: Dä vid landtdagens början dessa frägor
-          öfverlämnades till behandling af de utaf ständerna tillsatta utskotten,
-          blef det lagutskottets uppgift att sammanställa bevisen för vår
-          rätt. Och att lagutskottet på ett utmärkt sätt fullgjort denna
-          uppgift skall alltid tacksamt erkännas. På värne-
+        <note xml:id="i-72cyMZ4cb4v1sFKQkk2GSg" type="speaker">
+          hr Elving, som yttrade:
         </note>
+        <u who="unknown">
+          <seg>
+            Dä vid landtdagens början dessa frägor öfverlämnades till behandling
+            af de utaf ständerna tillsatta utskotten, blef det lagutskottets
+            uppgift att sammanställa bevisen för vår rätt. Och att lagutskottet
+            på ett utmärkt sätt fullgjort denna uppgift skall alltid tacksamt
+            erkännas. På värne-
+          </seg>
+        </u>
         <note xml:id="i-S3SeQ916s57CEfCYb749Pc">
           4
         </note>
@@ -2517,31 +2570,36 @@
           sekler af arbete och tro och heder för att detta folk skulle kunna
           sä utan vidare strykas bort ur nationernas antal.
         </note>
-        <note xml:id="i-GHRGPoU8C7k7nXF26ZKzYZ">
-          Hr Borenius: För min ringa del anhäller jag att fä ansluta mig
-          till dem, hvilka till det ärade utskottet uttala sin djupa tacksamhet
-          för det sätt, hvarpä det löst sin synnerligen grannlaga, arbetsdryga
-          och otacksamma, men dock för värt lands framtida öden sä betydelsefulla
-          uppgift. Hvad den statsrättsliga sidan vidkommer, tilläter jag
-          mig frän den ständpunkt, som icke förfogar öfver några fackmannaförutsättningar,
-          från den enkla borgerlighetens ståndpunkt framhålla att vär författningsenliga
-          rätt, grundad som den är uppä en klar och tydlig öfverenskommelse,
-          till den grad genomträngt hela vär nation, att knappast en individ
-          hos oss torde finnas, som icke i hufvudsak skulle veta hvad denna
-          vär rätt är. Och detta borde äfven vara fullt klart pä andra sidan
-          gränsen. Egendomligt och i högsta måtto kränkande har det därför
-          varit, dä man lagt märke till yttringarna af dessa mot oss ogynnsamma
-          krafter, hvilka redan i propositionerna och ännu mer uti de dem
-          ätföljande bilagorna framskymta, för att icke säga mer. Hvad vilja
-          dessa krafter? Hvilka högre syften fullfölja de? Hvarför säga
-          de ej öppet: vi hafva makten, därför vilja vi öfva väld? De vore
-          dä ätminstone uppriktiga. Det vore, om ocksä brutalt, öppnare
-          och ärligare att sä förfara än att, ä ena sidan hycklande välvilja
-          för vårt land, å den andra söka kasta det bedrägliga tillvägagäendets
-          skugga pä vära aflidna statsmän. Hvarför gifva de sig sken af
-          att vilja tillgodose vär lycka, vär sanna fördel och vårt framåtskridande,
-          dä dei själfva värket endast åsyfta att för-
+        <note xml:id="i-GHRGPoU8C7k7nXF26ZKzYZ" type="speaker">
+          Hr Borenius:
         </note>
+        <u who="unknown">
+          <seg>
+            För min ringa del anhäller jag att fä ansluta mig till dem, hvilka
+            till det ärade utskottet uttala sin djupa tacksamhet för det sätt,
+            hvarpä det löst sin synnerligen grannlaga, arbetsdryga och otacksamma,
+            men dock för värt lands framtida öden sä betydelsefulla uppgift.
+            Hvad den statsrättsliga sidan vidkommer, tilläter jag mig frän
+            den ständpunkt, som icke förfogar öfver några fackmannaförutsättningar,
+            från den enkla borgerlighetens ståndpunkt framhålla att vär författningsenliga
+            rätt, grundad som den är uppä en klar och tydlig öfverenskommelse,
+            till den grad genomträngt hela vär nation, att knappast en individ
+            hos oss torde finnas, som icke i hufvudsak skulle veta hvad denna
+            vär rätt är. Och detta borde äfven vara fullt klart pä andra sidan
+            gränsen. Egendomligt och i högsta måtto kränkande har det därför
+            varit, dä man lagt märke till yttringarna af dessa mot oss ogynnsamma
+            krafter, hvilka redan i propositionerna och ännu mer uti de dem
+            ätföljande bilagorna framskymta, för att icke säga mer. Hvad vilja
+            dessa krafter? Hvilka högre syften fullfölja de? Hvarför säga
+            de ej öppet: vi hafva makten, därför vilja vi öfva väld? De vore
+            dä ätminstone uppriktiga. Det vore, om ocksä brutalt, öppnare
+            och ärligare att sä förfara än att, ä ena sidan hycklande välvilja
+            för vårt land, å den andra söka kasta det bedrägliga tillvägagäendets
+            skugga pä vära aflidna statsmän. Hvarför gifva de sig sken af
+            att vilja tillgodose vär lycka, vär sanna fördel och vårt framåtskridande,
+            dä dei själfva värket endast åsyfta att för-
+          </seg>
+        </u>
         <pb facs="https://swerik-project.github.io/valtiopaivat-records-pdf/1899/prot_1899_borgare_-0053.pdf"/>
         <note xml:id="i-UX53639dKCDwyo5zNwPL6g">
           23 maj. Värnepliktslagen. äl
@@ -2623,35 +2681,40 @@
           att hänskjuta frägan till landtdagens behandling. Hela denna vädjan
           har dä endast varit en tom komedi.
         </note>
-        <note xml:id="i-DFQGgumvMRt49U4Tt1vvtr">
-          Hr Schybergson: Dä denna landtdag vidtog med sitt arbete, kändes
-          det utan tvifvel för enhvar tungt att deltaga däri, icke blott
-          därför att ansvaret var sä stort, utan än mer därför att det var
-          oklart hvad man af oss begärde och huruvida det var afsikten att
-          försätta Finlands ständer uti en ställning annan än den grundlagen
-          bestämmer. Det var därför för mängen, och icke minst för mig,
-          bekymmersamt att frägan härom, frägan om den form, uti hvilken
-          ständernas svar skulle afgifvas, icke omedelbart togs under behandling.
-          Men efter hand som landtdagen fortgätt har det blifvit alt klarare
-          att de farhägor, hvilka man vid landtdagens början hyst och som
-          ännu under fortgängen af landtdagens arbete mäste hysas därom
-          att denna urtima landtdag skulle kunna åberopas som stöd därför
-          att landtdagen fogat sig uti de nya anordningarna, att, säger
-          jag, dessa farhägor, ju mer landtdagsarbetet fortskred, dess mer
-          hafva visat sig öfverflödiga. Hvad som försiggätt utom landtdagen
-          under de sista månaderna och än mer affattningen af dessa betänkanden,
-          som nu föreligga till behandling, gör att 1899 ärs urtima landtdag
-          aldrig skall kunna äberopas till stöd därför att februarimanifestet
-          skulle vunnit häfd, utan den skall tvärtom kunna äberopas säsom
-          ett fullgiltigt bevis pä att denna häfd genast i början blef afbruten.
-          Med lika stor tvekan, som jag gick till detta arbete, med lika
-          stort lugn gär jag därför nu till en definitiv behandling af de
-          föreliggande betänkandena, och hvad som möjligen i detta sammanhang
-          icke blir tydligt utsagdt, det blifva vii tillfälle att pä ett
-          än mer otvetydigt sätt framhålla vid behandlingen utaf de senaste
-          ständerna tillaandakomna propositionerna, där äfven afvikelserna
-          frän grundlagen framstä än mer otvetydigt.
+        <note xml:id="i-DFQGgumvMRt49U4Tt1vvtr" type="speaker">
+          Hr Schybergson:
         </note>
+        <u who="unknown">
+          <seg>
+            Dä denna landtdag vidtog med sitt arbete, kändes det utan tvifvel
+            för enhvar tungt att deltaga däri, icke blott därför att ansvaret
+            var sä stort, utan än mer därför att det var oklart hvad man af
+            oss begärde och huruvida det var afsikten att försätta Finlands
+            ständer uti en ställning annan än den grundlagen bestämmer. Det
+            var därför för mängen, och icke minst för mig, bekymmersamt att
+            frägan härom, frägan om den form, uti hvilken ständernas svar
+            skulle afgifvas, icke omedelbart togs under behandling. Men efter
+            hand som landtdagen fortgätt har det blifvit alt klarare att de
+            farhägor, hvilka man vid landtdagens början hyst och som ännu
+            under fortgängen af landtdagens arbete mäste hysas därom att denna
+            urtima landtdag skulle kunna åberopas som stöd därför att landtdagen
+            fogat sig uti de nya anordningarna, att, säger jag, dessa farhägor,
+            ju mer landtdagsarbetet fortskred, dess mer hafva visat sig öfverflödiga.
+            Hvad som försiggätt utom landtdagen under de sista månaderna och
+            än mer affattningen af dessa betänkanden, som nu föreligga till
+            behandling, gör att 1899 ärs urtima landtdag aldrig skall kunna
+            äberopas till stöd därför att februarimanifestet skulle vunnit
+            häfd, utan den skall tvärtom kunna äberopas säsom ett fullgiltigt
+            bevis pä att denna häfd genast i början blef afbruten. Med lika
+            stor tvekan, som jag gick till detta arbete, med lika stort lugn
+            gär jag därför nu till en definitiv behandling af de föreliggande
+            betänkandena, och hvad som möjligen i detta sammanhang icke blir
+            tydligt utsagdt, det blifva vii tillfälle att pä ett än mer otvetydigt
+            sätt framhålla vid behandlingen utaf de senaste ständerna tillaandakomna
+            propositionerna, där äfven afvikelserna frän grundlagen framstä
+            än mer otvetydigt.
+          </seg>
+        </u>
         <pb facs="https://swerik-project.github.io/valtiopaivat-records-pdf/1899/prot_1899_borgare_-0055.pdf"/>
         <note xml:id="i-CFLrq3TjzcfNR4H6kxkjiY">
           28 maj.
@@ -2780,13 +2843,18 @@
           det nu föreliggande förslaget till ändringar i värnepliktslagen,
           dela ansvaret för dess innehäll.
         </note>
-        <note xml:id="i-FseR3kBf4W2vM5z6RAsrbH">
-          Hr Jansson: Jag har bedt om ordet för att fä inom borgareständet
-          uppläsa ett skriftligen affattadt uttalande, afsedt. för dorgareständet
-          protokoll. Detta uttalande, som är undertecknadt af hr Lille och
-          mig, berör frägan om behandlingen, en fräga, som därför bör afgöras
-          innan behandlingen skrider vidare. Uttalandet är af följande lydelse:
+        <note xml:id="i-FseR3kBf4W2vM5z6RAsrbH" type="speaker">
+          Hr Jansson:
         </note>
+        <u who="unknown">
+          <seg>
+            Jag har bedt om ordet för att fä inom borgareständet uppläsa
+            ett skriftligen affattadt uttalande, afsedt. för dorgareständet
+            protokoll. Detta uttalande, som är undertecknadt af hr Lille och
+            mig, berör frägan om behandlingen, en fräga, som därför bör afgöras
+            innan behandlingen skrider vidare. Uttalandet är af följande lydelse:
+          </seg>
+        </u>
         <note xml:id="i-LBXqEBSDdRp2iyBybcYaKh">
           »Dä det i dag förestår borgareständet att skrida till definitiv
           behandling af föreliggande förslag till värnepliktslag, hvarpä
@@ -2963,14 +3031,19 @@
           sä snart nådig proposition härom till grundlagsenlig . behandling
           varder ständerna förelagd.»
         </note>
-        <note xml:id="i-X21zqcAas3FebsbopSc4Wq">
-          Hr Öhman: I motsats till hrar Jansson och Lille anser jag att
-          ständerna icke ovilkorligen böra förutsätta att lagstiftningen
-          beträffande de nädiga propositionerna, som nu äro föremäl för
-          ständens behandling, skall ega rum i den ordning manifestet af
-          den 15 sistlidna februari föreskrifver eller öfverhufvud i en
-          ordning, stridande mot landets grundlagar.
+        <note xml:id="i-X21zqcAas3FebsbopSc4Wq" type="speaker">
+          Hr Öhman:
         </note>
+        <u who="unknown">
+          <seg>
+            I motsats till hrar Jansson och Lille anser jag att ständerna
+            icke ovilkorligen böra förutsätta att lagstiftningen beträffande
+            de nädiga propositionerna, som nu äro föremäl för ständens behandling,
+            skall ega rum i den ordning manifestet af den 15 sistlidna februari
+            föreskrifver eller öfverhufvud i en ordning, stridande mot landets
+            grundlagar.
+          </seg>
+        </u>
         <note xml:id="i-PhnSC3Endo19NFsAbAtsBh">
           I sådant afseende anhåller jag att främst få fästa uppmärk- :samheten
           därvid att de nådiga propositionerna öfverlämnats till urtima
@@ -3082,42 +3155,52 @@
           hra Öhmanin ehdotukseen että varsinaiseen käsittelyyn niiden suhteen
           ryhdyttäisiin.
         </note>
-        <note xml:id="i-DduARYqykhKXcubDtTtT17">
-          Hr Ferdinand Jus6lius: Äfven jag är uti den fråga, som nu föreligger,
-          af enahanda åsikt som hr Öhman och ber endast att till de skäl,
-          som de bägge föregående talarene redan framhällit, särskildt hvad
-          hr Öhman har anfört, ytterligare få påpeka några små omständigheter.
-          Man bör härvid fästa afseende vid den i ögonen fallande olikhet,
-          som eger rum emellan de två första propositionerna och de bägge
-          senare. Propositionerna angående ny värnepliktslag och om grunderna
-          för de finska truppernas organisation och förvaltning hänföra
-          sig endast till rent finska angelägenheter. De äro afsedda att
-          tillämpas endast inom landet. De senare propositionerna åter,
-          angående utjämnande af den personella och finansiella värnepliktstungan,
-          påkalla vid sin tillämpning ovilkorligen motsvarande lagstiftningsakter
-          äfven inom kejsaredömet. Man kan nämligen icke tänka sig att finska
-          värnepliktige skulle instickas uti ryska trupper eller att finska
-          miljoner öfverföras till ryska skattkammaren med mindre än att
-          bestämningar i Ryssland förefinnas om mottagandet af hvartdera
-          slaget af dessa prästationer. Det är således icke otänkbart att
-          Hans Majestät vid framläggandet af propositionerna skulle hafva
-          tänkt sig en olika procedyr för den senare gruppen. Detta är en
-          omständighet, som enligt min uppfattning borde tagas i betraktande.
-          Hvad åter uttrycket om de tvänne senare propositionernas oskiljaktliga
-          gemenskap med värnepliktsfrågan vidkommer, så anser jag att man
-          icke har anledning att förstå detta annorlunda än att härigenom
-          motiveras dessa propositioners öfverlämnande i sista stund till
-          landtdagen. Man har, synes mig, härmed velat säga att, då urtima
-          landtdag är sammankallad enkom för värnepliktsfrågan, så är det
-          utaf vikt att landets nu församlade ständer, såsom mest kompetenta
-          att bedöma saken, också få taga hand om de senare propositionerna.
-          Jag förenar mig som sagdt med hr Öhman.
+        <note xml:id="i-DduARYqykhKXcubDtTtT17" type="speaker">
+          Hr Ferdinand Jus6lius:
         </note>
-        <note xml:id="i-XEnMDmK4DwNHCv5EsCoz6p">
-          Hr Elving: Till de skäl, som af de föregående ärade talarene
-          blifvit anförda för ständernas rätt att ingå i saklig behandling
-          af de föreliggande betänkandena, ber jag att för min del få
+        <u who="unknown">
+          <seg>
+            Äfven jag är uti den fråga, som nu föreligger, af enahanda åsikt
+            som hr Öhman och ber endast att till de skäl, som de bägge föregående
+            talarene redan framhällit, särskildt hvad hr Öhman har anfört,
+            ytterligare få påpeka några små omständigheter. Man bör härvid
+            fästa afseende vid den i ögonen fallande olikhet, som eger rum
+            emellan de två första propositionerna och de bägge senare. Propositionerna
+            angående ny värnepliktslag och om grunderna för de finska truppernas
+            organisation och förvaltning hänföra sig endast till rent finska
+            angelägenheter. De äro afsedda att tillämpas endast inom landet.
+            De senare propositionerna åter, angående utjämnande af den personella
+            och finansiella värnepliktstungan, påkalla vid sin tillämpning
+            ovilkorligen motsvarande lagstiftningsakter äfven inom kejsaredömet.
+            Man kan nämligen icke tänka sig att finska värnepliktige skulle
+            instickas uti ryska trupper eller att finska miljoner öfverföras
+            till ryska skattkammaren med mindre än att bestämningar i Ryssland
+            förefinnas om mottagandet af hvartdera slaget af dessa prästationer.
+            Det är således icke otänkbart att Hans Majestät vid framläggandet
+            af propositionerna skulle hafva tänkt sig en olika procedyr för
+            den senare gruppen. Detta är en omständighet, som enligt min uppfattning
+            borde tagas i betraktande. Hvad åter uttrycket om de tvänne senare
+            propositionernas oskiljaktliga gemenskap med värnepliktsfrågan
+            vidkommer, så anser jag att man icke har anledning att förstå
+            detta annorlunda än att härigenom motiveras dessa propositioners
+            öfverlämnande i sista stund till landtdagen. Man har, synes mig,
+            härmed velat säga att, då urtima landtdag är sammankallad enkom
+            för värnepliktsfrågan, så är det utaf vikt att landets nu församlade
+            ständer, såsom mest kompetenta att bedöma saken, också få taga
+            hand om de senare propositionerna. Jag förenar mig som sagdt med
+            hr Öhman.
+          </seg>
+        </u>
+        <note xml:id="i-XEnMDmK4DwNHCv5EsCoz6p" type="speaker">
+          Hr Elving:
         </note>
+        <u who="unknown">
+          <seg>
+            Till de skäl, som af de föregående ärade talarene blifvit anförda
+            för ständernas rätt att ingå i saklig behandling af de föreliggande
+            betänkandena, ber jag att för min del få
+          </seg>
+        </u>
         <pb facs="https://swerik-project.github.io/valtiopaivat-records-pdf/1899/prot_1899_borgare_-0063.pdf"/>
         <note xml:id="i-NpvNgh62chXDfuKVziCs4w">
           23 maj. Värnepliktslagen. 61
@@ -3152,14 +3235,19 @@
           förenar jag mig i hr Öhmans yttrande därom att det vore att djupt
           beklaga, om ständerna nu skulle afstå från ärendets sakliga behandling.
         </note>
-        <note xml:id="i-3dPLScobRViggE4hj72LjE">
-          Hr Aejmelaeus: En voi minäkään olla lausumatta laki- ja asevelvollisuusvaliokunnille
-          kiitokset siitä erittäin huolellisesta ja tunnollisesta tvöstä,
-          minkä he ovat tehneet laatiessan mietintönsä säätyjen käsiteltävänä
-          olevasta asevelvollisuutta maassamme koskevasta tärkeästä asiasta,
-          sekä siitä onnistuneesta tuloksesta, mihinkä ne loppuponsissaan
-          ovat tulleet.
+        <note xml:id="i-3dPLScobRViggE4hj72LjE" type="speaker">
+          Hr Aejmelaeus:
         </note>
+        <u who="unknown">
+          <seg>
+            En voi minäkään olla lausumatta laki- ja asevelvollisuusvaliokunnille
+            kiitokset siitä erittäin huolellisesta ja tunnollisesta tvöstä,
+            minkä he ovat tehneet laatiessan mietintönsä säätyjen käsiteltävänä
+            olevasta asevelvollisuutta maassamme koskevasta tärkeästä asiasta,
+            sekä siitä onnistuneesta tuloksesta, mihinkä ne loppuponsissaan
+            ovat tulleet.
+          </seg>
+        </u>
         <note xml:id="i-QnsL9ZMUyP1JaxMvNhmrnE">
           Rohkenen kumminkin huomauttaa erästä kohtaa armollisessa esityksessä,
           sisältävä ehdotuksen uudeksi asevelvollisuuslaiksi. Se on esityksen
@@ -3180,36 +3268,40 @@
           19 artikkelin mainitsemissani kohdissa ehdotettuja asevelvollisten
           yhteiskunnallisia oikeuksia ja velvollisuuksia.
         </note>
-        <note xml:id="i-DH2f6kor9sJqLdbDgUr5fp">
-          Hr Lille: Af nägra uttalanden utaf ätskilliga af de senaste ärade
-          talarene, specielt hr Öhman, som yttrat sig 1 frägans af oss väkta
-          formella del, sluter jag till att dessa talare, ifall de vore
-          Ofvertygade därom att värnepliktslagen komme att behandlas enligt
-          rikslagstiftningsmanifestet och grundstadgandena, dä vore ense
-          med oss om att ständerna icke nu borde ingä i saklig behandling
-          af värnepliktslagen. Frägan huruvida grundstadgandena här komma
-          att tillämpas eller icke blir ju i själfva värket en individuell
-          pröfningsfräga. Men om alla de indirekta bevis, hvilka förefinnas
-          för antagandet att detta skall komma att ske, ledas tillsamman,
-          sä tror jag att icke nägon tvekan uti denna punkt kunde uppstä
-          hos den, som utan förut fattad mening gär till bedömandet af denna
-          sak. Redan dä värnepliktslagspropositionerna lämnades till ständerna,
-          fäste man sig vid att det hette att de öfverlämnas till ständernas
-          utlätande. Dä senaten uppgjorde sitt förslag till värnepliktslagsproposition,
-          ingick uti denna proposition ett uttalande om att densamma i grundlagsenlig
-          ordning borde öfverlämnas till landtdagen. Detta uttalande ströks
-          frän senatens propositionsförslag. Uti de bilagor, som ätfölja
-          värnepliktspropositionerna, säges uttryckligen att detta ärende
-          bör behandlas och anses säsom en rikslagstiftningsfräga. Propositionen
-          om utjämnande af den personella värnepliktstungan afser ju en
-          ändring af $ 7 uti värnepliktspropositionen. När alla dessa omständigheter
-          sammanläggas och dä man slutligen häller sig till ordalydelsen
-          uti ingressen till de senaste propositionerna, sä har man ju endast
-          att draga en logisk slutledning för att komma till den slutsats
-          att värnepliktspropositionerna äfven komma att falla under samma
-          kategori som propositionerna om utjämnandet af den finansiella
-          och personella värnepliktstungan.
+        <note xml:id="i-DH2f6kor9sJqLdbDgUr5fp" type="speaker">
+          Hr Lille:
         </note>
+        <u who="unknown">
+          <seg>
+            Af nägra uttalanden utaf ätskilliga af de senaste ärade talarene,
+            specielt hr Öhman, som yttrat sig 1 frägans af oss väkta formella
+            del, sluter jag till att dessa talare, ifall de vore Ofvertygade
+            därom att värnepliktslagen komme att behandlas enligt rikslagstiftningsmanifestet
+            och grundstadgandena, dä vore ense med oss om att ständerna icke
+            nu borde ingä i saklig behandling af värnepliktslagen. Frägan
+            huruvida grundstadgandena här komma att tillämpas eller icke blir
+            ju i själfva värket en individuell pröfningsfräga. Men om alla
+            de indirekta bevis, hvilka förefinnas för antagandet att detta
+            skall komma att ske, ledas tillsamman, sä tror jag att icke nägon
+            tvekan uti denna punkt kunde uppstä hos den, som utan förut fattad
+            mening gär till bedömandet af denna sak. Redan dä värnepliktslagspropositionerna
+            lämnades till ständerna, fäste man sig vid att det hette att de
+            öfverlämnas till ständernas utlätande. Dä senaten uppgjorde sitt
+            förslag till värnepliktslagsproposition, ingick uti denna proposition
+            ett uttalande om att densamma i grundlagsenlig ordning borde öfverlämnas
+            till landtdagen. Detta uttalande ströks frän senatens propositionsförslag.
+            Uti de bilagor, som ätfölja värnepliktspropositionerna, säges
+            uttryckligen att detta ärende bör behandlas och anses säsom en
+            rikslagstiftningsfräga. Propositionen om utjämnande af den personella
+            värnepliktstungan afser ju en ändring af $ 7 uti värnepliktspropositionen.
+            När alla dessa omständigheter sammanläggas och dä man slutligen
+            häller sig till ordalydelsen uti ingressen till de senaste propositionerna,
+            sä har man ju endast att draga en logisk slutledning för att komma
+            till den slutsats att värnepliktspropositionerna äfven komma att
+            falla under samma kategori som propositionerna om utjämnandet
+            af den finansiella och personella värnepliktstungan.
+          </seg>
+        </u>
         <note xml:id="i-L6iidNC7xAqvdazFHM1JHd">
           Hr Öhman har anmärkt att enligt manifestet och grundstadgandena
           en viss föregäende procedur vore nödvändig för att ärendet kunde
@@ -3296,19 +3388,29 @@
           Niihin muistutuksiin, joita lausuntoa vastaan on tehty, on hra
           Lille jo täydellisesti vastannut.
         </note>
-        <note xml:id="i-Nzp5fGRungQ3LaxMuM3EiJ">
-          Hr Carlström: Äfven jag ber att fä uttala min anslutning till
-          det förslag, som här blifvit framstäldt af hrar Jansson och Lille.
+        <note xml:id="i-Nzp5fGRungQ3LaxMuM3EiJ" type="speaker">
+          Hr Carlström:
         </note>
-        <note xml:id="i-8AsBv5yVSxHmcBksFeWp2c">
-          Hr Appelberg: Min afsikt är icke att ingä i nägon slags kritik
-          af de kejserliga nädiga propositionerna, men kan jag ej underläta
-          att i några punkter belysa de till dessa propositioner bifogade
-          komite-»förklaringarna». Dessa förklaringar äro nämligen sä egendomliga
-          aktstycken, att dylika ännu knappast skådats i den civiliserade
-          världen, särdeles om man betänker att de äro riktade till ett
-          helt folks representativa församling.
+        <u who="unknown">
+          <seg>
+            Äfven jag ber att fä uttala min anslutning till det förslag,
+            som här blifvit framstäldt af hrar Jansson och Lille.
+          </seg>
+        </u>
+        <note xml:id="i-8AsBv5yVSxHmcBksFeWp2c" type="speaker">
+          Hr Appelberg:
         </note>
+        <u who="unknown">
+          <seg>
+            Min afsikt är icke att ingä i nägon slags kritik af de kejserliga
+            nädiga propositionerna, men kan jag ej underläta att i några punkter
+            belysa de till dessa propositioner bifogade komite-»förklaringarna».
+            Dessa förklaringar äro nämligen sä egendomliga aktstycken, att
+            dylika ännu knappast skådats i den civiliserade världen, särdeles
+            om man betänker att de äro riktade till ett helt folks representativa
+            församling.
+          </seg>
+        </u>
         <note xml:id="i-8rUPi7fb2fRX7TXDj1BYZg">
           Det mest i ögonen fallande i dessa förklaringar äro försöken
           att helt och hället negligera eller lätsas glömma bort storfurstendömet
@@ -3494,11 +3596,16 @@
           hvilka staternas säkerhet och folkens välfärd hvila», skola visa
           sig tillräckligt starka att triumfera öfver alla hinder.
         </note>
-        <note xml:id="i-PVXt5MU3ict9SzVEcqP7YY">
-          Hr Berneri: Sen pitkän sivuretken jälkeen, jonka hra Appelberg
-          — arvattavasti omaksi huvikseen, vaan tuskin muitten — on tehnyt,
-          tahdon minä kääntyä takaisin siihen asiaan, joka on
+        <note xml:id="i-PVXt5MU3ict9SzVEcqP7YY" type="speaker">
+          Hr Berneri:
         </note>
+        <u who="unknown">
+          <seg>
+            Sen pitkän sivuretken jälkeen, jonka hra Appelberg — arvattavasti
+            omaksi huvikseen, vaan tuskin muitten — on tehnyt, tahdon minä
+            kääntyä takaisin siihen asiaan, joka on
+          </seg>
+        </u>
         <pb facs="https://swerik-project.github.io/valtiopaivat-records-pdf/1899/prot_1899_borgare_-0070.pdf"/>
         <note xml:id="i-BPjr1qoDRDFx51PqiUt7iD">
           68 Värnepliktslagen. 23 Maj.
@@ -3579,29 +3686,34 @@
           Beträffande $ 1 uti det af utskottet förordade författningsförslaget
           anhöll härå
         </note>
-        <note xml:id="i-RPpqTJobMvD5L5ChCJebUh">
-          hr Schybergson om ordet och yttrade: Redan vid den allmänna diskussionen
-          förbehöll jag mig att få föreslå en mindre redaktionel förändring
-          af denna paragraf. Jag finner mig uti, såsom jag också nämde,
-          att ordet »rike» ingår uti denna paragraf, då jag tager för gifvet
-          att ständerna samtycka till värnepliktsutskottets förslag därom
-          att trupperna eventuelt skola kunna användas utom landets gränser,
-          men jag kan icke fullt förstå, hvarför man talar om »hela det
-          ryska» riket. Enligt svenskt språkbruk kunna vi icke i ett lagförslag
-          tala om hela eller halfva riket, vi tala om riket», som innefattar
-          det ryska riket i dess helhet. Nägot missförständ kan icke ega
-          rum, ifall dessa ord utstrykas, och hvad nu beträffar den omständigheten
-          att, enligt hvad jag privatim hört uppgifvas, något slags öfversättningssvärighet
-          skulle uppstå vid öfverflyttandet af lagtexten till ryska, så
-          må herrar translatorer men icke Finlands ständer klarera detta.
-          Jag förutser dessutom möjligheten af att värnepliktsutskottet,
-          till hvilket jag yrkar återremiss i det af mig framstälda afseendet,
-          skall finna utväg att i motiven förekomma en oriktig öfverflyttning
-          till ryska af detta stadgande. Mitt förslag går således ut på
-          att paragrafen skulle lyda: »för tronens, fäderneslandets och
-          rikets försvar o. s. v.» samt att en återremiss i detta afseende
-          för omredaktion eger rum till värnepliktsutskottet.
+        <note xml:id="i-RPpqTJobMvD5L5ChCJebUh" type="speaker">
+          hr Schybergson om ordet och yttrade:
         </note>
+        <u who="unknown">
+          <seg>
+            Redan vid den allmänna diskussionen förbehöll jag mig att få
+            föreslå en mindre redaktionel förändring af denna paragraf. Jag
+            finner mig uti, såsom jag också nämde, att ordet »rike» ingår
+            uti denna paragraf, då jag tager för gifvet att ständerna samtycka
+            till värnepliktsutskottets förslag därom att trupperna eventuelt
+            skola kunna användas utom landets gränser, men jag kan icke fullt
+            förstå, hvarför man talar om »hela det ryska» riket. Enligt svenskt
+            språkbruk kunna vi icke i ett lagförslag tala om hela eller halfva
+            riket, vi tala om riket», som innefattar det ryska riket i dess
+            helhet. Nägot missförständ kan icke ega rum, ifall dessa ord utstrykas,
+            och hvad nu beträffar den omständigheten att, enligt hvad jag
+            privatim hört uppgifvas, något slags öfversättningssvärighet skulle
+            uppstå vid öfverflyttandet af lagtexten till ryska, så må herrar
+            translatorer men icke Finlands ständer klarera detta. Jag förutser
+            dessutom möjligheten af att värnepliktsutskottet, till hvilket
+            jag yrkar återremiss i det af mig framstälda afseendet, skall
+            finna utväg att i motiven förekomma en oriktig öfverflyttning
+            till ryska af detta stadgande. Mitt förslag går således ut på
+            att paragrafen skulle lyda: »för tronens, fäderneslandets och
+            rikets försvar o. s. v.» samt att en återremiss i detta afseende
+            för omredaktion eger rum till värnepliktsutskottet.
+          </seg>
+        </u>
         <note xml:id="i-8fG4Y8jANFZacyjksbxSDq">
           Hr Stenroth: Minä pyydän lyhyesti saada ilmoittaa että puolestani
           hyväksyn niin hyvin tämän pykälän valiokunnan mietinnössä kuin
@@ -3633,28 +3745,33 @@
           tekee, ja senvuoksi minä vastaiseksi ainakin tahdon ehdottaa mietinnön
           ensimmäisen pykälän hyväksymistä semmoisenaan.
         </note>
-        <note xml:id="i-Cxgm8TS7h1GauyukE7ZuUY">
-          Hr Boisman: För min del hade jag önskat att det uttryckliga erkännandet
-          af skyldigheten att också utom Finland bidraga till rikets försvar
-          icke skulle ingä i tvä skilda paragrafer af lagen, den första
-          och den sista, och jag hade därför hällre sett att 1:sta paragrafen
-          helt enkelt kunnat lyda: » Finsk medborgare är värnepliktig enligt
-          de grunder, som i denna lag stadgas». Dä detta emellertid kunde
-          antagas innebära en saklig ändring af förslaget, vill jag förena
-          mig om utskottets förslag, dock med förbehäll att de af hr Schybergson
-          nämda adjektiven uteslutas säsom fullkomligt obehöfliga. 1 paragrafen
-          talas ju icke om det finska fäderneslandet. Det är öfverflödigt
-          att dä tala om det ryska riket. Själffallet är att finsk medborgare
-          icke kan vara värnepliktig för nägot annat rike. Till det af hr
-          Schybergson gjorda förslaget vill jag ännu foga ett tillägg om
-          uteslutande af ett ytterligare adjektiv. Det är ordet »hvarje»
-          framför »finsk medborgare». Ordet är obehöfligt, kanske t. o.
-          m. inkorrekt. Hvarje finsk medborgare är icke värnepliktig enligt
-          denna lag. Men väl kan man kollektivt begagna uttrycket »finsk
-          medborgare är värnepliktig enligt de grunder, som här stadgas».
-          Mitt förslag är således: återremiss till utskottet i syfte att
-          de tre adjektiven uteslutas.
+        <note xml:id="i-Cxgm8TS7h1GauyukE7ZuUY" type="speaker">
+          Hr Boisman:
         </note>
+        <u who="unknown">
+          <seg>
+            För min del hade jag önskat att det uttryckliga erkännandet af
+            skyldigheten att också utom Finland bidraga till rikets försvar
+            icke skulle ingä i tvä skilda paragrafer af lagen, den första
+            och den sista, och jag hade därför hällre sett att 1:sta paragrafen
+            helt enkelt kunnat lyda: » Finsk medborgare är värnepliktig enligt
+            de grunder, som i denna lag stadgas». Dä detta emellertid kunde
+            antagas innebära en saklig ändring af förslaget, vill jag förena
+            mig om utskottets förslag, dock med förbehäll att de af hr Schybergson
+            nämda adjektiven uteslutas säsom fullkomligt obehöfliga. 1 paragrafen
+            talas ju icke om det finska fäderneslandet. Det är öfverflödigt
+            att dä tala om det ryska riket. Själffallet är att finsk medborgare
+            icke kan vara värnepliktig för nägot annat rike. Till det af hr
+            Schybergson gjorda förslaget vill jag ännu foga ett tillägg om
+            uteslutande af ett ytterligare adjektiv. Det är ordet »hvarje»
+            framför »finsk medborgare». Ordet är obehöfligt, kanske t. o.
+            m. inkorrekt. Hvarje finsk medborgare är icke värnepliktig enligt
+            denna lag. Men väl kan man kollektivt begagna uttrycket »finsk
+            medborgare är värnepliktig enligt de grunder, som här stadgas».
+            Mitt förslag är således: återremiss till utskottet i syfte att
+            de tre adjektiven uteslutas.
+          </seg>
+        </u>
         <note xml:id="i-F9ZasssKDnHoXU81coa7To">
           Hr Emil Holmberg förenade sig om hr Boismans förslag.
         </note>
@@ -3686,17 +3803,26 @@
           ehuru jag personligen icke har något emot hr Schybergsons formulering,
           hvilken utan tvifvel i stilistiskt hänseende är vackrare.
         </note>
-        <note xml:id="i-J6HWEDSkJFHyL4K9EeA7rg">
-          Hr Ferdinand Jusölius: Jag ber endast få gifva tillkänna att
-          jag, ehuru jag godkänner paragrafens innehåll, icke bidragit till
-          dess formella affattning.
+        <note xml:id="i-J6HWEDSkJFHyL4K9EeA7rg" type="speaker">
+          Hr Ferdinand Jusölius:
         </note>
-        <note xml:id="i-58Dr57Jtsh11rhYsc2EXD8">
-          Hr Elving: Kanske det då är nödigt äfven för mig att säga att
-          jag i stället för uttrycket »hela» vid frågans behandling i utskottet
-          föreslagit ett annat ord såsom riktigare, nämligen »det öfriga»,
-          men jag gör härom icke nu något förslag.
+        <u who="unknown">
+          <seg>
+            Jag ber endast få gifva tillkänna att jag, ehuru jag godkänner
+            paragrafens innehåll, icke bidragit till dess formella affattning.
+          </seg>
+        </u>
+        <note xml:id="i-58Dr57Jtsh11rhYsc2EXD8" type="speaker">
+          Hr Elving:
         </note>
+        <u who="unknown">
+          <seg>
+            Kanske det då är nödigt äfven för mig att säga att jag i stället
+            för uttrycket »hela» vid frågans behandling i utskottet föreslagit
+            ett annat ord såsom riktigare, nämligen »det öfriga», men jag
+            gör härom icke nu något förslag.
+          </seg>
+        </u>
         <note xml:id="i-GUnV4RNEKTD5Uv6rR99WVq">
           Sedan diskussionen härå förklarats afslutad, öfverlämnade hr
           talmannen i anledning af de därunder framstälda förslagen till
@@ -3776,20 +3902,25 @@
         <note xml:id="i-DNn4fQpV4NQ4knPELTCTNh">
           Beträffande $ 20 anhöll
         </note>
-        <note xml:id="i-E3QreUYjwFcHmgkYx3Fe32">
-          hr Schybergson om ordet och yttrade: Ehuru mitt yrkande nu icke,
-          säsom i fräga om $ 1, gäller uteslutande form utan ocksä det sakliga
-          innehället i paragrafen, sä tror jag mig dock vara förpliktigad
-          att framställa detsamma. Det gär ut pä att en territorial begränsning
-          i fräga om landtvärnstruppernas användning mätte i paragrafen
-          införas. Jag finner af utskottets motivering pä pag. 42 att äfven
-          utskottets majoritet tagit det för gifvet att de finska landtvärnstrupperna
-          ej borde användas utom eget land, såframt ej synnerliga omständigheter
-          tvinga till en afvikelse därifrån. Det hade varit önskvärdt att
-          denna tanke, som ingår i motiverna utan att dessa ens i denna
-          del fått formen af en kläm, skulle fått sitt uttryck i själfva
-          paragrafen. Jag förstår mycket väl svårigheterna
+        <note xml:id="i-E3QreUYjwFcHmgkYx3Fe32" type="speaker">
+          hr Schybergson om ordet och yttrade:
         </note>
+        <u who="unknown">
+          <seg>
+            Ehuru mitt yrkande nu icke, säsom i fräga om $ 1, gäller uteslutande
+            form utan ocksä det sakliga innehället i paragrafen, sä tror jag
+            mig dock vara förpliktigad att framställa detsamma. Det gär ut
+            pä att en territorial begränsning i fräga om landtvärnstruppernas
+            användning mätte i paragrafen införas. Jag finner af utskottets
+            motivering pä pag. 42 att äfven utskottets majoritet tagit det
+            för gifvet att de finska landtvärnstrupperna ej borde användas
+            utom eget land, såframt ej synnerliga omständigheter tvinga till
+            en afvikelse därifrån. Det hade varit önskvärdt att denna tanke,
+            som ingår i motiverna utan att dessa ens i denna del fått formen
+            af en kläm, skulle fått sitt uttryck i själfva paragrafen. Jag
+            förstår mycket väl svårigheterna
+          </seg>
+        </u>
         <pb facs="https://swerik-project.github.io/valtiopaivat-records-pdf/1899/prot_1899_borgare_-0075.pdf"/>
         <note xml:id="i-86KkHRWr4cfmwVA52XgZ6U">
           23 Maj. Värnepliktslagen. 13
@@ -3819,30 +3950,35 @@
           Hir Öhman, Hallberg, Axel Holmberg, Kumlin och Wasenius understödde
           hr Schybergsons förslag.
         </note>
-        <note xml:id="i-Dy32PD5z16tXEgS44RoLPA">
-          Hr Heikel: En formulering i det.syfte, som af hr Schybergson
-          föreslogs, har nog varit, säsom för ständets medlemmar är kändt,
-          ifrägasatt inom utskottet, men det har varit ytterst svärt att
-          finna uttryck, som icke i praktiken skulle stött pä bestämda svärigheter.
-          Att inskränka de finska landtvärnstruppernas värksamhet blott
-          inom landets gränser kunde icke gä för sig, dels därför att landets
-          monark bor utom landet och det finska landtvärnet jämväl mäste
-          tjäna till ett värn för honom, dels äfven därför att det under
-          krigshändelsernas gång kan blifva nödigt för trupperna att öfverskrida
-          gränsen och man dä, såsom hr Schybergson sade, icke vid gränsen
-          kan säga ät de finska landtvärnstrupperna: »här skola ni stanna
-          och de andra, med hvilka ni stridit tillsamman, fortsätta marschen
-          vidare». Inom utskottet har vidare yrkats och särskildt har jag
-          omfattat den äsikten att formuleringen skulle blifva sädan, att
-          de finska landtvärnsbataljonerna »uppställas till landets och
-          rikshufvudstadens försvar», men mot denna formulering har anmärkts
-          att den ä ena sidan måhända kan vara för trång men ä andra sidan
-          att den är altför vid, ty rikshufvudstadens försvar kan ske längt
-          borta frän dess närmaste omgifning. Vill man införa ett dylikt
-          stadgande i lagen, är jag fortfarande af den mening att det där
-          väl försvarar sin plats, men mähända vore det lämpligt att gifva
-          uttryck ät den tanke, hvilken nu ingår endast i moti-
+        <note xml:id="i-Dy32PD5z16tXEgS44RoLPA" type="speaker">
+          Hr Heikel:
         </note>
+        <u who="unknown">
+          <seg>
+            En formulering i det.syfte, som af hr Schybergson föreslogs,
+            har nog varit, säsom för ständets medlemmar är kändt, ifrägasatt
+            inom utskottet, men det har varit ytterst svärt att finna uttryck,
+            som icke i praktiken skulle stött pä bestämda svärigheter. Att
+            inskränka de finska landtvärnstruppernas värksamhet blott inom
+            landets gränser kunde icke gä för sig, dels därför att landets
+            monark bor utom landet och det finska landtvärnet jämväl mäste
+            tjäna till ett värn för honom, dels äfven därför att det under
+            krigshändelsernas gång kan blifva nödigt för trupperna att öfverskrida
+            gränsen och man dä, såsom hr Schybergson sade, icke vid gränsen
+            kan säga ät de finska landtvärnstrupperna: »här skola ni stanna
+            och de andra, med hvilka ni stridit tillsamman, fortsätta marschen
+            vidare». Inom utskottet har vidare yrkats och särskildt har jag
+            omfattat den äsikten att formuleringen skulle blifva sädan, att
+            de finska landtvärnsbataljonerna »uppställas till landets och
+            rikshufvudstadens försvar», men mot denna formulering har anmärkts
+            att den ä ena sidan måhända kan vara för trång men ä andra sidan
+            att den är altför vid, ty rikshufvudstadens försvar kan ske längt
+            borta frän dess närmaste omgifning. Vill man införa ett dylikt
+            stadgande i lagen, är jag fortfarande af den mening att det där
+            väl försvarar sin plats, men mähända vore det lämpligt att gifva
+            uttryck ät den tanke, hvilken nu ingår endast i moti-
+          </seg>
+        </u>
         <pb facs="https://swerik-project.github.io/valtiopaivat-records-pdf/1899/prot_1899_borgare_-0076.pdf"/>
         <note xml:id="i-4yVV5V5LP73jVNgqpwz5Gn">
           74 Värnepliktslagen. 23 maj.
@@ -3903,102 +4039,126 @@
         <note xml:id="i-6hkX7hcjtqyU1Mcg6wQzS7">
           23 maj. Värnepliktslagen. 75
         </note>
-        <note xml:id="i-MXYxTgk4oYfZ4PKccf7Lpf">
-          Hr Jusölius, Ferd.: Denna bestämning i mom. 3 är fullkomligt
-          lika med den uti nu gällande värnepligtslag, mot hvilken, enligt
-          hvad utskottet haft sig bekant, nägra vägande anmärkningar hittills
-          icke försports. Utskottet har säledes icke egt anledning att uti
-          denna ringa detalj vidtaga nägon ändringsätgärd; och skulle jag
-          för min del tro att ständet gjorde klokast i att icke häller nu
-          vidare beröra denna paragraf. Man har hittills under 20 är redt
-          sig med densamma och reder sig nog ocksä framdeles.
+        <note xml:id="i-MXYxTgk4oYfZ4PKccf7Lpf" type="speaker">
+          Hr Jusölius, Ferd.:
         </note>
-        <note xml:id="i-CgYUuqspyzKhKC93xvRhQf">
-          Hr Heikel: Det förslag, som af hr Söderlund väckts, har varit
-          under diskussion inom utskottet, men man ansäg sig där icke böra
-          omfatta detsamma. Här afses, likasom med denna paragraf tidigare
-          afsetts, att sjömän kunna fä befrielse frän fullgörandet af sin
-          värneplikt icke blott dä de segla pä inhemskt fartyg utan jämväl
-          dä de segla uppä utländskt sädant. Segla de pä utländskt fartyg,
-          torde sjömanshusen i regeln icke kunna lämna nägon bestämd uppgift
-          huruvida de faktiskt fortfarande äro i tjänst eller säsom emigranter
-          vistas i land nägonstädes i utlandet och därför har utskottet
-          föredragit att bibehålla det uttryck, som förekommer i nu gällande
-          lag, eller att de skola förete tjänstekontrakt. Huruvida detta
-          tjänstekontrakt skall vara giltigt eller icke för befrielse från
-          värneplikten tillkommer själffallet uppbådsnämden att närmare
-          pröfva. Det var väl inom utskottet fråga om att ändra bestämningen
-          så, att det skulle fordras intyg af sjömanshusen, och då motivera
-          detta därmed att tjänstekontrakten borde förevisas för sjömanshusen,
-          som sedermera efter pröfning af desamma skulle utfärda intyg åt
-          vederbörande, men det ansågs icke innebära fullständig säkerhet
-          och garanti för att all oväld skulle blifva iakttagen. Sjömanshusdirektionerna
-          torde sammanträda ytterst sällan, ofta nog enligt uppgift icke
-          mera än en eller två gånger om året. Det är därför sjömanshusombudsmannen,
-          som faktiskt fungerar som sjömanshus, och denne skulle då komma
-          att utfärda dessa intyg. Det skulle således komma att bero uteslutande
-          på denne funktionärs pröfning huruvida ett tjänstekontrakt skulle
-          godkännas eller icke, och detta kunde måhända för vederbörande
-          sjömän icke erbjuda fall säkerhet. Man ansåg att större garanti
-          vinnes, ifall tjänstekontrakten pröfvas af uppbådsnämden, hvilken
-          ju alltid, ifall densamma är osäker, kan infordra utlåtande af
-          sjömanshusets ombud eller andra fackmän på detta område. Det var
-          af dessa skäl, som utskottet i tredie momentet icke ville införa
-          samma bestämning som i det första. Där kunde denna bestämning
-          försvara sig, emedan det är ytterst sällsynt att en styrman eller
-          kapten seglar uppå utländskt fartyg, där deras examensintyg icke
-          gälla, utan de få tjäna såsom gemene män. Kaptener och styrmän
-          äro därför i regeln städse inskrifna vid sjömanshus och kunna
-          från sjömanshus få nödigt intyg öfver sin tjänstgöring.
+        <u who="unknown">
+          <seg>
+            Denna bestämning i mom. 3 är fullkomligt lika med den uti nu
+            gällande värnepligtslag, mot hvilken, enligt hvad utskottet haft
+            sig bekant, nägra vägande anmärkningar hittills icke försports.
+            Utskottet har säledes icke egt anledning att uti denna ringa detalj
+            vidtaga nägon ändringsätgärd; och skulle jag för min del tro att
+            ständet gjorde klokast i att icke häller nu vidare beröra denna
+            paragraf. Man har hittills under 20 är redt sig med densamma och
+            reder sig nog ocksä framdeles.
+          </seg>
+        </u>
+        <note xml:id="i-CgYUuqspyzKhKC93xvRhQf" type="speaker">
+          Hr Heikel:
         </note>
+        <u who="unknown">
+          <seg>
+            Det förslag, som af hr Söderlund väckts, har varit under diskussion
+            inom utskottet, men man ansäg sig där icke böra omfatta detsamma.
+            Här afses, likasom med denna paragraf tidigare afsetts, att sjömän
+            kunna fä befrielse frän fullgörandet af sin värneplikt icke blott
+            dä de segla pä inhemskt fartyg utan jämväl dä de segla uppä utländskt
+            sädant. Segla de pä utländskt fartyg, torde sjömanshusen i regeln
+            icke kunna lämna nägon bestämd uppgift huruvida de faktiskt fortfarande
+            äro i tjänst eller säsom emigranter vistas i land nägonstädes
+            i utlandet och därför har utskottet föredragit att bibehålla det
+            uttryck, som förekommer i nu gällande lag, eller att de skola
+            förete tjänstekontrakt. Huruvida detta tjänstekontrakt skall vara
+            giltigt eller icke för befrielse från värneplikten tillkommer
+            själffallet uppbådsnämden att närmare pröfva. Det var väl inom
+            utskottet fråga om att ändra bestämningen så, att det skulle fordras
+            intyg af sjömanshusen, och då motivera detta därmed att tjänstekontrakten
+            borde förevisas för sjömanshusen, som sedermera efter pröfning
+            af desamma skulle utfärda intyg åt vederbörande, men det ansågs
+            icke innebära fullständig säkerhet och garanti för att all oväld
+            skulle blifva iakttagen. Sjömanshusdirektionerna torde sammanträda
+            ytterst sällan, ofta nog enligt uppgift icke mera än en eller
+            två gånger om året. Det är därför sjömanshusombudsmannen, som
+            faktiskt fungerar som sjömanshus, och denne skulle då komma att
+            utfärda dessa intyg. Det skulle således komma att bero uteslutande
+            på denne funktionärs pröfning huruvida ett tjänstekontrakt skulle
+            godkännas eller icke, och detta kunde måhända för vederbörande
+            sjömän icke erbjuda fall säkerhet. Man ansåg att större garanti
+            vinnes, ifall tjänstekontrakten pröfvas af uppbådsnämden, hvilken
+            ju alltid, ifall densamma är osäker, kan infordra utlåtande af
+            sjömanshusets ombud eller andra fackmän på detta område. Det var
+            af dessa skäl, som utskottet i tredie momentet icke ville införa
+            samma bestämning som i det första. Där kunde denna bestämning
+            försvara sig, emedan det är ytterst sällsynt att en styrman eller
+            kapten seglar uppå utländskt fartyg, där deras examensintyg icke
+            gälla, utan de få tjäna såsom gemene män. Kaptener och styrmän
+            äro därför i regeln städse inskrifna vid sjömanshus och kunna
+            från sjömanshus få nödigt intyg öfver sin tjänstgöring.
+          </seg>
+        </u>
         <pb facs="https://swerik-project.github.io/valtiopaivat-records-pdf/1899/prot_1899_borgare_-0078.pdf"/>
         <note xml:id="i-6wNHZrsaaL2a8GACUBp6TR">
           76 Värnepliktslagen. 28 maj.
         </note>
-        <note xml:id="i-VeYPpkZWFs5u1uFZ21TTzt">
-          Hr Burman: Den del af vårt sjöfolk, som tjänstgör ombord på utländskt
-          fartyg, torde i bra många fall hafva tämligen svårt att åstadkomma
-          afskrift utaf några tjänstekontrakt, då sådana tämligen sällan
-          förekomma. Såsom utredningsbevis i afseende å deras tjänstgöring
-          skulle man därför enligt min åsikt böra tänka sig något annat,
-          och förefaller det som om ett intyg af befälhafvare eller konsul
-          skulle vara tillfyllesgörande. Befälhafvare utfärdar ju många
-          intyg, hvilka hafva gällande kraft, och hvarför skulle då icke
-          detta äfven här kunna vara fallet? Jag ber därför att få föreslå
-          ett sådant tillägg till mom. 3, att skeppstjänst å utländskt fartyg
-          styrkes genom intyg af befälhafvare eller konsul.
+        <note xml:id="i-VeYPpkZWFs5u1uFZ21TTzt" type="speaker">
+          Hr Burman:
         </note>
-        <note xml:id="i-3uuDNsKc7xAom8X7RgxrRC">
-          Hr Juselius, Ferd.: Jag tror icke att ett sådant tillägg som
-          det af hr Burman föreslagna är af nöden. Jag är nämligen öfvertygad
-          om att ordet »tjänstekontrakt» icke behöfver tagas sä noga efter
-          ordet, att det nödvändigt måste innebära att ett formelt kontrakt
-          uti flere punkter eller paragrafer borde vara upprättadt. Kommer
-          en sjöman med ett trovärdigt intyg utaf befälhafvare på fartyg,
-          vare sig inhemskt eller utländskt, så torde detta under alla förhållanden
-          gälla såsom tjänstekontrakt, då något särskildt formulär för skriftligt
-          kontrakt eller skriftlig förbindelse icke finnes föreskrifvet.
+        <u who="unknown">
+          <seg>
+            Den del af vårt sjöfolk, som tjänstgör ombord på utländskt fartyg,
+            torde i bra många fall hafva tämligen svårt att åstadkomma afskrift
+            utaf några tjänstekontrakt, då sådana tämligen sällan förekomma.
+            Såsom utredningsbevis i afseende å deras tjänstgöring skulle man
+            därför enligt min åsikt böra tänka sig något annat, och förefaller
+            det som om ett intyg af befälhafvare eller konsul skulle vara
+            tillfyllesgörande. Befälhafvare utfärdar ju många intyg, hvilka
+            hafva gällande kraft, och hvarför skulle då icke detta äfven här
+            kunna vara fallet? Jag ber därför att få föreslå ett sådant tillägg
+            till mom. 3, att skeppstjänst å utländskt fartyg styrkes genom
+            intyg af befälhafvare eller konsul.
+          </seg>
+        </u>
+        <note xml:id="i-3uuDNsKc7xAom8X7RgxrRC" type="speaker">
+          Hr Juselius, Ferd.:
         </note>
+        <u who="unknown">
+          <seg>
+            Jag tror icke att ett sådant tillägg som det af hr Burman föreslagna
+            är af nöden. Jag är nämligen öfvertygad om att ordet »tjänstekontrakt»
+            icke behöfver tagas sä noga efter ordet, att det nödvändigt måste
+            innebära att ett formelt kontrakt uti flere punkter eller paragrafer
+            borde vara upprättadt. Kommer en sjöman med ett trovärdigt intyg
+            utaf befälhafvare på fartyg, vare sig inhemskt eller utländskt,
+            så torde detta under alla förhållanden gälla såsom tjänstekontrakt,
+            då något särskildt formulär för skriftligt kontrakt eller skriftlig
+            förbindelse icke finnes föreskrifvet.
+          </seg>
+        </u>
         <note xml:id="i-FK1rS3XjDKLSh6QXx1k3WV">
           Dessutom tror jag mig veta att sjömän hafva något slags motböcker
           med befälet och jag tänker att t. o. m. en sådan motbok skulle
           kunna utgöra bevis för anställning på fartyg.
         </note>
-        <note xml:id="i-8BZNbDZTfrU5Sh2DC11eLB">
-          Hr Burman: Det är visserligen sant att vanliga s. k. motböcker,
-          isynnerhet bland skandinaviska, sjöfart idkande nationer förekomma,
-          men huruvida detta är fallet med de öfriga nationerna kan jag
-          icke så noga göra reda för, och när det nu i paragrafen uttryckligt
-          säges »tjänstekontrakt», kan man ju icke förvåna sig öfver, om
-          en ung sjöman skulle haka sig fast vid detta bestämda uttryck
-          och icke anse eller kunna ens tänka sig att ett intyg utaf hans
-          befälhafvare då skulle vara tillfyllesgörande. Han kunde då lämna
-          saken åsido, icke passa på vid uppbådet och sålunda komma in bland
-          de förfallolöst uteblifna. Mitt tilläggsförslag innebure en slags
-          anvisning, som i bra många fall bestämdt skulle vara på sin plats.
-          Jag ber ännu att få anhålla om borgareståndets medvärkan till
-          denna ändring.
+        <note xml:id="i-8BZNbDZTfrU5Sh2DC11eLB" type="speaker">
+          Hr Burman:
         </note>
+        <u who="unknown">
+          <seg>
+            Det är visserligen sant att vanliga s. k. motböcker, isynnerhet
+            bland skandinaviska, sjöfart idkande nationer förekomma, men huruvida
+            detta är fallet med de öfriga nationerna kan jag icke så noga
+            göra reda för, och när det nu i paragrafen uttryckligt säges »tjänstekontrakt»,
+            kan man ju icke förvåna sig öfver, om en ung sjöman skulle haka
+            sig fast vid detta bestämda uttryck och icke anse eller kunna
+            ens tänka sig att ett intyg utaf hans befälhafvare då skulle vara
+            tillfyllesgörande. Han kunde då lämna saken åsido, icke passa
+            på vid uppbådet och sålunda komma in bland de förfallolöst uteblifna.
+            Mitt tilläggsförslag innebure en slags anvisning, som i bra många
+            fall bestämdt skulle vara på sin plats. Jag ber ännu att få anhålla
+            om borgareståndets medvärkan till denna ändring.
+          </seg>
+        </u>
         <note xml:id="i-CSuttJ5J3UQrXBH5WM3spo">
           Hr Söderlund anhöll att, då hans förslag icke vunnit understöd,
           få afstå från detsamma.
@@ -4101,22 +4261,27 @@
         <note xml:id="i-7xYxXRhd8kDQ7HuYtfRtRn">
           Angäende &amp; 121 begärdes ordet af
         </note>
-        <note xml:id="i-FRJDHoBQpHEod2bLvPau6E">
-          hr Hallberg, som yttrade: Jag har icke begärt ordet för att göra
-          nägot som hälst yrkande beträffande paragrafens innehäll eller
-          affattning i öfrigt, men dä värnepliktsutskottets betänkande ätföljts
-          af en reservation, afgifyen af de representanter, som bondeständet
-          insatt i värnepliktsutskottet, anser jag att den reservation dessa
-          utskottsmedlemmar afgifvit icke kan helt och hället förbises af
-          de öfriga stånden. Reservanterna framhålla att redan nu en känbar
-          brist pä arbetskrafter räder för jordbruket och emotse att denna
-          brist pä arbetskrafter skall blifva än känbarare, dä ett större
-          antal armar undandrages det produktiva arbetet. Det, som gäller
-          för jordbruket, gäller ocksä för handtvärket och industrin. Det
-          framåtskridande, som vi här i landet nått pä det ekonomiska gebitet,
-          har icke skänkts oss utan vidare af en gifmild natur. Ett ytterst
-          intensivt arbete har erfordrats för att under ofta yttre svä-
+        <note xml:id="i-FRJDHoBQpHEod2bLvPau6E" type="speaker">
+          hr Hallberg, som yttrade:
         </note>
+        <u who="unknown">
+          <seg>
+            Jag har icke begärt ordet för att göra nägot som hälst yrkande
+            beträffande paragrafens innehäll eller affattning i öfrigt, men
+            dä värnepliktsutskottets betänkande ätföljts af en reservation,
+            afgifyen af de representanter, som bondeständet insatt i värnepliktsutskottet,
+            anser jag att den reservation dessa utskottsmedlemmar afgifvit
+            icke kan helt och hället förbises af de öfriga stånden. Reservanterna
+            framhålla att redan nu en känbar brist pä arbetskrafter räder
+            för jordbruket och emotse att denna brist pä arbetskrafter skall
+            blifva än känbarare, dä ett större antal armar undandrages det
+            produktiva arbetet. Det, som gäller för jordbruket, gäller ocksä
+            för handtvärket och industrin. Det framåtskridande, som vi här
+            i landet nått pä det ekonomiska gebitet, har icke skänkts oss
+            utan vidare af en gifmild natur. Ett ytterst intensivt arbete
+            har erfordrats för att under ofta yttre svä-
+          </seg>
+        </u>
         <pb facs="https://swerik-project.github.io/valtiopaivat-records-pdf/1899/prot_1899_borgare_-0081.pdf"/>
         <note xml:id="i-FuVyhuDXCaz9MczeJCSRoF">
           28 maj. Värnepliktslagen. 79
@@ -4228,51 +4393,56 @@
         <note xml:id="i-Fxb45ZMxMjt1aJuT4Cx3vn">
           23 maj. Värnepliktslagen. 81
         </note>
-        <note xml:id="i-4VrzeUGFEwbh4Y5NmTpudj">
-          Hr Wegelius: Det är sannerligen icke med lätt mod, som värnepliktsutskottet
-          tillstyrkt en så betydande höjning af fredsnumerären. Att de militära
-          bördorna i vårt land hafva i jämförelse med enahanda bördor i
-          andra länder stält sig lindriga är visserligen fallet, men ett
-          beslut om ökning af desamma till det dubbla är ju, äfven om ökningen
-          fördelas på längre tidrymd, en företeelse af tämmeligen enastående
-          natur. De uppoffringar, som uppställandet af ökad militär kräfver,
-          äro icke blott uppoffringar af penningar och uppoffringar af armar,
-          som ryckas frän en produktiv värksamhet. Jag behöfver sä mycket
-          mindre ingä pä innebörden och bärvidden af ett lands uppoffringar
-          för de militära rustningarna. som alt detta sä vältaligt utlagts
-          uti det fredsmanifest, som vär kejsare riktat till världen. —
-          Och dock har utskottet efter moget öfvervägande icke ansett sig
-          kunna annat än framställa föreliggande förslag. Det har synts
-          utskottet att nu, dä det gäller en revision af värnepliktslagen
-          sedan 20 är förflutit efter dess antagande och det gäller att
-          härvid fastställa en den högsta fredsnumerär, till hvilken eventuelt
-          trupperna finge uppbringas under en sävidt möjligt öfverskädlig
-          tid framät, hänsyn borde tagas till ökad folkmängd och ökade ressurser,
-          hänsyn borde tagas jämväl därtill att icke mot vär representation
-          mä kunna framställas den beskyllning att Finlands folk icke vill
-          bära hvad i detta afseende af detsamma kan skäligen fordras. Denna
-          bestämning, som ingår i lagen, afser för öfrigt endast en maximigräns.
-          Vid bestämmandet af densamma har utskottet närmast utgätt frän
-          den synpunkt att den nuvarande fredsstyrkan mä kunna fördubblas,
-          hvarjämte utskottet sökt bereda möjlighet att därutöfver, i syfte
-          att förstärka reserven,inkalla öfverkomplett manskap, som efter
-          en kortare tjänstgöring skulle hemförlofvas. Utskottet, som konfererat
-          med statsutskottet, har vid beräkningen af möjligheten för landet
-          att ställa upp en sädan styrka, naturligtvis icke kunnat annat
-          än approximativt beräkna denna möjlighet, det har härvid vidare
-          icke kunnat annat än ställa sig pä basen utaf det jämna fortskridande,
-          som under den förgängna tiden i landet gjort sig gällande. Skulle
-          nu detta fortskridande blifva hämmtadt, skulle vi sälunda komma
-          att stä mot en situation, dä man finner att uppställandet af fullt
-          denna numerär skulle blifva vårt folk Ofvermäktigt, sä finnes
-          det ju möjlighet att vid det succossiva genomförandet af ökningen
-          taga hänsyn till dessa förhällanden. Det naturliga är väl att
-          för en landtdagsperiod i sänder beräkningar, som dä kunna stöda
-          sig pä säkra fakta, och förslag framläggas om hvilken ökning af
-          de stäende trupperna under den närmaste perioden kan komma till
-          utförande. Det är pä de anförda skälen, som utskottet ansett sig
-          kunna tillstyrka att i lagen införa ett sädant stadgande.
+        <note xml:id="i-4VrzeUGFEwbh4Y5NmTpudj" type="speaker">
+          Hr Wegelius:
         </note>
+        <u who="unknown">
+          <seg>
+            Det är sannerligen icke med lätt mod, som värnepliktsutskottet
+            tillstyrkt en så betydande höjning af fredsnumerären. Att de militära
+            bördorna i vårt land hafva i jämförelse med enahanda bördor i
+            andra länder stält sig lindriga är visserligen fallet, men ett
+            beslut om ökning af desamma till det dubbla är ju, äfven om ökningen
+            fördelas på längre tidrymd, en företeelse af tämmeligen enastående
+            natur. De uppoffringar, som uppställandet af ökad militär kräfver,
+            äro icke blott uppoffringar af penningar och uppoffringar af armar,
+            som ryckas frän en produktiv värksamhet. Jag behöfver sä mycket
+            mindre ingä pä innebörden och bärvidden af ett lands uppoffringar
+            för de militära rustningarna. som alt detta sä vältaligt utlagts
+            uti det fredsmanifest, som vär kejsare riktat till världen. —
+            Och dock har utskottet efter moget öfvervägande icke ansett sig
+            kunna annat än framställa föreliggande förslag. Det har synts
+            utskottet att nu, dä det gäller en revision af värnepliktslagen
+            sedan 20 är förflutit efter dess antagande och det gäller att
+            härvid fastställa en den högsta fredsnumerär, till hvilken eventuelt
+            trupperna finge uppbringas under en sävidt möjligt öfverskädlig
+            tid framät, hänsyn borde tagas till ökad folkmängd och ökade ressurser,
+            hänsyn borde tagas jämväl därtill att icke mot vär representation
+            mä kunna framställas den beskyllning att Finlands folk icke vill
+            bära hvad i detta afseende af detsamma kan skäligen fordras. Denna
+            bestämning, som ingår i lagen, afser för öfrigt endast en maximigräns.
+            Vid bestämmandet af densamma har utskottet närmast utgätt frän
+            den synpunkt att den nuvarande fredsstyrkan mä kunna fördubblas,
+            hvarjämte utskottet sökt bereda möjlighet att därutöfver, i syfte
+            att förstärka reserven,inkalla öfverkomplett manskap, som efter
+            en kortare tjänstgöring skulle hemförlofvas. Utskottet, som konfererat
+            med statsutskottet, har vid beräkningen af möjligheten för landet
+            att ställa upp en sädan styrka, naturligtvis icke kunnat annat
+            än approximativt beräkna denna möjlighet, det har härvid vidare
+            icke kunnat annat än ställa sig pä basen utaf det jämna fortskridande,
+            som under den förgängna tiden i landet gjort sig gällande. Skulle
+            nu detta fortskridande blifva hämmtadt, skulle vi sälunda komma
+            att stä mot en situation, dä man finner att uppställandet af fullt
+            denna numerär skulle blifva vårt folk Ofvermäktigt, sä finnes
+            det ju möjlighet att vid det succossiva genomförandet af ökningen
+            taga hänsyn till dessa förhällanden. Det naturliga är väl att
+            för en landtdagsperiod i sänder beräkningar, som dä kunna stöda
+            sig pä säkra fakta, och förslag framläggas om hvilken ökning af
+            de stäende trupperna under den närmaste perioden kan komma till
+            utförande. Det är pä de anförda skälen, som utskottet ansett sig
+            kunna tillstyrka att i lagen införa ett sädant stadgande.
+          </seg>
+        </u>
         <note xml:id="i-9HBg5DvV4ZJXngi2k6ewpF">
           Diskussionen förklarades härmed afslutad, hvarefter hr talmannen
           till ständets besvarande framstälde följande omröstningsproposition:
@@ -4298,25 +4468,29 @@
         <note xml:id="i-ENJwfoeqc6aXx3Pi1iGcLB">
           &amp; 122 antogs utan diskussion. I anledning af $ 123 anhöll
         </note>
-        <note xml:id="i-2JDqCcUAvLV8oxJWw1AUwc">
-          hr Boisman om ordet och yttrade: I denna paragraf stadgas att
-          de finska trupperna kunna kallas att jämväl utom landet medvärka
-          till rikets försvar, då de icke äro behöfliga vid försvarsåtgärder
-          i Finland. Denna formulering kunde möjligen vantolkas så, att
-          man skulle förneka att de finska trupperna äro behöfliga för landets
-          försvar, ehuru försvarsåtgärder här erfordras, eller med andra
-          ord, hit skulle placeras andra trupper och de finska trupperna
-          föras utom landets gränser. Då hufvudvikten torde ligga därpå
-          att, om försvarsåtgärder här erfordras, det är de finska trupperna,
-          som framför andra böra vid försvaret användas, tillåter jag mig
-          föreslå ungefär följande ändrade formulering af paragrafen: »Under
-          krigstid användas de finska trupperna företrädesvis vid försvarsåtgärder
-          i Finland, men kunna, då sådana icke äro behöfliga, kallas att
-          jämväl utom landet medvärka vid rikets försvar». I händelse det
-          af mig framstälda förslaget skulle omfattas af ständet, bör själffallet
-          paragrafen återremitteras till värnepliktsutskottet för omredigering
-          i i det af mig framhällna syftet.
+        <note xml:id="i-2JDqCcUAvLV8oxJWw1AUwc" type="speaker">
+          hr Boisman om ordet och yttrade:
         </note>
+        <u who="unknown">
+          <seg>
+            I denna paragraf stadgas att de finska trupperna kunna kallas
+            att jämväl utom landet medvärka till rikets försvar, då de icke
+            äro behöfliga vid försvarsåtgärder i Finland. Denna formulering
+            kunde möjligen vantolkas så, att man skulle förneka att de finska
+            trupperna äro behöfliga för landets försvar, ehuru försvarsåtgärder
+            här erfordras, eller med andra ord, hit skulle placeras andra
+            trupper och de finska trupperna föras utom landets gränser. Då
+            hufvudvikten torde ligga därpå att, om försvarsåtgärder här erfordras,
+            det är de finska trupperna, som framför andra böra vid försvaret
+            användas, tillåter jag mig föreslå ungefär följande ändrade formulering
+            af paragrafen: »Under krigstid användas de finska trupperna företrädesvis
+            vid försvarsåtgärder i Finland, men kunna, då sådana icke äro
+            behöfliga, kallas att jämväl utom landet medvärka vid rikets försvar».
+            I händelse det af mig framstälda förslaget skulle omfattas af
+            ständet, bör själffallet paragrafen återremitteras till värnepliktsutskottet
+            för omredigering i i det af mig framhällna syftet.
+          </seg>
+        </u>
         <note xml:id="i-6Cxgn2KSTFSgVFKvqRX261">
           Hr Kyander: Puolestani hyväksyen valiokunnan perustelun tämän
           pykälän suhteen, tahdon yhtyä hra Boismanin ehdotukseen, jotta
@@ -4324,18 +4498,22 @@
           ja perustelua, ja epäselvyyden välttämiseksi kannatan niinmuodoin
           hra Boismanin ehdotusta.
         </note>
-        <note xml:id="i-2r1r6aTRnass2REYCwdj7F">
-          Hr Schybergson: Det är utan tvifvel en riktig tanke, som ligger
-          till grund för den nu ifrägavarande formuleringen af paragrafen,
-          den tanke nämligen att de finska trupperna, om de behöfvas för
-          försvaret här hemma, icke mä tagas härifrän och andra placeras
-          i deras 'ställe. Men likasom de föregäende talarena skulle äfven
-          jag finna att man icke lyckats ätergifva tanken fullt klart och
-          fullt otvetydigt. Det är ett mycket bättre uttryck, som förefinnes
-          i motiveringen, dä det heter: »de finska trupperna böra användas
-          inom eget land, säframt angrepp pä finskt omräde äfven emotses».
-          Jag
+        <note xml:id="i-2r1r6aTRnass2REYCwdj7F" type="speaker">
+          Hr Schybergson:
         </note>
+        <u who="unknown">
+          <seg>
+            Det är utan tvifvel en riktig tanke, som ligger till grund för
+            den nu ifrägavarande formuleringen af paragrafen, den tanke nämligen
+            att de finska trupperna, om de behöfvas för försvaret här hemma,
+            icke mä tagas härifrän och andra placeras i deras 'ställe. Men
+            likasom de föregäende talarena skulle äfven jag finna att man
+            icke lyckats ätergifva tanken fullt klart och fullt otvetydigt.
+            Det är ett mycket bättre uttryck, som förefinnes i motiveringen,
+            dä det heter: »de finska trupperna böra användas inom eget land,
+            säframt angrepp pä finskt omräde äfven emotses». Jag
+          </seg>
+        </u>
         <pb facs="https://swerik-project.github.io/valtiopaivat-records-pdf/1899/prot_1899_borgare_-0085.pdf"/>
         <note xml:id="i-XAX8zCY795CR6tpb2e9PvG">
           23 maj. Värnepliktslagen. 83
@@ -4436,20 +4614,25 @@
           grund af tidigare stadganden omedelbart inskrifvits i reserven,
           anhöll
         </note>
-        <note xml:id="i-Qb2AJVmo2bNujQwV4JVMEH">
-          hr Schybergson om ordet och yttrade: På sid. 121 i utskottets
-          betänkande framhåller utskottet att de grundlagsparagrafer, hvilka
-          återfinnas i ändringsförslaget, om ock med delvis modifieradt
-          innehåll, enligt utskottets förmenande utan vidare skulle komma
-          att bibehålla sin grundlagsnatur. Jag vill icke med bestämdhet
-          hålla på en uppfattning, som är motsatt utskottets, men då dessa
-          paragrafers grundlagsnatur varit föremål för en utomordentlig
-          uppmärksamhet från de ryska komitéernas sida, så synes det mig
-          vara försiktigast att ståndet, innan det skrider till afgörande
-          af frågan, inhämtar lagutskottets yttrande huruvida någon särskild
-          åtgärd från ständernas sida vore behöflig och i motsatt fall,
-          hvilken åtgärd af lagutskottet förordas. Jag har begärt ordet
+        <note xml:id="i-Qb2AJVmo2bNujQwV4JVMEH" type="speaker">
+          hr Schybergson om ordet och yttrade:
         </note>
+        <u who="unknown">
+          <seg>
+            På sid. 121 i utskottets betänkande framhåller utskottet att
+            de grundlagsparagrafer, hvilka återfinnas i ändringsförslaget,
+            om ock med delvis modifieradt innehåll, enligt utskottets förmenande
+            utan vidare skulle komma att bibehålla sin grundlagsnatur. Jag
+            vill icke med bestämdhet hålla på en uppfattning, som är motsatt
+            utskottets, men då dessa paragrafers grundlagsnatur varit föremål
+            för en utomordentlig uppmärksamhet från de ryska komitéernas sida,
+            så synes det mig vara försiktigast att ståndet, innan det skrider
+            till afgörande af frågan, inhämtar lagutskottets yttrande huruvida
+            någon särskild åtgärd från ständernas sida vore behöflig och i
+            motsatt fall, hvilken åtgärd af lagutskottet förordas. Jag har
+            begärt ordet
+          </seg>
+        </u>
         <pb facs="https://swerik-project.github.io/valtiopaivat-records-pdf/1899/prot_1899_borgare_-0087.pdf"/>
         <note xml:id="i-WDWop9bXczqidX2aYz6AWE">
           28 maj. Värnepliktslagen. 85
@@ -4477,32 +4660,37 @@
           hr Schybergsons ofvanberörda yrkande upptogs till behandling,
           anhöll
         </note>
-        <note xml:id="i-LPKujTHqpnN7X5XuZxjLTp">
-          hr Jusélius, Ferd., om ordet och yttrade: Inom värnepliktsutskottet
-          var äfven fråga om att någon särskild bestämning möjligen borde
-          i författningen inryckas, antingen i ingressen eller i öfvergångsstadgandet,
-          angående den fortfarande giltigheten af de grundlagsbud, som af
-          ändringarna beröras; men utskottet frångick dock förslaget härom
-          af den anledning, som framhälles i utskottsbetänkandet på sid.
-          120, där det heter: »I 8 4 har utskottet visferligen föreslagit
-          upptagande af tvänne nya moment. Men då dessa moment icke utvidgat
-          lagens innehåll, utan endast, af nu förekommen särskild anledning,
-          uttryckligen uttala principer, hvilka redan förut obestridligen
-          inneburits i såväl $ 4 som andra grundlagsstadganden i samma lag,
-          kan ej häller $ 4 genom berörda tillägg förlora sin egenskap af
-          grundlag». Utskottet ansäg säledes att, emedan värklig ändring
-          af nägon grundlagsparagraf ej eger rum, icke vidare än ett uttalande
-          af den art, som förekommer pä sid. 121, skulle erfordras. Utskottet
-          hade härvid stöd af den omständigheten att, dä ständerna vid 1888
-          ärs landtdag ändrade $ 121, som ocksä är af grundlagsnatur, sälunda
-          att fredsnumerären ökades från 5,000 till 5,600 man, något vidare
-          icke i ständernas svar förekom angäende grundlagsegenskapen hos
-          denna paragraf än att ständerna i slutet af svaret före lagtexten
-          uttalade att paragrafen i sin förändrade lydelse jämväl fortfarande
-          egde hälgd af grundlag. För min del har jag dock ingenting emot
-          att hr Schybergsons förslag godkännes och att förty lagutskottets
-          yttrande inhämtas i frägan, som nog är af stor vikt.
+        <note xml:id="i-LPKujTHqpnN7X5XuZxjLTp" type="speaker">
+          hr Jusélius, Ferd., om ordet och yttrade:
         </note>
+        <u who="unknown">
+          <seg>
+            Inom värnepliktsutskottet var äfven fråga om att någon särskild
+            bestämning möjligen borde i författningen inryckas, antingen i
+            ingressen eller i öfvergångsstadgandet, angående den fortfarande
+            giltigheten af de grundlagsbud, som af ändringarna beröras; men
+            utskottet frångick dock förslaget härom af den anledning, som
+            framhälles i utskottsbetänkandet på sid. 120, där det heter: »I
+            8 4 har utskottet visferligen föreslagit upptagande af tvänne
+            nya moment. Men då dessa moment icke utvidgat lagens innehåll,
+            utan endast, af nu förekommen särskild anledning, uttryckligen
+            uttala principer, hvilka redan förut obestridligen inneburits
+            i såväl $ 4 som andra grundlagsstadganden i samma lag, kan ej
+            häller $ 4 genom berörda tillägg förlora sin egenskap af grundlag».
+            Utskottet ansäg säledes att, emedan värklig ändring af nägon grundlagsparagraf
+            ej eger rum, icke vidare än ett uttalande af den art, som förekommer
+            pä sid. 121, skulle erfordras. Utskottet hade härvid stöd af den
+            omständigheten att, dä ständerna vid 1888 ärs landtdag ändrade
+            $ 121, som ocksä är af grundlagsnatur, sälunda att fredsnumerären
+            ökades från 5,000 till 5,600 man, något vidare icke i ständernas
+            svar förekom angäende grundlagsegenskapen hos denna paragraf än
+            att ständerna i slutet af svaret före lagtexten uttalade att paragrafen
+            i sin förändrade lydelse jämväl fortfarande egde hälgd af grundlag.
+            För min del har jag dock ingenting emot att hr Schybergsons förslag
+            godkännes och att förty lagutskottets yttrande inhämtas i frägan,
+            som nog är af stor vikt.
+          </seg>
+        </u>
         <pb facs="https://swerik-project.github.io/valtiopaivat-records-pdf/1899/prot_1899_borgare_-0088.pdf"/>
         <note xml:id="i-6hQ44qDm6oiKLxqL79tr51">
           86 Värnepliktslagen.
@@ -4510,11 +4698,16 @@
         <note xml:id="i-8MzBPuhLCyWNzJgG9t8v5L">
           23 maj.
         </note>
-        <note xml:id="i-2sFSmJamAbkqf6p2BTCpeR">
-          Hr Schybergson: Jag skulle be om att till mitt förslag få göra
-          ett tillägg, nämligen att öfriga stånd genom protokollsutdrag
-          skulle inbjudas att förena sig om borgareståndets beslut.
+        <note xml:id="i-2sFSmJamAbkqf6p2BTCpeR" type="speaker">
+          Hr Schybergson:
         </note>
+        <u who="unknown">
+          <seg>
+            Jag skulle be om att till mitt förslag få göra ett tillägg, nämligen
+            att öfriga stånd genom protokollsutdrag skulle inbjudas att förena
+            sig om borgareståndets beslut.
+          </seg>
+        </u>
         <note xml:id="i-TxPChoWCssSxRVYrig4sUd">
           Hr J. A. Pelkonen: Asian suureen tärkeyteen nähden on minustakin
           hyvä että asiassa päästään aivan selville, niin ettei jää minkäänlaista
@@ -4660,15 +4853,19 @@
           På lagutskottets vägnar: Robert Hermanson. Erik Ehrström. Efter
           uppläsandet häraf anhöll
         </note>
-        <note xml:id="i-6T8X3ej3LgXV6FQpYvM1AM">
-          hr Sundvall om ordet och yttrade: Jag har blifvit upplyst om
-          att, ifall klämmen skulle komma att lyda såsom jag föreslagit,
-          icke en bokstaf skulle kunna ändras, då denna afdelning refereras
-          uti ständernas svar, och finner jag därför att jag måste frångå
-          mitt förslag, men gör det under den förhoppning att denna afdelning
-          så vidlyftigt som möjligt måtte komma att intagas i ständernas
-          svar.
+        <note xml:id="i-6T8X3ej3LgXV6FQpYvM1AM" type="speaker">
+          hr Sundvall om ordet och yttrade:
         </note>
+        <u who="unknown">
+          <seg>
+            Jag har blifvit upplyst om att, ifall klämmen skulle komma att
+            lyda såsom jag föreslagit, icke en bokstaf skulle kunna ändras,
+            då denna afdelning refereras uti ständernas svar, och finner jag
+            därför att jag måste frångå mitt förslag, men gör det under den
+            förhoppning att denna afdelning så vidlyftigt som möjligt måtte
+            komma att intagas i ständernas svar.
+          </seg>
+        </u>
         <pb facs="https://swerik-project.github.io/valtiopaivat-records-pdf/1899/prot_1899_borgare_-0091.pdf"/>
         <note xml:id="i-EdJFe58SVo6ZoKrEH6ZK5L">
           28 maj. Värnepliktslagen. 89
@@ -4689,26 +4886,40 @@
         <note xml:id="i-39GWqe9VE9dDfqTZufoYHk">
           Ordet begärdes härå af
         </note>
-        <note xml:id="i-SLUY9NJT43xfBXnbfAscwf">
-          hr Berneri, som yttrade: Sen päätöksen johdosta, jonka sääty
-          aamupuolella teki asevelvollisuuslain 2 &amp;:n suhteen, on tietysti,
-          ja minun muistuttamattanikin, huomattava että mitä lakivaliokunta
-          mietintönsä 142 ja 143 sivuilla lausuu, se ei enään pidä paikkaansa
-          säätyjen vastauksessa.
+        <note xml:id="i-SLUY9NJT43xfBXnbfAscwf" type="speaker">
+          hr Berneri, som yttrade:
         </note>
-        <note xml:id="i-QUhJF1AKTVBn59wfXqYeXR">
-          Hr Heikel: Jag anhäller att det i protokollet mätte antecknas
-          att borgareständet enhälligt antagit värnepliktsutskottets kläm
-          i dess betänkande pag. 161 och säledes ocksä utan meningsskiljaktighet
-          därmed antagit samtliga lagutskottets klämmar i slutet af afdelningen
-          III &amp; pagg. 109—111 af detta utskotts betänkande.
+        <u who="unknown">
+          <seg>
+            Sen päätöksen johdosta, jonka sääty aamupuolella teki asevelvollisuuslain
+            2 &amp;:n suhteen, on tietysti, ja minun muistuttamattanikin, huomattava
+            että mitä lakivaliokunta mietintönsä 142 ja 143 sivuilla lausuu,
+            se ei enään pidä paikkaansa säätyjen vastauksessa.
+          </seg>
+        </u>
+        <note xml:id="i-QUhJF1AKTVBn59wfXqYeXR" type="speaker">
+          Hr Heikel:
         </note>
-        <note xml:id="i-4LaZxXu7wevrmz4oSf7hWb">
-          Hr Boisman: Jag tilläter mig vördsamt föreslä uttryckligt beslut
-          därom att lagutskottets betänkande i dess helhet godkännes med
-          de modifikationer, som tilläfventyrs kunna päkallas af värnepliktsutskottets
-          förslag i de delar det nu af borgareständet blifvit antaget.
+        <u who="unknown">
+          <seg>
+            Jag anhäller att det i protokollet mätte antecknas att borgareständet
+            enhälligt antagit värnepliktsutskottets kläm i dess betänkande
+            pag. 161 och säledes ocksä utan meningsskiljaktighet därmed antagit
+            samtliga lagutskottets klämmar i slutet af afdelningen III &amp; pagg.
+            109—111 af detta utskotts betänkande.
+          </seg>
+        </u>
+        <note xml:id="i-4LaZxXu7wevrmz4oSf7hWb" type="speaker">
+          Hr Boisman:
         </note>
+        <u who="unknown">
+          <seg>
+            Jag tilläter mig vördsamt föreslä uttryckligt beslut därom att
+            lagutskottets betänkande i dess helhet godkännes med de modifikationer,
+            som tilläfventyrs kunna päkallas af värnepliktsutskottets förslag
+            i de delar det nu af borgareständet blifvit antaget.
+          </seg>
+        </u>
         <note xml:id="i-6xs2czqKuSZ2ZbmHm6gzjS">
           Hr Schybergson: Det gär icke att godkänna ett betänkande i dess
           helhet. Vi mäste votera om de klämmar eller de kursiverade delar,
@@ -4716,10 +4927,15 @@
           besluta ett godkännande af motiverna med mer eller mindre obestämda
           undantag.
         </note>
-        <note xml:id="i-CYDjhi7WG2Sdcp7KU6GX17">
-          Hr Heikel: Jag ber att få uttala att jag i alla hänseenden delar
-          den uppfattning, som senast uttalats af hr Schybergson,
+        <note xml:id="i-CYDjhi7WG2Sdcp7KU6GX17" type="speaker">
+          Hr Heikel:
         </note>
+        <u who="unknown">
+          <seg>
+            Jag ber att få uttala att jag i alla hänseenden delar den uppfattning,
+            som senast uttalats af hr Schybergson,
+          </seg>
+        </u>
         <pb facs="https://swerik-project.github.io/valtiopaivat-records-pdf/1899/prot_1899_borgare_-0092.pdf"/>
         <note xml:id="i-8fA2wsodz4DtmCwwNhsd4w">
           90 Värnepliktslagen. 23 maj.
@@ -4730,16 +4946,20 @@
           icke hade någonting att erinra i afseende å lagutskottets betänkande
           i öfrigt.
         </note>
-        <note xml:id="i-PWNhergkcP8mQz7wYfjUwG">
-          Hr Stigzelius: Jag ber att få förena mig om hr Heikels yttrande.
-          Detta innebär i sak ungefär detsamma, som hr Boisman yttrade,
-          men i en lämpligare form, och utesluter möjligheten att något
-          missförstånd kunde komma att ega rum. Då nämligen lagutskottets
-          betänkande rörande några positiva förslag skiljer sig från värnepliktsutskottets
-          betänkande, kan lagutskottets betänkande i dess helhet svårligen
-          godkännas, enär ständerna ju redan godkänt värnepliktsutskottets
-          förslag.
+        <note xml:id="i-PWNhergkcP8mQz7wYfjUwG" type="speaker">
+          Hr Stigzelius:
         </note>
+        <u who="unknown">
+          <seg>
+            Jag ber att få förena mig om hr Heikels yttrande. Detta innebär
+            i sak ungefär detsamma, som hr Boisman yttrade, men i en lämpligare
+            form, och utesluter möjligheten att något missförstånd kunde komma
+            att ega rum. Då nämligen lagutskottets betänkande rörande några
+            positiva förslag skiljer sig från värnepliktsutskottets betänkande,
+            kan lagutskottets betänkande i dess helhet svårligen godkännas,
+            enär ständerna ju redan godkänt värnepliktsutskottets förslag.
+          </seg>
+        </u>
         <note xml:id="i-66rLW9ZAnUaTrb9jtQdjem">
           Diskussionen förklarades härå afslutad, hvarefter hr talmannen
           framstälde till ståndets besvarande följande omröstningsproposition:
@@ -5277,15 +5497,19 @@
         <note xml:id="i-TBF7gXNtTf6r6m5RETSZ6h">
           27 maj. Värnepliktslagen. 103
         </note>
-        <note xml:id="i-BcgGyU52m9EFPWfxitnomn">
-          hr Stenroth om ordet, och yttrade: Minä pyysin puheenvuoroa sen
-          johdosta että, jos minä kuulin oikein, hra puhemies ei nimenomaan
-          kysynyt säädyltä, luopuuko sääty 20 &amp;:n suhteen ennen tekemästään
-          päätöksestään. Eiköhän kuulune asiaan, sittekun sääty on hyväksynyt
-          123 S:lle sen muodostuksen, jonka valiokunta esillä olevassa yhteensovitusehdotuksessa
-          ehdottaa, että sääty luopuu ennen tekemästään päätöksestä 20 $:n
-          suhteen?
+        <note xml:id="i-BcgGyU52m9EFPWfxitnomn" type="speaker">
+          hr Stenroth om ordet, och yttrade:
         </note>
+        <u who="unknown">
+          <seg>
+            Minä pyysin puheenvuoroa sen johdosta että, jos minä kuulin oikein,
+            hra puhemies ei nimenomaan kysynyt säädyltä, luopuuko sääty 20
+            &amp;:n suhteen ennen tekemästään päätöksestään. Eiköhän kuulune asiaan,
+            sittekun sääty on hyväksynyt 123 S:lle sen muodostuksen, jonka
+            valiokunta esillä olevassa yhteensovitusehdotuksessa ehdottaa,
+            että sääty luopuu ennen tekemästään päätöksestä 20 $:n suhteen?
+          </seg>
+        </u>
         <note xml:id="i-EEaV1W23XtvJUPRahkBFU">
           Sedan hr talmannen ännu framhällit hurusom, enligt hans tanke,
           den omständigheten att ständet nu omfattade värnepliktsutskottets
@@ -5293,18 +5517,22 @@
           frängäende af ständets beslut beträffande &amp; 20, hvarför säledes
           &amp; 20 icke vidare borde komma under omröstning, anhöll
         </note>
-        <note xml:id="i-M5Ewgd1NKnGXTAWAFY8b2a">
-          hr Stenroth änyo om ordet och yttrade: Kyllä minun käsitykseni
-          mukaan pitäisi kuitenkin tämän päivän pöytäkirjasta käydä esille
-          että sääty on muuttanut päätöksensä 20 &amp;:n suhteen, sillä sääty
-          on vaihtoehtoisesti antanut sille pykälälle toisen muodostuksen,
-          kuin minkä valiokunta alkuperäisessä mietinnössään on ehdottanut.
-          Nyt on sääty hyväksynyt 123 S:n siinä muodossa, jossa valiokunta
-          yhteensovitusehdotuksessaan on sen esittänyt, niin että minun
-          käsitykseni mukaan on välttämätöntä että tämän päivän pöytäkirjasta
-          käy esille että sääty on hyväksynyt 20 $:n siinä muodossa, jossa
-          valiokunta sen esitti mietinnössään.
+        <note xml:id="i-M5Ewgd1NKnGXTAWAFY8b2a" type="speaker">
+          hr Stenroth änyo om ordet och yttrade:
         </note>
+        <u who="unknown">
+          <seg>
+            Kyllä minun käsitykseni mukaan pitäisi kuitenkin tämän päivän
+            pöytäkirjasta käydä esille että sääty on muuttanut päätöksensä
+            20 &amp;:n suhteen, sillä sääty on vaihtoehtoisesti antanut sille
+            pykälälle toisen muodostuksen, kuin minkä valiokunta alkuperäisessä
+            mietinnössään on ehdottanut. Nyt on sääty hyväksynyt 123 S:n siinä
+            muodossa, jossa valiokunta yhteensovitusehdotuksessaan on sen
+            esittänyt, niin että minun käsitykseni mukaan on välttämätöntä
+            että tämän päivän pöytäkirjasta käy esille että sääty on hyväksynyt
+            20 $:n siinä muodossa, jossa valiokunta sen esitti mietinnössään.
+          </seg>
+        </u>
         <note xml:id="i-4pzXGvcQEZ8EVrgPPeYyWy">
           Ständet beslöt härä godkänna utskottets förslag till lydelse
           för 8 123, hvarjämte äfven sammanjämkningsförslaget i öfriga delar
@@ -5603,7 +5831,7 @@
           borgareständet att fä förblifva inneslutet i höglofliga ridderskapet
           och adelns välvilja och vänskap.
         </note>
-        <note xml:id="i-Nd76qKRg9Q6Dy8ZCuAsvZe">
+        <note xml:id="i-Nd76qKRg9Q6Dy8ZCuAsvZe" type="speaker">
           Hr Boisman till prästeståndet:
         </note>
         <note xml:id="i-Mak7jrWVXbwGvbNeuQcX7T">
@@ -5873,7 +6101,7 @@
           Borgareständet anhäller att äfven i framtiden fä vara inneslutet
           i det hedervärda bondeständets vänskap, välvilja och förtroende.
         </note>
-        <note xml:id="i-AHoB9zbrsZPvCDYwnTJxrm">
+        <note xml:id="i-AHoB9zbrsZPvCDYwnTJxrm" type="speaker">
           Därä inträdde en deputation frän prästeständet, anförd af domprosten
           Schwartzberg, som yttrade:
         </note>
@@ -5951,7 +6179,7 @@
           vår genhälsning och anhållan om att äfven i framtiden få vara
           inneslutet i det högvördiga prästeständets vänskap och välvilja.
         </note>
-        <note xml:id="i-KUFqVWPPqLS3GM2twfqAA7">
+        <note xml:id="i-KUFqVWPPqLS3GM2twfqAA7" type="speaker">
           Deputationen från R. o. A. anlände nu, anförd af hr C. G. Standertskjöld,
           som yttrade:
         </note>
@@ -6071,13 +6299,18 @@
           Ständets medlemmar höjde ett kraftigt lefve för fosterlandet,
           hvarefter ständets älderspresident
         </note>
-        <note xml:id="i-LtrkQZzeYYQYbFtgmKoFup">
-          hr Wasenius yttrade: Ärade, käre talman! För de vänskapsfulla
-          afskedsord, som af dig egnats borgareständets medlemmar, hembär
-          jag å allas våra vägnar dig vårt hjärtligaste tack och ber dig,
-          ärade talman, jämte försäkran om vär högaktning, vänskap och v
-          kaamiliot, mottaga vära innerligasto lyckönskningar för dig och
+        <note xml:id="i-LtrkQZzeYYQYbFtgmKoFup" type="speaker">
+          hr Wasenius yttrade:
         </note>
+        <u who="unknown">
+          <seg>
+            Ärade, käre talman! För de vänskapsfulla afskedsord, som af dig
+            egnats borgareständets medlemmar, hembär jag å allas våra vägnar
+            dig vårt hjärtligaste tack och ber dig, ärade talman, jämte försäkran
+            om vär högaktning, vänskap och v kaamiliot, mottaga vära innerligasto
+            lyckönskningar för dig och
+          </seg>
+        </u>
         <note xml:id="i-FExVYkz5iu4NndEwunuSPT">
           itt hus.
         </note>
