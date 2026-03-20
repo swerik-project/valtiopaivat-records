@@ -20,7 +20,6 @@ class OCRQualityEstimation(unittest.TestCase):
         cls.most_probable_lines = pd.DataFrame()
         cls.match_errors = []
         cls.wer_fn = WordErrorRate()
-        cls.file_mapping = {}
 
 
     @classmethod
@@ -87,8 +86,6 @@ class OCRQualityEstimation(unittest.TestCase):
             "wer",
             "cer"
         ]
-        print(len(self.objective_reality))
-        print(self.file_mapping)
         for record in tqdm([_ for _ in self.objective_reality["path"].unique()]):
             facs = record.split("-")[-1][:-4]  # just getting the page number
             xml_file = f"data/{'/'.join(record.split('/')[-3:-1])}.xml"
@@ -117,7 +114,6 @@ class OCRQualityEstimation(unittest.TestCase):
                     wer,
                     cer
                 ])
-                print(xml_file, lev, wer, cer)
         type(self).most_probable_lines = pd.DataFrame(rows, columns = cols)
 
 
