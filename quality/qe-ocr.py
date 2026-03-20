@@ -1,5 +1,7 @@
 #!/usr/bin/env python3
-
+"""
+Unit test that checks OCR quality across the corpus.
+"""
 from valtiopy.utils import (
     parse_tei,
 )
@@ -29,7 +31,9 @@ class OCRQualityEstimation(unittest.TestCase):
 
 
     def test_estimate_ocr_quality(self):
-
+        """
+        Test the OCR quality
+        """
         def _text_from_range(root, ns, facs):
             text = ""
             start_pb = root.xpath(f".//tei:pb[contains(@facs, '{facs}')]", namespaces={"tei": ns["tei_ns"][1:-1]})
@@ -65,6 +69,9 @@ class OCRQualityEstimation(unittest.TestCase):
             return str_list
 
         def _get_most_probable_line(annotation, text):
+            """
+            Find the most probable line for quality comparison.
+            """
             most_probable_line = None
             prob = None
             l = len(annotation)
@@ -76,12 +83,7 @@ class OCRQualityEstimation(unittest.TestCase):
                 if prob is None or lev < prob:
                     prob = lev
                     most_probable_line = s
-                    # early exit conditions
-                    #if prob == 0:
-                        #print("early exit 1")
-                        #break
                     if prob == 1 and annotation.endswith('-') and not s.endswith('-'):
-                        #print("early exit 2")
                         break
             return most_probable_line, prob
 
@@ -99,7 +101,6 @@ class OCRQualityEstimation(unittest.TestCase):
         print(len(self.objective_reality))
         print(self.file_mapping)
         for record in tqdm([_ for _ in self.objective_reality["path"].unique()]):
-            print(record)
             facs = record.split("-")[-1][:-4]  # just getting the page number
             xml_file = f"data/{'/'.join(record.split('/')[-3:-1])}.xml"
             annotations = [_ for _ in self.objective_reality.loc[self.objective_reality["path"] == record, "line_text"].tolist() if pd.notnull(_)]
@@ -113,7 +114,7 @@ class OCRQualityEstimation(unittest.TestCase):
                     continue
                 most_probable_line, lev = _get_most_probable_line(annotation, candidate_text)
                 if most_probable_line is None:
-                    self.match_errors.append([motion, xml_file, annotation])
+                    self.match_errors.append([record, xml_file, annotation])
                     continue
                 wer = float(self.wer_fn(annotation, most_probable_line))
                 cer = lev/len(annotation)
