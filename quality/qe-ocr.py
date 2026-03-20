@@ -55,18 +55,6 @@ class OCRQualityEstimation(unittest.TestCase):
                             text += f" {' '.join([_.strip() for _ in e.text.splitlines() if _.strip() != ''])}"
             return text
 
-        def _mk_string_list(l, text):
-            """
-            make a list of strings of len == len(annotation)
-            """
-            str_list = []
-            start = 0
-            while True:
-                str_list.append(text[start:start+l+1])
-                start += 1
-                if start + l + 1 == len(text):
-                    break
-            return str_list
 
         def _get_most_probable_line(annotation, text):
             """
@@ -86,6 +74,7 @@ class OCRQualityEstimation(unittest.TestCase):
                     if prob == 1 and annotation.endswith('-') and not s.endswith('-'):
                         break
             return most_probable_line, prob
+
 
         rows = []
         cols = [
