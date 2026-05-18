@@ -1,16 +1,16 @@
-<?xml version='1.0' encoding='utf-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="ptk_1899_papisto_">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Finnish parliamentary document: ptk 1899, Papisto number </title>
+        <title>Finnish parliamentary document: ptk 1899, Papisto number</title>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK Project, 2023-2027</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Finnish parliamentary document: ptk 1899, Papisto number </title>
+          <title>Finnish parliamentary document: ptk 1899, Papisto number</title>
         </bibl>
       </sourceDesc>
     </fileDesc>
@@ -25,8 +25,12 @@
   <text>
     <front>
       <div type="preface">
-        <head>ptk_1899_papisto_</head>
-        <docDate when="1899-01-01">1899-01-01</docDate>
+        <head>
+          ptk_1899_papisto_
+        </head>
+        <docDate when="1899-01-01">
+          1899-01-01
+        </docDate>
       </div>
     </front>
     <body>
@@ -1219,8 +1223,8 @@
         <note xml:id="i-N86cLivz36zE5ttXMLWimT">
           Jos Pappissääty hyväksyy nämä ehdotukset osaksi tai kokonaan,
           on niistä tieto annettava Valtiovaliokunnalle, fonka Valtiopäiväjärjestyksen
-          36 &amp; mukaan tulee määrätä palkkiot säätyjen sihteereille, virkamiehille
-          ja palvelijoille.
+          36 &amp; mukaan tulee määrätä palkkiot säätyjen sihteereille,
+          virkamiehille ja palvelijoille.
         </note>
         <note xml:id="i-KMfDkJ2ers3jZ27eGhc9Nm">
           Helsingissä 23 päiv. Tammikuuta 1899. 0. Donner. E. G. Palmén.
@@ -1583,8 +1587,8 @@
         <note xml:id="i-DtcMjR48SVSvwwWzH6Ku7n" type="speaker">
           Lääninprovasti Nordström:
         </note>
-        <u who="i-P5da9MFNVQpRhU72ekmUz2">
-          <seg>
+        <u xml:id="i-Vcyioj4J2rp1Zm77UHsXC1" who="i-P5da9MFNVQpRhU72ekmUz2">
+          <seg xml:id="i-3ogxoaZ74B2pYZazUWLDpu">
             Jos en väärin muista, niin viime valtiopäivillä valittiin puhemiesneuvoston
             jäsenet aklamatsioonilla. Valituiksi tulivat silloin piispa Räbergh
             ja yliopettaja Kihlman varsinaisiksi sekä professorit Forsman
@@ -1596,8 +1600,8 @@
         <note xml:id="i-NNG7BeRA94WBmnYBSFgScr" type="speaker">
           Herra Puhemies:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-W29FfQ4tXf7coZ98p2Tk6v" who="unknown">
+          <seg xml:id="i-7wZpZzzj3xDPqpe2HMST9p">
             Minusta ei ole oikein V. J:n hengen mukaista että nämä tärkeät
             jäsenet valitaan aklamatsioonilla. Kun valiokuntain jäseniäkin
             on valitsemassa valitsijamiehet, niin se edellyttää minusta että
@@ -1759,8 +1763,8 @@
         <note xml:id="i-TBcGHvuwacyhhQcnLDtz5m" type="speaker">
           Professori Donner:
         </note>
-        <u who="i-XbAQtPkdSaTdnLcpdJrmsg">
-          <seg>
+        <u xml:id="i-UfaJw7JGDgYVFG79pvsU6A" who="i-XbAQtPkdSaTdnLcpdJrmsg">
+          <seg xml:id="i-8TkNjU44jbnbJiZQa6RHkj">
             Pyydän saada ilmoittaa että pappissäädyn yksityisen rahaston
             tilit ovat valmiit tarkastettaviksi, joten sääty siis voi ryhtyä
             tarkastajain vaaliin. Samalla kun tämän ilmoitan, rohkenen tehdä
@@ -1779,8 +1783,8 @@
         <note xml:id="i-523UpDZJYntbc1uJQjhfHv" type="speaker">
           Lääninprovasti Johansson:
         </note>
-        <u who="i-29jAvqcdVSDmnMHm7GL7zd">
-          <seg>
+        <u xml:id="i-L9dWwsJF9vGowZgbsKhXGD" who="i-29jAvqcdVSDmnMHm7GL7zd">
+          <seg xml:id="i-bubmoAj9PdDsJs85Buyqb">
             Lääninprovasti Nordströmillä on erityinen työ käsillä näillä
             valtiopäivillä, joka vie siksi paljon aikaa että luulisin olevan
             syytä ottaa toisen henkilön hänen sijaansa.
@@ -1789,16 +1793,16 @@
         <note xml:id="i-PBGsXpw7qVoGMjgCDAFLmh" type="speaker">
           Herra Puhemies:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-EpPpkJZJBD7K1BnRXqfCPt" who="unknown">
+          <seg xml:id="i-K4S5uGtPjUEJAheXMiKFrc">
             Mitä lääninprovasti Nordström itse arvelee?
           </seg>
         </u>
         <note xml:id="i-Ec5Py26JSsA6Mi5mmRjVoW" type="speaker">
           Lääninprovasti Nordström:
         </note>
-        <u who="i-P5da9MFNVQpRhU72ekmUz2">
-          <seg>
+        <u xml:id="i-RZxksEecQneb6mgqJNwKDo" who="i-P5da9MFNVQpRhU72ekmUz2">
+          <seg xml:id="i-8GscEWZURoYdz9tHENcE1d">
             Pyytäisin jos mahdollista jonkun toisen sijaani valittavaksi.
           </seg>
         </u>
@@ -1813,8 +1817,8 @@
         <note xml:id="i-CaxAiXYo8u5mtr14D1padh" type="speaker">
           Lääninprovasti Nordström:
         </note>
-        <u who="i-P5da9MFNVQpRhU72ekmUz2">
-          <seg>
+        <u xml:id="i-T5YXeQjYNNMjDp3U9ivGL7" who="i-P5da9MFNVQpRhU72ekmUz2">
+          <seg xml:id="i-DKBXDCirQeXCovXzuNYrZW">
             Jos minua tarkastajaksi tahdotaan, en luonnollisesti tahdo sitä
             vastustaa.
           </seg>
@@ -1840,8 +1844,8 @@
         <note xml:id="i-AgZCmSWdmhQ2UC14CGA3F8" type="speaker">
           Lääninprovasti Nordström:
         </note>
-        <u who="i-P5da9MFNVQpRhU72ekmUz2">
-          <seg>
+        <u xml:id="i-7e711Pkoya1BoEGLC8f3nw" who="i-P5da9MFNVQpRhU72ekmUz2">
+          <seg xml:id="i-SvjVS5NZF63WrUNppKbwpT">
             En katso tarpeelliseksi lykätä asiaa niin pitkälle, sillä kun
             professori Donner on ilmoitta-
           </seg>
@@ -1934,8 +1938,8 @@
         <note xml:id="i-D8dwyJf4enjtzsRqWK8Q37" type="speaker">
           Professori Danielson:
         </note>
-        <u who="i-LhNeaJMK2rPRdMfEm4W2yR">
-          <seg>
+        <u xml:id="i-7LzGD92LkRWvKZMr4V8Vap" who="i-LhNeaJMK2rPRdMfEm4W2yR">
+          <seg xml:id="i-F2w2wAF3Y5793BJTHWKACL">
             Arvelen ettei sääty nyt kokonaisuudessaan tahdo ryhtyä päättämään
             niistä yksityiskohdista, joita herra Donnerin ehdotuksen hyväksyminen
             välttämättömästi tuo mukanaan, esim. taiteilijan määräämisestä,
@@ -2050,8 +2054,8 @@
         <note xml:id="i-3vUcX7ztPBmVL9CDet3oFP" type="speaker">
           Lääninprovasti Nordström:
         </note>
-        <u who="i-P5da9MFNVQpRhU72ekmUz2">
-          <seg>
+        <u xml:id="i-Sy5e1cSvytukRfGbaWprGL" who="i-P5da9MFNVQpRhU72ekmUz2">
+          <seg xml:id="i-FQ7mZ1goR9hq3WVfwjGh6S">
             Saan kunnian ilmoittaa säädylle että valtiovaliokunta on ryhtynyt
             toimeensa ja valinnut puheenjohtajakseen kauppaneuvos Hackmanin.
           </seg>
@@ -2059,8 +2063,8 @@
         <note xml:id="i-9RjGWpsQVfhNfXRzC96sum" type="speaker">
           Professori Donner:
         </note>
-        <u who="i-XbAQtPkdSaTdnLcpdJrmsg">
-          <seg>
+        <u xml:id="i-HR1uq593gGYSWXgVLNEDMh" who="i-XbAQtPkdSaTdnLcpdJrmsg">
+          <seg xml:id="i-4UQ5QUTLFPKMcB7WjmyWS8">
             Saan kunnian ilmoittaa että asevelvollisuusvaliokunta on ollut
             koossa ja valinnut puheenjohtajakseen herra Mechelinin.
           </seg>
@@ -2068,8 +2072,8 @@
         <note xml:id="i-P78kDrnrCLczAFGRbRmmqy" type="speaker">
           Valtioneuvos Forsman:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-KmQJhDZcJBsCdNssWY1amt" who="unknown">
+          <seg xml:id="i-C6Wge27wcE9agBu522s6sx">
             Saan ilmoittaa että lakivaliokunta on tänään ollut koossa ja
             valinnut puheenjohtajakseen herra Hermansonin.
           </seg>
@@ -2329,9 +2333,9 @@
           joka noissa säännöksissä on määrätty valtakunnanlakien aikaansaamiseksi.
           Julistuskirja on siis sellaisessa erottamattomassa yhteydessä
           Valtiosäädyille näillä väliaikaisilla valtiopäivillä esitettyjen
-          asiain kanssa, kuin Valtiopäiväjärjestyksen 2 &amp; mainitsee, sekä
-          vaatii erityistä huomiota myöskin Valtiosäädyillä olevaan tehtävään
-          nähden.
+          asiain kanssa, kuin Valtiopäiväjärjestyksen 2 &amp; mainitsee,
+          sekä vaatii erityistä huomiota myöskin Valtiosäädyillä olevaan
+          tehtävään nähden.
         </note>
         <note xml:id="i-MbcnWVLiWfNamKrXKeLCrA">
           Se lainsäätämismenettely, minkä Keisarillisen julistuskirjan
@@ -2396,8 +2400,8 @@
         <note xml:id="i-CwmLRNEMuDBmABFrQ8NYrX" type="speaker">
           Valtioneuvos Forsman:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-L7CR7FK89VksB1nzWVmAR6" who="unknown">
+          <seg xml:id="i-BmGSRUbQBUr2QhUaohfTWj">
             Tämän asiakirjan suuren tärkeyden tähden katsoisin sopivaksi
             että se luettaisiin vielä toisen kerran. Ja koska se luultavasti
             myös on säädylle lähetetty ruotsinkielisenä, olisi kenties asianmukaista
@@ -2527,8 +2531,8 @@
         <note xml:id="i-495mHbwLdB2faPbHUroAJN" type="speaker">
           Valtioneuvos Forsman:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-BN6P8MrUNXDh7t5KrMZqap" who="unknown">
+          <seg xml:id="i-K9VbpTpdaYN8vScDGSiMex">
             On päätetty että tämä istunto on oleva täydellisesti sekreetti.
             Kuitenkin ovat saapuvilla
           </seg>
@@ -2991,8 +2995,8 @@
         <note xml:id="i-DYMjHEZZg36NqYMXHs75sY" type="speaker">
           Lääninprovasti Stenbäck:
         </note>
-        <u who="i-2pD791VLsqhv5WJ2JcdDCs">
-          <seg>
+        <u xml:id="i-6u6s19aG3Y5YeTbcZJAJEw" who="i-2pD791VLsqhv5WJ2JcdDCs">
+          <seg xml:id="i-3wQQGnr3EdVLp8UG5bQw3U">
             Valitsijamiesten kokouksessa lausuttiin kyllä epäilyksiä siitä,
             riittäisikö vapaaherra Palmön'ilta aikaa kylliksi tähän toimeen,
             mutta arveltiin vapaaherran osanotto asevelvollisuusvaliokunnan
@@ -3073,8 +3077,8 @@
         <note xml:id="i-9QmoCjPYmBWLB2tsu1wo2f" type="speaker">
           Professori Bonsdorff:
         </note>
-        <u who="i-3ar8iPZ5CiM9KjHkxDUWKL">
-          <seg>
+        <u xml:id="i-ArBvDdqjubyC6WXjDrKkm3" who="i-3ar8iPZ5CiM9KjHkxDUWKL">
+          <seg xml:id="i-SVRo8owfAvsEtGtR91FHZv">
             Asevelvollisuusvaliokunta on tehnyt ehdotuksen erinäisiksi muutoksiksi
             nykyiseen asevelvollisuuslakiin, ja minun ymmärtääkseni säädyn
             jäsenet, jos niin haluavat, ovat oikeutetut koskettelemaan myös
@@ -3093,8 +3097,8 @@
         <note xml:id="i-JFQg8Pp8hWSEoF5Zc5kyH8" type="speaker">
           Provasti Wallin:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-CZgAPNRPtVmF9Vpz8Sn6F7" who="unknown">
+          <seg xml:id="i-8H9B4rS6zs6cNC1aEn72vW">
             Minä puolestani pyytäisin ehdottaa että yleiseen keskusteluun
             ryhdyttäisiin ja, jos sääty niin päättää, saada sananvuoron.
           </seg>
@@ -3109,8 +3113,8 @@
         <note xml:id="i-hdmeq2vn9fLJ7PHdWzJHj" type="speaker">
           Provasti Wallin:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-WswNT78hQMFJXewdF7jvxA" who="unknown">
+          <seg xml:id="i-U6gxKmZRjxtAPZsr9iZpUJ">
             Niinkuin luonnon valtakunnassa, niin myöskin ihmiselämässä ja
             kansojenkin elämässä vaihtelee synkempiä ja valoisempia aikoja,
             kirkkaita ja pilvisiä päiviä. Tuo Suomen kirkas, ihana kehityksen
@@ -3291,8 +3295,8 @@
         <note xml:id="i-6DtgCFgwfXwuwdKikWCysn" type="speaker">
           Professori Donner:
         </note>
-        <u who="i-XbAQtPkdSaTdnLcpdJrmsg">
-          <seg>
+        <u xml:id="i-YL1tEKtzV9dKe7SVyEZPgm" who="i-XbAQtPkdSaTdnLcpdJrmsg">
+          <seg xml:id="i-SnvCKPBzgivwxf8G3JdL2J">
             Dä ständerna för tvä ärtionden tillbaka införde allmän värneplikt
             i Finland, sä skedde det under fullt medvetande derom att de älade
             land och folk en tung börda, men det skedde äfven under medvetandet
@@ -3438,8 +3442,8 @@
         <note xml:id="i-A5YRF8pbmNCV9CDiNEVdTM" type="speaker">
           Kolleega S. Westerlund:
         </note>
-        <u who="i-88xomuoxptTm5PMhHSyv7n">
-          <seg>
+        <u xml:id="i-UZkUfxjgCb4vR43p9coh2W" who="i-88xomuoxptTm5PMhHSyv7n">
+          <seg xml:id="i-7KnjncdLx7TLHmDevH7PmT">
             Ei voi minunkaan mielestäni meillä suomalaisilla yleensä olla
             muuta kuin yksi mielipide esillä olevista laki- ja asevelvollisuusvaliokuntien
             mietinnöistä, nimittäin se että ne ovat koko Suomen kansan ajatusten
@@ -3600,8 +3604,8 @@
         <note xml:id="i-4Lmx9K6gtxkktTxc3XedrH" type="speaker">
           Kirkkoherra E. Bergroth:
         </note>
-        <u who="i-7uhhayYnnRhw5eHnoRhghn">
-          <seg>
+        <u xml:id="i-Hrfv63VszAxFnThbxvFbVM" who="i-7uhhayYnnRhw5eHnoRhghn">
+          <seg xml:id="i-SJm2VijHvSdHqaCZjF2dUZ">
             Siinä armollisessa esityksessä, koskeva uutta asevelvollisuuslakia,
             joka on ollut näiden ylimääräisten valtiopäivien tutkittavana,
             vaaditaan että Valtiosäädyt lausuisivat ,missä määrin asevelvollisuuslakiin
@@ -3718,8 +3722,8 @@
         <note xml:id="i-HTK2UAzXRgsZbx9VnqWGNc" type="speaker">
           Professori Danielson:
         </note>
-        <u who="i-LhNeaJMK2rPRdMfEm4W2yR">
-          <seg>
+        <u xml:id="i-8JcgoZnRfpQZ1CfZfWwdGD" who="i-LhNeaJMK2rPRdMfEm4W2yR">
+          <seg xml:id="i-W6KCUtQUxSWc7WeE2DR2cU">
             Viime arvoisa puhuja oli epäilemättä oikeassa, kun hän viittasi
             siihen suureen ikävään merkitykseen, joka maasta muutolla saattaa
             olla meidän kansallemme, jos nimittäin se asevelvollisuusrasituksen
@@ -3968,8 +3972,8 @@
         <note xml:id="i-6Yyy78vTHNZSAfMMcJ5Thi" type="speaker">
           Rehtori A. Bergroth:
         </note>
-        <u who="i-XfE5nFNMTw34PVMQsqSvFb">
-          <seg>
+        <u xml:id="i-FxiZn32vPbft6NCDB4LNkk" who="i-XfE5nFNMTw34PVMQsqSvFb">
+          <seg xml:id="i-B7Fhsa4R99Kbg7NeKWNzT9">
             Suomen kansa on lojaalinen kansa, sen sydämeen on juurtunut kunnioituksen
             ja rakkauden tunteet hallitsijaansa kohtaan, mutta yhtä syvään
             on siihen juurtunut vakaumus siitä että meidän laillinen yhteiskuntajärjestyksemme
@@ -3990,8 +3994,8 @@
         <note xml:id="i-RKSLpT5gxg3ExTDhA75M4z" type="speaker">
           Herra Puhemies:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-C1XJP9NVABySgXkXXzKEi" who="unknown">
+          <seg xml:id="i-3BAnWRyMjGk7XTULVeGnqp">
             Mitä maisteri Westerlundin ehdotukseen tulee, en voi panna sitä
             äänestyksen alaiseksi, kun V. J:n toinen pykälä sanoo että ,Väli-aikaisilla
             valtiopäivillä otettakoon esiin ainoastaan se asia, jonka tähden
@@ -4006,8 +4010,8 @@
         <note xml:id="i-GmA2VCXxh3Tx2RFT2U4shE" type="speaker">
           Kollega Westerlund:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-CPppPvFJNNTxVZLCG4op5V" who="unknown">
+          <seg xml:id="i-31fRfiGpsfwnQ17SKXpr7n">
             Tahtoisin lausua jonkun sanan vastaukseksi professori Danielsonille.
             Salliiko herra Puhemiessen?
           </seg>
@@ -4015,8 +4019,8 @@
         <note xml:id="i-LvtmqyFhJE4Ppb4Cr1bCNz" type="speaker">
           Herra Puhemies:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-HgGLw8DYSLi46JawmPYjmx" who="unknown">
+          <seg xml:id="i-NSFodivk3gPPXS9h3xoEHo">
             Ehdotus ei kuitenkaan voi tulla äänestyksen alaiseksi, koska
             se ei kuulu tähän asiaan.
           </seg>
@@ -4024,8 +4028,8 @@
         <note xml:id="i-XtJJVRyBtLw6j8qnF3JcJo" type="speaker">
           Pastori Vartiainen:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-GUQQMBTccPo1ETmUQnJv4" who="unknown">
+          <seg xml:id="i-EaeRDX2SD2CSut6vqgvvLC">
             Minulla oli aikomus puhua jotakin maisteri Westerlundin ehdotuksen
             johdosta, mutta kuka tiesi se ei käy päinsä.
           </seg>
@@ -4033,8 +4037,8 @@
         <note xml:id="i-Jy3NT4d1FDeqFgBqLGzD21" type="speaker">
           Herra Puhemies:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-7osp1U5DG8Bay18VeLU8Ay" who="unknown">
+          <seg xml:id="i-WVVUkn94Whe2ipaq8iTG6J">
             Ei. Kirkkoherra Bergroth: Minulla ei ole tilaisuutta todistaa
           </seg>
         </u>
@@ -4054,8 +4058,8 @@
         <note xml:id="i-a3LLu2nrnwYYAhWuunTmM" type="speaker">
           Provasti Hellman:
         </note>
-        <u who="i-D6Mi4GWWJsTvqGyurVJi26">
-          <seg>
+        <u xml:id="i-8kiXxs1kCbHmiCuyax7aUb" who="i-D6Mi4GWWJsTvqGyurVJi26">
+          <seg xml:id="i-8R8zFa5D3UWMxUWg5XbBjp">
             Vakavat tunteet ovat näinä kuukausina liikkuneet jokaisen isänmaan
             ystävän sydämessä ja semminkin niiden sydämissä, jotka kansan
             edusmiehinä ovat ratkaisemassa tätä koko Suomen kansan sisintä
@@ -4275,8 +4279,8 @@
         <note xml:id="i-7zuNDRjzMmTvmH35AkbA7d" type="speaker">
           Pastori Vartiainen:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-Bxtvt3S1TJe1n1mKmDvW7y" who="unknown">
+          <seg xml:id="i-MR942M1iFB5KgrnjMEmi7U">
             Minä puolestani en tahtoisi olla niin pessimistinen kuin muutamat
             arvoisat puhujat täällä näyttävät olleen. Lakivaliokunnan mietinnössä
             on eräs ponsi, jossa sanotaan että säädyt katsovat korkeampaan
@@ -4342,8 +4346,8 @@
         <note xml:id="i-DiYFo5RKZ2V4mqzbVAcULP" type="speaker">
           Professori Palmen:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-MCBduKC9ZryXWr7Bt3DLWi" who="unknown">
+          <seg xml:id="i-SUg6XNWzDMRqbJ4MBobihS">
             Minä pyysin puheenvuoroa oikeastaan raan tehdäkseni pienen huomautuksen
             eräälle arvoisalle puhujalle, herra Wennerströmille, joka, vaatimatta
             mitään muutosta, kuitenkin olisi suonut että olisi paremmin puolustettu
@@ -4425,8 +4429,8 @@
         <note xml:id="i-KmTsDZFhRiEYkRvh8NEokn" type="speaker">
           Professori Runeberg:
         </note>
-        <u who="i-QQ7rzMcvpGv1RunkkD3Hgv">
-          <seg>
+        <u xml:id="i-AeqUarCQpP1mNNLQmZiYd7" who="i-QQ7rzMcvpGv1RunkkD3Hgv">
+          <seg xml:id="i-9YLitYycAWNs6JKckKMDHz">
             Det vore väl det riktigaste att förrän om denna kläm beslutas,
             upptaga de enskilda paragraferna till behandling.
           </seg>
@@ -4434,8 +4438,8 @@
         <note xml:id="i-EKzVqd8oj3twiqz3MwpGEQ" type="speaker">
           Herra Puhemies:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-W7rjzkzgWCXt5ayUHE39u7" who="unknown">
+          <seg xml:id="i-Bp1LPaZ9u21eXrcQUyjj4B">
             Mutta kun tämä ensimäinen ponsi on hyväksytty, niin se edellyttää
             että asia jäisi kokonaan silleen.
           </seg>
@@ -4454,8 +4458,8 @@
         <note xml:id="i-Asd22pxDVpaQeNZ5eGfR4R" type="speaker">
           Professori Runeberg:
         </note>
-        <u who="i-QQ7rzMcvpGv1RunkkD3Hgv">
-          <seg>
+        <u xml:id="i-BcCsViGMGJF1Kp5rAgYmpj" who="i-QQ7rzMcvpGv1RunkkD3Hgv">
+          <seg xml:id="i-MsivySYuJmziHZEXMvPjQg">
             Saken är ju visserligen icke af nägon väsentlig vigt, men nog
             vore det väl oegentligt att ständet nu skulle godkänna en kläm,
             som innehäller att ständet godkänt ett sä lydande förslag till
@@ -4466,8 +4470,8 @@
         <note xml:id="i-Smku7Z1mr3CZFhQBLrBCdZ" type="speaker">
           Herra Puhemies:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-D5BTm4myxupP6RiVx2RKu6" who="unknown">
+          <seg xml:id="i-NnxbR8GXJPAfCfh787b8w6">
             Se on kyllä luonnollisesti oikein, mutta kyllä tämä ponsi sisältää
             sen perusteen että sääty ehdottaa uuden asetuksen.
           </seg>
@@ -4493,8 +4497,8 @@
         <note xml:id="i-Ev4XgBvrb7xsQ7xCSdQYqX" type="speaker">
           Kirkkoherra Auvinen:
         </note>
-        <u who="i-J6zP3X9ccdcPDSdoJRRzLX">
-          <seg>
+        <u xml:id="i-Wf2xaNgGJxLLrQa27zVSn3" who="i-J6zP3X9ccdcPDSdoJRRzLX">
+          <seg xml:id="i-FAhCKDnvPjb8iCF7gdidSX">
             Tähän pykälään nähden olisi minulla pari muodollista muistutusta
             tehtävänä. Tässä samoin kuin hyvin monessa seuraavassa pykälässä,
             joka on ollut muutoksen alaisena, puhutaan arvannostosta. Monessa
@@ -4523,8 +4527,8 @@
         <note xml:id="i-UMFDLon9D9v58J3Hmzzch5" type="speaker">
           Tuomioprovasti Hedberg:
         </note>
-        <u who="i-FNPPwEod1e3taFV6aqGkL">
-          <seg>
+        <u xml:id="i-QBgpZNLgFTLvC1fA2icWsh" who="i-FNPPwEod1e3taFV6aqGkL">
+          <seg xml:id="i-BE9WnwqprbHsCWVMUVWbnr">
             Kirkkoherra Auvinen on lausuntonsa edellisessä osassa koskettanut
             erästä asiaa, jossa minä periaatteellisesti tosin olen samalla
             kannalla, että nimittäin laissa pitäisi sama käsite olla ilmoitettu
@@ -4550,16 +4554,16 @@
           Mitä sitten tulee kirkkoherra Auvisen toiseen huomautukseen,
           että nimittäin olisi ristiriitaisuus 4 8:n 3 mom:in ja 28 sekä
           tietysti myös 27 &amp;:n kesken, pyydän huomauttaa että viimemainituissa
-          S:ssä puhutaan aivan toisista asioista kuin 4 &amp;:ssä. Näissä pykälissä
-          puhutaan arvan vaihettamisesta ja 4 &amp;:ssä säädetään ettei toinen
-          saa käyttää toista asevelvollisuutensa suorittajaksi sillä tavalla
-          että hän itse pääsee vapaaksi.
+          S:ssä puhutaan aivan toisista asioista kuin 4 &amp;:ssä. Näissä
+          pykälissä puhutaan arvan vaihettamisesta ja 4 &amp;:ssä säädetään
+          ettei toinen saa käyttää toista asevelvollisuutensa suorittajaksi
+          sillä tavalla että hän itse pääsee vapaaksi.
         </note>
         <note xml:id="i-3jKmumqkMArfCxFcUKbtpG" type="speaker">
           Provasti Karlsberg:
         </note>
-        <u who="i-V6v31r5joHKS4WkUQfSh1v">
-          <seg>
+        <u xml:id="i-GgGfQhvwNFQAhPTtc7wcBd" who="i-V6v31r5joHKS4WkUQfSh1v">
+          <seg xml:id="i-JQHKQD5y6C6PakTuQUL6kD">
             Tuomioprovasti Hedberg jo lausui, mitä minullakin oli asiaan
             lausuttavaa.
           </seg>
@@ -4573,8 +4577,8 @@
         <note xml:id="i-RWkAYuF1SGV8uCqPbkSVDU" type="speaker">
           Professori Palmén:
         </note>
-        <u who="i-SUpmw56zMz2APdv8K23tDg">
-          <seg>
+        <u xml:id="i-LrFLnhBMXijfHNZYb4pb2a" who="i-SUpmw56zMz2APdv8K23tDg">
+          <seg xml:id="i-3wfe3EnuR1kyzmSqTiXoLz">
             Ei minullakaan ole paljon lisättävää siihen, mitä tuomioprovasti
             Hedberg jo huomautti kirkkoherra Auvisen lausunnon johdosta. Onhan
             tiettyä että joka kerta, kun joku suurempi lakiteos on tarkastettavana
@@ -4601,8 +4605,8 @@
         <note xml:id="i-GaWyuJiu8DRhCgJZH1zCGC" type="speaker">
           Professori Bonsdorff:
         </note>
-        <u who="i-3ar8iPZ5CiM9KjHkxDUWKL">
-          <seg>
+        <u xml:id="i-6cagW3ait4HoShg5XYmw7Q" who="i-3ar8iPZ5CiM9KjHkxDUWKL">
+          <seg xml:id="i-DkDDKBmUn8e3VhpLk49xcn">
             Minä pyydän kannattaa kirkkoherra Auvisen tekemää ehdotusta että
             käytettäisiin kauttaaltaan samanlaista nimitystä. On mielestäni
             luonnollista että ne pykälät, joita valiokunta on muuttanut, tehdään
@@ -4618,8 +4622,8 @@
         <note xml:id="i-XAEXLSzwG7qsCfFfPFF6QD" type="speaker">
           Provasti Hellman:
         </note>
-        <u who="i-D6Mi4GWWJsTvqGyurVJi26">
-          <seg>
+        <u xml:id="i-PL2dtnWLsyTF5avf3xq8o9" who="i-D6Mi4GWWJsTvqGyurVJi26">
+          <seg xml:id="i-BUUmiNJZSvuvcYLBqNjMcY">
             Pyydän kiinnittää säädyn huomiota tämän 4 S:n perusteluihin.
             19 sivun ensimäisessä kappaleessa sanotaan: , erinäisistä voimassa
             olevan asevelvollisuuslain säädöksistä (niinkuin 3, 4, 86, 87
@@ -4635,8 +4639,8 @@
         <note xml:id="i-H6FvtXszQ3AgR2Qb85mzKM" type="speaker">
           Kirkkoherra Auvinen:
         </note>
-        <u who="i-J6zP3X9ccdcPDSdoJRRzLX">
-          <seg>
+        <u xml:id="i-VwBp58jW3hj2WCvBoSxWoh" who="i-J6zP3X9ccdcPDSdoJRRzLX">
+          <seg xml:id="i-CCXEVJRyQa93a3v3osJ2wo">
             Jos arvanheitosta ja arvannostosta puhuttaisiin tässä asetuksessa
             ainoastaan muutamissa pykälissä, ei olisi ollenkaan outoa eikä
             silmiin pistävää, vaikkapa näitä lauseparsia vuoroteltaisiin.
@@ -4653,8 +4657,8 @@
         <note xml:id="i-RNqHFN76kzJTkE89unVQic" type="speaker">
           Professori Forsman:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-8k3GLaDwhL2zX5EbA8pW1r" who="unknown">
+          <seg xml:id="i-WXPUsFmqkzkpxJ6RPDNin3">
             Minä pyysin puheenvuoroa herra Auvisen ehdotuksen johdosta. Puheenalainen
             asia saattaa kyllä tuntua hyvin pieneltä, mutta samasta syystä
             kuin vapaaherra Palmönkin pyytäisin saada kokonaan vastustaa herra
@@ -4687,8 +4691,8 @@
         <note xml:id="i-VKrG2mrJ2RhmQBJKC5ebiQ" type="speaker">
           Tuomioprovasti Schwartzberg:
         </note>
-        <u who="i-PUGEJH9kXtM6B1imKCMoex">
-          <seg>
+        <u xml:id="i-WyhuvCMvNvTsuXVQy9ehbX" who="i-PUGEJH9kXtM6B1imKCMoex">
+          <seg xml:id="i-5616yHTXrpttz8mEP3PSym">
             Tahtoisin siihen, mitä valtioneuvos Forsman sanoi, lisätä että
             toimitusvaliokunta ei ole sellainen toimikunta, joka ryhtyisi
             tämmöiseen kielelliseen oikaisuun, vaan se saisi jäädä vastaisuuteen.
@@ -4697,8 +4701,8 @@
         <note xml:id="i-Xb4uNyx7Xb7hF8658Y5PqC" type="speaker">
           Provasti Karlsberg:
         </note>
-        <u who="i-V6v31r5joHKS4WkUQfSh1v">
-          <seg>
+        <u xml:id="i-S4MjBiyg4icQLXoSoZiNq1" who="i-V6v31r5joHKS4WkUQfSh1v">
+          <seg xml:id="i-BCzT43qHX9LrnWni1YBqAQ">
             Provasti Hellmanin mainitsemaan seikkaan saan huomauttaa että
             4:stä ja 87:stä pykälästä käypi kyllä selville puheena oleva asia,
             kun vertaa näitä pykäliä 3:een ja 86:een pykälään. 87 pykälässä
@@ -4742,8 +4746,8 @@
         <note xml:id="i-AHZW2X62gYQYg6bepCnaDc" type="speaker">
           Professori Bonsdorff:
         </note>
-        <u who="i-3ar8iPZ5CiM9KjHkxDUWKL">
-          <seg>
+        <u xml:id="i-7N4PmpMZeqcQ8fEwsAeMb3" who="i-3ar8iPZ5CiM9KjHkxDUWKL">
+          <seg xml:id="i-KJwPtPKKrfRZ2sHiWFuM5Q">
             Minulla ei ole asevelvollisuuslain 6 pykälää vastaan mitään muistutettavaa,
             mutta tahtoisin tehdä muutamia huomautuksia valiokunnan mietinnön
             22 sivulla olevien perusteluiden suhteen, koska pidän tärkeänä
@@ -4814,8 +4818,8 @@
         <note xml:id="i-Pjbqm2fVMahvQ5zmeLNH1y" type="speaker">
           Herra Puhemies:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-DZWczRhcMQkKtCHw7kSgk6" who="unknown">
+          <seg xml:id="i-tPrwYjr8PTCJgBRNyvFcV">
             Ehkä sääty jättää tämän muistutuksen toimitusvaliokunnalle huomioon
             otettavaksi.
           </seg>
@@ -4823,8 +4827,8 @@
         <note xml:id="i-2Qk4ECZxoMh9UTjh1KvQxi" type="speaker">
           Professori Donner:
         </note>
-        <u who="i-XbAQtPkdSaTdnLcpdJrmsg">
-          <seg>
+        <u xml:id="i-Lk6PUsHMid9xpHAxs2P8yA" who="i-XbAQtPkdSaTdnLcpdJrmsg">
+          <seg xml:id="i-WDpsm7c7HWZ3bcF6iJQW7N">
             Den länga utredning, som professor Bonsdorff gaf, kunde jag icke
             fullständigt följa, men det förefaller mig som om det vore svärt
             att här inläta sig pä en sä utförlig medeltalsberäkning som han
@@ -4837,8 +4841,8 @@
         <note xml:id="i-LRkQvSHPbJC1CePHs4fo9w" type="speaker">
           Professori Bonsdorff:
         </note>
-        <u who="i-3ar8iPZ5CiM9KjHkxDUWKL">
-          <seg>
+        <u xml:id="i-PZJxyekG6JUqX5r36kwJoK" who="i-3ar8iPZ5CiM9KjHkxDUWKL">
+          <seg xml:id="i-59zr1RYgN3e88v3Xy1V13W">
             Professori Donner ehkä on väärin käsittänyt minua. Selvä kylläkin
             on että, jos joku täyttää ennen 13 päivää Lokakuuta 21 vuotta,
             niin hänen ikänsä, milloin hän armollisen esityksen mukaan luetaan
@@ -4859,8 +4863,8 @@
         <note xml:id="i-UtbYTNcKMG5guKV5DcAPGX" type="speaker">
           Provasti Karlsberg:
         </note>
-        <u who="i-V6v31r5joHKS4WkUQfSh1v">
-          <seg>
+        <u xml:id="i-YS6jqidsaXaMtteGzEkxWj" who="i-V6v31r5joHKS4WkUQfSh1v">
+          <seg xml:id="i-DCJV5djQ6k8D3DCZh3GW87">
             Minä pyysin puheenvuoroa sanoakseni ettei asia ole hetikään niin
             selvä kuin professori Bonsdorff luulotteli ja arveli. Ehdotuksen
             mukaan otetaan sotapalvelukseen se, joka on syntynyt viimeistään
@@ -4887,8 +4891,8 @@
         <note xml:id="i-PYHdvpJzzDTxjh7i14GFAK" type="speaker">
           Professori Palmön:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-NMm3frVhVFZPjShd1v6GAH" who="unknown">
+          <seg xml:id="i-5yEE99n9HvGMXBsSuR2p7V">
             Minun täytyy tunnustaa että minun oli vaikea seurata prof. Bonsdorffin
             esittämää todistusta, mutta mikäli minä sitä ymmärsin, hän oletti
             vuoden eri aikoina syntyvän saman määrän nuorukaisia, ja sitte
@@ -4911,8 +4915,8 @@
         <note xml:id="i-xKwyzJVc6WKUJy43BuR7Q" type="speaker">
           Kirkkoherra Wegelius:
         </note>
-        <u who="i-7x5gXVj79xJqm8cJn4jspv">
-          <seg>
+        <u xml:id="i-9JMxv1Hyb1R9ZiqhHg5WK6" who="i-7x5gXVj79xJqm8cJn4jspv">
+          <seg xml:id="i-VmfjP7snTJA2f7E3UaKKc2">
             Minun ymmärtääkseni professori Bonsdorff on aivan oikeassa, niinkuin
             onkin otaksuttavaa että hän tämmöisessä asiassa oikein laskee.
             Jos otamme huomioon, niinkuin prof. Bonsdorff tarkoitti, sen ajan,
@@ -4927,8 +4931,8 @@
         <note xml:id="i-BFVAt7TfLp4AWWaDRTpcAC" type="speaker">
           Tuomioprovasti Schwartzberg:
         </note>
-        <u who="i-PUGEJH9kXtM6B1imKCMoex">
-          <seg>
+        <u xml:id="i-UPsnoxqXGemvX4DKfF4d59" who="i-PUGEJH9kXtM6B1imKCMoex">
+          <seg xml:id="i-GkyqJyCXfZtXGVoGEt6Dqo">
             Kun minun mielestäni olisi parempi lykätä tämä asia asevelvollisuusvaliokuntaan,
             joka on tietysti kompetenttisempi sitä tutkimaan kuin toimitusvaliokunta,
             ehdottaisin että se lykättäisiin takaisin asevelvollisuusvaliokuntaan,
@@ -4943,8 +4947,8 @@
         <note xml:id="i-JmFndN9XQmqhVMc6iccBjW" type="speaker">
           Lääninprovasti Johansson:
         </note>
-        <u who="i-29jAvqcdVSDmnMHm7GL7zd">
-          <seg>
+        <u xml:id="i-5NLzcp5F9y2Y6CHi8cEgsJ" who="i-29jAvqcdVSDmnMHm7GL7zd">
+          <seg xml:id="i-6rs3hmtJ8Xh7uWMjh8zGzF">
             Pyytäisin kannattaa tuomioprovasti Schwartzbergin tekemää ehdotusta.
           </seg>
         </u>
@@ -5102,8 +5106,8 @@
         <note xml:id="i-WzCopsxsTrv8w8DKU1ZEjA" type="speaker">
           Kirkkoherra Malmberg:
         </note>
-        <u who="i-Vc7wHXXgr84Kd9xt5RJJfQ">
-          <seg>
+        <u xml:id="i-PdXRjHu8SYcb2GqdnMW6Gz" who="i-Vc7wHXXgr84Kd9xt5RJJfQ">
+          <seg xml:id="i-55D7LHQEyxCnRehvVt4N74">
             Minussa on herättänyt arveluita tämän pykälän neljännessä kohdassa
             olevat sanat: ,muista
           </seg>
@@ -5135,8 +5139,8 @@
         <note xml:id="i-AAsppEtC41U81JYgUTCcRr" type="speaker">
           Professori Donner:
         </note>
-        <u who="i-XbAQtPkdSaTdnLcpdJrmsg">
-          <seg>
+        <u xml:id="i-RKA6PDx23DM9CVufUEjFVq" who="i-XbAQtPkdSaTdnLcpdJrmsg">
+          <seg xml:id="i-AG16aLiJCvhxemSEYSLVvz">
             Dä lagen innehäller bestämningar rörande tjenstetiden och uttryckligen
             säges att endast utomordentliga politiska eller militära förhällanden
             kunna medföra en förlängning utöfver den bestämda tiden och i
@@ -5170,8 +5174,8 @@
         <note xml:id="i-7JKRAQjr3pWsfo7Ma1UWrr" type="speaker">
           Herra Puhemies:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-P6maHmZg712gnhxoqgTG12" who="unknown">
+          <seg xml:id="i-WN4CSwXWPJsYTXx8HfUT46">
             Käsittely tapahtui voimassa olevan asevelvollisuuslain perustuksella
             eikä muita rubriikkeja ole tarvinnut muuttaa.
           </seg>
@@ -5179,8 +5183,8 @@
         <note xml:id="i-TwAdWMKrPupdpaLKifB5X9" type="speaker">
           Lääninprovasti Johansson:
         </note>
-        <u who="i-29jAvqcdVSDmnMHm7GL7zd">
-          <seg>
+        <u xml:id="i-RJE759qrfbn63frLssN6de" who="i-29jAvqcdVSDmnMHm7GL7zd">
+          <seg xml:id="i-Ketz6TvRHau5hq4FQEw3g">
             Mahdotonta on tätä nykyä arvostella, mitä rasitusta lisätty sotaväki
             maallemme tulee tuottamaan, mutta varmana voi kuitenkin pitää
             että hyvin tuntuvaksi rasitus tulee ja aivan varmaa on että ne
@@ -5231,8 +5235,8 @@
         <note xml:id="i-BeA9DcUaJjUE3q29pareny" type="speaker">
           Kirkkoherra Forsman:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-3GutTNXhSkv3FDUSCdtDFY" who="unknown">
+          <seg xml:id="i-SjE6fW7JpX6XvEQedcbsAj">
             Jag känner af egen erfarenhet sädana fall, som prosten Johansson
             omnämnde, och understöder hans förslag.
           </seg>
@@ -5240,8 +5244,8 @@
         <note xml:id="i-5RTwFyyf7TzbUDKZXFHFL4" type="speaker">
           Kirkkoherra Karlsberg:
         </note>
-        <u who="i-V6v31r5joHKS4WkUQfSh1v">
-          <seg>
+        <u xml:id="i-GddbP7sKZECjoj3YeeB3DH" who="i-V6v31r5joHKS4WkUQfSh1v">
+          <seg xml:id="i-9rC3PneN7xEtRSyp5w3HGY">
             Kun tarkemmin lukee näitä pykäliä ja asetusta henkikirjoituksesta,
             niin sellaista ristiriitaa, josta täällä huomautettiin, ei ole
             olemassa. Kun sanotaan että asevelvollinen on kuuluva siihen kuntaan,
@@ -5272,8 +5276,8 @@
         <note xml:id="i-4kaLa12fn8SeBNCYW4pCUe" type="speaker">
           Lääninprovasti Johansson:
         </note>
-        <u who="i-29jAvqcdVSDmnMHm7GL7zd">
-          <seg>
+        <u xml:id="i-QRZwTUbfUxawePvFMiWX9M" who="i-29jAvqcdVSDmnMHm7GL7zd">
+          <seg xml:id="i-Np8dWNJjCbkhbk3oMe3mSQ">
             Jos 15 S sanoisi: ,niihin kuntiin, joiden henkikirjoissa ovat*,
             niin minä myöntäisin että provasti Karlsbergin selitys on oikea,
             vaan kun se ei niin sano, vaan sanoo: ,joihin he palvelukseen
@@ -5299,8 +5303,8 @@
         <note xml:id="i-DJhJKStUpD4X43xxwhyBvp" type="speaker">
           Provasti Karlsberg:
         </note>
-        <u who="i-V6v31r5joHKS4WkUQfSh1v">
-          <seg>
+        <u xml:id="i-LQNxL3WbShyQvpJBbeq3Uh" who="i-V6v31r5joHKS4WkUQfSh1v">
+          <seg xml:id="i-3SxxBNDChqHD4bKCypsb53">
             Pyydän vaan lyhyesti sanoa että, kun 15 pykälässä sanotaan että
             asevelvollinen kuuluu siihen kuntaan, johon hän palvelukseen astuessaan
             kuului, seuraa siitä että hän on kirjoitettava sen kunnan henkikirjoihin,
@@ -5319,8 +5323,8 @@
         <note xml:id="i-5NYXpRmMk366thwVEUWA69" type="speaker">
           Lääninprovasti Johansson:
         </note>
-        <u who="i-29jAvqcdVSDmnMHm7GL7zd">
-          <seg>
+        <u xml:id="i-Xqs7ZmNXLRCavW7ocGNZjm" who="i-29jAvqcdVSDmnMHm7GL7zd">
+          <seg xml:id="i-W97Pzywzc6r9hCqL7teP45">
             Minä juuri sanoin samaa kuin provasti Karlsberg viimeksi, mutta
             seuraukseksi tulee että apua tulee annettavaksi kahdesta seurakunnasta
             siinä tapauksessa että muuttokirja siirretään arvannoston ja palvelukseen
@@ -5330,8 +5334,8 @@
         <note xml:id="i-3mWiNUm1sMd3PiCsm5ChKe" type="speaker">
           Kirkkoherra Bergroth:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-9fy76CJTgbL267nkoSkZ2K" who="unknown">
+          <seg xml:id="i-3kCgzzHRS52JKTqLs6mUhH">
             En voi käsittää, miksi ei tämmöistä
           </seg>
         </u>
@@ -5345,8 +5349,8 @@
         <note xml:id="i-EefkBofjBvTFjf8bWZB6xF" type="speaker">
           Provasti Karlsberg:
         </note>
-        <u who="i-V6v31r5joHKS4WkUQfSh1v">
-          <seg>
+        <u xml:id="i-Hk1pFyPg99EeCrBgWYdG7P" who="i-V6v31r5joHKS4WkUQfSh1v">
+          <seg xml:id="i-8Nd8rAwEer43MKvrtzzijx">
             En voi käsittää että apua tulisi annettavaksi kahdesta kunnasta.
             Kun 15 S sanoo, mihin kuntaan hän kuuluu, ja 105 &amp; sanoo että
             apua on hänelle annettava siitä kunnasta, jossa hän on hengille
@@ -5392,8 +5396,8 @@
         <note xml:id="i-Fg4Bq6irgej7SRjoe7LPJN" type="speaker">
           Kirkkoherra Malmberg:
         </note>
-        <u who="i-Vc7wHXXgr84Kd9xt5RJJfQ">
-          <seg>
+        <u xml:id="i-PCZeQaxp1u8yjPfsP8PJfJ" who="i-Vc7wHXXgr84Kd9xt5RJJfQ">
+          <seg xml:id="i-5NS2mfEJHiV2mYDmrhQQXp">
             Sen lisäksi, mitä provasti Karlsberg ja asessori Wennerström
             lausuivat, tahdon huomauttaa että, ellen väärin muista, asetus
             kotipaikkaoikeudesta säätää että, jos joku muuttaa seurakunnasta
@@ -5405,8 +5409,8 @@
         <note xml:id="i-LRZ6ozXzmPjS7i5TxpZtQu" type="speaker">
           Lääninprovasti Johansson:
         </note>
-        <u who="i-29jAvqcdVSDmnMHm7GL7zd">
-          <seg>
+        <u xml:id="i-M7dvwD9RbxbgKqUV98AaqZ" who="i-29jAvqcdVSDmnMHm7GL7zd">
+          <seg xml:id="i-VVbDWoyqpD6VHnT3vAZWLK">
             Minun täytyy korjata lausuntoni, koska provasti Karlsberg on
             käsittänyt minun ajatelleen että kahdesta kunnasta yhtähaavaa
             annettaisiin apua. Sitä minä en ole tarkoittanut, vaan sitä, että
@@ -5445,8 +5449,8 @@
         <note xml:id="i-Q4YXsdasCX8kGEQjMziJrs" type="speaker">
           Provasti Karlsberg:
         </note>
-        <u who="i-V6v31r5joHKS4WkUQfSh1v">
-          <seg>
+        <u xml:id="i-MdV1bF8xxrh8kjLvyAJswh" who="i-V6v31r5joHKS4WkUQfSh1v">
+          <seg xml:id="i-2ETqxXKcqBYbJDVtzbAooL">
             Tahdon vielä mainita sen, minkä kenties jo ennenkin olen maininnut,
             ettei tämä avun saanti ollenkaan riipu siitä, missä avunsaajan
             muuttokirja on eli missä hän on kirkonkirjoissa, vaan siitä, mihinkä
@@ -5468,10 +5472,10 @@
           prosten Karlsberg framhällit. En person bör i regeln vara mantalsskrifven,
           der han är kyrkoskrifven, och är det ocksä i de allra flesta fall.
           Men en värnepligtig, som inträdt i aktiv tjenst, kan bilda ett
-          undantag, jemlikt &amp; 15, der det uttryckligen står i 1 mom.: ,Värnepligtige,
-          som vid aktiv trupp fullgöra sin krigstjenstskyldighet, räknas
-          fortfarande till de kommuner, hvilka de vid inträdet i tjensten
-          tillhörde". På grund af detta stadgande
+          undantag, jemlikt &amp; 15, der det uttryckligen står i 1 mom.:
+          ,Värnepligtige, som vid aktiv trupp fullgöra sin krigstjenstskyldighet,
+          räknas fortfarande till de kommuner, hvilka de vid inträdet i
+          tjensten tillhörde". På grund af detta stadgande
         </note>
         <pb facs="https://swerik-project.github.io/valtiopaivat-records-pdf/1899/ptk_1899_papisto_/ptk_1899_papisto_-0095"/>
         <note xml:id="i-5SsDnu3NKiYDnXVxEGtLyD">
@@ -5487,8 +5491,8 @@
           Känestysesitys :
         </note>
         <note xml:id="i-FzzN6139reBjptRsGfiqfK">
-          Ken hyväksyy 15 &amp; mietinnön mukaan, vastaa ,jaa*, jos ,ei* voittaa,
-          on sääty päättänyt pykälän lähetettäväksi takaisin valiokuntaan
+          Ken hyväksyy 15 &amp; mietinnön mukaan, vastaa ,jaa*, jos ,ei*
+          voittaa, on sääty päättänyt pykälän lähetettäväksi takaisin valiokuntaan
           uudestaan muodostettavaksi läänin provasti Johanssonin ehdottamaan
           suuntaan.
         </note>
@@ -5505,8 +5509,8 @@
         <note xml:id="i-S2hABKq2wJKFTCuksKp9ic" type="speaker">
           Kirkkoherra E. Bergroth:
         </note>
-        <u who="i-7uhhayYnnRhw5eHnoRhghn">
-          <seg>
+        <u xml:id="i-S511fteLJXh1mMQhucEsKA" who="i-7uhhayYnnRhw5eHnoRhghn">
+          <seg xml:id="i-HQBQxSM1VdezzoDDTuGLuC">
             Yhtä vähän kuin lääninprovasti Johansson sai muutosehdotuksensa
             hyväksytyksi, yhtä vähän minäkään toivon saavani, mutta teen sen
             kumminkin sentähden että pidän sen oikeutettuna. Esillä olevassa
@@ -5534,8 +5538,8 @@
         </u>
         <pb facs="https://swerik-project.github.io/valtiopaivat-records-pdf/1899/ptk_1899_papisto_/ptk_1899_papisto_-0096"/>
         <note xml:id="i-3dd8aNyezCwAwVTdkzpC7o">
-          Toukok. 23 p. 95 17 &amp; hyväksyttiin muuttamatta. 8:t 18—25 hyväksyttiin
-          keskustelutta.
+          Toukok. 23 p. 95 17 &amp; hyväksyttiin muuttamatta. 8:t 18—25
+          hyväksyttiin keskustelutta.
         </note>
         <note xml:id="i-LGt8cGi7TNWuf9JqkEpQvi">
           26 8. Keskustelu:
@@ -5543,8 +5547,8 @@
         <note xml:id="i-TN3YuaHcwKfeDEPQnKvi8K" type="speaker">
           Provasti Konsin:
         </note>
-        <u who="i-EqzRL2mm1ffjLRp6RzH1bh">
-          <seg>
+        <u xml:id="i-XH4g7mZ2aoBk3iPfFjYwYG" who="i-EqzRL2mm1ffjLRp6RzH1bh">
+          <seg xml:id="i-SWcPobKdYFkNf7oQBecbZc">
             Tässä pykälässä on ymmärtääkseni eräs ristiriitaisuus. Palveluksesta
             seisovassa sotaväessä vapautetaan d) kohdan mukaan perheen ainoa
             poika, joka määräys tähän asti ainakin on selitetty sillä tavalla
@@ -5575,8 +5579,8 @@
         <note xml:id="i-ThSMaTDRc2JBiekjT4WYyj" type="speaker">
           Provasti Karlsberg:
         </note>
-        <u who="i-V6v31r5joHKS4WkUQfSh1v">
-          <seg>
+        <u xml:id="i-J7gPj76aFqgUxgLmipCzxi" who="i-V6v31r5joHKS4WkUQfSh1v">
+          <seg xml:id="i-63BpokiSE28G9F6j6aDKQw">
             Minun mielestäni ei ole hra Konsinin väitteessä mitään perää,
             sillä tuo d) momentti tarkoittaa todellakin ja on aina käsitetty
             tarkoittavan aviollisia lapsia. f momentti taas, joka nyt on lisätty
@@ -5587,8 +5591,8 @@
         <note xml:id="i-PV9AbbFUhm4hMdJt5voBTM" type="speaker">
           Provasti Konsin:
         </note>
-        <u who="i-EqzRL2mm1ffjLRp6RzH1bh">
-          <seg>
+        <u xml:id="i-MkfmXhHrwNLKvZmbBatDBk" who="i-EqzRL2mm1ffjLRp6RzH1bh">
+          <seg xml:id="i-2vNzKS6fyqA7PuVSQTwQyu">
             Minä tiedän kokemuksesta että d) kohtaa on selitetty tähän asti
             niinkuin mainitsin. Olen myöskin sotakomissariukselta siinä kutsunta-alueessa,
             johon minä
@@ -5612,8 +5616,8 @@
         <note xml:id="i-M1VkiUiaqFka2WQY6Teion" type="speaker">
           Professori Palmén:
         </note>
-        <u who="i-SUpmw56zMz2APdv8K23tDg">
-          <seg>
+        <u xml:id="i-6KnSedAtN6cyjUE693FSXU" who="i-SUpmw56zMz2APdv8K23tDg">
+          <seg xml:id="i-HZKW552NCoahqVdGXaqv2y">
             On varsin mahdollista, että usealla taholla on tulkittu d) kohtaa
             niinkuin provasti Konsin esitti. Se onkin selitettävissä, koska
             ei laissa ollut mitään määräystä aviottomasta lapsesta ja tietysti
@@ -5633,8 +5637,8 @@
         <note xml:id="i-4AybCQdU6ZQH4zFw3GsQQW" type="speaker">
           Provasti Karlsberg:
         </note>
-        <u who="i-V6v31r5joHKS4WkUQfSh1v">
-          <seg>
+        <u xml:id="i-VbNp4i4Th6CW2njtpHuZuf" who="i-V6v31r5joHKS4WkUQfSh1v">
+          <seg xml:id="i-Xf1Z9tka3KJ8fNRkmDAYYy">
             Aijoin sanoa samaa kuin vapaaherra Palmen enkä sentähden tahdo
             kerrata hänen lausuntoansa. Tahdon myös mainita että asetusta
             on tulkittu sillä tavalla kuin äsken sanoin, nimittäin että aviotonta
@@ -5648,8 +5652,8 @@
         <note xml:id="i-P11fWJd7chyEaG69B6UVzF" type="speaker">
           Lääninprovasti Walle:
         </note>
-        <u who="i-Ay8y6qphUDYbXoFXQgQvgE">
-          <seg>
+        <u xml:id="i-JYFbvy7UVrvTdCePZxjvB6" who="i-Ay8y6qphUDYbXoFXQgQvgE">
+          <seg xml:id="i-JW8WLHTFHhwRujsvPBD8rS">
             Vaikkapa provasti Konsinin laintulkitsemisen mukaan näennäinen
             vastakkaisuus onkin olemassa d) ja f) momentin välillä, en sittekään
             soisi mitään muutosta pykälään tehtävän, sillä ainakin sananmuodostuksen
@@ -5672,8 +5676,8 @@
         <note xml:id="i-MmCSrZEogkx4NANv8zsXbB" type="speaker">
           Provasti Konsin:
         </note>
-        <u who="i-EqzRL2mm1ffjLRp6RzH1bh">
-          <seg>
+        <u xml:id="i-933RP1Rq1cjbJLJ7ayqaXd" who="i-EqzRL2mm1ffjLRp6RzH1bh">
+          <seg xml:id="i-D3jrQV1Uf7YL4FEAo7byuN">
             Viimeisen puhujan lausunnon johdosta tahdon sanoa etton minä
             ole ehdottanutkaan että koko f) kohta pyyhittäisiin pois. Olen
             vaan tahtonut mainita että on ristiriitaisuutta olemassa d) ja
@@ -5692,8 +5696,8 @@
         <note xml:id="i-NS5d4uv4LZHXjhvEV3yg8U" type="speaker">
           Professori Forsman:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-Rd1skrxMiufRsKFxSsPrX4" who="unknown">
+          <seg xml:id="i-Cxz7SgaX7gskxKu9JSXZjC">
             Minä puolestani en voi huomata tässä pykälässä mitään ristiriitaisuutta.
             Saattaa kyllä olla totta että d) momenttia on tulkittu sillä tavalla
             kuin herra Konsin sanoi, mutta asianlaita on tavallisesti niin
@@ -5747,8 +5751,8 @@
         <note xml:id="i-L3Pe4nyquRCDCn1zGgemWR" type="speaker">
           Professori Hermanson:
         </note>
-        <u who="i-SaCnJmAftzcnG2e8XYGcL9">
-          <seg>
+        <u xml:id="i-K6rX1xzWePGwtjNvdte9sE" who="i-SaCnJmAftzcnG2e8XYGcL9">
+          <seg xml:id="i-3wyndWAtNH58U3GUQcVqXj">
             Jag ber att fä i denna fräga framhålla en omständighet, som icke
             förut har kommit fram i utskottsbetänkandet. Det är den stora
             betydelsen utaf att eden icke missbrukas. Om ett sädant edsformulär
@@ -5805,8 +5809,8 @@
         <note xml:id="i-N6sno3mF6MQaqHFkaRs6Y8" type="speaker">
           Kirkkoherra Malmberg:
         </note>
-        <u who="i-Vc7wHXXgr84Kd9xt5RJJfQ">
-          <seg>
+        <u xml:id="i-BptjvUaKBjrksUf6Cnro73" who="i-Vc7wHXXgr84Kd9xt5RJJfQ">
+          <seg xml:id="i-Qn3MzvrUtgF6JVUMg6XRW6">
             Tämä ehdotettu valan kaava on aivan sopimaton meille. Vala ei
             saa sisältää sellaista, joka ei vastaa sen käsitystä velvollisuuksistansa,
             jolta vala Jumalan kasvojen edessä vaaditaan. Tunnollisen suomalaisen
@@ -5818,8 +5822,8 @@
         <note xml:id="i-8QW944LYj7DBT2JAwjFNyA" type="speaker">
           Kirkkoherra Bergroth:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-3XSPxhDXYBirEWu1DDDHMX" who="unknown">
+          <seg xml:id="i-JUzpPKVQxuRhDQxj8Sn998">
             Minä ajattelen puolestani että säädyn kaikki jäsenet ovat samaa
             mieltä kuin professori Hermanson ja että sääty voi yhtyä hänen
             lausumaansa mielipiteesen. (Jaa, Jaa!).
@@ -5845,10 +5849,10 @@
         <note xml:id="i-3mihpx4ALBYRrKBkNtZ13H" type="speaker">
           Provasti Piipponen:
         </note>
-        <u who="i-CBdpqVDCbhmGYHAKYVJWxE">
-          <seg>
-            Asevelvollisuusvaliokunta on tässä &amp;:ssä tehnyt muun muassa sen
-            muutosehdotuksen että Suomen sotaväen ylipäällikkyys voitaisiin,
+        <u xml:id="i-Cofc1kzWPm2FMNBfrKDRi2" who="i-CBdpqVDCbhmGYHAKYVJWxE">
+          <seg xml:id="i-7n4SXd9DbJrzWDe7C9M3dN">
+            Asevelvollisuusvaliokunta on tässä &amp;:ssä tehnyt muun muassa
+            sen muutosehdotuksen että Suomen sotaväen ylipäällikkyys voitaisiin,
             jos Keisari ja Suuriruhtinas sen hyväksi näkee, siirtää maan Kenraalikuvern.
             riltä jollekulle toiselle henkilölle. Lakivaliokunta näyttää tässä
             tärkeässä asiassa olleen eri mieltä, niinkuin näkyy lakivaliokunnan
@@ -5879,8 +5883,8 @@
         <note xml:id="i-DRbKb3q3TRRSRuihnYcp29" type="speaker">
           Professori Danielson:
         </note>
-        <u who="i-LhNeaJMK2rPRdMfEm4W2yR">
-          <seg>
+        <u xml:id="i-4myKw3PrpfDje1M2vbUt9a" who="i-LhNeaJMK2rPRdMfEm4W2yR">
+          <seg xml:id="i-G7yZcgZL8RyRCnELu8tp9F">
             Tämä on nyt niitä pykäliä, joidenka suhteen asevelvollisuusvaliokunta
             on luullut asianmukaiseksi että säädyt täyttävät armollisessa
             esityksessä tehdyn vaatimuksen, vaikka ei voida suostua siinä
@@ -5934,8 +5938,8 @@
         <note xml:id="i-i31124SSbjiZdkJpz7Uc4" type="speaker">
           Pastori Vartiainen:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-vp6PM4FKBMmmLVTsZNPNa" who="unknown">
+          <seg xml:id="i-BfCUb2KRUcbRN1tyNciXvz">
             Tätä pykälää vastaan on tehty vastalause, joka päättyy siihen
             että rauhanaikainen sotaväen lukumäärä olisi korotettava, ei 12,000:ksi,
             kuten valiokunta ehdottaa, vaan 10,000:ksi. Jokainen, joka tuntee
@@ -5986,8 +5990,8 @@
         <note xml:id="i-LCFh4jCbT5oyKeneMT5Gvs" type="speaker">
           Provasti Wallin:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-M633Kp2YcPQWJGXUMNxpAQ" who="unknown">
+          <seg xml:id="i-Ft5eGLSGFJWTgxrMyrhAHB">
             Edellinen arvoisa puhuja on jo pääasiassa lausunut sen, mitä
             minä aijoin sanoa, joten minun ei tarvitse muuta kun yhtyä häneen
             ja kannattaa talonpoikaissäädyn jäsenten vastalausetta siitä että
@@ -5998,8 +6002,8 @@
         <note xml:id="i-7Lp8cQ8e3Gqqt99domVvKr" type="speaker">
           Kirkkoherra Bergroth:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-EgVpStSgs5YLMX34QukYYT" who="unknown">
+          <seg xml:id="i-KMBBnzBkHtQqnAGpxz7Ar4">
             Talonpoikaissäädyn jäsenet, jotka tekivät vastalauseen, ovat
             vedonneet siihen työväen puutteesen, joka maaseudulla on varsin
             tuntuva ja jota yhä s suuremmaks lisääntyvä maasta muutto vielä
@@ -6019,8 +6023,8 @@
         <note xml:id="i-SckoVMe1hED9wCuaLGgBY6" type="speaker">
           Kirkkoherra Bergroth:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-5SiFxfg3HVDZFdu4DPQmAF" who="unknown">
+          <seg xml:id="i-T1cDjBLowgSjeBfRvxEsQx">
             Tahtoisin osoittaa että siirtolaisuus on kasvamassa ja että tässä
             kohden tehty vastalause on täysin perustettu. Minulla on numeroita,
             jotka tässä kohden asiaa valaisevat.
@@ -6029,8 +6033,8 @@
         <note xml:id="i-PJ9ETtRkdENsiE9oEJEgPJ" type="speaker">
           Herra Puhemies:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-YHGQ67NDdiKEbN63kUkfAS" who="unknown">
+          <seg xml:id="i-DKp5JXr97WhF8Pf8H4jBHo">
             Jos kirkkoherran tarkoitus ei ole mennä pitemmälle kuin aamupäivän
             istunnossa tehtyihin huomautuksiin, niin kirkkoherralla on yhä
             puheenvuoro.
@@ -6088,8 +6092,8 @@
         <note xml:id="i-42fr2ESYhFRwF7V95wWyGP" type="speaker">
           Provasti K. A. Schroderus:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-7aLob5zB2kBXi75sDsvpsG" who="unknown">
+          <seg xml:id="i-DqgEmDCf1PciQEgPoJLPg">
             Se periaate, joka on johtanut asevelvollisuusvaliokuntaa, sen
             ehdottaessa Suomen vakinaisen sotaväen lisäämistä, on epäilemättä
             aivan oikea. Valiokunta onkin, tarkasti harkittuaan tätä arkaluontoista
@@ -6119,8 +6123,8 @@
         <note xml:id="i-DDQT3aVJxxN7mSV2HJvoth" type="speaker">
           Professori Donner:
         </note>
-        <u who="i-XbAQtPkdSaTdnLcpdJrmsg">
-          <seg>
+        <u xml:id="i-BipNHdobCmWcF3zkagfZLZ" who="i-XbAQtPkdSaTdnLcpdJrmsg">
+          <seg xml:id="i-7JQ58q4o47mf9M8jpXCwDe">
             Det kan helt säkert icke förnekas att emigrationen i värt land
             till betydlig del beror deraf att man velat undandraga sig värnepligtens
             fullgörande och att den under innevarande är i högsta grad tilltagit
@@ -6179,8 +6183,8 @@
         <note xml:id="i-5SbnpRtnD9XEwpqX58Da37" type="speaker">
           Provasti Piipponen:
         </note>
-        <u who="i-CBdpqVDCbhmGYHAKYVJWxE">
-          <seg>
+        <u xml:id="i-Y1xKuKP1HMRg2nbRqc64DF" who="i-CBdpqVDCbhmGYHAKYVJWxE">
+          <seg xml:id="i-UaB4iVPMnFzDQibHztWgpp">
             Kohtuullista varmaan on, varsinkin sotilaalliselta kannalta katsoen,
             että Suomen nykyistä rauhanaikaista sotaväkeä melkoisesti lisätään,
             eikä Suomen kansa siinäkään tahdo olla poissa velvollisuutensa
@@ -6228,8 +6232,8 @@
         <note xml:id="i-FvRuXDvEffRp991jU3YeiH" type="speaker">
           Professori Danielson:
         </note>
-        <u who="i-LhNeaJMK2rPRdMfEm4W2yR">
-          <seg>
+        <u xml:id="i-7mA8ZtKLpFdayGAw9BbzAU" who="i-LhNeaJMK2rPRdMfEm4W2yR">
+          <seg xml:id="i-AfRPV28223o4Fc4wTKnJbC">
             Kirkkoherra Bergroth otti täällä uudelleen esille emigratsioonikysymyksen.
             Ne numerot, jotka hän mainitsi, näyttävät, kuten ennaltaan oli
             odotettavissa, että hän on siihen kylläkin perehtynyt. Mutta sittenkin
@@ -6425,8 +6429,8 @@
         <note xml:id="i-FMdA8CoYc9E1RGDGY5JNsa" type="speaker">
           Yliopettaja Rosenqvist:
         </note>
-        <u who="i-JtwzCWzfXqxrEiL7KTkrfY">
-          <seg>
+        <u xml:id="i-EKbXwq5jG9MvZFCptx1po7" who="i-JtwzCWzfXqxrEiL7KTkrfY">
+          <seg xml:id="i-WdLbBoHoTwACKadx7paoeY">
             Trots allt, hvad som har blifvit framhället för utskottsbetänkandet
             i denna fräga, mäste jag för min del förena mig om reservationen.
             Denna reservation har gjort på mig ett intryck, särskildt derför
@@ -6443,8 +6447,8 @@
         <note xml:id="i-DprXE2Ytjpcet7shFALimZ" type="speaker">
           Professori Bonsdorff:
         </note>
-        <u who="i-3ar8iPZ5CiM9KjHkxDUWKL">
-          <seg>
+        <u xml:id="i-8VNUgPxbRcSDoLvKrqNHjQ" who="i-3ar8iPZ5CiM9KjHkxDUWKL">
+          <seg xml:id="i-EJAxmidKi6VXUseyRUrHzF">
             Kun Suomen kansakoululaitos astuu täyteen voimaan, niin se aika
             ei ole kaukana, jolloin melkein jokainen asevelvollisuusijässä
             oleva nuorukainen tulee saamaan nyt ehdotetun asetuksen mukaan
@@ -6479,8 +6483,8 @@
         <note xml:id="i-Tr1Mb856UWFQVUB97dCCAj" type="speaker">
           Kirkkoherra Bergroth:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-EbmWqHziDei7S2FggfVCsd" who="unknown">
+          <seg xml:id="i-KeyVEHztWagjhYarTgt5YD">
             Tämä asia on kytketty likeiseen yhteyteen siirtolaisuuden kanssa
             ja likeisessä yhteydessä se epäilemättä siihen on. Huomautin jo
             aamupäivällä, kuinka vaikeat siirtolaisolot jo ovat, vaikka siirtolaisuus
@@ -6547,8 +6551,8 @@
         <note xml:id="i-N1CUzq1wA2JNHKRXJWLAHF" type="speaker">
           Kirkkoherra Hannula:
         </note>
-        <u who="i-D1FsfDBmNqCrFh66jtDHKq">
-          <seg>
+        <u xml:id="i-K9t9ZUKPBWfNcF1NbwVRRf" who="i-D1FsfDBmNqCrFh66jtDHKq">
+          <seg xml:id="i-9wbaYfoHVHk8m8TNFTPVAA">
             Eräs arvoisa puhuja on tänä iltana huomattanut, mitenkä maamme
             kehittyneet olot ovat vaikuttaneet edullisesti myöskin maata viljelevän
             kansan oloihin. Tämä on niin yleisesti tunnettu että kenenkään
@@ -6592,8 +6596,8 @@
         <note xml:id="i-UTUgZm9n2ajbJDpHvVh1Wr" type="speaker">
           Provasti Hellman:
         </note>
-        <u who="i-D6Mi4GWWJsTvqGyurVJi26">
-          <seg>
+        <u xml:id="i-4ovJYryqqepy4HjTpBsf1o" who="i-D6Mi4GWWJsTvqGyurVJi26">
+          <seg xml:id="i-EssfwfmLeDmGBsPiPGgwWd">
             Aivan luonnollista ja ymmärrettävää on että tätäkin asiaa on
             käsiteltävä ennen kaikkea oikeuden ja kohtuuden kannalta. Mutta
             kun, niinkuin monet edelliset arvoisat puhujat ovat huomauttaneet,
@@ -6614,8 +6618,8 @@
         <note xml:id="i-NTtE7kn2rt1Cr9neNhFMa4" type="speaker">
           Kirkkoherra Nauklör:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-DeXUcb11mhBpwWxXqf8eEX" who="unknown">
+          <seg xml:id="i-5a1zsgLtGcEFuKiYXSWkrJ">
             Minä puolestani pidän kyllä tärkeänä että säädyt kysymyksessä
             olevassa asiassa tekevät myönnytyksiä ja siis ehdottavat vakinaisen
             rauhanaikaisen sotaväen lisäämistä. Kuitenkaan en uskaltaisi mennä
@@ -6631,8 +6635,8 @@
         <note xml:id="i-FyJwaS5znN4YKKyaHoBt2M" type="speaker">
           Professori Palmén:
         </note>
-        <u who="i-SUpmw56zMz2APdv8K23tDg">
-          <seg>
+        <u xml:id="i-AMgvcspGBkcpc8WWWAuvPv" who="i-SUpmw56zMz2APdv8K23tDg">
+          <seg xml:id="i-XxXMHzcksJ8C8ckQW9PMxH">
             Vaikka minulla ei ole asiallisesti suuria lisättävää siihen,
             mitä ne herrat, jotka ovat puolustaneet valiokunnan mietintöä
             tässä kohden, lähinnä herrat Donner ja Danielson, ovat lausuneet,
@@ -6734,8 +6738,8 @@
         <note xml:id="i-NHPHDLFDYA3tKLCTkFcP3N" type="speaker">
           Rehtori Bergroth:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-TSyRpUBDtpvLo3Hz5zX2Wd" who="unknown">
+          <seg xml:id="i-K97KZYV55oGoDnX4usnwdg">
             Valitessani monien mielivaltaisesti asetettujen numeroiden välillä
             en epäile valita sitä, jonka kautta mahdollisesti säästyy 2,000
             miestä vuosittain rauhan toimiin. Minä uskon että hallitsijamme,
@@ -6751,8 +6755,8 @@
         <note xml:id="i-48TzGWCjJekhoceoHZx1P4" type="speaker">
           Piispa Råbergh:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-UVMJujJn79w7SbkasdM192" who="unknown">
+          <seg xml:id="i-ELTAX5JYHr1W5U3F4sHrQS">
             Jag har begärt ordet för att också jag i korthet uttala min ståndpunkt
             i denna fråga. Det kännes visserligen för mig motvilligt att medvärka
             till ett beslut, som åsyftar att höja krigsstyrkan i framtiden
@@ -6789,8 +6793,8 @@
         <note xml:id="i-86AvTHhWL7gSpLMf9APZSD" type="speaker">
           Tuomioprovasti Schwartzberg:
         </note>
-        <u who="i-PUGEJH9kXtM6B1imKCMoex">
-          <seg>
+        <u xml:id="i-ALoZGHDd9sKqK2ZQ28Y8C" who="i-PUGEJH9kXtM6B1imKCMoex">
+          <seg xml:id="i-GLXJL8L7HeMyHQZw5KiV91">
             Suuret oikeudet vaativat suuria velvollisuuksia. Me vaadimme
             meidän maassamme pysytettäväksi oikeuksia, joita olemme kaitselmuksen
             johdon mukaan itsellemme voittaneet ja nämä oikeudet vaativat
@@ -6837,8 +6841,8 @@
         <note xml:id="i-AHVV7HaTMiRUJibfp6G1Vc" type="speaker">
           Provasti Heman:
         </note>
-        <u who="i-76wvRLqhqAr39bzB2aNLry">
-          <seg>
+        <u xml:id="i-HJRg4DgFgdc3k32z38xCjk" who="i-76wvRLqhqAr39bzB2aNLry">
+          <seg xml:id="i-NWvxvL1eESMom3yVX9KAHL">
             Aivan selvää ja ilmeistä on että asevelvollisuuskuorma tulee
             raskaaksi, jos sitte määrätään rauhanaikainen sotaväen lukumäärä
             12,000:ksi taikka 10,000:ksi, raskaammaksi entistä suuressa määrin.
@@ -6944,8 +6948,8 @@
         <note xml:id="i-Y6fWRhaUWRy4ebENCrR5bW" type="speaker">
           Professori Donner:
         </note>
-        <u who="i-XbAQtPkdSaTdnLcpdJrmsg">
-          <seg>
+        <u xml:id="i-7Su64nPf3bDs5aBt8uc3h6" who="i-XbAQtPkdSaTdnLcpdJrmsg">
+          <seg xml:id="i-12CNYKqDrDxUhFrjmN3MAa">
             Dä sä mänga talare ha förenat sig om den reservation, hvilken
             ätföljer utskottsbetänkandet, kan jag icke hålla tillbaka några
             ord i samma riktning, som den sista ärade talarens och äfven friherre
@@ -6979,8 +6983,8 @@
         <note xml:id="i-8cGDJvBm55i5trej5SdTcK" type="speaker">
           Tuomioprovasti Schwartzberg:
         </note>
-        <u who="i-PUGEJH9kXtM6B1imKCMoex">
-          <seg>
+        <u xml:id="i-PsMptS7juAWTmMEQxzzi5F" who="i-PUGEJH9kXtM6B1imKCMoex">
+          <seg xml:id="i-WQRHEEgbTkFVDfdWub47bH">
             Jos minun sanojani ymmärrettiin niin että minä uusia oikeuksia
             meidän kansallemme tahtoisin, niin pidän velvollisuutenani lausua
             tarkoittaneeni että, niinkuin muistan sanoneeni, ne oikeudet,
@@ -7020,8 +7024,8 @@
         <note xml:id="i-974fHiW92LQU4ZG7ZYDyg9" type="speaker">
           Rehtori Melander:
         </note>
-        <u who="i-KXaaRpC72pNJUchqW1VYda">
-          <seg>
+        <u xml:id="i-AonrY8HSAmaKhBTUgDEUbc" who="i-KXaaRpC72pNJUchqW1VYda">
+          <seg xml:id="i-5C93c5Xr7FopvYWAYthnrf">
             Pyytäisin tätä pykälää vastaan saada tehdä erään muistutuksen,
             joka ei ole periaatteellista laatua, vaan koskoe ainoastaan pykälän
             sanamuotoa. Mielestäni ei nimittäin tämä sanamuoto ole täydellisesti
@@ -7059,16 +7063,16 @@
         <note xml:id="i-2fW1ThhevtE5ct2eGNNuCF" type="speaker">
           Kolleega Westerlund:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-6Cx7fF68gLwfPJU3zLUtDq" who="unknown">
+          <seg xml:id="i-Ayb3p9u6vkV9JcU1k7ustR">
             Pyydän saada kannattaa rehtori Melanderin ehdotusta.
           </seg>
         </u>
         <note xml:id="i-FPcaCnRPXo1WDCVFVLkL9M" type="speaker">
           Professori Donner:
         </note>
-        <u who="i-XbAQtPkdSaTdnLcpdJrmsg">
-          <seg>
+        <u xml:id="i-NvDwRq7bwQVJU1o9THFfnx" who="i-XbAQtPkdSaTdnLcpdJrmsg">
+          <seg xml:id="i-LHUnf1JkQKrgZSNz23ucpw">
             Sävida jag fattat talaren rätt, sä skulle yrkandet gå ut derpä
             att ordet ,företrädesvis* skulle borttaja och paragrafen skulle
             dä lyda: ,Under krigstid användas
@@ -7088,8 +7092,8 @@
         <note xml:id="i-GWhC7XTCT1sV5PdzZqQ2VV" type="speaker">
           Rehtori Melander:
         </note>
-        <u who="i-KXaaRpC72pNJUchqW1VYda">
-          <seg>
+        <u xml:id="i-3Ebi6eZfh468qJPW7vHzGh" who="i-KXaaRpC72pNJUchqW1VYda">
+          <seg xml:id="i-UDV6Qn6rRPF1vGWewJsXNT">
             Minä pyysin puheenvuoroa sen johdosta, mitä professori Donner
             ensin sanoi, sillä ehdotukseni ei koskenut ainoastaan sanaa ,etupäässä*,
             vaan myöskin sanoja ,sitä ei näihin tarvita*. Ruotsiksi kuuluisi
@@ -7112,8 +7116,8 @@
         <note xml:id="i-ox86SjQNvm6J8taYrJjjZ" type="speaker">
           Professori Donner:
         </note>
-        <u who="i-XbAQtPkdSaTdnLcpdJrmsg">
-          <seg>
+        <u xml:id="i-8fr3DVwZ8hDS19dSCeMxFy" who="i-XbAQtPkdSaTdnLcpdJrmsg">
+          <seg xml:id="i-9mxyUu4VGCrhith9dhZ29T">
             Ofverhufvudtaget äro dylika förändringar i sä ömtäliga bestämningar
             som här förekomma ganska farliga att pä förhand företaga. Den
             formulering, som rektor Melander nu föreslog, skulle sälunda innebära
@@ -7132,8 +7136,8 @@
         <note xml:id="i-BTbMQjHmU1MByX4XoFB2Wg" type="speaker">
           Professori Danielson:
         </note>
-        <u who="i-LhNeaJMK2rPRdMfEm4W2yR">
-          <seg>
+        <u xml:id="i-HpJcRR35KrgMJee7hNe72s" who="i-LhNeaJMK2rPRdMfEm4W2yR">
+          <seg xml:id="i-4Lj9FFGre91XgzLRVQfVBK">
             Taitaa olla asianmukaista ilmoittaa että jotenkin samanlainen
             sanamuodostus kuin herra Melanderin ehdottama on saavuttanut yhdessä
             säädyssä enemmistön. Niin ollen ansaitsee tämä ehdotus ehkä enemmän
@@ -7157,8 +7161,8 @@
         <note xml:id="i-TCALgjvUjVvNRTwduaQ91z" type="speaker">
           Herra Puhemies:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-DTvBUWPdv1UZmcWKmShxHM" who="unknown">
+          <seg xml:id="i-Vp3Z8EeQp1AcPUQdyDssgR">
             ,Dä sådana icke äro behötfliga*.
           </seg>
         </u>
@@ -7169,8 +7173,8 @@
         <note xml:id="i-4DR6C4cY9mmmHRmJxoV6HQ" type="speaker">
           Professori Danielson:
         </note>
-        <u who="i-LhNeaJMK2rPRdMfEm4W2yR">
-          <seg>
+        <u xml:id="i-HFPKgMYXCmV3RPp7nyp4F4" who="i-LhNeaJMK2rPRdMfEm4W2yR">
+          <seg xml:id="i-Epnbn3NnNH5xiXcEV1ePz2">
             Siinä on vaikeus ettei tiedetä, miten sana ,försvarsåtgärder"
             oikeastaan on käsitettävä. Se sana on ollut sekä tätä pykälää
             käsitellessä että vallankin, kun oli nostoväestä puhe, keskustelun
@@ -7191,8 +7195,8 @@
         <note xml:id="i-CEQpBo4vtn5MVSrAHEjwkQ" type="speaker">
           Professori Forsman:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-X7eHeGroohE7FBR9sozQzR" who="unknown">
+          <seg xml:id="i-ULBAo86BFWF98i5XHBgjN8">
             Saamme epäilemättä puhua loppumattomiin asti, jos koetamme saada
             selville, mitä etuja ja haittoja herra Melanderin ehdotuksesta
             on. Tällaisen pykälän redaktsiooni on sitä paitsi niin arkaluontoinen,
@@ -7208,8 +7212,8 @@
         <note xml:id="i-H663kLeV23Qc233AeDuCPr" type="speaker">
           Professori Runeberg:
         </note>
-        <u who="i-QQ7rzMcvpGv1RunkkD3Hgv">
-          <seg>
+        <u xml:id="i-Qtgs2ViSp8qKt8zQmDEZGA" who="i-QQ7rzMcvpGv1RunkkD3Hgv">
+          <seg xml:id="i-KXJBRzi2BAByPF1t2VXKTt">
             Sävidt jag kan förstä den föreslagna förändringen, sä skulle
             jag icke kunna betrakta den som en förbättring af paragrafen.
             Den skulle, ätminstone säsom det förefaller mig nu, innebära en
@@ -7242,8 +7246,8 @@
         <note xml:id="i-LzL971w2Ap6KeFQ2KG7kog" type="speaker">
           Professori Palmén:
         </note>
-        <u who="i-SUpmw56zMz2APdv8K23tDg">
-          <seg>
+        <u xml:id="i-Nnco39XpAmWk4TSXUKENNL" who="i-SUpmw56zMz2APdv8K23tDg">
+          <seg xml:id="i-C1g8dsCMHVX9gLnW88UBeY">
             Tämä momentti, niin lyhyt kuin se onkin, on maksanut asevelvollisuusvaliokunnalle
             useampia tunteja kuin tässä on riviä edessämme, ja monenmoisten
             ehdotusten perästä tultiin tähän tulokseen. Minä käsitän varsin
@@ -7269,8 +7273,8 @@
         <note xml:id="i-Rr3VK9tZpXAjT1F1AWyLWB" type="speaker">
           Pastori Vartiainen:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-Dgoeyprz2DPGYwjGAzNSpi" who="unknown">
+          <seg xml:id="i-XYBAEuUhwWqdsbzinth3vS">
             Ei minunkaan mielestäni rehtori Melanderin ehdotus ole onnistunut,
             mutta ei myöskään valiokunnan ehdotus, sillä sen mukaan saattaisi
             Suomen sotaväkeä aina käyttää Venäjän etäisissä sodissa. Juuri
@@ -7290,8 +7294,8 @@
         <note xml:id="i-3LbJa6wrbkHURMm4QWnGdp" type="speaker">
           Tuomioprovasti Hedberg:
         </note>
-        <u who="i-FNPPwEod1e3taFV6aqGkL">
-          <seg>
+        <u xml:id="i-WfhqnPgmRBGVFy1kgxMZvF" who="i-FNPPwEod1e3taFV6aqGkL">
+          <seg xml:id="i-MfY4vbZMDGBBVK3BC3EXNH">
             Pyytäisin kannattaa professori Runebergin lausuntoa. Minusta
             tuntuu siltä että, jos rehtori Melander ei ole tarkoittanut mitään
             asiallista muutosta, hänen ehdottamansa sananmuodostus tekee tämän
@@ -7345,8 +7349,8 @@
         <note xml:id="i-GUtgvFsSF2GFNHaJ1xzc5r" type="speaker">
           Kirkkoherra Wegelius:
         </note>
-        <u who="i-7x5gXVj79xJqm8cJn4jspv">
-          <seg>
+        <u xml:id="i-8Jmgz6V6JhwzwBSGKVqrD1" who="i-7x5gXVj79xJqm8cJn4jspv">
+          <seg xml:id="i-JfFXATCEBXk6tKQHSDy566">
             Minä vaan pyytäisin saada huomauttaa, eivätkö nämä lisäykset
             olisi pantavat eri pykäläksi asetukseen. (Ei! Ei!) Niinkuin ne
             nyt ovat, kuuluvat ne 123 S:ään.
@@ -7382,8 +7386,8 @@
         <note xml:id="i-F42QjPmE4HijwgnV9MXLcJ" type="speaker">
           Herra Puhemies:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-W93xGTjY9GdRbZTseyxvrS" who="unknown">
+          <seg xml:id="i-MkMJZFwtj7WnHFgYnvSWLL">
             Se päätettiin jo äänestettäessä sivulla 123 olevasta ponnesta,
             joka kuuluu: ,että Valtiosäädyt eivät ole voineet hyväksyä armollisella
             esityksellä Valtiosäädyille annettua ehdotusta Suomen Suuriruhtinaanmaan
@@ -7406,8 +7410,8 @@
         <note xml:id="i-4Es7iQaSZ5nnZYhTrk3FWC" type="speaker">
           Professori Hermanson:
         </note>
-        <u who="i-SaCnJmAftzcnG2e8XYGcL9">
-          <seg>
+        <u xml:id="i-MwcNzyVYMoSaUeGJXe2byd" who="i-SaCnJmAftzcnG2e8XYGcL9">
+          <seg xml:id="i-FMjka3nAuvGyku61FoGv2Q">
             Uti ett af de aktstyeken, som öfverlemnats till ständerna jemte
             de nädiga propositionerna, säges bland annat, att man ,bör kunna
             förebringa obestridliga fakta för att påstå, att Kejsar Alexander
@@ -7458,12 +7462,12 @@
           skulle anses såsom afskaffade. Dermed ville man säga, hvad som
           också vid flera tillfällen uttalades både af konungen och af ständerna,
           att Sveriges gamla lagar voro till deras väsentliga delar återstälda:
-          och i full öfverensstämmelse härmed stadgades i &amp; 5 R. F. Konungen
-          eger styra och råda frälsa och beskydda borgar och land samt all
-          sin och kronans rätt såsom lag och denna R. F. säger", alltså
-          såsom landslagen och R. F. säger. Man hade sålunda återgått till
-          det gamla samhällskicket, sedan man bortskurit de utväxter, som
-          på detsamma tillkommit i följd af de stadganden, som infördes
+          och i full öfverensstämmelse härmed stadgades i &amp; 5 R. F.
+          Konungen eger styra och råda frälsa och beskydda borgar och land
+          samt all sin och kronans rätt såsom lag och denna R. F. säger",
+          alltså såsom landslagen och R. F. säger. Man hade sålunda återgått
+          till det gamla samhällskicket, sedan man bortskurit de utväxter,
+          som på detsamma tillkommit i följd af de stadganden, som infördes
           under enväldet och genom frihetstidens lagar. Huru mycket man
           förstod innebörden utaf de orden att Sveriges gamla lagar voro
           till sina väsentligaste delar återstälda, må lemnas derhän, men
@@ -7658,8 +7662,8 @@
         <note xml:id="i-FDrheKdWjaW72TXpycbyX2" type="speaker">
           Herra Puhemies:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-R5bebXM7smj2kJfWWfM15T" who="unknown">
+          <seg xml:id="i-MB5fHftH7FBc2xrBPpDrdi">
             Minä ehdotin että tästä ponnesta siirtyisimme lakivaliokunnan
             mietintöön ja sentähden oli aikomukseni lukea lakivaliokunnan
             ehdottamat ponnet sivulla 116. Muuten tahdon mainita että asevelvollisuusvaliokunnan
@@ -7671,8 +7675,8 @@
         <note xml:id="i-7aZKj8DjwRoQb7U4vgy7QU" type="speaker">
           Professori Palmén:
         </note>
-        <u who="i-SUpmw56zMz2APdv8K23tDg">
-          <seg>
+        <u xml:id="i-7JxVqMvfRvpqafQUwYuxkh" who="i-SUpmw56zMz2APdv8K23tDg">
+          <seg xml:id="i-7KXpBrwE1gdCpWC7hRWWrc">
             Minä pyysin puheenvuoroa ainoastaan saadakseni provasti Lyran
             muistutuksen johdosta mainita että, kun asevelvollisuusvaliokunta
             erinäisissä paikoissa, alkaen jo 6 sivulta, sekä sitten 9 sivulla
@@ -7707,8 +7711,8 @@
         <note xml:id="i-Cm8fjWzJ6Gj85gcc4Yr7wM" type="speaker">
           Herra Puhemies:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-SPkRU7R15RwJ3eiyQkfGuB" who="unknown">
+          <seg xml:id="i-Ro3zcYewMumjL6pnzPYunG">
             Kun valiokunta antoi nämä mietintönsä, ilmoitettiin että ne kuuluvat
             yhteen ja on edellytetty että asevelvollisuusvaliokunnan mietinnössä
             olevat viittaukset lafivaltokunnan mietintöön liitetään asevelvollisuuslain
@@ -7726,8 +7730,8 @@
         <note xml:id="i-QP1DNnChjA4Q9H7xp8oVZp" type="speaker">
           Kirkkoherra Wegelius:
         </note>
-        <u who="i-7x5gXVj79xJqm8cJn4jspv">
-          <seg>
+        <u xml:id="i-D9PHuj6st6HTS5Tu8offNQ" who="i-7x5gXVj79xJqm8cJn4jspv">
+          <seg xml:id="i-L2wk6a5QJ4HGhffazb6Zc8">
             Samoin kuin useammat muut puhujat olen minäkin hyvin tyytyväinen
             mietintöön ja olen myös valmis hyväksymään tämän viimeisen ponnen,
             niinkuin edellisetkin. Ainoastaan pienen muistutuksen tahtoisin
@@ -7762,8 +7766,8 @@
         <note xml:id="i-5J6RWyEbWv4HqWpzHpq5E7" type="speaker">
           Professori Runeberg:
         </note>
-        <u who="i-QQ7rzMcvpGv1RunkkD3Hgv">
-          <seg>
+        <u xml:id="i-2xAd2xdG7Ma3kD7j9R3Zhm" who="i-QQ7rzMcvpGv1RunkkD3Hgv">
+          <seg xml:id="i-Jwstj6Wp76j9Tu8u8UXZMD">
             De vigtiga klämmar, i hvilka lag-. utskottet uttalat den uppfattning,
             som framgär af utskottets föregäende bevisföring, gifva uttryck
             ät den fast grundade öfvertygelsen, som hos hvarje vittnesgill
@@ -7776,8 +7780,8 @@
         <note xml:id="i-2ctUxXabnpNoX2i1DzAT5Y" type="speaker">
           Pastori Vartiainen:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-4aQA7LY8CQdzg7XzW6N6u3" who="unknown">
+          <seg xml:id="i-JbCdbei8nt54vuCNrsj2Rj">
             Minä tahtoisin kannattaa kirkkoherra Wegeliuksen ajatuksia. Tämä
             sana ,korkeampi mailman järjestys*, se on tullut, niinkuin tiedetään,
             semmoisesta filosofiasta, joka ei usko persoonallista Jumalaa,
@@ -7812,8 +7816,8 @@
         <note xml:id="i-UNqsLecqmyiLQy7JR6qXFa" type="speaker">
           Professori Hermanson:
         </note>
-        <u who="i-SaCnJmAftzcnG2e8XYGcL9">
-          <seg>
+        <u xml:id="i-D8t2DUXPHSypEtjq1peRyc" who="i-SaCnJmAftzcnG2e8XYGcL9">
+          <seg xml:id="i-9D1seGkrUwaD8Rqx2nbmPM">
             Om detta betänkande pä nägot sätt skulle innebära ett förnekande
             af Gud, sä vore jag den första att korsa öfver det, men jag för
             min del känner ingen annan högre verldsordning än Guds. — Jag
@@ -7844,8 +7848,8 @@
         <note xml:id="i-4wzhkZTkwvfxmhRk5UgBLZ" type="speaker">
           Kirkkoherra Wegelius:
         </note>
-        <u who="i-7x5gXVj79xJqm8cJn4jspv">
-          <seg>
+        <u xml:id="i-6XS4KXw8czUpRmMeBwRZxz" who="i-7x5gXVj79xJqm8cJn4jspv">
+          <seg xml:id="i-4kqbYwLzWS2nYXokJPC5Tq">
             Mielestäni tämän asian ei tarvitse antaa aihetta mihinkään teoloogiseen
             keskusteluun. Olen kyllä kiitollinen erittäin juuri tästä osasta
             valiokunnan mietintöä, ja olen aivan vakuutettu siitä ettei ole
@@ -7865,8 +7869,8 @@
         <note xml:id="i-8QKocZk8Ah44is5BHbwMqg" type="speaker">
           Herra Puhemies:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-23PLMfGBYzTFvUdSzXzqoN" who="unknown">
+          <seg xml:id="i-17Foy1TY7G8UyoF89ZeVrr">
             Minulle on vastenmielistä asettaa tämä kysymys äänestyksen alaiseksi,
             kun siitä sen kautta tulisi mahdollisesti äänestettäväksi myöskin
             muissa säädyissä. Multe jos ehdotuksentekijä vaatii, niin minun
@@ -7876,8 +7880,8 @@
         <note xml:id="i-FKeYeZzgmhXAudZtm8DAB5" type="speaker">
           Kirkkoherra Wegelius:
         </note>
-        <u who="i-7x5gXVj79xJqm8cJn4jspv">
-          <seg>
+        <u xml:id="i-FyVjC5uyUt3FLA5huicVen" who="i-7x5gXVj79xJqm8cJn4jspv">
+          <seg xml:id="i-AB7Vo61AfgBYBfxETW5xSU">
             Minä en ole mitään muuta ehdotusta tehnyt kuin että sana ,korkeampaan*
             muutettaisiin sanaksi ,jumalalliseen*.
           </seg>
@@ -7885,16 +7889,16 @@
         <note xml:id="i-J8a8EEQgj1fVpa7cREzra4" type="speaker">
           Herra Puhemies:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-F1cAez8yZfpp6xGicBebnQ" who="unknown">
+          <seg xml:id="i-SzMTr2dPswxmRzVXJCjYv7">
             Puhuja siis tahtoo äänestystä?
           </seg>
         </u>
         <note xml:id="i-WrRfp6JM2nVLTaAt84JS3T" type="speaker">
           Kirkkoherra Wegelius:
         </note>
-        <u who="i-7x5gXVj79xJqm8cJn4jspv">
-          <seg>
+        <u xml:id="i-57MRvr2DNpHPk24CcB999m" who="i-7x5gXVj79xJqm8cJn4jspv">
+          <seg xml:id="i-DBq8uVatE7PXWLhfHbMdVN">
             Niin!
           </seg>
         </u>
@@ -7905,8 +7909,8 @@
         <note xml:id="i-Fy9CNFgCtVAzT3eb1TZ6Px" type="speaker">
           Lääninprovasti Stenbäck:
         </note>
-        <u who="i-2pD791VLsqhv5WJ2JcdDCs">
-          <seg>
+        <u xml:id="i-UMLiUVxAZLGRugmJXmG4ck" who="i-2pD791VLsqhv5WJ2JcdDCs">
+          <seg xml:id="i-CJ4VJwfirPDgLhHnc3rX9R">
             Eiköhän kirkkoherra Wegelius tarkemmin ajateltuaan asiaa luopuisi
             vaatimuksestaan panna sitä äänestyksen alaiseksi. Kun hän nyt
             on saanut mielipiteensä lausutuksi pöytäkirjaan, saisi hän tyytyä
@@ -7917,8 +7921,8 @@
         <note xml:id="i-UFbuPAc8YdSZEpqRpNz6eZ" type="speaker">
           Kirrkkoherra Wegelius:
         </note>
-        <u who="i-7x5gXVj79xJqm8cJn4jspv">
-          <seg>
+        <u xml:id="i-CNLWUp5FHZeTyseb2k8dBg" who="i-7x5gXVj79xJqm8cJn4jspv">
+          <seg xml:id="i-TZTedevU5hPCJVqvbDdLxF">
             Koska olen saanut kuulla, mitä sääty ajattelee asiasta, niin
             minä kyllä luovun ehdotuksestani.
           </seg>
@@ -8020,8 +8024,8 @@
         <note xml:id="i-G25RnyHcpbXoMJifwLe7jy" type="speaker">
           Professori Danielson:
         </note>
-        <u who="i-LhNeaJMK2rPRdMfEm4W2yR">
-          <seg>
+        <u xml:id="i-FV71WEh8R89A5eRtpe9XTh" who="i-LhNeaJMK2rPRdMfEm4W2yR">
+          <seg xml:id="i-P5xdLRtcLWBW5nxdHXNhRQ">
             Asevelvollisuusvaliokunta on kyllä arvellut että tämä kysymys
             on selvä, sillä voidaanhan viitata erääsen ennen sattuneesen tapaukseen
             samaa laatua. Kun nimittäin v. 1888 Suomen sotaväen lukumäärä
@@ -8077,8 +8081,8 @@
         <note xml:id="i-KqXN2PoMbXH8ybYqAqBYc" type="speaker">
           Provasti Kaitila:
         </note>
-        <u who="i-XMfzYUgiZP2sqpyvq3GsZR">
-          <seg>
+        <u xml:id="i-2MH2fwFzHHRgFf83DRYgRt" who="i-XMfzYUgiZP2sqpyvq3GsZR">
+          <seg xml:id="i-2G6ELTXUBxQRAKvUDx8EiD">
             Lakivaliokunta on tässä mietinnössä, jonka se on antanut armollisten
             esitysten johdosta, jotka koskevat asevelvollisuusrasituksen tasoittamista
             Suomessa ja Keisarikunnassa, tullut epäävään tulokseen, asian
@@ -8156,8 +8160,8 @@
         <note xml:id="i-Uio4TYvV4Np9wEcgGp513n" type="speaker">
           Rehtori Forsström:
         </note>
-        <u who="i-XiSYQEjNzcBCDTizmuknEB">
-          <seg>
+        <u xml:id="i-VwwsEpPK1TcMY4QUKqsdUd" who="i-XiSYQEjNzcBCDTizmuknEB">
+          <seg xml:id="i-HeRG44wYx3rw6RcMQiAZ33">
             Pyhää kunnioitusta on Suomen kansa aina tuntenut kotoista yhteiskuntajärjestystään
             kohtaan; ja perustuslakejaan, tämän yhteiskuntajärjestyksen kulmakiviä,
             pitää se kalliimpana maallisena omaisuutenaan. Me suomalaiset
@@ -8239,8 +8243,8 @@
         <note xml:id="i-RF5o1gmEj1KVLBA54rGuc3" type="speaker">
           Professori Palmén:
         </note>
-        <u who="i-SUpmw56zMz2APdv8K23tDg">
-          <seg>
+        <u xml:id="i-81QGDx4YiXW1QMJWu3mAV3" who="i-SUpmw56zMz2APdv8K23tDg">
+          <seg xml:id="i-6H9vgGnKoXKDLW3mtypNKC">
             Mitä lakivaliokunnan perusteluihin tulee, minulla ei ole mitään
             erityistä esiteltävää. Sitä vastoin tämä ponsilause ei voi minua
             oikein tyydyttää ja sen johdosta minä olen koettanut muodostaa
@@ -8265,8 +8269,8 @@
         <note xml:id="i-MqeMKEBsvp53kzEPezB3LU" type="speaker">
           Kirkkoherra Malmberg:
         </note>
-        <u who="i-Vc7wHXXgr84Kd9xt5RJJfQ">
-          <seg>
+        <u xml:id="i-TdPsbrT7PxT6UMNvrLYgUj" who="i-Vc7wHXXgr84Kd9xt5RJJfQ">
+          <seg xml:id="i-Cz1qMNeDvVK5WnKG6rRTZY">
             Sen varalta että siltä taholta, joka nyt näyttää olevan hallituspiireissä
             keisarikunnassa vaikuttavin, voitaisiin — jota en nyt kuitenkaan
             voi pitää mahdollisena — koettaa saada Hänen Majesteettinsa ratkaisemaan
@@ -8319,8 +8323,8 @@
         <note xml:id="i-9BjPPySP98STjNCqvvcWSg" type="speaker">
           Lääninprovasti Westerlund:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-4J3y6XakwVf6tqN36bU6od" who="unknown">
+          <seg xml:id="i-2JTYqE3kYjnjxrcHnEUcaL">
             Kuuliaisuus esivaltaa kohtaan on pyhän kirjan mukaan jokaisen
             alamaisen pyhä velvollisuus. Mutta sama pyhä kirja, joka velvottaa
             alamaisia kuuliaisuuteen esivaltaa kohtaan, sanoo myös hallitsijoille:
@@ -8355,8 +8359,8 @@
         <note xml:id="i-2sHPh1qBoDsNKukujeGVQb" type="speaker">
           Professori Forsman:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-YcEfzEPgXy2MmN84scoJMR" who="unknown">
+          <seg xml:id="i-HUwkfPoAbxNhMn4gx55qk8">
             On tehty vastaehdotus valiokunnan esittämää ehdotusta vastaan,
             joka valiokunnassa saatiin aikaan pitkällisten keskustelujen ja
             sovittelujen jälkeen. On täälläkin pidetyissä puheissa tuotu ilmi
@@ -8407,8 +8411,8 @@
         <note xml:id="i-7hVPSo9dFLFXj7K9TtjxEE" type="speaker">
           Kirkkoherra Hannula:
         </note>
-        <u who="i-D1FsfDBmNqCrFh66jtDHKq">
-          <seg>
+        <u xml:id="i-TJXTLN42hJVg9kAoRuj2Cj" who="i-D1FsfDBmNqCrFh66jtDHKq">
+          <seg xml:id="i-Mb74ski8Q5pBZtijdT9gL2">
             Niin hyvä kuin vapaaherra Palménin tekemä ponsiehdotus saattaakin
             olla, olen minäkin, niinkuin valtioneuvos Forsman, sitä mieltä
             että on vaikea saada sille säätyjen yleistä hyväksymystä. Kun
@@ -8438,8 +8442,8 @@
         <note xml:id="i-CfPm3kKQ1JMKvTV1vcgFrs" type="speaker">
           Professori Runeberg:
         </note>
-        <u who="i-QQ7rzMcvpGv1RunkkD3Hgv">
-          <seg>
+        <u xml:id="i-DS5NUjEeGJPWS3ugPfVEAP" who="i-QQ7rzMcvpGv1RunkkD3Hgv">
+          <seg xml:id="i-6GZYdj5qK8Pg5CXWDoaAWf">
             Jag tilläter mig tillstyrka att ständet skulle oförändradt godkänna
             lagutskottets betänkande jämte dess kläm. Jag skulle visserligen
             för min del anse att klämmen hade varit affattad mer sakenligt,
@@ -8526,8 +8530,8 @@
         <note xml:id="i-SkWNPhbw6Rqm4e1EmeTVc6" type="speaker">
           Pastori Vartiainen:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-4JaskYRqkowoGr2EacnkNF" who="unknown">
+          <seg xml:id="i-JRf7t64Kjzuj367F1tGw4e">
             Minulla oli aikomuksena lausua samoja epäilyksiä tuomioprovasti
             Schwartzbergin ehdotuksen suhteen, mitkä professori Runeberg jo
             on lausunut, joten minä vaan yhdyn häneen. Tahtoisin kumminkin
@@ -8542,8 +8546,8 @@
         <note xml:id="i-FQvrLQ2rohRzUkCUjsZw4b" type="speaker">
           Kirkkoherra Hannula:
         </note>
-        <u who="i-D1FsfDBmNqCrFh66jtDHKq">
-          <seg>
+        <u xml:id="i-V299sQTjbgGXMi1U8XzYuM" who="i-D1FsfDBmNqCrFh66jtDHKq">
+          <seg xml:id="i-DSi8VAUS7qtYUfyv1vSeFg">
             Jos ei ehdotuksellani ole yleisempää kannatusta, pyydän luopua
             siitä. (Jaa! Jaa!)
           </seg>
@@ -8551,8 +8555,8 @@
         <note xml:id="i-3StvJWyttcZ8TwVjzn8Kor" type="speaker">
           Provasti Hellman:
         </note>
-        <u who="i-D6Mi4GWWJsTvqGyurVJi26">
-          <seg>
+        <u xml:id="i-Mwtap8mKBHg7BrdGxyyBZY" who="i-D6Mi4GWWJsTvqGyurVJi26">
+          <seg xml:id="i-PSU63cEF5Ug797aZbyzfvo">
             Minusta tuntuu siltä että lakivaliokunnan ponnessa on yksi sana,
             joka ei vastaa todellisuutta eikä sentähden ole oikein. Kun Valtiosäädyt,
             vastaanotettuaan nyt puheena olevat armolliset esitykset, lähettivät
@@ -8609,8 +8613,8 @@
         <note xml:id="i-EfyP6DQG2QjHzLC6mjudJn" type="speaker">
           Professori Runeberg:
         </note>
-        <u who="i-QQ7rzMcvpGv1RunkkD3Hgv">
-          <seg>
+        <u xml:id="i-8GxqLSd5kJDKuxqgMU1Tbw" who="i-QQ7rzMcvpGv1RunkkD3Hgv">
+          <seg xml:id="i-LvYwMonCyo2CxuPmLEVVKZ">
             Jag vill endast tillägga att, om jag också hade anledning att
             önska formuleringen sakenligare, jag dock ej kan anse utskottets
             formuleriug innebära den minsta tvetydighet, nog förstår hvar
@@ -8622,8 +8626,8 @@
         <note xml:id="i-P5aB5bnCNEqqCU6m2VQt4N" type="speaker">
           Kirkkoherra Bergroth:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-8pd6M1Aht8zN1KgbfyaSay" who="unknown">
+          <seg xml:id="i-3rPnL2cNFHpRauLbnWuttu">
             Erinomaisella ilolla kuulin provasti Kaitilan keskustelun alussa
             pitämän lausunnon ja erittäin sen loppulauseita, joissa lausuttiin
             se toivo että tämä asia, joka nyt näyttää hyvinkin vaikealta,
@@ -8644,8 +8648,8 @@
         <note xml:id="i-fnDJ2giQJ2PTHJCMt76zh" type="speaker">
           Professori Bonsdorff:
         </note>
-        <u who="i-3ar8iPZ5CiM9KjHkxDUWKL">
-          <seg>
+        <u xml:id="i-X4jwer6rPJySVERUKYnMpW" who="i-3ar8iPZ5CiM9KjHkxDUWKL">
+          <seg xml:id="i-R8h9hL3iTbBsfSP2iEYzJn">
             Minusta tämä ponsilause tuntuu hyvin paljaalta. Olisin toivonut
             että siinä olisi ollut jonkun-
           </seg>
@@ -8673,8 +8677,8 @@
         <note xml:id="i-WktmeLXMwzFhTqC9LhA32X" type="speaker">
           Lääninprovasti Nordström:
         </note>
-        <u who="i-P5da9MFNVQpRhU72ekmUz2">
-          <seg>
+        <u xml:id="i-Mu2wjVmp2NEdkGp7B2MPhk" who="i-P5da9MFNVQpRhU72ekmUz2">
+          <seg xml:id="i-DCTDzu2Gd9g1YrZiH5CqQU">
             Kun mietintö kerran tulee pöydälle pantavaksi, niin pyysin puheenvuoroa
             tehdäkseni minäkin ehdotuksen. Olen samaa mieltä kuin viimeinen
             puhuja siinä kohden että ponteen olisi lisättävä viittaus, mitä
@@ -8733,8 +8737,8 @@
         <note xml:id="i-Hy2k6RrtZACoqXPUEPP3du" type="speaker">
           Herra Puhemies:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-AVVXf6EM3rcRd4heoftV6H" who="unknown">
+          <seg xml:id="i-BbienEf87P6UW7YgDRcWdM">
             Oikeastaan on ainoastaan professori Palmenin ehdotusta kannatettu,
             sillä professori Bonsdorffin ehdotusta kannatti vain osaksi lääninprovasti
             Nordström.
@@ -8747,8 +8751,8 @@
         <note xml:id="i-JnkzvDQdRbi5VUU7spqLAe" type="speaker">
           Kolleega Hallstön:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-UhG24fLUkgmWfn7DZcjMBk" who="unknown">
+          <seg xml:id="i-NGVK8i6KwkPy16XrYDHCcb">
             Minä pyytäisin saada ehdotetuista ponsista tehdä pari huomautusta.
             Minusta kaikki esitetyt muutosehdotukset sisältävät asiallisia
             eikä vaan muodollisia muutoksia siinä kohden että ne kaikki panevat
@@ -8780,8 +8784,8 @@
         <note xml:id="i-LcoeXabefsKMS329CtDJh4" type="speaker">
           Rehtori Bergroth:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-5PW5hSD38GLgco2fwTVobU" who="unknown">
+          <seg xml:id="i-CZE6ng3tUUF2G3hJYNiSH8">
             Lakivaliokunta lausuu lujana vakaumuksenaan että Valtiosäädyt
             varjelemalla perustuslakiemme pyhyyttä täyttävät velvollisuutensa
             yhtä hyvin hallitsijaa kuin isänmaata kohtaan ja rohkenee toivoa
@@ -8808,8 +8812,8 @@
         <note xml:id="i-USyLkFQxQvk3ted4Y13ACW" type="speaker">
           Professori Runeberg:
         </note>
-        <u who="i-QQ7rzMcvpGv1RunkkD3Hgv">
-          <seg>
+        <u xml:id="i-UeE8TR99KJTye6fcaUHA3u" who="i-QQ7rzMcvpGv1RunkkD3Hgv">
+          <seg xml:id="i-2AEw1LDcpeKkytnduDJSna">
             Jag ville förena mig uti det, hvad magister Hallsten yttrade
             för en stund sedan. Huru man än formulerar ett sädant tillägg
             till klämmen, som professor Palmen föreslog, och särskilda andra
@@ -8943,8 +8947,8 @@
         <note xml:id="i-EqJNgrByfbdHKVhEWfDZKo" type="speaker">
           Professori Bonsdorff:
         </note>
-        <u who="i-3ar8iPZ5CiM9KjHkxDUWKL">
-          <seg>
+        <u xml:id="i-PZuqYTTcsqhtyd7XNhWafk" who="i-3ar8iPZ5CiM9KjHkxDUWKL">
+          <seg xml:id="i-4rz3aAzdc1aSjnKchPJcCF">
             Sen johdosta, mitä herra Hallsten tässä lausui ja jota sitten
             muutamat muutkin puhujat ovat tavallansa kannattaneet, myönnän
             mielelläni että on epämuodollista panna ponteen viittaus semmoisiin
@@ -8994,8 +8998,8 @@
         <note xml:id="i-UYE7Wds61PbwGeNQhBz6rj" type="speaker">
           Professori Palmén:
         </note>
-        <u who="i-SUpmw56zMz2APdv8K23tDg">
-          <seg>
+        <u xml:id="i-PLgBdQsqQac1kRUADkoqkY" who="i-SUpmw56zMz2APdv8K23tDg">
+          <seg xml:id="i-FdDySQNArEWCd2az3AoVT9">
             Professori Runeberg sanoi ettei pidä vahvaa perustelua heikontaa
             sillä että sen jälkeen asetetaan heikompi; lausuipa lisäksi että
             tämän uuden ponsilauseen kautta tulisi pääsyy ikäänkuin kätketyksi;
@@ -9029,8 +9033,8 @@
         <note xml:id="i-3exsg5jrLqCXnn3jumHGDB" type="speaker">
           Kirkkoherra Auvinen:
         </note>
-        <u who="i-J6zP3X9ccdcPDSdoJRRzLX">
-          <seg>
+        <u xml:id="i-LY8SREiAzcfpak3DaChrdQ" who="i-J6zP3X9ccdcPDSdoJRRzLX">
+          <seg xml:id="i-4RGpr4zu1inW1asYEoPD9F">
             Koska vapaaherra Palmén'in ehdotusta on kannatettu ja se tulee
             siten äänestyksen alaiseksi, rohkenisin minä puolestani ehdottaa
             että ne, jotka sitä ovat
@@ -9058,16 +9062,16 @@
         <note xml:id="i-HMz4uuE74ZXqbNZ143eeGj" type="speaker">
           Herra Puhemies:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-BV4MqmSK9NndbLZdPVwYSs" who="unknown">
+          <seg xml:id="i-UmjTKLYaWCcAWKXow3T363">
             On vaikea äänestää ehdotuksesta, joka ei ole selvästi muodostettu.
           </seg>
         </u>
         <note xml:id="i-AVtfKjDocNnTrfu5pt1J3W" type="speaker">
           Professori Palmen:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-GKg1VN6juEAhW6g74o3w8v" who="unknown">
+          <seg xml:id="i-Ft7E26yxKg8fZ3aZSkmZod">
             Minä pyydän kirkkoherra Auvisen huomautuksen johdosta sanoa,
             että tietysti valiokunta — edellyttämällä että tämä ponsilause
             saisi säädyn kannatuksen — joka tapauksessa on oikeutettu ottamaan
@@ -9087,8 +9091,8 @@
         <note xml:id="i-D2Uf8G8QFMpdqqRWZbqECh" type="speaker">
           Provasti Hellman:
         </note>
-        <u who="i-D6Mi4GWWJsTvqGyurVJi26">
-          <seg>
+        <u xml:id="i-X57CGbjp2xZzWCWZpE6B5y" who="i-D6Mi4GWWJsTvqGyurVJi26">
+          <seg xml:id="i-JjSJTbMDZCL5BSYp1RgrAH">
             Professori Runeberg teki nyt varsinaisen ehdotuksen siihen suuntaan,
             josta edeltä puolen päivän lausuin toivovani että hän silloin
             jo olisi sen tehnyt. Vaikka hänen perustelmansa eroavat minun
@@ -9564,8 +9568,8 @@
         <note xml:id="i-JDn8imQ7RuF5txBMBKJ9qH" type="speaker">
           Kirkkoherra E. Bergroth:
         </note>
-        <u who="i-7uhhayYnnRhw5eHnoRhghn">
-          <seg>
+        <u xml:id="i-PTN7qnMd22e98KgUU8mDxP" who="i-7uhhayYnnRhw5eHnoRhghn">
+          <seg xml:id="i-FUSixULtjued4SfeKskcyK">
             Minusta tämä asia on siksi tärkeä etten voi siitä päättää nyt
             ennen, kun olen tarkemmin asiata miettinyt ja pyydän sentähden
             sitä pöydälle.
@@ -9574,16 +9578,16 @@
         <note xml:id="i-AnHHFBuQ6QJUnRTpzXgF4d" type="speaker">
           Provasti Hellman:
         </note>
-        <u who="i-D6Mi4GWWJsTvqGyurVJi26">
-          <seg>
+        <u xml:id="i-A9iPQ47jFBzd8twScf3wyX" who="i-D6Mi4GWWJsTvqGyurVJi26">
+          <seg xml:id="i-U2TSEqpQdseZB39LQTxr6N">
             Ninä kannatan kirkkoherra Bergrothin ehdotusta.
           </seg>
         </u>
         <note xml:id="i-6DV5HcgHpAEAB5s3wU5ybQ" type="speaker">
           Professori Danielson:
         </note>
-        <u who="i-LhNeaJMK2rPRdMfEm4W2yR">
-          <seg>
+        <u xml:id="i-LMDKp8KxuUfxmVatCHbU1r" who="i-LhNeaJMK2rPRdMfEm4W2yR">
+          <seg xml:id="i-HhxzKn1Gbd9emkBXsZYkKV">
             Eiköhän voisi menetellä siten että ne jäsenet, jotka tarvitsevat
             mietintöaikaa, saisivat siihen tilaisuutta sitten, kun yhteensovitusehdotus
             on käsitelty, siten että istunto hetkeksi aikaa keskeytettäisiin.
@@ -9597,8 +9601,8 @@
         <note xml:id="i-SJXteK2kx52bx8kW49GZFp" type="speaker">
           Herra Puhemies:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-FKq2QGZu9wp5UezbhVrNT5" who="unknown">
+          <seg xml:id="i-EjcjqzURahxvNTzo3Q9LXu">
             Puhemiesneuvostossakin oli puhe professori Danielsonin nyt ehdottaman
             menettelytavan suotavuudesta.
           </seg>
@@ -9614,15 +9618,16 @@
           10 &amp; hyväksyttiin yhteensovitusehdotuksen mukaan.
         </note>
         <note xml:id="i-7oajnVYTRYXygjUQqJRrL9">
-          20 &amp;n ja sen yhteydessä 123 &amp;:n käsittely siirrettiin kirk- TTS,
-          E. Bergrothin ja provasti Fredriksonin pyynnöstä kello
+          20 &amp;n ja sen yhteydessä 123 &amp;:n käsittely siirrettiin
+          kirk- TTS, E. Bergrothin ja provasti Fredriksonin pyynnöstä kello
         </note>
         <note xml:id="i-15apMjBbZkdsaaanwKae9r">
           212:een.
         </note>
         <note xml:id="i-4ynMuC5EX46L6Fnz88BtcD">
-          90 &amp; hyväksyttiin yhteensovitusehdotuksen mukaan, ja samoin yhteensovitusehdotuksen
-          7 sivulla oleva loppusäännös sekä 7 ja 8 sivuilla olevat ponsilauseet.
+          90 &amp; hyväksyttiin yhteensovitusehdotuksen mukaan, ja samoin
+          yhteensovitusehdotuksen 7 sivulla oleva loppusäännös sekä 7 ja
+          8 sivuilla olevat ponsilauseet.
         </note>
         <note xml:id="i-KVmjXwSXRKwvsDs4JHTiux">
           Yhteensovitusehdotuksen 9 sivulla olevan mietinnön 23 sivun alussa
@@ -9631,8 +9636,8 @@
         <note xml:id="i-XwqLKo61vTAd53H8aNsQod" type="speaker">
           Professori Bonsdorff:
         </note>
-        <u who="i-3ar8iPZ5CiM9KjHkxDUWKL">
-          <seg>
+        <u xml:id="i-RxJe5wz47u3LKGpcoK1aXJ" who="i-3ar8iPZ5CiM9KjHkxDUWKL">
+          <seg xml:id="i-W1AD4jjnxytCnLCE3ckm4Q">
             Kun minä tein huomautukseni tuon perustelun johdosta, tein sen
             siinä tarkoituksessa että sananmuodostus saataisiin selvemmäksi.
             Minä olen edelleenkin sitä
@@ -9664,8 +9669,8 @@
         <note xml:id="i-DtL7TGcFoTj8N1JNaMdSw4" type="speaker">
           Provasti Karlsberg:
         </note>
-        <u who="i-V6v31r5joHKS4WkUQfSh1v">
-          <seg>
+        <u xml:id="i-QMQDostr3KxXQVWssvJhbp" who="i-V6v31r5joHKS4WkUQfSh1v">
+          <seg xml:id="i-8fAMDUA2LYqxsn435fzQNz">
             Minun mielestäni ehdotettu lisäys on jokseenkin tarpeeton, koska
             asia muutenkin on sillä tavalla ymmärrettävä kuin tässä on selitetty.
             Mutta jos sääty kuitenkin tahtoisi hyväksyä tämän ehdotuksen,
@@ -9680,8 +9685,8 @@
         <note xml:id="i-SqtGG4dcEkWgZpKTwAF1EW" type="speaker">
           Professori Donner:
         </note>
-        <u who="i-XbAQtPkdSaTdnLcpdJrmsg">
-          <seg>
+        <u xml:id="i-LMCadPJ2yqaYtvftYWqJQc" who="i-XbAQtPkdSaTdnLcpdJrmsg">
+          <seg xml:id="i-EYg3hXq8BasPUbqoxk9wd4">
             Det har ju sin riktighet, som prosten Karlsberg nämnde, att särskilda
             förordningar efter 1878 hafva infört förändringar i värnepligtslagen,
             men i dessa förordningar säges uttryckligen att motsvarande paragrafer
@@ -9742,8 +9747,8 @@
         <note xml:id="i-4CCGrEA5xfhkBff1EcsTgE" type="speaker">
           Kirkkoherra Bergroth:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-PMa58HGzQKVaLMhvT6WUBL" who="unknown">
+          <seg xml:id="i-4ywxozmAxTE2drrbdvccsm">
             Erinomaisella tyytyväisyydellä ovat maan säädyt vastaanottaneet
             asevelvollisuus- ja lakivaliokunnan mietinnöt ja suurella yksimielisyydellä
             ovat ne pääasiassa tulleet hyväksytyiksi. Maan ensimäinen sääty
@@ -9767,8 +9772,8 @@
         <note xml:id="i-3kLAoXmvhr2FCHnSL6sJBA" type="speaker">
           Tuomioprovasti Hedberg:
         </note>
-        <u who="i-FNPPwEod1e3taFV6aqGkL">
-          <seg>
+        <u xml:id="i-Cfn2bQPTebgDKJ7ioAJMZr" who="i-FNPPwEod1e3taFV6aqGkL">
+          <seg xml:id="i-9Q3PFbVcGwMRv1HCf7uA3z">
             Kirkkoherra Bergroth tunnusti itse että tämä yhteensovitus on
             näin tehty muodollisista syistä, sillä ,muodollisia ne ovat",
             niin kirkkoherran omat sanat kuuluivat. Koska epäilemättä tunnustettanee
@@ -9786,8 +9791,8 @@
         <note xml:id="i-GJRW9SexM8KwDbWfjunCNu" type="speaker">
           Professori Bonsdorff:
         </note>
-        <u who="i-3ar8iPZ5CiM9KjHkxDUWKL">
-          <seg>
+        <u xml:id="i-6n73x4CzVYE6RJGc24FPPu" who="i-3ar8iPZ5CiM9KjHkxDUWKL">
+          <seg xml:id="i-X3LC6qZKonbPZDKantu8Fw">
             Valiokunta minun mielestäni ei ole menetellyt johdonmukaisesti;
             121 pykälän on valiokunta yhteensovittanut kolmen säädyn päätöksen
             pohjalle, 1 pykälään nähden on aivan toista menettelytapaa noudatettu.
@@ -9808,8 +9813,8 @@
         <note xml:id="i-NZTDZdGoX6mbYZXn8qyDsx" type="speaker">
           Professori Forsman:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-CreSynJTqFzMYQBUi1ZGiM" who="unknown">
+          <seg xml:id="i-NuiA42rT3GFNQ9DRe3d4bf">
             Mitä tulee herra Hedbergin lausuntoon että muutos on tehty muodollisista
             syistä, niin myönnän että hän siinä on oikeassa, mutta sittekään
             minä en voi olla lausumatta paheksumistani siitä että on pantu
@@ -9855,8 +9860,8 @@
         <note xml:id="i-L18pqphtK3NFRJ86exdCx4" type="speaker">
           Professori Runeberg:
         </note>
-        <u who="i-QQ7rzMcvpGv1RunkkD3Hgv">
-          <seg>
+        <u xml:id="i-ACgbTUisPX2yLaupcP4o3v" who="i-QQ7rzMcvpGv1RunkkD3Hgv">
+          <seg xml:id="i-WoevcNAZ2oXHozxowe92MH">
             För min del kan jag icke finna den förändring, som här är föreslagen,
             innebära nägon saklig förändring. För mig framstå uttrycken ,hela
             det ryska riket", ryska riket" eller endast ,riket* till sitt
@@ -9913,8 +9918,8 @@
         <note xml:id="i-X3Evh11hrK9J3jNKxF3SRA" type="speaker">
           Lääninprovasti Johansson:
         </note>
-        <u who="i-29jAvqcdVSDmnMHm7GL7zd">
-          <seg>
+        <u xml:id="i-P5Hr1NUDSXjueM2jjqcQaP" who="i-29jAvqcdVSDmnMHm7GL7zd">
+          <seg xml:id="i-34MUJtxKbNVKDJaY4dFaQU">
             Minullakin on sama ajatus kuin professori Bonsdorffilla, jonka
             lausuntoon pyydän yhtyä. Minusta valiokunnan menettelyä tässä
             asiassa ei pitäisi puolustaa. Meillä on tässä laissa ollut kysymyksiä,
@@ -9927,8 +9932,8 @@
         <note xml:id="i-CGes6WwkdWUg7D5tuywrGD" type="speaker">
           Tuomioprovasti Hedberg:
         </note>
-        <u who="i-FNPPwEod1e3taFV6aqGkL">
-          <seg>
+        <u xml:id="i-SWhkJvqLCAErkCsJQbZ5vx" who="i-FNPPwEod1e3taFV6aqGkL">
+          <seg xml:id="i-D7Sha6BsHsmzkg59dcqmbT">
             Koska valtioneuvos Forsman lausui sen otaksumisen että nyt ehdotettu
             muutos mahdollisesti voisi antaa aihetta jonkunlaiseen väärinkäsitykseen,
             vie-
@@ -9952,8 +9957,8 @@
         <note xml:id="i-LtT7zyQ1srXbrA4e2TwZ9N" type="speaker">
           Professori Forsman:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-6z11oS2x7cCMH9iqDSv2Jn" who="unknown">
+          <seg xml:id="i-B2g5dEzwfsxkWseVaNDxdE">
             Niinkuin jo lausuin, ymmärrän sen varsin hyvin että muutos on
             tehty muodollisista syistä. Mutta niinkuin minä myöskin lausuin,
             katson muutoksen arveluttavaksi niistä syistä, jotka jo mainitsin.
@@ -9984,16 +9989,16 @@
         <note xml:id="i-4ZnNtS4aegc6ihkTdCe7su" type="speaker">
           Lääninprovasti Stenbäck:
         </note>
-        <u who="i-2pD791VLsqhv5WJ2JcdDCs">
-          <seg>
-            Minäkään en tahdo vastustaa 1 &amp;:n hyväksymistä valiokunnan mietinnön
-            mukaan, mutta tahtoisin huomauttaa säätyä siitä, että sanaa ,Keisarikunta*
-            ei ole ollut käytetty asevelvollisuusvaliokunnan alkuperäisessä
-            ehdotuksessa eikä myöskään säädylle annetussa armollisessa esityksessä.
-            —Viimemainituissa puhutaan vaan Venäjän valtakunnasta ja sitäpaitsi
-            tuo attribuutisana ,koko* siinä puuttuu. Ninä olen siis sitä mieltä
-            että Valtiosäätyjen tarkoitusta tuskin voitanee väärin selittää
-            Venäjän kannalta,
+        <u xml:id="i-QmxuSQvSrMpaQhjsdtVxci" who="i-2pD791VLsqhv5WJ2JcdDCs">
+          <seg xml:id="i-TCQan9u2o6whuGWgoDmVkP">
+            Minäkään en tahdo vastustaa 1 &amp;:n hyväksymistä valiokunnan
+            mietinnön mukaan, mutta tahtoisin huomauttaa säätyä siitä, että
+            sanaa ,Keisarikunta* ei ole ollut käytetty asevelvollisuusvaliokunnan
+            alkuperäisessä ehdotuksessa eikä myöskään säädylle annetussa armollisessa
+            esityksessä. —Viimemainituissa puhutaan vaan Venäjän valtakunnasta
+            ja sitäpaitsi tuo attribuutisana ,koko* siinä puuttuu. Ninä olen
+            siis sitä mieltä että Valtiosäätyjen tarkoitusta tuskin voitanee
+            väärin selittää Venäjän kannalta,
           </seg>
         </u>
         <pb facs="https://swerik-project.github.io/valtiopaivat-records-pdf/1899/ptk_1899_papisto_/ptk_1899_papisto_-0170"/>
@@ -10013,8 +10018,8 @@
         <note xml:id="i-Y6mzzqgTUaUtNybAd4G6kF" type="speaker">
           Lääninprovasti Walle:
         </note>
-        <u who="i-Ay8y6qphUDYbXoFXQgQvgE">
-          <seg>
+        <u xml:id="i-4RPNZpErE6x9PyQWKz66ZG" who="i-Ay8y6qphUDYbXoFXQgQvgE">
+          <seg xml:id="i-Wr7HBQyFsbZBk7kJMYs1PV">
             Mieluimmin olisin suonut ettei tästä pykälästä olisi mitään keskustelua
             syntynyt. Mutta kun se kerran on syntynyt ja asianhaaroja siinä
             suhteessa on esiin tuotu, en voi olla lausumatta kerrassaan tyytymättömyyttäni
@@ -10028,8 +10033,8 @@
         <note xml:id="i-NenWaay2nY9SVFTfVWHfpH" type="speaker">
           Professori Runeberg:
         </note>
-        <u who="i-QQ7rzMcvpGv1RunkkD3Hgv">
-          <seg>
+        <u xml:id="i-FbCpx5JjDczWAu4Ym5Rnzp" who="i-QQ7rzMcvpGv1RunkkD3Hgv">
+          <seg xml:id="i-ShtfxsH9BW49VbmSEWBnfT">
             Det förslag, som professor Forsman gjorde, förefaller oantagligt
             dels pä de skäl, som prosten Stenbäck framhållit, nämligen att
             det innebär alldeles ett nytt uttryckssätt, som förekommer hvarken
@@ -10046,8 +10051,8 @@
         <note xml:id="i-4QgsohB3uG8jV5BsWZ9MvY" type="speaker">
           Professori Palmén:
         </note>
-        <u who="i-SUpmw56zMz2APdv8K23tDg">
-          <seg>
+        <u xml:id="i-S2LVCnH6P1zYE9MbusTFxx" who="i-SUpmw56zMz2APdv8K23tDg">
+          <seg xml:id="i-2R9XZj5V3EQvVvbxtBkrvp">
             Koska keskustelu on syntynyt tästä pykälästä, katson velvollisuudekseni
             mainita että myös asevelvollisuusvaliokunnassa on tässä kohden
             ollut erimielisyyttä ja että päätös on syntynyt lippuäänestyksellä.
@@ -10056,8 +10061,8 @@
         <note xml:id="i-Wo35BPGiNYTffYk1xTnC5G" type="speaker">
           Provasti K. A. Schroderus:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-Fi3yhJNAqcyJAjgsoS7yFQ" who="unknown">
+          <seg xml:id="i-YDPPHR7DdzkEpCSt1oT6oy">
             Vaikka minäkin mielelläni tunnustan että valiokunnan olisi sopinut
             ja että ehkä olisi ollut sen velvollisuuskin tehdä sovitusehdotuksensa
             toiseen tapaan, minä kuitenkin, koska asia on sitä laatua ettei
@@ -10077,8 +10082,8 @@
         <note xml:id="i-8wUiW3pH7yhZ3uHq2k5Y3a" type="speaker">
           Tuomioprovasti Schwartzberg:
         </note>
-        <u who="i-PUGEJH9kXtM6B1imKCMoex">
-          <seg>
+        <u xml:id="i-2Sq9fYDNrRK62jiS2tJ27s" who="i-PUGEJH9kXtM6B1imKCMoex">
+          <seg xml:id="i-3BcVToM9o3r6tr699ourRf">
             Minä tahtoisin vaan mainita että pappissääty ei lisäisi sellaista
             paheksumislausuntoa valiokuntaa kohtaan, jonka valtioneuvos Forsman
             on ehdottanut. Vaikka minäkin olen samaa mieltä täydellisesti
@@ -10121,8 +10126,8 @@
         <note xml:id="i-DMDZuYQSpZiW7NXLPLN5UP" type="speaker">
           Professori Hermanson:
         </note>
-        <u who="i-SaCnJmAftzcnG2e8XYGcL9">
-          <seg>
+        <u xml:id="i-9kGq5SBrQsrUW3XHuxajUY" who="i-SaCnJmAftzcnG2e8XYGcL9">
+          <seg xml:id="i-vKNjR1uhHeMmBi3DMkg2n">
             Tillätes det mig att yttra nägra ord till belysande af min uppfattning
             af denna kläm? Jag kom att för sent begära ordet. Det innebär
             icke ett yrkande.
@@ -10147,8 +10152,8 @@
         <note xml:id="i-BYPvRhdaQFhPrxZWdm1zE" type="speaker">
           Professori Donner:
         </note>
-        <u who="i-XbAQtPkdSaTdnLcpdJrmsg">
-          <seg>
+        <u xml:id="i-TP8wCafygMV5ETT7QqgLTN" who="i-XbAQtPkdSaTdnLcpdJrmsg">
+          <seg xml:id="i-PT7SPXa27XqMvqLY5A2exG">
             Med anledning af professor Hermansons uttalande skulle jag för
             min del finna det vara sakenligare och i öfverensstämmelse med
             föregäende beslut, om presteständet skulle uttala att det gillar
@@ -10192,8 +10197,8 @@
         <note xml:id="i-GpvQjHmhN4bBGfHwHJ7tEo" type="speaker">
           Professori Danielson:
         </note>
-        <u who="i-LhNeaJMK2rPRdMfEm4W2yR">
-          <seg>
+        <u xml:id="i-2iY2HA4vbdRPyyHDLAMX9P" who="i-LhNeaJMK2rPRdMfEm4W2yR">
+          <seg xml:id="i-LE9kHU8m6edYUCTBBugBTw">
             Pyydän kysyä, onko tarkoitus ollut että pöytäkirjan otteesenkin
             tulisi se lausunto, jonka professori Hermanson äsken teki ja jonka
             sääty hyväksyi.
@@ -10202,8 +10207,8 @@
         <note xml:id="i-14xkysQ1zX67DuEfFzvWzS" type="speaker">
           Professori Forsman:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-TckX1K96vxS2yLsZZ3s7t9" who="unknown">
+          <seg xml:id="i-FGHvo7HugvKFviM8ZioTfp">
             Minä aijoin tehdä melkein samanlaisen huomautuksen, minkä edellinenkin
             puhuja, mutta koska professori Hermanson itse on pyytänyt puheenvuoroa,
             voin luopua sananvuorostani.
@@ -10216,8 +10221,8 @@
         <note xml:id="i-2E52PTt9ubYL8KpoUrE9dy" type="speaker">
           Professori Hermanson:
         </note>
-        <u who="i-SaCnJmAftzcnG2e8XYGcL9">
-          <seg>
+        <u xml:id="i-EqxKqyfp4sPy72yG5uXk4w" who="i-SaCnJmAftzcnG2e8XYGcL9">
+          <seg xml:id="i-AC7vMyX8iP91DSSczoL2yY">
             Jag anser att lagen hvilar på den förutsättningen att Finland
             är en del af det ryska riket. Detta är uttaladt af lagutskottet
             och godkändt af alla stånd. Jag vet ej om det tjenar till något
@@ -10229,8 +10234,8 @@
         <note xml:id="i-49PEhGUnkb9GEpJVXEMiTU" type="speaker">
           Kirkkoherra Bergroth:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-BVoVWqyPCVnWmcc7fgJXz3" who="unknown">
+          <seg xml:id="i-N64kfDswMwYChKNEj1cmV8">
             Minun ymmärtääkseni päätettiin että professori Hermansonin lausunto
             hyväksytään, ja kun se kerran hyväksytään, niin otetaanhan se
             pöytäkirjaan.
@@ -10239,8 +10244,8 @@
         <note xml:id="i-H3TVpSB8cE3s77DpfkP6M9" type="speaker">
           Herra Puhemies:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-7n2bN63a1ngvoJRhqj2T4f" who="unknown">
+          <seg xml:id="i-JdfsqcYNGgMRcTCYhuwgZc">
             Tietysti se tulee pöytäkirjaan. Siitä vaan on eri mieltä, otetaanko
             se pöytäkirjan otteesen muillekin säädyille.
           </seg>
@@ -10498,8 +10503,8 @@
         <note xml:id="i-Q4UgKvdBXehPNg3e2kiAz2" type="speaker">
           Professori Palmén:
         </note>
-        <u who="i-SUpmw56zMz2APdv8K23tDg">
-          <seg>
+        <u xml:id="i-7hobSf49eSyCKQkyTb9au6" who="i-SUpmw56zMz2APdv8K23tDg">
+          <seg xml:id="i-U7ea2g5GSohCBP7SX7VWnT">
             Pyydän saada ilmoittaa että toimitusvaliokunta on laatinut valtiopäiväpäätöksen
             valmiiksi ja V. J:n 78 S:n mukaan jättänyt sen joka säätyyn tarkastettavaksi,
             koska säädyt vielä ovat koolla. Asiasta ei tule mitään erityistä
@@ -10917,10 +10922,10 @@
           öfver hela Ryssland, Tsar af Polen, Storfurste till Finland, etc.,
           etc., etc. Förkunne eder, Oss älskelige, Wäre trogne undersätar
           Wärt Nädiga päbud att den nu pästäende urtima landtdagen skall
-          afslutas den 18 (30) Maj innevarande är. Att &amp; Wära vägnar upplösa
-          landtdagen och hemförlofva Ständerna uppdrage Wi i Näder ät Generalguvernören
-          öfver Finland, Wär Generaladjutant, Generalen af Infanteriet,
-          Nikolai Bobrikoff.
+          afslutas den 18 (30) Maj innevarande är. Att &amp; Wära vägnar
+          upplösa landtdagen och hemförlofva Ständerna uppdrage Wi i Näder
+          ät Generalguvernören öfver Finland, Wär Generaladjutant, Generalen
+          af Infanteriet, Nikolai Bobrikoff.
         </note>
         <note xml:id="i-TEYS6Amzn8Cb7M9eo7vEX5">
           Zarskoje Selo den 7 Maj 1899. NIKOLAI.
@@ -11228,8 +11233,8 @@
           käsitä, miksi Suomen kansa nyt on niin syvän murheen valtaamana,
           mutta sattuvasti ja tarkkaan on Suomen jalomielinen valloittaja
           Keisari Aleksanteri ensimäinen armollisessa julistuskirjassaan
-          ?/&gt;, p:ltä Helmikuuta 1816 esittänyt Suomen kansan aseman, kun
-          hän lausuu: ,Sitä valtiosääntöä ja niitä lakeja, jotka Suomen
+          ?/&gt;, p:ltä Helmikuuta 1816 esittänyt Suomen kansan aseman,
+          kun hän lausuu: ,Sitä valtiosääntöä ja niitä lakeja, jotka Suomen
           kansan luonteeseen, tapoihin ja sivistykseen soveltuvina, ovat
           pitkän vuosijakson olleet sen yhteiskunnallisen vapauden ja levollisuuden
           perustuksena, ei voi saattamatta näitä vaaraan supistaa eikä järkähyttää*.

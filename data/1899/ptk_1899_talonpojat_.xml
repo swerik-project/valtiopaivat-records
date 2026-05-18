@@ -1,16 +1,16 @@
-<?xml version='1.0' encoding='utf-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="ptk_1899_talonpojat_">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Finnish parliamentary document: ptk 1899, Talonpojat number </title>
+        <title>Finnish parliamentary document: ptk 1899, Talonpojat number</title>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK Project, 2023-2027</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Finnish parliamentary document: ptk 1899, Talonpojat number </title>
+          <title>Finnish parliamentary document: ptk 1899, Talonpojat number</title>
         </bibl>
       </sourceDesc>
     </fileDesc>
@@ -25,8 +25,12 @@
   <text>
     <front>
       <div type="preface">
-        <head>ptk_1899_talonpojat_</head>
-        <docDate when="1899-01-01">1899-01-01</docDate>
+        <head>
+          ptk_1899_talonpojat_
+        </head>
+        <docDate when="1899-01-01">
+          1899-01-01
+        </docDate>
       </div>
     </front>
     <body>
@@ -773,8 +777,8 @@
         <note xml:id="i-F9ExoZKtewMvtxdi5yUSFn" type="speaker">
           Edusmies Fellman:
         </note>
-        <u who="i-761jFp8QFs1K22nsTyPrT4">
-          <seg>
+        <u xml:id="i-AWuKnMnVQpT7BTwUCjHM9n" who="i-761jFp8QFs1K22nsTyPrT4">
+          <seg xml:id="i-Ft34GX3sLvMVNqCuugmhf2">
             Pyysin puheenvuoroa huomauttaakseni, että kun viime valtiopäivillä
             puhemiesneuvostoon asetettavain jäsenten ehdottaminen uskottiin
             säädyn arvoisalle puhemiehelle, niin, mikäli sittemmin käsitin,
@@ -791,8 +795,8 @@
         <note xml:id="i-7WWSr63x88zBqhX7v1ckJw" type="speaker">
           Edusmies Kiipula:
         </note>
-        <u who="i-yz5WqRw8dv6YYSDpDNaKH">
-          <seg>
+        <u xml:id="i-F2kbeHCXYvsaj9vW4WoSoD" who="i-yz5WqRw8dv6YYSDpDNaKH">
+          <seg xml:id="i-WLZmJpsg5nUoQmXgoP3iw">
             Kun sääty, mikäli minä voin käsittää äsken kuuluneista ,hyvä*-huudoista,
             jo on melkein hyväksynyt tässä tehdyn ehdotuksen sekä edusmies
             Meurmanin että edusmies Fellmanin suhteen, niin pyytäisin vastustaa
@@ -923,8 +927,8 @@
         <note xml:id="i-FFRX2uqBVnTxVdm1PMVYVF" type="speaker">
           Edusmies Lindberg:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-7dzgqiSkeF5WwQhWjS63ca" who="unknown">
+          <seg xml:id="i-HgkCXXZqa1GvGF7oRXM8WY">
             Det var min afsigt att yttra mig i samma riktning som hr Teittinen
             med det tillägg, att, utom att det är sakligare, strider det äfven
             mot vanligt spräkbruk att kalla tvänne icke i skyldskap med hvarandra
@@ -936,8 +940,8 @@
         <note xml:id="i-6k91J64wihZhXcsV2JgaeR" type="speaker">
           Edusmies Avellan:
         </note>
-        <u who="i-Pwjr6vGBf5sGMw2BtNjBMH">
-          <seg>
+        <u xml:id="i-aaF1kKgGCeHMNxR2RkQLF" who="i-Pwjr6vGBf5sGMw2BtNjBMH">
+          <seg xml:id="i-BhAzpxn17mhSpYAXRRss3p">
             Minun käsittääkseni tässä ainoastaan on kysymys siitä, että vaalilipusta
             suorastaan kävisi selville, kumpaa Leppästä tarkoitetaan. Jos
             kirjoitetaan Liperin tai Ilomantsin tuomiokunnan edusmies taikka
@@ -1077,8 +1081,8 @@
         <note xml:id="i-3CoFhLY2bjEpuRZqcc1G3C" type="speaker">
           Edusmies Bremer:
         </note>
-        <u who="i-HjfmDsS4k6Zju4rc3Q8bpb">
-          <seg>
+        <u xml:id="i-4nc8yABCiMFGWviuqaTwyk" who="i-HjfmDsS4k6Zju4rc3Q8bpb">
+          <seg xml:id="i-TbtTxdhKyXcvwnJiEP9c7H">
             Tarkoitukseni oli tehdä samanlainen ehdotus, minkä edusmies Oittinen
             on esittänyt, ja sen vuoksi yhdyn kannattamaan hänen lausuntoaan.
           </seg>
@@ -2287,8 +2291,9 @@
           Asiaa koskeva päätöspöytäkirja tarkastettiin heti.
         </note>
         <note xml:id="i-KQNvxtLtJL79Lfu8ce4n2H">
-          &gt; Hetkisen kuluttua ilmoitti Puhemies saapuneen tiedon että toisetkin
-          Säädyt olivat hyväksyneet Lakivaliokunnan edelläkerrotun ehdotuksen.
+          &gt; Hetkisen kuluttua ilmoitti Puhemies saapuneen tiedon että
+          toisetkin Säädyt olivat hyväksyneet Lakivaliokunnan edelläkerrotun
+          ehdotuksen.
         </note>
         <note xml:id="i-KdBQfoB6opXwvcngXHpTV9">
           Täysi-istunto päättyi k:lo 7,20 i. p. In fidem: Vilho Luukkonen.
@@ -3178,8 +3183,8 @@
         <note xml:id="i-9ifERvWhVF9LHjEdPhqrZP" type="speaker">
           Edusmies Laitinen:
         </note>
-        <u who="i-TGqE1UqnA73NvW2YYgmMf3">
-          <seg>
+        <u xml:id="i-KudcdqMtGGe7zmSJqoiF8Z" who="i-TGqE1UqnA73NvW2YYgmMf3">
+          <seg xml:id="i-TuCyeh4KKLkZzCj3NCLn9Q">
             Kysymyksessä asevelvollisuuslaista täytyy ottaa huomioon ne samat
             näkökohdat, jotka koskevat esityksiä rahallisen ja persoonallisen
             asevelvollisuusrasituksen tasoittamisesta.
@@ -3189,9 +3194,9 @@
           Tämä seuraavilla perustuksilla :
         </note>
         <note xml:id="i-9r5e5UDJh66TbU7r9cGomS">
-          1) Hallitusmuodon 40 &amp;:n mukaan ei Hallitsija voi mitään uutta
-          lakia säätää tahi vanhaa kumota ilman Valtiosäätyjen tietoa tahi
-          suostumusta;
+          1) Hallitusmuodon 40 &amp;:n mukaan ei Hallitsija voi mitään
+          uutta lakia säätää tahi vanhaa kumota ilman Valtiosäätyjen tietoa
+          tahi suostumusta;
         </note>
         <note xml:id="i-WaAMqZN8yiNdxXi3XDkt9h">
           2) Perustuslakia voidaan säätää, muuttaa, selittää tahi kumota
@@ -3300,8 +3305,8 @@
         <note xml:id="i-Kiugst7eWd8v4WSUWVtuB9" type="speaker">
           Edusmies Slotte:
         </note>
-        <u who="i-Ev9rwChsySU6VMfbevkpjp">
-          <seg>
+        <u xml:id="i-BJ4ZcaAuR7KkK9WTnXt2FX" who="i-Ev9rwChsySU6VMfbevkpjp">
+          <seg xml:id="i-E5wKc2y8ksQwxcSHG3cQuR">
             Det har varit omöjligt för mig att kunna fullständigt sätta mig
             in i dessa tvänne vidlyftiga utskottsbetänkanden jämte därtill
             hörande handlingar sä mycket mer som jag tidigare endast ryktesvis
@@ -3321,8 +3326,8 @@
         <note xml:id="i-7wENRCDfU6YfuzVNozqw44" type="speaker">
           Edusmies Huoponen:
         </note>
-        <u who="i-HAkXw2e7ETu7AUjeewEWfr">
-          <seg>
+        <u xml:id="i-4h8FmiAZa4pRXZ3Ex9uoZN" who="i-HAkXw2e7ETu7AUjeewEWfr">
+          <seg xml:id="i-WD17hm54aJwqoMPhpdUzeB">
             Asia, josta nyt on kysymys, koskee syvälti Suomen kansan elämään.
             Siitä onkin kansa kaikkialla tietoinen. Valtiosäädyille jätettyyn
             armolliseen asetusehdotukseen on otettu erinäisiä säännöksiä,
@@ -3424,8 +3429,8 @@
         <note xml:id="i-BoxKy2itRq8Qtn6iHb2R57" type="speaker">
           Edusmies Suutarla:
         </note>
-        <u who="i-7F4xdWsmn5h2gsuep9xE2v">
-          <seg>
+        <u xml:id="i-FHfuEagZkWWnWdPDQHB8mz" who="i-7F4xdWsmn5h2gsuep9xE2v">
+          <seg xml:id="i-92XHsKhjNb8DgV9AAzsWxY">
             Minun ymmärtääkseni edusmies Laitinen poikkesi oikeasta suunnasta
             siinä, että hän jo nyt tahtoi ottaa keskustelun alaiseksi myöskin
             Lakivaliokunnan mietinnön N:o 2, joka vast'ikään pantiin pöydälle.
@@ -3592,8 +3597,8 @@
         <note xml:id="i-E9s9ioE72oxbUtCzAFvnju" type="speaker">
           Edusmies Hoikka:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-L78cYhoizZjaFUhbtUcGf2" who="unknown">
+          <seg xml:id="i-RaxLEyqS7x3Rft8hhfhQew">
             Murheellisella mielellä me valtiopäiväin alussa olemme tutustuneet
             niihin ehdotuksiin ja liitteinä seuranneisiin asiakirjoihin, jotka
             silloin säädyille armollisen esityksen mukana jaettiin. Sillä
@@ -3755,8 +3760,8 @@
         <note xml:id="i-HbxXokXAq3TLVUQsVHBymB" type="speaker">
           Edusmies Aulin:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-TKWfZEWh6KV9j1smhBecy8" who="unknown">
+          <seg xml:id="i-VsKQ7rogbJVwwb8HhD9No8">
             Tunteilla sellaisilla kuin eduskunta nyt ryhtyy näitä asioita
             käsittelemään, ei ole koskaan Suomen eduskunta ollut. Raskaat
             ovat nämä tunteet ja tätä raskautta lisää vielä suuressa määrin
@@ -4003,8 +4008,8 @@
         <note xml:id="i-PFNPcfKzrA1BkCdrV8sXBg" type="speaker">
           Edusmies Lagerström:
         </note>
-        <u who="i-RSUNuRBeN9QEuyvaqF6vTD">
-          <seg>
+        <u xml:id="i-aZsAGo71ehbH3yzuTCPVU" who="i-RSUNuRBeN9QEuyvaqF6vTD">
+          <seg xml:id="i-TXu2fNwCqLNSajEpWYDiN4">
             Förrän Ständet gär att punkt. för punkt granska de föreliggande
             betänkandena, utbeder jag mig fä framhälla de allvarliga betänkligheter,
             som enligt min äsikt framställa sig mot antagandet af Värnepligtsutskottets
@@ -4098,8 +4103,8 @@
         </note>
         <note xml:id="i-4B4g6PK43VQWQ6mbyyJZJd">
           Jag föreslär därför att Finlands ständer, säsom gemensamt svar
-          &amp; de dem förelagda nådiga propositionerna, måtte i djupaste underdänighet
-          förklara,
+          &amp; de dem förelagda nådiga propositionerna, måtte i djupaste
+          underdänighet förklara,
         </note>
         <note xml:id="i-6yBgLACWJLJV6v3E627HiS">
           att ständerna, med afseende därä att de till de nädiga propositionerna
@@ -4113,8 +4118,8 @@
         <note xml:id="i-6BwxxENCi2PcMRXxgd6bhD" type="speaker">
           Edusmies Koskelin:
         </note>
-        <u who="i-VprBVce4soGLYgngLSjo1p">
-          <seg>
+        <u xml:id="i-FsjroddQCpBQsbLGsh7UT7" who="i-VprBVce4soGLYgngLSjo1p">
+          <seg xml:id="i-EwvXxKTRNV7wmuKYTPv5Ky">
             Pyydän tällä kertaa käyttää sananvuoroni aivan lyhyesti selittääkseni
             käsityskantani tässä maatamme ja sen oikeuksia niin syvästi koskevassa
             kysymyksessä. Siinä suhteessa, kun pieni maamme on yhdistetty
@@ -4143,8 +4148,8 @@
         <note xml:id="i-Cc1iysUcPTzptea8oDpZmF" type="speaker">
           Edusmies Lindberg:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-Je1XNSTrertTH75d1T9WRv" who="unknown">
+          <seg xml:id="i-59KhhsWBZb9ay9P3KoyELT">
             I likhet med landtdagsmännen Slotte och Eriksson mäste jag anhälla
             om ärendets bordläggning till morgondagens plenum. Jag vet icke
             om inom talmanskonferensen den uppfattning gjort sig gällande
@@ -4167,8 +4172,8 @@
         <note xml:id="i-9JGaE6YrGXZGjXxFRvFZpV" type="speaker">
           Edusmies Hoikka:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-8RH4FazdMPCFYChUdFxEs4" who="unknown">
+          <seg xml:id="i-UKgEG6BkLGW5QcbGGsYyQT">
             Sen johdosta että edusmies Aulin lausui minun lausuntoni tarkoittaneen
             jonkunlaista epäluottamuslausetta joitakin Säädyn arv. jäseniä
             kohtaan, pyydän mainita, että sellainen käsitys varmaan perustui
@@ -4185,8 +4190,8 @@
         <note xml:id="i-XFFz9jKpyoDgPjqc3svuT4" type="speaker">
           Edusmies Aulin:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-38n7cTHQUzWxQEpsbbvgn2" who="unknown">
+          <seg xml:id="i-WrQZKfXLZNZ3m6Kkv1ixZ2">
             Mitä siihen selitykseen tulee, jonka edusm. Hoikka vastalauseeni
             johdosta täällä esitti, pyydän huomauttaa että minä en tiedä mitä
             edusm. Hoikka ajattelee, mutta kun hän lausuu että ne edusmiehet,
@@ -4328,8 +4333,8 @@
         <note xml:id="i-NCnYiDzBLXbrC8izZA1gAy" type="speaker">
           Edusmies Eklund:
         </note>
-        <u who="i-UuNpejz63DNoacNWFAFjXE">
-          <seg>
+        <u xml:id="i-AyMjT6FHtx5QLxupZciCzG" who="i-UuNpejz63DNoacNWFAFjXE">
+          <seg xml:id="i-3SRvQtub6kFt2b5RTBiUq1">
             Jag har begärt ordet för att äfven för min del yttra nägot om
             det förslag af formel natur, som en del talare framstält. Jag
             beklagar, att jag icke kan vara af samma äsikt som den senaste
@@ -4406,10 +4411,10 @@
           icke vill vara med om, ty enligt 8 39 i regeringsformen skola
           ständernas och folkets rätt respekteras lika väl som regentens.
           Det är därför rätt, att ständerna icke upptaga de i fråga varande
-          propositionerna till behandling. $&amp; 38 i R. F. lägger icke några
-          hinder däremot, ty ständerna hafva sammankommit för att rådslå
-          om de frågor, som förelagts dem, och rådslag kunna äfven utmynna
-          i beslut att icke upptaga frågorna till pröfning.
+          propositionerna till behandling. $&amp; 38 i R. F. lägger icke
+          några hinder däremot, ty ständerna hafva sammankommit för att
+          rådslå om de frågor, som förelagts dem, och rådslag kunna äfven
+          utmynna i beslut att icke upptaga frågorna till pröfning.
         </note>
         <note xml:id="i-Rq9GzcD8pnHrjwhgTJexx">
           Af dessa orsaker föreslår jag, att Ståndet skulle remittera ärendet
@@ -4426,8 +4431,8 @@
         <note xml:id="i-Neg5JtqwpTyAHAXr3whd6F" type="speaker">
           Edusmies Valta:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-GiFLQjJzE66XWFgXF7njHC" who="unknown">
+          <seg xml:id="i-BixP6nXfya5RageqD73zJu">
             Eräät puhujat äsken ovat ilmituoneet m. m. sen mielipiteen, että
             sääty ei olisi velvollinen, tuskin oikeutet- Du ryhtymään yksityiskohdissa
             käsittelemään armollisia esityksiä
@@ -4480,8 +4485,8 @@
         <note xml:id="i-Q3YJuGRmpVv4Z1VjBPp1ac" type="speaker">
           Edusmies Kasurinen:
         </note>
-        <u who="i-BiLJE3xxrrRCyZeZCQjHcJ">
-          <seg>
+        <u xml:id="i-SChs9LJubctCguZYms8xNL" who="i-BiLJE3xxrrRCyZeZCQjHcJ">
+          <seg xml:id="i-TEsZYzz6MTeT2FMb94SgfY">
             Kun kutsumus näille väliaikaisille valtiopäiville viime kesänä
             annettiin, heräsi kansassa pelonalainen tunne. Kansa osasi jo
             aavistaa "niiden peruspylväiden horjuvan, jotka sille vuonna 1809
@@ -4533,8 +4538,8 @@
         <note xml:id="i-2DSKJAmgvXweX5W4m7tabB" type="speaker">
           Edusmies Slotte:
         </note>
-        <u who="i-Ev9rwChsySU6VMfbevkpjp">
-          <seg>
+        <u xml:id="i-7NdSBmxx3B9UDEkkUXm1D6" who="i-Ev9rwChsySU6VMfbevkpjp">
+          <seg xml:id="i-77UThXxmrFjdpk7ijKBSQz">
             Dä landtdagsmannavalen senaste sommar och höst försiggingo, uttalades
             i de flesta domsagor den äsikten, att man hoppades, att alla partistrider
             skulle äsidosättas och ständerna stä såsom en man pä grundlagsenlig
@@ -4570,8 +4575,8 @@
         <note xml:id="i-YHBPcU7SZifNPETbjUYcvB" type="speaker">
           Edusmies Halonen:
         </note>
-        <u who="i-7tBzcdop95Z1XrJKrUj55e">
-          <seg>
+        <u xml:id="i-MAR2UBZpKe1MmYkBpHbTNk" who="i-7tBzcdop95Z1XrJKrUj55e">
+          <seg xml:id="i-5ZFzP8L7nhkksv4wx2gdLw">
             Tässä on tosin aivan äskettäin annettu varoituksia keskustelun
             jatkamisesta ja sen tarpeettomuudesta, mutta meillä esillä oleva
             asia on erinomaisen tärkeä. Ja kun täällä on usein lausuttu se
@@ -4716,8 +4721,8 @@
         <note xml:id="i-7WPAuVJTQ1jRCZ2F7uAhyq" type="speaker">
           Edusmies Rosenberg:
         </note>
-        <u who="i-EeTFbyDUFF9QtjjBFNtDQF">
-          <seg>
+        <u xml:id="i-FHHV58P5CPFf61axHU54RL" who="i-EeTFbyDUFF9QtjjBFNtDQF">
+          <seg xml:id="i-7Pdu3PdwQd3YnFFKzoVVrN">
             ÄArade ständsbröder! Här är icke plats att replikera och polemisera,
             ty vi hafva nödigare arbeten för oss. Jag ber att hvar och en
             betänker sig mer än en gång förrän han samtycker till detaljgranskning
@@ -4751,8 +4756,8 @@
         <note xml:id="i-iU26H19Pd2PD82REU94kJ" type="speaker">
           Edusmies Starcke:
         </note>
-        <u who="i-SbofGedkQmSvXcY3kuYV13">
-          <seg>
+        <u xml:id="i-54eB2Vw2ZibKvAByUNmP6v" who="i-SbofGedkQmSvXcY3kuYV13">
+          <seg xml:id="i-Wc4PQyBnHR2wuMTVArhPkL">
             Vära af Rysslands Monarker stadfästade grundlagar innehålla paragrafer,
             hvilka klart och tydligt angifva formen för stiftandet af lag
             i Finland. Sälunda bestämmer Regeringsformens 40 &amp; att monarken
@@ -4824,8 +4829,8 @@
         <note xml:id="i-VfW9RtH5D8qBcMkdpvXXa7" type="speaker">
           Edusmies Flygare:
         </note>
-        <u who="i-Vh1dqy2xKpjHzkQPmypXH2">
-          <seg>
+        <u xml:id="i-EsSvrkW65KwBVFoBeFfhuh" who="i-Vh1dqy2xKpjHzkQPmypXH2">
+          <seg xml:id="i-HLmofE5iBUwacanGdwrszr">
             Finlands ständer hafva på befallning af Hans Majestät, landets
             Storfurste, blifvit sammankallade till urtima landtdag för att
             afgifva yttrande å den nådiga propositionen till ny värnepligtslag,
@@ -4860,8 +4865,8 @@
         <note xml:id="i-NGWbdGwesFAhMPXK3bEA6F" type="speaker">
           Edusmies Stenroth:
         </note>
-        <u who="i-uXjb9J171HfAGASs8vqS9">
-          <seg>
+        <u xml:id="i-EkUEfQpco3dS6RGmtotEXz" who="i-uXjb9J171HfAGASs8vqS9">
+          <seg xml:id="i-DGgn2AVHu23Vm2bneYKr2c">
             Jag ber på de grunder, som anförts af hrr Eklund och Starcke,
             att få påyrka föreliggande betänkandes förkastande och förenar
             mig om det tillvägagående, som föreslagits af hr Eklund.
@@ -4905,8 +4910,8 @@
         <note xml:id="i-ULvVBqNq4SRqinJmhyg1Wk" type="speaker">
           Edusmies Kyckling:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-XDXFnKsCfecN8AQPVeVqd7" who="unknown">
+          <seg xml:id="i-DLTx8RNaRQWMst33gxsrkw">
             Kuin viime vuoden heinäkuun 19 p:nä annetusta julistuksesta,
             joka koski väliaikaisten valtiopäiväin koolle kutsumista, levisi
             tieto maaseuduille, herätti se huomiota sellaista, jota mikään
@@ -4978,8 +4983,8 @@
         <note xml:id="i-SonNSEncLmDmENU6T9J6Pt" type="speaker">
           Edusmies Eriksson:
         </note>
-        <u who="i-BErd1xbD4tu5tZsqSXAGg3">
-          <seg>
+        <u xml:id="i-LiCiRoP9ezNQfJQhXFupmr" who="i-BErd1xbD4tu5tZsqSXAGg3">
+          <seg xml:id="i-WpCowvWmKqhJTpPBtfcxET">
             Suomen kansan ja juuri sen kansamme osan edessä, jonka hartioilla
             asevelvollisuustaakka raskaimmin lepää, on meillä Talonpoikaissäädyn
             jäsenillä suurin edesvastaus päättäessä se määrä, minkä Suomen
@@ -5045,8 +5050,8 @@
         <note xml:id="i-MRvEyy216zZDgejp1L5cCG" type="speaker">
           Edusmies Danielson:
         </note>
-        <u who="i-9pashV7KkwGfYg8WYhns6X">
-          <seg>
+        <u xml:id="i-Sg3ynMUeNJJy3MLqdMWNKB" who="i-9pashV7KkwGfYg8WYhns6X">
+          <seg xml:id="i-5b3fLrosXz1dwMNLopmBTK">
             Täytyy valittaa että sellaisissa asioissa, jotka koskevat kansan
             elinehtoja, vieraat henkilöt ja viranomaiset, joille maan lait,
             sen yhteiskuntajärjestys, olosuhteet maassamme, kansan tavat,
@@ -5223,8 +5228,8 @@
         <note xml:id="i-95sK9qUY5195zpvb5fAkwx" type="speaker">
           Edusmies Lindberg:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-27NA39p5pC3ZPDw3vZnE7G" who="unknown">
+          <seg xml:id="i-W9YxapDjx3pG5AoWoBrBjW">
             Till behandling föreliggande nädiga propositioner angäende ny
             värnepligtslag för Finland har hos mig, liksom hos hela värt folk,
             helt naturligt väckt tankar, sä tunga att det faller sig svårt
@@ -5346,8 +5351,8 @@
         <note xml:id="i-Y7Ywwf5NfBj75LHC79Jynp" type="speaker">
           Edusmies Björni:
         </note>
-        <u who="i-WjNrP4V2Q7sQnyWHLYvkVn">
-          <seg>
+        <u xml:id="i-CnvMKW6V18BDbCV3BKRHUi" who="i-WjNrP4V2Q7sQnyWHLYvkVn">
+          <seg xml:id="i-oLFGhoqLyupyfgKvCDMLL">
             Useimmat edusmiehet ovat hyljänneet valiokunnan mietinnön ja
             armollisen esityksen siinä mielessä että
           </seg>
@@ -5376,8 +5381,8 @@
         <note xml:id="i-8qqUiz6ZvJDeoUpCz25A6r" type="speaker">
           Edusmies Hollmen:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-7QDtzDfAaUjP2y24gQ4QKY" who="unknown">
+          <seg xml:id="i-Gs3mvbHLQSACvAVXqPUXG9">
             Koska nyt esillä olevien valiokunnan mietintöjen käsittelemisen
             suhteen on ilmestynyt melkein odottamatonta erimielisyyttä, joka
             edellyttää että päätös tulee äänestyksellä ratkaistavaksi, niin
@@ -5404,8 +5409,8 @@
         <note xml:id="i-8AEQuzS9eXwBCn3mebewPY" type="speaker">
           Edusmies Torppa:
         </note>
-        <u who="i-8Nqw1ci2HJgHqGKyao4gz6">
-          <seg>
+        <u xml:id="i-PcpM9woZpfYdjxEtnihGS8" who="i-8Nqw1ci2HJgHqGKyao4gz6">
+          <seg xml:id="i-2Li6J2VoEd8nrY79ZX7TXB">
             Siinä laajassa ja monipuolisessa keskustelussa, mikä on tässä
             säädyssä tullut esille sekä tässä että edellisessä istunnossa,
             on ilmennyt kaksi vastakkaista mielipidettä. Toinen mielipide
@@ -5491,8 +5496,8 @@
         <note xml:id="i-SvXvf2u5AnPVgxPWmSTmYQ" type="speaker">
           Edusmies Kiipula:
         </note>
-        <u who="i-yz5WqRw8dv6YYSDpDNaKH">
-          <seg>
+        <u xml:id="i-JgiaAbcXG8MxD3V6quGyDY" who="i-yz5WqRw8dv6YYSDpDNaKH">
+          <seg xml:id="i-AMhrGLQfybPqzS7WoF85X">
             Täytyy valittaa sitä ikävää erimielisyyttä, joka säädyssä on
             ilmaantunut asiassa, jossa sitä kaikkein vähimmin olisi saattanut
             odottaa. Asevelvollisuusvaliokunnan ja Lakivaliokunnan mietinnöt
@@ -5507,8 +5512,8 @@
         <note xml:id="i-DVEmAfLvx1RtJDGzKWAMzu" type="speaker">
           Edusmies Laine:
         </note>
-        <u who="i-A3iNU74qwgCMgUUvCNEK5W">
-          <seg>
+        <u xml:id="i-6escKGMNaHun2xNyM1cDbD" who="i-A3iNU74qwgCMgUUvCNEK5W">
+          <seg xml:id="i-PAxRph5SPza3VJ6TApXjcM">
             Ellen erehdy, on minulla kunnia alkaa tässä asiassa ensimmäisenä
             neljättäkymmenentenä puhujana ja saan alkaa neljännen tusinan
             puhesarjan, mutta kun minä samalla toivoisin, etteivät tämän kymmenluvun
@@ -5520,8 +5525,8 @@
         <note xml:id="i-6oForoRDrYvTGYYBjSVjop" type="speaker">
           Edusmies Roiha:
         </note>
-        <u who="i-17htpZDs17EUXFq4uXyrgb">
-          <seg>
+        <u xml:id="i-Ky5sp5MxZjyCksDRuLGH3Y" who="i-17htpZDs17EUXFq4uXyrgb">
+          <seg xml:id="i-9LDJ6WhTMcKDJFtXNPDbCk">
             Minulla ei ole asiassa enää mitään uutta esille tuotavana enkä
             pyytänyt puheenvuoroa jatkaakseni keskustelua näistä valiokuntien
             mietinnöistä. Ehdotan että lopetettaisiin keskustelu ja ryhdyttäisiin
@@ -5531,8 +5536,8 @@
         <note xml:id="i-EcT4eLbdKJAVpmhYCNp4y" type="speaker">
           Edusmies Tensikkala:
         </note>
-        <u who="i-3SZWVADXp26LoEUsfMXtuW">
-          <seg>
+        <u xml:id="i-QKbddWjzSRVWLH6X9JTaGf" who="i-3SZWVADXp26LoEUsfMXtuW">
+          <seg xml:id="i-NbFSo6asAjSoTMoJw3s3Z8">
             Mitä ensin tulee Lakivaliokunnan mietintöön, niin on itsestään
             selvää että, kun olen Lakivaliokunnan jäsen, täydellisesti hyväksyn
             sen mietinnön. Mitä taas tulee Asevelvollisuusvaliokunnan mietintöön,
@@ -5559,8 +5564,8 @@
         <note xml:id="i-H7mqLexKAXttGkBBMeoHUb" type="speaker">
           Edusmies Lindegren:
         </note>
-        <u who="i-VgXbiJ1DeKP1NgamtWyuHV">
-          <seg>
+        <u xml:id="i-P52rFZpVzbWDdcV5R2iVy8" who="i-VgXbiJ1DeKP1NgamtWyuHV">
+          <seg xml:id="i-VUAfo87BH36r2pKEFcR6Ki">
             Jo valtiopäiväin alussa oli epäilystä oliko armollinen esitys
             käsiteltävä siinä tavallisessa järjestyksessä mikä maamme perustuslakien
             mukaan valtiopäiväin tehtävänä on ollut. Samasta epäilyksestä
@@ -5590,8 +5595,8 @@
         <note xml:id="i-GsX7rks6EkUdmLKVLCxeio" type="speaker">
           Edusmies Tuomikoski:
         </note>
-        <u who="i-WCzaY3RxHpZPCCrEhQE6FZ">
-          <seg>
+        <u xml:id="i-6SpEjVnFB31JRZFJ5zdbwW" who="i-WCzaY3RxHpZPCCrEhQE6FZ">
+          <seg xml:id="i-Wqgqpsjusfw5sPG5MdKZes">
             Ennen kun äänestykseen ryhdytään, pyydän minäkin saada lausutuksi
             lyhimmittäin mielipiteeni. Minä annan täyden arvon niillekin mielipiteille,
             jotka ovat kieltäytyneet näitä mietintöjä ottamasta seikkaperäisesti
@@ -5650,18 +5655,18 @@
           kuuluviksi.
         </note>
         <note xml:id="i-44mTQYvfMFnsuPM9ddPuEi">
-          Mielestäni on tässä 1 &amp;:ssä valiokunnan ehdottoma lisäys vjä
-          koko Venäjän valtakunnan puolustukseksi* liian laajalle ulottuva
+          Mielestäni on tässä 1 &amp;:ssä valiokunnan ehdottoma lisäys
+          vjä koko Venäjän valtakunnan puolustukseksi* liian laajalle ulottuva
           niin että se tavallaan muuttaa Suomen sotalaitoksen luonteen olla
           kansallinen sotaväki ja avaa mahdollisuuden sotaväkemme viemiseen
           kauas oman maan rajojen ulkopuolelle.
         </note>
         <note xml:id="i-UXh4FoGMu6te8nNVsgJ6YE">
-          Onhan 123 &amp;:n 1 mom:ssa ehdotettu myönnettäväksi se, että maan
-          ulkopuolelle, valtakunnan puolustamiseen saadaan käyttää kaikki
-          se sotavoima mitä ei omassa maassa tarvita. Jos tämä tulee hyväksytyksi,
-          niin Suomen kansalta oikeuden ja kohtuuden mukaan voitaisiin katsoa
-          se jo riittäväksi.
+          Onhan 123 &amp;:n 1 mom:ssa ehdotettu myönnettäväksi se, että
+          maan ulkopuolelle, valtakunnan puolustamiseen saadaan käyttää
+          kaikki se sotavoima mitä ei omassa maassa tarvita. Jos tämä tulee
+          hyväksytyksi, niin Suomen kansalta oikeuden ja kohtuuden mukaan
+          voitaisiin katsoa se jo riittäväksi.
         </note>
         <note xml:id="i-LLyZJB26S1k7RjbsCBGZ2S">
           Voisi sattua, että keisarikuntaa uhkaisi sota ja kaikki sotaväkemme
@@ -5686,8 +5691,8 @@
         <note xml:id="i-EqgWhYZYpjq4LebejBnS2n" type="speaker">
           Edusmies Vihonen:
         </note>
-        <u who="i-FYbSvFu4rVek9C99uESHpF">
-          <seg>
+        <u xml:id="i-8P3so29Vffn4uZnfT3QDg5" who="i-FYbSvFu4rVek9C99uESHpF">
+          <seg xml:id="i-UFnNTYKx17Soi4pxWnehmg">
             Tämä 1 S koskee hyvin läheltä kansamme tunteita. Muistaen niitä
             toivomuksia joita valitsijamiehiltäni olen saanut etupäässä koettaa
             säilyttää voimassa olevassa asevelvollisuuslaissa sen perustuslaillisuutta,
@@ -5701,8 +5706,8 @@
         <note xml:id="i-TRsGhCp1Zhgz9Vqw6GeFRH" type="speaker">
           Edusmies Koskelin:
         </note>
-        <u who="i-VprBVce4soGLYgngLSjo1p">
-          <seg>
+        <u xml:id="i-SJyZ9Sx2emLbySFT5vDBTM" who="i-VprBVce4soGLYgngLSjo1p">
+          <seg xml:id="i-QKx2qWK53tDXuKVncEuoki">
             Valiokunta perusteluissaan selvittää muutosehdotuksilla tarkoitettavan
             kehittää maamme sotilaslaitosta niin että puhtaasti sotilaalliset
             tarkoitukset tulisivat edistyksen vaatimalle kannalle, kuitenkin
@@ -5727,13 +5732,13 @@
         <note xml:id="i-5FxD17rRkuiiwuetL1tDdu" type="speaker">
           Edusmies Eklund:
         </note>
-        <u who="i-UuNpejz63DNoacNWFAFjXE">
-          <seg>
-            Jag biträder hr Kasurinens förslag derom att &amp; 1, sådan den lyder
-            i nu gällande värnepligtslag, bibehälles oförändrad. Jag anser
-            nämligen att inga skäl alls tala för en sådan förändring, som
-            utskottet föreslagit, och torde utskottets beslut i denna fråga
-            tillkommit genom kompromiss.
+        <u xml:id="i-Hij6RDb8yHQT7anyUNohHu" who="i-UuNpejz63DNoacNWFAFjXE">
+          <seg xml:id="i-VbgYbaXH7VskhaK29mDZfm">
+            Jag biträder hr Kasurinens förslag derom att &amp; 1, sådan den
+            lyder i nu gällande värnepligtslag, bibehälles oförändrad. Jag
+            anser nämligen att inga skäl alls tala för en sådan förändring,
+            som utskottet föreslagit, och torde utskottets beslut i denna
+            fråga tillkommit genom kompromiss.
           </seg>
         </u>
         <note xml:id="i-47Lbq9dy4pFJTjjihtAvH6">
@@ -5743,17 +5748,18 @@
         <note xml:id="i-CfJyMS7NKnkUHpMdgRWTLH" type="speaker">
           Edusmies Slotte:
         </note>
-        <u who="i-Ev9rwChsySU6VMfbevkpjp">
-          <seg>
-            Äfven jag understöder hr Kasurinens förslag, att &amp; 1 skulle äterremitteras
-            till utskottet för att omformuleras i det syfte, som han har föreslagit.
+        <u xml:id="i-6CEEYjT7DEYG1t35vbGayP" who="i-Ev9rwChsySU6VMfbevkpjp">
+          <seg xml:id="i-PmtUKsE72zpmveBaa41yGM">
+            Äfven jag understöder hr Kasurinens förslag, att &amp; 1 skulle
+            äterremitteras till utskottet för att omformuleras i det syfte,
+            som han har föreslagit.
           </seg>
         </u>
         <note xml:id="i-LDrVL2DSTPgVgQfqikcBS3" type="speaker">
           Edusmies Riihimäki:
         </note>
-        <u who="i-6suuzHSQU6bgefM53wxoHs">
-          <seg>
+        <u xml:id="i-UbU2gMMpjawhFf4SD8Lnps" who="i-6suuzHSQU6bgefM53wxoHs">
+          <seg xml:id="i-UELrXGp9Y36K4tz2qfVzSA">
             Jos tyynesti ajatellaan, niin voimassa olevan asevelvollisuuslain
             1 &amp; on liian ahdasmielinen. Sen verran kuin minä tunnen sodankäynnin
             historiaa, niin sodan aikana ei ole mitään lakia. Silloin on ihan
@@ -5773,8 +5779,8 @@
         <note xml:id="i-PPpyJEzRs5KgLtQ7MQrXXV" type="speaker">
           Edusmies Flygare:
         </note>
-        <u who="i-Vh1dqy2xKpjHzkQPmypXH2">
-          <seg>
+        <u xml:id="i-BUVdRFjkcxvi2ZXsjnJSMX" who="i-Vh1dqy2xKpjHzkQPmypXH2">
+          <seg xml:id="i-HTy2Sz5qeNVyeK2nFXJ8BV">
             Det är icke utan en viss oro jag funnit, att &amp; 1 i utskottets
             förslag fått en helt annan lydelse än den har i nu gällande värnepliktslag.
             I utskottsbetänkandet, pag. 120, heter det visserligen, att de
@@ -5787,8 +5793,8 @@
             gifvit desamma nägot sädant nytt innehäll, som skulle gälla annat
             ämne än det, hvilket ursprungligen utgjort stadgandets föremål,
             och föranledt att &amp;:n blifvit för grundlagsstadgande förklarad.*
-            Männe dock icke &amp; 1 likväl genom den föreslagna. ändringen fått
-            en helt annan bärvidd än den har i vär nu gällande värnepligtslag?
+            Männe dock icke &amp; 1 likväl genom den föreslagna. ändringen
+            fått en helt annan bärvidd än den har i vär nu gällande värnepligtslag?
             Jag föreslär att paragrafen bibehälles oförändrad med tillägg
             af sista strofen i utskottets förslag: , enligt de grunder, som
             i denna lag stadgas" fogas till paragrafen.
@@ -5800,8 +5806,8 @@
         <note xml:id="i-uqeQXuTT4qmNzUkJ6Fv7s" type="speaker">
           Edusmies Wuolijoki:
         </note>
-        <u who="i-7r77TsZ9KwmhJExgnCC3ao">
-          <seg>
+        <u xml:id="i-K6PnmWAniNHp1dMjw6FBsy" who="i-7r77TsZ9KwmhJExgnCC3ao">
+          <seg xml:id="i-2xwWun4hcRm2GPkXtMV4cA">
             Jos minä voisin tämän 1 &amp;:n suhteen asettua samalle kannalle
             kuin nseimmat edelliset puhujat, niin olisi ehkä minunkin mielestäni
             voimassa oleva lainpykälä pysytettävä, mutta minä en voi sitä
@@ -5822,8 +5828,8 @@
         <note xml:id="i-YNxfjR76Ax6k6xV9TuXMGH" type="speaker">
           Edusmies Laitinen:
         </note>
-        <u who="i-TGqE1UqnA73NvW2YYgmMf3">
-          <seg>
+        <u xml:id="i-BMfM4TeYhqLANHfiSe2o5g" who="i-TGqE1UqnA73NvW2YYgmMf3">
+          <seg xml:id="i-AcAkJFexSGjfKwupFRghou">
             Koska ei minunkaan mielestäni asemamme Keisarikuntaan nähden
             ole muuttunut sen jälkeen, kun voimassa oleva asevelvollisuuslaki
             saatiin toimeen, niin en näe olevan syytä mennä muuttamaan puheenalaista
@@ -5834,8 +5840,8 @@
         <note xml:id="i-WnAEDfe2Wxa7jBvTZ2paZ5" type="speaker">
           Edusmies Avellan:
         </note>
-        <u who="i-Pwjr6vGBf5sGMw2BtNjBMH">
-          <seg>
+        <u xml:id="i-JCzGemeaFYhg6QLSfnfuTq" who="i-Pwjr6vGBf5sGMw2BtNjBMH">
+          <seg xml:id="i-G729XaMPqk1HhU43g4bYSK">
             Minä luulen puolestani, että lakia säädettäessä on otettava huomioon
             olevaiset olot eikä ainoastaan
           </seg>
@@ -5859,13 +5865,13 @@
           puolelta vaaditaan meitä tunnustamaan, että Suomenmaa on osana
           Venäjän valtakunnasta, enkä minä ymmärrä, miksi sitä ei suorin
           sanoin tunnustettaisi. Ja jos se on tunnustettava, se on tapahtuva
-          tässä 1:sessä &amp;:ssä. On lausuttu pelkoa siitä, että jos sana ,koko*
-          pykälään otetaan, siitä voi olla vaikeita seurauksia siinä suhtein,
-          että sotaväkeämme voidaan aiheettomasti viedä ulkopuolelle maata
-          tiesi kuinka kauvaksi. Tässä katsannossa sisältää kuitenkin 123:s
-          $ minun käsittääkseni jotenkin tyydyttäviä rajoituksia. Kun tullaan
-          123:een S:ään, voidaan, jos sitä katsotaan tarpeelliseksi, pykälälle
-          antaa vähän toisellainen muoto, niin ettei mitään väärinkäsitystä
+          tässä 1:sessä &amp;:ssä. On lausuttu pelkoa siitä, että jos sana
+          ,koko* pykälään otetaan, siitä voi olla vaikeita seurauksia siinä
+          suhtein, että sotaväkeämme voidaan aiheettomasti viedä ulkopuolelle
+          maata tiesi kuinka kauvaksi. Tässä katsannossa sisältää kuitenkin
+          123:s $ minun käsittääkseni jotenkin tyydyttäviä rajoituksia.
+          Kun tullaan 123:een S:ään, voidaan, jos sitä katsotaan tarpeelliseksi,
+          pykälälle antaa vähän toisellainen muoto, niin ettei mitään väärinkäsitystä
           saata syntyä, mutta tässä &amp;:ssä minun käsittääkseni on välttämätöintä
           suorastaan myöntää mitä on myönnettävä, nimittäin että Suomen
           kansa on velvollinen puolustamaan koko Venäjän valtakuntaa.
@@ -5873,8 +5879,8 @@
         <note xml:id="i-7MbRcqS4MJ2DaKcFW2NQrP" type="speaker">
           Edusmies Starcke:
         </note>
-        <u who="i-SbofGedkQmSvXcY3kuYV13">
-          <seg>
+        <u xml:id="i-7cpPBsncWoaLSVKVYRCbt6" who="i-SbofGedkQmSvXcY3kuYV13">
+          <seg xml:id="i-RpBSkaVSVWipnrpUAcHNG6">
             Jag ber att få till protokollet antecknadt, att jag kommer att
             rösta för paragrafens bibehällande i dess nuvarande lydelse. Man
             har vidt och bredt ordat om grundlagens hälgd. Jag undrar när
@@ -5888,8 +5894,8 @@
         <note xml:id="i-DcKtPPpnyod3eUWwLDyyPa" type="speaker">
           Edusmies Koivisto:
         </note>
-        <u who="i-Adw7hSqFhqRTF21aMdhwtq">
-          <seg>
+        <u xml:id="i-Gcv3p2gxsZknsTRa4oypar" who="i-Adw7hSqFhqRTF21aMdhwtq">
+          <seg xml:id="i-7BaGD54REV3pz6B5xkZuHA">
             Vertaillessa pykälää nykyisessä asevelvollisuuslaissa ja valiokunnan
             mietinnössä, huomaa ison eron niiden välillä. Minä olisin hyvin
             toivonut että valiokunta olisi jonkun toisen muodon tälle asialle
@@ -5900,8 +5906,8 @@
         <note xml:id="i-ApML2bwLr6aMGqHuAcoJmC" type="speaker">
           Edusmies Lindegren:
         </note>
-        <u who="i-VgXbiJ1DeKP1NgamtWyuHV">
-          <seg>
+        <u xml:id="i-MoSPeLmWahSd6KK8c4tTt2" who="i-VgXbiJ1DeKP1NgamtWyuHV">
+          <seg xml:id="i-X5917Do8hESZZSk6iZbbh1">
             Minä pääasiassa yhdistyn niihin mielipiteisiin, jotka edusm.
             Avellan on lausunut. Onhan aina tunnustettu ja minäkin tunnustan
             että Suomi Venäjän valtakunnan yhteydessä on saanut suuriakin
@@ -5925,8 +5931,8 @@
         <note xml:id="i-HTfym1Wdj6ZgsyGHtdmb56" type="speaker">
           Edusmies Flygare:
         </note>
-        <u who="i-Vh1dqy2xKpjHzkQPmypXH2">
-          <seg>
+        <u xml:id="i-E8BLAsyP1VyETWnSX4VWQD" who="i-Vh1dqy2xKpjHzkQPmypXH2">
+          <seg xml:id="i-zHBemf4t8Z8oppSt78f59">
             Jag förenar mig i allo i hr Starckes yttrande och önskar, att
             utskottet närmare preciserar paragrafen i fråga, eljes kommer
             den att få en oberäknelig bärvidd.
@@ -5939,8 +5945,8 @@
         <note xml:id="i-8SuiU9mHPWrMPpQi4yn4nz" type="speaker">
           Edusmies Flygare:
         </note>
-        <u who="i-Vh1dqy2xKpjHzkQPmypXH2">
-          <seg>
+        <u xml:id="i-XXzwqTxCcPnMzvenm8v9ks" who="i-Vh1dqy2xKpjHzkQPmypXH2">
+          <seg xml:id="i-GFuVAVA9kA8Xc7miCyT7jJ">
             Då jag icke hoppas erhålla något understöd i denna fråga, ehuru
             jag skulle önska det, afstår jag från mitt förslag.
           </seg>
@@ -5973,8 +5979,8 @@
         <note xml:id="i-AvtFxmD2cJ4DGj4nUiPVF2" type="speaker">
           Edusmies Vihonen:
         </note>
-        <u who="i-FYbSvFu4rVek9C99uESHpF">
-          <seg>
+        <u xml:id="i-B3EKHpPno9vH7pVWqsRBTQ" who="i-FYbSvFu4rVek9C99uESHpF">
+          <seg xml:id="i-VtuqFBs9dX9g5JWv6gnhe3">
             Näyttäisi hyvin arveluttavalta että meidän nostoväkemmekin, vaikkapa
             vaan erinomaisissa tilaisuuksissa aseihin kutsuttaisiin ja vietäisiin
             ulkopuolelle maan rajoja; sillä siitähän seuraisi luonnollisesti
@@ -5987,8 +5993,8 @@
         <note xml:id="i-Ue5Eh8FTiy6EXpZzbTPoE1" type="speaker">
           Edusmies Aulin:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-KrfYiJ5uCikQ8DwktcnEh1" who="unknown">
+          <seg xml:id="i-BAnxubhtZetvruTa7FBV2e">
             Minä pyydän kannattaa edusm. Eklundin tekemää ehdotusta. Mielestäni
             on nostoväki jo sentään sivuosa vakinaisesta sotaväestä ja minusta
             mentäisiin jo liiaksi pitkälle jos sekin komennettaisiin ulkopuolelle
@@ -6007,8 +6013,8 @@
         <note xml:id="i-TKtcZFQxsBg6PP3QfXzDmj" type="speaker">
           Edusmies Starcke:
         </note>
-        <u who="i-SbofGedkQmSvXcY3kuYV13">
-          <seg>
+        <u xml:id="i-FPLsV8VAH3mjM1UEjwrUAv" who="i-SbofGedkQmSvXcY3kuYV13">
+          <seg xml:id="i-XFm5BLanmqJLfHn971fGp8">
             Dä det förefaller mig nägot för längt gänget att värnemännen
             skulle fä intagas i aktiv trupp utom landet, ber jag att fä tillstyrka
             det af den föregäende talaren gjorda tillägget.
@@ -6017,8 +6023,8 @@
         <note xml:id="i-BmvdReL32qnPsAQ9g5rM51" type="speaker">
           Edusmies Koskelin:
         </note>
-        <u who="i-VprBVce4soGLYgngLSjo1p">
-          <seg>
+        <u xml:id="i-JBez2m8MuYNKvmbSDFUc7a" who="i-VprBVce4soGLYgngLSjo1p">
+          <seg xml:id="i-5C8uDpkAWUx3a966PxJmrb">
             Tämä on toinen niitä tärkeitä myönnytyskohtia, joilla ei ole
             mitään tärkeämpiä sotilaskehityksellisiä tarkoituksia. Minä yhdistyn
             lyhyesti vaatimaan sitä lähetettäväksi takaisin valiokuntaan samoilla
@@ -6036,8 +6042,8 @@
         <note xml:id="i-FZQNzm6cZi3wVVspYmrcY3" type="speaker">
           Edusmies Fellman:
         </note>
-        <u who="i-761jFp8QFs1K22nsTyPrT4">
-          <seg>
+        <u xml:id="i-GG6VQaJKkYcxvbwmx6vFsC" who="i-761jFp8QFs1K22nsTyPrT4">
+          <seg xml:id="i-6rmttL9rBbh4kVpFBTyP59">
             Minä puolestani pyytäisin ehdottaa, että 4 mom. tykkänään poistettaisiin.
             Valiokunta on nähtävästi laatinut sen ainoastaan siltä varalta
             että reservi, jota nyt on ehdotettu 7-vuotiseksi, tulisi liian
@@ -6060,8 +6066,8 @@
         <note xml:id="i-BHtdo6eWrFEYEqmDGsJb4P" type="speaker">
           Edusmies Lindegren:
         </note>
-        <u who="i-VgXbiJ1DeKP1NgamtWyuHV">
-          <seg>
+        <u xml:id="i-NuZh2Mte1LJxCsoXqD91W3" who="i-VgXbiJ1DeKP1NgamtWyuHV">
+          <seg xml:id="i-C5rExxuiZveAg5D9V4ezjf">
             Niin paljon kuin minä tässä suhteessa käsitän Asevelvollisuusvaliokunnan
             mietintöä, on se todellakin vähän hämäränlainen. Tarkoitus näkyy
             valiokunnalla olevan, että nostoväkeä saisi käyttää ainoastaan
@@ -6083,8 +6089,8 @@
         <note xml:id="i-T7LLeL7WaV3wynNj8vr2up" type="speaker">
           Edusmies Fieandt:
         </note>
-        <u who="i-43CbwtzFU9fvE1ZC4NayXe">
-          <seg>
+        <u xml:id="i-L89EZ1L4p9ZWr4sUb9ujUw" who="i-43CbwtzFU9fvE1ZC4NayXe">
+          <seg xml:id="i-YWTVHGiBTBRdKyx5m1dUXB">
             Edusmies Fellmanin muistutuksen johdosta neljänteen momenttiin
             nähden on jo edusmies Oittinen tehnyt saman huomautuksen, jonka
             minäkin aioin tehdä, minkä vuoksi pyydän ainoastaan yhtyä häneen.
@@ -6093,8 +6099,8 @@
         <note xml:id="i-XAn6LNygjjkw145mraA1x1" type="speaker">
           Edusmies Lindegren:
         </note>
-        <u who="i-VgXbiJ1DeKP1NgamtWyuHV">
-          <seg>
+        <u xml:id="i-FeNoBVACSb6wxUx7eyavXH" who="i-VgXbiJ1DeKP1NgamtWyuHV">
+          <seg xml:id="i-HQ7H3xqaDxhyWfwMWmVhBS">
             Minä tahtoisin vielä saada äskeisen lisäksi lausua pari sanaa.
             Valiokunta nimittäin mietintönsä sivulla 43 sanoo, että suomalaista
             nostoväkeä ei tule käyttää oman maan ulkopuolella elleivät erinomaiset
@@ -6116,8 +6122,8 @@
         <note xml:id="i-XcKPYfRgNu7DBXMD7uY52E" type="speaker">
           Edusmies Halonen:
         </note>
-        <u who="i-7tBzcdop95Z1XrJKrUj55e">
-          <seg>
+        <u xml:id="i-Gx9V66jVQrqHesv1W6U8ep" who="i-7tBzcdop95Z1XrJKrUj55e">
+          <seg xml:id="i-Fj18Pm7bVyJTux6by1DAtL">
             Minustakin menee tämä myönnytys liian pitkälle siinä, että myöskin
             nostoväkeä saisi sen mukaan sodassa viedä ulkopuolelle Suomea
             ehkä kuinkakin kauvaksi. Sentähden minäkin kannatan edusm. Eklundin
@@ -6127,8 +6133,8 @@
         <note xml:id="i-XU6eyjAeRAsPiZpYojGxTX" type="speaker">
           Edusmies Ekberg:
         </note>
-        <u who="i-TRJUkgdtqj8YafcHWiunC8">
-          <seg>
+        <u xml:id="i-JQuxXfkWrZ74TjtHXoVtNN" who="i-TRJUkgdtqj8YafcHWiunC8">
+          <seg xml:id="i-HQC5Js1EmuPpqQ8uTMLpXS">
             Minäkin olen sitä mieltä että nostoväkeä käytettäisiin ainoastaan
             maan puolustukseen, sillä sen harjoittamiseen menee jo niin paljon
             aikaa ettei niitä voida täysin kelpaavina sotilaina pikaisesti
@@ -6138,8 +6144,8 @@
         <note xml:id="i-L5cpRaGL5vK6tJfivktBjr" type="speaker">
           Edusmies Eklund:
         </note>
-        <u who="i-UuNpejz63DNoacNWFAFjXE">
-          <seg>
+        <u xml:id="i-BDkEXxwXCaQHY8BaammgRc" who="i-UuNpejz63DNoacNWFAFjXE">
+          <seg xml:id="i-7hAZazQmhDbwqouCqmdoYy">
             Jag ber fä fästa uppmärksamheten pä att det förslag, som jag
             framstält till &amp; 20, icke utgör hinder för landtvärnets förande
             i nödfall utom landet, blott det användes till landets försvar.
@@ -6246,8 +6252,8 @@
         <note xml:id="i-F9uGegHhRi4yxpPWjXWi3E" type="speaker">
           Edusmies Kasurinen:
         </note>
-        <u who="i-BiLJE3xxrrRCyZeZCQjHcJ">
-          <seg>
+        <u xml:id="i-5nTg4xjSxfP3g6Wu1u6Uiy" who="i-BiLJE3xxrrRCyZeZCQjHcJ">
+          <seg xml:id="i-7HShgEovSUPTgXwRGdcYGZ">
             Minä puolestani tahtoisin vastustaa edusmies Lindegrenin ehdotusta.
             Vanha sananlasku sanoo, että yhyvää ei ole liiaksi milloinkaan*,
             ja on kokemuksesta nähty että on hyvä että on kaksi lääkäriä sekä
@@ -6257,8 +6263,8 @@
         <note xml:id="i-3yWNXvkH8G8E3HURRZHPmS" type="speaker">
           Edusmies Slotte:
         </note>
-        <u who="i-Ev9rwChsySU6VMfbevkpjp">
-          <seg>
+        <u xml:id="i-QAadYhaMjEVA8B76oVi23N" who="i-Ev9rwChsySU6VMfbevkpjp">
+          <seg xml:id="i-TTh1UTNidCNTFnTBZRnsJp">
             Då ingen har understödt hr Lindegren är det väl onödigt att begära
             ordet, men jag kunde anföra flere fall där till och med tre läkares
             närvaro skulle hafva varit nödvändig. Dä jag för tvä är sedan
@@ -6273,8 +6279,8 @@
         <note xml:id="i-MVc8C8fz9DvkFdAV1uWJZh" type="speaker">
           Edusmies Forsman:
         </note>
-        <u who="i-T2NvVpCbguQDo4BsdWUvRd">
-          <seg>
+        <u xml:id="i-VBvP1TyJrgrkAsd7YQCkES" who="i-T2NvVpCbguQDo4BsdWUvRd">
+          <seg xml:id="i-J7geCvEJ4HfgTAfzkKMoA8">
             Sen nojalla mitä edusmies Slotte nyt on kertonut Säädylle, pidän
             minäkin varsin sopivana että tässä tilaisuudessa käytetään kahta
             lääkäriä, ja hyväksyn pykälän semmoisenaan.
@@ -6311,17 +6317,17 @@
           tässä ehdotetussa pykälässä ei ollenkaan mainita mitä tapaa on
           käytettävä, jonka vuoksi käsittääkseni olisi tähän pykälään lisättävä
           määräys siitä miten puheena oleva anomus on tehtävä, sitä suuremmalla
-          syyllä, kun 99 &amp;:n 3:nnen momentin loppulauseessa sanotaan mitenkä
-          sen on menetteleminen, joka haluaa päästä tarjokkaaksi. Minusta
-          olisivat molemmat nämä pykälät muodostettavat yhtäläisiksi ja
-          ehdotan sentähden että käsiteltävänä oleva pykälä lähetettäisiin
+          syyllä, kun 99 &amp;:n 3:nnen momentin loppulauseessa sanotaan
+          mitenkä sen on menetteleminen, joka haluaa päästä tarjokkaaksi.
+          Minusta olisivat molemmat nämä pykälät muodostettavat yhtäläisiksi
+          ja ehdotan sentähden että käsiteltävänä oleva pykälä lähetettäisiin
           takaisin valiokuntaan muodostettavaksi mainitsemaani suuntaan.
         </note>
         <note xml:id="i-4QjwFTVdRCgybtxsJo75SR" type="speaker">
           Edusmies Starcke:
         </note>
-        <u who="i-SbofGedkQmSvXcY3kuYV13">
-          <seg>
+        <u xml:id="i-UariUs1HxsKSjPHgx7Sc86" who="i-SbofGedkQmSvXcY3kuYV13">
+          <seg xml:id="i-6mst8XGANnwFy5rsVVMkgL">
             Jag anser att kapten Fellman har alldeles rätt i sitt pästäende
             och vill derför understöda honom.
           </seg>
@@ -6329,8 +6335,8 @@
         <note xml:id="i-Nb3dZVPXk6veMUKJBdUw6S" type="speaker">
           Edusmies Ekberg:
         </note>
-        <u who="i-TRJUkgdtqj8YafcHWiunC8">
-          <seg>
+        <u xml:id="i-3DxF397kR1yMxRRUhNeWBt" who="i-TRJUkgdtqj8YafcHWiunC8">
+          <seg xml:id="i-W9RYu79fpQv9pBnb6iKg2T">
             Myöskin minä olen edusmies Fellmanin kanssa samaa mieltä pykälän
             lähettämisestä takaisin valiokuntaan. Minun mielestäni olisi sen,
             joka tahtoo vapaaehtoisena päästä sotapalvelukseen, tehtävä kirjallinen
@@ -6478,9 +6484,10 @@
         <note xml:id="i-B8d5QMzmBzEZSnD54eBJyh" type="speaker">
           Edusmies Kasurinen:
         </note>
-        <u who="i-BiLJE3xxrrRCyZeZCQjHcJ">
-          <seg>
-            Pyydän tämän 121 &amp;:n johdosta arvoisalle Säädylle lausua mielipiteeni.
+        <u xml:id="i-3oLcfpV9iT89s9VzRvoaMf" who="i-BiLJE3xxrrRCyZeZCQjHcJ">
+          <seg xml:id="i-8FHeeFAUxYSyL3FewLWBnA">
+            Pyydän tämän 121 &amp;:n johdosta arvoisalle Säädylle lausua
+            mielipiteeni.
           </seg>
         </u>
         <note xml:id="i-5opSHEFDVUG7aak9xcu8nB">
@@ -6519,8 +6526,8 @@
           sitä enemmän meiltä työvoimat vähenevät ja sitä useampi isä ja
           äiti sekä vaimo ja lapset jäävät tnrvattomiksi ja tulevat lisäämään
           ennestään jo suurta vaivaishoitorasitusta. Tätä epäkohtaa on tosin
-          26 &amp;:n a) kohdassa koetettu poistaa, mutta se ei kuitenkaan kaikissa
-          kohden pidä paikkaansa. Ajatellaanpa esim. että kykenemättömillä
+          26 &amp;:n a) kohdassa koetettu poistaa, mutta se ei kuitenkaan
+          kaikissa kohden pidä paikkaansa. Ajatellaanpa esim. että kykenemättömillä
           vanhuksilla on useampia poikia; vanhin on nainut ja tullut niin
           paljon perettä, että ei voi vanhempiansa hoitaa, ja asevelvollisuusijässä
           olevat nuoremmat veljet ovat kykenemättömiä itseäänkin hoitamaan
@@ -6626,8 +6633,8 @@
         <note xml:id="i-JEa6dKp6JsYy11FtEvDRJe" type="speaker">
           Edusmies Björni:
         </note>
-        <u who="i-WjNrP4V2Q7sQnyWHLYvkVn">
-          <seg>
+        <u xml:id="i-VPQYxXrmmv12CYsanC6wxU" who="i-WjNrP4V2Q7sQnyWHLYvkVn">
+          <seg xml:id="i-G8F3zi3ey8idRW7piEVSN5">
             Koska edelliset puhujat jo pääkysymyksessä ovat tuoneet esille
             sen mielipiteen, joka minullakin on, en tahdo sen pitemmälle asiasta
             puhua. Pyydän vaan lyhyesti saada mainita etten voi hyväksyä käsillä
@@ -6639,8 +6646,8 @@
         <note xml:id="i-LG2KvARS6ASo1NpvMbNhEq" type="speaker">
           Edusmies Roiha:
         </note>
-        <u who="i-17htpZDs17EUXFq4uXyrgb">
-          <seg>
+        <u xml:id="i-AxEhc2yvXJ17uxRsjmasxL" who="i-17htpZDs17EUXFq4uXyrgb">
+          <seg xml:id="i-UqyLhcdr7oxeN36rwgXaun">
             Tämä käsiteltävänä oleva 121 $ on mitä tärkeimpiä perustuslakiluontoisia
             pykäliä asevelvollisuuslaissamme, sillä tämä pykälä juuri määrää
             seisovan miesluvun vakinaisessa väessä rauhan aikana, josta luonnollisesti
@@ -6694,8 +6701,8 @@
         <note xml:id="i-LYRHD22LP2GdVZkyu7AZ16" type="speaker">
           Fdusmies Laine:
         </note>
-        <u who="i-A3iNU74qwgCMgUUvCNEK5W">
-          <seg>
+        <u xml:id="i-4d5ppXL3SxfMnXqgFxQijw" who="i-A3iNU74qwgCMgUUvCNEK5W">
+          <seg xml:id="i-JhLZchKGebpc1SujHsLLD3">
             Vaikka pääasiallisesti kannatankin valiokunnan mietintöä pidän
             kuitenkin sen ehdottamaa 12,000 mieslukua rauhan aikana liian
             uskallettuna ja yhdistyn sentähden vastalauseeseen. Minun ei tarvitse
@@ -6706,8 +6713,8 @@
         <note xml:id="i-X8cGtWxf7K69uFUJ58HR29" type="speaker">
           Edusmies Kiipula:
         </note>
-        <u who="i-yz5WqRw8dv6YYSDpDNaKH">
-          <seg>
+        <u xml:id="i-AJMNbAmosgJpkZbYV6paD" who="i-yz5WqRw8dv6YYSDpDNaKH">
+          <seg xml:id="i-BsFjnCpzep9HskSQW9mkEh">
             Koska täällä jo toiset arvoisat jäsenet ovat ehtineet perustella
             asiaa, niin pyydän ainoastaan saada ilmoittaa että minä kannatan
             valiokunnan mietintöön liitettyä vastalausetta ja yhdyn siinä
@@ -6717,8 +6724,8 @@
         <note xml:id="i-AfYfGePuKFrPv77AEnViUm" type="speaker">
           Edusmies Toijala:
         </note>
-        <u who="i-NbLP2Nt1pfin8JxryLMYRd">
-          <seg>
+        <u xml:id="i-GXZdX7gkezjCBnYoC18nCk" who="i-NbLP2Nt1pfin8JxryLMYRd">
+          <seg xml:id="i-EnxKTYiJpcjCKLxsBiYySd">
             Kuten tunnettu on, kaipaa meidän maamme karun luontonsa ja kovan
             ilmanalansa vuoksi maanviljelyksensä suhteen suurempia työvoimia
             kuin onnellisemmissa olosuhteissa olevain kansain, esim. Venäjällä
@@ -6740,8 +6747,8 @@
         <note xml:id="i-XwAztVay9mZgGUvboa1uDj" type="speaker">
           Edusmies Fieandt:
         </note>
-        <u who="i-43CbwtzFU9fvE1ZC4NayXe">
-          <seg>
+        <u xml:id="i-WMKognY3qsXYSwdw1J65EK" who="i-43CbwtzFU9fvE1ZC4NayXe">
+          <seg xml:id="i-8j2XKm247fUbzNkPqZFAp3">
             Keskustelun alaiseen pykälään nähden minä kannatan vastalausetta.
             Mitään uusia näkökohtia en voi esiintuoda, koska edelliset puhujat
             jo ovat tarpeeksi niitä esittäneet. Tahdon vaan huomauttaa kuinka
@@ -6781,8 +6788,8 @@
           sc vaatimus, että suuremmassa määrässä kuin tähän asti on otettava
           osaa valtakunnan puolustamiseen, emmekä voi kieltää, että tällä
           vaatimuksella on perustustakin. Tämän Sääty onkin myöntänyt hyväksyessään
-          1 &amp;:n siinä muodossa, jonka valiokunta sille on antanut. Ja tärkeää
-          on, että tätä meidän maallemme asetettua vaatimusta tarpeeksi
+          1 &amp;:n siinä muodossa, jonka valiokunta sille on antanut. Ja
+          tärkeää on, että tätä meidän maallemme asetettua vaatimusta tarpeeksi
           otetaan huomioon. Se ei suinkaan ole meille yhdentekevää, myönnetäänkö
           Venäjän puolesta, että todellakin tahdomme täyttää velvollisuutemme
           valtakuntaa kohtaan, vai pääseekö siellä valtaan se mielipide,
@@ -6818,8 +6825,8 @@
         <note xml:id="i-T46pUNSMBtFxXoHKLQV4KU" type="speaker">
           Edusmies Nykänen:
         </note>
-        <u who="i-JorHLG9UJyX1sjpnaG1dmH">
-          <seg>
+        <u xml:id="i-ARhstP1fszEMxZzSYBagnC" who="i-JorHLG9UJyX1sjpnaG1dmH">
+          <seg xml:id="i-21tM8senhXacfHX9gbwm3T">
             Minun käsitykseni mukaan täytyisi meidän Suomen kansan mennä
             edes jonkinlaisiin uhrauksiin, sillä mielestäni ei ole vallan
             viisasta että Suomen kansa tässä kohden ei tällä kertaa ottaisi
@@ -6839,8 +6846,8 @@
         <note xml:id="i-StS3JcwnJR49jm4JQE2UWS" type="speaker">
           Edusmies Flygare:
         </note>
-        <u who="i-Vh1dqy2xKpjHzkQPmypXH2">
-          <seg>
+        <u xml:id="i-7gcx8noAG5TPPVN29LTKkg" who="i-Vh1dqy2xKpjHzkQPmypXH2">
+          <seg xml:id="i-N2imgthyqzRfykfAdtKCfh">
             Jag hyser samma uppfattning som de föregäende talare, hvilka
             yrkat pä truppstyrkans ökande till högst 8,000 man under fredstid,
             icke därför att de österbottniska kustsocknarna skulle hafva nägot
@@ -6857,8 +6864,8 @@
         <note xml:id="i-D2DgDGqUjUptTgkNyNkVGc" type="speaker">
           Edusmies Starcke:
         </note>
-        <u who="i-SbofGedkQmSvXcY3kuYV13">
-          <seg>
+        <u xml:id="i-C8Y1hhrJBWi1fpTBP82Gmp" who="i-SbofGedkQmSvXcY3kuYV13">
+          <seg xml:id="i-KzQWMDerCYYPD7t9wfBDmQ">
             Dä jag kommer att rösta för 8,000 man gör jag det af de skäl,
             som flere talare redan framburit, särskildt landtdagsmannen Flygare.
             Okas den militära bördan, blir Osterbotten inom ganska kort tid
@@ -6871,8 +6878,8 @@
         <note xml:id="i-Uzg1LbQ9KdDX4hNVsQVWv6" type="speaker">
           Edusmies Hosia:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-23uqsr6qhNbZf9LTBHFaTz" who="unknown">
+          <seg xml:id="i-X4qSce98f9SzFwfPjD5ui3">
             Pyysin puheenvuoroa vakuuttaakseni että minä kyllä kunnioitan
             valiokunnan jäsenten mielipidettä että vakinaisen sotaväkemme
             miesluku korotettaisiin 12,000:ksi, sillä
@@ -6891,8 +6898,8 @@
         <note xml:id="i-Bni8ugW3poa7JzDNdYEiBW" type="speaker">
           Edusmies Kilpiläinen:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-CytoMkkVyU3UDRqArSYfY4" who="unknown">
+          <seg xml:id="i-xzuguLGe8MFvgEEJP9kw8">
             Yhdistyen täydellisesti edusmies Kasurisen ehdotukseen rohkenen
             minäkin esittää, että arvoisa Talonpoikaissääty lähettäisi tämän
             pykälän takaisin Asevelvollisuusvaliokuntaan muodostettavaksi
@@ -6928,8 +6935,8 @@
         <note xml:id="i-Giwuvbuotff9qJ7ZRGY51t" type="speaker">
           Edusmies Halonen:
         </note>
-        <u who="i-7tBzcdop95Z1XrJKrUj55e">
-          <seg>
+        <u xml:id="i-EuvzqLJueK4VPX76U4UuUv" who="i-7tBzcdop95Z1XrJKrUj55e">
+          <seg xml:id="i-EaZdoWQjX4m2gsDL7k7n2Z">
             Minä kyllä täydellisesti kunnioitan kunnallisneuvos Avellanin
             lausuntoja, mutta hänen lausuntonsa tässä asiassa ei kumminkaan
             ole vakuuttanut minua valiokunnan ehdotuksen hyväksymiseen. Minun
@@ -6978,8 +6985,8 @@
         <note xml:id="i-97C3yhFuxd1TGs5VLzk7EF" type="speaker">
           Edusmies Juvonen:
         </note>
-        <u who="i-9bXKRcbNZcEMCDoY2xG6Cc">
-          <seg>
+        <u xml:id="i-51qD8ALiXP8iDp1zcCd8JM" who="i-9bXKRcbNZcEMCDoY2xG6Cc">
+          <seg xml:id="i-fCd32KD1vfzeh1LeyX6Qp">
             Minä puolestani yhdistyn edusmies Kasurisen ehdotukseen ja pyydän
             mietinnön lähettämistä takaisin valiokuntaan.
           </seg>
@@ -6987,8 +6994,8 @@
         <note xml:id="i-H96ujwUvFTZLNjNjGpmoWo" type="speaker">
           Edusmies Laitinen:
         </note>
-        <u who="i-TGqE1UqnA73NvW2YYgmMf3">
-          <seg>
+        <u xml:id="i-5bMAqBKDTGQX7zmhRUkkRn" who="i-TGqE1UqnA73NvW2YYgmMf3">
+          <seg xml:id="i-WyEWT6qAjLeZubPFqKPDz">
             Vaikka eilen eräs Säädyn arvoisa jäsen varoitti ,vähemmistöä*
             liiasta rohkeudesta esiintyä omilla mielipiteillään, pyydän kuitenkin
             saada lausua ajatukseni tämän tärkeän pykälän suhteen, vaikka
@@ -7050,8 +7057,8 @@
         <note xml:id="i-USJ9SNr5ZaspvCFC8eq9Y" type="speaker">
           Edusmies Meurman:
         </note>
-        <u who="i-TPLLng6ovQtEFTALxn8PZa">
-          <seg>
+        <u xml:id="i-DZv2mZrV7qeY26CWgn3mdP" who="i-TPLLng6ovQtEFTALxn8PZa">
+          <seg xml:id="i-372w443YpehKpjJ61zde23">
             En luule enää omasta puolestani tarvitsevani puhua miesluvusta,
             täällä kun on niin monta ehdotusta tehty ja niitä on perusteltu
             eri lailla. Kaikki ovat kuitenkin tunnustaneet että meillä on
@@ -7165,8 +7172,8 @@
         <note xml:id="i-5qS87rev2ryjyZrAgec4P1" type="speaker">
           Edusmies Myllylä:
         </note>
-        <u who="i-PKPe2Nyabt6ctrsa6d5cFL">
-          <seg>
+        <u xml:id="i-EFBnmvHARiPB8EoY3rEb1P" who="i-PKPe2Nyabt6ctrsa6d5cFL">
+          <seg xml:id="i-KDL6K7dZ7D3DmXtxpn9y8d">
             Näyttää minusta hyödyttömältä ryhtyä vastustamaan valiokunnan
             ehdotusta tässä kohdassa, kun luultavasti toiset säädyt tulevat
             sen hyväksymään. Mutta koska tämä pykälä kipeimmin koskee sitä
@@ -7181,8 +7188,8 @@
         <note xml:id="i-JmeqjFkBjuXGAhyHA1Pz9b" type="speaker">
           Edusmies Oittinen:
         </note>
-        <u who="i-VERhf75LTeyuyLzkXYFc3J">
-          <seg>
+        <u xml:id="i-43LtXv7j38mMwcGjACCnXk" who="i-VERhf75LTeyuyLzkXYFc3J">
+          <seg xml:id="i-Sfsp5Sm6qmcigwJH5jWjPs">
             Näillä valtiopäivillä ottivat valtiosäädyt kannattaakseen mitä
             tärkeimpiä ja syvällisimmästi kansamme oloihin koskevia muutoksia
             asevelvollisuuslakiin. Rauhanaikaisen luvun lisääminen on yksi
@@ -7278,8 +7285,8 @@
         <note xml:id="i-TttA6TUfmT5c2V1uLxJzz1" type="speaker">
           Edusmies Tuomikoski:
         </note>
-        <u who="i-WCzaY3RxHpZPCCrEhQE6FZ">
-          <seg>
+        <u xml:id="i-M52Eio6hMhtpbCsZ25SUT7" who="i-WCzaY3RxHpZPCCrEhQE6FZ">
+          <seg xml:id="i-AL9XUmAEJSLwwBX5UCE1UD">
             Näin pitkästä keskustelusta voi suunnilleen jo arvata, minkälainen
             tätä seuraavan äänestyksen tulos tulee olemaan. Yhtäsuuntaiset
             lausunnot ovat viitanneet siihen, ettei valiokunnan mietintö tässä
@@ -7288,15 +7295,15 @@
             jos tämä kanta, jota minäkin puolestani kannatan, onnistuisi saamaan
             toisten säätyjenkin kannatusta siihen määrään, että valiokunnan
             ehdottama miesluku alennettasiin, niin tulisivat luonnollisesti
-            tämän &amp;:n perustelut johdonmukaisesti muutettaviksi. Mutta tässä
-            on minun huomiooni tullut eräs toinen kohta, joka ei ole suoranaisesti
-            tämän &amp;:n perusteluissa, vaan on kuitenkin mielestäni jonkinlaisessa
-            yhteydessä niiden kanssa. Valiokunnan mietinnön 17 sivulla, josta
-            I luvun perustelut alkavat, on ensimäisenä momenttina lyhyt johdanto,
-            mikä ymmärtääkseni ei ole ainoastaan I:stä lukua varten, vaan
-            näyttää muutamin sanoin osottavan yleensä sitä suuntaa, jota valiokunta
-            tulisi muutoksia ehdotellessaan asevelvollisuuslakiin kulkemaan.
-            Tämän momentin ensi lauseessa mainitaan siitä varovaisuudesta,
+            tämän &amp;:n perustelut johdonmukaisesti muutettaviksi. Mutta
+            tässä on minun huomiooni tullut eräs toinen kohta, joka ei ole
+            suoranaisesti tämän &amp;:n perusteluissa, vaan on kuitenkin mielestäni
+            jonkinlaisessa yhteydessä niiden kanssa. Valiokunnan mietinnön
+            17 sivulla, josta I luvun perustelut alkavat, on ensimäisenä momenttina
+            lyhyt johdanto, mikä ymmärtääkseni ei ole ainoastaan I:stä lukua
+            varten, vaan näyttää muutamin sanoin osottavan yleensä sitä suuntaa,
+            jota valiokunta tulisi muutoksia ehdotellessaan asevelvollisuuslakiin
+            kulkemaan. Tämän momentin ensi lauseessa mainitaan siitä varovaisuudesta,
             jota säädyt 1877-—78 vuoden valtiopäivillä ovat katsoneet tarpeelliseksi
             noudattaa asevelvollisuutta toimeenpantaessa, ja saman momentin
             viimeinen lause kuuluu: ,Mutta kun kysymys nyt on uudelleen käsiteltävänä,
@@ -7331,8 +7338,8 @@
         <note xml:id="i-TCX7GktGF7LmkrgcrJkH8j" type="speaker">
           Edusmies Koskelin:
         </note>
-        <u who="i-VprBVce4soGLYgngLSjo1p">
-          <seg>
+        <u xml:id="i-BYQ7QATiNDURZivU2ssMXX" who="i-VprBVce4soGLYgngLSjo1p">
+          <seg xml:id="i-DAKwRm2yMMnxQxsUKWxcz4">
             Täytyy todellakin ihmetellä miten samaan aikaan ja samasta alotteesta
             on kaksi niin ristiriitaista esitystä lähtenyt. Toiselta puolen
             halutaan aseiden riisumista, toiselta puolen taas tahdotaan näännyttää
@@ -7360,8 +7367,8 @@
         <note xml:id="i-K8N5qs4ARwq2e2EC4b6ai9" type="speaker">
           Edusmies Teittinen:
         </note>
-        <u who="i-M9GEjZeNs7B27BfEGmJYSN">
-          <seg>
+        <u xml:id="i-CR6eqwsoB3uNcwqE5741fb" who="i-M9GEjZeNs7B27BfEGmJYSN">
+          <seg xml:id="i-8YWF3CE5bCdxffdkrtmVtf">
             Lausuakseni kantani käsiteltävänä olevassa kysymyksessä vakinaisen
             sotavoiman lisäämisestä rauhan aikana tahdon ainoastaan lyhyesti
             ilmoittaa että kannatan mietintöön liitettyä vastalausetta erityisesti
@@ -7376,8 +7383,8 @@
         <note xml:id="i-YNrUxAvRY5jUb46NMF7twd" type="speaker">
           Edusmies Torppa:
         </note>
-        <u who="i-8Nqw1ci2HJgHqGKyao4gz6">
-          <seg>
+        <u xml:id="i-PQEHoS9N2QHoMVUY4XrGQJ" who="i-8Nqw1ci2HJgHqGKyao4gz6">
+          <seg xml:id="i-6G5g3v4Ye76HTAVMvP2bhP">
             Käsiteltävä pykälä Asevelvollisuusvaliokunnan mietinnössä on
             saanut tässä pitkässä keskustelussa osakseen runsasta arvostelua.
             Tätä ei käy suinkaan ihmetteleminenkään, kun tietää ja tuntee,
@@ -7440,8 +7447,8 @@
         <note xml:id="i-HmEpcmHDMQKAdbxdqv8RHQ" type="speaker">
           Edusmies Lindegren:
         </note>
-        <u who="i-VgXbiJ1DeKP1NgamtWyuHV">
-          <seg>
+        <u xml:id="i-ALtpsSiv9mvJAWgHCU8Vjd" who="i-VgXbiJ1DeKP1NgamtWyuHV">
+          <seg xml:id="i-VPmVw2QyyDZFygfQnex5VL">
             Puheenvuoroa pyytäessäni oli minulla pääasiallisena tarkoituksena
             anoa äänestystä, sillä luulen että asiaa jo on tarpeeksi pohdittu.
             Kun minulla nyt kuitenkin on puheenvuoro, niin tahdon ilmoittaa
@@ -7567,26 +7574,27 @@
         </note>
         <note xml:id="i-M4MNXoNMDYpm9tj51C5Tm6">
           edusmies Vihonen: Minä olen ollut sitä mielipidettä että 123
-          &amp;:n ensimäinen momentti olisi säilytettävä voimassa olevan asevelvollisuuslain
-          mukaisena, mutta kun Talonpoikaissääty on hyväksynyt Asevelvollisuusvaliokunnan
-          ehdottaman 1 &amp;:n, niin en voi siis vaatia mielipiteelleni Säädyn
-          kannatusta. Pyytäisin kuitenkin tämän pykälän ensimäisen momentin
-          lähetettäväksi valiokuntaan ja muodostettavaksi siten että siitä
-          kävisi selville, että Suomen väkeä voidaan määrätä maan ulkopuolelle
-          ainoastaan silloin kun sitä puolustustoimeen Suomessa ei tarvita.
-          Ehdotukseni ei kaipaa minun puoleltani enempiä perusteluita.
+          &amp;:n ensimäinen momentti olisi säilytettävä voimassa olevan
+          asevelvollisuuslain mukaisena, mutta kun Talonpoikaissääty on
+          hyväksynyt Asevelvollisuusvaliokunnan ehdottaman 1 &amp;:n, niin
+          en voi siis vaatia mielipiteelleni Säädyn kannatusta. Pyytäisin
+          kuitenkin tämän pykälän ensimäisen momentin lähetettäväksi valiokuntaan
+          ja muodostettavaksi siten että siitä kävisi selville, että Suomen
+          väkeä voidaan määrätä maan ulkopuolelle ainoastaan silloin kun
+          sitä puolustustoimeen Suomessa ei tarvita. Ehdotukseni ei kaipaa
+          minun puoleltani enempiä perusteluita.
         </note>
         <note xml:id="i-KjqPMuBQf15UxaKx8aQq4A" type="speaker">
           Edusmies Eklund:
         </note>
-        <u who="i-UuNpejz63DNoacNWFAFjXE">
-          <seg>
-            Med anledning af den förändring, som Ständet gjorde i &amp; 20, torde
-            i denna paragraf böra införas i mom. 1 i stället för orden de
-            ,finska trupperna" orden de ,stäende finska trupperna*. Jag anser
-            dock att paragrafen i detta syfte borde äterremitteras till utskottet.
-            Den sista talaren ber jag fä göra uppmärksam pä, att just det,
-            som han föreslog, ingär redan i paragrafen.
+        <u xml:id="i-5hwLam8XjFzsEPotgRZuiM" who="i-UuNpejz63DNoacNWFAFjXE">
+          <seg xml:id="i-S9LUoSp8m4anD1dHytkg2U">
+            Med anledning af den förändring, som Ständet gjorde i &amp; 20,
+            torde i denna paragraf böra införas i mom. 1 i stället för orden
+            de ,finska trupperna" orden de ,stäende finska trupperna*. Jag
+            anser dock att paragrafen i detta syfte borde äterremitteras till
+            utskottet. Den sista talaren ber jag fä göra uppmärksam pä, att
+            just det, som han föreslog, ingär redan i paragrafen.
           </seg>
         </u>
         <note xml:id="i-AGUB2DNb9BuEfyBpqjBfhM">
@@ -7596,8 +7604,8 @@
         <note xml:id="i-WpPErua7Awb6fgEbdBEWAF" type="speaker">
           Edusmies Häkkänen:
         </note>
-        <u who="i-Lget5LPYWHPvRtBPXGq6gH">
-          <seg>
+        <u xml:id="i-HPgvQ9xX6mEBA1BuPYYLdx" who="i-Lget5LPYWHPvRtBPXGq6gH">
+          <seg xml:id="i-5duhCvNaUiByATDUuhFpsb">
             Kun sanalla , Venäjän valtakunta* on äärettömän laaja merkitys,
             niin eivätkö säädyt voisi tehdä sellaista lisäystä pykälään, ettei
             Suomen sotaväkeä saisi viedä ulomma eurooppalaisen Venäjän rajoja.
@@ -7608,8 +7616,8 @@
         <note xml:id="i-YA8tUzwZtZeBW6xsxSbWBV" type="speaker">
           Edusmies Halonen:
         </note>
-        <u who="i-7tBzcdop95Z1XrJKrUj55e">
-          <seg>
+        <u xml:id="i-2rwDRfNfRv8wk4G4ZpCcy4" who="i-7tBzcdop95Z1XrJKrUj55e">
+          <seg xml:id="i-NWrPuz2mPnfcJUcFovJ6zA">
             Minun mielestäni se päätös, jonka Sääty teki 20 8:n ensimäiseen
             momenttiin, jo vaatii edusmies Eklundin ehdottaman muutoksen puheena
             olevaan momenttiin, josta syystä minä sitä kannatan.
@@ -7618,16 +7626,16 @@
         <note xml:id="i-AngFMkTfcH6jKuLMekxH6y" type="speaker">
           Edusmies Flygare:
         </note>
-        <u who="i-Vh1dqy2xKpjHzkQPmypXH2">
-          <seg>
+        <u xml:id="i-CDhPKXtZ1aUk9fRRcLZXQM" who="i-Vh1dqy2xKpjHzkQPmypXH2">
+          <seg xml:id="i-39Ne4QVUDi63bh8SENaobo">
             Jag understöder hr Eklunds förslag.
           </seg>
         </u>
         <note xml:id="i-HLqSdSzw8E5aZXPASjuYsR" type="speaker">
           Edusmies Meurman:
         </note>
-        <u who="i-TPLLng6ovQtEFTALxn8PZa">
-          <seg>
+        <u xml:id="i-3JzhkGuugjkuEAq1wbE6qi" who="i-TPLLng6ovQtEFTALxn8PZa">
+          <seg xml:id="i-PZYUVRKGDu7Ytfb3JWhmWn">
             Minä puolestani pyydän huomauttaa että käsillä oleva pykälä alkaa
             sanoilla: ,Sodan aikana*. Jo vanhemman aikakauden historiasta
             on tunnettu että sodassa laista ei välitetä. Näin ollen luulen
@@ -7659,8 +7667,8 @@
         <note xml:id="i-JbzYZEmLFGM1CxRSYFu2ri" type="speaker">
           Edusmies Oittinen:
         </note>
-        <u who="i-VERhf75LTeyuyLzkXYFc3J">
-          <seg>
+        <u xml:id="i-SKEwu6fcxy4if7nkwfMRS3" who="i-VERhf75LTeyuyLzkXYFc3J">
+          <seg xml:id="i-48HiXA9HCNRdrPuwUJLUpr">
             Minä valiokunnan jäsenenä pyytäisin että edusmies Vihosen ehdotusta
             ei otettaisi erityiseen huomioon, sillä 8:ssä on eräs sivulause,
             jonka mukaan Suomen sotaväkeä saa viedä maan ulkopuolelle ainoastaan
@@ -7675,8 +7683,8 @@
         <note xml:id="i-XjkvozPtNbncnRWcRFXN1F" type="speaker">
           Edusmies Eklund:
         </note>
-        <u who="i-UuNpejz63DNoacNWFAFjXE">
-          <seg>
+        <u xml:id="i-R4u2RoqaL1wGAK8LSYeVUn" who="i-UuNpejz63DNoacNWFAFjXE">
+          <seg xml:id="i-Y1qk8TPHRwZdaW4kF3WMcv">
             I anledning af hr Meurmans yttrande ber jag att få ytterligare
             påpeka, ehuru det utan vidare borde förstäs, dä vi tidigare vid
             behandlingen af &amp; 20 beslutit, att landtvärnet skulle användas
@@ -7696,8 +7704,8 @@
         <note xml:id="i-VonJUKNCX37GoTXVaRDtmk" type="speaker">
           Edusmies Torppa:
         </note>
-        <u who="i-8Nqw1ci2HJgHqGKyao4gz6">
-          <seg>
+        <u xml:id="i-PKLNbyHev5UHD6yivH7Vyk" who="i-8Nqw1ci2HJgHqGKyao4gz6">
+          <seg xml:id="i-Dj5hwvgwefD6mu1M8h1Vc8">
             Edusmies Eklundin tekemän lisäysehdotuksen johdosta pyydän huomauttaa,
             ettei vain tapahtuisi tässä asiassa mitään erehdystä. Luultavasti
             hän tarkoittaa ,seisovaa* sotaväkeä eikä ,vakinaista* väkeä, sillä
@@ -7870,8 +7878,8 @@
         <note xml:id="i-zvybqN9ktRuHasqWPghjZ" type="speaker">
           Edusmies Oittinen:
         </note>
-        <u who="i-VERhf75LTeyuyLzkXYFc3J">
-          <seg>
+        <u xml:id="i-mUvFy8yFwLjyqRPQfqhKF" who="i-VERhf75LTeyuyLzkXYFc3J">
+          <seg xml:id="i-FfawJKQz5zjDjamgrPrfxh">
             Hänen Keis. Majesteettinsa on antanut Suomen säädyille tilaisuuden
             lausua mielipiteensä, missä määrin asevelvollisuuslakiin ehdotetut
             uudet järjestykset käytännöllisesti soveltuvat Suomen oloihin,
@@ -7924,8 +7932,8 @@
         <note xml:id="i-PCCXQHpdNJBF8Ss7i49hnF" type="speaker">
           Edusmies Slotte:
         </note>
-        <u who="i-Ev9rwChsySU6VMfbevkpjp">
-          <seg>
+        <u xml:id="i-RC7CGDcJYxTafix1fRZuZ9" who="i-Ev9rwChsySU6VMfbevkpjp">
+          <seg xml:id="i-4YUYJWKqCAPfzPBh8dtazY">
             Jag känner behof af att uttrycka min tacksamhet till Lagutskottet
             för dess utmärkta betänkande, ej endast därför, att det är utmärkt
             väl skrifvet och i enlighet med folkets äsikt, utan äfven därför,
@@ -7942,8 +7950,8 @@
         <note xml:id="i-AAiu3wL1Qv5EDuivDbyozr" type="speaker">
           Edusmies Meurman:
         </note>
-        <u who="i-TPLLng6ovQtEFTALxn8PZa">
-          <seg>
+        <u xml:id="i-Dx7QVDG9LHt6nt8VxeyWTQ" who="i-TPLLng6ovQtEFTALxn8PZa">
+          <seg xml:id="i-Jg6bpJzpqcdoo5ovcZQsqg">
             Minä pyydän täydestä sydämestä saada yhtyä edusmies Huoposen
             tekemään huomautukseen. Minä en ole suinkaan jättänyt huomaamatta,
             että Asevelvollisuusvaliokunta 30 sivulla sekin puolestaan torjuu
@@ -7966,8 +7974,8 @@
         <note xml:id="i-6CzzQqfxh8zfxwEKyEthrf" type="speaker">
           Edusmies Eklund:
         </note>
-        <u who="i-UuNpejz63DNoacNWFAFjXE">
-          <seg>
+        <u xml:id="i-6J4V7bBTdcTbAVaYoAEi7b" who="i-UuNpejz63DNoacNWFAFjXE">
+          <seg xml:id="i-SciaX8CidaHvBixDmWPWQc">
             Jag senterar mycket väl skälen för det förslag, som hr Huoponen
             gjorde, och i hvilket hr Meurman
           </seg>
@@ -8016,8 +8024,8 @@
         <note xml:id="i-MAn6H4nEdqrVnqMVCrszjM" type="speaker">
           Fdusmies Avellan:
         </note>
-        <u who="i-Pwjr6vGBf5sGMw2BtNjBMH">
-          <seg>
+        <u xml:id="i-6eQM7QEyYTWuuLfrKEfmXX" who="i-Pwjr6vGBf5sGMw2BtNjBMH">
+          <seg xml:id="i-CLsxYxh7ZuCq7BouVvDUpH">
             Aikomukseni on lausua, että tämä mietintö ansaitsee yhtä suurta
             kiitosta kuin valiokunnan ensim nenkin mietintö, ja on se, mielestäni,
             kaikin puolin hyväksyttävä. Olisin kuitenkin luullut että olisi
@@ -8200,8 +8208,8 @@
         <note xml:id="i-2pLNnvbSBrWDAeyNHbL8qq" type="speaker">
           Edusmies Perho:
         </note>
-        <u who="i-6FpU4tS1g54mE21oZxEp2a">
-          <seg>
+        <u xml:id="i-XXakRSD3ooXE9rSwVJxzGC" who="i-6FpU4tS1g54mE21oZxEp2a">
+          <seg xml:id="i-7jXKoKttQLejVXsBH6qLq8">
             Minä pyydän täydellisesti saada kannattaa edusm. Tensikkalan
             ehdotusta.
           </seg>
@@ -8209,8 +8217,8 @@
         <note xml:id="i-BtWRrQV8n6RPhUdQHDpTuC" type="speaker">
           Edusmies Vihonen:
         </note>
-        <u who="i-FYbSvFu4rVek9C99uESHpF">
-          <seg>
+        <u xml:id="i-XrwYmoYMoDPCKvU4j5Fk4C" who="i-FYbSvFu4rVek9C99uESHpF">
+          <seg xml:id="i-7mRiut58gic9Y5mob4A8BU">
             Minä puolestani rohkenen ehdottaa lähetystön jäseniksi edusm.
             Björnin, Fellmanin, Roihan, Koskelinin ja Kycklingin.
           </seg>
@@ -8218,8 +8226,8 @@
         <note xml:id="i-4nxEvLZ2cS2RsdN8vHXDUe" type="speaker">
           Edusmies Fellman:
         </note>
-        <u who="i-761jFp8QFs1K22nsTyPrT4">
-          <seg>
+        <u xml:id="i-Er8NKxyLjTjb223Dp2ReS7" who="i-761jFp8QFs1K22nsTyPrT4">
+          <seg xml:id="i-DJokHW4oqzyjBFwVNoRSZm">
             Minä pyydän saada kannattaa edusm. Pensikkalan ehdotusta.
           </seg>
         </u>
@@ -8230,8 +8238,8 @@
         <note xml:id="i-BaQBpooktSnGWnWjn7kqnD" type="speaker">
           Edusmies Kiipula:
         </note>
-        <u who="i-yz5WqRw8dv6YYSDpDNaKH">
-          <seg>
+        <u xml:id="i-QajhcCkw49rmwgH91UcSou" who="i-yz5WqRw8dv6YYSDpDNaKH">
+          <seg xml:id="i-L89ZuAsXfDj4UA7wHQ7jVr">
             Koska täällä on eri ehdotuksia tehty pyydän minäkin puolestani
             ehdottaa edusm. Stenrothin.
           </seg>
@@ -8239,8 +8247,8 @@
         <note xml:id="i-HfVUNi58uABEdBtVnXfLmX" type="speaker">
           Edusmies Eklund:
         </note>
-        <u who="i-UuNpejz63DNoacNWFAFjXE">
-          <seg>
+        <u xml:id="i-T69JgNXVzdFNHuwGGxfoFK" who="i-UuNpejz63DNoacNWFAFjXE">
+          <seg xml:id="i-EKsQPkae9JaAMA9ju2n3Cd">
             föreslog att till medlemmar i Ständets helsningsdeputation skulle
             väljas landtdagsm. Fellman, Starcke, Björni, Koskelin och Aulin.
           </seg>
@@ -8248,8 +8256,8 @@
         <note xml:id="i-DG63BZCBhnZYKZ748tMEpo" type="speaker">
           Edusmies Vuolijoki:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-JVbRjh7ev731Kj5ZgSSgc3" who="unknown">
+          <seg xml:id="i-7v3TeeyK3guE6Eh3zwUhP5">
             Koska täällä on tuotu esiin näin monta ehdokaslistaa, niin ehdotan
             että kysymyksessä oleva vaali toimitetaan suljetuilla lipuilla.
           </seg>
@@ -8257,8 +8265,8 @@
         <note xml:id="i-Wn3PoxXjzXpRGNSv7TJjSk" type="speaker">
           Edusmies Teittinen:
         </note>
-        <u who="i-M9GEjZeNs7B27BfEGmJYSN">
-          <seg>
+        <u xml:id="i-3yQ6XzaNwYtAmgg33tqFSn" who="i-M9GEjZeNs7B27BfEGmJYSN">
+          <seg xml:id="i-SgvA1szaDrX9tdeX9Gar8b">
             Pyydän saada kannattaa edusm. Vuolijoen ehdotusta.
           </seg>
         </u>
@@ -8423,8 +8431,8 @@
         <note xml:id="i-3D3CBUM8fqsLRny5oxfH9L" type="speaker">
           Edusmies Hoikka:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-HVwZwUREpQfQc2TZczL2YY" who="unknown">
+          <seg xml:id="i-Cf17j349wDAJSd3fYGfAHh">
             On totta se mitä edusm. Aulin on asiasta lausunut. Kyllä ainakin
             sillä paikkakunnalla, josta minä olen, on ollut suurena ja samalla
             peräti tukalana kysymyksenä se seikka että, vaikka yleisö on halunnut
@@ -8437,8 +8445,8 @@
         <note xml:id="i-CQBRNPpsPhGG4y3M5o9wbc" type="speaker">
           Edusmies Kiipula:
         </note>
-        <u who="i-yz5WqRw8dv6YYSDpDNaKH">
-          <seg>
+        <u xml:id="i-w8xani6oeQ3Tbf3htvd1k" who="i-yz5WqRw8dv6YYSDpDNaKH">
+          <seg xml:id="i-W8VfKftHCVFweFz4og5wTb">
             ISnnestään on jo ollut edellisillä valtiopäivillä valtiopäiväin
             aikana mä rätty, niinkuin nytkin, että valtiopäiväin asiakirjoja
             saa tilata säätyjen kirjastonhoitajalta. Sieltä kun pyydetään,
@@ -8451,8 +8459,8 @@
         <note xml:id="i-TCVfPne4aK71YT784qvL3X" type="speaker">
           Edusmies Valta:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-Pp3NUFacTmyWSZyM4EWAoS" who="unknown">
+          <seg xml:id="i-5b5XihrBuf37fgjynJt5Fg">
             En ole selvillä koskeeko asia myöskin muita valtiopäivän asiakirjoja,
             kun on ollut puhe ainoastaan pöytäkirjoista, mutta tahtoisin että
             ehdotus koskisi kaikkia semmoisia asiakirjoja. — Edusm. Kiipulan
@@ -8472,8 +8480,8 @@
         <note xml:id="i-VKNbmkBEtDEDGvCNHv5Le4" type="speaker">
           Edusmies Bremer:
         </note>
-        <u who="i-HjfmDsS4k6Zju4rc3Q8bpb">
-          <seg>
+        <u xml:id="i-EQxtKpgFjGhbF6Vuk9kHC3" who="i-HjfmDsS4k6Zju4rc3Q8bpb">
+          <seg xml:id="i-5UsTNyV7GmGewURMy7LG1k">
             Minä tahdon lisätä siihen, mitä edusm. Kiipula toi esille, että
             kyllä niitä on edellistenkin valtiopäiväin asiakirjoja jotenkin
             suuret määrät säätyjen arkistossa ja kir-
@@ -8490,8 +8498,8 @@
         <note xml:id="i-NPMUPtaJ1jmZRVF6pbgzAa" type="speaker">
           Edusmies Aulin:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-AmcGuHoNZsB9tUeh6wmN8i" who="unknown">
+          <seg xml:id="i-EX8SMaDVMB87NKpjLLEymf">
             Minä luulen että Sääty tuskin voi mitään tässä päättää. Olin
             lausunut vaan toivomukseni. Mitä siihen tulee että kirjastosta
             saa tilata, niin minä kuulen sen nyt, mutta tiedän itse kokemuksesta
@@ -8505,8 +8513,8 @@
         <note xml:id="i-C9yzoyVxmskPfJvEJVH8B1" type="speaker">
           Edusmies Avellan:
         </note>
-        <u who="i-Pwjr6vGBf5sGMw2BtNjBMH">
-          <seg>
+        <u xml:id="i-EC2MjFxP9UZVjbpCiJbEdy" who="i-Pwjr6vGBf5sGMw2BtNjBMH">
+          <seg xml:id="i-4yBakCjZa3eMp5GZaqjJ75">
             Minä luulen että edusm. Aulinin ehdotus ansaitsee yleistä kannatusta.
             On sanottu että säätyjen pöytäkirjoja sekä valtiopäiväin asiakirjoja
             voidaan saada säätyjen arkistonhoitajalta, mutta se ei voi tapahtua
@@ -8668,8 +8676,8 @@
         <note xml:id="i-YRPG9udt56HZTi7bLvvMCL" type="speaker">
           Edusmies Eklund:
         </note>
-        <u who="i-UuNpejz63DNoacNWFAFjXE">
-          <seg>
+        <u xml:id="i-Vqm23rzcxFhPfy9EYjq223" who="i-UuNpejz63DNoacNWFAFjXE">
+          <seg xml:id="i-NQ8ruZWfWMzbJ6UhLWPXhT">
             Jag måste anmäla att jag visserligen varit med om införandet
             af ett dylikt tillägg till $ 123, som utskottet upptagit i sitt
             sammanjemkningsförslag, men att jag icke i likhet med hr Meurman
@@ -8751,8 +8759,8 @@
         <note xml:id="i-JxpuGaTU3DMLfJKXqfLz6A" type="speaker">
           Edusmies Forsman:
         </note>
-        <u who="i-T2NvVpCbguQDo4BsdWUvRd">
-          <seg>
+        <u xml:id="i-8oe6Hh4FMKTKVwKyWEwR4i" who="i-T2NvVpCbguQDo4BsdWUvRd">
+          <seg xml:id="i-UXSUU9b87mEar5N9rh9fCD">
             Yhtäpitäväisyyden saavuttamiseksi säätyjen päätösten välillä
             pyydän saada kannattaa yhteensovitusehdotusta ja kehottaa myöskin
             arvoisaa Säätyä hyväksymään sen. Minä en soisi, että arvoisa Sääty
@@ -8779,8 +8787,8 @@
         <note xml:id="i-JAJ13SqigaJnMaFQEEjgtq" type="speaker">
           Edusmies Kasurinen:
         </note>
-        <u who="i-BiLJE3xxrrRCyZeZCQjHcJ">
-          <seg>
+        <u xml:id="i-5gbM7QkyuvyZK4FN1Aw8kW" who="i-BiLJE3xxrrRCyZeZCQjHcJ">
+          <seg xml:id="i-XKjAkwSpVgm4xPkwq7ZjA2">
             En osannut aavistaakaan lopullisessa asian käsittelyssä tämmöistä
             vastustusta kohtaavan ehdotukseni valiokunnan mietinnössä olevan
             miesmäärän alentamisesta. Luulin yksimielisyyden vallitsevan arv.
@@ -8822,8 +8830,8 @@
         <note xml:id="i-Pr3zL6FjByLPxpY9eyi5Zw" type="speaker">
           Edusmies Koskelin:
         </note>
-        <u who="i-VprBVce4soGLYgngLSjo1p">
-          <seg>
+        <u xml:id="i-6rv1Phz9miPkbhQKiBJyQ4" who="i-VprBVce4soGLYgngLSjo1p">
+          <seg xml:id="i-MSHWgjes4KzTeqWUut75y8">
             Kun toiset säädyt näyttävät syrjäyttäneen tässä tärkeässä kohdassa
             Talonpoikaissäädyn toiveet rauhan aikaisesta miesluvusta ja siten
             päätöksellään ovat tahtoneet sälyttää raskaimman taakan tämän
@@ -8851,8 +8859,8 @@
         <note xml:id="i-M8YjRR6L4MwHxfj5ShdXfQ" type="speaker">
           Edusmies Tensikkala:
         </note>
-        <u who="i-3SZWVADXp26LoEUsfMXtuW">
-          <seg>
+        <u xml:id="i-3dz7Lp7h64c2YBcMcWwSdi" who="i-3SZWVADXp26LoEUsfMXtuW">
+          <seg xml:id="i-9KBWc5u4zvfdwNoEY1URUn">
             Kun esillä oleva asia oli ensi kerran säädyssä käsiteltävänä,
             olin silloin sitä mieltä että olisi kannatettava, kuten puolestani
             kannatinkin, sitä vastalausetta, minkä Talonpoikaissäädyn jäsenet
@@ -8874,8 +8882,8 @@
         <note xml:id="i-9752c7gwWzqFRaNWcVEFKe" type="speaker">
           Edusmies Eklund:
         </note>
-        <u who="i-UuNpejz63DNoacNWFAFjXE">
-          <seg>
+        <u xml:id="i-QBvposgNXFL9VqJYDCvpE6" who="i-UuNpejz63DNoacNWFAFjXE">
+          <seg xml:id="i-57qyhQKAvSwL2ygKsfGCxq">
             Man skall helt säkert en gäng säga, att ständerna vid 1899 ärs
             urtima landtdag förstätt att väl häfda landets rätt, det mä bära
             eller bryta, och att de äfven i princip funnit det vara landets
@@ -8915,8 +8923,8 @@
         <note xml:id="i-FPNTb6iVEzUVc1psfgnYu7" type="speaker">
           Edusmies Perho:
         </note>
-        <u who="i-6FpU4tS1g54mE21oZxEp2a">
-          <seg>
+        <u xml:id="i-GbMo51vFT36sw3GHV68UWJ" who="i-6FpU4tS1g54mE21oZxEp2a">
+          <seg xml:id="i-CXG7mNKwkGLTQ59NNkGRd">
             Minä kannatan valiokunnan tekemää yhteensovitusehdotusta. Raskaalta
             tosin tuntuu talonpoikaisen kansan edustajana mennä myöntämään
             kansan kannatettavaksi niin suurta rasitusta kuin tästä päätöksestä
@@ -8961,8 +8969,8 @@
         <note xml:id="i-TD2KjZkRXKYA7u2X55qwMQ" type="speaker">
           Edusmies Meurman:
         </note>
-        <u who="i-TPLLng6ovQtEFTALxn8PZa">
-          <seg>
+        <u xml:id="i-8LKRmY2SNetLBKfEua6cTJ" who="i-TPLLng6ovQtEFTALxn8PZa">
+          <seg xml:id="i-HcYt2LzzBnCyJ9xEPJuJEa">
             Lienee ihan turhaa lausua mitään niitä edustajia vastaan, jotka
             kehoittavat säätyä pysymään entisessä päätöksessä. Niitä ei ole
             vakuuttanut valiokunnan mietintö, jossa
@@ -9017,8 +9025,8 @@
         <note xml:id="i-HUw5UWRZB3dvGXxwM8VYp3" type="speaker">
           Edusmies Avellan:
         </note>
-        <u who="i-Pwjr6vGBf5sGMw2BtNjBMH">
-          <seg>
+        <u xml:id="i-6PNmZ49kfYkd44R2DNXXKP" who="i-Pwjr6vGBf5sGMw2BtNjBMH">
+          <seg xml:id="i-Rt8zx1dPEMSjBtP3dhE7NP">
             Ei tässä pitkistä puheista mitään apua lähde. Talonpoikaissääty
             on joutunut umpisolaan ja sieltä ei päästä, ellei palata takaisin.
             Toinen asia on, tahdotaanko umpisolaan jäädä. Mutta siellä pysyminen
@@ -9075,9 +9083,9 @@
           som tillförsäkrar dem lättare tjenstgöring än andra. Allmogesönerna
           deremot erhålla i de flesta fall icke ens folkskolebildning och
           hafva de också gått i folkskola hafva de ansett sig fullgjort
-          all rättfärdighet när de gått två &amp; tre terminer i skolan. Det
-          är tillföljd häraf ytterst få, som erhålla lindring på grund af
-          skolbildning.
+          all rättfärdighet när de gått två &amp; tre terminer i skolan.
+          Det är tillföljd häraf ytterst få, som erhålla lindring på grund
+          af skolbildning.
         </note>
         <pb facs="https://swerik-project.github.io/valtiopaivat-records-pdf/1899/ptk_1899_talonpojat_/ptk_1899_talonpojat_-0148"/>
         <note xml:id="i-RNKRvRmZ4B3kbDQtLeenBd">
@@ -9105,8 +9113,8 @@
         <note xml:id="i-D3vcTEisrunfEnkMmLQ55V" type="speaker">
           Edusmies Vuolijoki:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-5bLhKaoEqmJVEKCyjamp1z" who="unknown">
+          <seg xml:id="i-DaCw7N7g9i8MFDCueLYLDT">
             Tässä säädyssä on tästä asiasta jo useimmissa kohdissa pidetty
             pitkiä selityksiä ja annettu sellaisia valaisevia lausunnoita
             että tuskin voinee mitään uutta esiintuoda. Sentähden minä pidän
@@ -9125,8 +9133,8 @@
         <note xml:id="i-P3yxiHKFN2BYPHdbJUGe2K" type="speaker">
           Edusmies Danielson:
         </note>
-        <u who="i-9pashV7KkwGfYg8WYhns6X">
-          <seg>
+        <u xml:id="i-PV4JD4azSFS5oEgssfrPtU" who="i-9pashV7KkwGfYg8WYhns6X">
+          <seg xml:id="i-3QfqnrqowKRKuTXAfESN6i">
             Asiassa voi puhua puoleen niinkuin toiseenkin. Voi osottaa sitä,
             kuinka esi-isämme aikoinaan ovat vuodattaneet vertansa kaukana
             isänmaan rajoilta ja rannoilta ja että meidän siis, noudattaen
@@ -9246,8 +9254,8 @@
         <note xml:id="i-J4EiZpN3ayn3jqzmvSX2Za" type="speaker">
           Edusmies Lagerstedt:
         </note>
-        <u who="i-6uGv5Py1DwPoEDrATVCYHQ">
-          <seg>
+        <u xml:id="i-PXhPffrmTN673gCb8dLDZk" who="i-6uGv5Py1DwPoEDrATVCYHQ">
+          <seg xml:id="i-LvmXJ3wdDqCWSwMUUn6M5r">
             On täällä viitattu niihin koviin aikoihin, jotka uhkaavat kansaamme.
             Minäkin tämän seikan todistamiseksi saatan mainita, että esim.
             viime vuonna meidän paikkakunnallamme tulvat peittivät allensa
@@ -9272,8 +9280,8 @@
         <note xml:id="i-E8KLcxwhwyHt4fxgvQNFSN" type="speaker">
           Edusmies Lindberg:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-4cNwJxMLHpcrcUXR88Uqkr" who="unknown">
+          <seg xml:id="i-EQdniJ9AWdUDJ18b6owjRg">
             Ehuru jag fortfarande fullkomligt vidhäller den ständpunkt, som
             jag redan förut har intagit vid behandlingen af värnepligtsförslaget,
             vill jag dock yttra min äsigt beträffande denna paragraf. Då Värnepligtsutskottet
@@ -9288,36 +9296,36 @@
             har Bondeständet sålunda blifvit satt i det läge att det antingen
             mäste vidhälla sitt förra beslut eller ocksä g0dkänna utskottets
             förslag. Vidhäller det sitt förra beslut, sä faller hela lagförslaget,
-            dä ju &amp; 121 är af grundlagsnatur och säledes fordrar alla fyra
-            ständens samstämmiga beslut för att vinna stadfästelse. För att
-            nu vinna nägot resultat af detta värt samarbete under fyra mänaders
-            tid vägar jag derför föreslä, med anslutning till de motiv, som
-            landtdagsmannen Danielson här nyss tramhällit, att Ständet ville
-            förena sig om att ingå med inbjudan till medständen att förena
-            sig om uppställandet af tiotusen man såsom fredsnumerär. Då hafva
-            vi i sjelfva verket ökat antalet aktiva trupper med i det närmaste
-            dubbelt mot förut och hafva gjort allt hvad vi kunnat för att
-            tillmötesgå äskade fordringar. Derjemte kunde anföras att vi på
-            grund af framhållna skäl icke kunna gå in på fredsnumerärens höjande
-            till 12,000, emedan faktiskt en förhöjning med tvåtusen man är
-            en börda för oss, som bör tagas i betraktande, på sätt landtdagsmannen
-            Danielson äfven redan framhållit. I motsats till landtdagsmannen
-            Danielson anser jag det dock icke för någon möjlighet att vilkorligen
-            återsända sammanjemkningsförslaget till utskottet för att omarbetas
-            i den riktning, som han föreslagit, emedan enligt min uppfattning
-            utskottet förfarit rätt och konseqvent genom att, då tre stånd
-            en gång stannat vid fredsnumerärens höjande till 12,000 man, till
-            grund för sammanjemkningen lägga dessa stånds beslut. Men för
-            Bondeståndet står det ju öppet att genom en inbjudan till de öfriga
-            stånden uppmana dessa att frångå sitt förra beslut och förena
-            sig om Bondeståndets förslag.
+            dä ju &amp; 121 är af grundlagsnatur och säledes fordrar alla
+            fyra ständens samstämmiga beslut för att vinna stadfästelse. För
+            att nu vinna nägot resultat af detta värt samarbete under fyra
+            mänaders tid vägar jag derför föreslä, med anslutning till de
+            motiv, som landtdagsmannen Danielson här nyss tramhällit, att
+            Ständet ville förena sig om att ingå med inbjudan till medständen
+            att förena sig om uppställandet af tiotusen man såsom fredsnumerär.
+            Då hafva vi i sjelfva verket ökat antalet aktiva trupper med i
+            det närmaste dubbelt mot förut och hafva gjort allt hvad vi kunnat
+            för att tillmötesgå äskade fordringar. Derjemte kunde anföras
+            att vi på grund af framhållna skäl icke kunna gå in på fredsnumerärens
+            höjande till 12,000, emedan faktiskt en förhöjning med tvåtusen
+            man är en börda för oss, som bör tagas i betraktande, på sätt
+            landtdagsmannen Danielson äfven redan framhållit. I motsats till
+            landtdagsmannen Danielson anser jag det dock icke för någon möjlighet
+            att vilkorligen återsända sammanjemkningsförslaget till utskottet
+            för att omarbetas i den riktning, som han föreslagit, emedan enligt
+            min uppfattning utskottet förfarit rätt och konseqvent genom att,
+            då tre stånd en gång stannat vid fredsnumerärens höjande till
+            12,000 man, till grund för sammanjemkningen lägga dessa stånds
+            beslut. Men för Bondeståndet står det ju öppet att genom en inbjudan
+            till de öfriga stånden uppmana dessa att frångå sitt förra beslut
+            och förena sig om Bondeståndets förslag.
           </seg>
         </u>
         <note xml:id="i-58vPw5LqztCkTzTY9dcjc3" type="speaker">
           Edusmies Riihimäki:
         </note>
-        <u who="i-6suuzHSQU6bgefM53wxoHs">
-          <seg>
+        <u xml:id="i-JSYj1my8AbAqZNQJHzf1dk" who="i-6suuzHSQU6bgefM53wxoHs">
+          <seg xml:id="i-HZgd4AhqB6ruSjWS7zh8c9">
             Tässä on tuotu esiin, mitä rasituksia tulee korotuksesta, mutta
             ei pidä yksipuolisesti ainoastaan kat-
           </seg>
@@ -9395,8 +9403,8 @@
         <note xml:id="i-EyVkgxpwyp4tHfkjxYmkbi" type="speaker">
           Edusmies Ekberg:
         </note>
-        <u who="i-TRJUkgdtqj8YafcHWiunC8">
-          <seg>
+        <u xml:id="i-8py326bjRu6YyMXT3JFri1" who="i-TRJUkgdtqj8YafcHWiunC8">
+          <seg xml:id="i-WihwxYo4vp4eNz1YxHn2kD">
             Kun arvoisassa Talonpoikaissäädyssä on edustajia monenlaisista
             olosuhteista, niin parempiosaiset tuskin tuntenevat niitä tunteita,
             mitkä painavat kovemman kohtalon alaisia tässä asevelvollisuuskysymyksessä
@@ -9425,8 +9433,8 @@
         <note xml:id="i-9BghELhLarojbE2y2qjRa5" type="speaker">
           Edusmies Vihonen:
         </note>
-        <u who="i-FYbSvFu4rVek9C99uESHpF">
-          <seg>
+        <u xml:id="i-VW4gZLfJcfZhx1nTX1Le5Q" who="i-FYbSvFu4rVek9C99uESHpF">
+          <seg xml:id="i-CAt87dh9kv5xaBon7f6jYD">
             Minä olen kannattanut 8,000 miehen myöntämistä, sillä en mitenkään
             ole tahtonut edistää sitä että liikanaisten rasitusten kautta
             saatettaisiin maa ja kansa köyhyyden ja turmion partaalle. Mutta
@@ -9441,8 +9449,8 @@
         <note xml:id="i-XgkpULMGN7hb2nEeMzDKZe" type="speaker">
           Edusmies Valta:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-8NyTUhgcrHu2GrcGAJRxdT" who="unknown">
+          <seg xml:id="i-MsCbMD98M56mMmmtUiLcPw">
             Kieltämättä ovat hyvin raskaat maallemme ehdotetut uudet rasitukset
             sotapalveluksen suhteen. Velvollisuutemme vaatii kuitenkin meitä
             uhrauksia tekemään ja siltä kan-
@@ -9461,8 +9469,8 @@
         <note xml:id="i-2SLoWk419NaCmy9vvW9npQ" type="speaker">
           Edusmies Pere:
         </note>
-        <u who="i-T6iwtdGymhfhiK1c7VMUXe">
-          <seg>
+        <u xml:id="i-BfL7yiAmZMWY1XKQ5E6ES6" who="i-T6iwtdGymhfhiK1c7VMUXe">
+          <seg xml:id="i-GAYeYnuCj9XGqYbQtazii6">
             Kun asia oli ensi kerran säädyssä, katsoin 10,000 miesmäärän
             olevan kohtuullisen ja Suomen kansan oloihin ja etuihin nähden
             soveliaan. Tämä mielipide ei kuitenkaan ole päässyt voitolle,
@@ -9478,8 +9486,8 @@
         <note xml:id="i-9b5ZQvvB3t3RsoE2dGNTq6" type="speaker">
           Edusmies Bremer:
         </note>
-        <u who="i-HjfmDsS4k6Zju4rc3Q8bpb">
-          <seg>
+        <u xml:id="i-ApxTbo1WZYyVxXdWUnJhk2" who="i-HjfmDsS4k6Zju4rc3Q8bpb">
+          <seg xml:id="i-XbDRExF23Q6nY9KacRDELu">
             Tällaisella hetkellä on vaikea päättää, pitääkö lausua mielipiteensä
             vai ei. On kuitenkin tässä asiassa tapahtuneen keskustelun kuluessa
             tullut esille joitakuita seikkoja, joita minun ainakin on mahdoton
@@ -9538,8 +9546,8 @@
         <note xml:id="i-W9CjSJ1HLhjwWFxxDdmP1j" type="speaker">
           Edusmies Juvonen:
         </note>
-        <u who="i-9bXKRcbNZcEMCDoY2xG6Cc">
-          <seg>
+        <u xml:id="i-NpTWqP18cUPE9NLjvSt7rs" who="i-9bXKRcbNZcEMCDoY2xG6Cc">
+          <seg xml:id="i-45CEqjss4H3SVGBg68fAzv">
             Esillä olevan pykälän käsittelyssä edellisellä kerralla olin
             minäkin 8,000:nen miehen suuruisen määrän kannattajia, mutta asiain
             näin ollen on käsitykseni asiasta se, että olen pakotettu luopumaan
@@ -9554,8 +9562,8 @@
         <note xml:id="i-oAqEZ8YBWPtJSxmmBC3Nr" type="speaker">
           Edusmies Avellan:
         </note>
-        <u who="i-Pwjr6vGBf5sGMw2BtNjBMH">
-          <seg>
+        <u xml:id="i-4eTYbWawgKVzpDMmPCoto4" who="i-Pwjr6vGBf5sGMw2BtNjBMH">
+          <seg xml:id="i-HkrPys2PxwbVY5xCpMW2gA">
             Ihminen ei elä ainoastaan leivästä, sanotaan raamatussa Jumalan
             sanaan nähden. Mutta tämä sopii myöskin siihen, mitä ihmiselle
             on kalleinta ajallisessa katsannossa. Ilman isänmaata leipä käy
@@ -9580,8 +9588,8 @@
         <note xml:id="i-Pr7sxo1uuBtRLeWYRpBe1w" type="speaker">
           Edusmies Eriksson:
         </note>
-        <u who="i-BErd1xbD4tu5tZsqSXAGg3">
-          <seg>
+        <u xml:id="i-Shr3Suh697KVrRA32veXwT" who="i-BErd1xbD4tu5tZsqSXAGg3">
+          <seg xml:id="i-U3Ppqa52ZM5C1xEVHRZjbp">
             Tässä arvoisassa säädyssä ovat muutamat edusmiehet koettaneet
             esittää, että muka Sääty entisellä päätöksellään ei suostuisi
             ollenkaan lisäämään nykyistä sotilasrasitusta. Minun on tarpeetonta
@@ -9664,8 +9672,8 @@
         <note xml:id="i-JChRtWN5FTdXfYW1tjwVuD" type="speaker">
           Edusmies Halonen:
         </note>
-        <u who="i-7tBzcdop95Z1XrJKrUj55e">
-          <seg>
+        <u xml:id="i-C5KHU9hXoXwjF6ya9VvFKC" who="i-7tBzcdop95Z1XrJKrUj55e">
+          <seg xml:id="i-3zEgf1BADU1uKGY3wehtFc">
             Naapurini, edusmies Leppäsen lausunnon johdosta pyytäisin ainoastaan
             saada huomauttaa että Lapinmaan tuomiokunnan edusmiehenä tietysti
             mielelläni olisin halukas näin painostavana hetkenä vetäytymään
@@ -9679,8 +9687,8 @@
         <note xml:id="i-2DE6JYAKBxwhgK1V5VeMMq" type="speaker">
           Edusmies Aulin:.
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-HZvnUHMnPj5o83ar8k1N4u" who="unknown">
+          <seg xml:id="i-BgDGbZiEEVRjecSJWBLFzq">
             Viime kerralla asiata käsiteltäessä kannatin 10,000:nen mieslukua
             eli vastalausetta, sanoin silloin että olisin hyvin halukas kannattamaan
             8,000 ja että sen puolustaminen olisi erittäin mieluista valitsijamiesteni
@@ -9734,16 +9742,16 @@
         <note xml:id="i-3NmnD6x6kZDjUw3gSvLoBz" type="speaker">
           Edusmies Hollmen:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-QhphBWWC6ayccT6Nhih8qe" who="unknown">
+          <seg xml:id="i-JFpNXnJmj9QsTEovKQd15m">
             Kannatan valiokunnan yhteensovitusehdotusta.
           </seg>
         </u>
         <note xml:id="i-CQhxjZCtT6quPFbz7ByUrU" type="speaker">
           Edusmies Eriksson:
         </note>
-        <u who="i-BErd1xbD4tu5tZsqSXAGg3">
-          <seg>
+        <u xml:id="i-DniCKqf3uq67XuMyA4kDHF" who="i-BErd1xbD4tu5tZsqSXAGg3">
+          <seg xml:id="i-Muk58TPA36F5m5Yn6VQY58">
             Minä kuulin että edusm. Aulin on käsittänyt minua ihan väärin,
             kun hän sanoo minun käyttäneen sanaa ,kappamiehet*. Kun hän on
             kylläksi lyhytnäköinen luulemaan että olen sillä tarkoittanut
@@ -9803,8 +9811,8 @@
         <note xml:id="i-Ez2cVM5U8e84sVXKNBT4pz" type="speaker">
           Edusmies Eklund:
         </note>
-        <u who="i-UuNpejz63DNoacNWFAFjXE">
-          <seg>
+        <u xml:id="i-PwYxDnN6hiWNvmosLZKhX1" who="i-UuNpejz63DNoacNWFAFjXE">
+          <seg xml:id="i-7B93DjwVYz64gWoUC4cpe2">
             Då förslaget om att höja numerären till 10,000 man endast afsäg
             att vidtaga en förändring i ett utskotts förslag, sä kan jag icke
             finna att ordförandens vägran att upptaga detta förslag under
@@ -9815,8 +9823,8 @@
         <note xml:id="i-M9mLnPdd46ePhuV4sBueNs" type="speaker">
           Edusmies Lindberg:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-Et7tNuSNSmqCZegDarQf4g" who="unknown">
+          <seg xml:id="i-Fbsy18uVzR7dueJ2yoyfLp">
             Afven jag ber få nedlägga min reservation mot talmannens vägran
             att upptaga det af mig framlagda förslaget under omröstning. Jag
             kan nämligen icke finna att sä länge vi i förändringsförslaget
@@ -9827,8 +9835,8 @@
         <note xml:id="i-J5eG2oAtf38cwk7Go2SbZp" type="speaker">
           Edusmies Flygare:
         </note>
-        <u who="i-Vh1dqy2xKpjHzkQPmypXH2">
-          <seg>
+        <u xml:id="i-4i1MdS9SDyZCS6QbW4JtLy" who="i-Vh1dqy2xKpjHzkQPmypXH2">
+          <seg xml:id="i-2LcXkbZBs1QkZGqanxoTx3">
             Jag anhäller att till protokollet fä antecknadt det jag med min
             röst icke bidragit till nu fattade beslut.
           </seg>
@@ -9839,8 +9847,8 @@
         <note xml:id="i-J9xC3VfDspyt2c2g1g35Ub" type="speaker">
           Edusmies Koskelin:
         </note>
-        <u who="i-VprBVce4soGLYgngLSjo1p">
-          <seg>
+        <u xml:id="i-69aSVZGZzinoJsSHo2uLCa" who="i-VprBVce4soGLYgngLSjo1p">
+          <seg xml:id="i-4nyShut6GvtRXauYzZVHTF">
             Koska ennenkin on käytetty sitä tapaa että on pyydetty muita
             säätyjä luopumaan päätöksestään, ja kun täällä ei ollenkaan otettu
             äänestyksen alaiseksi edusm. Danielsonin esiintuomaa ehdotusta,
@@ -9851,8 +9859,8 @@
         <note xml:id="i-AopiTycuYvuM2tMBY559TW" type="speaker">
           Edusmies Hoikka:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-Aiqo6eNPURjSiBbtNAY3wf" who="unknown">
+          <seg xml:id="i-Ckt35wp3hawHGX9mJNievz">
             Niillä perusteilla, jotka edusm. Koskelin on esiintuonut, yhdyn
             hänen kanssaan.
           </seg>
@@ -9871,8 +9879,8 @@
         </note>
         <note xml:id="i-EyjwVvKVdpcBPG5fhqAbbk">
           Tämän jälkeen Sääty yksimielisesti hyväksyi yhteensovitusehdotuksen
-          7:nnellä ja &amp;:nnella sivuilla olevat ponsilauseet kuin myös 9:nnellä
-          sivulla viimeisessä kappaleessa olevan ehdotuksen.
+          7:nnellä ja &amp;:nnella sivuilla olevat ponsilauseet kuin myös
+          9:nnellä sivulla viimeisessä kappaleessa olevan ehdotuksen.
         </note>
         <note xml:id="i-P6QHvtG1tSsqUBgrtKHnHy">
           Pöytäkirja yhteensovitusehdotusten käsiteltäessä tehdyistä päätöksistä
@@ -9914,8 +9922,8 @@
         <note xml:id="i-YYHGuHF19T7ybENpCTYUMx" type="speaker">
           Edusmies Tensikkala:
         </note>
-        <u who="i-3SZWVADXp26LoEUsfMXtuW">
-          <seg>
+        <u xml:id="i-MCqnGL7hzwZBvVGTXdDK9v" who="i-3SZWVADXp26LoEUsfMXtuW">
+          <seg xml:id="i-7fjKZzfS4nBz6weLXcUawo">
             En luule olevan tarpeellista että ponsi tulisi muutetuksi edusm.
             Lindbergin ehdottamalla tavalla. Siinä ei puhuta muista kuin ainoastaan
             perustuslain pykälistä ja sellainen säännös, jonka tämä ponsi
@@ -9936,8 +9944,8 @@
         <note xml:id="i-826yLuA5uhT78ENpCKRAh2" type="speaker">
           Edusmies Lindberg:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-HvREbH2AxSbj4FZa1dhLzo" who="unknown">
+          <seg xml:id="i-TCCDD7vJL5JZqrprxiAd1k">
             Landtdagsmannen Tensikkala tyckes hafva missförstätt mig. Han
             säger att här är blott fräga om de $$, som äro af grundlagsnatur.
             Här är ju dock alldeles specielt sagdt: , Härigenom stadgas att
@@ -9956,8 +9964,8 @@
         <note xml:id="i-fzuoBSqXPjZAMkJP4Vvpo" type="speaker">
           Edusmies Bremer:
         </note>
-        <u who="i-HjfmDsS4k6Zju4rc3Q8bpb">
-          <seg>
+        <u xml:id="i-VXCZ4AXU8NtT3ZARMiw2bi" who="i-HjfmDsS4k6Zju4rc3Q8bpb">
+          <seg xml:id="i-5kJmHPRcfGGCERNtquE7SF">
             Minä en voi muuta käsittää kuin että edusm. Lindbergin ehdotus
             on aivan asianmukainen, sillä kaikki muutokset, mitkä on tehty,
             pitää otsakirjoitukseen mahtua.
@@ -9966,8 +9974,8 @@
         <note xml:id="i-WvtZmL1TTDCJ5g2ACsCwsC" type="speaker">
           Edusmies Teittinen:
         </note>
-        <u who="i-M9GEjZeNs7B27BfEGmJYSN">
-          <seg>
+        <u xml:id="i-4Qrj86UpMhTUW6vRyPSEQo" who="i-M9GEjZeNs7B27BfEGmJYSN">
+          <seg xml:id="i-Bp1qMybzKD3FD1Ad4oeGq2">
             Lakivaliokunnan tehtäväksi oli säätyksen mukaan jätetty lausunnon
             antaminen siitä, olisiko mihinkään toimenpiteeseen ryhdyttävä
             erityisesti säätyjen nyt uudestaan muodostettujen perustuslainluontoisten
@@ -9984,8 +9992,8 @@
         <note xml:id="i-212pUV26AXHwyPG3TRx4MJ" type="speaker">
           Edusmies Vuolijoki:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-MnUASSzKBMrx1wPdrgkRrH" who="unknown">
+          <seg xml:id="i-XVQpaeMF6ifxxwsQfFkSKE">
             Mitä tähän muodostukseen tulee, niin on asia siten, että tämän
             otsakirjoituksen muodostaminen ei kuulunut valiokunnalle, sillä
             valiokunnan tehtävänä on ainoastaan ollut, niinkuin edusm. Teittinen
@@ -10042,8 +10050,8 @@
         <note xml:id="i-Jbvc2dj3emj461qtfrQGUY" type="speaker">
           Edusmies Lindberg:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-GLoBqTiHoL2D2fU71fzbx7" who="unknown">
+          <seg xml:id="i-DMWsTynz7VVGPJvKp4kWAf">
             Densamma uppfattningen delade jag ocksä dä jag gjorde mitt förslag.
             Icke var det min mening att hänskjuta frägan till vederbörande
             utskott, hvarken Lag- eller Värnepligtsutskottet, utan jag ville

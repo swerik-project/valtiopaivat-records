@@ -1,5 +1,5 @@
-<?xml version='1.0' encoding='utf-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="ptk_1904-1905_porvaristo_I">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -25,8 +25,12 @@
   <text>
     <front>
       <div type="preface">
-        <head>ptk_1904-1905_porvaristo_I</head>
-        <docDate when="1904-01-01">1904-01-01</docDate>
+        <head>
+          ptk_1904-1905_porvaristo_I
+        </head>
+        <docDate when="1904-01-01">
+          1904-01-01
+        </docDate>
       </div>
     </front>
     <body>
@@ -309,8 +313,8 @@
           näitä jäseniä, ja valituiksi tulivat:
         </note>
         <note xml:id="i-Kc349TidnJrsGUTfuWAkM1">
-          hra Lilius 66 äänellä » von Pfaler 62 &gt; » Kumlin 55 oo» » Idman
-          42 » » Hynön 35 » » Öhman 33 »
+          hra Lilius 66 äänellä » von Pfaler 62 &gt; » Kumlin 55 oo» »
+          Idman 42 » » Hynön 35 » » Öhman 33 »
         </note>
         <note xml:id="i-2gHe74DkPd9Q1Gyg2MPCeu">
           Ääniä saivat sitä paitsi seuraavat säädyn jäsenet, nimittäin:
@@ -1264,8 +1268,8 @@
         <note xml:id="i-JuSb3bUFr99WEeReULaoNR" type="speaker">
           Hra Cederberg:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-R2fwFzmMFjrkX2KL3QzhtW" who="unknown">
+          <seg xml:id="i-2s7vggJWMPeGz8SMAdHW6R">
             Jag tilläter mig uttala den mening. att talet borde uppläsas
             i dess ursprungliga form. Man har ju redan diskuterat talet och
             därvid har uttalats, att dess ton vore hofsam och att nägot kränkande
@@ -1515,8 +1519,8 @@
         <note xml:id="i-7Y3HbKgJFHV6uNzfDwvSSS" type="speaker">
           Hra Ohman:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-FBRF8sxjc5dYB2X1Hg6Hvm" who="unknown">
+          <seg xml:id="i-JZDHnY3XKUU4Vy2SjjE7Tf">
             Jag anhäller att fä understöda hr Hallbergs förslag, men föreslär
             därjämte att ständet nu mätte besluta att antalet elektorer skulle
             blifva detsamma som vid näst föregäende landtdag och att dessa
@@ -1534,8 +1538,8 @@
         <note xml:id="i-LUgV5BPWd7Hpf5YRVJZAMj" type="speaker">
           Hra Öhman:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-QLgmbvA1Y4kgBVfLuP57oT" who="unknown">
+          <seg xml:id="i-47LKsn1cEAHgsYNZo6VuDs">
             Jag anhäller att fä fästa uppmärksamheten vid att under en läng
             följd af landtdagar elektorerna varit endast
           </seg>
@@ -1552,8 +1556,8 @@
         <note xml:id="i-Y7RvESyLFsrp4Avrt1tHDE" type="speaker">
           Hra Idman:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-AMT2UbKzsJYiPbDGajkXyC" who="unknown">
+          <seg xml:id="i-JGg8YLgsr8v3LJJ3xsGV67">
             Kyllä minäkin pyytäisin saada vastustaa hra Ansaan ehdotusta,
             sillä jos niin monta valitsijamiestä valitaan kuin 25, niin koko
             valitsijamiesprinsiippi kadottaa suuren osan luonteestaan. Kannatan
@@ -1744,12 +1748,12 @@
           annettuina, jonka johdosta valitsijamiehiksi oli valittu
         </note>
         <note xml:id="i-9C8GQnrgjwU816vmzMi4vK">
-          hra Hallberg 64 äänellä » Ignatius 64 » » Killinen 64 &gt; » Boisman
-          63 » » Castren, Edvin 63 &gt; » Clouberg 63 » » Heikel Felix 63 »
-          » Idman 65 &gt;». » Juselius, August 63 » » Kumlin 63 oo» » von Pfaler
-          63 » » Sehvindt 63 » » Sundvall 63 » » Ohman 63 » » Lundenius
-          62 » » Luoma 62 » » Stählberg 62 &gt; &gt; Åkesson 62 &gt;» » Wiljakainen
-          58 &gt;» » Ingman 46 » » Renlund 35 &gt;
+          hra Hallberg 64 äänellä » Ignatius 64 » » Killinen 64 &gt; »
+          Boisman 63 » » Castren, Edvin 63 &gt; » Clouberg 63 » » Heikel
+          Felix 63 » » Idman 65 &gt;». » Juselius, August 63 » » Kumlin
+          63 oo» » von Pfaler 63 » » Sehvindt 63 » » Sundvall 63 » » Ohman
+          63 » » Lundenius 62 » » Luoma 62 » » Stählberg 62 &gt; &gt; Åkesson
+          62 &gt;» » Wiljakainen 58 &gt;» » Ingman 46 » » Renlund 35 &gt;
         </note>
         <note xml:id="i-GcGgwfVhf4e8PZwjDwBJ89">
           Vaalissa saivat sitä paitsi jälempänä mainitut säädyn jäsenet
@@ -1895,8 +1899,8 @@
         <note xml:id="i-UwVrJkx2dqkxFgsQz1g1j5" type="speaker">
           Hra Öhman:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-246w3tN7CGqbUtT63jHiFD" who="unknown">
+          <seg xml:id="i-F5nWDcPakCfiz96sezCpdj">
             Jag anhåller att få till protokollet antecknadt, att jag anser
             de förutsättningar, som äro nödvändiga för ett normalt landtdagsarbete,
             icke för närvarande hos oss förefinnas.
@@ -1905,8 +1909,8 @@
         <note xml:id="i-ACkwbqcWeoGPkVLvcaYiPL" type="speaker">
           Hra Alin:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-PpXobkudxffZrqJFTuDfAp" who="unknown">
+          <seg xml:id="i-CDPfc9PZULfRjZq1dFXuKx">
             Minä puolestani katson tätä asiaa sen laatuiseksi. että en äänelläni
             tahtoisi kehoittaa valiokuntaa lykkäämään sen käsittelyä. Yhdistyn
             hra Hynöniin.
@@ -2114,8 +2118,8 @@
         <note xml:id="i-3PQvtV1Wz6EBkzFfyvs56f" type="speaker">
           Hra Stählberg:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-Kx6sgatJvc4HAC9qAGMhup" who="unknown">
+          <seg xml:id="i-BnpPQYco3tBpN1hvRXQNDi">
             Pyytäisin huomauttaa, että tässä esitetty ehdotus perustuu siihen
             tosiasiaan, että Antellin kokoelmain valtuuskunnan valtuutus päättyy
             tämän vuoden lopussa, ja että jos noudatettaisiin sitä pöydällepanoa,
@@ -2128,8 +2132,8 @@
         <note xml:id="i-PfaMKS437ssE2HP5RCQgvJ" type="speaker">
           Hra Ingman:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-3HHXsp71PVRPs3fwtfHwqY" who="unknown">
+          <seg xml:id="i-8RWUXHPTGdz9swyRRz4Trb">
             Minä pyydän kannattaa hra Stählbergin ehdotusta, koska hra Holmbergin
             ehdotuksesta olisi seurauksena, että Antellin kokoelmat joksikuksi
             aikaa jäisivät ilman hoitokuntaa.
@@ -2138,8 +2142,8 @@
         <note xml:id="i-CZpn8XXWVdWHU5AJY95s7d" type="speaker">
           Hra Stenström:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-Hz5b8s67kaq2qYuKFhmPtX" who="unknown">
+          <seg xml:id="i-LF2jjRRfFdycbPYoTXtSSJ">
             Fullt beaktande de skäl hr Stählberg framhällit, skulle jag dock
             icke vilja understöda hans förslag om att berättelsen skulle bordläggas
             till törsta plenum, ty äfven om man godkänner de motiv, som hr
@@ -2418,9 +2422,9 @@
           hrr Heimbärger och Edvin Castrén.
         </note>
         <note xml:id="i-3pgcE93tuw4Y57VuTET33y">
-          Härä beslöts att öfriga &amp; elektorerna ankommande val skulle försiggä
-          i morgon efter slutadt plenum: hvarefter sammanträdet upplöstes
-          kl. 3,10 e. m.
+          Härä beslöts att öfriga &amp; elektorerna ankommande val skulle
+          försiggä i morgon efter slutadt plenum: hvarefter sammanträdet
+          upplöstes kl. 3,10 e. m.
         </note>
         <note xml:id="i-FFh8zk1Dr57Bk9hPzcuhG6">
           In fidem: A. V. Lindberg.
@@ -3002,8 +3006,8 @@
           Dess elevnumerär, som det första året å två klasser var 53, har
           sedan dess varit i starkt stigande, så att densamma läseäret 1899—1900
           var 94, 1900—1901 = 108, 1901— 1902 — 141, 1902—1903 = 168, 1903—1904
-          = 195 samt detta läseär, dä skolan blifvit fullständig, &amp; 8 klasser
-          208 elever. Ä skolans förberedande klass finnas 12 elever.
+          = 195 samt detta läseär, dä skolan blifvit fullständig, &amp;
+          8 klasser 208 elever. Ä skolans förberedande klass finnas 12 elever.
         </note>
         <note xml:id="i-YALAFpfyY6QWLirptk2noZ">
           Tillfredsställandet af detta mellersta Osterbottens oafvisliga
@@ -3050,8 +3054,8 @@
         <note xml:id="i-FwsHiQHW8uSG8P23fVUbCV" type="speaker">
           Hra Ansas:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-WmmW4NUwSKDpwQmngKK9yF" who="unknown">
+          <seg xml:id="i-TAjsqDv5V1vWVyJ9GGqrcq">
             Mitä lämpimimmin tätä anomusta kannattaen pyydän myöskin kannattaa
             anomuksentekijän esitystä, että se lähetettäisiin yleiseen anomusvaliokuntaan
             nyt heti.
@@ -3060,8 +3064,8 @@
         <note xml:id="i-AwPZG1dKPAkDrZ9349i3fD" type="speaker">
           Hra Latva:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-VvMAyv1zPJUhhymitjVCPC" who="unknown">
+          <seg xml:id="i-GqEGV2SYWM6qoDwSqhrZbq">
             Minä myöskin kannatan tätä anomuksentekijän petitsionia ja ehdotan,
             että se viipymättä lähetettäisiin yleiseen anomusvaliokuntaan.
           </seg>
@@ -3069,8 +3073,8 @@
         <note xml:id="i-CS288e4BX7c6wZnKqnN5sd" type="speaker">
           Hra Stenström:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-VQFKWJsotw3BbkpJtaoVmo" who="unknown">
+          <seg xml:id="i-EbJ7yFXCYmtxq1AMNk7sTt">
             Jämte det jag är ense om petitionens syfte och att memorialet
             borde remitteras till allmänna petitionsutskottet, ber jag fä
             understöda hr Janssons förslag därom, att det dock skulle bordläggas
@@ -3188,8 +3192,8 @@
         <note xml:id="i-3ZeZ8SD5qaRZsWv1hWzj48" type="speaker">
           Hra Ståhlberg:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-AeKq1qWiifCizFuquHxBQv" who="unknown">
+          <seg xml:id="i-QFGTp8SHtMXzW5T4itYkaP">
             Minun käsittääkseni esillä oleva asia on niin selvää laatua,
             että tässä tehty ehdotus voitaisiin ilman muuta hyväksyä, semminkin
             kun muut säädyt, ainakin ritaristo ja aateli ja pappissääty, lienevät
@@ -3489,8 +3493,8 @@
         <note xml:id="i-RqpxDYoD4418Yoq4Tnb1eG" type="speaker">
           Hra Holmberg:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-NneRmtGaPfaRZ5SDdQTyQG" who="unknown">
+          <seg xml:id="i-Yc8By7rw3QgFL8j5nqeyEx">
             Jag ber att fä föreslä, att detta petitionsmemorial bordlägges
             till första plenum nästa är.
           </seg>
@@ -3557,8 +3561,8 @@
         <note xml:id="i-3zVqWeYeqUBWTbJWqwYZBc" type="speaker">
           Hra Hammarström:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-SbM9jvegHo1cetJeXG2jic" who="unknown">
+          <seg xml:id="i-FRRDohVi1qhLab9WKt2qFv">
             I likhet med hr Jansson kan jag icke häller anse ständet, utan
             att i nägon män binda sina händer, kunna vidtaga nägon som hälst
             ätgärd med vare sig detta eller nägot annat memorial, som i kväll
@@ -3569,8 +3573,8 @@
         <note xml:id="i-uJEUSxVfGLZ5YyiXnVqx3" type="speaker">
           Hra Ignatius:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-FydbJdzvuvcpVCcRhRhBrT" who="unknown">
+          <seg xml:id="i-JwWVosH29nXUpgBk4qimGG">
             Jag för min del anhäller att fä understöda hr Heikel. Det är
             ju endast en förberedande ätgärd, som nu vidtages, och jag kan
             icke begripa, hvilken fördel man skulle hafva att onödigt fördröja
@@ -3580,8 +3584,8 @@
         <note xml:id="i-TqdqcdH8Hes2uxdzdvGSQc" type="speaker">
           Hra Lundenius:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-F51jr9FSkviFUG2ud4DEAJ" who="unknown">
+          <seg xml:id="i-768acNnyX8WukV9MnZN19v">
             I likhet med hrr Jansson och Hammarström kan jag icke förstå,
             huru frågan om denna remiss skulle
           </seg>
@@ -3600,8 +3604,8 @@
         <note xml:id="i-VqTamNyL8U6ToTyE1bhgc5" type="speaker">
           Hra Lundson:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-9sPBEVU6box2BQBrfWnhvQ" who="unknown">
+          <seg xml:id="i-SLEhjAXsAwagzQdFhW3JHb">
             Minä en ymmärrä muuta kuin että anomusehdotuksen lähettäminen
             valiokuntaan käsittää asian käsittelyä valtiopäiväjärjestyksen
             mukaisesti. Minä puolestani siis myöskin kannatan hra Holmbergia
@@ -3612,8 +3616,8 @@
         <note xml:id="i-V9QJNNmHUBAE4Tv3DCjgz7" type="speaker">
           Hra Ingman:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-Us6Fv2XczbrLt2U6CXpqy8" who="unknown">
+          <seg xml:id="i-8mi5RakpVAMdVtiEiFSnjM">
             Kun viime viikolla hra Renlundin anomusehdotus pantiin pöydälle,
             ei sitä pöydällepanoa motiveerattu selvästi samoilla syillä kuin
             nyt, vaan on monikin silloin voinut käsittää asian siten, että
@@ -3657,8 +3661,8 @@
         <note xml:id="i-7Un1tU6Nny6BPWx6BSSxK6" type="speaker">
           Hra Killinen:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-8Eur92Udczh7XhLkYW2y1h" who="unknown">
+          <seg xml:id="i-ExtLQBp2BYLc7npzvdpXdq">
             Minä pyydän myös saada yhtyä hra Heikelin lausuntoon sitäkin
             suuremmalla syyllä, kun on luultavaa, että näinä päivinä tulee
             koko joukko anomusehdotuksia esitettäväksi. Jos näiden kaikkien
@@ -3670,8 +3674,8 @@
         <note xml:id="i-R2ZsP4TEcAh48pJbef8kSi" type="speaker">
           Hra Alin:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-DTgSRo3GPQKXinznV9vtwA" who="unknown">
+          <seg xml:id="i-GVmmnYKNdZEBAxXHG7SRg3">
             Minä kyllä käsitän asian niinkuin hra Jansson, että on kysymys
             asian käsittelystä eikä mistään edeltävistä toimenpiteistä, ja
             juuri siitä syystä toivon, että tämä anomusehdotus lähetetään
@@ -3688,8 +3692,8 @@
         <note xml:id="i-hMT33RE4ztJoGRzNZkUd1" type="speaker">
           Hra Ansas:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-P94UX8MUpyd8cLxW39ScBm" who="unknown">
+          <seg xml:id="i-8iKFKeJgDFAQ6PeGYhgLSA">
             Pyydän yhtyä hra Janssonin mielipiteesen tässä asiassa. Minusta
             tuntuu siltä, kuin johdonmukaisuus todella vaatisi tämmöistä menettelyä.
             Täällä on huomautettu siitä, että muka V. J:ssä löytyisi jotakin
@@ -3706,8 +3710,8 @@
         <note xml:id="i-A6HvqCsmjFdHfkBSyLSiCF" type="speaker">
           Hra Öhman:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-RitjUganYQemgM3JoZ5KaA" who="unknown">
+          <seg xml:id="i-8Ep4ArRPJ1guJHbdL2wNZY">
             Jag ber få anmäla, att jag hyser den af hr Jansson uttalade äsikten
             och anser att ständet icke bör ingä i behandling utaf den ifrägavarande
             petitionen eller af andra sädana, som till ständet inlämnas, utan
@@ -3755,8 +3759,8 @@
         <note xml:id="i-Jci7GftRpxTkPjqfLETyGs" type="speaker">
           Hra Stählberg:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-CyzDWcuFLTtR2Y7tSo7dmG" who="unknown">
+          <seg xml:id="i-PKLF6HUtPYQP4M2rzzL8q6">
             Olen sitä mieltä, että esillä oleva anomusehdotus V. J:n mukaan
             voidaan valiokuntaan lähettää. Minä puolestani kannatan sitä ehdotusta,
             että anomusehdotus pantaisiin pöydälle huomispäivän istuntoon,
@@ -3771,8 +3775,8 @@
         <note xml:id="i-9noJSG2eSuxhHaHghK7xcP" type="speaker">
           Hra Björklund:
         </note>
-        <u who="i-RE9ioS2PcNCNiD9EFU1fDJ">
-          <seg>
+        <u xml:id="i-AVrpDZNumtobrKZA26pNm6" who="i-RE9ioS2PcNCNiD9EFU1fDJ">
+          <seg xml:id="i-VZLcv1zRtMwJPxSm2Epspm">
             Minäkin puolestani ymmärrän, että nämät valtiopäivät ovat kokoon
             kutsutut, ei ainoastaan järjestämään valtiollisia, vaan myöskin
             maamme sisällisiä oloja. Ja kun tässä nyt esitetään yksi hyvinkin
@@ -4276,8 +4280,8 @@
         <note xml:id="i-NC6CTwzE4C38aFxDVckKVQ" type="speaker">
           Hra Latva:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-XTyqd8UWPvEVtP5hFQWuuk" who="unknown">
+          <seg xml:id="i-X2fsdT6Qcu8SsQF7GJBGr5">
             Minusta nyt luetun anomuksen sisältö on toista laatua kuin tätä
             ennen esitettyjen anomusten sisältö. Tämä on yleisempää laatua
             ja sisältää puhetta nykyaikoina maassamme vallinneista epäkohdista,
@@ -4288,8 +4292,8 @@
         <note xml:id="i-PabnUGkGKziu1PqTpMXcDc" type="speaker">
           Hra Ignatius:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-3bo4GE6gMQPnVqC6pETA4s" who="unknown">
+          <seg xml:id="i-RMmQs9oUwWUv6jSR7q8Aov">
             Jag ber att få upplysa om att det särskilda besvärsutskott, som
             af ständerna blifvit tillsatt, äfven behandlat denna fråga i det
             betänkande, som kommer att inlämnas till ständerna, och att detta
@@ -4329,8 +4333,8 @@
         <note xml:id="i-5AyXL7Tk2WBoTNDXCBxJWW" type="speaker">
           Hra Spoof:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-KQ7AoB4pbfUqDksS9KrcDK" who="unknown">
+          <seg xml:id="i-EjemUxi5KW25N8cFszEHbA">
             Minä puolestani pyytäisin saada kannattaa anomusehdotuksen jälkimäisen
             ponnen eroittamista edellisestä, koska, kuten täällä eräät arvoisat
             puhujat ovat huomauttaneet, edellinen puoli sisältyy ennen valiokuntaan
@@ -4341,8 +4345,8 @@
         <note xml:id="i-7egEBUTT7PYzWesDm241Ue" type="speaker">
           Hra Lindroos:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-NpZ7dCt95p5XxqV8QA5MNS" who="unknown">
+          <seg xml:id="i-TNf5QfLoAgyBKRAQoxnefx">
             Minä tahtoisin kannattaa tehtyä ehdotusta, että anomus heti lähetettäisiin
             mainittuun valiokuntaan. En luule olevan mitään syytä ruveta sitä
             täällä pirstomaan, joskin jo ennemmin tehdyssä anomusehdotuksessa
@@ -4359,8 +4363,8 @@
         <note xml:id="i-Haf2DFrfAV4QsSByMEYsNr" type="speaker">
           Hra Pietinen:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-VqTq7NAk3CMVFEzwbN2478" who="unknown">
+          <seg xml:id="i-D3biStFRtT35fYtdKrrhHW">
             Vaikka minun mielestäni kysymyksessä oleva anomusehdotus meneekin
             pitemmälle kuin tuo suuri, ennen jätetty ja erityiseen valitusvaliokuntaan
             lähetetty, niin on niillä kuitenkin niin paljon yhteistä, että
@@ -5404,10 +5408,10 @@
         </note>
         <note xml:id="i-ScwgYDjDHNPQPtKY2C5Ckj">
           1. Juovutusjuomien valmistaja tahi tislauslaitoksen haltija,
-          joka muussa kuin 1 &amp;n 3 momentissa mainitussa tapauksessa myy
-          valmisteitaan muille kuin vähittäis- tahi anniskeluyhtiölle, sakotettakoon
-          vähintään viisisataa ja enintään kaksituhatta markkaa ja menettäköön
-          myös valmistus- tahi tislausoikeutensa.
+          joka muussa kuin 1 &amp;n 3 momentissa mainitussa tapauksessa
+          myy valmisteitaan muille kuin vähittäis- tahi anniskeluyhtiölle,
+          sakotettakoon vähintään viisisataa ja enintään kaksituhatta markkaa
+          ja menettäköön myös valmistus- tahi tislausoikeutensa.
         </note>
         <note xml:id="i-3GWaUkRPbkYcxDe6ebUvjQ">
           2. Jos hän muulla tavoin rikkoo tässä asetuksessa valmistajista
@@ -5640,8 +5644,8 @@
           suoriteta mitään korvausta, jota vastoin kiinteimistö ja tehtaan
           kalusto arvioidaan silloisessa tilassaan ja niistä suoritetaan
           täysi hinta. Lunastukseen tarvittavat varat suorittaa valtio,
-          joka sitten saapi korvauksen yllämainitun asetuksen 13 &amp;:ssä mainituista
-          varoista.
+          joka sitten saapi korvauksen yllämainitun asetuksen 13 &amp;:ssä
+          mainituista varoista.
         </note>
         <note xml:id="i-8zFZDTEAgN4CCRsSkQeDRC">
           3 8. Lunastetut kiinteimistö ja kalusto ovat myytävät julkisella
@@ -6529,13 +6533,14 @@
           E mi xi | x KR) | R
         </note>
         <note xml:id="i-WTKaKiYTm7muxHoFtMeZHj">
-          HE EHEENEENEENPEIPEIEE 5 lg] |&amp;18|/"|&amp;|8| "|&amp;/5] |&amp;/85 "(8/8|"|%/=|"|&amp;
-          .1900 j 23 | 18 |41 [27] 3|30/16] 5]21|26/—]26/21]—|21]10|—| 10]
-          195] 26] 221 11901] 9]32/41]16/12]28]27| 3/30]18] 5|23]21/—|21]15]
-          —|15] 180] 52/ 232 71902 |15 | 21/36 | 8|25|38 [17 |10]27 |20]
-          1/21/19] 4/28] 17] —17| 17861] 284 .1903] 9/19 [28/12|21/83] 8|14/22]11]
-          9|20/16] 1/17/18] 4|/22]148 68 211 7. 1904|38]—1381] 71|17/24|11]15]26]
-          4/10]14/10] 8|18/15/—]15]156|50| 206
+          HE EHEENEENEENPEIPEIEE 5 lg] |&amp;18|/"|&amp;|8| "|&amp;/5]
+          |&amp;/85 "(8/8|"|%/=|"|&amp; .1900 j 23 | 18 |41 [27] 3|30/16]
+          5]21|26/—]26/21]—|21]10|—| 10] 195] 26] 221 11901] 9]32/41]16/12]28]27|
+          3/30]18] 5|23]21/—|21]15] —|15] 180] 52/ 232 71902 |15 | 21/36
+          | 8|25|38 [17 |10]27 |20] 1/21/19] 4/28] 17] —17| 17861] 284 .1903]
+          9/19 [28/12|21/83] 8|14/22]11] 9|20/16] 1/17/18] 4|/22]148 68
+          211 7. 1904|38]—1381] 71|17/24|11]15]26] 4/10]14/10] 8|18/15/—]15]156|50|
+          206
         </note>
         <note xml:id="i-AndLatZSYZ5ApkjxrM6M4H">
           I &amp; II luokan oppilaat ovat luetut kaikki klassilliseen osastoon
@@ -7273,8 +7278,9 @@
         </note>
         <note xml:id="i-ThEFJ2zrDbFdwHMGtfgX5M">
           Har borgenär för sin fordran sädan rätt i viss gäldenären tillhörig
-          egendom, som i 30 och 31 &amp;$ sägs, ege ej för densamma begära konkursförfarande,
-          sävidt han icke afsäger sig rätt till betalning ur panten.
+          egendom, som i 30 och 31 &amp;$ sägs, ege ej för densamma begära
+          konkursförfarande, sävidt han icke afsäger sig rätt till betalning
+          ur panten.
         </note>
         <note xml:id="i-TaAfU9NonnvoVZm6136HeN">
           Ej häller mä konkursförfarande af borgenär begäras för fordran,
@@ -7347,8 +7353,8 @@
         </note>
         <note xml:id="i-WSZDh6evax9NTaRNo1aDng">
           Å landet kan domstolen förelägga gäldenären att ingifva skriftlig
-          förklaring jämte den i 6 &amp; andra mom. föreskrifna utredning inom
-          viss kort tid efter det föreläggandet jämte ansökningshandlingarna
+          förklaring jämte den i 6 &amp; andra mom. föreskrifna utredning
+          inom viss kort tid efter det föreläggandet jämte ansökningshandlingarna
           honom delgifvits.
         </note>
         <note xml:id="i-QVz7cLj47EkAaiWWSFesL1">
@@ -7555,11 +7561,11 @@
           öfverlämnad.
         </note>
         <note xml:id="i-R6DY8aGML8UEiU3cSbMqiM">
-          26 &amp;. Öfver konkursboet ege gäldenären icke makt att vidare råda.
-          Har betalning till gäldenären erlagts före kungörelsens offentliggörande,
-          och visas ej den betalande hafva egt kännedom om konkursen, eller
-          visar han, där betalningen skett efter offentliggörandet, att
-          konkursen därvid ännu var honom obekant, vare dock betalningen
+          26 &amp;. Öfver konkursboet ege gäldenären icke makt att vidare
+          råda. Har betalning till gäldenären erlagts före kungörelsens
+          offentliggörande, och visas ej den betalande hafva egt kännedom
+          om konkursen, eller visar han, där betalningen skett efter offentliggörandet,
+          att konkursen därvid ännu var honom obekant, vare dock betalningen
           gild. Lag samma vare, såframt det erlagda eller dess värde finnes
           i behåll i konkursboet eller användts till dess nytta. 27 $.
         </note>
@@ -7651,13 +7657,13 @@
         </note>
         <note xml:id="i-CbYuCxDqTN25F9jDTALPVq">
           rkar. 7 Försäljningen skall, om X) annorledes öfverenskommes,
-          ske &amp; offentlig auktion, hvarom sysslomannen i god tid förut blifvit
-          underrättad.
+          ske &amp; offentlig auktion, hvarom sysslomannen i god tid förut
+          blifvit underrättad.
         </note>
         <note xml:id="i-BpT9u2tf62bCLfYMTXqnHJ">
-          32 &amp;. Sävidt ej i lag särskildt är annorlunda stadgadt, ege borgenär
-          med sin fordran kvitta gäld, för hvilken han vid konkursens bör-
-          9
+          32 &amp;. Sävidt ej i lag särskildt är annorlunda stadgadt, ege
+          borgenär med sin fordran kvitta gäld, för hvilken han vid konkursens
+          bör- 9
         </note>
         <pb facs="https://swerik-project.github.io/valtiopaivat-records-pdf/1904-1905/ptk_1904-1905_porvaristo_I/ptk_1904-1905_porvaristo_I-0131"/>
         <note xml:id="i-UXAyEXoZQ5szHMBo1L999x">
@@ -7711,8 +7717,8 @@
           anmäldt.
         </note>
         <note xml:id="i-6xHTP7iz6VYHfXYuUxr5QR">
-          Hvad i första mom. stadgats, eger ej tillämpning &amp; mäl, som är
-          mot gäldenären anhängigt vid förvaltningsmyndighet eller särskild
+          Hvad i första mom. stadgats, eger ej tillämpning &amp; mäl, som
+          är mot gäldenären anhängigt vid förvaltningsmyndighet eller särskild
           domstol. Innan sädant mäl där afgöres, varde dock sysslomannen
           i saken hörd.
         </note>
@@ -7906,7 +7912,8 @@
           Gäldenären njute, där han ej annorledes kan försörja sig samt
           hustru och oförsörjda barn, ur konkursboet nödtorftigt underhäll
           till och med den dag, dä uppteckningsed af honom aflagts, utan
-          sä är att gäldenären gör sig skyldig till tredska som i 44 &amp; sagts.
+          sä är att gäldenären gör sig skyldig till tredska som i 44 &amp;
+          sagts.
         </note>
         <note xml:id="i-8Cnvfgmb9htCLdM4BaPzFm">
           Om och i hvad män underhåll därefter mä utgå, beror af borgenärernas
@@ -8009,13 +8016,13 @@
           51 &amp;.
         </note>
         <note xml:id="i-AFHcXbMwKXFsBv2zyWbzBe">
-          Ar fastighet föryttrad säsom i 49 &amp; andra mom. eller 50 $ sagts,
-          och har lagfart &amp; fänget icke sökts inom sex mänader, skall sä
-          anses, som om föryttringen skett den dag dä lagfart söktes.
+          Ar fastighet föryttrad säsom i 49 &amp; andra mom. eller 50 $
+          sagts, och har lagfart &amp; fänget icke sökts inom sex mänader,
+          skall sä anses, som om föryttringen skett den dag dä lagfart söktes.
         </note>
         <note xml:id="i-HAz3bxFjcrY7TYkiaxWpBs">
-          52 &amp;. Hvad i 48 $ första mom. sagts ge ej tillämpning &amp; betal--
-          ning, som af gäldenären erl ä växel, där betalningen enligt
+          52 &amp;. Hvad i 48 $ första mom. sagts ge ej tillämpning &amp;
+          betal-- ning, som af gäldenären erl ä växel, där betalningen enligt
         </note>
         <note xml:id="i-BWaJvWnfF4vaeEYC3iohSX">
           växelrätt bort mottagas vid äfventyr att ätergängstalan mot andra
@@ -8295,9 +8302,9 @@
         <note xml:id="i-EFKjuod1eathBtvcFa4Ffo">
           Beror fordran af framtida villkor eller på rättegång, som i 34
           8 andra eller tredje mom. nämts, eller har fordran stridiggjorts,
-          såsom i 67 &amp; andra mom. sagts, bestämme rätten och anteckne i
-          längden, om och till hvad belopp för den fordran emellertid må
-          utöfvas rösträtt.
+          såsom i 67 &amp; andra mom. sagts, bestämme rätten och anteckne
+          i längden, om och till hvad belopp för den fordran emellertid
+          må utöfvas rösträtt.
         </note>
         <note xml:id="i-W7JwGGLGwG4J5Z2Zkq7pDh">
           Åtnjuter fordran panträtt eller annan i 30 och 31 $$ därmed likställd
@@ -8327,10 +8334,10 @@
           70 $.
         </note>
         <note xml:id="i-A5KoZhEC4G3z64nrpaneY4">
-          Har fordran anmälts efter den i 64 &amp; andra mom. nämda tid, varde
-          ock den vid uppropet granskad, om domstolen efter hörande af sysslomannen
-          och borgenärerna finner det lämpligt kunna ske, och i längden
-          införd.
+          Har fordran anmälts efter den i 64 &amp; andra mom. nämda tid,
+          varde ock den vid uppropet granskad, om domstolen efter hörande
+          af sysslomannen och borgenärerna finner det lämpligt kunna ske,
+          och i längden införd.
         </note>
         <note xml:id="i-XgVensBvmEushNwGc8XGZX">
           I motsatt fall, sä ock där anmälan inkommer efter uppropet, skall
@@ -8584,8 +8591,9 @@
           gifter, och pä hvad sätt värdepapper och dyrbarheter skola förvaras.
         </note>
         <note xml:id="i-D9WhfVfdY2EZchDDxYzjM7">
-          Handhafves förvaltningen &amp; ort, där bank icke finnes, ege borgenärssammanträdet
-          dock medgifva undantag frän hvad i första mom. är föreskrifvet.
+          Handhafves förvaltningen &amp; ort, där bank icke finnes, ege
+          borgenärssammanträdet dock medgifva undantag frän hvad i första
+          mom. är föreskrifvet.
         </note>
         <note xml:id="i-K8Ksp9yYGg73tgxQcbuKfo">
           87 &amp;. Ä borgenärssammanträde ankommer jämväl:
@@ -8904,8 +8912,8 @@
         </note>
         <note xml:id="i-TBraG2yuMM8rPDrfRY9FS2">
           Tillkommer fordran med rätt till betalning ur viss egendom enligt
-          37 &amp; utdelning för hvad i sådan betalning brister, och är sagda
-          egendom ännu icke såld, vare lag samma; dock må, innan utdelning
+          37 &amp; utdelning för hvad i sådan betalning brister, och är
+          sagda egendom ännu icke såld, vare lag samma; dock må, innan utdelning
           beräknas, så stort belopp afdragas, som med säkerhet kan antagas
           ur egendomen utgå.
         </note>
@@ -8916,8 +8924,8 @@
           Utdelning skall ock beräknas och afsättning ske för stridigt
           fordrings- eller förmånsrättsanspråk, såframt ännu icke tre månader
           från dagen för dess granskning förflutit, då utdelningslängden
-          afslutas, eller ock anspråket redan enligt 71 &amp; anmälts till fullföljande
-          och fortfarande fullföljes.
+          afslutas, eller ock anspråket redan enligt 71 &amp; anmälts till
+          fullföljande och fortfarande fullföljes.
         </note>
         <note xml:id="i-6FQo4axJgaeD5Yf9RKU4AH">
           I sistnämdt fall åligger likväl borgenären, där sysslomannen
@@ -8949,13 +8957,13 @@
           Sedan konkursboets samtliga tillgångar förvandlats i penningar
           samt om anspråk, som till äfventyrs väckts mot konkursboet, blifvit
           slutligt dömdt, ege borgenärssammanträde besluta att slutlig utdelning
-          skall ske, ändå att rättegång, som i 34 &amp; andra eller tredje mom.
-          nämts, ännu är anhängig eller om ett eller annat motsagdt men
-          fullföljdt anspråk ännu icke är dömdt genom dom, som vunnit laga
-          kraft; dock skall, om sysslomannen i dessa fall är part, jämväl
-          afsättas nödigt belopp till bestridande af kostnaderna i saken
-          och till gäldande af den rättegängskostnad, som kan varda konkursboet
-          ähvälfd.
+          skall ske, ändå att rättegång, som i 34 &amp; andra eller tredje
+          mom. nämts, ännu är anhängig eller om ett eller annat motsagdt
+          men fullföljdt anspråk ännu icke är dömdt genom dom, som vunnit
+          laga kraft; dock skall, om sysslomannen i dessa fall är part,
+          jämväl afsättas nödigt belopp till bestridande af kostnaderna
+          i saken och till gäldande af den rättegängskostnad, som kan varda
+          konkursboet ähvälfd.
         </note>
         <note xml:id="i-JsyMtYJjvGHUEoHBPKJSXG">
           Ej mä slututdelning hindras däraf, att fastighet, hvarä panträtt
@@ -8987,7 +8995,8 @@
           af de sälunda ledigblifna medlen värkställas.
         </note>
         <note xml:id="i-P2d6JHY3aCjUEUR7cADwLN">
-          108 &amp;. Jämte utdelningsförslaget aflämne sysslomannen till borgenärs-
+          108 &amp;. Jämte utdelningsförslaget aflämne sysslomannen till
+          borgenärs-
         </note>
         <note xml:id="i-W7pYQ6h4Uz36XnxVQxPgqY">
           utskottet slutlig redovisning, omfattande hela förvaltningen
@@ -9069,9 +9078,9 @@
           150 Konkurssilaki. 21 p. jouluk.
         </note>
         <note xml:id="i-TF2dTCTmJnkCXVM8sU9ZSh">
-          delgifves pä sätt i 16 $ första mom. och 18 $ sagts, att &amp; viss
-          dag näst efter tre till sex veckor höras och yttra sig i saken;
-          infordre ock, där borgenärsutskott är tillsatt, dess yttrande.
+          delgifves pä sätt i 16 $ första mom. och 18 $ sagts, att &amp;
+          viss dag näst efter tre till sex veckor höras och yttra sig i
+          saken; infordre ock, där borgenärsutskott är tillsatt, dess yttrande.
         </note>
         <note xml:id="i-7YDPRL5p5CBzULBoUesWCK">
           Förslagets handläggning kan utsättas till inställelsedagen eller
@@ -9300,14 +9309,15 @@
         </note>
         <note xml:id="i-VjDajenxpSGQHdhMwNaVXk">
           den för sysslomän i aktiebolag eller andelslag stadgade skyldigheten
-          att i fall, som i 39 &amp; af lagen om aktiebolag af den 2 maj 1895
-          omförmäles, begära konkursförfarande med bolagets eller andelslagets
+          att i fall, som i 39 &amp; af lagen om aktiebolag af den 2 maj
+          1895 omförmäles, begära konkursförfarande med bolagets eller andelslagets
           bo; och mä förty i enahanda fall sådan begäran göras jämväl af
           borgenär.
         </note>
         <note xml:id="i-PspnBqnHdcxH2vvrm5qZQG">
-          Ej häller ega stadgandena i 11 &amp; tillämpning vid begäran om konkursförfarande
-          med sädant andelslags bo, hvars medlemmar äligger tillskottsplikt.
+          Ej häller ega stadgandena i 11 &amp; tillämpning vid begäran
+          om konkursförfarande med sädant andelslags bo, hvars medlemmar
+          äligger tillskottsplikt.
         </note>
         <note xml:id="i-Xvt7kQiwq4VupCwmFD9Zqp">
           Hvad i 46 &amp; at lagen om aktiebolag stadgas länder ock fortfarande
@@ -9367,9 +9377,10 @@
         </note>
         <note xml:id="i-376HZgdgTSNNxnAswRibrr">
           Hvad i 47 $ andra mom. sagts ege tillämpning jämväl å gäldenär,
-          hvars begäran om konkursförfarande afslagits på den i 11 &amp; andra
-          mom. nämnda grund; dock utgöre sådant afslag ej hinder för borgenär
-          att i laga ordning begära konkursförfarande med hans bo.
+          hvars begäran om konkursförfarande afslagits på den i 11 &amp;
+          andra mom. nämnda grund; dock utgöre sådant afslag ej hinder för
+          borgenär att i laga ordning begära konkursförfarande med hans
+          bo.
         </note>
         <note xml:id="i-U8K1MXXGgerguhgVzJCeGp">
           Ar i ofvannämdt fall gäldenären saker till handling, hvilken,
@@ -9381,10 +9392,10 @@
         </note>
         <note xml:id="i-GpEKPvcbaYeE2qHvZ9Vcor">
           Har begäran om konkursförfarande, som af borgenär gjorts, pä
-          den i 11 &amp; andra mom. nämda grund afslagits, ege sökanden inom
-          sex mänader frän afslaget, sävidt klandertalan enligt 49 eller
-          50 &amp;, där konkurs i stället hade följt, kunnat anställas, föra
-          talan att det afhända mä användas till gäldande af hans fordran.
+          den i 11 &amp; andra mom. nämda grund afslagits, ege sökanden
+          inom sex mänader frän afslaget, sävidt klandertalan enligt 49
+          eller 50 &amp;, där konkurs i stället hade följt, kunnat anställas,
+          föra talan att det afhända mä användas till gäldande af hans fordran.
         </note>
         <note xml:id="i-VCszaR6rrvJZC4jS2NHsSX">
           I nu nämädt fall ege ock 51, 53, 54, 5$ och 121 SS tilllämpning.
@@ -10239,9 +10250,9 @@
         </note>
         <note xml:id="i-BZT1Hup92kDgzpPLMhJbe4">
           Har näringsidkare, som drifvit rörelse efter sådan anmälan, som
-          i &amp; 2 är stadgad, blifvit förklarad förlustig medborgerligt förtroende,
-          äligge honom, där han vill sin rörelse fortsätta, om rättighet
-          därtill i nu föreskrifven ordning ansöka.
+          i &amp; 2 är stadgad, blifvit förklarad förlustig medborgerligt
+          förtroende, äligge honom, där han vill sin rörelse fortsätta,
+          om rättighet därtill i nu föreskrifven ordning ansöka.
         </note>
         <note xml:id="i-4bMoUD3k2NrtJa5YQ2Cz3k">
           8 7.
@@ -10378,9 +10389,9 @@
         </note>
         <note xml:id="i-CidUm64JLhK3SZwcgsEpBM">
           Hvad i detta kapitel är stadgadt om rättighet att idka handel
-          och annat näringsyrke, tillämpas icke &amp; nedannämda yrken och företag,
-          hvilka äro underkastade sädana villkor och bestämningar, som i
-          särskilda lagar och förordningar äro eller varda meddelade:
+          och annat näringsyrke, tillämpas icke &amp; nedannämda yrken och
+          företag, hvilka äro underkastade sädana villkor och bestämningar,
+          som i särskilda lagar och förordningar äro eller varda meddelade:
         </note>
         <note xml:id="i-AWfVfMRzXaYvio9BnY4Kir">
           1:0) Anläggning för bearbetning af grufvor och malmsträck ;
@@ -10650,14 +10661,15 @@
           Fullmäktige tillhör:
         </note>
         <note xml:id="i-9CfPSumDjSbBFNxG5xCRiP">
-          att värka för näringarnas &amp; orten utveckling samt i sädant afseende
-          dels själfva vidtaga de åtgärder, som å fullmäktige kunna ankomma,
-          dels hos statens eller kommunens myndigheter framställa förslag
-          om ätgärder i berörda syfte;
+          att värka för näringarnas &amp; orten utveckling samt i sädant
+          afseende dels själfva vidtaga de åtgärder, som å fullmäktige kunna
+          ankomma, dels hos statens eller kommunens myndigheter framställa
+          förslag om ätgärder i berörda syfte;
         </note>
         <note xml:id="i-XPQWzEbth6cCpjzYWLa6Kb">
           att lämna utlätanden och upplysningar om näringsvärksamheten
-          &amp; orten, dä sädana af statens eller kommunens myndigheter äskas;
+          &amp; orten, dä sädana af statens eller kommunens myndigheter
+          äskas;
         </note>
         <note xml:id="i-S7A7naXzLsRZivuRRvfp2x">
           att, dä fullmäktige finna det för viktigare frägors utredning
@@ -10712,8 +10724,8 @@
           anmälas; samt
         </note>
         <note xml:id="i-8AQqSGKW9BQrMXB3DyRraC">
-          att utse tillsyningsmän öfver lärlingsväsendet, pä sätt i &amp; 51
-          af denna lag stadgas, och bestämma den ersättning dem bör tillkomma.
+          att utse tillsyningsmän öfver lärlingsväsendet, pä sätt i &amp;
+          51 af denna lag stadgas, och bestämma den ersättning dem bör tillkomma.
         </note>
         <pb facs="https://swerik-project.github.io/valtiopaivat-records-pdf/1904-1905/ptk_1904-1905_porvaristo_I/ptk_1904-1905_porvaristo_I-0177"/>
         <note xml:id="i-A3gpmYCoEAZcpwrE4tv7fV">
@@ -11234,8 +11246,8 @@
           de uppgifter, för hvilka komitten skall värka;
         </note>
         <note xml:id="i-2khZBbtsWo3xjsASkP4Ljw">
-          komit&amp;ns sammansättning, huru komit&amp;n utses och vidden af dess
-          beslutanderätt;
+          komit&amp;ns sammansättning, huru komit&amp;n utses och vidden
+          af dess beslutanderätt;
         </note>
         <note xml:id="i-H3J3aL8HzW54QZND77c1v6">
           sättet för fastställande af de valberättigades ärliga bidrag
@@ -11658,9 +11670,9 @@
         </note>
         <note xml:id="i-5jTN53ZjnLnXasKjzC7v1T">
           Omyndiga biträden vid handel och i kontor bör lämnas tillfälle
-          att besöka handelsskola, om sädan är &amp; orten inrättad, eller däremot
-          svarande undervisningskurs; och vare yrkesidkare ej inen att af
-          biträde fordra ersättning för den tid skolbesöket
+          att besöka handelsskola, om sädan är &amp; orten inrättad, eller
+          däremot svarande undervisningskurs; och vare yrkesidkare ej inen
+          att af biträde fordra ersättning för den tid skolbesöket
         </note>
         <note xml:id="i-5TL55kxW7Psxc7Td52D8Wh">
           räfver.
@@ -11785,8 +11797,8 @@
           gäller;
         </note>
         <note xml:id="i-MJiwBJwd1VgomUmJL6XAap">
-          2:0) om yrkesidkare ej skyddar lärling mot förtryck af&lt;de hos
-          honom anställda gesäller eller andra arbetare;
+          2:0) om yrkesidkare ej skyddar lärling mot förtryck af&lt;de
+          hos honom anställda gesäller eller andra arbetare;
         </note>
         <pb facs="https://swerik-project.github.io/valtiopaivat-records-pdf/1904-1905/ptk_1904-1905_porvaristo_I/ptk_1904-1905_porvaristo_I-0192"/>
         <note xml:id="i-WCG1fpSV63ks2qG9W1kD8a">
@@ -11980,7 +11992,8 @@
         </note>
         <note xml:id="i-GK3xGzFzZ8VHimDvJQyj4H">
           Den, som upphör med näringsyrkes utöfvande, bör därom göra anmälan
-          hos den myndighet, till hvars upptagande ärendet enligt &amp; 2 hörer.
+          hos den myndighet, till hvars upptagande ärendet enligt &amp;
+          2 hörer.
         </note>
         <pb facs="https://swerik-project.github.io/valtiopaivat-records-pdf/1904-1905/ptk_1904-1905_porvaristo_I/ptk_1904-1905_porvaristo_I-0195"/>
         <note xml:id="i-EURZPQ4xZc9TopipKcEZcr">
@@ -12062,10 +12075,11 @@
         <note xml:id="i-R4wo3soaKEiBCRDbYk7t6z">
           Har yrkesidkare felat emot hvad i $$ 39, 47, 48, 49, 50, 51,
           52, 53, 55 eller 62 finnes stadgadt, eller underläter han att
-          pä anfordran lämna dei &amp; 16 nämda uppgifter eller, i de uti 88
-          57 eller 58 omförmälda fall att utgifva betyg, böte från och med
-          tio till och med femhundra mark. I det i $ 51 nämda fall kan yrkesidkare
-          för viss tid eller alltid förklaras förlustig rätt att hålla lärling.
+          pä anfordran lämna dei &amp; 16 nämda uppgifter eller, i de uti
+          88 57 eller 58 omförmälda fall att utgifva betyg, böte från och
+          med tio till och med femhundra mark. I det i $ 51 nämda fall kan
+          yrkesidkare för viss tid eller alltid förklaras förlustig rätt
+          att hålla lärling.
         </note>
         <note xml:id="i-KRXccw1aU45Q98N1bnuXvx">
           Åsidosätter yrkesidkare något af hvad i denna lag är angående
@@ -12075,11 +12089,11 @@
           8 76.
         </note>
         <note xml:id="i-1tv1RBJhD5qjhGnBQ5BiV">
-          Biträde, arbetare eller lärling, som felar emot hvad i &amp; 54 finnes
-          stadgadt, eller gör sig skyldig till någon sådan gärning, som
-          i $ 56 förutsättes, skall ersätta vällad skada och böta från och
-          med tio till och med trehundra mark, därest ej gärningen är i
-          allmän lag med straff belaggd.
+          Biträde, arbetare eller lärling, som felar emot hvad i &amp;
+          54 finnes stadgadt, eller gör sig skyldig till någon sådan gärning,
+          som i $ 56 förutsättes, skall ersätta vällad skada och böta från
+          och med tio till och med trehundra mark, därest ej gärningen är
+          i allmän lag med straff belaggd.
         </note>
         <note xml:id="i-KXSWshVj4RLHNxrVAujhrS">
           8 77.
@@ -12553,8 +12567,8 @@
         </note>
         <note xml:id="i-ECyv2zBtZiajfxoyVf2vxd">
           Johtaja . . . . . Smk. 3,000: — korotettuna Smk. 4,000: — Johtajatar
-          . . . . » 1,500: — &gt; » 2,000: — Opettaja . . . N » 2,000: &gt; »
-          2,500: — Sekalaiset menot . . » 1,500: — » » 1,500: —
+          . . . . » 1,500: — &gt; » 2,000: — Opettaja . . . N » 2,000: &gt;
+          » 2,500: — Sekalaiset menot . . » 1,500: — » » 1,500: —
         </note>
         <note xml:id="i-JBn8KPuWEB72NMo3uDaR4d">
           Smk. 8,000: — korotettuna Smk. 10,000: —
@@ -12565,8 +12579,8 @@
         <note xml:id="i-RdMdsfnBF83kjH8G8KCRBE">
           Johtaja . . . . . Smk. 3,000: — korotettuna Smk. 4,000: — Johtajatar
           . » 1,500: — » » 2,000: — Opettaja . . &gt; 2,500: -— » » = 3,000:
-          — Talouden opettajatar » 1,000: — &gt; » 1,200: — Käsitöiden &gt; »
-          800: — » » = 1,000: —
+          — Talouden opettajatar » 1,000: — &gt; » 1,200: — Käsitöiden &gt;
+          » 800: — » » = 1,000: —
         </note>
         <note xml:id="i-4gugPSn5SkTSwjNyTcusuG">
           » — opettaja » 600: — » » 800: — Sekalaiset menot . » 2,000:
@@ -12713,18 +12727,18 @@
           sai vastaukseksi m. m. seuraavaa:
         </note>
         <note xml:id="i-UNDjyabTstyM9hb3q3g11j">
-          &gt; Yötyö tehtaissa vahingoittaa naisten ja heidän lapsiensa terveyttä,
-          se vahingoittaa heidän siveellisyyttään ja perheellisiä harrastuksiaan.
-          Yötyö on jo sellaisenaan vahingollista ja synnyttää päivällä nukkumisesta
-          huolimatta vakavia haittoja, mutta ennen kaikkea se on vahingollista
-          naisten terveydelle, aiheuttaen heissä ennen pitkää verenvähyyden
-          ja kaikki siitä johtuvat hermohäiriöt. — Äitiyden aikana lopettaa
-          yötyö heidän maitonsa, ja täten uhrataan tykkänään rintalasten
-          terveys. joka on äitien poissa-olon kautta jo ennestäänkin vakavasti
-          uhattu. Naisten yötyö vahingoittaa työväenluokan terveyttä juuriaan
-          myöten, uuvuttaessaan perheen äidit. Akademia selittää terveydenhoidon
-          kannalta, että laki, joka sallii naisten yötyön, tuottaa heidän
-          terveydelleen mitä turmiollisimpia seurauksia.»
+          &gt; Yötyö tehtaissa vahingoittaa naisten ja heidän lapsiensa
+          terveyttä, se vahingoittaa heidän siveellisyyttään ja perheellisiä
+          harrastuksiaan. Yötyö on jo sellaisenaan vahingollista ja synnyttää
+          päivällä nukkumisesta huolimatta vakavia haittoja, mutta ennen
+          kaikkea se on vahingollista naisten terveydelle, aiheuttaen heissä
+          ennen pitkää verenvähyyden ja kaikki siitä johtuvat hermohäiriöt.
+          — Äitiyden aikana lopettaa yötyö heidän maitonsa, ja täten uhrataan
+          tykkänään rintalasten terveys. joka on äitien poissa-olon kautta
+          jo ennestäänkin vakavasti uhattu. Naisten yötyö vahingoittaa työväenluokan
+          terveyttä juuriaan myöten, uuvuttaessaan perheen äidit. Akademia
+          selittää terveydenhoidon kannalta, että laki, joka sallii naisten
+          yötyön, tuottaa heidän terveydelleen mitä turmiollisimpia seurauksia.»
         </note>
         <note xml:id="i-TvwkmZn3Z18vb3QEqscva8">
           Ranskan parlamentin samaa tarkoitusta varten asettama komitea
@@ -13447,11 +13461,11 @@
           med s. k. fräjdebok för vidare anteckningar om hans förhållande
           i tjänsten, hvilka anteckningar sedan vid afmönstringen införas
           i matrikeln. Ifrägavarande förrättningar äro likväl enligt 57
-          &amp; i sjölagen påbjudna endast vid förhyrning af besättning pä fartyg,
-          som gå till utrikes ort, hvarför några upplysningar om sjömän
-          i inrikes fart alls icke stå sjömanshusen till buds, alldenstund
-          det ytterst sällan inträffar, att sjöman låter inskrifva sig i
-          sjömanshus, såvida han icke därtill föranledes af påmönstringen.
+          &amp; i sjölagen påbjudna endast vid förhyrning af besättning
+          pä fartyg, som gå till utrikes ort, hvarför några upplysningar
+          om sjömän i inrikes fart alls icke stå sjömanshusen till buds,
+          alldenstund det ytterst sällan inträffar, att sjöman låter inskrifva
+          sig i sjömanshus, såvida han icke därtill föranledes af påmönstringen.
           I betraktande häraf och då inskrifning i sjömanshus mot måttliga
           årliga afgifter medför delaktighet i denna anstalt med åtnjutande
           af den därmed förenade förmånen att vid inträffad orkeslöshet
@@ -13516,8 +13530,8 @@
           den 9 juni 1873.
         </note>
         <note xml:id="i-JD5YnMqrnPRsh7vCLuhNDK">
-          Härigenom varder stadgadt att 57 &amp; i sjölagen af den 9 juni 1873
-          skall erhälla följande förändrade lydelse:
+          Härigenom varder stadgadt att 57 &amp; i sjölagen af den 9 juni
+          1873 skall erhälla följande förändrade lydelse:
         </note>
         <note xml:id="i-YXqBFbxWdrqjka79GZtbBQ">
           Dä besättning af befälhafvare antages pä fartyg, som enligt gällande
@@ -14145,14 +14159,14 @@
         <note xml:id="i-R9Lu6QmFkMdtqhRt2mvfgG">
           Hattuvarkaudesta syytetty ja siitä edesvastaukseen saatettu talonpoika
           Ivan Siilin on Viipurin raastuvanoikeuden määräyksestä kuluvan
-          maaliskuun 4 p:nä vangittu, koska 28 &amp;:n mukaan armollisessa asetuksessa
-          rikoslain käytäntöön saattamisesta, oikeus saattaa vangituttaa
-          ainoastaan laissa säädetyissä tapauksissa, joihin saman lain 20
-          &amp;n 2 momenttikin kuuluu. Ettei viime mainittua pykälää voida puheena
-          olevaan tapaukseen sovelluttaa, käy selville siitä, että Silin,
-          oltuaan koko ajan vapaana, ei ole koettanutkaan paeta ja että
-          oikeuteen sittemmin kutsuttujen asiantuntijain alkuperäisten lausuntojen
-          mukaan Silinin ottaman hatun hinta oli 20
+          maaliskuun 4 p:nä vangittu, koska 28 &amp;:n mukaan armollisessa
+          asetuksessa rikoslain käytäntöön saattamisesta, oikeus saattaa
+          vangituttaa ainoastaan laissa säädetyissä tapauksissa, joihin
+          saman lain 20 &amp;n 2 momenttikin kuuluu. Ettei viime mainittua
+          pykälää voida puheena olevaan tapaukseen sovelluttaa, käy selville
+          siitä, että Silin, oltuaan koko ajan vapaana, ei ole koettanutkaan
+          paeta ja että oikeuteen sittemmin kutsuttujen asiantuntijain alkuperäisten
+          lausuntojen mukaan Silinin ottaman hatun hinta oli 20
         </note>
         <pb facs="https://swerik-project.github.io/valtiopaivat-records-pdf/1904-1905/ptk_1904-1905_porvaristo_I/ptk_1904-1905_porvaristo_I-0233"/>
         <note xml:id="i-GhBnLdheF4fpkCBd9UrKRc">
@@ -14594,7 +14608,8 @@
           Porvoo, Raahe, Sortavala):
         </note>
         <note xml:id="i-59Hswyn26TtzFqNmprmBsA">
-          1—10 äänisiä 4588 henkeä 11,658 ääntä 11-25 &gt;» 655 » 12819 &gt;
+          1—10 äänisiä 4588 henkeä 11,658 ääntä 11-25 &gt;» 655 » 12819
+          &gt;
         </note>
         <pb facs="https://swerik-project.github.io/valtiopaivat-records-pdf/1904-1905/ptk_1904-1905_porvaristo_I/ptk_1904-1905_porvaristo_I-0240"/>
         <note xml:id="i-WhJMbVX7n2v8AyKbWCg6Tg">
@@ -14604,8 +14619,8 @@
           Kaupungeissa, joissa veroäyri on 200 mk. (useimmat):
         </note>
         <note xml:id="i-JDX4Ug4TdQ52XFCZedfUou">
-          1—10 äänisiä 21,957 henkeä 63,617 ääntä 11—25 &gt; 3,615 » = 73,261
-          »
+          1—10 äänisiä 21,957 henkeä 63,617 ääntä 11—25 &gt; 3,615 » =
+          73,261 »
         </note>
         <note xml:id="i-F7oMFJcjVZyz26HZ1tkJxU">
           Ottaaksemme esimerkkiä yksityisistä kaupungeista on Helsingissä
@@ -14672,15 +14687,16 @@
           Björklund.
         </note>
         <note xml:id="i-PT4jZxNiwdxQ1YoCdWa7BH">
-          Hra Hyn&amp;n luki julki säätyesitysehdotuksen ponnet ja lausui sitten:
-          Pyytäisin tähän lisätä, että monelta haaralta on vaadittu yleistä
-          mieskohtaista äänioikeutta; toiset taas ovat vaatineet 5 ääntä
-          korkeimmaksi määräksi. Nykyisissä oloissa ja luonnolliseen katkeamattomaan
-          kehitykseen nähden lienee kuitenkin tekemämme ehdotus tällä kertaa
-          ainoa mahdollinen, johon sääty voi suostua, koska on ollut tapauksia,
-          jotka kenties aiheuttaisivat säädyn jäseniä vastustamaan suurempaa
-          ja kauvemmaksi tähtäävää äänivallan supistamista. Pyytäisin, että
-          anomusehdotus aikanaan saisi mennä laki- ja talousvaliokuntaan.
+          Hra Hyn&amp;n luki julki säätyesitysehdotuksen ponnet ja lausui
+          sitten: Pyytäisin tähän lisätä, että monelta haaralta on vaadittu
+          yleistä mieskohtaista äänioikeutta; toiset taas ovat vaatineet
+          5 ääntä korkeimmaksi määräksi. Nykyisissä oloissa ja luonnolliseen
+          katkeamattomaan kehitykseen nähden lienee kuitenkin tekemämme
+          ehdotus tällä kertaa ainoa mahdollinen, johon sääty voi suostua,
+          koska on ollut tapauksia, jotka kenties aiheuttaisivat säädyn
+          jäseniä vastustamaan suurempaa ja kauvemmaksi tähtäävää äänivallan
+          supistamista. Pyytäisin, että anomusehdotus aikanaan saisi mennä
+          laki- ja talousvaliokuntaan.
         </note>
         <note xml:id="i-V6vnWX4YFj2i9qNEekUD9u">
           Hr Lundenius: Jag ber att fä föreslä, att samma förfarande, som
@@ -15209,9 +15225,9 @@
           sina lärokurser mera efter förhandenvarande behof än i öfverensstämmelse
           med statsskolans ofta snäfva former. Emellertid har genom en skrifvelse
           från kejserliga senaten af 1 nov. 1904 blifvit »af förekommen
-          anledning&gt; anbefalldt, att samtliga subventionerade privata goss-
-          och samskolor från och med nästa läseårs början skola till alla
-          delar införa den för statens reallyceer föreskrifna läroplanen
+          anledning&gt; anbefalldt, att samtliga subventionerade privata
+          goss- och samskolor från och med nästa läseårs början skola till
+          alla delar införa den för statens reallyceer föreskrifna läroplanen
           af 26 juli 1903. Genom denna skrifvelse har således en författning
           blifvit upphäfd, hvilken varit af väsentlig betydelse för privatskolornas
           hela arbete. För att påpeka endast en af de följder skrifvelsen
@@ -16314,11 +16330,11 @@
         <note xml:id="i-7Zcawsxyf9Awk8jB95vbZK">
           Saman vuoden valtiopäivien asettama rautatievaliokunta puolsikin
           anomusmietinnössään n:o 2 näitä ehdotuksia. Loimaan jokilaaksosta
-          lausuu valiokunta seuraavaan tapaan: &gt;»Varsinkin näyttävät useat
-          paikkakunnat nyt puheena olevalla alueella, niinkuin esim. seudut
-          Loimaan joen viljavilla ja tiheään asutuilla varsilla, olevan
-          semmoisia, että niitten halki rakennettu rautatie tulisi hyvin
-          kannattamaan. etenkin jos se rakennettaisiin kapearaiteiseksi
+          lausuu valiokunta seuraavaan tapaan: &gt;»Varsinkin näyttävät
+          useat paikkakunnat nyt puheena olevalla alueella, niinkuin esim.
+          seudut Loimaan joen viljavilla ja tiheään asutuilla varsilla,
+          olevan semmoisia, että niitten halki rakennettu rautatie tulisi
+          hyvin kannattamaan. etenkin jos se rakennettaisiin kapearaiteiseksi
           jonkun yksinkertaisen ja huokeahintaisen järjestelmän mukaan ja
           jos liikettä ylläpidettäisiin vaatimattomalla tavalla ja paikkakunnan
           tarpeen mukaisesti. Paikkakunnan vaurastumiselle olisi semmoinen
@@ -16951,9 +16967,9 @@
           todistaa kykeneväisyytensä ammatissaan, ja tämä määräys tuntuu
           valistuneesta henkilöstä melkein yhtä vastenmieliseltä kuin ensiksi
           mainitutkin. 41 &amp;:n mukaan ei palkollisella ole oikeutta saada
-          palkkaansa ennenkuin vasta palvelusvuoden loputtua, ja 49 &amp;n mukaan
-          on hän velvollinen palvelusajalla seuraamaan isäntäväkeään, muuttakootpa
-          he mihin maan kolkkaan tahansa.
+          palkkaansa ennenkuin vasta palvelusvuoden loputtua, ja 49 &amp;n
+          mukaan on hän velvollinen palvelusajalla seuraamaan isäntäväkeään,
+          muuttakootpa he mihin maan kolkkaan tahansa.
         </note>
         <note xml:id="i-ALaCkZ8Dnjx8wiitrksk2h">
           Nämä riittäkööt esimerkeiksi siitä, että voimassaoleva palkkaussääntömme
@@ -17151,8 +17167,8 @@
         <note xml:id="i-DPRE5CtuQWsTY7wqAYsrDB" type="speaker">
           Hra Rengvist:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-CgsZ5Sx8stVawNfBmz2Nrh" who="unknown">
+          <seg xml:id="i-RjSuGTz2b71z1cWcwtK5us">
             Samalla kun minä pyydän saada kannattaa hra Idmanin ehdotusta,
             pyytäisin ehdottaa, että pöytäkirjoista otettaisiin suurempi painos
             kuin ennen, esim. 250 kappaletta molemmilla kielillä, siis yhteensä
@@ -17199,8 +17215,8 @@
         <note xml:id="i-NNhTprBpAK4A92ZPqBCwG5" type="speaker">
           Hra Killinen:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-9sdKZk6Hf8YJj5KCADMMtF" who="unknown">
+          <seg xml:id="i-SHW2GHYNaDJ6yNRR6Xf5Ac">
             Pyytäisin, että tämä asia pantaisiin pöydälle ja otettaisiin
             säädyn arvoisalta sihteeriltä tarkempia tietoja siitä, kuinka
             suuri painosten lukumäärän mahdollisesti pitäisi olla, että pöytäkirjoja
@@ -17212,8 +17228,8 @@
         <note xml:id="i-CgGDxr3kLtGzRsxqEhZv4b" type="speaker">
           Hra Hallberg:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-BRewy2vggAo3XxPkHaYDf9" who="unknown">
+          <seg xml:id="i-2iNy2aChxP162RC5oTpbns">
             Jag ber att få understöda hr Öhmans förslag om bordläggning i
             och för inhämtande af upplysningar från ständerbibliotekarien
             angående icke blott upplagans storlek utan äfven om den grad,
@@ -17227,8 +17243,8 @@
         <note xml:id="i-2ivXw8EvbRDvL8zN96nuU7" type="speaker">
           Hra Renqvist:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-ENNc62mSDWxvhCxrgMBrqS" who="unknown">
+          <seg xml:id="i-Xrnp2Q8Vdu7HCDvtpG3d7f">
             Då protokollen skola tryckas på båda språken, så är den minsta
             upplaga man kan tänka sig 200 exemplar på hvartdera språket. En
             ökning af 50 eller till och med 100 exemplar i hvardera upplagan
@@ -17242,8 +17258,8 @@
         <note xml:id="i-8WAzbF75ptuYeE3CBZbbWt" type="speaker">
           Hra Mikkola:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-CcMrzySD7mnBWb2StejANZ" who="unknown">
+          <seg xml:id="i-8VEWwHRqDZC1zSpyaDrLyu">
             Maaseudulla löytyy tosin kirjastoja, joihin on hankittu valtiopäiväasiakirjoja.
             Mutta suuri joukko on sellaisiakin kirjastoja, jotka eivät ole
             näitä vielä hankkineet. Tähän katsoen olisin minäkin sitä mieltä,
@@ -17542,8 +17558,8 @@
         <note xml:id="i-4TVxCb3iGgXa4RK1Sv24Lg" type="speaker">
           Hra Durchman:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-QJmBEYJmbXSdaR72ApveS" who="unknown">
+          <seg xml:id="i-brPg5n1DSRFmzd4LheBg7">
             Pyytäisin saada pöytäkirjaan merkityksi, että minä täydellisesti
             yhdyn tässä anomusehdotuksessa esitettyyn asiaan.
           </seg>
@@ -17731,8 +17747,8 @@
         <note xml:id="i-16ezFzMrwdc8hhMitwCYrh" type="speaker">
           Hra Spoof:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-B4Jujtc6SNGA7MGxzzXMa3" who="unknown">
+          <seg xml:id="i-D54iuAQMLPXXMDTj9XQAYm">
             Kun minulla ei ole ollut tilaisuutta tehdä tätä anomusehdotusta,
             pyydän kaikin puolin saada sitä kannattaa.
           </seg>
@@ -17740,8 +17756,8 @@
         <note xml:id="i-GbhtsNzndn6A47REAhbazF" type="speaker">
           Hra Cederberg:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-TCVQ1WVXdSfcZmNBpgJ2LM" who="unknown">
+          <seg xml:id="i-4SASYNDRptXkWNkWchBPdA">
             Dä jag af sjukdom de senaste dagarna varit hindrad att deltaga
             i handläggningen af tillärnade petitioner, har jag icke kommit
             i tillfälle att underteckna denna petition, men ber att få till
@@ -17752,8 +17768,8 @@
         <note xml:id="i-DKj5dC5oUoJQKV7b2o9qYb" type="speaker">
           Hra Snellman:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-Ch5FwVy2aewAz8brbZ7SZm" who="unknown">
+          <seg xml:id="i-2f7vgHpEicYCtJELUPGpZa">
             Icke häller jag har varit i tillfälle att underteckna detta petitionsmemorial.
             Jag ber därför nu att fä uttala min fullständiga anslutning till
             detsamma.
@@ -17765,8 +17781,8 @@
         <note xml:id="i-92cE7iWG1gVcAcCMcF1Wjr" type="speaker">
           Hra Lundenius:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-VuKWAXxHY8cc7YDRshmv6H" who="unknown">
+          <seg xml:id="i-JADkYYhgB5iSG5s2FqLL9s">
             Jämte det äfven jag ber att fä anmäla det jag tillfullo omfattar
             petitionen, anhäller jag i afseende ä frägan om den remiss, som
             skall komma petitionen till del, att få nämna, att jag fullständigt
@@ -17776,8 +17792,8 @@
         <note xml:id="i-KgGVRTrX84f1rg2EhzNPN1" type="speaker">
           Hra Söderholm:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-Lw9eNTuRBGdBur2W5hm75R" who="unknown">
+          <seg xml:id="i-Fq3BMLLjd1iPu723zAJSK6">
             Jag har begärt ordet endast för att uttala mig därhän, att jag
             ansluter mig till hr Janssons uttalande.
           </seg>
@@ -17788,8 +17804,8 @@
         <note xml:id="i-NFXHLqNS545K4QxSdXAjJM" type="speaker">
           Hra Ignatius:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-LBenVLRY7aMjUxbfpPjkBs" who="unknown">
+          <seg xml:id="i-WGDSrfU2LbqK3CCgrgBA3k">
             Då jag finner, att de flesta af borgareständets ledamöter, som
             icke hafva underskrifvit petitionen, hafva anmält, att de godkänna
             densamma, och sälunda det missförständ möjligen kunde uppstä,
@@ -17823,8 +17839,8 @@
         <note xml:id="i-MrJFat3HKEVcrNJUnsqANH" type="speaker">
           Hra Liljeroos:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-P79HhKhvdvbdcEBGnr5oQR" who="unknown">
+          <seg xml:id="i-AKGzni4h574F8Ffwv7yFt1">
             Kun ei minullakaan ollut tilaisuutta saada allekirjoittaa tätä
             anomusehdotusta, pyydän saada lausua siihen kaikin puolin yhtyväni.
           </seg>
@@ -17832,8 +17848,8 @@
         <note xml:id="i-YCVL8LWpqLvZyLCHpSch2g" type="speaker">
           Hra Mattsson:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-J91mZvAzoJPEU69TJQUHaK" who="unknown">
+          <seg xml:id="i-8yQzFGBnNVB2AwYbcPdzuv">
             Jag skulle endast be att fä meddela, att jag för ingen del häller
             pä omedelbar remiss utan gärna förenar mig om bordläggning.
           </seg>
@@ -17841,8 +17857,8 @@
         <note xml:id="i-DycHa1t9cVS7icCAEKca2S" type="speaker">
           Hra Killinen:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-RAPDHX1pR3DHvVot9QVEKN" who="unknown">
+          <seg xml:id="i-FqD6fiXzRfhm9BEvvM5E4J">
             Samasta syystä, kuin minkä hra Ignatius mainitsi, että voitaisiin
             katsoa niitä, jotka eivät ole tätä anomusehdotusta: allekirjoittaneet,
             sen vastustajiksi, ilmoitan minäkin täydellisesti kannattavani
@@ -17855,8 +17871,8 @@
         <note xml:id="i-A59CHYp6vKYPz81VtzpkGk" type="speaker">
           Hra Lundson:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-7MgFcSk7NBJThaxHdCiwCQ" who="unknown">
+          <seg xml:id="i-D2BPfXUk99LhWGEtpNmcRh">
             Väärinkäsityksen ehkäisemiseksi tahtoisin sen johdosta, että
             anomusehdotuksen lukija pyysi sen lähettämistä valiokuntaan, ilmoittaa,
             että minä kirjoitin anomusehdotuksen alle sillä edellytyksellä,
@@ -18095,10 +18111,10 @@
         </note>
         <note xml:id="i-1BXiwqFVbvrsaQozCzA4L">
           Aktenskap, som ingåtts utom Finland och ej pä grund af 1 eller
-          2 &amp; är att såsom ogiltigt anses, mä antecknas i kyrkobok i landet.
-          Anhällan om sådan anteckning skall, där makarna blifvit af finsk
-          präst sammanvigda, åtföljas af attest om vigseln, i annat tall
-          därjämte af bevis, utfärdadt af myndighet i det land, hvarest
+          2 &amp; är att såsom ogiltigt anses, mä antecknas i kyrkobok i
+          landet. Anhällan om sådan anteckning skall, där makarna blifvit
+          af finsk präst sammanvigda, åtföljas af attest om vigseln, i annat
+          tall därjämte af bevis, utfärdadt af myndighet i det land, hvarest
           äktenskapet afslutats, att detta skett i där giltig form. Äro
           bägge makarna främmande stats undersätar, vare bevis af myndighet
           i deras hemland om att äktenskapet där erkännes lika gildt.
@@ -18146,8 +18162,8 @@
           dä sädant ä honom ankommer.
         </note>
         <note xml:id="i-J9URG54qQEENfNguncsBPg">
-          6&amp; Varder äktenskap genom slutlig dom förklaradt ogiltigt eller
-          böra ätergä, skall underrättelse härom inom en mänad därefter
+          6&amp; Varder äktenskap genom slutlig dom förklaradt ogiltigt
+          eller böra ätergä, skall underrättelse härom inom en mänad därefter
         </note>
         <note xml:id="i-8Lh7t9so1KUqZJkzDEXiBW">
           meddelas vederbörande prästerskap och den uppgift i kyrkoboken
@@ -18391,8 +18407,8 @@
         <note xml:id="i-A4BKRCitPHDd5JKFtm4oLe" type="speaker">
           Hra Rengvist:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-PUFy2x9upTG2KSxM7iCRSs" who="unknown">
+          <seg xml:id="i-2vTaobm6YSjMd9PBcjDwyV">
             Ehdotan, että anomusehdotus pannaan pöydälle tulevan vuoden toiseen
             istuntoon samoin kuin kysymys painoasioista.
           </seg>
@@ -18400,8 +18416,8 @@
         <note xml:id="i-B8wyw8hTiPcycs6d6ibEnE" type="speaker">
           Hra Hynön:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-SFAb14TZ5q53mwHz1yszSL" who="unknown">
+          <seg xml:id="i-K5PmS1qFfKG4izKwN2wgCU">
             Eiköhän olisi syytä panna se pöydälle ensimäiseen istuntoon sentähden,
             että muut samanluontoiset asiat ovat lykätyt siihen istuntoon.
           </seg>
@@ -18612,8 +18628,9 @@
           niitä hoitaessa nousevat niistä olleitten menojen yli; ja pitäisi
           siten perustettujen yhteismetsäin hyväksi tulla samassa kirjeessä
           mainitut helpotukset ja edut ja olisi ne hoidettavat metsälain
-          7 &amp;n määräysten mukaisesti sekä annettavat tiloille näiden manttaalia
-          enentämällä sitä tarkoitusta varten mainitun perusteen mukaan.
+          7 &amp;n määräysten mukaisesti sekä annettavat tiloille näiden
+          manttaalia enentämällä sitä tarkoitusta varten mainitun perusteen
+          mukaan.
         </note>
         <note xml:id="i-9DMCkSjn7gXqHjreNzbvZt">
           Tämä oikeus ja etu, nimittäin saada säädetyillä ehdoilla kuoletusmaksujen
@@ -18704,8 +18721,8 @@
           suostumuksetta, puuttunut riittävää laillista perustetta — mikä
           tietystikään ei ole laita niihin tiloihin nähden, joihin on kuulunut
           säterejä, säterivapaudella varustettuja latokartanoita, niitä
-          vastaavia »hovitiloja&gt; y. m. semmoisia tiloja, jotka eivät ole
-          olleet talonpoikain hallussa ja joiden alueitten käyttämiseen
+          vastaavia »hovitiloja&gt; y. m. semmoisia tiloja, jotka eivät
+          ole olleet talonpoikain hallussa ja joiden alueitten käyttämiseen
           nähden kruunulla luonnollisesti oli täysi vapaus. Mainittu menettely
           näyttää sitäpaitsi olleen vastoin sitä niinikään säätypäätöksen
           perusteella vahvistettua määräystä, että tilojen verollepano —
@@ -18852,8 +18869,8 @@
           Valtio antoi opetusta:
         </note>
         <note xml:id="i-WLLikke3aSEh8b4j458pmZ">
-          lyseoissä . . &lt; 2 LR 5,600 oppilaalle, alkeiskouluissa . . .
-          . . . . 577 45 tyttökouluissa 2,405 »
+          lyseoissä . . &lt; 2 LR 5,600 oppilaalle, alkeiskouluissa . .
+          . . . . . 577 45 tyttökouluissa 2,405 »
         </note>
         <note xml:id="i-SYaMjnC5QcJE1jmj5V2kPw">
           Yhteensä 8,582 4
@@ -18997,8 +19014,8 @@
         <note xml:id="i-UdCB2RLhmmicx8C8ZRFmaD" type="speaker">
           Hra Lundenius:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-5e7sVkFACgDx6yuovvaEtg" who="unknown">
+          <seg xml:id="i-RRNQ1u942jkuciJg8vSuy4">
             Jag anhäller, att denna petition i likhet med den sist behandlade
             petitionen bordlägges till andra plenum nästa är.
           </seg>
@@ -19153,8 +19170,8 @@
         <note xml:id="i-VNDdEZKawJgffyPF235dQd" type="speaker">
           Hra Kokkonen:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-HMrBsgNgeMoBBTdFLJ8Rkw" who="unknown">
+          <seg xml:id="i-51hi4hCbJKYDJE4XtPMuGi">
             Minun tietääkseni on usein edellisilläkin valtiopäivillä tapahtunut
             aivan samanlaisia sattumia, että nimittäin vastalauseet eivät
             ole ehtineet samalla kertaa kuin valiokunnan mietinnöt ja ettei
@@ -19170,8 +19187,8 @@
         <note xml:id="i-UYY7y6xcXiPfLxyuyJPxkm" type="speaker">
           Hra Alin:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-6khXBNkkeMVC9w15gtsr22" who="unknown">
+          <seg xml:id="i-XxAE72R1KFjJWN9Y1XVM2C">
             Minä puolestani ehdotan mietinnön pantavaksi pöydälle ilman muuta,
             mutta samalla en saata olla lausumatta oudoksumistani siitä, että
             mietinnön suomalainen ja ruotsalainen kappale ovat jätetyt erilaisina,
@@ -19186,8 +19203,8 @@
         <note xml:id="i-XYZ7aD49mRmKPdCoH3WLev" type="speaker">
           Hra Hynön:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-W1gF2BbAh1KWB2G9NZzUUQ" who="unknown">
+          <seg xml:id="i-VrwwNQie2SkEcwW3UjQQig">
             Samoin on tapahtunut minunkin suhteeni ja sentähden myös tein
             muistutukseni.
           </seg>
@@ -19224,7 +19241,8 @@
         </note>
         <note xml:id="i-SCjQD6BLZTjrP2LTcg1awf">
           Nimenhuudossa havaittiin poissaoleviksi hrt Ernst Dahlström,
-          Felix Heikel, Artur Jusö&amp;lius ja Ignatius, kaikki sairauden tähden.
+          Felix Heikel, Artur Jusö&amp;lius ja Ignatius, kaikki sairauden
+          tähden.
         </note>
         <note xml:id="i-RT7AJop37gMsyrDzZGoLqX">
           Luettiin tarkastettavaksi ja hyväksyttiin ote porvarissäädyn
@@ -19292,8 +19310,8 @@
         <note xml:id="i-MjYvKQox8DjBLq8HcuNqKP" type="speaker">
           Hra Savön:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-BH8zhzwcbegbRmYmSgLvfa" who="unknown">
+          <seg xml:id="i-6Umuk1PP2egR9vPst8Aan8">
             Jag ber fä understöda hr Stenströms förslag.
           </seg>
         </u>
@@ -19441,30 +19459,31 @@
           förklara inför en undrande samtid och ännu mindre någonsin ursäkta
           inför historiens dom. »Finlands ständer församlade till landtdag»,
           så heter det ju i vär landtdagsordning, »representera det finska
-          folket.&gt; Det är sä. Och dä sä är, så hafva Finlands ständer nog
-          ingen anledning att förhäfva sig. Mer än väl veta vi, och vi känna
-          det djupt, att vårt folk saknar de fysiska maktmedlen att så återställa
-          vår rätt, som vi det ville och vårt folks nöd kräfver. Men det
-          återstår för oss dock en möjlighet och därmed också en plikt.
-          Vi kunna och böra åtminstone taga till vara det finska folkets
-          heder. Det är vår oafvisliga skyldighet att för detta folk bibehålla
-          den rätt till aktning såsom hederliga om än anspråkslösa medarbetare
-          i den kamp, som när och fjärran i världen pågår för mänsklig rätt
-          till människovärdig tillvara. Och framförallt, ytterst och sist,
-          vi hafva den plikten kvar att behålla åtminstone folkets aktning
-          för folket själft. Men ingendera plikten fylla vi, om vi underläta
-          att i handling omsätta den öfvertygelse, som vi högtidligt uttalat
-          i tider af folkets djupaste nöd. Finlands ständer hafva tyvärr
-          ofta haft anledning att under senaste tider kämpa för det finska
-          folkets dyrbaraste rättigheter och att uttolka dess lagar och
-          institutioner. Ständerna hafva härvid städse försökt göra sina
-          ord sä valda och sä värdiga som möjligt. Men ord äro ord. Och
-          ord bli toma och allt tomare gäng för gäng, om det aldrig tydligt
-          skönjes, att bakom orden ocksä stä män. Och därför, mina herrar,
-          mä vi omsider skrida till den handling, som konsekvensen fordrar.
-          Vi skola därvid ändtligen hafva fätt upp en ren flagga, som öfver
-          vida näjder skall bära klart vittnesbörd om fastheten och oböjligheten
-          i den rättsopinion, hvarmed det finska folket vill stä eller falla.
+          folket.&gt; Det är sä. Och dä sä är, så hafva Finlands ständer
+          nog ingen anledning att förhäfva sig. Mer än väl veta vi, och
+          vi känna det djupt, att vårt folk saknar de fysiska maktmedlen
+          att så återställa vår rätt, som vi det ville och vårt folks nöd
+          kräfver. Men det återstår för oss dock en möjlighet och därmed
+          också en plikt. Vi kunna och böra åtminstone taga till vara det
+          finska folkets heder. Det är vår oafvisliga skyldighet att för
+          detta folk bibehålla den rätt till aktning såsom hederliga om
+          än anspråkslösa medarbetare i den kamp, som när och fjärran i
+          världen pågår för mänsklig rätt till människovärdig tillvara.
+          Och framförallt, ytterst och sist, vi hafva den plikten kvar att
+          behålla åtminstone folkets aktning för folket själft. Men ingendera
+          plikten fylla vi, om vi underläta att i handling omsätta den öfvertygelse,
+          som vi högtidligt uttalat i tider af folkets djupaste nöd. Finlands
+          ständer hafva tyvärr ofta haft anledning att under senaste tider
+          kämpa för det finska folkets dyrbaraste rättigheter och att uttolka
+          dess lagar och institutioner. Ständerna hafva härvid städse försökt
+          göra sina ord sä valda och sä värdiga som möjligt. Men ord äro
+          ord. Och ord bli toma och allt tomare gäng för gäng, om det aldrig
+          tydligt skönjes, att bakom orden ocksä stä män. Och därför, mina
+          herrar, mä vi omsider skrida till den handling, som konsekvensen
+          fordrar. Vi skola därvid ändtligen hafva fätt upp en ren flagga,
+          som öfver vida näjder skall bära klart vittnesbörd om fastheten
+          och oböjligheten i den rättsopinion, hvarmed det finska folket
+          vill stä eller falla.
         </note>
         <note xml:id="i-SxfGDYJnEEx68dui5FGWmk">
           Det är numera endast nägra lätt räknade timmar innan öfver all
@@ -19486,8 +19505,8 @@
         <note xml:id="i-Lm5epvkJncNshexGprdhrg" type="speaker">
           Hra Ståhlberg:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-XA5SphpGZiwB4v5nwDLBBJ" who="unknown">
+          <seg xml:id="i-3AtH5jQzmC1VFddg5wGRQz">
             Minä pyytäisin ensiksi kunnioittaen saada lausua muutaman sanan
             esillä olevasta mietinnösta ja siihen liitetystä vastalauseesta.
           </seg>
@@ -19663,8 +19682,8 @@
         <note xml:id="i-y4tKcg3o7QFpiQzG1HsZy" type="speaker">
           Hra Renvall:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-AdfNwQDu7eybmgHDyLgKfk" who="unknown">
+          <seg xml:id="i-SqUDTTwZQnAUz9BSbgtJJm">
             Se historiallisesti merkitsevä hetki, jonka me kaikki olemme
             tunteneet tulevaksi, on hra Janssonin ehdotuksen kautta tullut
             vieläkin lähemmäksi, kuin mitä olemme arvelleet. Ei kukaan meistä
@@ -19691,8 +19710,8 @@
         <note xml:id="i-CMcAV7YL92M3T6HBwtMdL" type="speaker">
           Hra Hynön:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-4axB3Ki6rgFoCvPvjRMUDT" who="unknown">
+          <seg xml:id="i-R8W9dKCk1JC1hTL7PYuRgZ">
             Då jag tager mig friheten att i diskussionen använda svenska
             spräket, hoppas jag att det vällofliga ständet häller mig ursäktad,
             om jag gör det mindre ledigt och korrekt. Frän orten bortrest,
@@ -19915,8 +19934,8 @@
         <note xml:id="i-X3cegfrscN7tUZnYTfe4Ds" type="speaker">
           Hra Alfthan:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-7BPjatorSR4495x8McdVNT" who="unknown">
+          <seg xml:id="i-J7cJ8RngipNDTTcgBeYJ6N">
             Olin odottanut, niinkuin tietysti koko sääty, että valiokunnasta
             tulisi yksimielinen lausunto tästä koko maallemme tärkeästä elinkysymyksestä,
             mutta tässä olemme pettyneet. Aihetta tähän erimielisyyteen, joka
@@ -20211,8 +20230,8 @@
         <note xml:id="i-6Y2ShiyEyUCaauVoburLAE" type="speaker">
           Hra Renlund:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-Judgp666rrgY6HZGtRDA7n" who="unknown">
+          <seg xml:id="i-GzDQ1vXF9Mg1G4ZYPbhjK2">
             Jag ber, att pä det varmaste fä understöda hr Jansson i hans
             uttalande.
           </seg>
@@ -20220,8 +20239,8 @@
         <note xml:id="i-MRGGhM7419G7QHnVoFPtET" type="speaker">
           Hra Pietinen:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-SCyKpye7qCeC6NeD3YAZYP" who="unknown">
+          <seg xml:id="i-6yv6ro8evD3jJLmYwJcq74">
             Verrattaessa nyt käsillä olevaa valiokunnan mietintöä ja vastalausetta
             toisiinsa. on mielestäni myönnettävä todeksi se, mitä vastalauseen
             tekijät esityksensä alussa ovat sanoneet, että he pääasiassa yhtyvät
@@ -20260,8 +20279,8 @@
         <note xml:id="i-WUkykK5QAfm8EWinpWQtEr" type="speaker">
           Hra Ansas:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-MR8DwW5N2Y4EcdstwdZXyq" who="unknown">
+          <seg xml:id="i-Aw2hy5jx43iePS4BAigfZS">
             Tämä mietintö ei toteuta toiveitani eikä tyydytä tarkoituksiani.
             Mitä ensinnäkin tulee sen kokoonpanoon, puuttuu siitä ennenkaikkea
             yksimielisyys. On kerrassaan surkuteltavaa, että asiassa tämmöisessä
@@ -20473,8 +20492,8 @@
         <note xml:id="i-15rDWbXk62w8QCdKFfKiMB" type="speaker">
           Hra Ingman:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-Chz484YGj26QqBC24Zb4B2" who="unknown">
+          <seg xml:id="i-5uX7JHu9Q7bvaKpNdmtzH4">
             Lyhyesti pyytäisin lausua käsitykseni, että minunkin mielestäni
             olisi koetettava toimia siihen suuntaan, että yksimielinen säätypäätös
             esillä olevasta tärkeästä asiasta aikaansaataisiin. On jo tarpeeksi,
@@ -20542,8 +20561,8 @@
         <note xml:id="i-5NrK5Lp8JdeUM8jhXktK9Y" type="speaker">
           Hra Hammarström:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-AsJfcAxuc4PvmrpwAYgn28" who="unknown">
+          <seg xml:id="i-2oPGHXHp5eDQVtBaZasWDL">
             Den ärade representanten för Kotka, som med anledning af hr Janssons
             framställning framhällit, att folket skulle känna sig besviket
             för den händelse ständerna i öfverensstämmelse med det nu föreliggande
@@ -20639,8 +20658,8 @@
         <note xml:id="i-27aEeofXZGxfRsqsDEMWLD" type="speaker">
           Hra Öhman:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-3QsbSpSHDw6WGphbuZB76C" who="unknown">
+          <seg xml:id="i-QtPxDn9BrutGkdxyBebckh">
             Bland de mänga petitioner, hvilka beträffande ästadkommandet
             af ätgärder för den lagliga ordningens äterställande i landet
             remitterats till särskilda besvärsutskottet, är det i första bilagan
@@ -20722,8 +20741,8 @@
         <note xml:id="i-72hhgB2978W5oeT63yTRWE" type="speaker">
           Hra Stenström:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-D9xtq313k4GZL29RF4oJoK" who="unknown">
+          <seg xml:id="i-BfTp32ey8UMYiX3qemigw5">
             Jag tillåter mig vördsamt få meddela, att äfven jag för min del
             är, om också icke fullt tillfredsställd,
           </seg>
@@ -20843,8 +20862,8 @@
         <note xml:id="i-P3t2v3HdyxjvjLnRJz3VpH" type="speaker">
           Hra Latva:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-E5qSzPhHxqb2DV3GhviNqt" who="unknown">
+          <seg xml:id="i-CXKtT9sdnB6MxFuxPL3A4E">
             Minuunkin teki ikävän vaikutuksen, kun, saatuani käsiini tämän
             erityisen valitusvaliokunnan mietinnön, näin, että valiokunnan
             jäsenet eivät olleet tulleet yksimielisiksi, vaan että osa heistä
@@ -20969,8 +20988,8 @@
         <note xml:id="i-BwW64BcQGvDyK9MMZQMzXE" type="speaker">
           Hra Sundvall:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-2nqysDR4mDwxvLL8jsMr8M" who="unknown">
+          <seg xml:id="i-7iiXqDqo8rePF57FysNjVH">
             Då man genomläser föreliggande utskottsbetänkandes framställning
             af den destruktiva lagstiftning, som förekommit i värt land under
             de senaste ären, äterkallas i föreställningen den ena efter den
@@ -21116,8 +21135,8 @@
         <note xml:id="i-Du6fJ9Vv84o7vNUe337MKh" type="speaker">
           Hra Holmberg:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-NaETqqnjpW1LMD1LKyLohX" who="unknown">
+          <seg xml:id="i-UQ7xZAavAPiDVagrto2zFL">
             Jag ber också att få förorda, att borgareståndet antager utskottets
             betänkande och dess kläm oförändrade. Man skulle ju kunna önska
             en eller annan sats bättre formulerad, och för min del skulle
@@ -21205,8 +21224,8 @@
         <note xml:id="i-5FuwAvfL9ZjxH1X9P6kdWu" type="speaker">
           Hra Clouberg:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-GyYPzgtWE2bszTWiML2eZc" who="unknown">
+          <seg xml:id="i-HUNiYzywPbm3HBLCcTqKJ9">
             För att icke förlänga diskussionen ber jag att i korthet få uttala,
             att jag för min del godkänner utskottets betänkande. Likväl skulle
             jag önska, att till klämmen skulle fogas ett tillägg af innehåll,
@@ -21240,8 +21259,8 @@
         <note xml:id="i-Apy9Gu3cNkRcESG2NcYguK" type="speaker">
           Hra Wiljakainen:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-WULaTouftKqeE7T67faFJx" who="unknown">
+          <seg xml:id="i-VNp8SquqYvPJYMq9HZkUR3">
             Sekä valiokunta että vastalauseen tekijät ovat pitäneet pääasiana,
             että säädyt heti alussa ilmaisevat kantansa laillisten olojen
             palauttamisesta, mutta vastalauseen tekijät kuitenkin melkein
@@ -21362,8 +21381,8 @@
         <note xml:id="i-6BbWNLKqZEuXUZJuRFbEBM" type="speaker">
           Hra Lundenius:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-7MwKDDdy8iTtNFCTCSgoSe" who="unknown">
+          <seg xml:id="i-6aVtBWv5kFyGQpYMUs4gHs">
             Mänga äro de af ständets medlemmar, som hafva tagit till ordet
             i denna för hela värt folk sä viktiga lifsfräga. Mänga hafva saknat
             i betänkandet sädant, som de särskildt velat hafva där uttaladt,
@@ -21385,8 +21404,9 @@
             författningsenligt är ansvarig inför vär folkrepresentation och
             att det varit därför, som utskottet icke velat i sitt betänkande
             intaga något särskildt yttrande om denna senatens hällning. Alit,
-            som i utskottsbetänkandet framhälles i afseende &amp; lagarnas öfverträdande,
-            äterfaller dock väsentligen pä senaten och utpekar dess skuld.
+            som i utskottsbetänkandet framhälles i afseende &amp; lagarnas
+            öfverträdande, äterfaller dock väsentligen pä senaten och utpekar
+            dess skuld.
           </seg>
         </u>
         <note xml:id="i-WTiJA2AqhcA54WYsJYtkJe">
@@ -21509,8 +21529,8 @@
         <note xml:id="i-UwtCCucvSALyq4T5cch235" type="speaker">
           Hra Mikkola:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-6Z9U9Wx6oXxjuHox1KjHH6" who="unknown">
+          <seg xml:id="i-Pd4yBkJhBWC4r6djFrZatU">
             Täällä on asiasta puhuttu ja sitä perusteltu sekä suuntaan että
             toiseen niin paljon, että minä voin olla varsin lyhyt. Olen toista
             mieltä kuin muutamat arvoisat edelliset puhujat sekä yksimielisyyden
@@ -21557,8 +21577,8 @@
         <note xml:id="i-W7pDG2kHj2hFfdxTLBk1GM" type="speaker">
           Hra Spoof:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-5748PH49nQhspSqwB27wju" who="unknown">
+          <seg xml:id="i-GMZXrKFexAQVRgkFgknnxB">
             Vaikka minä en voi yhtyä siihen, mitä hra Teodor Heikel täällä
             lausui muodon vähäisestä merkityksestä tällaisessa alamaisessa
             anomuksessa, vaan päinvastoin siinä suhteessa olen samaa mieltä
@@ -21580,8 +21600,8 @@
         <note xml:id="i-XzkG4och32vFMaryJJ3bw" type="speaker">
           Hra Idman:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-RZt2esMEro7UFb7AKxu8ij" who="unknown">
+          <seg xml:id="i-4cEy5xQprUrqA4fEZ1hGxu">
             Pyytäessäni puheenvuoroa oli aikomukseni lausua samansuuntaisia
             mielipiteitä, joita sittemmin'hra Teodor Heikel on esiintuonut.
             En tahdo pitkittää tätä jo mielestäni ylen pitkällistä keskustelua
@@ -21604,8 +21624,8 @@
         <note xml:id="i-FSrNDbqUEsxYBKgDUY36z8" type="speaker">
           Hra Björklund:
         </note>
-        <u who="i-RE9ioS2PcNCNiD9EFU1fDJ">
-          <seg>
+        <u xml:id="i-MbZ4TPFdEFtt1bYRD6zyGa" who="i-RE9ioS2PcNCNiD9EFU1fDJ">
+          <seg xml:id="i-36Tnn9TWxszQog4Q4hzU59">
             Jos vertaamme valiokunnan mietintöä ja siihen liitettyä vastalausetta
             toisiinsa ja eristämme vastalauseesta ehdotuksen perustuslakien
             kodifiseerauksesta, niin en todellakaan tiedä, mitä eroitusta
@@ -21651,8 +21671,8 @@
         <note xml:id="i-8F58soFE8en25CWeczVuiK" type="speaker">
           Hra Carlström:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-QDRuwSW9aQgvDA1EV8tA3X" who="unknown">
+          <seg xml:id="i-D2FRk771yaUZ3UQg52jtcb">
             Jag har anhållit om ordet för att, innan ståndet skrider till
             ett slutligt afgörande, få uttaladt ett godkännande af utskottsbetänkandet
             samt att jag ansluter mig till det förslag om ajournering af ståndets
@@ -21852,8 +21872,8 @@
         <note xml:id="i-sWvJ1gXcfRgHhoYGwX9FP" type="speaker">
           Hra Hammarström:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-9xneLWPRN3vSMMc6AvnBHU" who="unknown">
+          <seg xml:id="i-Gcj1qeoqu9ub1kp1HtR6tk">
             Jag anser mig böra afgifva ett förklarande tillägg till mitt
             yttrande i början af denna diskussion. Med full tydlighet torde
             ur detta mitt yttrande framgä, att jag i allt väsentligt ansluter
@@ -21874,8 +21894,8 @@
         <note xml:id="i-VPC3Qo4EMvVwbiWqEp1iGA" type="speaker">
           Hra Karvonen:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-FsUJGV4HRbocfJ4135mSSr" who="unknown">
+          <seg xml:id="i-4nWSXXdZS4Z526sCLhUDfG">
             Niistä lausunnoista, joita täällä on annettu käsiteltävänä olevasta
             mietinnöstä, käy selville, että olisi tästä mietinnöstä toivottu
             asiakirjaa, joka esittäisi kaikki ne perustuslakejamme, oikeus-
@@ -22018,8 +22038,8 @@
         <note xml:id="i-NCzpTfpLMFYFSNYQ6kv1UU" type="speaker">
           Hra Renvall:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-C9oyh4PneWFuSRJQmSWf77" who="unknown">
+          <seg xml:id="i-824Mn8bq6FVS1HkuJkqxba">
             Kun vielä bobrikoffilais-plehveläinen hallitusjärjestelmä oli
             täydessä voimassaan Suomessa ja täällä tehtiin, mikäli voitiin,
             vastarintaa ja ulkomaittenkin huomio alkoi kääntyä meidän taisteluumme,
@@ -22108,8 +22128,8 @@
         <note xml:id="i-MCgcdYsHh5q3tAfxB7Qc4o" type="speaker">
           Hra Hynön:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-6YqSryjxP6XwSjviE4CZ9k" who="unknown">
+          <seg xml:id="i-3yU5fz8UGLcWnXsNyBbgyu">
             Tunnustan ja täydellisesti oivallan ne syyt, mitkä täällä ovat
             esitetyt työn kiireelliseen suorittamiseen nähden. Niitä ovat
             pakkotilan poistaminen, jotta kansalle taattaisiin rauhallinen
@@ -22168,22 +22188,22 @@
         <note xml:id="i-BEzsTNyXTFAorrSGj7dhPd" type="speaker">
           Hra Labbart:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-LNkKPbM2hBGisQatVvc1FA" who="unknown">
+          <seg xml:id="i-AU8bm38iEhBHDfov8FGogT">
             Dä flere talare yrkat pä betänkandets äterremiss till utskottet,
             mäste jag pä det bestämdaste motsätta mig detta. För hvar och
             en torde det vara bekannt, att hela landet med spänning väntar
             pä frägans lösning. Särskildt värnepliktsfrägan eger nu en aktuell
             betydelse. Jag ser för mig allt det elände, som äter skall upprepas
             med igängsättandet af de olagliga uppbäden. Den heta striden inom
-            kommunerna, som utkämpas mellan våldet &amp; ena sidan och lag och
-            rätt ä andra sidan, skall åter uppflamma. Jag ser grähärsmän häktas,
-            päsättas handklofvar och släpas till vederbörande myndighet för
-            att erhälla varning för sitt uppträdande vid valtillfällena. Jag
-            uppfattar all den samvetsnöd, som vära kommunala myndigheter äro
-            utsatta för. Slutligen ser jag vära värnepliktiga unga män, som
-            vid hot och skrammel med handklofvar tvingas att infinna sig till
-            uppbäden eller ock att välja en mångårig, frivillig landsflykt.
+            kommunerna, som utkämpas mellan våldet &amp; ena sidan och lag
+            och rätt ä andra sidan, skall åter uppflamma. Jag ser grähärsmän
+            häktas, päsättas handklofvar och släpas till vederbörande myndighet
+            för att erhälla varning för sitt uppträdande vid valtillfällena.
+            Jag uppfattar all den samvetsnöd, som vära kommunala myndigheter
+            äro utsatta för. Slutligen ser jag vära värnepliktiga unga män,
+            som vid hot och skrammel med handklofvar tvingas att infinna sig
+            till uppbäden eller ock att välja en mångårig, frivillig landsflykt.
             Redan nu pågår i Öster-
           </seg>
         </u>
@@ -22208,8 +22228,8 @@
         <note xml:id="i-QL7nfdHBFZr4QiujG4zU9R" type="speaker">
           Hra Clouberg:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-EmCEDxGUtn3Eu1cz8RiGkU" who="unknown">
+          <seg xml:id="i-VNB2gmyaP1pzEviySw1iTV">
             Jag har föreslagit, att hr Janssons förslag icke skulle upptagas
             i sammanhang med frågan om denna petition, men dä flere talare
             yttermera uttalat sig i saken och jag mähända icke fär tillfälle
@@ -22282,8 +22302,8 @@
         <note xml:id="i-BxBAFhEy5eVU2pj1CagDBg" type="speaker">
           Hra Boisman:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-Q68n5SZ3KqbcvQXNwqVDSM" who="unknown">
+          <seg xml:id="i-NVm1tGrgxdeUY2iYgPKTvx">
             Innan debatten afslutas, vill jag uttala min obetingade anslutning
             till dem, hvilka motsagt en äterremiss till utskottet. Ett försök
             att omformulera utskottets förslag skulle tvifvelsutan visa sig
@@ -22325,8 +22345,8 @@
         <note xml:id="i-EqunmeUSWVsG6k4AA2q6Bh" type="speaker">
           Hra Ansas:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-F9w3CLksoJB5PTHJAXnqeK" who="unknown">
+          <seg xml:id="i-CRQ5Xd1DzD4iPxp6E9Jvwg">
             Minä ehdotin eilen tämän mietinnön takaisin lähettämistä valiokuntaan
             nimenomaan sillä tarkoituksella, että lisättäisiin perusteluihin,
             jotta säätyjen työltä nykyisissä oloissa puuttuu tarpeelliset
@@ -22465,8 +22485,8 @@
         <note xml:id="i-Q94ftkAsq22sXg6fV9Fx12" type="speaker">
           Hra Ansas:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-FZzNrMADzj5vTJd8NbWMAs" who="unknown">
+          <seg xml:id="i-2dNjy6WiAsUYdsSN4mA5Z7">
             Minä rohkenen huomauttaa eräästä pikkuseikasta, nimittäin että
             pohjoiset junat saapuvat klo 12,5. Kun
           </seg>
@@ -22488,8 +22508,8 @@
         <note xml:id="i-HDwe3T6yoi33E8mCTyd79i" type="speaker">
           Hra Carlström:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-EexBosc4Z44DNCPyHw9rs8" who="unknown">
+          <seg xml:id="i-2WKtYffw6RV46eh8bsg9QT">
             Jag ber att fä understöda det förslag, som hr Jansson framställde
             med afseende ä plena pä nyäret.
           </seg>
@@ -23270,8 +23290,8 @@
           således af regeringsåtgärder, icke af den ena eller andra rådgifvarens
           medvärkan eller icke-medvärkan till dessa åtgärder, hvarför dess
           praktiska genomförande lämpligen kunde ske genom en utvidgning
-          af stadgandet i L. O. &amp; 27, att statsvärkets tillständ bör för
-          ständerna uppvisas.
+          af stadgandet i L. O. &amp; 27, att statsvärkets tillständ bör
+          för ständerna uppvisas.
         </note>
         <note xml:id="i-CfnCMfXtPtxeToRGdvu9np">
           Med anslutning till dessa tidigare uttalanden hafva vi äran föreslä
@@ -23578,10 +23598,10 @@
         </note>
         <note xml:id="i-D3d6hHKm78qqwysqypViB4">
           i utgifvandet af skrifter, af hvilka »Forstföreningens Meddelanden»
-          nu tryckas i sitt 21:sta band och tidskriften &gt;Metsänystävä» regelbundet
-          utkommit sedan år 1895 i tolf häften årligen, samt dess populära
-          skogshushållningen rörande ströskrifter, hvilka spridts i öfver
-          30,000 exemplar;
+          nu tryckas i sitt 21:sta band och tidskriften &gt;Metsänystävä»
+          regelbundet utkommit sedan år 1895 i tolf häften årligen, samt
+          dess populära skogshushållningen rörande ströskrifter, hvilka
+          spridts i öfver 30,000 exemplar;
         </note>
         <note xml:id="i-p39UtVpzZbNQxVU3u3Q7Q">
           i tillhandahållandet åt enskilda skogsägare af kunniga biträden
@@ -24113,15 +24133,15 @@
           poikkeuksetta kuuluvat muittenkin maitten tapaturmalain piiriin.
         </note>
         <note xml:id="i-M3cgmxQKyXh591wRjsczAU">
-          4 &amp;:n määräys, joka velvoittaa työnantajan vakuuttamalla turvaamaan
-          työntekijänsä tapaturmasta johtuvan työkyvyn täydellisen tai osittaisen
-          ainaiseksi menettämisen ja kuoleman varalta, olisi ulotettava
-          kaikkiin tapaturmiin, joista johtuu työkyvyn menettäminen pitemmäksi
-          aikaa kuin yhdeksi viikoksi. Tällaista lain muutosta eivät työnantajatkaan
-          yleensä vastustane, sillä jo vapaaehtoisesti jotenkin suuri lukumäärä
-          työnantajia vakuuttaa työntekijänsä kaikkien tapaturmien varalta.
-          V.1902 käsitti tuollainen vakuutus 860 liiketoiminimeä ja 14,742
-          vuosityöntekijää eli enemmän kuin puolet kaikista yksityisten
+          4 &amp;:n määräys, joka velvoittaa työnantajan vakuuttamalla
+          turvaamaan työntekijänsä tapaturmasta johtuvan työkyvyn täydellisen
+          tai osittaisen ainaiseksi menettämisen ja kuoleman varalta, olisi
+          ulotettava kaikkiin tapaturmiin, joista johtuu työkyvyn menettäminen
+          pitemmäksi aikaa kuin yhdeksi viikoksi. Tällaista lain muutosta
+          eivät työnantajatkaan yleensä vastustane, sillä jo vapaaehtoisesti
+          jotenkin suuri lukumäärä työnantajia vakuuttaa työntekijänsä kaikkien
+          tapaturmien varalta. V.1902 käsitti tuollainen vakuutus 860 liiketoiminimeä
+          ja 14,742 vuosityöntekijää eli enemmän kuin puolet kaikista yksityisten
           yhtiöitten päättämistä vakuutuksista. V. 1903 tekivät vastaavat
           luvut 994 toiminimeä ja 18,166 työntekijää. Työnantajalle on tuollaisesta
           vakuuttamisesta se etu, että hän voi laskuihinsa tarkalleen ottaa
@@ -24565,8 +24585,8 @@
         <note xml:id="i-UJHNUedH6WdVxfKr6df636" type="speaker">
           Hra Labbart:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-Bz1FPnv1CFri6BRsAhP1c6" who="unknown">
+          <seg xml:id="i-TAQmTM67fAH1EsEAPvmRqY">
             Jag ber att få frångå mitt tidigare förslag och anhåller om remiss
             till särskilda besvärsutskottet.
           </seg>
@@ -24580,16 +24600,16 @@
         <note xml:id="i-QNE4KYg3BTxPd1EgqW39r8" type="speaker">
           Hra Lundenius:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-LjwKayLeLvprqyMz8mKfZx" who="unknown">
+          <seg xml:id="i-AR8DJDenkfJyvTAdbAZHMR">
             För att förekomma omröstning ber jag att få frångå mitt förslag.
           </seg>
         </u>
         <note xml:id="i-HrttSDpLqHHjysXkGpoWzf" type="speaker">
           Hra Labbart:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-P6zaT7sS6dmsiwKd2EcXds" who="unknown">
+          <seg xml:id="i-TTMXgcNFiWXvP3EGaR6PQn">
             För att icke fördröja tiden frångår äfven jag mitt senare förslag.
           </seg>
         </u>
@@ -24709,20 +24729,20 @@
           Inom Jakobstads kommun har sälunda af staden upprätthällits ett
           femklassigt reallärovärk med gemensam undervisning för gossar
           och flickor och med kurser öfverensstämmande med reallyceernas
-          &amp; deras fem lägre s. k. bottenklasser. Grundad är 1895 säsom en
-          omorganisation och fortsättning till den dittills af staten upprätthällna
-          tväklassiga elementarskolan med en privat tredje klass, utvidgades
-          skolan successivt till ett femklassigt lärovärk, hvilken utvidgning
-          var slutförd i och med läseäret 1897—98, dä skolan första gängen
-          arbetade med fem klasser. Sedan hösten 1896 har med skolan dessutom
-          varit förbunden en förberedande klass. Det stigande elevantalet
-          och det växande bildningsbehofvet pä orten manade emellertid kommunen
-          att tänka pä sin skolas fortsatta utveckling till fullständigt
-          ättaklassigt lyceum med till universitetet ledande kurser. Onskningsmälen
-          härom framträdde också allt intensivare från föräldrars och målsmäns
-          sida och, sedan tillstånd till utvidgningen å högvederbörlig ort
-          utvärkats, beslöt kommunen under senaste vår att successivt utvidga
-          sin skola till
+          &amp; deras fem lägre s. k. bottenklasser. Grundad är 1895 säsom
+          en omorganisation och fortsättning till den dittills af staten
+          upprätthällna tväklassiga elementarskolan med en privat tredje
+          klass, utvidgades skolan successivt till ett femklassigt lärovärk,
+          hvilken utvidgning var slutförd i och med läseäret 1897—98, dä
+          skolan första gängen arbetade med fem klasser. Sedan hösten 1896
+          har med skolan dessutom varit förbunden en förberedande klass.
+          Det stigande elevantalet och det växande bildningsbehofvet pä
+          orten manade emellertid kommunen att tänka pä sin skolas fortsatta
+          utveckling till fullständigt ättaklassigt lyceum med till universitetet
+          ledande kurser. Onskningsmälen härom framträdde också allt intensivare
+          från föräldrars och målsmäns sida och, sedan tillstånd till utvidgningen
+          å högvederbörlig ort utvärkats, beslöt kommunen under senaste
+          vår att successivt utvidga sin skola till
         </note>
         <pb facs="https://swerik-project.github.io/valtiopaivat-records-pdf/1904-1905/ptk_1904-1905_porvaristo_I/ptk_1904-1905_porvaristo_I-0414"/>
         <note xml:id="i-2i17v74jrZXSLRy9Y3b8Pg">
@@ -24741,10 +24761,11 @@
         </note>
         <note xml:id="i-MpZn3jJEtk7MwZK4uXyJmW">
           1895—96 . . . 37 elever (skolan treklassig) 1896—97 . . . 59
-          » &gt; fyra &gt; 1897-—98 . . . 75 &gt; » fem » 1898—99 . . . 76 &gt; » &gt;
-          3 1899—1900 i. . 83 + &gt; &gt; &gt; 1900—1901 . . 87 » &gt; » » 1901—1902
-          . . 98 ; 3 » &gt; 1902—19035 . .102 &gt;» » &gt; &gt;» 1903--1904 =. .103
-          &gt;» 5 &gt; 3 1904 &lt; 123 &gt; » sex &gt;
+          » &gt; fyra &gt; 1897-—98 . . . 75 &gt; » fem » 1898—99 . . .
+          76 &gt; » &gt; 3 1899—1900 i. . 83 + &gt; &gt; &gt; 1900—1901
+          . . 87 » &gt; » » 1901—1902 . . 98 ; 3 » &gt; 1902—19035 . .102
+          &gt;» » &gt; &gt;» 1903--1904 =. .103 &gt;» 5 &gt; 3 1904 &lt;
+          123 &gt; » sex &gt;
         </note>
         <note xml:id="i-A5tCvWJnF6rW8Jffdg1Qp1">
           Pä förberörda klassen har elevantalet under senare är varierat
@@ -24761,8 +24782,8 @@
           för skolan var 15,000 mark, utgjorde sälunda kommunens bidrag:
         </note>
         <note xml:id="i-5XnjfNyUv7MBcbtCNkUQRx">
-          1898 . . .Fmk 8,527:68 1899 2. 0 &gt;» 9,965; — 1900 vo co &gt; 11,588:—
-          1901 . . =. » 12,298:60 1902 . 2 &gt; 15,588: —
+          1898 . . .Fmk 8,527:68 1899 2. 0 &gt;» 9,965; — 1900 vo co &gt;
+          11,588:— 1901 . . =. » 12,298:60 1902 . 2 &gt; 15,588: —
         </note>
         <note xml:id="i-N1QqjBtQTjyVYTUgsgTEEZ">
           Då är 1903 statsanslaget höjdes till 20,000 mark, blef kommunens
@@ -25047,9 +25068,10 @@
           förslag till bidrag från kommunens sida för ifrågavarande järnvägsföretag.
           På grund af dessa lokalkomittéers arbeten skulle sedermera ett
           gemensamt program uppgöras för arbetets vidare bedrifvande. Det
-          är med stöd af här nämda lokalkomitt&amp;ers pä kommunalstämmor väckta
-          förslag, som de intresserade kommunerna beslutit sig för nedan
-          angifna bidrag till en järnvägsbyggnad Bennäs— Karstula, nämligen:
+          är med stöd af här nämda lokalkomitt&amp;ers pä kommunalstämmor
+          väckta förslag, som de intresserade kommunerna beslutit sig för
+          nedan angifna bidrag till en järnvägsbyggnad Bennäs— Karstula,
+          nämligen:
         </note>
         <note xml:id="i-QyNp4aMT1WVDmLsHuGBB6R">
           Lappajärvi socken:
@@ -25108,11 +25130,11 @@
           i närmaste anslutning till af Jakobstads kommun instrumentalt
           undersökt sträcka inom 10 års förlopp af staten bygges och trafikeras,
           ha vid stadsfullmäktiges sammanträde den 20 december detta år
-          firman Ph. U. Strengberg &amp; C:o Aktiebolag förbundit sig att utbetala
-          100,000 mark samt familjen Vilh. Schauman en lika stor summa.
-          Stadsfullmäktige ställa i utsikt betydande uppoffringar från Jakobstads
-          kommuns sida och har anhållan om sammankallande af förstärkta
-          stadsfullmäktige inlämnats.
+          firman Ph. U. Strengberg &amp; C:o Aktiebolag förbundit sig att
+          utbetala 100,000 mark samt familjen Vilh. Schauman en lika stor
+          summa. Stadsfullmäktige ställa i utsikt betydande uppoffringar
+          från Jakobstads kommuns sida och har anhållan om sammankallande
+          af förstärkta stadsfullmäktige inlämnats.
         </note>
         <note xml:id="i-4RcDi7MXd7mS8Vd8i48DTr">
           Detaljerade uppgifter rörande förhållandena inom de socknar den
@@ -26345,11 +26367,11 @@
           vidtagit kraftiga ätgärder därhän, att lif och egendom icke blottställdes
           genom fortsatt bruk af till sjöfart odugliga fartyg. Äfven hos
           oss har säväl sjölags- som en annan för sakens behandling särskildt
-          tillsatt komitt&amp; handlaggt detta ärende. Men nägon lag har ännu
-          icke fätts till stånd. Närvarande tid, dä konjunkturerna äro sä
-          ogynnsamma, gör rederierna mer än förut benägna att undvika större
-          reparationer &amp; sina fartyg och att begagna mindre sjödugliga sä
-          länge som möjligt. Därför hafva de senaste åren fall ej häller
+          tillsatt komitt&amp; handlaggt detta ärende. Men nägon lag har
+          ännu icke fätts till stånd. Närvarande tid, dä konjunkturerna
+          äro sä ogynnsamma, gör rederierna mer än förut benägna att undvika
+          större reparationer &amp; sina fartyg och att begagna mindre sjödugliga
+          sä länge som möjligt. Därför hafva de senaste åren fall ej häller
           saknats, hvilka ädagalägga behofvet af en sakkunnig och ändamålsenlig
           fartygsbesiktning. Genom tillsättandet af en sjöfartsinspektör
           har äfven hos oss ett steg tagits framät i denna riktning. Men
@@ -27325,14 +27347,15 @@
           &gt; 184 — , 289584 » om oo. 185768
         </note>
         <note xml:id="i-CXNEY6e5KEMndaXj5PUTc">
-          &gt; 18955 — , 304884 &gt; &gt; or 196590 &gt; » 1896 ä 261,295 , ää » 296,069
-          , p 2 1897 oh 368562 1 or n 847808 ov
+          &gt; 18955 — , 304884 &gt; &gt; or 196590 &gt; » 1896 ä 261,295
+          , ää » 296,069 , p 2 1897 oh 368562 1 or n 847808 ov
         </note>
         <note xml:id="i-EyziYt8okG6tfx3mQjCT3S">
-          2 1898 a 367,687 » =. 377808 , — &gt; 1899 N 430264 &gt; om or 342989.
-          oh &gt; 1900 . 478933 1 oc 0, 4823M , oh &gt; 1901 N 582807 0 v om 502156
-          , &gt; 1909 — , 531,956 1 om 33820 oo» =» 1903 n 1940855 1 =. 486780,
-          n » 1904 intill 1/,, 1398952 , om =. 557847, oh
+          2 1898 a 367,687 » =. 377808 , — &gt; 1899 N 430264 &gt; om or
+          342989. oh &gt; 1900 . 478933 1 oc 0, 4823M , oh &gt; 1901 N 582807
+          0 v om 502156 , &gt; 1909 — , 531,956 1 om 33820 oo» =» 1903 n
+          1940855 1 =. 486780, n » 1904 intill 1/,, 1398952 , om =. 557847,
+          oh
         </note>
         <note xml:id="i-L4Zw9wVPXL2LLgxfSmXy8n">
           Summa —6,502,467 m? props och 4,284,515 m slipved 10,786,982
@@ -27778,8 +27801,8 @@
           en tidsenlig, med en obetydlig afgift belaggd köttkontroll jämte
           utsträckt slakthustväng. Därvid har emellertid från lagkunnigt
           håll med eftertryck betonats, ej mindre att gällande näringslag
-          af den 31 mars 1879 uti 8:de 8&amp;:ens tredje moment uppställer ett
-          oöfverstigligt hinder för stadskommun att för den köttkontroll,
+          af den 31 mars 1879 uti 8:de 8&amp;:ens tredje moment uppställer
+          ett oöfverstigligt hinder för stadskommun att för den köttkontroll,
           som inom dess omräde och i dess medborgares intresse päbjudes
           och utöfvas, päföra landtmannen några som hälst afgifter, vore
           dessa ocksä sä ringa som t. ex. en half penni för hvarje kilogram,
@@ -28009,13 +28032,13 @@
           förenkla räkenskapernas uppställande. Detta synes äfven däraf,
           att så längesedan graflaggda saker som öfverföringen af 475,000
           mark af stämpelpappersbevillningen och 660,000 mark af bränvinsskattemedel
-          blifvit upptagna att tillfalla &gt;kronofonden». Jag ber också särskildt
-          få påpeka, att det är af synnerlig vikt, att ständerna nu redan
-          fatta sitt beslut i denna fråga, emedan förordningen af den 23
-          juni synes vara påbjuden att komma till användning från den 1
-          januari nästkommande år. Ifrån 1 januari nästkommande år skulle
-          således finska statsvärkets bokföring icke veta af, att ständerna
-          ha en del i budgetens uppgörande.
+          blifvit upptagna att tillfalla &gt;kronofonden». Jag ber också
+          särskildt få påpeka, att det är af synnerlig vikt, att ständerna
+          nu redan fatta sitt beslut i denna fråga, emedan förordningen
+          af den 23 juni synes vara påbjuden att komma till användning från
+          den 1 januari nästkommande år. Ifrån 1 januari nästkommande år
+          skulle således finska statsvärkets bokföring icke veta af, att
+          ständerna ha en del i budgetens uppgörande.
         </note>
         <note xml:id="i-NDxpjsaQ8qcBuEkNHR2Do">
           Hra Jansson, Fredrik: Jag har sökt med största uppmärksamhet
@@ -28115,8 +28138,8 @@
         <note xml:id="i-UgGZQbvPevwCzbiwTzQqTn" type="speaker">
           Hra Hammarström:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-RjjfPzJk6zCq5J2ZmzUvtm" who="unknown">
+          <seg xml:id="i-2F4wDh5Na2HNGnjz8oPzFm">
             Äfven jag kan icke finna det försvarligt, att bevillningsfrägor
             nu till behandling upptagas. Särskilda besvärsutskottets betänkande
             uttalar, att förutsättningar för ett normalt ständerarbete för
@@ -28160,8 +28183,8 @@
         <note xml:id="i-6WtYvt1KQe6aft8hZVUJMk" type="speaker">
           Hra Pietinen:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-VzgeJkeEVskji3kowfPJwp" who="unknown">
+          <seg xml:id="i-Lv1gp325RpVJ4uPgPX3fLk">
             Kun minä niin vähän perehtyneenä valtiopäivätyöhön olen rohennut
             pyytää sananvuoroa tässä erittäin tärkeässä asiassa, on se tapahtunut
             siksi, että olen alusta pitäen seurannut suostuntavaliokunnan
@@ -28245,8 +28268,8 @@
         <note xml:id="i-9B7kYCwmisHxby4UEig8ga" type="speaker">
           Hra Lundson:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-9kXdp4Jkkek92UE16yhsvK" who="unknown">
+          <seg xml:id="i-94EJdWUoUbMfu2hSPhdVTE">
             Minä, samoin kuin useat muut säädyn jäsenet, olen pyytänyt puheenvuoroa,
             en arvostellakseni itse mietintöä, vaan sanoakseni sanan itse
             sen käsittelystä. Samoin kuin, oletukseni mukaan, useat muutkin
@@ -28277,8 +28300,8 @@
         <note xml:id="i-MMNKg6NigpL9zwVR5ek1Sv" type="speaker">
           Hra Ignatius:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-6sZJLUNF7qsANPG5f21up8" who="unknown">
+          <seg xml:id="i-CG14Chq8XAqoBGyRtubky8">
             Det af flere ärade talare här föreslagna sättet att uppskjuta
             med detta ärendes afgörande till dess svar anländt pä petitionen
             om äterställande af det lagliga samhällsskicket i värt land päminner
@@ -28366,8 +28389,8 @@
         <note xml:id="i-2Lf7AuDWobqv2Qi11rVjhu" type="speaker">
           Hra Holmberg:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-T8znn7gRzNHTEaBcZy8puv" who="unknown">
+          <seg xml:id="i-5aJg6XFq6FzawSRm8LNZJ8">
             Jag kan och bör icke medvärka till någon budgetreglering för
             längre eller kortare tid, innan visshet erhållits, att grundlag
             åter tagits till rättesnöre vid landets styrelse. De störingar,
@@ -28395,8 +28418,8 @@
         <note xml:id="i-9wfHRT8uAHxT9G8GtQpfaD" type="speaker">
           Hra Hallberg:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-9AZgzScBpQMX3h9N51AV2B" who="unknown">
+          <seg xml:id="i-TtsEABfVDjrTQXGLDFMvyb">
             Dä hr Jansson icke vill tillerkänna de frägor, hvilka nu stä
             under debatt, rätt att ställas pä samma plan som de, hvilka afhandlas
             i särskilda besvärsutskottets betänkande, ber jag fä päpeka, att
@@ -28571,8 +28594,8 @@
         <note xml:id="i-XD9hbuq64PyATuSAM9EzuT" type="speaker">
           Hra Hammarström:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-R6mAxGRfYpqEkHwyxqSXBe" who="unknown">
+          <seg xml:id="i-2z4M1jAJLS5QaTZZzEguBf">
             Emot den ståndpunkt, hvilken jag i mitt föregående andragande
             omfattat, har utom mycket annat, som jag nu icke vill bemöta,
             också anförts, dels att densamma är att förlikna vid en sträjk,
@@ -28640,8 +28663,8 @@
         <note xml:id="i-pNjP9kQc52fNYLXDQps6t" type="speaker">
           Hra Idman:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-EpT3jxotAZagjBk7qdjh3u" who="unknown">
+          <seg xml:id="i-E8StoMb6HnDP7GKhZ3r6KF">
             Niillä syillä, joita hvt Hallberg ja Heikel ovat täällä esittäneet,
             olen minäkin katsonut valiokunnan jäsenenä sekä oikeudekseni että
             velvollisuudekseni ryhtyä käsittelemään nyt kysymyksessä olevaa
@@ -28701,8 +28724,8 @@
         <note xml:id="i-SySoaZ1NXxnLSp7XQsbo3M" type="speaker">
           Hra Ignatius:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-HP5X9HdWdwBVMiPWw1KSX7" who="unknown">
+          <seg xml:id="i-DoiNnkAgHAgZcLGieiChmu">
             Endast under den förutsättning, att hr Hammarström värkligen
             varit fullt öfvertygad om att jag skulle hafva uttalat mig i den
             riktning han sade, endast under denna förutsättning vill jag med
@@ -28739,8 +28762,8 @@
         <note xml:id="i-RFDo45mwnrzK2ijo39B3Sh" type="speaker">
           Hra Sundvall:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-F3S7CDHNcCkTZdTnfoTNJk" who="unknown">
+          <seg xml:id="i-46a1VS7SbbnVDFrPanKhqt">
             Jag har begärt ordet för att pä samma grund som hr Heikel anhålla
             om bordläggning af detta betänkande till i morgon.
           </seg>
@@ -28778,8 +28801,8 @@
         <note xml:id="i-45dmrSRbJVKwsU2UD6zSvb" type="speaker">
           Hra Ignatius:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-G4HnuMrqubDyChdTXQHZxF" who="unknown">
+          <seg xml:id="i-KzVxPao2MLvtE32MCy8C32">
             Jag mäste tillbakavisa hr Janssons pästäende säsom fullkomligt
             grundlöst. Jag har icke kallat hr Jansson och de med honom likatänkande
             till sträjkare. Det bör väl kunna frän det stenografiska ätergifvandet
@@ -28972,8 +28995,8 @@
         <note xml:id="i-Lr3QozTutxbq93qrqR2yaY" type="speaker">
           Hra Heimbärger:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-8f4sQwohzJ7thHRF2Lcx5r" who="unknown">
+          <seg xml:id="i-Ey82eyZJ6ByRPK9Bq29uM1">
             Jag får anhålla om uppgift därom, huruvida hr Jansson anhållit
             om bordläggning pä obestämd tid eller huruledes hans berörda anhällan
             varit formulerad.
@@ -28989,8 +29012,8 @@
         <note xml:id="i-Pv83Ys1eEJPCrcmkVXNNkj" type="speaker">
           Hra Heimbärger:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-JMR1k7JWsS8tYJT9mkgFdr" who="unknown">
+          <seg xml:id="i-MSbgTMVi2eavmXXdN4Ahhc">
             Med anledning af den mig nu meddelade upplysningen anhäller jag
             att fä uttala min osäkerhet därom, huruledes ett ärende, som bordlaggts
             pä sätt hr Jansson föreslagit, skall ånyo till behandling förekomma
@@ -29021,8 +29044,8 @@
         <note xml:id="i-2fPTwF5xeHTqcZD1q6tubd" type="speaker">
           Hra Mikkola:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-RntXGcGB5NwwmrnM2e8Yws" who="unknown">
+          <seg xml:id="i-TpexjDTbVyZG67LyvoHGeA">
             Hra Janssonin täällä tekemä vaatimus tarkoittaa itse asian ratkaisemista.
             Tämä vaatimus tulisi siis olemaan ristiriidassa sen pyynnön kanssa,
             mikä täällä on tehty pöydällepanon puolesta. Ymmärtääkseni hra
@@ -29038,8 +29061,8 @@
         <note xml:id="i-CDJcrjeA6cALHCVZ7hw6th" type="speaker">
           Hra Stählberg:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-7xiaq4rGH1fhu1Ld5chztQ" who="unknown">
+          <seg xml:id="i-HURQGpC9XXinFQcoQzZSGP">
             Hra Janssonin viimeisen lausunnon johdosta pyytäisin huomauttaa,
             että jos hänen tarkoituksensa mukaisesti asian pöydällepano huomispäivää
             tuonnemmaksi hyväksytään, niin vastakkainen mielipide itse asiasta
@@ -29077,8 +29100,8 @@
         <note xml:id="i-3c54ExdDDFnuXDFPkqEv9d" type="speaker">
           Hra Carlström:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-PGqoEAqpcgnmEWCFhqWX7r" who="unknown">
+          <seg xml:id="i-2FMDSHoQ6XNvkzb2VLwazo">
             Jag ber att till protokollet fä göra samma anmälan.
           </seg>
         </u>
@@ -29125,8 +29148,8 @@
         <note xml:id="i-WG2fWZjfmrHqSkq4TqZ7F6" type="speaker">
           Hra Hallberg:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-6RANTVd6YRo5Ass2XoAXHH" who="unknown">
+          <seg xml:id="i-DReFJR38sReksuU9pJjzbK">
             Jag ber att fä förena mig om hr Ohmans förslag, men skulle tro,
             att vidpass en half timme vore till- Tfyllesgörande, hvarför jag
             får föreslå, att ståndet åter måtte sammanträda kl. 12.
@@ -29263,8 +29286,8 @@
         <note xml:id="i-93Y8q7wb1bZ248UrBpcNv6" type="speaker">
           Hra Ignatius:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-UH31F7FYavYz52Nz8WM5Ku" who="unknown">
+          <seg xml:id="i-4nQB6mDeNmimZXrQucx9bT">
             I likhet med de tvänne föregående ärade talarena anser äfven
             jag förordningen om tjänstemäns afsättning och domares skiljande
             från tjänsten vara en af de viktigaste frågor, som uti detta betänkande
@@ -29336,16 +29359,16 @@
         <note xml:id="i-Dtw5xkNdb93aa2yeonfHAM" type="speaker">
           Hra Schvindt:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-R3iwJRPANehb3QLDupprJ5" who="unknown">
+          <seg xml:id="i-TdkizPSygkbitnseBL3Tba">
             Hra Ignatius on jo lausunut sen, mitä minä aioin sanoa.
           </seg>
         </u>
         <note xml:id="i-W2kAKErU7aViQdJutfJ9Xj" type="speaker">
           Hra Öhman:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-DAmjknwbXQK8G37BNWMddS" who="unknown">
+          <seg xml:id="i-Qm5hV9czQNh7JzU2Rghhrp">
             Jag anser mig böra anmäla, att jag, dä frägan angäende sammanjämkningen
             i gär behandlades uti särskilda besvärsutskottet, beträffande
             redigeringen af det stycke, som närmast föregär klämmen, uttalade
@@ -29401,16 +29424,16 @@
         <note xml:id="i-CrzjXMUu6atYxHXmFNASJT" type="speaker">
           Hra Pietinen:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-RUrpRSAmoun43FNGU6Bboc" who="unknown">
+          <seg xml:id="i-U7SNs5tWcb4CBUXjMWtcE3">
             Yhtyen hra Lundeniuksen lausuntoon, pyytäisin minäkin mainita,
             että mielestäni mietintö ei yhteensovituksen kautta ole suinkaan
             parantunut eikä tullut eheämmäksi. Mitä perusteluihin tulee, olisin
             mielelläni nähnyt, että vastalauseesta ei olisi otettu sitä paikkaa,
             joka suomalaisen mietintön 3:nnella sivulla alkaa sanoilla: &gt;Koska
-            Venäjän keisari myös on Suomen suuriruhtinas —&gt;. Ne kohdat kai
-            olivat selvät muutenkin. Lisäksi pyytäisin vielä mainita, että
-            se kohta, josta hra Ignatius huomautti, olisi yhteensovituksessa
+            Venäjän keisari myös on Suomen suuriruhtinas —&gt;. Ne kohdat
+            kai olivat selvät muutenkin. Lisäksi pyytäisin vielä mainita,
+            että se kohta, josta hra Ignatius huomautti, olisi yhteensovituksessa
             myöskin ollut pysytettävä.
           </seg>
         </u>
@@ -29495,8 +29518,8 @@
         <note xml:id="i-JsUoW7YqxBr6nv7AVeokbP" type="speaker">
           Hra Ståhlberg:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-Df12NNYH6wb1gcCQ5pLErV" who="unknown">
+          <seg xml:id="i-TutrbDikX6mQ1zHAk3WQkx">
             Esillä olevain mietintöjen hyväksymistä on vastustettu sillä,
             että säädyllä ei olisi perustuslaillista oikeutta nyt asiaa käsitellä
             ja siitä päättää. Pyydän saada esiintuoda ne syyt, joiden nojalla
@@ -29609,13 +29632,14 @@
           Asiain kerrotulla kannalla ollen on nykyisin valtiopäivätyöstä
           pidättäytymiseen tarjona ainoastaan ne lailliset tilaisuudet,
           jotka V. J. osottaa, nimittäin ensiksi se, joka mainitaan V. J:n
-          17 &amp;:ssä. Tässä nimeenomaan teroitetaan, ettei se, joka on valtiopäivämieheksi
-          valittu, saa syyttä kieltäytyä tästä toimesta, ja sitten erityisesti
-          säädetään: »valtiopäiväin aikana älköön valtiopäivämies poissanoutuko
-          toimestaan, ellei hän näytä sellaista estettä, jonka se sääty
-          hyväksyy, johon hän kuuluu». Toinen tapaus on mainittu V. J:n
-          5 &amp;:ssä, joka sisältää, että &gt;valtiopäivät lopetettakoot myös
-          ennen neljän kuukauden kuluttua, jos kaikki säädyt sitä pyytävät».
+          17 &amp;:ssä. Tässä nimeenomaan teroitetaan, ettei se, joka on
+          valtiopäivämieheksi valittu, saa syyttä kieltäytyä tästä toimesta,
+          ja sitten erityisesti säädetään: »valtiopäiväin aikana älköön
+          valtiopäivämies poissanoutuko toimestaan, ellei hän näytä sellaista
+          estettä, jonka se sääty hyväksyy, johon hän kuuluu». Toinen tapaus
+          on mainittu V. J:n 5 &amp;:ssä, joka sisältää, että &gt;valtiopäivät
+          lopetettakoot myös ennen neljän kuukauden kuluttua, jos kaikki
+          säädyt sitä pyytävät».
         </note>
         <pb facs="https://swerik-project.github.io/valtiopaivat-records-pdf/1904-1905/ptk_1904-1905_porvaristo_I/ptk_1904-1905_porvaristo_I-0498"/>
         <note xml:id="i-TXSAQARj8ctzbKgBvEjuXq">
@@ -29729,8 +29753,8 @@
         <note xml:id="i-4DbC8FyPkp6vbTuBPs2SAt" type="speaker">
           Hra Sumelius:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-HkJN2iucJPeQpZX5yUPnAb" who="unknown">
+          <seg xml:id="i-9r89AJnTspw5D62MvMpL4K">
             Det har upprepade gånger framhållits i detta ständ, att de nödiga
             förutsättningarna för ett normalt landtdagsarbete icke äro förhanden.
             Anslutande mig till de i konsekvens härmed varande uttalanden
@@ -29774,8 +29798,8 @@
         <note xml:id="i-2zwXFsAVwXQVo53ykmFirL" type="speaker">
           Hra Pietinen:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-35efDkF7LnLVW6K9vNQQq4" who="unknown">
+          <seg xml:id="i-51ZNT2CZ5PpFuPJqGM6z2j">
             Kun minä eilen käyttäessäni puheenvuoroa tässä asiassa asetuin
             kysyvälle kannalle siihen nähden, olisiko säädyn nyt jo oltava
             valmis ryhtymään niin vakavaan ja päättävään valtiopäivätyöhön,
@@ -29803,8 +29827,8 @@
         <note xml:id="i-865doya1si6EpF2keG8QYC" type="speaker">
           Hra Mikkola:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-CbtjCncQ1AMF4Jf2um3DjX" who="unknown">
+          <seg xml:id="i-CWCRZLDuzW6HPrwZoCRj1c">
             Pyydän vain lyhyesti ilmoittaa, että, mitä siihen oikeudelliseen
             näkökantaan tulee, jonka suhteen erimielisyyttä on ilmaantunut,
             minun täytyy puolestani liittyä hra Stählbergin
@@ -29843,8 +29867,8 @@
         <note xml:id="i-RCzMzvR83jf3YW95AU6s1D" type="speaker">
           Hra Ansas:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-GNQ3ckVEGddzi4bJNa5UaL" who="unknown">
+          <seg xml:id="i-69in3h86BQaQJ2e753NvM9">
             Minä pyydän tässä asiassa kaikin puolin yhtyä niihin perusteluihin,
             jotka on esiintuonut hra Fredrik Jansson, ja niihin loppupäätelmiin,
             joihin hra Hallberg on tullut. Tämä kyllä ei ole puhdasta logiikkaa,
@@ -29864,8 +29888,8 @@
         <note xml:id="i-K4k5oeZay621ai4jFg4yGW" type="speaker">
           Hra Lundenius:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-2o4LRR2wEJT55mFyDs4XNp" who="unknown">
+          <seg xml:id="i-2ZdzPeS19gDuYDuPVhgUpr">
             Dä regeringsproposition om provisionell bevillning nu föreligger
             till slutlig behandling, kan jag icke se saken frän annan synpunkt,
             än att, dä ständerna stä i beräd att vända sig till monarken med
@@ -29906,8 +29930,8 @@
         <note xml:id="i-4d5qhyypVUhC71QJsawBAM" type="speaker">
           Hra Öhman:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-HneftQ77PcR5zHDhWwihce" who="unknown">
+          <seg xml:id="i-5T8gk9eYMQFGyZH6G6qGyK">
             Framhällande, att jag på skäl, som finnas upptagna i bevillnings-
             och statsutskottets betänkanden, jämte de, hvilka här förliden
             gårdag af hr Felix Heikel utvecklats, anslutit mig till den åsikten,
@@ -29928,8 +29952,8 @@
         <note xml:id="i-MHEr7xuaqksMpbfhAUdtbR" type="speaker">
           Hra Clouberg:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-QmrVCgr7tBAmH9f5nzhfXx" who="unknown">
+          <seg xml:id="i-T1YbZVu7fzHYfihD9PRoMF">
             För min del ansluter jag mig utan något betänkande till dem,
             som i enlighet med bevillnings- och statsutskottens betänkanden
             hålla före, att ett provisorium för bevillningen från nästa års
@@ -29977,11 +30001,11 @@
           med de rättssynpunkter, som andra följt. Jag vill härmed förklara,
           att enligt min uppfattning det är förkastligt om en enskild person
           uti sina enskilda göranden och lätanden följer rena utilitetssynpunkter
-          i sitt personliga intresse, men dä man talar och handlar &amp; landets
-          vägnar, sä är man skyldig att följa utilitetssynpunkter, d. v.
-          s. sådana synpunkter, som äro gagneliga för landet. För min del
-          har jag alltid följt som norm den gamla romarregeln » Videant
-          consules ne quid detrimenti respublica capiat»: »Mä konsulerna
+          i sitt personliga intresse, men dä man talar och handlar &amp;
+          landets vägnar, sä är man skyldig att följa utilitetssynpunkter,
+          d. v. s. sådana synpunkter, som äro gagneliga för landet. För
+          min del har jag alltid följt som norm den gamla romarregeln »
+          Videant consules ne quid detrimenti respublica capiat»: »Mä konsulerna
           se till, att staten icke lider någon skada.» Fosterlandets väl
           är den utilitetssynpunkt jag alltid följt och jag är öfvertygad
           om, att hvarje medlem af detta ständ likaledes ställer denna utilitetssynpunkt
@@ -30184,8 +30208,8 @@
         <note xml:id="i-AodoaQe1wvqkyesQFKcHtZ" type="speaker">
           Hra Stenström:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-6GpyXwBckKg8ctSuUGHXof" who="unknown">
+          <seg xml:id="i-CeQQ11ihMWEt6G417BGiHA">
             Då jag har omfattat den af kr Jansson under diskussionen uttalade
             uppfattningen beträffande detta ärendes behandling, ber äfven
             jag att få till ståndets protokoll göra enahanda anmälan som den
@@ -30195,8 +30219,8 @@
         <note xml:id="i-9dfyaph6e6UppNbjHT88dB" type="speaker">
           Hra Lundson:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-Zd3KYw54JBF74H2VsE7cb" who="unknown">
+          <seg xml:id="i-HmLYANqougsh1bdTNPo7Pp">
             Niinikään minä pyydän pöytäkirjaan merkittäväksi vastalauseeni,
             ja kun en katso olevani ilman säädyn päätöstä oikeutettu luopumaan
             ottamasta osaa tämän asian enempään käsittelyyn, pyydän säädyn
@@ -30206,8 +30230,8 @@
         <note xml:id="i-4RrVXWfRbLepx8KpFgD3Lr" type="speaker">
           Hra Savön:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-FxL8Nqch6hGrhGy8at3Gi4" who="unknown">
+          <seg xml:id="i-RRQoAdWhQYZ2Y4NbSYWnso">
             Jag ber att få till protokollet antecknadt, att jag icke med
             min röst bidragit till det beslut borgareständet nyss fattat.
           </seg>
@@ -30215,16 +30239,16 @@
         <note xml:id="i-V7pgLjHptnXwMwpRQqdQm3" type="speaker">
           Hra Carlström:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-DcqXa7P263UQjkVNNTYuz3" who="unknown">
+          <seg xml:id="i-YUUSgsBovNiGhRiHyifgYG">
             Jag ber att fä göra enahanda anmälan som den af hr Jansson framställda.
           </seg>
         </u>
         <note xml:id="i-WLA8usLVdXEqCTNDYTCTNZ" type="speaker">
           Hra Labbart:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-8jyNfo25rxVR3DWN2amBZh" who="unknown">
+          <seg xml:id="i-KTTegeiGXS1kVspNvHXy9B">
             Jag ber att få till protokollet antecknadt, att jag ansluter
             mig till hr Janssons reservation. Därjämte anhäller äfven jag
             om befrielse frän vidare deltagande i handläggningen af detta
@@ -30234,8 +30258,8 @@
         <note xml:id="i-BAByPBSavvF1juyyXqyg2Q" type="speaker">
           Hra Holmberg:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-ETuqV5LZRBkVbhx7uhsdFj" who="unknown">
+          <seg xml:id="i-6ywEta4gBGGekARhNK6rFE">
             Äfven jag ber att få till protokollet antecknadt, att jag icke
             bidragit till det beslut, som nu fattats af borgareståndet. Tillika
             ville jag anmäla, att jag icke vidare kan deltaga i behandlingen
@@ -30250,8 +30274,8 @@
         <note xml:id="i-NN22i5M9tMDhPQf79TCdXp" type="speaker">
           Hra Renlund:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-JDyU4dAyzgKeh1BSkkVHGJ" who="unknown">
+          <seg xml:id="i-XaAUpPfx7D3eNXoEiJh414">
             Jag ber att fä till protokollet anmäla, att jag med min röst
             icke bidragit till borgareständets beslut.
           </seg>
@@ -30269,8 +30293,8 @@
         <note xml:id="i-5FsjRFckyQ4vVVHj9HwHKL" type="speaker">
           Hra Lundson:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-BL6TtzotYNwvDzBJFB5ovE" who="unknown">
+          <seg xml:id="i-CduEgKz8RCjBKUbLXgFBuh">
             Minä olen käsittänyt asian niin, että kieltäytyminen ottamasta
             osaa äänestykesen on sama kuin kieltäytyminen valtiopäivämiestoimesta,
             ja kun se seikka on kunkin säädyn päätettävissä, olen alistanut
@@ -30280,8 +30304,8 @@
         <note xml:id="i-ECyDnvty6RQotNwgueSrF3" type="speaker">
           Hra Ignatius:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-XQx92kYLxrVDUu4Uq6n5jA" who="unknown">
+          <seg xml:id="i-PJ7fhkSeF6XEse3F2g9UBy">
             Jag respekterar till fullo de skäl, som föranledt hr Lundson
             att framställa till ständet en anhällan i det syfte han gjort,
             men jag tror för min del, att det icke är absolut nödigt för ständet
@@ -30300,8 +30324,8 @@
         <note xml:id="i-PQjqDxpV195M116vyJ1hke" type="speaker">
           Hra Lundson:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-VQxEcBaARKDJSrtGwyU7D9" who="unknown">
+          <seg xml:id="i-Wm2NfCnkswHnRtaBrfj55p">
             Jos saan omaksua hra Ignatiuksen mielipiteen, niin luovun vaatimasta
             säädyn lausuntoa.
           </seg>
@@ -30348,8 +30372,8 @@
         <note xml:id="i-RS7RD5VsdEiSfgiKcWKc4j" type="speaker">
           Hra Spoof:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-5Cjh2iWs7fjLVryKwKPLZm" who="unknown">
+          <seg xml:id="i-3XJkmswBztGPY6qWZUZUaW">
             Sen johdosta, mitä täällä edelliset arvoisat puhujat ovat lausuneet,
             pyydän minäkin, vaikka ensikertalaisena, saada lausua, että minusta
             tuntuu vähän oudolta, että säädyn jäsen, joka joutuu vähemmistöön,
@@ -30366,8 +30390,8 @@
         <note xml:id="i-S81XoqNxwrPgr4BzgdYXPa" type="speaker">
           Hra Söderholm:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-AhCPtEBgotu4F8kS8zuxrY" who="unknown">
+          <seg xml:id="i-7v6n7tRoVV38siGSPaiQRj">
             Med anledning af hr John Dahlströms andragande ber jag att fä
             framhälla, att enligt min tanke de stadganden, som gälla för myndigheter
             med kollegialt förhandlingssätt, icke äro tillämpbara i fråga
@@ -30413,8 +30437,8 @@
         <note xml:id="i-J9PQqa7hNscFY7HaCV9txu" type="speaker">
           Hra Hammarström:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-87QkSVArgLLgxvqDPQptLP" who="unknown">
+          <seg xml:id="i-HZjGPaXyoKFf9uoUndQYCZ">
             Jag ber att endast med några ord fä fullständiga mitt yttrande
             i denna sak vid senaste plenum. Af samtliga de argument, hvilka
             blifvit anförda dels i Siskussionen, dels i bevillningsutskottets
@@ -30451,8 +30475,8 @@
         <note xml:id="i-AmirpkZZcYUHh5SLrsw8YH" type="speaker">
           Hra Sundvall:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-YD7WhgbkQ1sZBPvTvkmWYg" who="unknown">
+          <seg xml:id="i-7wZJ8i39Q3YwtUTfueph59">
             Då jag icke kan finna, att det skulle lända vårt nyss fattade
             beslut om en petition angående den lagliga ordningens återställande
             i landet till den minsta styrka att endast på halft år medgifva
@@ -30474,8 +30498,8 @@
         <note xml:id="i-WNoLUC9BXtokASGoitfNUh" type="speaker">
           Hra Idman:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-TD5Jt2BQzCLVaHjUAVWdFB" who="unknown">
+          <seg xml:id="i-VAPXh1amB6j3mMUrjNQ53R">
             Niillä syillä, jotka eilen toin esiin, katson olleeni oikeutettu
             yhtymään vastalauseesen, jossa suostuntaprovisoorio ehdotetaan
             myönnettäväksi kuudeksi kuukaudeksi. Pyydän nyt kuitenkin kannattaa
@@ -30558,8 +30582,8 @@
         <note xml:id="i-VPDzUjK8DKooDo2bEPJvw" type="speaker">
           Hra Lundenius:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-S4q4dBUqLM9a3TVRwHjE1r" who="unknown">
+          <seg xml:id="i-WRH712Pm3W2gv5BDfSmQfw">
             Jämte det jag ansluter mig till hr Ohmans nu framställda förslag,
             ifrågasätter jag, om ej äfven första klämmen å sida 14 i statsutskottets
             betänkande borde i anledning af ständets i sista voteringen fattade
@@ -30570,8 +30594,8 @@
         <note xml:id="i-QuRgo8HC3N3add1umecoXG" type="speaker">
           Hra Öhman:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-F59BrNQM5pRCowsoQZVLHV" who="unknown">
+          <seg xml:id="i-N5zUSTKHke84PFbYHty93P">
             Jag vill icke bestrida, att det af hr Lundenius gjorda förslaget
             jämväl kunde vara en konsekvens af det af borgareständet fattade
             beslutet, men för min del kan jag dock icke finna en sädan förändring
@@ -30588,8 +30612,8 @@
         <note xml:id="i-DNRg9vLmJFtFW4tWCvCGT3" type="speaker">
           Hra Lundenius:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-GnsxVkiMKeJVkAZW2MnqMR" who="unknown">
+          <seg xml:id="i-QgQTye5ZvmFJny36umQxkX">
             Pä grund af hr Öhmans sista uttalande ber jag att fä frängä mitt
             förslag.
           </seg>
@@ -30726,12 +30750,12 @@
           svårigheter tilläfventyrs kunna från gendarmeriets sida göras
           gällande gentemot andra medlemmar af ständerförsamlingen, anser
           jag mig böra påkalla det skydd af ständernas frioch rättigheter,
-          som jämlikt den i &amp; 24 L. O. ingående och af ständens talmän aflaggda
-          ed ankommer pä dessa talmäns ätgärd. Jag fär förty för vällofliga
-          borgareständet föreslä, att ständet ville besluta uppdraga ät
-          sin talman att, såsom jag vill hoppas, gemensamt med andra ständs
-          talmän göra framställning hos vederbörande om det förefallna under
-          päyrkande, att behörig åtgärd blefve vidtagen till undanrödjande
+          som jämlikt den i &amp; 24 L. O. ingående och af ständens talmän
+          aflaggda ed ankommer pä dessa talmäns ätgärd. Jag fär förty för
+          vällofliga borgareständet föreslä, att ständet ville besluta uppdraga
+          ät sin talman att, såsom jag vill hoppas, gemensamt med andra
+          ständs talmän göra framställning hos vederbörande om det förefallna
+          under päyrkande, att behörig åtgärd blefve vidtagen till undanrödjande
           för framtiden af slika ingrepp i ständernas fri- och rättigheter,
           hvarjämte jag fär föreslä, att ständet ville, med omfattande af
           min ofvangjorda framställning, besluta att omedelbart genom en
@@ -30787,8 +30811,8 @@
         <note xml:id="i-39MGW9jT2yRNXr82h2Swff" type="speaker">
           Hra Ignatius:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-QP5T5pci8opTbzdPoV9Tir" who="unknown">
+          <seg xml:id="i-92K51VncLDYzRAzGRC1ZKH">
             Jag ber få understöda hr Lundenius. 1 anseende till den längt
             framskridna tiden torde det vara det enda praktiska sätt, som
             kan komma till användning.
@@ -30797,8 +30821,8 @@
         <note xml:id="i-N3Y43yvEPY3tb2FXYTPmJ8" type="speaker">
           Hra Renvall:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-9vX5tXymgyi1riKJArxeJN" who="unknown">
+          <seg xml:id="i-B8RZmE8Y719rcdMtoyDAkA">
             Pyydän saada kannattaa hra Janssonin tekemää ehdotusta. Ajan
             voittamiseksi olisi mielestäni asia sillä tavoin suoritettava.
           </seg>
@@ -30806,8 +30830,8 @@
         <note xml:id="i-W7pSNXLZ9n4cEiNaiymA9V" type="speaker">
           Hra Spoof:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-KogvT2V1C8rczURsAtg1qQ" who="unknown">
+          <seg xml:id="i-XUPSvxHaMRwSSPxycdgrtV">
             Niinikään minä pyydän saada kannattaa hra Janssonin alkuperäistä
             ehdotusta.
           </seg>
@@ -31086,8 +31110,8 @@
         <note xml:id="i-5xtemo9PqMTQwGUiEMaNym" type="speaker">
           Hra Öhman:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-XT8CdgYeK4DHWWh1C4PTAY" who="unknown">
+          <seg xml:id="i-LaDi8MN5BsQ8JJVEGHY9Rg">
             Med anledning af talmanskonferensens förslag har bondeståndet
             allaredan beslutit godkänna, att ferierna skulle vara intill den
             24 instundande januari. Jag tilläter mig föreslä, att borgareständet
@@ -31112,8 +31136,8 @@
         <note xml:id="i-Thq3reGbGWiCmF5pSaM677" type="speaker">
           Hra Hammarström:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-EG9bDGhg34hkKrc344Ycn7" who="unknown">
+          <seg xml:id="i-NLTmfkEedhYjCQRvAbPTy3">
             Under samma förutsättning som hr Dahlström ber också jag att
             få förena mig om hr Renvalls förslag.
           </seg>
@@ -31125,8 +31149,8 @@
         <note xml:id="i-MJ38V4ViFYdXVKXXduoTkw" type="speaker">
           Hra Renvall:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-XXDjSrsYDaVrQTpdPixVZ8" who="unknown">
+          <seg xml:id="i-RwDpzAYsCB7nJcurNAgB5e">
             Jos enemmistö voitaisiin saavuttaa ehdotukselleni, ei minulla
             ole mitään vastaan, että ajan lyhennän tammikuun 24 päiväksi,
             vaikka, sen verran kuin olen saanut tietää, se aika on liian lyhyt
@@ -31209,8 +31233,8 @@
         <note xml:id="i-D6iE7Fq6aroERN4riMxzQg" type="speaker">
           Hra Holmberg:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-U78EmVQxvccrPNRpFH4vHB" who="unknown">
+          <seg xml:id="i-4om99dmtbbHjZdeeuXkniV">
             Jag ber endast fä anmäla till protokollet, att jag biträdt den
             af hr Jansson uttalade äsikten.
           </seg>
@@ -31262,8 +31286,8 @@
         <note xml:id="i-NPgC2JzXF4Z7kLZQATJdNk" type="speaker">
           Hra Savön:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-NeSVghxuLCfFdC1j11TNLs" who="unknown">
+          <seg xml:id="i-KeYZJguLWL78Tp2r2iHk1H">
             Då hr Janssons åsikt, hvilken äfven jag omfattat, icke fått komma
             under omröstning, ber jag få till protokollet antecknadt, att
             jag på denna grund icke kunnat i omröstningen deltaga.
@@ -31272,8 +31296,8 @@
         <note xml:id="i-3bGuca7HJ9dZLJvNrHHAGV" type="speaker">
           Hra Carlström:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-UZ8SAgY4NWgTHzuKmqhqtW" who="unknown">
+          <seg xml:id="i-Rqe7bDNxovGUQ88D2pQu5x">
             Jag ber få meddela, att jag omfattat den + åsikt hr Jansson företrädt
             och icke deltagit i omröstningen.
           </seg>
@@ -31281,8 +31305,8 @@
         <note xml:id="i-Qg1RBUANQAfbrFU6Xv9VeN" type="speaker">
           Hra Labbart:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-AXG7fEsaLR8732gJ81FaTE" who="unknown">
+          <seg xml:id="i-6MPfPankgw83iN4qNFv7Qo">
             Äfven jag ber få till protokollet antecknadt, att jag anslutit
             mig till hr Janssons reservation och pä denna. grund icke deltagit
             i omröstningen.
@@ -31291,8 +31315,8 @@
         <note xml:id="i-2LqE7AxbTVnvhhW6UTYB7j" type="speaker">
           Hra Holmberg:
         </note>
-        <u who="unknown">
-          <seg>
+        <u xml:id="i-CZrtQH5yPcm79msDuM2UaB" who="unknown">
+          <seg xml:id="i-3p28gTxpHz3ewAo1m7mmg9">
             Jag ber få göra samma anmälan, nämligen att jag icke deltagit
             i omröstningen.
           </seg>
