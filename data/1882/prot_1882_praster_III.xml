@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="prot_1882_praster_III">
   <teiHeader>
     <fileDesc>
@@ -51,7 +51,7 @@
         <note xml:id="i-8PNhiWktbaQzrifdRDYTaa" xml:lang="sv">
           FRÅN DEN 16 MAJ TILL LANDTDAGENS SLUT.
         </note>
-        <note xml:id="i-8PixtaUoP6ydvBbkFuH5k1" type="speaker" xml:lang="sv ">
+        <note xml:id="i-8PixtaUoP6ydvBbkFuH5k1" xml:lang="sv " type="speaker">
           HELSINGFORS 1905
         </note>
         <note xml:id="i-8hhyMLACvFbQSYugQFr9iV" xml:lang="sv ">
@@ -263,7 +263,7 @@
           underhåll samt pensionering af den vid dessa skolor anstälda lärarepersonal,
           och yttrade sig med anledning häraf följande talare:
         </note>
-        <note xml:id="i-7Q7bFpazz7T2zMkq15qHE3" type="speaker" xml:lang="sv">
+        <note xml:id="i-7Q7bFpazz7T2zMkq15qHE3" xml:lang="sv" type="speaker">
           Professor Donner:
         </note>
         <u xml:id="i-Uxex9GPB24MW3qYzByxr5Y" who="i-XbAQtPkdSaTdnLcpdJrmsg">
@@ -496,7 +496,7 @@
           joista ei tiedä, mistä ne tulevat ja mihin ne menevät, ja jotka
           ehkä luutivat pois hengen koko kansakoulusta. (Hyvä !)
         </note>
-        <note xml:id="i-FLj6pdAPaquarv9uQtYpwT" type="speaker" xml:lang="sv">
+        <note xml:id="i-FLj6pdAPaquarv9uQtYpwT" xml:lang="sv" type="speaker">
           Fältprosten Petterson:
         </note>
         <u xml:id="i-XEkMWT9QKqH1t797HvPu5m" who="i-NpQ4pik31NjbjFQK1eTY2D">
@@ -592,7 +592,7 @@
           att det högvördiga Ständet i detta afseende ville förkasta utskottets
           betänkande.
         </note>
-        <note xml:id="i-BHec65ikPJV3rbBKyTnUAZ" type="speaker" xml:lang="fi">
+        <note xml:id="i-BHec65ikPJV3rbBKyTnUAZ" xml:lang="fi" type="speaker">
           Prosten Johnsson:
         </note>
         <u xml:id="i-TbYvyWNdDjf9L1gmMrVqV6" who="i-QVrcwFYjcxwn93KdWmPBk3">
@@ -658,7 +658,7 @@
           että säädyiltä otettaisiin oikeus lausua sanansa sitä koskevissa
           asioissa.
         </note>
-        <note xml:id="i-GWfWjFrZ6C5pHYvCnxiJC9" type="speaker" xml:lang="sv">
+        <note xml:id="i-GWfWjFrZ6C5pHYvCnxiJC9" xml:lang="sv" type="speaker">
           Professor Cleve:
         </note>
         <u xml:id="i-HscC9YRNiyrTcvZFkZQSvu" who="i-HfEbbpVpEUS7EMymsy7tc6">
@@ -775,7 +775,7 @@
           som redan äro framhällna och som grunda sig derpä, att icke folket
           och ej heller dess representanter böra skjuta folkskolorna å sido.
         </note>
-        <note xml:id="i-8aLtwggR1ADNXtZeRSJEEe" type="speaker" xml:lang="sv">
+        <note xml:id="i-8aLtwggR1ADNXtZeRSJEEe" xml:lang="sv" type="speaker">
           Prosten Hjelt:
         </note>
         <u xml:id="i-ANfm3GDGSrYuVdZjZtbJ2w" who="i-FfVRGMNn5KRqwAWb2KstnH">
@@ -854,7 +854,7 @@
           begge punkter godkännas och tror att utskottet löst frägan pä
           det bästa sättet.
         </note>
-        <note xml:id="i-6jnczb5duedxmLwS3iYsrB" type="speaker" xml:lang="sv">
+        <note xml:id="i-6jnczb5duedxmLwS3iYsrB" xml:lang="sv" type="speaker">
           Kyrkoherden Lyra:
         </note>
         <u xml:id="i-8RhDnQ2o2tqygdQ5pVUxKA" who="i-Qnp6pqgLniPF2sFKE6V5wi">
@@ -1004,7 +1004,7 @@
           tulee, johon minäkin olen yhdistynyt, niin minä olen varma, että
           provasti Johnsson itse paremmin, kuin minä puolustaa vastalausettansa.
         </note>
-        <note xml:id="i-TxhP74NQdfZMPQwZ1tmp5G" type="speaker" xml:lang="fi">
+        <note xml:id="i-TxhP74NQdfZMPQwZ1tmp5G" xml:lang="fi" type="speaker">
           Prosten Johnsson:
         </note>
         <u xml:id="i-UPi6qhgSYnXtNKxouRD6Wn" who="i-QVrcwFYjcxwn93KdWmPBk3">
@@ -1038,7 +1038,7 @@
           niin, etteivät mitkään keskinäiset riitaisuudet masentaisi asian
           harrastamista.
         </note>
-        <note xml:id="i-4214ijDyENqQgiDuKcd63E" type="speaker" xml:lang="sv">
+        <note xml:id="i-4214ijDyENqQgiDuKcd63E" xml:lang="sv" type="speaker">
           Ofverläraren Kihlman:
         </note>
         <u xml:id="i-4YBwcj1HWLvm3c39cggNUR" who="i-34gigkRr2uXshwGmQ4qktb">
@@ -1208,7 +1208,7 @@
           tarvitsisi, tuntisivat ja tietäisivät ne vaikeudet, mitä opettajalla
           toimessaan on.
         </note>
-        <note xml:id="i-Pfjgn1CCNEPB59ra4sVmTT" type="speaker" xml:lang="sv">
+        <note xml:id="i-Pfjgn1CCNEPB59ra4sVmTT" xml:lang="sv" type="speaker">
           Kyrkoherden Lyra:
         </note>
         <u xml:id="i-3HTV3yGTGmv4Mts8FDmZb9" who="i-Qnp6pqgLniPF2sFKE6V5wi">
@@ -1265,7 +1265,7 @@
           finnes i 1866 ärs författning, är nödvändig för folkskoleväsendets
           i värt land uppblomstring.
         </note>
-        <note xml:id="i-KWAZPXW4RCieaLyqCE3agx" type="speaker" xml:lang="sv">
+        <note xml:id="i-KWAZPXW4RCieaLyqCE3agx" xml:lang="sv" type="speaker">
           Prosten Fredriksson:
         </note>
         <u xml:id="i-MFcMZYhhcvqEEGQhfzhb6K" who="unknown">
@@ -1308,7 +1308,7 @@
           delar i allo utskottets åsigt, att förordningen af den 13 mars
           1873 är en för folkskolornas utveckling i vårt land menlig författning.
         </note>
-        <note xml:id="i-RfzuRcuCHaEFExC13t4J65" type="speaker" xml:lang="sv">
+        <note xml:id="i-RfzuRcuCHaEFExC13t4J65" xml:lang="sv" type="speaker">
           Doktor Granfelt:
         </note>
         <u xml:id="i-Xk5uMtfKMcf7Dta9SFoW5R" who="i-HPjHzSRBVZu5dgj2E8rwgi">
@@ -1356,7 +1356,7 @@
             är 1866.
           </seg>
         </u>
-        <note xml:id="i-PoTqvR9hoYBRYaHXjUYNqu" type="speaker" xml:lang="sv">
+        <note xml:id="i-PoTqvR9hoYBRYaHXjUYNqu" xml:lang="sv" type="speaker">
           Prosten Hjelt:
         </note>
         <u xml:id="i-WSZHRhkVZHjLZhKQzwYsNs" who="i-FfVRGMNn5KRqwAWb2KstnH">
@@ -1385,7 +1385,7 @@
           till landtdag sälänge Ständerna anse densamma vara nödvändig till
           fyllande af statens behof.
         </note>
-        <note xml:id="i-5bnAh762vgwNWKsprNJ74t" type="speaker" xml:lang="sv">
+        <note xml:id="i-5bnAh762vgwNWKsprNJ74t" xml:lang="sv" type="speaker">
           Kyrkoherden Hirvinen:
         </note>
         <u xml:id="i-Lw8myJLopfWEmBwzRnXMkG" who="i-D2g5wWQiqw9p79PhuHGzim">
@@ -1491,7 +1491,7 @@
           sieltä tulee ja jolta on vaikea päästä takaisin. Parempi pyy pivossa,
           kuin kaksi oksalla.
         </note>
-        <note xml:id="i-QByDGF9z4gtgJrnQSZKSey" type="speaker" xml:lang="sv">
+        <note xml:id="i-QByDGF9z4gtgJrnQSZKSey" xml:lang="sv" type="speaker">
           Kyrkoherden Lyra:
         </note>
         <u xml:id="i-9cmRzuaxeaZTYkATQ2d7M1" who="i-Qnp6pqgLniPF2sFKE6V5wi">
@@ -1520,7 +1520,7 @@
             och folkskolestadgarne träda i gällande kraft.
           </seg>
         </u>
-        <note xml:id="i-4Ffo3aB72K2vTmZZMGPX3k" type="speaker" xml:lang="sv">
+        <note xml:id="i-4Ffo3aB72K2vTmZZMGPX3k" xml:lang="sv" type="speaker">
           Professor Cleve:
         </note>
         <u xml:id="i-SHjw41FAYSJNVg9s2pP4Lo" who="i-HfEbbpVpEUS7EMymsy7tc6">
@@ -1595,7 +1595,7 @@
           siitä, onko kouluylihallituksella oikeutta vapauttaa ketään sitoumuksesta,
           jonka he ovat tehneet.
         </note>
-        <note xml:id="i-2DpBKmiz5sDmYnZdFtbZRs" type="speaker" xml:lang="sv">
+        <note xml:id="i-2DpBKmiz5sDmYnZdFtbZRs" xml:lang="sv" type="speaker">
           Doktor Lindelöf:
         </note>
         <u xml:id="i-Tjgmb6mU4mcPwz7PDCThcB" who="i-8f5tRtT5D15j7HTFKPzTBC">
@@ -1674,7 +1674,7 @@
           erfarenheten visat, att den har varit till hinder för folkskoleväsendets
           utveckling.
         </note>
-        <note xml:id="i-TrXtKxFdoLMb4xG1jeagPA" type="speaker" xml:lang="sv">
+        <note xml:id="i-TrXtKxFdoLMb4xG1jeagPA" xml:lang="sv" type="speaker">
           Öfverläraren Kihlman:
         </note>
         <u xml:id="i-Hfu1aDJghR4fKA8qgNZZBR" who="i-34gigkRr2uXshwGmQ4qktb">
@@ -2143,7 +2143,7 @@
           14 beslut hunnit fattas angående 5:te afdelningen deri, hvilken
           med förstnämnda betänkande eger närmaste sammanhang.
         </note>
-        <note xml:id="i-ADPqzeYNtmucE6vrE2AazL" type="speaker" xml:lang="sv">
+        <note xml:id="i-ADPqzeYNtmucE6vrE2AazL" xml:lang="sv" type="speaker">
           Härvid anmäldes och inträdde, pä öfligt sätt beledsagad, en deputation
           frän Borgareständet under anförande af herr Ohberg, som yttrade:
         </note>
@@ -2231,7 +2231,7 @@
           byggnader och någon hemställan till Ständerna i detta afseende
           ännu icke egt rum.
         </note>
-        <note xml:id="i-QrsRWbbxzAqs8gaQZ5d3M" type="speaker" xml:lang="sv">
+        <note xml:id="i-QrsRWbbxzAqs8gaQZ5d3M" xml:lang="sv" type="speaker">
           Prosten Hjelt:
         </note>
         <u xml:id="i-7XHzp7X7zevp5EJfRkzxyz" who="i-FfVRGMNn5KRqwAWb2KstnH">
@@ -2255,7 +2255,7 @@
         <note xml:id="i-TSBZvrQkKVs8oBVGeJYDGX" xml:lang="sv">
           1298 Presteståndet 1882. 16 maj.
         </note>
-        <note xml:id="i-zP2W9hznFD6LyUxzk1Xc5" type="speaker" xml:lang="sv">
+        <note xml:id="i-zP2W9hznFD6LyUxzk1Xc5" xml:lang="sv" type="speaker">
           Öfverläraren Kihlman:
         </note>
         <u xml:id="i-HjE5hL1hkBCQYDFz5DTR7v" who="i-34gigkRr2uXshwGmQ4qktb">
@@ -2335,7 +2335,7 @@
           kielimuutosta varten ehdotettu rahasumma on minun mielestäni ihan
           riittämätön.
         </note>
-        <note xml:id="i-W6qNruZxSYeedE4Vuwf3d7" type="speaker" xml:lang="sv">
+        <note xml:id="i-W6qNruZxSYeedE4Vuwf3d7" xml:lang="sv" type="speaker">
           Vice Pastor Lilius:
         </note>
         <u xml:id="i-TpM2Z9XnDKNdXHLzbrW6Pi" who="i-CM2N1ripkWqmSaCMrmMPMn">
@@ -2425,7 +2425,7 @@
           detta nyttiga arbete, som ovilkorligen i en framtid kommer att
           blifva välgörande.
         </note>
-        <note xml:id="i-2VHAJMTNF1ECs93Zj7TF9Z" type="speaker" xml:lang="sv">
+        <note xml:id="i-2VHAJMTNF1ECs93Zj7TF9Z" xml:lang="sv" type="speaker">
           Prosten Hjelt:
         </note>
         <u xml:id="i-BXqobSoQXx9yFt155GnXoS" who="i-FfVRGMNn5KRqwAWb2KstnH">
@@ -2453,7 +2453,7 @@
         <note xml:id="i-7gUm2g3GVUQdgZ7b8mtcoG" xml:lang="sv">
           Kirkkoherra Järvinen yhdistyi pastori Liliuksen lausuntoon.
         </note>
-        <note xml:id="i-8gRTxuGaNBwTP7FVFvz3bq" type="speaker" xml:lang="sv">
+        <note xml:id="i-8gRTxuGaNBwTP7FVFvz3bq" xml:lang="sv" type="speaker">
           Ofverläraren Kihlman:
         </note>
         <u xml:id="i-UxnXxTdiGuti4HAPqVHJVf" who="i-34gigkRr2uXshwGmQ4qktb">
@@ -2500,7 +2500,7 @@
         <note xml:id="i-Hn5MzeCpM57UcVY9Zf6ZXf" xml:lang="sv">
           har det icke erfordrats mer än något öfver ett år för deras framskaffande.
         </note>
-        <note xml:id="i-51JHKmq88jZhnNY48d9UZz" type="speaker" xml:lang="sv">
+        <note xml:id="i-51JHKmq88jZhnNY48d9UZz" xml:lang="sv" type="speaker">
           Vice Pastor Lilius:
         </note>
         <u xml:id="i-3jxwKpFSuq8ev7C4XKaEKT" who="i-CM2N1ripkWqmSaCMrmMPMn">
@@ -2649,7 +2649,7 @@
           i ett för allt att i mon af behof lyftas 1,121,172: 32, yttrade
           sig: följande talare:
         </note>
-        <note xml:id="i-UBvRKGdKSJvBRg2M4Qx66Q" type="speaker" xml:lang="sv">
+        <note xml:id="i-UBvRKGdKSJvBRg2M4Qx66Q" xml:lang="sv" type="speaker">
           Prosten Hjelt:
         </note>
         <u xml:id="i-2YKkB3EyLb2Wi53AQpwGyk" who="i-FfVRGMNn5KRqwAWb2KstnH">
@@ -2730,7 +2730,7 @@
           det är derföre just stjelktobak, man pä sednaste tid sä mycket
           inhemtat till landet.
         </note>
-        <note xml:id="i-D8jKee6zcb7jQUuVJo8gbZ" type="speaker" xml:lang="fi">
+        <note xml:id="i-D8jKee6zcb7jQUuVJo8gbZ" xml:lang="fi" type="speaker">
           Prosten Johnsson:
         </note>
         <u xml:id="i-ANfFeyLu6XFj7Pnc8u3KGm" who="i-QVrcwFYjcxwn93KdWmPBk3">
@@ -2748,7 +2748,7 @@
             laskua kovin korkeaksi.
           </seg>
         </u>
-        <note xml:id="i-B3p17Y2XPmiZYDvGJeXjLZ" type="speaker" xml:lang="sv">
+        <note xml:id="i-B3p17Y2XPmiZYDvGJeXjLZ" xml:lang="sv" type="speaker">
           Professor Donner:
         </note>
         <u xml:id="i-DkQ6sC4njThKHaFKj52mxt" who="i-XbAQtPkdSaTdnLcpdJrmsg">
@@ -3025,7 +3025,7 @@
           äfven tillstyrka statsutskottets förslag att ifrän kommunikationsfonden
           öfverföra för jernvägsbyggnader ett belopp af 4,000,000 mark.
         </note>
-        <note xml:id="i-AvtcryNAZrS5UPoCxAd2DX" type="speaker" xml:lang="sv">
+        <note xml:id="i-AvtcryNAZrS5UPoCxAd2DX" xml:lang="sv" type="speaker">
           Prosten Hjelt:
         </note>
         <u xml:id="i-GVtMb1NqsMrqY384HmnXcJ" who="i-FfVRGMNn5KRqwAWb2KstnH">
@@ -3072,7 +3072,7 @@
           att afföra från Finlands banks odisponerade vinstmedel den summa
           som af statsutskottet nu föreslagits.
         </note>
-        <note xml:id="i-YKUbsSZXaTMmspxifJr3oi" type="speaker" xml:lang="sv">
+        <note xml:id="i-YKUbsSZXaTMmspxifJr3oi" xml:lang="sv" type="speaker">
           Professor Donner:
         </note>
         <u xml:id="i-Lm8JbwCXPfFriMjNyysWJ8" who="i-XbAQtPkdSaTdnLcpdJrmsg">
@@ -3146,7 +3146,7 @@
           vaan kenties vasta kolmantena vuonna, joten siis nekin voisivat
           siihen asti olla pankin käytettävinä.
         </note>
-        <note xml:id="i-WYnMC17YQEDRxisfH2nvWF" type="speaker" xml:lang="sv">
+        <note xml:id="i-WYnMC17YQEDRxisfH2nvWF" xml:lang="sv" type="speaker">
           Doktor Lindelöf:
         </note>
         <u xml:id="i-FiuYofB3zCohLwHmdhA5Gf" who="i-8f5tRtT5D15j7HTFKPzTBC">
@@ -3266,7 +3266,7 @@
           Koskinen ville angifva, hvarifrän den uppkommande bristen skulle
           fyllas i fall reservationen skulle antagas.
         </note>
-        <note xml:id="i-XuVf7QUJ8SSGChdb1Aj3Yb" type="speaker" xml:lang="sv">
+        <note xml:id="i-XuVf7QUJ8SSGChdb1Aj3Yb" xml:lang="sv" type="speaker">
           Prosten Hjelt:
         </note>
         <u xml:id="i-DaQwUTeWucsg2DeE1XVAYa" who="i-FfVRGMNn5KRqwAWb2KstnH">
@@ -3321,7 +3321,7 @@
           tarkoituksiin, minä puolustan sitä ehdotusta että 4 miljoonaa
           markkaa pantaisiin kulkuneuvorahastoon.
         </note>
-        <note xml:id="i-XGU5Li7Tkgu2WPu4AdQoWg" type="speaker" xml:lang="sv">
+        <note xml:id="i-XGU5Li7Tkgu2WPu4AdQoWg" xml:lang="sv" type="speaker">
           Doktor Lindelöf:
         </note>
         <u xml:id="i-TGXpMAFAhUQqCQNqyesnqq" who="i-8f5tRtT5D15j7HTFKPzTBC">
@@ -3373,7 +3373,7 @@
           omat varat riittävät tuohon tarkoitukseen. Tässä ei kumminkaan
           ole kysymys aivan suuresta summasta.
         </note>
-        <note xml:id="i-A8d8RnkuC6f2QwvS61s6NV" type="speaker" xml:lang="sv">
+        <note xml:id="i-A8d8RnkuC6f2QwvS61s6NV" xml:lang="sv" type="speaker">
           Professor Runeberg:
         </note>
         <u xml:id="i-43yL5zVz82ccjPMj2d8rC5" who="i-QQ7rzMcvpGv1RunkkD3Hgv">
@@ -3436,7 +3436,7 @@
           reservera ett belopp af förslagsvis 1,200,000 mark för ett ständerhus
           för de tre ofrälse Stånden.
         </note>
-        <note xml:id="i-J3RiFR6LxSxw1D6QjX4zrx" type="speaker" xml:lang="sv">
+        <note xml:id="i-J3RiFR6LxSxw1D6QjX4zrx" xml:lang="sv" type="speaker">
           Med anledning häraf yttrade sig kyrkoherden Lyra:
         </note>
         <u xml:id="i-63HMBMExrjsV8TNyF7aWeD" who="i-Qnp6pqgLniPF2sFKE6V5wi">
@@ -3467,7 +3467,7 @@
           samtliga lands- och stadskommuner enligt samma grund som härintills,*
           yttrade sig följande talare:
         </note>
-        <note xml:id="i-BT32c59i6JG6SPr4QcTuXN" type="speaker" xml:lang="unknown">
+        <note xml:id="i-BT32c59i6JG6SPr4QcTuXN" xml:lang="unknown" type="speaker">
           Vicepastor Eklund:
         </note>
         <u xml:id="i-JnxQZ4XrF7PzLcytshkBx9" who="i-6eNAyWqvwVhwshqVaFpBzh">
@@ -3554,7 +3554,7 @@
           andragande hafva uttalad sin uppfattning, att förslaget om länstingsinstitutionen
           torde tillsvidare vara ett dödfödt foster.
         </note>
-        <note xml:id="i-9MyVVEtUKnjXU8ZgexvvpK" type="speaker" xml:lang="sv">
+        <note xml:id="i-9MyVVEtUKnjXU8ZgexvvpK" xml:lang="sv" type="speaker">
           Professor Cleve:
         </note>
         <u xml:id="i-TnHTSzD1oRaueBoWdJcdeX" who="i-HfEbbpVpEUS7EMymsy7tc6">
@@ -3582,7 +3582,7 @@
         <note xml:id="i-KjB5929oXShpBgWAuA6UQQ" xml:lang="sv">
           Prosten Rosengren förenade sig med föregäende talare.
         </note>
-        <note xml:id="i-SuXE7h8SZx6oHZtZozKtLk" type="speaker" xml:lang="sv">
+        <note xml:id="i-SuXE7h8SZx6oHZtZozKtLk" xml:lang="sv" type="speaker">
           Domprosten Renvall:
         </note>
         <u xml:id="i-WhYrXw6oBvNgwCoXhgdkyR" who="i-81Zkpqx4nbx5hBdZktoW1S">
@@ -3670,7 +3670,7 @@
           Minä siis yhdistyn herra Koskisen vastalauseesen, ettei tarvittaisi
           tehdä uusia lainoja seuraavain kolmen vuoden kuluessa.
         </note>
-        <note xml:id="i-2b8wKVCXSngHEMQR14FV4L" type="speaker" xml:lang="sv">
+        <note xml:id="i-2b8wKVCXSngHEMQR14FV4L" xml:lang="sv" type="speaker">
           Professor Donner:
         </note>
         <u xml:id="i-29Fu786WuNCdaANoQDVDdD" who="i-XbAQtPkdSaTdnLcpdJrmsg">
@@ -3711,7 +3711,7 @@
             Ständernas sida, med lånets upptagande anstå.
           </seg>
         </u>
-        <note xml:id="i-PA8fk42J9FbPpUXdaCigih" type="speaker" xml:lang="sv">
+        <note xml:id="i-PA8fk42J9FbPpUXdaCigih" xml:lang="sv" type="speaker">
           Prosten Hjelt:
         </note>
         <u xml:id="i-sYHMvVsLEXyrMBBQdJ9Eb" who="i-FfVRGMNn5KRqwAWb2KstnH">
@@ -3815,7 +3815,7 @@
           vaatii. Kenties ensi Säädyt voivat asiaa ratkaistessaan tietää
           enemmän kuin mitä me nyt tiedämme.
         </note>
-        <note xml:id="i-UALVpuvPyZMA8NvvUS7odC" type="speaker" xml:lang="sv">
+        <note xml:id="i-UALVpuvPyZMA8NvvUS7odC" xml:lang="sv" type="speaker">
           Professor Donner:
         </note>
         <u xml:id="i-EPRcZELEtfqQkDYJbGtLic" who="i-XbAQtPkdSaTdnLcpdJrmsg">
@@ -3886,7 +3886,7 @@
           tulee tappiota, jotta saadaan tehdä lisäkustannuksia niiden voimassa
           pitämiseen.
         </note>
-        <note xml:id="i-MJyPiUtLaizDj4qFYKwX4m" type="speaker" xml:lang="sv">
+        <note xml:id="i-MJyPiUtLaizDj4qFYKwX4m" xml:lang="sv" type="speaker">
           Domprosten Renvall:
         </note>
         <u xml:id="i-Uz5D1bfyU1ej7GSVuWQ2vd" who="i-81Zkpqx4nbx5hBdZktoW1S">
@@ -4010,7 +4010,7 @@
         <note xml:id="i-5PGKgjwH3zV8ybdBR7VRhx" xml:lang="sv">
           1328 Presteständet 1882. 16 maj.
         </note>
-        <note xml:id="i-DQU8rexm8yMNgSKNshRH4h" type="speaker" xml:lang="sv">
+        <note xml:id="i-DQU8rexm8yMNgSKNshRH4h" xml:lang="sv" type="speaker">
           Prosten Hjelt:
         </note>
         <u xml:id="i-WYDtet3XtZBuvjAqmDWyBN" who="i-FfVRGMNn5KRqwAWb2KstnH">
@@ -4026,7 +4026,7 @@
         <note xml:id="i-DUoYeao3NsHbEH7xHPvcWi" xml:lang="sv">
           Kontraktsprosten Grönberg förenade sig med vice pastor Lilius.
         </note>
-        <note xml:id="i-QRdWhyJUhcodkTayQnPTTP" type="speaker" xml:lang="sv">
+        <note xml:id="i-QRdWhyJUhcodkTayQnPTTP" xml:lang="sv" type="speaker">
           Professor Cleve:
         </note>
         <u xml:id="i-RDrgMvcbpDh49ypWxZDH15" who="i-HfEbbpVpEUS7EMymsy7tc6">
@@ -4064,7 +4064,7 @@
           vallan, koska on ennakolta vaikea sanoa, millainen laina kulloinkin
           on paras ottaa, kotimainen vai ulkomainenko, tavallinen vai kuoletuslainako.
         </note>
-        <note xml:id="i-X2J1t2KxCGk13UFjeXJAM2" type="speaker" xml:lang="sv">
+        <note xml:id="i-X2J1t2KxCGk13UFjeXJAM2" xml:lang="sv" type="speaker">
           Prosten Hjelt:
         </note>
         <u xml:id="i-D8hb2jB1ZEr91G3izSaoYH" who="i-FfVRGMNn5KRqwAWb2KstnH">
@@ -4099,7 +4099,7 @@
           på något sätt föreslagit att Ständerna skulle i detta afseende
           binda regeringens händer såsom några här tyckas anse.
         </note>
-        <note xml:id="i-BUPj2gCvrTd9PcMU5Npxyo" type="speaker" xml:lang="sv">
+        <note xml:id="i-BUPj2gCvrTd9PcMU5Npxyo" xml:lang="sv" type="speaker">
           Professor Runeberg:
         </note>
         <u xml:id="i-5QktD8ktwJizguSko1zMDB" who="i-QQ7rzMcvpGv1RunkkD3Hgv">
@@ -4119,7 +4119,7 @@
           papper, som aldrig komme att inlösas, förrän de stego till 300
           procent, och sådana papper voro Föreningsbankens aktier.
         </note>
-        <note xml:id="i-5vW2AZvUD36LKbmR5yTLHm" type="speaker" xml:lang="sv">
+        <note xml:id="i-5vW2AZvUD36LKbmR5yTLHm" xml:lang="sv" type="speaker">
           Prosten Hjelt:
         </note>
         <u xml:id="i-S7eZ6c7ccS4r5VQDPzhTfC" who="i-FfVRGMNn5KRqwAWb2KstnH">
@@ -4146,7 +4146,7 @@
         <note xml:id="i-5wWYF7QsWJj8Px4ZeoPHWT" xml:lang="sv">
           1330 Presteständet 1882. 16 maj.
         </note>
-        <note xml:id="i-13ap3d1xSSyKy3xs2g1iyR" type="speaker" xml:lang="sv">
+        <note xml:id="i-13ap3d1xSSyKy3xs2g1iyR" xml:lang="sv" type="speaker">
           Ofverläraren Kihlman:
         </note>
         <u xml:id="i-TxMMDrQ8u8mMSZADZQZDn" who="i-34gigkRr2uXshwGmQ4qktb">
@@ -4341,7 +4341,7 @@
         <note xml:id="i-RjRBFA55UZxREoaniBomLR" xml:lang="sv">
           8 2. Angäende denna paragraf yttrade sig följande talare:
         </note>
-        <note xml:id="i-CrEpGBoNW8fjp6eTysA9mn" type="speaker" xml:lang="sv">
+        <note xml:id="i-CrEpGBoNW8fjp6eTysA9mn" xml:lang="sv" type="speaker">
           Kontraktsprosten Dahlberg:
         </note>
         <u xml:id="i-UpP13LRXdHzKnsjdaYnqyC" who="i-RhBRSkx9yQCaJTuJXtgxWb">
@@ -4393,7 +4393,7 @@
           små bryggerierna, som nu finnas, blefve tvungna att inställa sitt
           arbete.
         </note>
-        <note xml:id="i-8y2L3aNpGt7qqxixYiVbFN" type="speaker" xml:lang="sv">
+        <note xml:id="i-8y2L3aNpGt7qqxixYiVbFN" xml:lang="sv" type="speaker">
           Vice pastor Eklund:
         </note>
         <u xml:id="i-QKQSoFenejSuT2woBd27UN" who="i-6eNAyWqvwVhwshqVaFpBzh">
@@ -4405,7 +4405,7 @@
             de använde 1,000 å 1,500 lispund malt.
           </seg>
         </u>
-        <note xml:id="i-HYRzmWmeWxviHVA3sbVyH4" type="speaker" xml:lang="sv">
+        <note xml:id="i-HYRzmWmeWxviHVA3sbVyH4" xml:lang="sv" type="speaker">
           Kontraktsprosten Helander:
         </note>
         <u xml:id="i-zrJon2e1AJGSvn9hDzAFy" who="i-89jFrq7FjBEeRhr9LtLkMw">
@@ -4443,7 +4443,7 @@
         <note xml:id="i-CWCy1fV1GnTv7h3VFf5dLV" xml:lang="sv">
           8 3. Angäende denna paragraf yttrade sig följande talare:
         </note>
-        <note xml:id="i-83fdBBeXbZY4n4MGVHmor7" type="speaker" xml:lang="sv">
+        <note xml:id="i-83fdBBeXbZY4n4MGVHmor7" xml:lang="sv" type="speaker">
           Fältprosten Petterson:
         </note>
         <u xml:id="i-U9swAqgpBE36z1ihYTjnEq" who="i-NpQ4pik31NjbjFQK1eTY2D">
@@ -4502,7 +4502,7 @@
           att, i synnerhet då han är på utarbete, skölja ned sin torftiga
           och torra vägkost med något slags sofvel, icke blefve tillgodosedt.
         </note>
-        <note xml:id="i-XnebgHgtqeeAoAdHmLvRJ4" type="speaker" xml:lang="sv">
+        <note xml:id="i-XnebgHgtqeeAoAdHmLvRJ4" xml:lang="sv" type="speaker">
           Kontraktsprosten Dahlberg:
         </note>
         <u xml:id="i-J2zLdg7HLMdWU2593cTp7Q" who="i-RhBRSkx9yQCaJTuJXtgxWb">
@@ -4587,7 +4587,7 @@
           arbetarene huru mycket svagdricka som helst. Det var också dessa
           omständigheter, som voro bestämmande för reservanterne.
         </note>
-        <note xml:id="i-MEY2ArzF9iqptF8q7eHe3w" type="speaker" xml:lang="sv">
+        <note xml:id="i-MEY2ArzF9iqptF8q7eHe3w" xml:lang="sv" type="speaker">
           Professor Runeberg:
         </note>
         <u xml:id="i-L8uMxnkemuFP6uRpTZSSpw" who="i-QQ7rzMcvpGv1RunkkD3Hgv">
@@ -4635,7 +4635,7 @@
           Fältprosten Petterson förenade sig med professor Forsman J. och
           kontraktsprosten Helander.
         </note>
-        <note xml:id="i-MY79yjt7sHKw6G16qBCANh" type="speaker" xml:lang="sv">
+        <note xml:id="i-MY79yjt7sHKw6G16qBCANh" xml:lang="sv" type="speaker">
           Vice Pastor Eklund:
         </note>
         <u xml:id="i-NxoukspGmfEfdG1eymdrTK" who="i-6eNAyWqvwVhwshqVaFpBzh">
@@ -4672,7 +4672,7 @@
         <note xml:id="i-3UvT8HhV41w1NT5GRiQH9U" xml:lang="sv">
           1340 Presteståndet 1882. 19 maj.
         </note>
-        <note xml:id="i-4XuBhW8yaaRM1VF45YiJqR" type="speaker" xml:lang="sv">
+        <note xml:id="i-4XuBhW8yaaRM1VF45YiJqR" xml:lang="sv" type="speaker">
           Kyrkoherden Öller:
         </note>
         <u xml:id="i-95vvSCxvMjVxEeHiCUghc9" who="i-AyjRaKbfynRtsDXw51CRKR">
@@ -4686,7 +4686,7 @@
             verkligen är bindande.
           </seg>
         </u>
-        <note xml:id="i-EG6atNDZocvjmTm8y2AebQ" type="speaker" xml:lang="sv">
+        <note xml:id="i-EG6atNDZocvjmTm8y2AebQ" xml:lang="sv" type="speaker">
           Professor Cleve:
         </note>
         <u xml:id="i-Dj8cooTBGYcyYudJgTQbFY" who="i-HfEbbpVpEUS7EMymsy7tc6">
@@ -4759,7 +4759,7 @@
           oikeastaan tähän asetukseen lisättävä useita pykäliä, joissa tarkemmin
           määrättäisiin tuon verotuksen eri kohdat.
         </note>
-        <note xml:id="i-3SXNxooUhtyAMKxJdiiMyE" type="speaker" xml:lang="sv">
+        <note xml:id="i-3SXNxooUhtyAMKxJdiiMyE" xml:lang="sv" type="speaker">
           Kontraktsprosten Helander:
         </note>
         <u xml:id="i-4Moay57UExvDtTAWtr5on5" who="i-89jFrq7FjBEeRhr9LtLkMw">
@@ -4923,7 +4923,7 @@
         <note xml:id="i-8kJngW5HZysk6tssc9a8SM" xml:lang="sv">
           $ 5. Rörande denna paragraf yttrade sig följande talare:
         </note>
-        <note xml:id="i-8VYq18LoHT3BMrdTYASmg3" type="speaker" xml:lang="sv">
+        <note xml:id="i-8VYq18LoHT3BMrdTYASmg3" xml:lang="sv" type="speaker">
           Vice pastor Eklund:
         </note>
         <u xml:id="i-88hEMkxLMai3Dg4M3PMQ9G" who="i-6eNAyWqvwVhwshqVaFpBzh">
@@ -5059,7 +5059,7 @@
         <note xml:id="i-EY31CbdwzHQk4RJ3d7wDpy" xml:lang="sv">
           8 1. Beträffande denna paragraf yttrade sig följande talare:
         </note>
-        <note xml:id="i-dUZgZcjDk6Gk7nSD87fr9" type="speaker" xml:lang="sv">
+        <note xml:id="i-dUZgZcjDk6Gk7nSD87fr9" xml:lang="sv" type="speaker">
           Kontraktsprosten Dahlberg:
         </note>
         <u xml:id="i-EbZMumQKZaEwwVWDikoqCB" who="i-RhBRSkx9yQCaJTuJXtgxWb">
@@ -5086,7 +5086,7 @@
           olutta tehtaasta myydä, vaan suuremmissa määrissä, esim. korittain.
           Minä puolestani en voi suostua yhteensovitukseen.
         </note>
-        <note xml:id="i-PUKtiSwQxoxJzhHMaBCNZH" type="speaker" xml:lang="sv">
+        <note xml:id="i-PUKtiSwQxoxJzhHMaBCNZH" xml:lang="sv" type="speaker">
           Kontraktsprosten Dahlberg:
         </note>
         <u xml:id="i-XKVGybYYS3vpg1LgSqQnuH" who="i-RhBRSkx9yQCaJTuJXtgxWb">
@@ -5215,7 +5215,7 @@
           skiljer sig från Presteståndets uti nämnda ärende vidtagna beslut,
           och yttrade sig med anledning häraf:
         </note>
-        <note xml:id="i-4voa9Miqbakf3JVbegHaTS" type="speaker" xml:lang="unknown">
+        <note xml:id="i-4voa9Miqbakf3JVbegHaTS" xml:lang="unknown" type="speaker">
           Vicepastor Lilius:
         </note>
         <u xml:id="i-HtLUpAF3tu6rjc4hK9HG4C" who="i-CM2N1ripkWqmSaCMrmMPMn">
@@ -5262,7 +5262,7 @@
           pensionerades; och yttrade sig med anledning af denna inbjudning
           följande talare:
         </note>
-        <note xml:id="i-SKMYgrWTYaLdxobw3r8mGi" type="speaker" xml:lang="sv">
+        <note xml:id="i-SKMYgrWTYaLdxobw3r8mGi" xml:lang="sv" type="speaker">
           Domprosten Renvall:
         </note>
         <u xml:id="i-3M5hcpXY1aGzk6W9xRS6Ex" who="i-81Zkpqx4nbx5hBdZktoW1S">
@@ -5310,7 +5310,7 @@
         <note xml:id="i-K5UJHTiMZisgJ4JTeWUz4n" xml:lang="sv">
           Presteständet 1882. 19 maj. 1351
         </note>
-        <note xml:id="i-fJ5BBDqAkG5oovcQ3a9cz" type="speaker" xml:lang="sv">
+        <note xml:id="i-fJ5BBDqAkG5oovcQ3a9cz" xml:lang="sv" type="speaker">
           Kyrkoherden Lyra:
         </note>
         <u xml:id="i-8sp2FYdeFwLJK8bv5SGnuf" who="i-Qnp6pqgLniPF2sFKE6V5wi">
@@ -5335,7 +5335,7 @@
             än landskommunerna.
           </seg>
         </u>
-        <note xml:id="i-M6adgmFUygTCxXGGiw8xYW" type="speaker" xml:lang="sv">
+        <note xml:id="i-M6adgmFUygTCxXGGiw8xYW" xml:lang="sv" type="speaker">
           Prosten Hjelt:
         </note>
         <u xml:id="i-XP5MPnqKWVJ6qnoaaEDMss" who="i-FfVRGMNn5KRqwAWb2KstnH">
@@ -5790,7 +5790,7 @@
           sålunda icke måtte förklara det vara nog gjordt till saken, att
           endast förnya en petition, som redan gjordes vid sista landtdag.
         </note>
-        <note xml:id="i-YE8YmXsHtE87HG136P5qcf" type="speaker" xml:lang="unknown">
+        <note xml:id="i-YE8YmXsHtE87HG136P5qcf" xml:lang="unknown" type="speaker">
           Doktor Nordström:
         </note>
         <u xml:id="i-AGLw7jvGmhZ952umFVMr9w" who="i-QwcTLbpo4YVwryjr1GArpy">
@@ -5822,7 +5822,7 @@
             kommunen bekostas.
           </seg>
         </u>
-        <note xml:id="i-9Y6MERKxffbJ3Z65zmb82G" type="speaker" xml:lang="sv">
+        <note xml:id="i-9Y6MERKxffbJ3Z65zmb82G" xml:lang="sv" type="speaker">
           Domprosten Renvall:
         </note>
         <u xml:id="i-6ie1okuymiG5BrbbuPPd5i" who="i-81Zkpqx4nbx5hBdZktoW1S">
@@ -5902,7 +5902,7 @@
           pension som på deras ålderdom eller vid inträffadt sjukdomstall
           åtminstone skulle säkerställa dem för den yttersta nöden.
         </note>
-        <note xml:id="i-Dzz8tRhnvtUGhapZHQXzJ6" type="speaker" xml:lang="sv">
+        <note xml:id="i-Dzz8tRhnvtUGhapZHQXzJ6" xml:lang="sv" type="speaker">
           Kontraktsprosten Johnsson:
         </note>
         <u xml:id="i-HYxQQvfA6sgPydgqMbR1HF" who="i-QVrcwFYjcxwn93KdWmPBk3">
@@ -5969,7 +5969,7 @@
           samoista syistä kuin provasti Johnsson, hylätä Porvarissäädyn
           kutsumuksen.
         </note>
-        <note xml:id="i-YQmk1h8k9vnz1rFmJy7jsw" type="speaker" xml:lang="sv">
+        <note xml:id="i-YQmk1h8k9vnz1rFmJy7jsw" xml:lang="sv" type="speaker">
           Kyrkoherden Lyra:
         </note>
         <u xml:id="i-Y4giHsdYB9XTxvYJtcbLqV" who="i-Qnp6pqgLniPF2sFKE6V5wi">
@@ -6155,7 +6155,7 @@
           att landsvägens högsta bredd emellan dikena icke behöfde öfverstiga
           10 alnar, yttrade sig följande talare:
         </note>
-        <note xml:id="i-APDdWUTd5JWzCeMs1btU3L" type="speaker" xml:lang="sv">
+        <note xml:id="i-APDdWUTd5JWzCeMs1btU3L" xml:lang="sv" type="speaker">
           Vice pastor Lilius:
         </note>
         <u xml:id="i-BTY1JiBSy35m6TeGNQtytu" who="i-CM2N1ripkWqmSaCMrmMPMn">
@@ -6203,7 +6203,7 @@
           anser jag sålunda inga skäl för Presteståndet förefinnas att frångå
           sitt beslut.
         </note>
-        <note xml:id="i-Ftmx6JJEGasbfawaBUApxA" type="speaker" xml:lang="sv">
+        <note xml:id="i-Ftmx6JJEGasbfawaBUApxA" xml:lang="sv" type="speaker">
           Professor Runeberg:
         </note>
         <u xml:id="i-F8bYx8gioMaCeUdhrmdHza" who="i-QQ7rzMcvpGv1RunkkD3Hgv">
@@ -6243,7 +6243,7 @@
         <note xml:id="i-9utFP6xJAovjKchp8kpFmn" xml:lang="sv">
           1368 Presteståndet 1882. 19 maj.
         </note>
-        <note xml:id="i-B6zC9ZY4y2PMfD6g8yruMj" type="speaker" xml:lang="sv">
+        <note xml:id="i-B6zC9ZY4y2PMfD6g8yruMj" xml:lang="sv" type="speaker">
           Professor Cleve:
         </note>
         <u xml:id="i-LYdsMMeVXDwrBbb9y3ntBp" who="i-HfEbbpVpEUS7EMymsy7tc6">
@@ -6315,7 +6315,7 @@
           tavotetaan. Minä puolestani siis hyväksyn tässä kohden Talonpoikaissäädyn
           kutsumuksen.
         </note>
-        <note xml:id="i-UTsA9bC5oraMAkJWbCwDYp" type="speaker" xml:lang="unknown">
+        <note xml:id="i-UTsA9bC5oraMAkJWbCwDYp" xml:lang="unknown" type="speaker">
           Vicepastor Lilius:
         </note>
         <u xml:id="i-K9jH7eiVMoi2d4YiADD9Vd" who="i-CM2N1ripkWqmSaCMrmMPMn">
@@ -6423,7 +6423,7 @@
           med reservens inkallande till öfningsmöten, och yttrade sig med
           anledning häraf följande talare:
         </note>
-        <note xml:id="i-7SRG7R1kGfqzqux6UcS9Jp" type="speaker" xml:lang="sv">
+        <note xml:id="i-7SRG7R1kGfqzqux6UcS9Jp" xml:lang="sv" type="speaker">
           Öfverläraren Kihlman:
         </note>
         <u xml:id="i-SL8DBNVhvA3eUsC2z6zc1q" who="i-34gigkRr2uXshwGmQ4qktb">
@@ -6452,7 +6452,7 @@
             vinna tillräcklig förberedning.
           </seg>
         </u>
-        <note xml:id="i-CSCXEQxLGWziE1Z2dCiE4X" type="speaker" xml:lang="sv">
+        <note xml:id="i-CSCXEQxLGWziE1Z2dCiE4X" xml:lang="sv" type="speaker">
           Fältprosten Petterson:
         </note>
         <u xml:id="i-5JNH8bBkes9m4SHxmYyL8a" who="i-NpQ4pik31NjbjFQK1eTY2D">
@@ -6497,7 +6497,7 @@
           ett afvikande från värnepligtslagens fordringer för längre tid
           än ett år.
         </note>
-        <note xml:id="i-6S9qDhN4JYqcjunLJ48CHL" type="speaker" xml:lang="sv">
+        <note xml:id="i-6S9qDhN4JYqcjunLJ48CHL" xml:lang="sv" type="speaker">
           Vice pastor Lilius:
         </note>
         <u xml:id="i-CMv8nxfm1kzVyNwBhai6QN" who="i-CM2N1ripkWqmSaCMrmMPMn">
@@ -6533,7 +6533,7 @@
             i denna sak skulle antagas.
           </seg>
         </u>
-        <note xml:id="i-96wVPqPmh83aEu1EaStMxE" type="speaker" xml:lang="sv">
+        <note xml:id="i-96wVPqPmh83aEu1EaStMxE" xml:lang="sv" type="speaker">
           Prosten Hjelt:
         </note>
         <u xml:id="i-Ki4zUv5DXtErLJpBy7Cgiu" who="i-FfVRGMNn5KRqwAWb2KstnH">
@@ -6570,7 +6570,7 @@
           19 sid. skulle han finna sig öfvertygad derom, att utskottet handlat
           efter bästa förstånd och samvete.
         </note>
-        <note xml:id="i-3XaZ6o2uugx6XVTu2BVRse" type="speaker" xml:lang="sv">
+        <note xml:id="i-3XaZ6o2uugx6XVTu2BVRse" xml:lang="sv" type="speaker">
           Professor Cleve:
         </note>
         <u xml:id="i-7tqtinJh5E7ivXwo7sghdP" who="i-HfEbbpVpEUS7EMymsy7tc6">
@@ -6621,7 +6621,7 @@
           det förslag, som utskottet gjort, men har dock ej något emot att
           ordet ,ovilkorligen* utstrykes.
         </note>
-        <note xml:id="i-PMSuLoeuwrMTaVY1varHwT" type="speaker" xml:lang="sv">
+        <note xml:id="i-PMSuLoeuwrMTaVY1varHwT" xml:lang="sv" type="speaker">
           Kyrkoherden Öller:
         </note>
         <u xml:id="i-mDNuPJjnLQ5ddD4vAPcyq" who="i-AyjRaKbfynRtsDXw51CRKR">
@@ -6656,7 +6656,7 @@
           tuo mukanansa, olla varustettu, niin minä katson tärkeäksi, että
           koetetaan saada reservilaitos kuntoon niin pian kuin suinkin.
         </note>
-        <note xml:id="i-UbbQBN1JeSGCp1PpB3vJHb" type="speaker" xml:lang="sv">
+        <note xml:id="i-UbbQBN1JeSGCp1PpB3vJHb" xml:lang="sv" type="speaker">
           Öfverläraren Kihlman:
         </note>
         <u xml:id="i-9pXRGqpiPSwxRScERJcLML" who="i-34gigkRr2uXshwGmQ4qktb">
@@ -6757,7 +6757,7 @@
           del ville jag dock biträda det af professor Cleve gjorda förbättringsförslaget
           i redaktionen att ordet ,ovilkorligen* skulle bortfalla.
         </note>
-        <note xml:id="i-Tg4nukGo5McN9cCUCs1oJ5" type="speaker" xml:lang="sv">
+        <note xml:id="i-Tg4nukGo5McN9cCUCs1oJ5" xml:lang="sv" type="speaker">
           Prosten Hjelt:
         </note>
         <u xml:id="i-NaKQtumqaWwDGbnm3SJKq7" who="i-FfVRGMNn5KRqwAWb2KstnH">
@@ -6881,7 +6881,7 @@
           angående stämpelpappersbevillning; och yttrade sig med anledning
           häraf följande talare:
         </note>
-        <note xml:id="i-TGDysCeJUrUwbbMAMvv89z" type="speaker" xml:lang="sv">
+        <note xml:id="i-TGDysCeJUrUwbbMAMvv89z" xml:lang="sv" type="speaker">
           Prosten Hjelt:
         </note>
         <u xml:id="i-Y4ZjmX8KYqSLKhS5k6nZyJ" who="i-FfVRGMNn5KRqwAWb2KstnH">
@@ -6916,7 +6916,7 @@
           hafva intaget, att jag ej anser bevillningsutskottet rätt ha fullgjort
           sin skyldighet.
         </note>
-        <note xml:id="i-PgDghQzue5iCEXMynWmGK8" type="speaker" xml:lang="sv">
+        <note xml:id="i-PgDghQzue5iCEXMynWmGK8" xml:lang="sv" type="speaker">
           Professor Donner:
         </note>
         <u xml:id="i-82sHu6q72M6knsVeFy7DDR" who="i-XbAQtPkdSaTdnLcpdJrmsg">
@@ -6935,7 +6935,7 @@
             lättare än en onödig förhöjning.
           </seg>
         </u>
-        <note xml:id="i-Tnp2dcyadUHjFyjG56bCDp" type="speaker" xml:lang="sv">
+        <note xml:id="i-Tnp2dcyadUHjFyjG56bCDp" xml:lang="sv" type="speaker">
           Kontraktsprosten Helander:
         </note>
         <u xml:id="i-HhWTamAJ7f13RyPvojT99t" who="i-89jFrq7FjBEeRhr9LtLkMw">
@@ -7006,7 +7006,7 @@
           Kyrkoherden Öller förklarade att hans förslag ej afsåg andra
           än utländska vexlar.
         </note>
-        <note xml:id="i-Qs6quAWLvCGfPt6K9nYuEJ" type="speaker" xml:lang="sv">
+        <note xml:id="i-Qs6quAWLvCGfPt6K9nYuEJ" xml:lang="sv" type="speaker">
           Professor Donner:
         </note>
         <u xml:id="i-BH3QtocumJtJ2Lfu9ktnkw" who="i-XbAQtPkdSaTdnLcpdJrmsg">
@@ -7033,7 +7033,7 @@
         <note xml:id="i-K3H4Uw2pF4MmKjeJaq89it" xml:lang="sv">
           Presteståndet 1882. 19 maj. 1381
         </note>
-        <note xml:id="i-nbTCFUXvVg5xoFRuoNpG6" type="speaker" xml:lang="sv">
+        <note xml:id="i-nbTCFUXvVg5xoFRuoNpG6" xml:lang="sv" type="speaker">
           Kyrkoherden Oller:
         </note>
         <u xml:id="i-F5FmWujKR1aBiu6YaCnhSM" who="unknown">
@@ -7062,7 +7062,7 @@
           och utmärkelser pä det ena eller andra omrädet, utan att godkänna
           eller ogilla det föreslagna stämpelbeloppet.
         </note>
-        <note xml:id="i-W8DsQ7fdTKEfGjqrZhfz6W" type="speaker" xml:lang="sv">
+        <note xml:id="i-W8DsQ7fdTKEfGjqrZhfz6W" xml:lang="sv" type="speaker">
           Kyrkoherden Oller:
         </note>
         <u xml:id="i-58TrvdCSNdc4fHrjonKooj" who="unknown">
@@ -7148,7 +7148,7 @@
           Kontrahtiprovasti Helander yhdistyi kontrahtiprovasti Dahibergin
           lausuntoon.
         </note>
-        <note xml:id="i-VawzF4Z3Xjdat5T46HkK2Z" type="speaker" xml:lang="sv">
+        <note xml:id="i-VawzF4Z3Xjdat5T46HkK2Z" xml:lang="sv" type="speaker">
           Professor Cleve:
         </note>
         <u xml:id="i-EEaFzqHgYihPzyc1CpApC9" who="i-HfEbbpVpEUS7EMymsy7tc6">
@@ -7409,7 +7409,7 @@
           petition af en bana från Uleåborgs hamn till Vaala vid Uleå träsk,
           och yttrade sig med anledning häraf följande talare:
         </note>
-        <note xml:id="i-MPGGp9KQgHvia5J7ojrU2H" type="speaker" xml:lang="sv">
+        <note xml:id="i-MPGGp9KQgHvia5J7ojrU2H" xml:lang="sv" type="speaker">
           Professor Runeberg:
         </note>
         <u xml:id="i-S6zx46TSuAZMM4kRghLn8q" who="i-QQ7rzMcvpGv1RunkkD3Hgv">
@@ -7434,7 +7434,7 @@
             medlen inhemtas.
           </seg>
         </u>
-        <note xml:id="i-A5imCCt75v94wHN5royJrS" type="speaker" xml:lang="sv">
+        <note xml:id="i-A5imCCt75v94wHN5royJrS" xml:lang="sv" type="speaker">
           Kontraktsprosten Grönberg:
         </note>
         <u xml:id="i-29LT7wxdV3LjHXDTKvPZAo" who="i-MejDXzf7f7w3bWanLQKrgB">
@@ -7446,7 +7446,7 @@
             för den orten för denna landtdag.
           </seg>
         </u>
-        <note xml:id="i-Wso2aAhVLPNmngK5TjLoEs" type="speaker" xml:lang="sv">
+        <note xml:id="i-Wso2aAhVLPNmngK5TjLoEs" xml:lang="sv" type="speaker">
           Prosten Rosengren:
         </note>
         <u xml:id="i-EEKMihCMfdamYcrcwwKgS1" who="i-UUFQ5w6CUWXPKeDW8gRVf7">
@@ -7477,7 +7477,7 @@
           statens sida, icke annat än förorda, att utskottets förslag i
           denna punkt skulle godkännas.
         </note>
-        <note xml:id="i-N5w77WU79gWjgFvaMLwDSR" type="speaker" xml:lang="sv">
+        <note xml:id="i-N5w77WU79gWjgFvaMLwDSR" xml:lang="sv" type="speaker">
           Professor Donner:
         </note>
         <u xml:id="i-K62RCoYfuRdaDpucix1vPW" who="i-XbAQtPkdSaTdnLcpdJrmsg">
@@ -7600,7 +7600,7 @@
           velvollinen yhdistymään siihen vastalauseesen, jonka edusmiehet
           Grotenfelt, Tikkanen ja Haanpää ovat tehneet.
         </note>
-        <note xml:id="i-WjgGEKZhtKwVatPFJbeRHW" type="speaker" xml:lang="sv">
+        <note xml:id="i-WjgGEKZhtKwVatPFJbeRHW" xml:lang="sv" type="speaker">
           Professor Cleve:
         </note>
         <u xml:id="i-PBwhT4L3qSncWNsdDgGjUc" who="i-HfEbbpVpEUS7EMymsy7tc6">
@@ -7631,7 +7631,7 @@
             förfalla.
           </seg>
         </u>
-        <note xml:id="i-Qv7mz32H5hZxy72qbkPAJA" type="speaker" xml:lang="sv">
+        <note xml:id="i-Qv7mz32H5hZxy72qbkPAJA" xml:lang="sv" type="speaker">
           Fältprosten Petterson:
         </note>
         <u xml:id="i-WEXrHGCyW7qm3b85AMXUqe" who="i-NpQ4pik31NjbjFQK1eTY2D">
@@ -7715,7 +7715,7 @@
           närbelägen punkt å Abo—Toijala bandelen; och yttrade sig med anledning
           häraf följande talare:
         </note>
-        <note xml:id="i-N121did9tXr1VqGo197uEv" type="speaker" xml:lang="sv">
+        <note xml:id="i-N121did9tXr1VqGo197uEv" xml:lang="sv" type="speaker">
           Professor Donner:
         </note>
         <u xml:id="i-Xgpbxi7jhd8aQ2pWAmVPjm" who="i-XbAQtPkdSaTdnLcpdJrmsg">
@@ -7761,7 +7761,7 @@
         <note xml:id="i-NDus3ZHFtv8dT4m4j4MSRh" xml:lang="sv">
           1394 Presteståndet 1882. 20 maj.
         </note>
-        <note xml:id="i-QgAfb5oymGFnohLTbwYcre" type="speaker" xml:lang="sv">
+        <note xml:id="i-QgAfb5oymGFnohLTbwYcre" xml:lang="sv" type="speaker">
           Kontraktsprosten Wegelius:
         </note>
         <u xml:id="i-RbuTXhfpHx9W3eSMmvACqi" who="i-VwibmpSUHRf18jjByiX717">
@@ -7811,7 +7811,7 @@
           icke mätte till nägon Ständernas ätgärd föranleda, yttrade sig
           följande talare:
         </note>
-        <note xml:id="i-4FfXknJ2evZtEdhQDiz2sG" type="speaker" xml:lang="sv">
+        <note xml:id="i-4FfXknJ2evZtEdhQDiz2sG" xml:lang="sv" type="speaker">
           Kyrkoherden Lyra:
         </note>
         <u xml:id="i-WedVueDMErxooqoz4ieNFB" who="i-Qnp6pqgLniPF2sFKE6V5wi">
@@ -7864,7 +7864,7 @@
           tempererad som möjlig, dä jag icke yrkar att staten skulle helt
           och hället öfvertaga banan, utan blott subventionera densamma.
         </note>
-        <note xml:id="i-4crgPACrdb8NfLuZJfJCTT" type="speaker" xml:lang="sv">
+        <note xml:id="i-4crgPACrdb8NfLuZJfJCTT" xml:lang="sv" type="speaker">
           Professor Cleve:
         </note>
         <u xml:id="i-LQ19sUMUvmUmnSL9tUyHxB" who="i-HfEbbpVpEUS7EMymsy7tc6">
@@ -7931,7 +7931,7 @@
           oikeutetuiksi, minun täytyy pitemmäile katsoa kuin tämän päivän
           vaatimuksiin ja puolustan valiokunnan mietintöä.
         </note>
-        <note xml:id="i-7CRa4Y14ur9yNKGEGL17eG" type="speaker" xml:lang="sv">
+        <note xml:id="i-7CRa4Y14ur9yNKGEGL17eG" xml:lang="sv" type="speaker">
           Fältprosten Petterson:
         </note>
         <u xml:id="i-FEsnwg3ofBewaQY4d27ZXL" who="i-NpQ4pik31NjbjFQK1eTY2D">
@@ -8032,7 +8032,7 @@
           talare anfört, icke blott beviljande af subvention, utan ocksä
           petitionen sädan den ursprungligen varit.
         </note>
-        <note xml:id="i-VYGwmVLm7236XqB3zqupHm" type="speaker" xml:lang="sv">
+        <note xml:id="i-VYGwmVLm7236XqB3zqupHm" xml:lang="sv" type="speaker">
           Professor Cleve:
         </note>
         <u xml:id="i-KerdHpXS3Ac1L3ybcNQUu4" who="i-HfEbbpVpEUS7EMymsy7tc6">
@@ -8069,7 +8069,7 @@
           Jag är villig att biträda hvarje förslag, som går ut på att förverkliga
           denna bana.
         </note>
-        <note xml:id="i-Foq5FTkX3eHPEFK2dp7YsZ" type="speaker" xml:lang="sv">
+        <note xml:id="i-Foq5FTkX3eHPEFK2dp7YsZ" xml:lang="sv" type="speaker">
           Kyrkoherden Lyra:
         </note>
         <u xml:id="i-Cy7gRxFZ8dKEfbvgYKfdfo" who="i-Qnp6pqgLniPF2sFKE6V5wi">
@@ -8087,7 +8087,7 @@
             behöfves en jernväg med längre sträckning än ett vanligt gästgifverihåll.
           </seg>
         </u>
-        <note xml:id="i-HYmkf8BXUJbwU1Ssh9bsKP" type="speaker" xml:lang="sv">
+        <note xml:id="i-HYmkf8BXUJbwU1Ssh9bsKP" xml:lang="sv" type="speaker">
           Prosten Hjelt:
         </note>
         <u xml:id="i-WVyy9Hwv6v2sMQqRti3LEv" who="i-FfVRGMNn5KRqwAWb2KstnH">
@@ -8591,7 +8591,7 @@
           eikö kysymys olisi valiokuntaan takaisin lähetettävä uudestaan
           käsiteltäväksi. Sitä pyytäisin Säädyn ottamaan tutkinnon alaiseksi.
         </note>
-        <note xml:id="i-CTwP4UAtHExMENsT7inxE9" type="speaker" xml:lang="sv">
+        <note xml:id="i-CTwP4UAtHExMENsT7inxE9" xml:lang="sv" type="speaker">
           Professor Donner:
         </note>
         <u xml:id="i-KQDzLjS7eMCKuiQuLFbnVp" who="i-XbAQtPkdSaTdnLcpdJrmsg">
@@ -8651,7 +8651,7 @@
           Westerlund katsoo sopivaksi nyt valtiopäiväin viime hetkellä Säädyssä
           tehdä.
         </note>
-        <note xml:id="i-6Jm9NmY1SxfDzUQBDqooZ8" type="speaker" xml:lang="sv">
+        <note xml:id="i-6Jm9NmY1SxfDzUQBDqooZ8" xml:lang="sv" type="speaker">
           Kyrkoherden Öller:
         </note>
         <u xml:id="i-V4kDMzjpFEPV9Gf6pduZ5k" who="i-AyjRaKbfynRtsDXw51CRKR">
@@ -8891,7 +8891,7 @@
           mutkan Kokkolaan päin, jonka kautta se sivurata mikä arvattavasti
           sinne on rakennettava, tulisi lyhyemmäksi.
         </note>
-        <note xml:id="i-9mZt6jpJvoUG7DmtAskaVL" type="speaker" xml:lang="sv">
+        <note xml:id="i-9mZt6jpJvoUG7DmtAskaVL" xml:lang="sv" type="speaker">
           Kontraktsprosten Wegelius:
         </note>
         <u xml:id="i-NfMWrfQkU4EipBdMxG1e4p" who="i-VwibmpSUHRf18jjByiX717">
@@ -8957,7 +8957,7 @@
         <note xml:id="i-S45sGkyxpcde3tyEoowb3H" xml:lang="sv">
           Presteståndet 1882. 22 maj. 1415
         </note>
-        <note xml:id="i-2HQPp1XKxeqCCcDKXWx59r" type="speaker" xml:lang="sv">
+        <note xml:id="i-2HQPp1XKxeqCCcDKXWx59r" xml:lang="sv" type="speaker">
           Fältprosten Petterson:
         </note>
         <u xml:id="i-KirFMGX3QrvktcKkCdB4Eg" who="i-NpQ4pik31NjbjFQK1eTY2D">
@@ -8993,7 +8993,7 @@
             pröfning företagas, i fall utskottets betänkande vinner godkännande.
           </seg>
         </u>
-        <note xml:id="i-L3FK7PPjhT46jUtKNgPAZQ" type="speaker" xml:lang="sv">
+        <note xml:id="i-L3FK7PPjhT46jUtKNgPAZQ" xml:lang="sv" type="speaker">
           Professor Donner:
         </note>
         <u xml:id="i-6peUoA6K7WMhZhopHp5N2E" who="i-XbAQtPkdSaTdnLcpdJrmsg">
@@ -9073,7 +9073,7 @@
           olika intressena och olika yrkandena skulle på lämpligaste sätt
           tillgodoses.
         </note>
-        <note xml:id="i-FwLcQW7VsTjcqQZZapP7Xf" type="speaker" xml:lang="sv">
+        <note xml:id="i-FwLcQW7VsTjcqQZZapP7Xf" xml:lang="sv" type="speaker">
           Domprosten Renvall:
         </note>
         <u xml:id="i-HKJCCwTQdifChEgiRpr7cy" who="i-81Zkpqx4nbx5hBdZktoW1S">
@@ -9115,7 +9115,7 @@
             terräng besluta sig för sträckningens närmare detaljer.
           </seg>
         </u>
-        <note xml:id="i-MJqWCiTiKFAUxg4JZmSB2Z" type="speaker" xml:lang="sv">
+        <note xml:id="i-MJqWCiTiKFAUxg4JZmSB2Z" xml:lang="sv" type="speaker">
           Ofverläraren Kihlman:
         </note>
         <u xml:id="i-YSwjEUx96ynjjih9WjEoXy" who="i-34gigkRr2uXshwGmQ4qktb">
@@ -9278,7 +9278,7 @@
           är det enda som har utsigt att omkring sig samla en majoritet
           och bilda grunden för ett gemensamt ständerbeslut.
         </note>
-        <note xml:id="i-UBJt29oNevmGnFTRAMw7Et" type="speaker" xml:lang="sv">
+        <note xml:id="i-UBJt29oNevmGnFTRAMw7Et" xml:lang="sv" type="speaker">
           Doktor Lindelöf:
         </note>
         <u xml:id="i-BDAnn2PiySL8i2pXVUHMFR" who="i-8f5tRtT5D15j7HTFKPzTBC">
@@ -9324,7 +9324,7 @@
           rautatiettä ainoastaan sen vuoksi, että siellä voi vetää tämän
           tien useampiin eri suuntiin.
         </note>
-        <note xml:id="i-Wwycx82egUa5kXZ2WZzZKQ" type="speaker" xml:lang="sv">
+        <note xml:id="i-Wwycx82egUa5kXZ2WZzZKQ" xml:lang="sv" type="speaker">
           Professor Cleve:
         </note>
         <u xml:id="i-JfDADc7JpMozDs2L8mNiso" who="i-HfEbbpVpEUS7EMymsy7tc6">
@@ -9382,7 +9382,7 @@
           ehdotukset jotka hän on tehnyt, ovat vastaan kaikkea parlamentaarista
           tapaa.
         </note>
-        <note xml:id="i-FQw6JWgSCRtMnWhGAH1QG3" type="speaker" xml:lang="fi">
+        <note xml:id="i-FQw6JWgSCRtMnWhGAH1QG3" xml:lang="fi" type="speaker">
           Vice pastor Westerlund:
         </note>
         <u xml:id="i-653dvMRJhGJEnbwwdKQkEA" who="i-SzqzswQ1RPMaaeiMYjG5Ca">
@@ -9397,7 +9397,7 @@
             Se selvitykseksi, minkä tähden minä tuon ehdotuksen tein.
           </seg>
         </u>
-        <note xml:id="i-TRw22TVGaBAhNuKfQBp978" type="speaker" xml:lang="sv">
+        <note xml:id="i-TRw22TVGaBAhNuKfQBp978" xml:lang="sv" type="speaker">
           Vice pastor Eklund:
         </note>
         <u xml:id="i-EpU6Qb532xRwRdxmkgxxD5" who="i-6eNAyWqvwVhwshqVaFpBzh">
@@ -9441,7 +9441,7 @@
           att i Ståndet icke finnes någon suppleant, som kunde företräda
           de frånvarande ståndsmedlemmarne.
         </note>
-        <note xml:id="i-VXFtxYMaXT5oELs3y7YEAK" type="speaker" xml:lang="sv">
+        <note xml:id="i-VXFtxYMaXT5oELs3y7YEAK" xml:lang="sv" type="speaker">
           Kyrkoherden Hirvinen:
         </note>
         <u xml:id="i-CBLJLJRE1ngyK5RTUhUb7x" who="i-D2g5wWQiqw9p79PhuHGzim">
@@ -9457,7 +9457,7 @@
             skull icke hålla derpå, utan godkänner jernvägsutskottets förmedlingsförslag.
           </seg>
         </u>
-        <note xml:id="i-UZpqodMXZawHsMan6XFxJU" type="speaker" xml:lang="sv">
+        <note xml:id="i-UZpqodMXZawHsMan6XFxJU" xml:lang="sv" type="speaker">
           Kontraktsprosten Grönberg:
         </note>
         <u xml:id="i-J7kdjeFR94vjFifb52e5ob" who="i-MejDXzf7f7w3bWanLQKrgB">
@@ -9519,7 +9519,7 @@
           relation om statsverkets tillstånd, och yttrade sig med anledning
           häraf följande talare:
         </note>
-        <note xml:id="i-5W2RFrWbNkDCDhmz31ssWE" type="speaker" xml:lang="sv">
+        <note xml:id="i-5W2RFrWbNkDCDhmz31ssWE" xml:lang="sv" type="speaker">
           Doktor Lindelöf:
         </note>
         <u xml:id="i-DpFfg2KM6osW5mtMUU3mKK" who="i-8f5tRtT5D15j7HTFKPzTBC">
@@ -9737,7 +9737,7 @@
           väsentlig förbättring; statens räkenskaper i detta afseende skulle
           blifva tydligare och sakenligare än hittills varit fallet.
         </note>
-        <note xml:id="i-S3XBzQsfhnhJ71jzwSNRBT" type="speaker" xml:lang="sv">
+        <note xml:id="i-S3XBzQsfhnhJ71jzwSNRBT" xml:lang="sv" type="speaker">
           Prosten Hjelt:
         </note>
         <u xml:id="i-JW7poESEL1A1YNBCvALoDd" who="i-FfVRGMNn5KRqwAWb2KstnH">
@@ -9858,7 +9858,7 @@
           förfarande som statsutskottet icke endast vid denna utan redan
           vid föregäende landtdag klandrat.
         </note>
-        <note xml:id="i-KAfxNoJxsZG58XTYprpVKo" type="speaker" xml:lang="sv">
+        <note xml:id="i-KAfxNoJxsZG58XTYprpVKo" xml:lang="sv" type="speaker">
           Ofverläraren Kihlman:
         </note>
         <u xml:id="i-9ikEnfoWtprPnq6F8xy2W" who="i-34gigkRr2uXshwGmQ4qktb">
@@ -9943,7 +9943,7 @@
           så ber jag att få afstå från ordet för att framdeles vid tillfälle
           uttala mig med anledning af doktor Lindelöfs andragande.
         </note>
-        <note xml:id="i-Ar4TRx977ug7yzr7VrarJq" type="speaker" xml:lang="sv">
+        <note xml:id="i-Ar4TRx977ug7yzr7VrarJq" xml:lang="sv" type="speaker">
           Kyrkoherden Hirvinen:
         </note>
         <u xml:id="i-JneNVtxMaqKg6cHN8TUAUw" who="i-D2g5wWQiqw9p79PhuHGzim">
@@ -10333,7 +10333,7 @@
           om kommunalförvaltningen i stad finnes stadgadt; och yttrade sig
           med anledning häraf följande talare:
         </note>
-        <note xml:id="i-XCvpHs97ngP14zRC3mjVQ4" type="speaker" xml:lang="sv">
+        <note xml:id="i-XCvpHs97ngP14zRC3mjVQ4" xml:lang="sv" type="speaker">
           Professor Cleve:
         </note>
         <u xml:id="i-DY1f7qMRAfVowFxWQvXuhB" who="i-HfEbbpVpEUS7EMymsy7tc6">
@@ -10381,7 +10381,7 @@
           annan skilnad än att, sedan denna lag utfärdades, hafva privilegierna
           blifvit upphäfda.
         </note>
-        <note xml:id="i-FRcvSutDEhRU5f5GwtduRT" type="speaker" xml:lang="sv">
+        <note xml:id="i-FRcvSutDEhRU5f5GwtduRT" xml:lang="sv" type="speaker">
           Kontraktsprosten Stenbäck:
         </note>
         <u xml:id="i-8aU2ahcVgbzVghEQAMRD69" who="i-2pD791VLsqhv5WJ2JcdDCs">
@@ -10406,7 +10406,7 @@
           betänkande n:o 4 framstälda lagförslag angäende stämpelpappers
           bevillningen, och lemnade herr Talmannen dervid ordet ät
         </note>
-        <note xml:id="i-EwWMNmTGGcPCrqKjbSDCuh" type="speaker" xml:lang="sv">
+        <note xml:id="i-EwWMNmTGGcPCrqKjbSDCuh" xml:lang="sv" type="speaker">
           Prosten Hjelt, som yttrade:
         </note>
         <u xml:id="i-UBcaPayMA8RUsZKT62th5" who="i-FfVRGMNn5KRqwAWb2KstnH">
@@ -10507,7 +10507,7 @@
           till Ständets granskning först öfverlemnade inledningen, rörande
           hvilken
         </note>
-        <note xml:id="i-PXZvk8r9eJNqf5FFPACHUm" type="speaker" xml:lang="sv">
+        <note xml:id="i-PXZvk8r9eJNqf5FFPACHUm" xml:lang="sv" type="speaker">
           Doktor Lindelöf yttrade sig sålunda:
         </note>
         <u xml:id="i-H4swxVPEHAYwbgK1454G2D" who="i-8f5tRtT5D15j7HTFKPzTBC">
@@ -10530,7 +10530,7 @@
           Beträffande den härefter föredragna afdelningen A. I, som angår
           allmänna statsfonden yttrade sig följande talare:
         </note>
-        <note xml:id="i-AGYaphiiiMboxmgR2qtgHj" type="speaker" xml:lang="sv">
+        <note xml:id="i-AGYaphiiiMboxmgR2qtgHj" xml:lang="sv" type="speaker">
           Prosten Hjelt:
         </note>
         <u xml:id="i-NZv9kea1RHUEhTRZDm1qSa" who="i-FfVRGMNn5KRqwAWb2KstnH">
@@ -10633,7 +10633,7 @@
           palkankoroitus niiden ehdotuksien mukaan, mitkä armollisimmasti
           asetetut komiteat ovat asiassa tehneet.
         </note>
-        <note xml:id="i-HgZxPKXV4g1YR4LE6jpSRt" type="speaker" xml:lang="sv">
+        <note xml:id="i-HgZxPKXV4g1YR4LE6jpSRt" xml:lang="sv" type="speaker">
           Professor Donner:
         </note>
         <u xml:id="i-TjwQiSnqQW6mk5FM7U6xW9" who="i-XbAQtPkdSaTdnLcpdJrmsg">
@@ -10650,7 +10650,7 @@
             framläggas till Ständets granskning.
           </seg>
         </u>
-        <note xml:id="i-WN3fbNojw4ukpU2tN2uWPo" type="speaker" xml:lang="sv">
+        <note xml:id="i-WN3fbNojw4ukpU2tN2uWPo" xml:lang="sv" type="speaker">
           Öfverläraren Kihlman:
         </note>
         <u xml:id="i-CJnmJdBNtiptzmKD7xGVES" who="i-34gigkRr2uXshwGmQ4qktb">
@@ -10677,7 +10677,7 @@
           att göra sig skyldigt till nägon motsägelse, kan uttala sig angäende
           denna fråga.
         </note>
-        <note xml:id="i-DqK16gKgkh8p9mEXEKsghR" type="speaker" xml:lang="sv">
+        <note xml:id="i-DqK16gKgkh8p9mEXEKsghR" xml:lang="sv" type="speaker">
           Domprosten Renvall:
         </note>
         <u xml:id="i-H9PBcBxQD8z1h62ZLLsPsQ" who="i-81Zkpqx4nbx5hBdZktoW1S">
@@ -10771,7 +10771,7 @@
           koulunopettajat kuuluvat niiden virkamiesten joukkoon, jotka tarvitsevat
           palkankorotusta.
         </note>
-        <note xml:id="i-DY3EAskCDJB3KkVEdLLsBW" type="speaker" xml:lang="sv">
+        <note xml:id="i-DY3EAskCDJB3KkVEdLLsBW" xml:lang="sv" type="speaker">
           Prosten Hjelt:
         </note>
         <u xml:id="i-6LV6mkbXcEC6LZP3eKomRa" who="i-FfVRGMNn5KRqwAWb2KstnH">
@@ -10822,7 +10822,7 @@
           työhön verraten ja että siitä syystä olisi tarpeen opettajavirkain
           vähentäminen.
         </note>
-        <note xml:id="i-62Gds8HeomnKbLJb179w7k" type="speaker" xml:lang="sv">
+        <note xml:id="i-62Gds8HeomnKbLJb179w7k" xml:lang="sv" type="speaker">
           Professor Cleve:
         </note>
         <u xml:id="i-5aLXBaG8CdScj3WH5HWw9B" who="i-HfEbbpVpEUS7EMymsy7tc6">
@@ -10862,7 +10862,7 @@
           sädan petition, som rektor Geitlin föreslagit, hvarför jag är
           mera böjd att ansluta mig till hans förslag.
         </note>
-        <note xml:id="i-EgX7zyrvEiKcY7XznR7tUA" type="speaker" xml:lang="sv">
+        <note xml:id="i-EgX7zyrvEiKcY7XznR7tUA" xml:lang="sv" type="speaker">
           Domprosten Renvall:
         </note>
         <u xml:id="i-Qzf9QAw4PoXUW3pQ4mSiAx" who="i-81Zkpqx4nbx5hBdZktoW1S">
@@ -10895,7 +10895,7 @@
             Presteständet hellre vill besluta sig derför.
           </seg>
         </u>
-        <note xml:id="i-DpsKSqQqpEFKK7py7Zw2wv" type="speaker" xml:lang="sv">
+        <note xml:id="i-DpsKSqQqpEFKK7py7Zw2wv" xml:lang="sv" type="speaker">
           Prosten Hjelt:
         </note>
         <u xml:id="i-2Fd2ZnPS46GDi9a26BktKV" who="i-FfVRGMNn5KRqwAWb2KstnH">
@@ -10917,7 +10917,7 @@
           men den förekommer ett stycke längre fram, pä följande sida eller
           pä pag. 13, intagen.
         </note>
-        <note xml:id="i-2p3sNDjzQuSENkYnzPcZNd" type="speaker" xml:lang="sv">
+        <note xml:id="i-2p3sNDjzQuSENkYnzPcZNd" xml:lang="sv" type="speaker">
           Professor Donner:
         </note>
         <u xml:id="i-URQwR1CchP9mjBSrzh6Gc3" who="i-XbAQtPkdSaTdnLcpdJrmsg">
@@ -10958,7 +10958,7 @@
           och dess underafdelning I om »amortissementsfonden», yttrade sig
           hvar efter annan följande talare:
         </note>
-        <note xml:id="i-6ph5BjfmUDMJkMRW4FPH2e" type="speaker" xml:lang="sv">
+        <note xml:id="i-6ph5BjfmUDMJkMRW4FPH2e" xml:lang="sv" type="speaker">
           Fältprosten Petterson:
         </note>
         <u xml:id="i-J18hcjeP9CV1WCMTv6Ak2Z" who="i-NpQ4pik31NjbjFQK1eTY2D">
@@ -10981,7 +10981,7 @@
           och dyra byggnadsföretag blifvit företagna, helt säkert ersätta
           den ränta, som amortissementsfonden gått miste om.
         </note>
-        <note xml:id="i-MfRLGA3JYgVTHMSdMQkmQq" type="speaker" xml:lang="sv">
+        <note xml:id="i-MfRLGA3JYgVTHMSdMQkmQq" xml:lang="sv" type="speaker">
           Öfverläraren Kihlman:
         </note>
         <u xml:id="i-UULBu7U3e9fHevTnwJAbPh" who="i-34gigkRr2uXshwGmQ4qktb">
@@ -11126,7 +11126,7 @@
           andra Ständen, icke godkänna statsutskottets projekt att amortissementsfonden
           skall upphöra med sin länerörelse.
         </note>
-        <note xml:id="i-KV4mKPv4VkfWHXtuvTw26c" type="speaker" xml:lang="sv">
+        <note xml:id="i-KV4mKPv4VkfWHXtuvTw26c" xml:lang="sv" type="speaker">
           Professor Cleve:
         </note>
         <u xml:id="i-SiKNsKrh4hZFCscfRBsb7L" who="i-HfEbbpVpEUS7EMymsy7tc6">
@@ -11186,7 +11186,7 @@
           saisivat lainoja, mutta sitä tahdon yhä vastustaa, että tätä rahastoa
           käytettäisiin lainarahastoksi yksityisiä henkilöjä varten.
         </note>
-        <note xml:id="i-5zJC59Bgw5hQ7XpzxcTAoZ" type="speaker" xml:lang="sv">
+        <note xml:id="i-5zJC59Bgw5hQ7XpzxcTAoZ" xml:lang="sv" type="speaker">
           Doktor Lindelöf:
         </note>
         <u xml:id="i-SHEFDPu2LBrdG3vpRLRsEA" who="i-8f5tRtT5D15j7HTFKPzTBC">
@@ -11254,7 +11254,7 @@
           Kontraktsprosten Grönberg biträdde öfverläraren Kihlmans reservation
           med den af prosten Johnsson gjorda inskränkningen.
         </note>
-        <note xml:id="i-JRHtxBu1pwpptouAxqVspv" type="speaker" xml:lang="sv">
+        <note xml:id="i-JRHtxBu1pwpptouAxqVspv" xml:lang="sv" type="speaker">
           Prosten Hjelt:
         </note>
         <u xml:id="i-MZjsT8TgNT4fsVnXJrqFjT" who="i-FfVRGMNn5KRqwAWb2KstnH">
@@ -11289,7 +11289,7 @@
           samma fond, de hafva sina olika hjelpkällor och kunna säledes
           icke bilda en fond.
         </note>
-        <note xml:id="i-Abx8SxxqASbJBTNKpbY98X" type="speaker" xml:lang="sv">
+        <note xml:id="i-Abx8SxxqASbJBTNKpbY98X" xml:lang="sv" type="speaker">
           Öfverläraren Kihlman:
         </note>
         <u xml:id="i-E8SDXsV1LPmTSnyCt3SbWQ" who="i-34gigkRr2uXshwGmQ4qktb">
@@ -11472,7 +11472,7 @@
           varten pitemmäksi ajaksi rahalainoja. Minä luulen myöskin, että
           yhteistä parasta voidaan edistää yksityisiäkin auttamalla.
         </note>
-        <note xml:id="i-PygNQWizj61QfwZ9JSAPT4" type="speaker" xml:lang="sv">
+        <note xml:id="i-PygNQWizj61QfwZ9JSAPT4" xml:lang="sv" type="speaker">
           Öfverläraren Kihlman:
         </note>
         <u xml:id="i-PgSg2JoEcr3X6sGoJm4JbB" who="i-34gigkRr2uXshwGmQ4qktb">
@@ -11514,7 +11514,7 @@
           sina förbindelser. Det faktiska förhållandet visar således att
           häruti ligger ingen motsägelse.
         </note>
-        <note xml:id="i-PYhcSggLxQAme1mt3VuyP5" type="speaker" xml:lang="sv">
+        <note xml:id="i-PYhcSggLxQAme1mt3VuyP5" xml:lang="sv" type="speaker">
           Professor Donner:
         </note>
         <u xml:id="i-BkFsAvav2BdCb9qhQUReHD" who="i-XbAQtPkdSaTdnLcpdJrmsg">
@@ -11607,7 +11607,7 @@
           Beträffande den härefter föredragna 2:dra underafdelningen om
           stämpelpappersbevillning yttrade sig:
         </note>
-        <note xml:id="i-6fJ1mrKjqNow6Fsww8AnVY" type="speaker" xml:lang="sv">
+        <note xml:id="i-6fJ1mrKjqNow6Fsww8AnVY" xml:lang="sv" type="speaker">
           Prosten Hjelt:
         </note>
         <u xml:id="i-V2HWtLux79VikbhyjhVkEe" who="i-FfVRGMNn5KRqwAWb2KstnH">
@@ -11658,7 +11658,7 @@
           Beträffande underafdelningen V om kommunikationsfonden yttrade
           sig:
         </note>
-        <note xml:id="i-FxXFZkydRwAzBtCYWuKa6f" type="speaker" xml:lang="fi">
+        <note xml:id="i-FxXFZkydRwAzBtCYWuKa6f" xml:lang="fi" type="speaker">
           Prosten Johnsson:
         </note>
         <u xml:id="i-6oQmPvcAH11yPK5dkC35Cs" who="i-QVrcwFYjcxwn93KdWmPBk3">
@@ -11702,7 +11702,7 @@
           och förslag kunna gifva anledning; och yttrade sig med anledning
           häraf följande talare:
         </note>
-        <note xml:id="i-AkDoXfKwQX6kU8s2JQ7gKx" type="speaker" xml:lang="sv">
+        <note xml:id="i-AkDoXfKwQX6kU8s2JQ7gKx" xml:lang="sv" type="speaker">
           Doktor Lindelöf:
         </note>
         <u xml:id="i-5iA4afJpfe4EqbQ7jPDbFe" who="i-8f5tRtT5D15j7HTFKPzTBC">
@@ -11801,7 +11801,7 @@
         <note xml:id="i-PuS4DqmchSSWimhZpS9dvK" xml:lang="sv">
           8 6. Beträffande denna paragraf yttrade sig:
         </note>
-        <note xml:id="i-LaqNH3WHoTpF8RfB9JC4k5" type="speaker" xml:lang="sv">
+        <note xml:id="i-LaqNH3WHoTpF8RfB9JC4k5" xml:lang="sv" type="speaker">
           Öfverläraren Kihlman:
         </note>
         <u xml:id="i-9DgXDwryVEjPjDMduccrct" who="i-34gigkRr2uXshwGmQ4qktb">
@@ -11846,7 +11846,7 @@
           god förändring som bankutskottet här infört. Jag godkänner paragrafen
           sädan den är.
         </note>
-        <note xml:id="i-Gp3Um2i51619g4pwMzpX9D" type="speaker" xml:lang="sv">
+        <note xml:id="i-Gp3Um2i51619g4pwMzpX9D" xml:lang="sv" type="speaker">
           Doktor Lindelöf:
         </note>
         <u xml:id="i-6qAYDAUg5WXtLwLWYoPWui" who="i-8f5tRtT5D15j7HTFKPzTBC">
@@ -11916,7 +11916,7 @@
         <note xml:id="i-REU1CasaukB5aNPCrpcW6y" xml:lang="sv">
           1466 Presteståndet 1882. 23 maj.
         </note>
-        <note xml:id="i-GjEeiSVWuY3vfnCo5PioeS" type="speaker" xml:lang="sv">
+        <note xml:id="i-GjEeiSVWuY3vfnCo5PioeS" xml:lang="sv" type="speaker">
           Prosten Hjelt:
         </note>
         <u xml:id="i-EYMwmNdDf4ecspQZDNDMHA" who="i-FfVRGMNn5KRqwAWb2KstnH">
@@ -11938,7 +11938,7 @@
           syitä, jotka valiokunta oli maininnut muutosehdotuksensa perusteiksi,
           kyllin pätevinä.
         </note>
-        <note xml:id="i-46EeyjTnPVBz9Xgic7qms7" type="speaker" xml:lang="sv">
+        <note xml:id="i-46EeyjTnPVBz9Xgic7qms7" xml:lang="sv" type="speaker">
           Kyrkoherden Hirvinen:
         </note>
         <u xml:id="i-5b1qpkWkRsWeaDiB3Z6kPH" who="i-D2g5wWQiqw9p79PhuHGzim">
@@ -11955,7 +11955,7 @@
             vidtagit den ifrågavarande förändringen.
           </seg>
         </u>
-        <note xml:id="i-7chTFFkK3F6wT9VPFxCxeN" type="speaker" xml:lang="sv">
+        <note xml:id="i-7chTFFkK3F6wT9VPFxCxeN" xml:lang="sv" type="speaker">
           Öfverläraren Kihlman:
         </note>
         <u xml:id="i-25LJrzyppPy8YdriG1D287" who="i-34gigkRr2uXshwGmQ4qktb">
@@ -12020,7 +12020,7 @@
           Prosten Hjelt förklarade att det vore ett misstag att anse ombudsmannen
           tillhöra direktionen.
         </note>
-        <note xml:id="i-D2Es7K3dDqmbY1kwwVjnR3" type="speaker" xml:lang="sv">
+        <note xml:id="i-D2Es7K3dDqmbY1kwwVjnR3" xml:lang="sv" type="speaker">
           Professor Runeberg:
         </note>
         <u xml:id="i-Ff1roDR1YzjrZpyCJtwUU1" who="i-QQ7rzMcvpGv1RunkkD3Hgv">
@@ -12126,7 +12126,7 @@
           8 86 antogs oförändrad. Beträffande 1:sta mom. af $ 88 yttrade
           sig följande talare:
         </note>
-        <note xml:id="i-XB6KfFyYJiyFyJnswKAE7n" type="speaker" xml:lang="sv">
+        <note xml:id="i-XB6KfFyYJiyFyJnswKAE7n" xml:lang="sv" type="speaker">
           Öfverläraren Kihlman:
         </note>
         <u xml:id="i-CTu89JutqbmymdrNcogzbG" who="i-34gigkRr2uXshwGmQ4qktb">
@@ -12483,7 +12483,7 @@
           för att i framtiden skall kunna undvikas de störa förluster, som
           banken hittills gjort.
         </note>
-        <note xml:id="i-VHMk7huZkhuXnkPhwY2KqN" type="speaker" xml:lang="sv">
+        <note xml:id="i-VHMk7huZkhuXnkPhwY2KqN" xml:lang="sv" type="speaker">
           Prosten Hjelt:
         </note>
         <u xml:id="i-9nAyXW9cZiC2pYpyZQcJCG" who="i-FfVRGMNn5KRqwAWb2KstnH">
@@ -12600,7 +12600,7 @@
           där de utan omgängar kunna fä sina ärender snabt expedierade.
           Det är detta som affärsmannen lägger vigt pä.
         </note>
-        <note xml:id="i-SGNcycses5GvRwv3jj97wj" type="speaker" xml:lang="sv">
+        <note xml:id="i-SGNcycses5GvRwv3jj97wj" xml:lang="sv" type="speaker">
           Doktor Lindelöf:
         </note>
         <u xml:id="i-EFFpChWiAqboQbfYJheP8c" who="i-8f5tRtT5D15j7HTFKPzTBC">
@@ -12689,7 +12689,7 @@
           varit fallet. Jag anser derföre att bankutskottets ifrågavarande
           förslag bör af Ståndet godkännas.
         </note>
-        <note xml:id="i-S5NyroAuNWQ92o6NhysCNG" type="speaker" xml:lang="sv">
+        <note xml:id="i-S5NyroAuNWQ92o6NhysCNG" xml:lang="sv" type="speaker">
           Kontraktsprosten Grönberg:
         </note>
         <u xml:id="i-K4cLNu6jkiZyWEk8JxtGvu" who="i-MejDXzf7f7w3bWanLQKrgB">
@@ -12799,7 +12799,7 @@
           svårighet för banktjenstemännen att under en kortare tid tjenstgöra
           för hvarandra.
         </note>
-        <note xml:id="i-VnRVAkT7nxmMRmssHZVP1w" type="speaker" xml:lang="sv">
+        <note xml:id="i-VnRVAkT7nxmMRmssHZVP1w" xml:lang="sv" type="speaker">
           Professor Runeberg:
         </note>
         <u xml:id="i-LJiMVU3hbGgy63pFoMvB7S" who="i-QQ7rzMcvpGv1RunkkD3Hgv">
@@ -13623,7 +13623,7 @@
           Angäende 2:dra kap. »om straff enligt denna lag», yttrade sig
           följande talare:
         </note>
-        <note xml:id="i-Wi7biwJi2HN25KMawcfbCy" type="speaker" xml:lang="sv">
+        <note xml:id="i-Wi7biwJi2HN25KMawcfbCy" xml:lang="sv" type="speaker">
           Kyrkoherden Öller:
         </note>
         <u xml:id="i-5FoKQ5MbYRSPgdrUKovK5J" who="i-AyjRaKbfynRtsDXw51CRKR">
@@ -13744,7 +13744,7 @@
           straff hade tillkommit för att man velat undvika kroppsstraff,
           hvilka i mänga fall skulle vara lämpligare.
         </note>
-        <note xml:id="i-LqGYaZrPLAFNTMAdGXFbWz" type="speaker" xml:lang="sv">
+        <note xml:id="i-LqGYaZrPLAFNTMAdGXFbWz" xml:lang="sv" type="speaker">
           Fältprosten Petterson:
         </note>
         <u xml:id="i-3CCS6m3dw1WiEBwvCxhzgV" who="i-NpQ4pik31NjbjFQK1eTY2D">
@@ -13888,7 +13888,7 @@
           att väl fienden sjelf lämpligast bestraffar öfverlöpare från sin
           sida.
         </note>
-        <note xml:id="i-7RC8ed3E24WTpVxE2zrn4H" type="speaker" xml:lang="sv">
+        <note xml:id="i-7RC8ed3E24WTpVxE2zrn4H" xml:lang="sv" type="speaker">
           Kyrkoherden Öller:
         </note>
         <u xml:id="i-WzQsRCQ5DCbMr16Avi6Vsz" who="i-AyjRaKbfynRtsDXw51CRKR">
@@ -13931,7 +13931,7 @@
         <note xml:id="i-H4688HAyaeRBDHjX4jp3ko" xml:lang="sv">
           Prosten Rosengren förenade sig med fältprosten Petterson.
         </note>
-        <note xml:id="i-45bv6KKKhxsMX6X783nfHM" type="speaker" xml:lang="sv">
+        <note xml:id="i-45bv6KKKhxsMX6X783nfHM" xml:lang="sv" type="speaker">
           Öfverläraren Kihlman:
         </note>
         <u xml:id="i-JjABAcWqnojLSiahr8j4zC" who="i-34gigkRr2uXshwGmQ4qktb">
@@ -14078,7 +14078,7 @@
           Professor Forsman, G. Z., luopui sananvuorosta. Domprosten Renvall
           afstod frän ordet.
         </note>
-        <note xml:id="i-AUQGG9S9uSkFLs1G4JPVwJ" type="speaker" xml:lang="sv">
+        <note xml:id="i-AUQGG9S9uSkFLs1G4JPVwJ" xml:lang="sv" type="speaker">
           Professor Cleve:
         </note>
         <u xml:id="i-AxiFXPNhJZY72U7pdiYdA6" who="i-HfEbbpVpEUS7EMymsy7tc6">
@@ -14110,7 +14110,7 @@
           Beträffande 8 kap. om plundring samt särskilda andra brott mot
           person och egendom i fält, yttrade sig följande talare:
         </note>
-        <note xml:id="i-VnenLmnRGVd2FwfjnWQPuZ" type="speaker" xml:lang="sv">
+        <note xml:id="i-VnenLmnRGVd2FwfjnWQPuZ" xml:lang="sv" type="speaker">
           Professor Cleve:
         </note>
         <u xml:id="i-4DQ1D9N6xyyS6F6v4w8MJG" who="i-HfEbbpVpEUS7EMymsy7tc6">
@@ -14138,7 +14138,7 @@
           antingen sådan den här föreligger eller förändrad enligt utskottets
           bättre vetande.
         </note>
-        <note xml:id="i-PbBD1Tk48prxgeq6XJEk7e" type="speaker" xml:lang="sv">
+        <note xml:id="i-PbBD1Tk48prxgeq6XJEk7e" xml:lang="sv" type="speaker">
           Prosten Fredriksson:
         </note>
         <u xml:id="i-EtLMD9rd2mJLdkpoRiEgxA" who="unknown">
@@ -14156,7 +14156,7 @@
             borde bibehållas.
           </seg>
         </u>
-        <note xml:id="i-LTAYcdVMtSUVEay4NGTMEX" type="speaker" xml:lang="sv">
+        <note xml:id="i-LTAYcdVMtSUVEay4NGTMEX" xml:lang="sv" type="speaker">
           Kyrkoherden Öller:
         </note>
         <u xml:id="i-WyNHEod5CaqMQJtrkHqang" who="i-AyjRaKbfynRtsDXw51CRKR">
@@ -14183,7 +14183,7 @@
             dräpare.
           </seg>
         </u>
-        <note xml:id="i-PUhaZ7FGJXvTZqCz2j81bw" type="speaker" xml:lang="sv">
+        <note xml:id="i-PUhaZ7FGJXvTZqCz2j81bw" xml:lang="sv" type="speaker">
           Professor Runeberg:
         </note>
         <u xml:id="i-B9ypYtvznTa817QGVBh5yZ" who="i-QQ7rzMcvpGv1RunkkD3Hgv">
@@ -14212,7 +14212,7 @@
           reservationen, att ifrägavarande paragraf mätte antagas enligt
           den formulering den har i kejserliga propositionen.
         </note>
-        <note xml:id="i-wbRKTBYSu3BwwMoLCK7R9" type="speaker" xml:lang="sv">
+        <note xml:id="i-wbRKTBYSu3BwwMoLCK7R9" xml:lang="sv" type="speaker">
           Kyrkoherden Lyra:
         </note>
         <u xml:id="i-PRbstDa3RF7HUshDA5Ky4t" who="i-Qnp6pqgLniPF2sFKE6V5wi">
@@ -14250,7 +14250,7 @@
           från innevånare i fiendtligt land, dömes för plundring etc.» Minä
           puolustan pykälää sellaisena kuin valiokunta sen on muodostanut.
         </note>
-        <note xml:id="i-SszcesnRTAxagAKCPu8r91" type="speaker" xml:lang="sv">
+        <note xml:id="i-SszcesnRTAxagAKCPu8r91" xml:lang="sv" type="speaker">
           Professor Runeberg:
         </note>
         <u xml:id="i-38AxUx6dWaqrVH71jzgmHe" who="i-QQ7rzMcvpGv1RunkkD3Hgv">
@@ -14312,7 +14312,7 @@
           mainittu pykälä tähän otetaan, niin täytyy johdonmukaisuuden vuoksi
           tehdä joukko muitakin muutoksia.
         </note>
-        <note xml:id="i-CnV8vH6K7YS3MZKqvmGj6h" type="speaker" xml:lang="sv">
+        <note xml:id="i-CnV8vH6K7YS3MZKqvmGj6h" xml:lang="sv" type="speaker">
           Professor Cleve:
         </note>
         <u xml:id="i-Q79cEoBavqLjC94FQ2irfq" who="i-HfEbbpVpEUS7EMymsy7tc6">
@@ -14333,7 +14333,7 @@
           icke; ej heller förstår jag att intagande af denna paragraf skulle
           inverka på lagförslagets öfriga paragrafer.
         </note>
-        <note xml:id="i-ENYTXW7Vxw1fGn1LkcW65Y" type="speaker" xml:lang="sv">
+        <note xml:id="i-ENYTXW7Vxw1fGn1LkcW65Y" xml:lang="sv" type="speaker">
           Prosten Rosengren:
         </note>
         <u xml:id="i-9mkWV4rKEtAzctjMfs2aDV" who="i-UUFQ5w6CUWXPKeDW8gRVf7">
@@ -14353,7 +14353,7 @@
           miten menetettäisiin, jos joku ennen tappelua ryhtyisi mainitussa
           pykälässä kiellettyyn anastukseen.
         </note>
-        <note xml:id="i-WcSwMq6kqGWPu2sKdLctQb" type="speaker" xml:lang="sv">
+        <note xml:id="i-WcSwMq6kqGWPu2sKdLctQb" xml:lang="sv" type="speaker">
           Domprosten Renvall:
         </note>
         <u xml:id="i-EVFW15bzm1QKhxxSocgPoP" who="i-81Zkpqx4nbx5hBdZktoW1S">
@@ -14438,7 +14438,7 @@
           yleisen lain kanssa ja pro secundo, että jos se muodostetaan yhdenmukaiseksi
           yleisen lain kanssa, se on aivan tarpeeton.
         </note>
-        <note xml:id="i-8vzyfgFiTNNusXXWQyTTVs" type="speaker" xml:lang="sv">
+        <note xml:id="i-8vzyfgFiTNNusXXWQyTTVs" xml:lang="sv" type="speaker">
           Professor Cleve:
         </note>
         <u xml:id="i-3CnMPuu9NFndo8konMG8jY" who="i-HfEbbpVpEUS7EMymsy7tc6">
@@ -14577,7 +14577,7 @@
           nu, då vår värnepligtiga ungdom behöfver all den vård, som den
           af själasörjaren kan erhålla.
         </note>
-        <note xml:id="i-RACUfEuagHWZcvEii7no9H" type="speaker" xml:lang="sv">
+        <note xml:id="i-RACUfEuagHWZcvEii7no9H" xml:lang="sv" type="speaker">
           Kontraktsprosten Grönberg:
         </note>
         <u xml:id="i-6GPJ7fCLAfucEPm24VTECH" who="i-MejDXzf7f7w3bWanLQKrgB">
@@ -14591,7 +14591,7 @@
             ty der heter det »göre denna anmälan derom hos domkapitel».
           </seg>
         </u>
-        <note xml:id="i-NeMxVz4UWBDqoXJjvxezeh" type="speaker" xml:lang="sv">
+        <note xml:id="i-NeMxVz4UWBDqoXJjvxezeh" xml:lang="sv" type="speaker">
           Prosten Rosengren:
         </note>
         <u xml:id="i-47rXB5XQvFUdBSepU63sRf" who="i-UUFQ5w6CUWXPKeDW8gRVf7">
@@ -14606,7 +14606,7 @@
             derigenom ingalunda sitt anseende.
           </seg>
         </u>
-        <note xml:id="i-DHNytjTMBHMov8MFrDGvQs" type="speaker" xml:lang="sv">
+        <note xml:id="i-DHNytjTMBHMov8MFrDGvQs" xml:lang="sv" type="speaker">
           Fältprosten Petterson:
         </note>
         <u xml:id="i-SJAtZ98dyRHd7KP9ndLHs3" who="i-NpQ4pik31NjbjFQK1eTY2D">
@@ -14961,7 +14961,7 @@
           äänestettäisiin erikseen, onko lakiehdotus kokonaisuudessaan sellaiseksi
           muutettuna kuin Pappissääty haluaa hyväksyttävä vai eikö.
         </note>
-        <note xml:id="i-QKcSP143jaZsib5B3xSZLX" type="speaker" xml:lang="sv">
+        <note xml:id="i-QKcSP143jaZsib5B3xSZLX" xml:lang="sv" type="speaker">
           Professor Runeberg:
         </note>
         <u xml:id="i-NsP2B1RaDUpyJs8X43GRPh" who="i-QQ7rzMcvpGv1RunkkD3Hgv">
@@ -14991,7 +14991,7 @@
           Det är på dessa grunder jag i hvarje afseende förenar mig med
           reservanterne.
         </note>
-        <note xml:id="i-CbXdgfqVMeFU2Rhm7Hrfz6" type="speaker" xml:lang="unknown">
+        <note xml:id="i-CbXdgfqVMeFU2Rhm7Hrfz6" xml:lang="unknown" type="speaker">
           Doktor Nordström:
         </note>
         <u xml:id="i-C4PqcSPAm9sNX4suyhfLLe" who="i-QwcTLbpo4YVwryjr1GArpy">
@@ -15044,7 +15044,7 @@
         <note xml:id="i-FvfnjmVjVu9z6184yqhVgc" xml:lang="sv">
           1520 Presteståndet 1882. 25 maj.
         </note>
-        <note xml:id="i-9YychFgMhAuKj9yK3wnJ1z" type="speaker" xml:lang="unknown">
+        <note xml:id="i-9YychFgMhAuKj9yK3wnJ1z" xml:lang="unknown" type="speaker">
           Vicepastor Eklund:
         </note>
         <u xml:id="i-Csbw1WDV8on3T24EFCYWQu" who="i-6eNAyWqvwVhwshqVaFpBzh">
@@ -15126,7 +15126,7 @@
           johon olisi pyrittävä, siihen nimittäin, että tuo arveluttava
           viinatulvan lähde kaupungeista tulisi poistetuksi.
         </note>
-        <note xml:id="i-KR6GzGLoaWuqw9ucuPHMi2" type="speaker" xml:lang="sv">
+        <note xml:id="i-KR6GzGLoaWuqw9ucuPHMi2" xml:lang="sv" type="speaker">
           Kontraktsprosten Dahlberg:
         </note>
         <u xml:id="i-Qoumavi2jGbEt4W8qnp2qf" who="i-RhBRSkx9yQCaJTuJXtgxWb">
@@ -15209,7 +15209,7 @@
           tässä ehdotuksessa saattaa olla muutamia parannuksia, ja parannuksiahan
           on pyydetty ja vaadittukin.
         </note>
-        <note xml:id="i-QkCQQViMD5XLZKvn8Gs4d" type="speaker" xml:lang="sv">
+        <note xml:id="i-QkCQQViMD5XLZKvn8Gs4d" xml:lang="sv" type="speaker">
           Prosten Hjelt:
         </note>
         <u xml:id="i-PfshezxccURnXpE41Q5LSZ" who="i-FfVRGMNn5KRqwAWb2KstnH">
@@ -15250,7 +15250,7 @@
           att börja med diskussionen i Presteständet ensamt, ty den leder
           dock ej till nägot praktiskt resultat.
         </note>
-        <note xml:id="i-4FkZmrUXtSc858HqheNP56" type="speaker" xml:lang="sv">
+        <note xml:id="i-4FkZmrUXtSc858HqheNP56" xml:lang="sv" type="speaker">
           Vice pastor Böök:
         </note>
         <u xml:id="i-RrL5mRoJC1gXxoSL1LKKju" who="i-KxTPNsdvaDSQXea4wDGU8f">
@@ -15290,7 +15290,7 @@
           skulle sålunda för min del föreslå att utskottets betänkande paragrafvis
           skulle diskuteras.
         </note>
-        <note xml:id="i-HVSGMpfaGBheMDaWneZfpE" type="speaker" xml:lang="sv">
+        <note xml:id="i-HVSGMpfaGBheMDaWneZfpE" xml:lang="sv" type="speaker">
           Professor Runeberg:
         </note>
         <u xml:id="i-K5PuH9w8NuUPvAy2CF4DqX" who="i-QQ7rzMcvpGv1RunkkD3Hgv">
@@ -15325,7 +15325,7 @@
           tulla aivan toisellaiseen päätökseen ja mitä nyt pidetään varmana
           totuutena, se voi tuleviksi valtiopäiviksi olla kumottu.
         </note>
-        <note xml:id="i-9z7B4L2N54rFqoLA5nkkWW" type="speaker" xml:lang="sv">
+        <note xml:id="i-9z7B4L2N54rFqoLA5nkkWW" xml:lang="sv" type="speaker">
           Doktor Granfelt:
         </note>
         <u xml:id="i-GMmnKG69VxXErs5659bRHr" who="i-HPjHzSRBVZu5dgj2E8rwgi">
@@ -15436,7 +15436,7 @@
           egen drift icke skulle tilläta inrättande af bränneri nära kyrka
           eller skola o. s. v.
         </note>
-        <note xml:id="i-BvD9mv8grxUD9nqM9vtj71" type="speaker" xml:lang="sv">
+        <note xml:id="i-BvD9mv8grxUD9nqM9vtj71" xml:lang="sv" type="speaker">
           Domprosten Renvall:
         </note>
         <u xml:id="i-QEcfLWHAok6zG3o7eD9HVy" who="i-81Zkpqx4nbx5hBdZktoW1S">
@@ -15455,7 +15455,7 @@
           att minuthandel icke får ega rum en verst nära kyrka, det derför
           icke var sagdt att bränneri icke jär inrättas nära kyrka.
         </note>
-        <note xml:id="i-Xr1CMo1UpZwMBMagTTHaeL" type="speaker" xml:lang="sv">
+        <note xml:id="i-Xr1CMo1UpZwMBMagTTHaeL" xml:lang="sv" type="speaker">
           Professor Cleve:
         </note>
         <u xml:id="i-CLzLK369snSPpoKZkczfd3" who="i-HfEbbpVpEUS7EMymsy7tc6">
@@ -15516,7 +15516,7 @@
           i själfva verket blef '/, månad längre än i den nädiga propositionen
           var föreslaget.
         </note>
-        <note xml:id="i-3E2FqUBR7tHNgSGW7xEYo6" type="speaker" xml:lang="sv">
+        <note xml:id="i-3E2FqUBR7tHNgSGW7xEYo6" xml:lang="sv" type="speaker">
           Vicepastor Böök:
         </note>
         <u xml:id="i-8poKFA5zMfJF29KaPutcMh" who="i-KxTPNsdvaDSQXea4wDGU8f">
@@ -15535,7 +15535,7 @@
           Doktor Nordström afstod med anledning af vicepastor Bööks yttrande
           ifrän ordet.
         </note>
-        <note xml:id="i-EEb5JUDFjpn8hsRYyFLqy9" type="speaker" xml:lang="sv">
+        <note xml:id="i-EEb5JUDFjpn8hsRYyFLqy9" xml:lang="sv" type="speaker">
           Kontraktsprosten Stenbäck:
         </note>
         <u xml:id="i-WoJRQdJXi9cXJcxJiCcazW" who="i-2pD791VLsqhv5WJ2JcdDCs">
@@ -15790,7 +15790,7 @@
           att skatten skulle ställas mycket låg, men såsom saken nu gestaltar
           sig, önskar jag att den höjes.
         </note>
-        <note xml:id="i-QXXXgbZhLkjbv7jsGcNkQC" type="speaker" xml:lang="sv">
+        <note xml:id="i-QXXXgbZhLkjbv7jsGcNkQC" xml:lang="sv" type="speaker">
           Pastor Eklund:
         </note>
         <u xml:id="i-WxrpWXzmdEC6L65Y9MR8UP" who="i-6eNAyWqvwVhwshqVaFpBzh">
@@ -16076,7 +16076,7 @@
           skulle befrias från skatt för det bränvin han har på nederlag,
           ifall detta genom vådeld förstöres.
         </note>
-        <note xml:id="i-Lrr3yooZARp2jnrwD7jc8Q" type="speaker" xml:lang="sv">
+        <note xml:id="i-Lrr3yooZARp2jnrwD7jc8Q" xml:lang="sv" type="speaker">
           Prosten Hjelt:
         </note>
         <u xml:id="i-GtB9TwrtApiNVqB8aAemPd" who="i-FfVRGMNn5KRqwAWb2KstnH">
@@ -16200,7 +16200,7 @@
           det så att ingen ser, och emedan, om någon tillfälligtvis såge
           det, straff kunde ådömas enligt allmän lag.
         </note>
-        <note xml:id="i-JoE3keucbWDzbg5xuoK6bh" type="speaker" xml:lang="sv">
+        <note xml:id="i-JoE3keucbWDzbg5xuoK6bh" xml:lang="sv" type="speaker">
           Domprosten Renvall:
         </note>
         <u xml:id="i-CjXH2zRrDoi8AtcPVdF3uE" who="i-81Zkpqx4nbx5hBdZktoW1S">
@@ -16300,7 +16300,7 @@
           ei Pappissäädyn keskustelu voisi tuottaa asialle mitään suoranaista
           hyötyä.
         </note>
-        <note xml:id="i-KtLg3JXgA3BNFLHaoMecrr" type="speaker" xml:lang="sv">
+        <note xml:id="i-KtLg3JXgA3BNFLHaoMecrr" xml:lang="sv" type="speaker">
           Kontraktsprosten Helander:
         </note>
         <u xml:id="i-LSKr7TfTupgqoKygjSo3sk" who="i-89jFrq7FjBEeRhr9LtLkMw">
@@ -16417,7 +16417,7 @@
           88 5—7 gillades likaledes oförändrade. Med anledning af $ 8 yttrade
           sig följande talare:
         </note>
-        <note xml:id="i-2p5KqqaeQ1qshg4zMzjBxm" type="speaker" xml:lang="unknown">
+        <note xml:id="i-2p5KqqaeQ1qshg4zMzjBxm" xml:lang="unknown" type="speaker">
           Vicepastor Eklund:
         </note>
         <u xml:id="i-8AdRcrESeS1ckFzbor1Wnh" who="i-6eNAyWqvwVhwshqVaFpBzh">
@@ -16466,7 +16466,7 @@
           ehdottaisin tähänkin pykälään, jos pykälä hyväksytään. Minä puolestani,
           kuten sanoin, äänestän sen hylkäämistä.
         </note>
-        <note xml:id="i-RxcipCkWL5yWp1wJEKnzSF" type="speaker" xml:lang="sv">
+        <note xml:id="i-RxcipCkWL5yWp1wJEKnzSF" xml:lang="sv" type="speaker">
           Domprosten Renvall:
         </note>
         <u xml:id="i-ChLLBKhgXvqCHjwx2KA7UU" who="i-81Zkpqx4nbx5hBdZktoW1S">
@@ -16513,7 +16513,7 @@
           åstadkommas. Jag yrkar på antagandet af paragrafen enligt utskottets
           betänkande.
         </note>
-        <note xml:id="i-7RHH3KSiLhPX4qFh37XZjt" type="speaker" xml:lang="sv">
+        <note xml:id="i-7RHH3KSiLhPX4qFh37XZjt" xml:lang="sv" type="speaker">
           Domprosten Renvall:
         </note>
         <u xml:id="i-6UJVGt54JVLrujz5wWxGLi" who="i-81Zkpqx4nbx5hBdZktoW1S">
@@ -16546,7 +16546,7 @@
         <note xml:id="i-JALPSLHMKeSrcCAPPZ5Ehp" xml:lang="sv">
           Beträffande &amp; 9 yttrade sig följande talare:
         </note>
-        <note xml:id="i-8XNPGkF7SmpKMuSnYYuvgr" type="speaker" xml:lang="sv">
+        <note xml:id="i-8XNPGkF7SmpKMuSnYYuvgr" xml:lang="sv" type="speaker">
           Prosten Hjelt:
         </note>
         <u xml:id="i-FX4oMC5AsLAR1dUp5JL3fp" who="i-FfVRGMNn5KRqwAWb2KstnH">
@@ -16566,7 +16566,7 @@
           fogade 2:dra och 3:dje mom. af &amp; 7 i kejserliga propositionen,
           som utskottet bortlemnat.
         </note>
-        <note xml:id="i-USizssuC4siPXN7WXWdv61" type="speaker" xml:lang="sv">
+        <note xml:id="i-USizssuC4siPXN7WXWdv61" xml:lang="sv" type="speaker">
           Vicepastor Böök:
         </note>
         <u xml:id="i-68dbhk4Fb8s2zMFX7HAV7x" who="i-KxTPNsdvaDSQXea4wDGU8f">
@@ -16597,7 +16597,7 @@
             vara kommunen annat än till nytta.
           </seg>
         </u>
-        <note xml:id="i-H4Kizj5bVg1EV9qLem2z5G" type="speaker" xml:lang="sv">
+        <note xml:id="i-H4Kizj5bVg1EV9qLem2z5G" xml:lang="sv" type="speaker">
           Prosten Hjelt:
         </note>
         <u xml:id="i-Djqe5FJ3sxEMqTSPVQaXfy" who="i-FfVRGMNn5KRqwAWb2KstnH">
@@ -16618,7 +16618,7 @@
           siveellisyyttä, vaikka kohta muutamissa yksityistapauksissa onkin
           ollut itsekäs voiton pyyntö asialle haitaksi.
         </note>
-        <note xml:id="i-9fUZLigMr6eaH5bmEexvx5" type="speaker" xml:lang="sv">
+        <note xml:id="i-9fUZLigMr6eaH5bmEexvx5" xml:lang="sv" type="speaker">
           Professor Donner:
         </note>
         <u xml:id="i-HDsAoGM8TnMPwU9t3Z767H" who="i-XbAQtPkdSaTdnLcpdJrmsg">
@@ -16639,7 +16639,7 @@
           Deraf följer att bolaget icke ens skulle fä tillegna sig räntan
           pä sitt kapital och att sålunda ej något bolag vore möjligt.
         </note>
-        <note xml:id="i-U5LbBuqLschwYvJGW5g7gE" type="speaker" xml:lang="unknown">
+        <note xml:id="i-U5LbBuqLschwYvJGW5g7gE" xml:lang="unknown" type="speaker">
           Vicepastor Eklund:
         </note>
         <u xml:id="i-Dnj3ceJaiJnhz1HrGf8HbS" who="i-6eNAyWqvwVhwshqVaFpBzh">
@@ -16662,7 +16662,7 @@
         <note xml:id="i-Npe4PmULKQqSvezGEto4Js" xml:lang="sv">
           Doktor Nordström afstod ifrän ordet.
         </note>
-        <note xml:id="i-5RpyzHEjdLHcdN6gW7X6bs" type="speaker" xml:lang="sv">
+        <note xml:id="i-5RpyzHEjdLHcdN6gW7X6bs" xml:lang="sv" type="speaker">
           Kyrkoherden Hirvinen:
         </note>
         <u xml:id="i-DnRe7tgF9pdyVqDhyVskUf" who="i-D2g5wWQiqw9p79PhuHGzim">
@@ -16726,7 +16726,7 @@
         <note xml:id="i-Be4J48Ug8hF1AdHZaS9V4F" xml:lang="sv">
           Rörande $ 10 yttrade sig följande talare:
         </note>
-        <note xml:id="i-Xc4XbDFYgfsK5MZZXqFvnw" type="speaker" xml:lang="unknown">
+        <note xml:id="i-Xc4XbDFYgfsK5MZZXqFvnw" xml:lang="unknown" type="speaker">
           Vicepastor Eklund:
         </note>
         <u xml:id="i-QCgNGEAfHCF71MWcxto8Hz" who="i-6eNAyWqvwVhwshqVaFpBzh">
@@ -16862,7 +16862,7 @@
         <note xml:id="i-7oGW4K9TLzEft6WfJuyBQm" xml:lang="sv">
           $ 13 gillades pä herr Talmannens framställning oförändrad.
         </note>
-        <note xml:id="i-RRbLqQgFKVdYpnAABV7JW7" type="speaker" xml:lang="sv">
+        <note xml:id="i-RRbLqQgFKVdYpnAABV7JW7" xml:lang="sv" type="speaker">
           Härvid anhöll vicepastor Vesterlund om ordet och yttrade:
         </note>
         <u xml:id="i-B6ithzQ1Q7hogFL5t37kbL" who="unknown">
@@ -16925,7 +16925,7 @@
           tämä pykälä lähetettäisiin valiokuntaan muodostettavaksi sen mukaiseksi,
           kuin se on 1873 vuoden asetuksessa.
         </note>
-        <note xml:id="i-AMjAmUckSTHWzvZHSBThgJ" type="speaker" xml:lang="sv">
+        <note xml:id="i-AMjAmUckSTHWzvZHSBThgJ" xml:lang="sv" type="speaker">
           Kontraktsprosten Dahlberg:
         </note>
         <u xml:id="i-RZ1dkYoyfm1PjsY6WMLsut" who="i-RhBRSkx9yQCaJTuJXtgxWb">
@@ -17401,7 +17401,7 @@
           mycken svårighet. Jag anser derför att $ 53 bör antagas, sådan
           den af utskottet blifvit föreslagen.
         </note>
-        <note xml:id="i-R6MjJqBWK2q3AfSofqCZiN" type="speaker" xml:lang="sv">
+        <note xml:id="i-R6MjJqBWK2q3AfSofqCZiN" xml:lang="sv" type="speaker">
           Professor Cleve:
         </note>
         <u xml:id="i-4K5nWzTAuG8ptETmFEbgiF" who="i-HfEbbpVpEUS7EMymsy7tc6">
@@ -17624,7 +17624,7 @@
           förklaring, kunnat få klart för sig hvad ett skattöre betyder,
           då det icke är förenadt med hvarken skyldigheter eller rättigheter.
         </note>
-        <note xml:id="i-7QNAzsWR61pQhAxmR25Yn9" type="speaker" xml:lang="sv">
+        <note xml:id="i-7QNAzsWR61pQhAxmR25Yn9" xml:lang="sv" type="speaker">
           Professor Cleve:
         </note>
         <u xml:id="i-JU1wwwxaiyvd7x4F8E5a9w" who="i-HfEbbpVpEUS7EMymsy7tc6">
@@ -17658,7 +17658,7 @@
             päseende synes stä ojämförligt mycket framom det andra.
           </seg>
         </u>
-        <note xml:id="i-7nU9u8G5jLYRDQqKuexMYh" type="speaker" xml:lang="sv">
+        <note xml:id="i-7nU9u8G5jLYRDQqKuexMYh" xml:lang="sv" type="speaker">
           Kontraktsprosten Grönberg:
         </note>
         <u xml:id="i-7CHe7qX3cR8DAAQraur7Mv" who="i-MejDXzf7f7w3bWanLQKrgB">
@@ -17697,7 +17697,7 @@
           tahtoisin siis joko kokonaan hylätä kysymyksessä olevan pykälän
           tai saada sen niin muutetuksi kuin professori Runcberg on ehdottanut.
         </note>
-        <note xml:id="i-Kr9LsncCSHuwffgn7DMHYD" type="speaker" xml:lang="sv">
+        <note xml:id="i-Kr9LsncCSHuwffgn7DMHYD" xml:lang="sv" type="speaker">
           Kyrkoherden Hirvinen:
         </note>
         <u xml:id="i-CnGeygyYWTZcbwAR4vfwQ8" who="i-D2g5wWQiqw9p79PhuHGzim">
@@ -17870,7 +17870,7 @@
           500 markkaa hyvinkin korkea. Mutta minä luulen, että näitä korkeimpia
           määriä tultaisiin vaan käyttämään maamme suurimmissa kaupungeissa.
         </note>
-        <note xml:id="i-3HfGdauhd429RsCW9WYSaP" type="speaker" xml:lang="sv">
+        <note xml:id="i-3HfGdauhd429RsCW9WYSaP" xml:lang="sv" type="speaker">
           Öfverläraren Kihlman:
         </note>
         <u xml:id="i-7TT9K7EZx75detmF49bwzy" who="i-34gigkRr2uXshwGmQ4qktb">
@@ -18032,7 +18032,7 @@
         <note xml:id="i-BwT22eoxUQ72pUGzNg3WaS" xml:lang="sv">
           Beträffande 1 mom. af &amp; 54 yttrade sig följande talare:
         </note>
-        <note xml:id="i-FrPPoiG6yTexzG73oxYYPx" type="speaker" xml:lang="sv">
+        <note xml:id="i-FrPPoiG6yTexzG73oxYYPx" xml:lang="sv" type="speaker">
           Professor Donner:
         </note>
         <u xml:id="i-2THkHmULnwjxduj59nxsaS" who="i-XbAQtPkdSaTdnLcpdJrmsg">
@@ -18050,7 +18050,7 @@
             ett maximum af 300 eller högst 400 mark.
           </seg>
         </u>
-        <note xml:id="i-FK2Mf8f2W8XWXf9yqFN2mC" type="speaker" xml:lang="sv">
+        <note xml:id="i-FK2Mf8f2W8XWXf9yqFN2mC" xml:lang="sv" type="speaker">
           Professor Runeberg:
         </note>
         <u xml:id="i-pShFPWyaVpiU4DrpeTNxd" who="i-QQ7rzMcvpGv1RunkkD3Hgv">
@@ -18110,7 +18110,7 @@
           varallisuudessaan mainittua astetta ylempänä. Minusta olisi veroäyriä
           vastaava korkein määrä alennettava 300 markkaan tai ainakin 400:aan.
         </note>
-        <note xml:id="i-5GKmFMzcVefGGWQV3Yn4DL" type="speaker" xml:lang="sv">
+        <note xml:id="i-5GKmFMzcVefGGWQV3Yn4DL" xml:lang="sv" type="speaker">
           Professor Donner:
         </note>
         <u xml:id="i-SSVgRZA7X6QFiMxSNoVd7c" who="i-XbAQtPkdSaTdnLcpdJrmsg">
@@ -18160,7 +18160,7 @@
           bibehälla den bestämning som redan finnes, nämligen: 300 mark
           som minimum och 500 som maximum.
         </note>
-        <note xml:id="i-KCJ2UVVtkRf2RtXA4UpQZH" type="speaker" xml:lang="sv">
+        <note xml:id="i-KCJ2UVVtkRf2RtXA4UpQZH" xml:lang="sv" type="speaker">
           Prosten Hjelt:
         </note>
         <u xml:id="i-AwzEiNvdQ8DhLEcQY96ESR" who="i-FfVRGMNn5KRqwAWb2KstnH">
@@ -18333,7 +18333,7 @@
           för detta förslag, men hittills hade utskottet icke kunnat fatta
           något sådant beslut, emedan premisserna sakuades.
         </note>
-        <note xml:id="i-55AxWQ7U2c6FHk27LQVXGD" type="speaker" xml:lang="sv">
+        <note xml:id="i-55AxWQ7U2c6FHk27LQVXGD" xml:lang="sv" type="speaker">
           Prosten Hjelt:
         </note>
         <u xml:id="i-MdKvpNBpPfubQ1ZAng3pMC" who="i-FfVRGMNn5KRqwAWb2KstnH">
@@ -18409,7 +18409,7 @@
         <note xml:id="i-5nM246k3V97fMk7epFajKz" xml:lang="sv">
           Beträffande $ 55 yttrade sig följande talare:
         </note>
-        <note xml:id="i-C3ZWA8FB3mup2cUfqBS1Y3" type="speaker" xml:lang="sv">
+        <note xml:id="i-C3ZWA8FB3mup2cUfqBS1Y3" xml:lang="sv" type="speaker">
           Öfverläraren Kihlman:
         </note>
         <u xml:id="i-7oJDVXJAPruWVVHM88fgLq" who="i-34gigkRr2uXshwGmQ4qktb">
@@ -18545,7 +18545,7 @@
           kejserliga propositionen, och jag har nödgats instämma i dess
           förslag.
         </note>
-        <note xml:id="i-GDTywjLRA2D6CjWewKN3UL" type="speaker" xml:lang="sv">
+        <note xml:id="i-GDTywjLRA2D6CjWewKN3UL" xml:lang="sv" type="speaker">
           Kontraktsprosten Grönberg:
         </note>
         <u xml:id="i-9gADeQFhbfZmBYpNvmozTh" who="i-MejDXzf7f7w3bWanLQKrgB">
@@ -18624,7 +18624,7 @@
           asuvaksi*, hänestä tuntui oudolta, sekä ehdotti, että valiokuntaa
           muistutettaisiin myöskin suomenkielisen tekstin parantamisesta.
         </note>
-        <note xml:id="i-Fgdh5CN6qoEAnkjx87JmFz" type="speaker" xml:lang="sv">
+        <note xml:id="i-Fgdh5CN6qoEAnkjx87JmFz" xml:lang="sv" type="speaker">
           Kyrkoherden Törnudd:
         </note>
         <u xml:id="i-GJU7gcZvVar3uvnb7aRwvV" who="i-PtuyxaDFzQJ2vXUDYSKW5C">
@@ -18657,7 +18657,7 @@
         <note xml:id="i-2xZLU2qpfTXoAdbLVZ26hn" xml:lang="sv">
           Presteståndet 1882. 26 maj. 1581
         </note>
-        <note xml:id="i-SXNquG45dXB1SKAnA7qtue" type="speaker" xml:lang="sv">
+        <note xml:id="i-SXNquG45dXB1SKAnA7qtue" xml:lang="sv" type="speaker">
           Professor Cleve:
         </note>
         <u xml:id="i-Ti6RAdDBg1w8rDo73ukAcJ" who="i-HfEbbpVpEUS7EMymsy7tc6">
@@ -18728,7 +18728,7 @@
           sådant, emedan det blir en skada för städerna. Jag önskar och
           hoppas att professor Cleve nu måtte förstå hvad jag menar.
         </note>
-        <note xml:id="i-CbRUxG3JhruQ3g5CavvHjj" type="speaker" xml:lang="sv">
+        <note xml:id="i-CbRUxG3JhruQ3g5CavvHjj" xml:lang="sv" type="speaker">
           Professor Runeberg:
         </note>
         <u xml:id="i-6fosrhR5rm2a2vk4nnezfk" who="i-QQ7rzMcvpGv1RunkkD3Hgv">
@@ -18770,7 +18770,7 @@
         <note xml:id="i-M3om1jnf4Ar9SAHyR1uAmT" xml:lang="sv">
           Presteståndet 1882. 26 maj. 1583
         </note>
-        <note xml:id="i-FfcKecfopWY8fJaFCsVTnU" type="speaker" xml:lang="sv">
+        <note xml:id="i-FfcKecfopWY8fJaFCsVTnU" xml:lang="sv" type="speaker">
           Professor; Cleve:
         </note>
         <u xml:id="i-XaRBpSmteq4aF2pdN33dDA" who="i-HfEbbpVpEUS7EMymsy7tc6">
@@ -18801,7 +18801,7 @@
             hafva sina betänkliga sidor.
           </seg>
         </u>
-        <note xml:id="i-VD7PTNyahgnTASPTXVDTvD" type="speaker" xml:lang="sv">
+        <note xml:id="i-VD7PTNyahgnTASPTXVDTvD" xml:lang="sv" type="speaker">
           Kontraktsprosten Grönberg:
         </note>
         <u xml:id="i-DW5gAtwx4wcy1AfqDCA6Xf" who="i-MejDXzf7f7w3bWanLQKrgB">
@@ -18842,7 +18842,7 @@
           för att hushålla för sin dotter, som gick i skola, påfördes och
           nödgades betala kommunalskatt till staden.
         </note>
-        <note xml:id="i-M3qZRYnpuJwmkdDVs33dCV" type="speaker" xml:lang="sv">
+        <note xml:id="i-M3qZRYnpuJwmkdDVs33dCV" xml:lang="sv" type="speaker">
           Öfverläraren Kihlman:
         </note>
         <u xml:id="i-8AxYvSezuMzvCgptRzzQaD" who="i-34gigkRr2uXshwGmQ4qktb">
@@ -18943,7 +18943,7 @@
         <note xml:id="i-6bKD3NGiFgcb2TLXdCLWXY" xml:lang="sv">
           lämmen.
         </note>
-        <note xml:id="i-N6PBej69PKiKb8XUNERcRK" type="speaker" xml:lang="sv">
+        <note xml:id="i-N6PBej69PKiKb8XUNERcRK" xml:lang="sv" type="speaker">
           Kyrkoherden Lyra:
         </note>
         <u xml:id="i-D1uArL8FJQxZdG7n6XXNMs" who="i-Qnp6pqgLniPF2sFKE6V5wi">
@@ -18984,7 +18984,7 @@
           jotta vastaisuudessa muutosehdotukset kokonaisuudessaan tulisivat
           Säätyjen käsiteltäviksi.
         </note>
-        <note xml:id="i-VBmpz5iGZtQ3MBPfZP1aKn" type="speaker" xml:lang="sv">
+        <note xml:id="i-VBmpz5iGZtQ3MBPfZP1aKn" xml:lang="sv" type="speaker">
           Professor Runeberg:
         </note>
         <u xml:id="i-8K9o2pUpjPFCYCbGaJXCmd" who="i-QQ7rzMcvpGv1RunkkD3Hgv">
@@ -19017,7 +19017,7 @@
             det skänker en lättnad ät den obemedlade i afseende å beskattningen.
           </seg>
         </u>
-        <note xml:id="i-WpqvuM8cRXvtrEZFPptDea" type="speaker" xml:lang="sv">
+        <note xml:id="i-WpqvuM8cRXvtrEZFPptDea" xml:lang="sv" type="speaker">
           Professor Cleve:
         </note>
         <u xml:id="i-EQAfgxKmcECGCPrx4tjmaW" who="i-HfEbbpVpEUS7EMymsy7tc6">
@@ -19265,7 +19265,7 @@
         <note xml:id="i-XDG5QzhcaiQqQKSwJSaCPP" xml:lang="sv">
           1592 Presteståndet 1882. 27 maj.
         </note>
-        <note xml:id="i-LzsnPaTn4HywQjKLhZVptu" type="speaker" xml:lang="sv">
+        <note xml:id="i-LzsnPaTn4HywQjKLhZVptu" xml:lang="sv" type="speaker">
           Prosten Hjelt:
         </note>
         <u xml:id="i-8Fr9PdbLp8QLaULC6JyQCF" who="i-FfVRGMNn5KRqwAWb2KstnH">
@@ -19280,7 +19280,7 @@
             Presteståndet bör vidhålla sitt förra beslut.
           </seg>
         </u>
-        <note xml:id="i-82FJt87HmApaGXvmSoXR7b" type="speaker" xml:lang="sv">
+        <note xml:id="i-82FJt87HmApaGXvmSoXR7b" xml:lang="sv" type="speaker">
           Kontraktsprosten Helander:
         </note>
         <u xml:id="i-NsnfTurmRcKs6h1WxjLMCT" who="i-89jFrq7FjBEeRhr9LtLkMw">
@@ -19400,7 +19400,7 @@
           siksi, kun saadaan pöytäkirja-otteen kautta tieto, mitä Talonpoikaissääty
           asiasta on päättänyt.
         </note>
-        <note xml:id="i-LN2Pez17Ma2ja8ixu2H2xf" type="speaker" xml:lang="unknown">
+        <note xml:id="i-LN2Pez17Ma2ja8ixu2H2xf" xml:lang="unknown" type="speaker">
           Vicepastor Lilius:
         </note>
         <u xml:id="i-AghbgzfaGenB5Wxnc9Dfcm" who="i-CM2N1ripkWqmSaCMrmMPMn">
@@ -19519,7 +19519,7 @@
           och med ?/,, mantal till 2 röster o. s. v. sä framt icke kommunalstämma
           hellre vill låta alla röstberäkning ske efter äsatt skattöre*.
         </note>
-        <note xml:id="i-8ySowH1as3YBdo3RQwgoWm" type="speaker" xml:lang="unknown">
+        <note xml:id="i-8ySowH1as3YBdo3RQwgoWm" xml:lang="unknown" type="speaker">
           Vicepastor Lilius:
         </note>
         <u xml:id="i-FwaX76HANEN8yERvM6Kxyx" who="i-CM2N1ripkWqmSaCMrmMPMn">
@@ -19562,7 +19562,7 @@
         <note xml:id="i-Uz74sUNtRowCc61zrAPQ5j" xml:lang="sv">
           Presteståndet 1882. 27 maj. 1597
         </note>
-        <note xml:id="i-A2wKsAgUcXgCFF4bp4gRGH" type="speaker" xml:lang="sv">
+        <note xml:id="i-A2wKsAgUcXgCFF4bp4gRGH" xml:lang="sv" type="speaker">
           Ofverläraren Kihlman:
         </note>
         <u xml:id="i-JASbYDK3tMwzsuw5Ds3Ccu" who="i-34gigkRr2uXshwGmQ4qktb">
@@ -19582,7 +19582,7 @@
         <note xml:id="i-BYTW8UVi6cBRtTTVSJA5dx" xml:lang="sv">
           Beträftande $ 1 yttrade sig följande talare:
         </note>
-        <note xml:id="i-So4s4Nf6PxapoRYZaGt3PG" type="speaker" xml:lang="sv">
+        <note xml:id="i-So4s4Nf6PxapoRYZaGt3PG" xml:lang="sv" type="speaker">
           Öfverläraren Kihlman:
         </note>
         <u xml:id="i-FJ5FftFA1pA3yctTYYnm8Y" who="i-34gigkRr2uXshwGmQ4qktb">
@@ -19663,7 +19663,7 @@
           röra platsen för ständerhuset, då ju alla voro ense om att ett
           stänvderhus skulle byggas.
         </note>
-        <note xml:id="i-7fryfHVUs2jKmx6jrr9KEZ" type="speaker" xml:lang="sv">
+        <note xml:id="i-7fryfHVUs2jKmx6jrr9KEZ" xml:lang="sv" type="speaker">
           Kyrkoherden Lyra:
         </note>
         <u xml:id="i-KQ4GHoHbhiSYZrPWqhrDcE" who="i-Qnp6pqgLniPF2sFKE6V5wi">
@@ -19732,7 +19732,7 @@
           hus vare sig sedan att detta bygges antingen för tre eller fyra
           Stånd, beroende derpå för hurudant hus Ständerna nu uttala sig.
         </note>
-        <note xml:id="i-EifGUGgkrhdzEzf9TMT9yS" type="speaker" xml:lang="sv">
+        <note xml:id="i-EifGUGgkrhdzEzf9TMT9yS" xml:lang="sv" type="speaker">
           Öfverläraren Kihlman:
         </note>
         <u xml:id="i-SAZuFwxw9TiRg4Ch9jsjjP" who="i-34gigkRr2uXshwGmQ4qktb">
@@ -19825,7 +19825,7 @@
           att välja mellan dessa tomter, eller nägon annan tomt som möj-
           180 ännu ytterligare kan vid närmare undersökning komma i räga.
         </note>
-        <note xml:id="i-1SPxPkmy2T7Ns5wGh3g2M" type="speaker" xml:lang="sv">
+        <note xml:id="i-1SPxPkmy2T7Ns5wGh3g2M" xml:lang="sv" type="speaker">
           Professor Cleve:
         </note>
         <u xml:id="i-UF4T6HA9ZiBVQRJNQEPqqi" who="i-HfEbbpVpEUS7EMymsy7tc6">
@@ -19879,7 +19879,7 @@
           att resultatet af utskottets utlåtande är tydligt från början
           till slut, men tyvärr är detta resultat negativt.
         </note>
-        <note xml:id="i-4ggrQWgjegcoC4TkmjQAva" type="speaker" xml:lang="sv">
+        <note xml:id="i-4ggrQWgjegcoC4TkmjQAva" xml:lang="sv" type="speaker">
           Kyrkoherden Lyra:
         </note>
         <u xml:id="i-72GTbhASzsyQgwrpAJKhHq" who="i-Qnp6pqgLniPF2sFKE6V5wi">
@@ -19941,7 +19941,7 @@
           Ständernas frid. För öfrigt finnas hvarken packhus eller lastageplatser
           pä nära nejder.
         </note>
-        <note xml:id="i-SzNsaJJByMAVMuNyDn88LK" type="speaker" xml:lang="sv">
+        <note xml:id="i-SzNsaJJByMAVMuNyDn88LK" xml:lang="sv" type="speaker">
           Professor Donner:
         </note>
         <u xml:id="i-Bs8AxuCzbVx2xnaiSZbpxa" who="i-XbAQtPkdSaTdnLcpdJrmsg">
@@ -19958,7 +19958,7 @@
             har blifvit godkänd af Ständen.
           </seg>
         </u>
-        <note xml:id="i-Na25q3xdYcmhwT2ZkGHdLn" type="speaker" xml:lang="sv">
+        <note xml:id="i-Na25q3xdYcmhwT2ZkGHdLn" xml:lang="sv" type="speaker">
           Professor Runeberg:
         </note>
         <u xml:id="i-GpnMg7fWEDVJa7JDRUibvw" who="i-QQ7rzMcvpGv1RunkkD3Hgv">
@@ -20025,7 +20025,7 @@
           skulle föreslä att delegationen skulle fä full frihet att välja
           den plats som den anser vara lämpligast, äfven Servalen.
         </note>
-        <note xml:id="i-6KzPu5jAVPvgAJUw29EVUB" type="speaker" xml:lang="sv">
+        <note xml:id="i-6KzPu5jAVPvgAJUw29EVUB" xml:lang="sv" type="speaker">
           Kontraktsprosten Grönberg:
         </note>
         <u xml:id="i-K4p6x8J8fpfZHK9EUtcXLs" who="i-MejDXzf7f7w3bWanLQKrgB">
@@ -20044,7 +20044,7 @@
         <note xml:id="i-XKRZxT7iQq3pRZzNcr3oaX" xml:lang="sv">
           Presteståndet 1882. 26 maj. 1605
         </note>
-        <note xml:id="i-9zFcQupXSDoQqzpMvZijKT" type="speaker" xml:lang="sv">
+        <note xml:id="i-9zFcQupXSDoQqzpMvZijKT" xml:lang="sv" type="speaker">
           Domprosten Renvall:
         </note>
         <u xml:id="i-HzwCEnPtTK3W9h2NsKzCYe" who="i-81Zkpqx4nbx5hBdZktoW1S">
@@ -20079,7 +20079,7 @@
         <note xml:id="i-BGygEpnFrrks7FWK9aA5YE" xml:lang="sv">
           Prosten Rosengrén förenade sig med kontraktsprosten Grönberg.
         </note>
-        <note xml:id="i-2RsFp1vog3AY9AxfkoNZxP" type="speaker" xml:lang="sv">
+        <note xml:id="i-2RsFp1vog3AY9AxfkoNZxP" xml:lang="sv" type="speaker">
           Öfverläraren Kihlman:
         </note>
         <u xml:id="i-PnMvjQEhdvV1VSQghNSugm" who="i-34gigkRr2uXshwGmQ4qktb">
@@ -20147,7 +20147,7 @@
           näyttävät kyllä sopivilta. Servaali minustakin on ehdottomasti
           hylättävä.
         </note>
-        <note xml:id="i-MsegaQzeATrv9mwEuAEDkF" type="speaker" xml:lang="sv">
+        <note xml:id="i-MsegaQzeATrv9mwEuAEDkF" xml:lang="sv" type="speaker">
           Kyrkoherden Lyra:
         </note>
         <u xml:id="i-SDejpvbN461yWjHApKpftK" who="i-Qnp6pqgLniPF2sFKE6V5wi">
@@ -20219,7 +20219,7 @@
         <note xml:id="i-J85UXpHoddNUGEXimM1At6" xml:lang="sv">
           1608 Presteståndet 1882. 26 maj.
         </note>
-        <note xml:id="i-BMxz6QMGNqw4LeNKHsCqXW" type="speaker" xml:lang="sv">
+        <note xml:id="i-BMxz6QMGNqw4LeNKHsCqXW" xml:lang="sv" type="speaker">
           Kyrkoherden Lyra:
         </note>
         <u xml:id="i-Udciw2r1rcrhmzFw4RiJDr" who="i-Qnp6pqgLniPF2sFKE6V5wi">
@@ -20663,7 +20663,7 @@
           stadgas 61 &amp;. hvilken till följd af Ständets med &amp; 20
           i författningen vidtagna beslut komme att förfalla.
         </note>
-        <note xml:id="i-EuPgZkbhrDXXCciiQMdRXK" type="speaker" xml:lang="sv">
+        <note xml:id="i-EuPgZkbhrDXXCciiQMdRXK" xml:lang="sv" type="speaker">
           Från Borgareständet med meddelande:
         </note>
         <note xml:id="i-HbmTUG22T6EQACLhoou1bF" xml:lang="sv">
@@ -21153,7 +21153,7 @@
           Med anledning af det härä föredragna resolutionsförslaget pä
           sidan 10 yttrade sig följande talare:
         </note>
-        <note xml:id="i-AvCeU3azL9for3QBUqpn7f" type="speaker" xml:lang="sv">
+        <note xml:id="i-AvCeU3azL9for3QBUqpn7f" xml:lang="sv" type="speaker">
           Prosten Hjelt:
         </note>
         <u xml:id="i-9RGG41oji9mUxKwBbPcKni" who="i-FfVRGMNn5KRqwAWb2KstnH">
@@ -21259,7 +21259,7 @@
           toivoisin valiokunnan jäseniltä selitystä, onko näiden sanojen
           hylkäämiseen ollut mitään mainittavaa syytä.
         </note>
-        <note xml:id="i-34jDG4LDfp3kWHNiSTBbg2" type="speaker" xml:lang="sv">
+        <note xml:id="i-34jDG4LDfp3kWHNiSTBbg2" xml:lang="sv" type="speaker">
           Öfverläraren Kihlman:
         </note>
         <u xml:id="i-M7wHspqB9FmU1A7ui961js" who="i-34gigkRr2uXshwGmQ4qktb">
@@ -21347,7 +21347,7 @@
           Beträffande &amp; 9 af det derpä följande kap. III om grunderna
           för inkomstens uppskattande, yttrade sig följande talare:
         </note>
-        <note xml:id="i-wTsXzE6EVvkpsWordGbJQ" type="speaker" xml:lang="sv">
+        <note xml:id="i-wTsXzE6EVvkpsWordGbJQ" xml:lang="sv" type="speaker">
           Prosten Hjelt:
         </note>
         <u xml:id="i-3LKhCQgmvimfmL6c7TVcfs" who="i-FfVRGMNn5KRqwAWb2KstnH">
@@ -21372,7 +21372,7 @@
             bankrörelse betalas der 29/, af årets behällning.
           </seg>
         </u>
-        <note xml:id="i-RCUR9pRCzg6VEHPFdSYBmp" type="speaker" xml:lang="sv">
+        <note xml:id="i-RCUR9pRCzg6VEHPFdSYBmp" xml:lang="sv" type="speaker">
           Ofverläraren Kihlman:
         </note>
         <u xml:id="i-3N92Z7fobqc2jFQDMiyNrS" who="i-34gigkRr2uXshwGmQ4qktb">
@@ -21386,7 +21386,7 @@
             omfatta förslaget.
           </seg>
         </u>
-        <note xml:id="i-MPqBD9j9sr3Yw2AEcPP5b5" type="speaker" xml:lang="sv">
+        <note xml:id="i-MPqBD9j9sr3Yw2AEcPP5b5" xml:lang="sv" type="speaker">
           Prosten Hjelt:
         </note>
         <u xml:id="i-M4uf9eMW5XJBRBFmqAZFV3" who="i-FfVRGMNn5KRqwAWb2KstnH">
@@ -21400,7 +21400,7 @@
             egnar öfverheten att förekomma.
           </seg>
         </u>
-        <note xml:id="i-9ZSBV9jX8hQvHvdpC93HuQ" type="speaker" xml:lang="sv">
+        <note xml:id="i-9ZSBV9jX8hQvHvdpC93HuQ" xml:lang="sv" type="speaker">
           Vice pastor Lilius:
         </note>
         <u xml:id="i-PuavYtcZQxAne7zdUNqLkk" who="i-CM2N1ripkWqmSaCMrmMPMn">
@@ -21422,7 +21422,7 @@
           alltså dubbel ränta. Det är derföre så mycket större skäl att
           dessa banker betala särskild bevillning.
         </note>
-        <note xml:id="i-7wCRxDu7oehSAgJsox2ZF6" type="speaker" xml:lang="sv">
+        <note xml:id="i-7wCRxDu7oehSAgJsox2ZF6" xml:lang="sv" type="speaker">
           Öfverläraren Kihlman:
         </note>
         <u xml:id="i-7yaUBL3QM2kg7Ps5EBZsDa" who="i-34gigkRr2uXshwGmQ4qktb">
@@ -21451,7 +21451,7 @@
             särskild förmån som den har.
           </seg>
         </u>
-        <note xml:id="i-2spxE7vNZVaKSSwR3z3bwM" type="speaker" xml:lang="sv">
+        <note xml:id="i-2spxE7vNZVaKSSwR3z3bwM" xml:lang="sv" type="speaker">
           Professor Donner:
         </note>
         <u xml:id="i-VbrabP2ZpNZ7hKSFodqpnZ" who="i-XbAQtPkdSaTdnLcpdJrmsg">
@@ -21503,7 +21503,7 @@
           dem, som anse att en skild bevillning icke borde komma ifråga,
           dä bankvinsten säsom sädan beskattas.
         </note>
-        <note xml:id="i-3Jq3axDa3K5pPEu8unEoUQ" type="speaker" xml:lang="sv">
+        <note xml:id="i-3Jq3axDa3K5pPEu8unEoUQ" xml:lang="sv" type="speaker">
           Professor Donner:
         </note>
         <u xml:id="i-JWAAvcYkJKw4RYZ2re5Pfe" who="i-XbAQtPkdSaTdnLcpdJrmsg">
@@ -21656,7 +21656,7 @@
           äro berättigade i stället för att man borde säga pligtige att
           uppgifva sina inkomster.
         </note>
-        <note xml:id="i-RaCnkyNz9Jqjzrwme2pK2f" type="speaker" xml:lang="sv">
+        <note xml:id="i-RaCnkyNz9Jqjzrwme2pK2f" xml:lang="sv" type="speaker">
           Kontraktsprosten Vegelius:
         </note>
         <u xml:id="i-PCeDhxqRJW7YjQJQx6DETR" who="unknown">
@@ -22025,7 +22025,7 @@
           viraston tai tuomioistuimen mielivaltaan, vaan tämä on kaikki
           sääntönä, josta varmoissa tapauksissa sallitaan poikkeuksia.
         </note>
-        <note xml:id="i-MfErM6Bc6wLPKbPhD3FFsr" type="speaker" xml:lang="sv">
+        <note xml:id="i-MfErM6Bc6wLPKbPhD3FFsr" xml:lang="sv" type="speaker">
           Domprosten Renvall:
         </note>
         <u xml:id="i-PcTrrwghS4zP89owRuJbts" who="i-81Zkpqx4nbx5hBdZktoW1S">
@@ -22086,7 +22086,7 @@
           men beträffande de öfriga paragraferna den formulering som utskottet
           öfverenskommit om.
         </note>
-        <note xml:id="i-XCHYDvbsqWvJYBMn8gCrsz" type="speaker" xml:lang="sv">
+        <note xml:id="i-XCHYDvbsqWvJYBMn8gCrsz" xml:lang="sv" type="speaker">
           Professor Runeberg:
         </note>
         <u xml:id="i-GgVD2RzEbt8YR85BGcmfkr" who="i-QQ7rzMcvpGv1RunkkD3Hgv">
@@ -22111,7 +22111,7 @@
           genomföra nägonting, sä ligger det lika mycket vigt vid sättet
           för detta genomförande.
         </note>
-        <note xml:id="i-HFyScR6DvtkA6Z8hCCUeba" type="speaker" xml:lang="sv">
+        <note xml:id="i-HFyScR6DvtkA6Z8hCCUeba" xml:lang="sv" type="speaker">
           Öfverläraren Kihlman:
         </note>
         <u xml:id="i-NobQhgnumyQQfcpeS9q9Hy" who="i-34gigkRr2uXshwGmQ4qktb">
@@ -22199,7 +22199,7 @@
         <note xml:id="i-LGQAsEDVrZrpa13KefsdKm" xml:lang="fi">
           Professori Forsman, Jaakko kannatti edellisen puhujan ehdotusta.
         </note>
-        <note xml:id="i-Wb4P44gCbrEcBFromtsptG" type="speaker" xml:lang="sv">
+        <note xml:id="i-Wb4P44gCbrEcBFromtsptG" xml:lang="sv" type="speaker">
           Professor Runeberg:
         </note>
         <u xml:id="i-5bxSXduXTcnzwnn7ibf4yL" who="i-QQ7rzMcvpGv1RunkkD3Hgv">
@@ -22554,7 +22554,7 @@
           Domprosten Renvall, doktor Geitlin och prosten Johnsson förenade
           sig med professor Jaakko Forsman.
         </note>
-        <note xml:id="i-5iD7sVznLggYH2gKpGycGq" type="speaker" xml:lang="sv">
+        <note xml:id="i-5iD7sVznLggYH2gKpGycGq" xml:lang="sv" type="speaker">
           Prosten Hjelt:
         </note>
         <u xml:id="i-7QuCAGuKa8JJLPH4fmXnBc" who="i-FfVRGMNn5KRqwAWb2KstnH">
@@ -22686,7 +22686,7 @@
           ole kysymys miilainen lain pitäisi olla, vaan millainen se on
           eikä sitä liioin voi jonkun uuden selityksen kautta muuttaa.
         </note>
-        <note xml:id="i-JLBiHdijUwW2Bs7PKYthYk" type="speaker" xml:lang="sv">
+        <note xml:id="i-JLBiHdijUwW2Bs7PKYthYk" xml:lang="sv" type="speaker">
           Prosten Hjelt:
         </note>
         <u xml:id="i-TiqSVehiPCFfdEo4yz3w2f" who="i-FfVRGMNn5KRqwAWb2KstnH">
@@ -23189,7 +23189,7 @@
           saataisiin tilaajoilta. Oli miten hyvänsä, minä luulen, että tämä
           esitys ansaitsee huomiota ja toteuttamista vastaisuudessa.
         </note>
-        <note xml:id="i-AYdnFHw3on5WoNoXuzRpJC" type="speaker" xml:lang="unknown">
+        <note xml:id="i-AYdnFHw3on5WoNoXuzRpJC" xml:lang="unknown" type="speaker">
           Doktor Nordström:
         </note>
         <u xml:id="i-SYGdu3bBE5UvGdTfsXNe59" who="i-QwcTLbpo4YVwryjr1GArpy">
@@ -23218,7 +23218,7 @@
             betydelse för länga tider.
           </seg>
         </u>
-        <note xml:id="i-94S8AMVtBpG1qExS2yhmcV" type="speaker" xml:lang="sv">
+        <note xml:id="i-94S8AMVtBpG1qExS2yhmcV" xml:lang="sv" type="speaker">
           Professor Donner:
         </note>
         <u xml:id="i-U8hSgQnouzf7vs88y5c8qP" who="i-XbAQtPkdSaTdnLcpdJrmsg">
@@ -23259,7 +23259,7 @@
           skulle publiceras pä hvardera spräket, hvilket derför icke gerna
           kan komma i fräga.
         </note>
-        <note xml:id="i-T8V1KDB9m8YSKWrhpitw9J" type="speaker" xml:lang="sv">
+        <note xml:id="i-T8V1KDB9m8YSKWrhpitw9J" xml:lang="sv" type="speaker">
           Ofverläraren Kihlman:
         </note>
         <u xml:id="i-GpnxBXvzeWGPSb2TCT8d4i" who="i-34gigkRr2uXshwGmQ4qktb">
@@ -23357,7 +23357,7 @@
           den äsigt, som jag uttalat förut, nämligen att dessa protokoll
           icke behöfva tryckas förrän detta kan ske på begge språken.
         </note>
-        <note xml:id="i-Bi3tSo81HqE4pvPD9ME7TY" type="speaker" xml:lang="sv">
+        <note xml:id="i-Bi3tSo81HqE4pvPD9ME7TY" xml:lang="sv" type="speaker">
           Professor Runeberg:
         </note>
         <u xml:id="i-6YXrWn2uV72hmfZovKCkhc" who="i-QQ7rzMcvpGv1RunkkD3Hgv">
@@ -23415,7 +23415,7 @@
           kostnad vida öfverväges af nyttan, och understöder jag derför
           statsutskottets betänkande.
         </note>
-        <note xml:id="i-Pb4E9xNZWwSvmjmXWfaK2E" type="speaker" xml:lang="sv">
+        <note xml:id="i-Pb4E9xNZWwSvmjmXWfaK2E" xml:lang="sv" type="speaker">
           Fältprosten Pettersson:
         </note>
         <u xml:id="i-93K6f2MvbxERVoqRyGqYx9" who="unknown">
@@ -23436,7 +23436,7 @@
             icke på långt när det värde, som ett protokoll.
           </seg>
         </u>
-        <note xml:id="i-QiyvRKWAQJajXr3xGk7XqS" type="speaker" xml:lang="sv">
+        <note xml:id="i-QiyvRKWAQJajXr3xGk7XqS" xml:lang="sv" type="speaker">
           Professor Forsman, G. Z.:
         </note>
         <u xml:id="i-B8FZ6sAY72WKavpTt53nHc" who="i-EofqyGpvHy8k9NzSeJtd6F">
@@ -23677,7 +23677,7 @@
           mietintö sisälsi. Minä siis tahdon ehdottaa, että Talonpoikaissäädyn
           pyyntö jätettäisiin sikseen.
         </note>
-        <note xml:id="i-QW6FUb6GxEmp7vieqCaQ5G" type="speaker" xml:lang="sv">
+        <note xml:id="i-QW6FUb6GxEmp7vieqCaQ5G" xml:lang="sv" type="speaker">
           Ofverläraren Kihlman:
         </note>
         <u xml:id="i-D6bFGbEwqxcgN7tXv9Qf4C" who="i-34gigkRr2uXshwGmQ4qktb">
@@ -23711,7 +23711,7 @@
           antaga Bondeständets ,inbjudning. Att Ridderskapet och adelns
           inbjudning icke kan komma i fråga är själffallet.
         </note>
-        <note xml:id="i-GQgMs6qLrq1yDdAsR2uwgM" type="speaker" xml:lang="sv">
+        <note xml:id="i-GQgMs6qLrq1yDdAsR2uwgM" xml:lang="sv" type="speaker">
           Prosten Hjelt:
         </note>
         <u xml:id="i-FaNyoPjgCF5rtLvxbvD3cR" who="i-FfVRGMNn5KRqwAWb2KstnH">
@@ -23776,7 +23776,7 @@
           nykyisen vakanssin lisäksi ja että asia lopullisesti otettaisiin
           käsiteltäväksi ensi valtiopäivillä.
         </note>
-        <note xml:id="i-MdWHFWhTZiHAKobk7MHciX" type="speaker" xml:lang="sv">
+        <note xml:id="i-MdWHFWhTZiHAKobk7MHciX" xml:lang="sv" type="speaker">
           Domprosten Renvall:
         </note>
         <u xml:id="i-SHEgtoCJxLnNEA9TmHz1Hy" who="i-81Zkpqx4nbx5hBdZktoW1S">
@@ -23882,7 +23882,7 @@
           sätt söka få skatt ifrån rusthållen, om man skulle antaga det
           af kontraktsprosten Stenbäck nu gjorda förslaget.
         </note>
-        <note xml:id="i-Q6Yb86PwHXyQJP6qZypZD8" type="speaker" xml:lang="sv">
+        <note xml:id="i-Q6Yb86PwHXyQJP6qZypZD8" xml:lang="sv" type="speaker">
           Professor Cleve:
         </note>
         <u xml:id="i-9VmJ4dagdAJrQEsEtNsPzB" who="i-HfEbbpVpEUS7EMymsy7tc6">
@@ -23903,7 +23903,7 @@
             af inbjudning är naturligtvis en klar sak.
           </seg>
         </u>
-        <note xml:id="i-4yruBv8igftX6H9SNR9fYk" type="speaker" xml:lang="sv">
+        <note xml:id="i-4yruBv8igftX6H9SNR9fYk" xml:lang="sv" type="speaker">
           Kontraktsprosten Stenbäck:
         </note>
         <u xml:id="i-4bbve939cgXiRA4qvuQveK" who="i-2pD791VLsqhv5WJ2JcdDCs">
@@ -23947,7 +23947,7 @@
           af Ridderskapets och adelns inbjudning, proposition helt enkelt
           måtte framställas derom.
         </note>
-        <note xml:id="i-N2pJ14Z7etd69WjRe61WqJ" type="speaker" xml:lang="sv">
+        <note xml:id="i-N2pJ14Z7etd69WjRe61WqJ" xml:lang="sv" type="speaker">
           Domprosten Renvall:
         </note>
         <u xml:id="i-5ibu39V8dQXQ8zEPLZMaAa" who="i-81Zkpqx4nbx5hBdZktoW1S">
@@ -23981,7 +23981,7 @@
           riktning, utan ville jag framhålla hurudant sken saken komme att
           få.
         </note>
-        <note xml:id="i-YcJ6tR8XvPg4brcqgDVFgr" type="speaker" xml:lang="sv">
+        <note xml:id="i-YcJ6tR8XvPg4brcqgDVFgr" xml:lang="sv" type="speaker">
           Professor Runeberg:
         </note>
         <u xml:id="i-KjSZx9zTXpkMYCEVFgtse2" who="i-QQ7rzMcvpGv1RunkkD3Hgv">
@@ -24037,7 +24037,7 @@
           50 prosentin laskun mukaan, joka juuri vastaa sitä suunnitelmaa,
           mikä tässä on ehdotettu.
         </note>
-        <note xml:id="i-33FiWDzdvzAdqxksJhy7Jg" type="speaker" xml:lang="sv">
+        <note xml:id="i-33FiWDzdvzAdqxksJhy7Jg" xml:lang="sv" type="speaker">
           Professor Runeberg:
         </note>
         <u xml:id="i-6rmpQENCbcY1ywKDs5YRUV" who="i-QQ7rzMcvpGv1RunkkD3Hgv">
@@ -24083,7 +24083,7 @@
           på statens bekostnad, af en bibana från Simola station till Willmanstrand;
           och yttrade sig med anledning af denna inbjudning följande talare:
         </note>
-        <note xml:id="i-Xg5Pc5TqxwfjZrHB9Ro9xR" type="speaker" xml:lang="sv">
+        <note xml:id="i-Xg5Pc5TqxwfjZrHB9Ro9xR" xml:lang="sv" type="speaker">
           Professor Cleve:
         </note>
         <u xml:id="i-7Trdt1J2NwL1FT61pHL1R2" who="i-HfEbbpVpEUS7EMymsy7tc6">
@@ -24100,7 +24100,7 @@
             inbjudning.
           </seg>
         </u>
-        <note xml:id="i-CUPaC3D7MgYsozbSSUS9k6" type="speaker" xml:lang="sv">
+        <note xml:id="i-CUPaC3D7MgYsozbSSUS9k6" xml:lang="sv" type="speaker">
           Fältprosten Pettersson:
         </note>
         <u xml:id="i-JFi4dLXB8ktLgsWdGtP5bd" who="unknown">
@@ -24135,7 +24135,7 @@
           1,000,000 mark, eller deromkring. Jag för min del mäste derför
           afböja Borgareständets inbjudning.
         </note>
-        <note xml:id="i-NUDN7dsa4rAfyq7XSgYtCx" type="speaker" xml:lang="sv">
+        <note xml:id="i-NUDN7dsa4rAfyq7XSgYtCx" xml:lang="sv" type="speaker">
           Kontraktsprosten Grönberg:
         </note>
         <u xml:id="i-HTN7HDA3NiSgxrCvsikm4F" who="i-MejDXzf7f7w3bWanLQKrgB">
@@ -24151,7 +24151,7 @@
         <note xml:id="i-SPQ8Q6dSWpv1hPtVtnsv5x" xml:lang="sv">
           Prosten Fredrikson förordade likaledes inbjudningens antagande.
         </note>
-        <note xml:id="i-EoVUnoSrTigif9vUbJeGVh" type="speaker" xml:lang="sv">
+        <note xml:id="i-EoVUnoSrTigif9vUbJeGVh" xml:lang="sv" type="speaker">
           Kyrkoherden Lyra:
         </note>
         <u xml:id="i-AZFLJRGQdaNiCYRd94QZSG" who="i-Qnp6pqgLniPF2sFKE6V5wi">
@@ -24179,7 +24179,7 @@
             ens ett svepskäl för förkastande af Borgareständets inbjudning.
           </seg>
         </u>
-        <note xml:id="i-562XMaXkfoCMgLC2YNGx2D" type="speaker" xml:lang="sv">
+        <note xml:id="i-562XMaXkfoCMgLC2YNGx2D" xml:lang="sv" type="speaker">
           Öfverläraren Kihlman:
         </note>
         <u xml:id="i-SFF21bo4KZ2cfTH1GnkmD2" who="i-34gigkRr2uXshwGmQ4qktb">
@@ -24223,7 +24223,7 @@
           varten. Jos tätä Simolan rataa ehdotetulla subventioonilla ei
           voida rakentaa, niin jääköön sikseen. Minä siis vastustan kutsumusta.
         </note>
-        <note xml:id="i-4QhWQeDuVTLZrVMBA1xVsw" type="speaker" xml:lang="sv">
+        <note xml:id="i-4QhWQeDuVTLZrVMBA1xVsw" xml:lang="sv" type="speaker">
           Prosten Hjelt:
         </note>
         <u xml:id="i-TfYqrYithXi796ALrKxvVB" who="i-FfVRGMNn5KRqwAWb2KstnH">
@@ -24256,7 +24256,7 @@
           vetin seuduilta Keski-Savon läpi Kuopioon. Minun täytyy siis
           vastustaa Porvarissäädyn kutsumusta.
         </note>
-        <note xml:id="i-EWKZA7tn2PbKUhCU5UWTHZ" type="speaker" xml:lang="sv">
+        <note xml:id="i-EWKZA7tn2PbKUhCU5UWTHZ" xml:lang="sv" type="speaker">
           Kontraktsprosten Grönberg:
         </note>
         <u xml:id="i-5JSpxSYZgqn2uVPAxYquCF" who="i-MejDXzf7f7w3bWanLQKrgB">
@@ -24280,7 +24280,7 @@
           radan kannattavaisuutta, niin puhujakin kehotti Säätyä hylkäämään
           keskustelun alaisen kutsumuksen.
         </note>
-        <note xml:id="i-TFuiPWQiiSx8rzNsZM3kbR" type="speaker" xml:lang="sv">
+        <note xml:id="i-TFuiPWQiiSx8rzNsZM3kbR" xml:lang="sv" type="speaker">
           Fältprosten Pettersson:
         </note>
         <u xml:id="i-CyN9WBP9yz2QW3dwragRuc" who="unknown">
@@ -24302,7 +24302,7 @@
           att staten skulle för egen räkning ätaga sig utförandet af den
           nu ifrågavarande Willmanstrand — Simola banan.
         </note>
-        <note xml:id="i-GP9okJjUggCWHKzTdESn8a" type="speaker" xml:lang="sv">
+        <note xml:id="i-GP9okJjUggCWHKzTdESn8a" xml:lang="sv" type="speaker">
           Kyrkoherden Lyra:
         </note>
         <u xml:id="i-J4fuPBZEembP1RBmbcjkMe" who="i-Qnp6pqgLniPF2sFKE6V5wi">
@@ -24341,7 +24341,7 @@
           särdeles lämplig för en sådan jernbana, hvilken derför borde utan
           jämförelsevis stora kostnader kunna anläggas.
         </note>
-        <note xml:id="i-7AXrCGZMCxYCqXdwBzHnFN" type="speaker" xml:lang="unknown">
+        <note xml:id="i-7AXrCGZMCxYCqXdwBzHnFN" xml:lang="unknown" type="speaker">
           Doktor Nordström:
         </note>
         <u xml:id="i-L9uQ5Ei7iUB5LjSdXAJvwi" who="i-QwcTLbpo4YVwryjr1GArpy">
@@ -24390,7 +24390,7 @@
           med anledning af det först till behandling upptagna kap. I i betänkandet
           följande talare:
         </note>
-        <note xml:id="i-U46BQ8ujFCuqXdSCb1hEjz" type="speaker" xml:lang="sv">
+        <note xml:id="i-U46BQ8ujFCuqXdSCb1hEjz" xml:lang="sv" type="speaker">
           Professor Donner:
         </note>
         <u xml:id="i-3NrXUxZmWaYCYyYb3ZGind" who="i-XbAQtPkdSaTdnLcpdJrmsg">
@@ -24422,7 +24422,7 @@
           Kontraktsprosten Grönberg ville under förutsättning att alla
           tryckfel rättades godkänna betänkandet.
         </note>
-        <note xml:id="i-FMAAyPp4scZxfheTsbSwia" type="speaker" xml:lang="sv">
+        <note xml:id="i-FMAAyPp4scZxfheTsbSwia" xml:lang="sv" type="speaker">
           Professor Donner:
         </note>
         <u xml:id="i-KBZBP25RARhFe5A7PKZPiE" who="i-XbAQtPkdSaTdnLcpdJrmsg">
@@ -24435,7 +24435,7 @@
             afskrifven, har dessa i reservationen ingäende ord.
           </seg>
         </u>
-        <note xml:id="i-UhnbYVK5WpNSoDuVks9Jq3" type="speaker" xml:lang="unknown">
+        <note xml:id="i-UhnbYVK5WpNSoDuVks9Jq3" xml:lang="unknown" type="speaker">
           Vicepastor Lilius:
         </note>
         <u xml:id="i-CNtAetmqMgJWJNRHH99PKR" who="i-CM2N1ripkWqmSaCMrmMPMn">
@@ -24472,7 +24472,7 @@
           befordra industrins utveckling och icke blott vara till förmän
           för den som vill drifva handel med inmutningssedlar.
         </note>
-        <note xml:id="i-GC89r3xxxLj68rFWFtry2h" type="speaker" xml:lang="unknown">
+        <note xml:id="i-GC89r3xxxLj68rFWFtry2h" xml:lang="unknown" type="speaker">
           Vicepastor Lilius:
         </note>
         <u xml:id="i-WJm3CK1xsG2g9VPsYtqZVy" who="i-CM2N1ripkWqmSaCMrmMPMn">
@@ -24495,7 +24495,7 @@
           men det synes mig vara bäde i jordegarens och industrins intresse,
           att propositionens stadgande bibehälles.
         </note>
-        <note xml:id="i-NsmdT2W6esvJxpDj9vQFnw" type="speaker" xml:lang="sv">
+        <note xml:id="i-NsmdT2W6esvJxpDj9vQFnw" xml:lang="sv" type="speaker">
           Pastor Eklund:
         </note>
         <u xml:id="i-LAAqiuRXxYzUYqNTbJSuau" who="i-6eNAyWqvwVhwshqVaFpBzh">
@@ -24551,7 +24551,7 @@
         <note xml:id="i-3BCZBUrMzeyuEQxyGFrTMd" xml:lang="sv">
           Beträffande $ 12 yttrade sig:
         </note>
-        <note xml:id="i-PPfbzSnNR3yBYsb1TXnfCb" type="speaker" xml:lang="sv">
+        <note xml:id="i-PPfbzSnNR3yBYsb1TXnfCb" xml:lang="sv" type="speaker">
           Professor Donner:
         </note>
         <u xml:id="i-XjVY1ccMHZv5EzBR2n3QQR" who="i-XbAQtPkdSaTdnLcpdJrmsg">
@@ -24605,7 +24605,7 @@
           då derigenom lätteligen kan uppstå tvist, anser jag det stadgande
           vara behöfligt, att vederbörlig domstol skall slita tvisten.
         </note>
-        <note xml:id="i-LzVBHpxUeSPSHzeF2WcZoN" type="speaker" xml:lang="sv">
+        <note xml:id="i-LzVBHpxUeSPSHzeF2WcZoN" xml:lang="sv" type="speaker">
           Pastor Eklund:
         </note>
         <u xml:id="i-EeAnXP4psxHRknZKY5BEfn" who="i-6eNAyWqvwVhwshqVaFpBzh">
@@ -24619,7 +24619,7 @@
             häremot. Derför lemnades reservanternas invändning utan afseende.
           </seg>
         </u>
-        <note xml:id="i-DA57Z2hqYnFmLJ3H2yydnT" type="speaker" xml:lang="sv">
+        <note xml:id="i-DA57Z2hqYnFmLJ3H2yydnT" xml:lang="sv" type="speaker">
           Professor Donner:
         </note>
         <u xml:id="i-Ksdni9G2TqXWC6KZjGBVyk" who="i-XbAQtPkdSaTdnLcpdJrmsg">
@@ -24635,7 +24635,7 @@
           8 16 godkändes härå oförändrad, enligt betänkandet. 8$ 17—29
           godkändes utan diskussion. Rörande $ 30 yttrade sig:
         </note>
-        <note xml:id="i-6uKebzHTpH6Ztq6ThBjWjv" type="speaker" xml:lang="sv">
+        <note xml:id="i-6uKebzHTpH6Ztq6ThBjWjv" xml:lang="sv" type="speaker">
           Professor Donner:
         </note>
         <u xml:id="i-693nh9WUpK6V6UADCVwDMC" who="i-XbAQtPkdSaTdnLcpdJrmsg">
@@ -24659,7 +24659,7 @@
         <note xml:id="i-SKdo8HwgnLdfjMqc4bAJq2" xml:lang="sv">
           Beträffande $ 43 yttrade sig följande talare:
         </note>
-        <note xml:id="i-6LgwqeEzNaHzvHLnLpeU9L" type="speaker" xml:lang="sv">
+        <note xml:id="i-6LgwqeEzNaHzvHLnLpeU9L" xml:lang="sv" type="speaker">
           Professor Donner:
         </note>
         <u xml:id="i-6SsuNoDMDkpy9ZnQmQeHQ3" who="i-XbAQtPkdSaTdnLcpdJrmsg">
@@ -24679,7 +24679,7 @@
             föreslår derför att ifrågavarande skyldighet måtte fördubblas.
           </seg>
         </u>
-        <note xml:id="i-U5PHQdFaM2wFxpu4cZdpum" type="speaker" xml:lang="unknown">
+        <note xml:id="i-U5PHQdFaM2wFxpu4cZdpum" xml:lang="unknown" type="speaker">
           Vicepastor Lilius:
         </note>
         <u xml:id="i-V3aPa9zzQAuVMTvsGnTsDQ" who="i-CM2N1ripkWqmSaCMrmMPMn">
@@ -24729,7 +24729,7 @@
           utskottsbetänkande pä sid. 12—13 förekommande resolutionsförslag,
           med anledning af hvilket yttrade sig följande talare:
         </note>
-        <note xml:id="i-XQWTMqRdnXbJQU5XAWFzJW" type="speaker" xml:lang="sv">
+        <note xml:id="i-XQWTMqRdnXbJQU5XAWFzJW" xml:lang="sv" type="speaker">
           Professor Donner:
         </note>
         <u xml:id="i-3onQbBv3Ywttq3zC4iTVE2" who="i-XbAQtPkdSaTdnLcpdJrmsg">
@@ -25022,7 +25022,7 @@
           kuluessa kruununtilain omistajat velvotettaisiin määrätyillä ehdoilla
           lunastamaan tilansa perinnöksi.
         </note>
-        <note xml:id="i-YL9ucYMpy6Mcpb8SF4zfrw" type="speaker" xml:lang="sv">
+        <note xml:id="i-YL9ucYMpy6Mcpb8SF4zfrw" xml:lang="sv" type="speaker">
           Professor Cleve:
         </note>
         <u xml:id="i-2yYKHx2QdYrFXjWAwMQRkC" who="i-HfEbbpVpEUS7EMymsy7tc6">
@@ -25070,7 +25070,7 @@
           Provasti Grönberg hyväksyi valiokunnan mietinnön sekä puolusti
           kirkkoherra Lyran ehdotusta.
         </note>
-        <note xml:id="i-EQGTuWJTQ4oUUksNGeBjSD" type="speaker" xml:lang="sv">
+        <note xml:id="i-EQGTuWJTQ4oUUksNGeBjSD" xml:lang="sv" type="speaker">
           Prosten Hjelt:
         </note>
         <u xml:id="i-Eds3QyQu4bHkCAFQVW81rw" who="i-FfVRGMNn5KRqwAWb2KstnH">
@@ -25588,7 +25588,7 @@
         <note xml:id="i-RoEcgobkYENxC9azkXjQME" xml:lang="sv">
           Rörande detta betänkande yttrade sig följande talare:
         </note>
-        <note xml:id="i-555pgC21eqFA1DND9uLgrb" type="speaker" xml:lang="sv">
+        <note xml:id="i-555pgC21eqFA1DND9uLgrb" xml:lang="sv" type="speaker">
           Fältprosten Petterson:
         </note>
         <u xml:id="i-9f3aN1jFgfBL7vcmcBYEJQ" who="i-NpQ4pik31NjbjFQK1eTY2D">
@@ -25635,7 +25635,7 @@
           Kyrkoherden Öller och domprosten Renvall förenade sig med de
           tvä föregäende talarene.
         </note>
-        <note xml:id="i-GEhWCK82GAEpbDiDaHv37E" type="speaker" xml:lang="sv">
+        <note xml:id="i-GEhWCK82GAEpbDiDaHv37E" xml:lang="sv" type="speaker">
           Doktor Lindelöf:
         </note>
         <u xml:id="i-ASfY8JLwDjd8meZvok4LNx" who="i-8f5tRtT5D15j7HTFKPzTBC">
@@ -25662,7 +25662,7 @@
             betänkande i denna del skulle godkännas.
           </seg>
         </u>
-        <note xml:id="i-2Jcbzrg4cE4a2g7wrK6z8y" type="speaker" xml:lang="sv">
+        <note xml:id="i-2Jcbzrg4cE4a2g7wrK6z8y" xml:lang="sv" type="speaker">
           Prosten Hjelt:
         </note>
         <u xml:id="i-AVhedb6tyPcWk4LnG92Dkp" who="i-FfVRGMNn5KRqwAWb2KstnH">
@@ -25711,7 +25711,7 @@
           tulla tähän luetteloon, jotka ovat muuttaneet vuoden viimeisinä
           päivinä.
         </note>
-        <note xml:id="i-2cMpn6gVDdjsngegF1SXMq" type="speaker" xml:lang="sv">
+        <note xml:id="i-2cMpn6gVDdjsngegF1SXMq" xml:lang="sv" type="speaker">
           Domprosten Renvall:
         </note>
         <u xml:id="i-Xue21bXTXWvefo9N5YSLYx" who="i-81Zkpqx4nbx5hBdZktoW1S">
@@ -25728,7 +25728,7 @@
             med att kontrollera och skrifva densamma.
           </seg>
         </u>
-        <note xml:id="i-96Zi28xWgoCLWYaL4rU23z" type="speaker" xml:lang="sv">
+        <note xml:id="i-96Zi28xWgoCLWYaL4rU23z" xml:lang="sv" type="speaker">
           Fältprosten Petterson:
         </note>
         <u xml:id="i-3zjQm95Lqh1aqVARMyhRxk" who="i-NpQ4pik31NjbjFQK1eTY2D">
@@ -25806,7 +25806,7 @@
         <note xml:id="i-9dUFCr5pkBEbFuJF5oifin" xml:lang="sv">
           Beträffande detta betänkande yttrade sig följande talare:
         </note>
-        <note xml:id="i-S1H3MYgmd6Q4QCQjXuaiJ5" type="speaker" xml:lang="sv">
+        <note xml:id="i-S1H3MYgmd6Q4QCQjXuaiJ5" xml:lang="sv" type="speaker">
           Prosten Fredrikson:
         </note>
         <u xml:id="i-LQvdZ1i4Tn2fNrf2G1RDex" who="i-WZrjaFeP6M4ENU12xLztDg">
@@ -25901,7 +25901,7 @@
           ojennusnuorana, minkä mukaan he käsittävät ja arvostelevat kaiken
           kirkkonsa opin*.
         </note>
-        <note xml:id="i-29JeoArji7jWZPUmXCJGV8" type="speaker" xml:lang="sv">
+        <note xml:id="i-29JeoArji7jWZPUmXCJGV8" xml:lang="sv" type="speaker">
           Professor Runeberg:
         </note>
         <u xml:id="i-9roya9ebysoiigKNtSKRDv" who="i-QQ7rzMcvpGv1RunkkD3Hgv">
@@ -26000,7 +26000,7 @@
           anser jag att det kunde vara en cura posterior att ändra den blifvande
           lagen, ifall det skulle behöfvas.
         </note>
-        <note xml:id="i-S6Z9EJMbCJMjtCKZn2rhYy" type="speaker" xml:lang="sv">
+        <note xml:id="i-S6Z9EJMbCJMjtCKZn2rhYy" xml:lang="sv" type="speaker">
           Domprosten Renvall:
         </note>
         <u xml:id="i-5orAP4LLSYrManutJX8kzo" who="i-81Zkpqx4nbx5hBdZktoW1S">
@@ -26065,7 +26065,7 @@
           sellaiseen herranehtoollisen nauttimiseen, joka heidän käsityksensä
           mukaan on oikea.
         </note>
-        <note xml:id="i-TemwV3qQkJ3XnfUTkdM8E8" type="speaker" xml:lang="sv">
+        <note xml:id="i-TemwV3qQkJ3XnfUTkdM8E8" xml:lang="sv" type="speaker">
           Kyrkoherden Öller:
         </note>
         <u xml:id="i-FXdtMamJoy1ii1wn59TJGD" who="i-AyjRaKbfynRtsDXw51CRKR">
@@ -26139,7 +26139,7 @@
           niin syntyy siitä semmoisia oloja, jotka ovat kaikin puolin hyvin
           vaarallisia.
         </note>
-        <note xml:id="i-K7AXXoirz1nvrAoSF6iECK" type="speaker" xml:lang="sv">
+        <note xml:id="i-K7AXXoirz1nvrAoSF6iECK" xml:lang="sv" type="speaker">
           Kontraktsprosten Grönberg:
         </note>
         <u xml:id="i-X6Zkuizbxc2zpCgo5vRzED" who="i-MejDXzf7f7w3bWanLQKrgB">
@@ -26163,7 +26163,7 @@
           i landet icke hafva gjort någon anhållan om att få skilja sig,
           så anser jag att utskottets betänkande är väl befogadt.
         </note>
-        <note xml:id="i-TG6MZjzDpL76qX8fFcWBA" type="speaker" xml:lang="sv">
+        <note xml:id="i-TG6MZjzDpL76qX8fFcWBA" xml:lang="sv" type="speaker">
           Öfverläraren Kihlman:
         </note>
         <u xml:id="i-TY9sR2S3g3C3tQgar6rQ5S" who="i-34gigkRr2uXshwGmQ4qktb">
@@ -26305,7 +26305,7 @@
         <note xml:id="i-U9WhnKtRoTnz2VNm5AMU58" xml:lang="sv">
           Rörande detta betänkande yttrade sig följande talare:
         </note>
-        <note xml:id="i-L4r8YLYLWdnPSGMzwidfW5" type="speaker" xml:lang="sv">
+        <note xml:id="i-L4r8YLYLWdnPSGMzwidfW5" xml:lang="sv" type="speaker">
           Ofverläraren Kihlman:
         </note>
         <u xml:id="i-TrZch22VLzEMfXaK9uaP8r" who="i-34gigkRr2uXshwGmQ4qktb">
@@ -26405,7 +26405,7 @@
           vågar hvad den hittills icke vågat, nämligen att inrätta provisionela
           dammar.
         </note>
-        <note xml:id="i-C3ogi2xZUd9KSUXf3YPm7h" type="speaker" xml:lang="sv">
+        <note xml:id="i-C3ogi2xZUd9KSUXf3YPm7h" xml:lang="sv" type="speaker">
           Kyrkoherden Törnudd:
         </note>
         <u xml:id="i-A11TZnHQXfYZ3k4A9ee1Ue" who="i-PtuyxaDFzQJ2vXUDYSKW5C">
@@ -26450,7 +26450,7 @@
           veden paljous Tampereen koskessa, että kaikki pelkäävät veden
           vievän sillatkin.
         </note>
-        <note xml:id="i-XZW9vUSBkMVXQDyTeiH9sd" type="speaker" xml:lang="sv">
+        <note xml:id="i-XZW9vUSBkMVXQDyTeiH9sd" xml:lang="sv" type="speaker">
           Professor Donner:
         </note>
         <u xml:id="i-WysiAqM4C3FwdgVs16rajp" who="i-XbAQtPkdSaTdnLcpdJrmsg">
@@ -26466,7 +26466,7 @@
             landet denna vattentillgång, är en obestridlig sanning.
           </seg>
         </u>
-        <note xml:id="i-5oDroHAhxQBsXKMww52xG2" type="speaker" xml:lang="sv">
+        <note xml:id="i-5oDroHAhxQBsXKMww52xG2" xml:lang="sv" type="speaker">
           Ofverläraren Kihlman:
         </note>
         <u xml:id="i-KU5VpMXNrHWUq4HRMvASWk" who="i-34gigkRr2uXshwGmQ4qktb">
@@ -26484,7 +26484,7 @@
             och sedan att regeringen skulle ingå på en sådan begäran.
           </seg>
         </u>
-        <note xml:id="i-AHCk5XNoSqG5aCCKJ57DAU" type="speaker" xml:lang="sv">
+        <note xml:id="i-AHCk5XNoSqG5aCCKJ57DAU" xml:lang="sv" type="speaker">
           Kontraktsprosten Wegelius:
         </note>
         <u xml:id="i-LvKTZcLKK8NiFq3k8vVffV" who="i-VwibmpSUHRf18jjByiX717">
@@ -26610,7 +26610,7 @@
           i Osterbotten är oerhördt och, såsom det säges, också pä Äland,
           skulle kunna undanrödjas.
         </note>
-        <note xml:id="i-Tf5CsTS7oDP9ryqf7qLkXC" type="speaker" xml:lang="sv">
+        <note xml:id="i-Tf5CsTS7oDP9ryqf7qLkXC" xml:lang="sv" type="speaker">
           Prosten Hjelt:
         </note>
         <u xml:id="i-TT7oxzWYu1io6ArCpZtRYb" who="i-FfVRGMNn5KRqwAWb2KstnH">
@@ -26687,7 +26687,7 @@
           ja kun pidän velvollisuutenani valvoa Pohjanmaan asukasten etuja,
           niin tahdon yhdistyä vastalauseesen.
         </note>
-        <note xml:id="i-86DUnagp2dLLJx1aAS9Qs7" type="speaker" xml:lang="sv">
+        <note xml:id="i-86DUnagp2dLLJx1aAS9Qs7" xml:lang="sv" type="speaker">
           Öfverläraren Kihlman:
         </note>
         <u xml:id="i-3gBapGfsVpTmxJwNwzCx8i" who="i-34gigkRr2uXshwGmQ4qktb">
@@ -26715,7 +26715,7 @@
         <note xml:id="i-3dtvLxuEdHiKTMsuYKR88r" xml:lang="sv">
           Kyrkoherden Järvinen förenade sig med öfverläraren Kihlman.
         </note>
-        <note xml:id="i-H3kjk6z2LKXDGNqR1ink3s" type="speaker" xml:lang="sv">
+        <note xml:id="i-H3kjk6z2LKXDGNqR1ink3s" xml:lang="sv" type="speaker">
           Prosten Hjelt:
         </note>
         <u xml:id="i-PwUjS8D16rgvxTd6h9xkMP" who="i-FfVRGMNn5KRqwAWb2KstnH">
@@ -26848,7 +26848,7 @@
           Beträffande denna statsutskottets hemställan yttrade sig följande
           talare:
         </note>
-        <note xml:id="i-C6U8skmMCYZ8QjLPgYnjfp" type="speaker" xml:lang="fi">
+        <note xml:id="i-C6U8skmMCYZ8QjLPgYnjfp" xml:lang="fi" type="speaker">
           Prosten Johnsson:
         </note>
         <u xml:id="i-Lv3LLLHKEzDLYXpUoo9D9C" who="i-QVrcwFYjcxwn93KdWmPBk3">
@@ -26882,7 +26882,7 @@
           - Kontraktsprosten” Sten bäck anhöll att någon af statsutskottets
           ledamöter ville i korthet referera frågan.
         </note>
-        <note xml:id="i-6zQWBtMmHHuoFE3tWhHp8P" type="speaker" xml:lang="sv">
+        <note xml:id="i-6zQWBtMmHHuoFE3tWhHp8P" xml:lang="sv" type="speaker">
           Öfverläraren Kihlman:
         </note>
         <u xml:id="i-X6uSXyEz39n9Kr9uJ772bm" who="i-34gigkRr2uXshwGmQ4qktb">
@@ -26895,7 +26895,7 @@
             sitt förut i saken fattade beslut.
           </seg>
         </u>
-        <note xml:id="i-uGWxGGZwyV2Lp9BfuAHxA" type="speaker" xml:lang="sv">
+        <note xml:id="i-uGWxGGZwyV2Lp9BfuAHxA" xml:lang="sv" type="speaker">
           Professor Donner:
         </note>
         <u xml:id="i-FHe5rifkusK8a8Z1SjQzSx" who="i-XbAQtPkdSaTdnLcpdJrmsg">
@@ -26970,7 +26970,7 @@
         <note xml:id="i-BumPn1FnyEgyF3Lk9DKEZN" xml:lang="sv">
           Prosten Rosengren förenade sig med föregäende talare.
         </note>
-        <note xml:id="i-dSS41vaQEpsgoJysXQWCs" type="speaker" xml:lang="sv">
+        <note xml:id="i-dSS41vaQEpsgoJysXQWCs" xml:lang="sv" type="speaker">
           Prosten Hjelt:
         </note>
         <u xml:id="i-FfwfWCEQFHDfAAw979kb6X" who="i-FfVRGMNn5KRqwAWb2KstnH">
@@ -27022,7 +27022,7 @@
           upptaga län, om ens dä. Jag tillstyrker att Presteständet vidhäller
           sitt förra beslut.
         </note>
-        <note xml:id="i-XTEGGGe5Hi9Tvz1wqvwXSJ" type="speaker" xml:lang="fi">
+        <note xml:id="i-XTEGGGe5Hi9Tvz1wqvwXSJ" xml:lang="fi" type="speaker">
           Prosten Johnsson:
         </note>
         <u xml:id="i-TzKGA1w2iaZVGjpFKDet9M" who="i-QVrcwFYjcxwn93KdWmPBk3">
@@ -27038,7 +27038,7 @@
             jatkaa velkaa ottamatta.
           </seg>
         </u>
-        <note xml:id="i-NLGdMLLZBpQi2XMdxqL9ex" type="speaker" xml:lang="sv">
+        <note xml:id="i-NLGdMLLZBpQi2XMdxqL9ex" xml:lang="sv" type="speaker">
           Professor Donner:
         </note>
         <u xml:id="i-3F4JZYdXJYLkQBCjgffRDU" who="i-XbAQtPkdSaTdnLcpdJrmsg">
@@ -27100,7 +27100,7 @@
           syistä, jotka ovat vastalauseessa mainitut, minä puolestani tahtoisin
           ehdottaa, että Sääty hyväksyisi mietintöön liitetyn vastalauseen.
         </note>
-        <note xml:id="i-15hYyJm6oJHKngxmHhPiCy" type="speaker" xml:lang="sv">
+        <note xml:id="i-15hYyJm6oJHKngxmHhPiCy" xml:lang="sv" type="speaker">
           Professor Donner:
         </note>
         <u xml:id="i-U3c7uVYXwp4jaxVsFWzWJn" who="i-XbAQtPkdSaTdnLcpdJrmsg">
@@ -27163,7 +27163,7 @@
         <note xml:id="i-3NjJ2eygsTqRxBAHQRchHd" xml:lang="sv">
           1728 Presteståndet 1882. 1 juni.
         </note>
-        <note xml:id="i-FXi3S4MzH7x22Gze8d7MRW" type="speaker" xml:lang="sv">
+        <note xml:id="i-FXi3S4MzH7x22Gze8d7MRW" xml:lang="sv" type="speaker">
           Professor Cleve:
         </note>
         <u xml:id="i-MjkCxAifW9Mhz9D9mTyfJf" who="i-HfEbbpVpEUS7EMymsy7tc6">
@@ -27240,7 +27240,7 @@
           förkofra sig, lät vara att han till en början säljer något skog
           från den mark, som fått stä orörd nu nära pä tvänne decennier.
         </note>
-        <note xml:id="i-HcyBBFsWLKAoqATdMAwv1J" type="speaker" xml:lang="sv">
+        <note xml:id="i-HcyBBFsWLKAoqATdMAwv1J" xml:lang="sv" type="speaker">
           Prosten Hjelt:
         </note>
         <u xml:id="i-XZxeY986CYwjZR4u9Ydquj" who="i-FfVRGMNn5KRqwAWb2KstnH">
@@ -27259,7 +27259,7 @@
             väg erhälla sin lösning.
           </seg>
         </u>
-        <note xml:id="i-HpdUsx3iy8mFGghqQ17GVY" type="speaker" xml:lang="fi">
+        <note xml:id="i-HpdUsx3iy8mFGghqQ17GVY" xml:lang="fi" type="speaker">
           Vice pastorn Lilius:
         </note>
         <u xml:id="i-NUkxXmJTokAmPFiLZv3ScY" who="i-CM2N1ripkWqmSaCMrmMPMn">
@@ -27377,7 +27377,7 @@
           Säätyjen puoleen voidakseen sitte kruunulta pyytää sitä suuremmalla
           toivolla. Minä puolestani hyväksyn valiokunnan mietinnön.
         </note>
-        <note xml:id="i-LPozjpg4b3TJ7yCEuUjQvM" type="speaker" xml:lang="sv">
+        <note xml:id="i-LPozjpg4b3TJ7yCEuUjQvM" xml:lang="sv" type="speaker">
           Prosten Hjelt:
         </note>
         <u xml:id="i-Qa5PbnrqCkj3Mgmp5iE3JY" who="i-FfVRGMNn5KRqwAWb2KstnH">
@@ -27416,7 +27416,7 @@
           antavat puoltosanansa tälle asialle. Minä puolustan valiokunnan
           mietintöä.
         </note>
-        <note xml:id="i-WbffswLSvzAuTTUJCyBnPP" type="speaker" xml:lang="unknown">
+        <note xml:id="i-WbffswLSvzAuTTUJCyBnPP" xml:lang="unknown" type="speaker">
           Vicepastor Westerlund:
         </note>
         <u xml:id="i-3atP1a1C8W4d48Bmn4WoZD" who="i-SzqzswQ1RPMaaeiMYjG5Ca">
@@ -27458,7 +27458,7 @@
         <note xml:id="i-JNZHUqxqMz9x1sN1cmiZTq" xml:lang="sv">
           Beträffande detta betänkande yttrade sig följande talare:
         </note>
-        <note xml:id="i-UWg1FPnSuMiaytgPxBPS5w" type="speaker" xml:lang="sv">
+        <note xml:id="i-UWg1FPnSuMiaytgPxBPS5w" xml:lang="sv" type="speaker">
           Öfverläraren Kihlman:
         </note>
         <u xml:id="i-NL3guc1opzxhSuwj4TVdEp" who="i-34gigkRr2uXshwGmQ4qktb">
@@ -27548,7 +27548,7 @@
           kuntiin. Minä sen vuoksi, vaikk'en voi hyväksyä niitä syitä, joita
           valiokunta on tuonut esiin, arvelen, että anomus on hylättävä.
         </note>
-        <note xml:id="i-NCnfU4pp6WWStt4xe7FJve" type="speaker" xml:lang="sv">
+        <note xml:id="i-NCnfU4pp6WWStt4xe7FJve" xml:lang="sv" type="speaker">
           Kontraktsprosten Dahlberg:
         </note>
         <u xml:id="i-43GSVqvtvDJeeXFtZ1bYkJ" who="i-RhBRSkx9yQCaJTuJXtgxWb">
@@ -27573,7 +27573,7 @@
         <note xml:id="i-AgFFA5JKMCPLeWyBgsWvob" xml:lang="sv">
           Presteständet 1882. 1 juni. 1735
         </note>
-        <note xml:id="i-PoiwYdL3uvcSVH4Dp21jPn" type="speaker" xml:lang="sv">
+        <note xml:id="i-PoiwYdL3uvcSVH4Dp21jPn" xml:lang="sv" type="speaker">
           Öfverläraren Kihlman:
         </note>
         <u xml:id="i-Dj6mbkFCPatz6WcvG86x4Q" who="i-34gigkRr2uXshwGmQ4qktb">
@@ -27623,7 +27623,7 @@
         <note xml:id="i-GKErpRPTGpn6ZMnyDWiBtW" xml:lang="sv">
           Vicepastor Westerlund förenade sig med professor G. Z. Forsman.
         </note>
-        <note xml:id="i-NutZXXstY1nSVN1nqj81cy" type="speaker" xml:lang="unknown">
+        <note xml:id="i-NutZXXstY1nSVN1nqj81cy" xml:lang="unknown" type="speaker">
           Doktor Nordström:
         </note>
         <u xml:id="i-NHCbNjc8TJa3oz9CKGfjxU" who="i-QwcTLbpo4YVwryjr1GArpy">
@@ -27770,7 +27770,7 @@
           för bestridande af landtdagsmannaarvoden åt deras representanter
           vid 1877—78 års landtdag yttrade sig följande talare:
         </note>
-        <note xml:id="i-MCGNqsxbVTfFVy8A9FRPAz" type="speaker" xml:lang="unknown">
+        <note xml:id="i-MCGNqsxbVTfFVy8A9FRPAz" xml:lang="unknown" type="speaker">
           Doktor Geitlin:
         </note>
         <u xml:id="i-Msgu4h3kKMqDaVD7A2jcs8" who="i-WVXdqsXffbuVYsgyHLau3U">
@@ -27783,7 +27783,7 @@
             vara en fläck pä skollärarekärens namn.
           </seg>
         </u>
-        <note xml:id="i-7V6Kmsh7h8cN3AKxV1h3qZ" type="speaker" xml:lang="sv">
+        <note xml:id="i-7V6Kmsh7h8cN3AKxV1h3qZ" xml:lang="sv" type="speaker">
           Kyrkoherden Lyra:
         </note>
         <u xml:id="i-9t3AwZGK7H4yS34cHtu6CE" who="i-Qnp6pqgLniPF2sFKE6V5wi">
@@ -27823,7 +27823,7 @@
           att domkapitlet bör se till, att vederbörande komitenter enligt
           L. O. föreskrift gifva sitt ombud ett tillräckligt arvode.
         </note>
-        <note xml:id="i-BrYtkeA56LuxR7egUDXde" type="speaker" xml:lang="sv">
+        <note xml:id="i-BrYtkeA56LuxR7egUDXde" xml:lang="sv" type="speaker">
           Kyrkoherden Lyra:
         </note>
         <u xml:id="i-4ieoXxLE4J2say3CJmrKwK" who="i-Qnp6pqgLniPF2sFKE6V5wi">
@@ -27902,7 +27902,7 @@
           senaten till Ständerna afgifna relation om statsverkets tillständ;
           och yttrade sig med anledning häraf följande talare:
         </note>
-        <note xml:id="i-Aoca3Fbwh4YyKdxKMz9SUf" type="speaker" xml:lang="sv">
+        <note xml:id="i-Aoca3Fbwh4YyKdxKMz9SUf" xml:lang="sv" type="speaker">
           Öfverläraren Kihlman:
         </note>
         <u xml:id="i-AZn9QpUrE4VtggjhaBf8jZ" who="i-34gigkRr2uXshwGmQ4qktb">
@@ -27951,7 +27951,7 @@
           huruvida det har varit Ständets mening att förena sig uti statsutskottets
           klander emot regeringen.
         </note>
-        <note xml:id="i-42YG9vzU1xwXtgVnTNafuX" type="speaker" xml:lang="sv">
+        <note xml:id="i-42YG9vzU1xwXtgVnTNafuX" xml:lang="sv" type="speaker">
           Prosten Hjelt:
         </note>
         <u xml:id="i-U3SryF6iUQEm45NAjxc8H2" who="i-FfVRGMNn5KRqwAWb2KstnH">
@@ -27975,7 +27975,7 @@
         <note xml:id="i-XBEM4uveZexBkLNDCpiu8n" xml:lang="sv">
           Kyrkoherden Lyra förenade sig med öfverläraren Kihlman.
         </note>
-        <note xml:id="i-B97A95ZYPnzRb2XtKDcFWR" type="speaker" xml:lang="sv">
+        <note xml:id="i-B97A95ZYPnzRb2XtKDcFWR" xml:lang="sv" type="speaker">
           Öfverläraren Kihlman:
         </note>
         <u xml:id="i-vBCmp8kVCdc4AoZPAB2Eh" who="i-34gigkRr2uXshwGmQ4qktb">
@@ -28081,7 +28081,7 @@
           petitionsförslagx om inrättande af finska fruntimmersskolor och
           yttrade sig med anledning häraf:
         </note>
-        <note xml:id="i-ubin9SoGDsgiT5JAhwXpZ" type="speaker" xml:lang="sv">
+        <note xml:id="i-ubin9SoGDsgiT5JAhwXpZ" xml:lang="sv" type="speaker">
           Professor Runeberg:
         </note>
         <u xml:id="i-C8VPvYdSwvVvecAat7EvpR" who="i-QQ7rzMcvpGv1RunkkD3Hgv">
@@ -28191,7 +28191,7 @@
           proposition N:o 26 angående införande af länerepresentation; och
           yttrade sig med anledning häraf följande talare:
         </note>
-        <note xml:id="i-HWX9PjDn3Kh4FG6Km3L9Ym" type="speaker" xml:lang="sv">
+        <note xml:id="i-HWX9PjDn3Kh4FG6Km3L9Ym" xml:lang="sv" type="speaker">
           Öfverläraren Kihlman:
         </note>
         <u xml:id="i-G5y2aG9pCo98eirdafZpi1" who="i-34gigkRr2uXshwGmQ4qktb">
@@ -28226,7 +28226,7 @@
           en diskussion angående densamma vore öfverflödig, då diskussioner
           ändock icke kunde leda till något resultat.
         </note>
-        <note xml:id="i-5FkmHuKWUsDRqi56VHGRM9" type="speaker" xml:lang="sv">
+        <note xml:id="i-5FkmHuKWUsDRqi56VHGRM9" xml:lang="sv" type="speaker">
           Professor Runeberg:
         </note>
         <u xml:id="i-38fBY9eYVj5amooTzk4DTy" who="i-QQ7rzMcvpGv1RunkkD3Hgv">
@@ -28262,7 +28262,7 @@
         <note xml:id="i-G3hPZAEAtrNotEN3zCUZav" xml:lang="sv">
           Professor Cleve afstod ifrän ordet.
         </note>
-        <note xml:id="i-4DptctW6Y4Vbko34ZYJvVk" type="speaker" xml:lang="sv">
+        <note xml:id="i-4DptctW6Y4Vbko34ZYJvVk" xml:lang="sv" type="speaker">
           Professor Donner:
         </note>
         <u xml:id="i-Rfi2xRdqX8SF7cpdASV22h" who="i-XbAQtPkdSaTdnLcpdJrmsg">
@@ -28299,7 +28299,7 @@
           yttermera pröfning, emedan det var alldeles klart, att frägan
           icke var tillräckligt utredd.
         </note>
-        <note xml:id="i-Fwiaymfz6vAUMR1Enkx7PF" type="speaker" xml:lang="sv">
+        <note xml:id="i-Fwiaymfz6vAUMR1Enkx7PF" xml:lang="sv" type="speaker">
           Professor Cleve:
         </note>
         <u xml:id="i-JBPdf7DP8BQowMpm453K6R" who="i-HfEbbpVpEUS7EMymsy7tc6">
@@ -28319,7 +28319,7 @@
             gäng utarbetas.
           </seg>
         </u>
-        <note xml:id="i-La5pQZCZT5u7wMWszqKqYo" type="speaker" xml:lang="sv">
+        <note xml:id="i-La5pQZCZT5u7wMWszqKqYo" xml:lang="sv" type="speaker">
           Prosten Hjelt:
         </note>
         <u xml:id="i-W3Xb652Xv1fNRQ5UQ188Az" who="i-FfVRGMNn5KRqwAWb2KstnH">
@@ -28389,7 +28389,7 @@
           om tryckfrihetens ordnande genom allmän lag; och yttrade sig med
           anledning af detta betänkande följande talare:
         </note>
-        <note xml:id="i-42xbgyv7i5ezcZPNtwuGJS" type="speaker" xml:lang="sv">
+        <note xml:id="i-42xbgyv7i5ezcZPNtwuGJS" xml:lang="sv" type="speaker">
           Öfverläraren Kihlman:
         </note>
         <u xml:id="i-GQAum62LUwxzfrER9SmY9k" who="i-34gigkRr2uXshwGmQ4qktb">
@@ -28644,7 +28644,7 @@
           kommunikationen till Nyslott och att ifrån Ladoga kust ej är mer
           än tio å tolf mil till Nyslott.
         </note>
-        <note xml:id="i-XsuEVbj1xMJ3HHrFdzXLcC" type="speaker" xml:lang="unknown">
+        <note xml:id="i-XsuEVbj1xMJ3HHrFdzXLcC" xml:lang="unknown" type="speaker">
           Doktor Nordström:
         </note>
         <u xml:id="i-N58EqkC79W8dc2PhKmL5f5" who="i-QwcTLbpo4YVwryjr1GArpy">
@@ -28743,7 +28743,7 @@
           i underdånighet begära att St. Michels lyceum förvandlas till
           hvad det både kan och bör vara, nämligen ett finskt läroverk.
         </note>
-        <note xml:id="i-9ytNbYDH7t6KLgSFGchbyM" type="speaker" xml:lang="unknown">
+        <note xml:id="i-9ytNbYDH7t6KLgSFGchbyM" xml:lang="unknown" type="speaker">
           Doktor Nordström:
         </note>
         <u xml:id="i-G6xXyaUWL9k25AfbxGg6Rh" who="i-QwcTLbpo4YVwryjr1GArpy">
@@ -28764,7 +28764,7 @@
             der kommer att blifva tillräckligt stor.
           </seg>
         </u>
-        <note xml:id="i-Sza6WEBKjf64t1jXGSyEes" type="speaker" xml:lang="sv">
+        <note xml:id="i-Sza6WEBKjf64t1jXGSyEes" xml:lang="sv" type="speaker">
           Kyrkoherden Lyra:
         </note>
         <u xml:id="i-YHo4Q7JcSxm6Kb8uGYer44" who="i-Qnp6pqgLniPF2sFKE6V5wi">
@@ -28840,7 +28840,7 @@
           se kuolee. Minä toivon kumminkin, etteivät Säädyt anna sen kitumalla
           kuolla.
         </note>
-        <note xml:id="i-V5JX82uLu1GQ4we6x5PFoN" type="speaker" xml:lang="sv">
+        <note xml:id="i-V5JX82uLu1GQ4we6x5PFoN" xml:lang="sv" type="speaker">
           Professor Cleve:
         </note>
         <u xml:id="i-H1jYxcE4wcNKHhWsWgJA4y" who="i-HfEbbpVpEUS7EMymsy7tc6">
@@ -28974,7 +28974,7 @@
         <note xml:id="i-QBisLvs3nYYmPXrh3qMYvz" xml:lang="sv">
           Angäende momentet g) yttrade:
         </note>
-        <note xml:id="i-UgaNT7cgmrCyNWVKWfjoiB" type="speaker" xml:lang="sv">
+        <note xml:id="i-UgaNT7cgmrCyNWVKWfjoiB" xml:lang="sv" type="speaker">
           Kontraktsprosten Stenbäck:
         </note>
         <u xml:id="i-9pEVFjahcBsjQeBzfMDj1h" who="i-2pD791VLsqhv5WJ2JcdDCs">
@@ -29004,7 +29004,7 @@
         <note xml:id="i-Jc41MmeuDkRm8VDygh2Z5" xml:lang="sv">
           Kyrkoherden Öller förenade sig likaledes i den nämnda reservationen.
         </note>
-        <note xml:id="i-MhbAa5TgzHAyzkFQe8whzb" type="speaker" xml:lang="sv">
+        <note xml:id="i-MhbAa5TgzHAyzkFQe8whzb" xml:lang="sv" type="speaker">
           Prosten Fredrikson:
         </note>
         <u xml:id="i-4jpzrfp4GzQfkCBQpS8kui" who="i-WZrjaFeP6M4ENU12xLztDg">
@@ -29032,7 +29032,7 @@
           för sina folkskolor, sä att dess tillgängar äro knappa. Jag understöder
           petitionärens Frithiof Neovii anhällan.
         </note>
-        <note xml:id="i-7y3Mpe7C4DUvkZyGiqRk6c" type="speaker" xml:lang="sv">
+        <note xml:id="i-7y3Mpe7C4DUvkZyGiqRk6c" xml:lang="sv" type="speaker">
           Professor Cleve:
         </note>
         <u xml:id="i-Noy8b4FGPqPNrc4aSTsEJf" who="i-HfEbbpVpEUS7EMymsy7tc6">
@@ -29072,7 +29072,7 @@
           koska näytti kummalliselta myöntää valtionapua ruotsalaiselle
           koululle, joka on keskellä suomalaista paikkakuntaa.
         </note>
-        <note xml:id="i-51dCCAmhfPfJHHHa3tR17K" type="speaker" xml:lang="unknown">
+        <note xml:id="i-51dCCAmhfPfJHHHa3tR17K" xml:lang="unknown" type="speaker">
           Doktor Geitlin:
         </note>
         <u xml:id="i-FhKBL8Nc6yprs6L13JtjTF" who="i-WVXdqsXffbuVYsgyHLau3U">
@@ -29114,7 +29114,7 @@
         <note xml:id="i-9an7JY879bKkxXTSpAoJcW" xml:lang="sv">
           1762 Presteståndet 1882. 2 juni.
         </note>
-        <note xml:id="i-DNSAGJMJHMg4TWuQNhm47h" type="speaker" xml:lang="sv">
+        <note xml:id="i-DNSAGJMJHMg4TWuQNhm47h" xml:lang="sv" type="speaker">
           Professor Runeberg:
         </note>
         <u xml:id="i-3UykBRxXvxediK75jmKUGR" who="i-QQ7rzMcvpGv1RunkkD3Hgv">
@@ -29154,7 +29154,7 @@
         <note xml:id="i-9TApy2S99cUwWPa1LuazRd" xml:lang="sv">
           Beträffande mom. k) yttrade sig följande talare:
         </note>
-        <note xml:id="i-DP1FVWRrNakcC3tmjtfTns" type="speaker" xml:lang="sv">
+        <note xml:id="i-DP1FVWRrNakcC3tmjtfTns" xml:lang="sv" type="speaker">
           Fältprosten Petterson:
         </note>
         <u xml:id="i-BKvPTr1mY6YqnemZgekMqQ" who="i-NpQ4pik31NjbjFQK1eTY2D">
@@ -29263,7 +29263,7 @@
           ettei se niin välttämättömän tarpeellista ole, sitte kun Sääty
           on hyväksynyt valiokunnan ehdottamat koulut.
         </note>
-        <note xml:id="i-6Sj8PSurfd9J1my2JpTz6H" type="speaker" xml:lang="sv">
+        <note xml:id="i-6Sj8PSurfd9J1my2JpTz6H" xml:lang="sv" type="speaker">
           Prosten Fredrikson:
         </note>
         <u xml:id="i-6zNW7w9xCM6ZVjVAWpTdQM" who="i-WZrjaFeP6M4ENU12xLztDg">
@@ -29301,7 +29301,7 @@
         <note xml:id="i-WMaHKaow2wDwaDrpECd6iw" xml:lang="sv">
           Presteståndet 1882. 2 juni. 1765
         </note>
-        <note xml:id="i-8TSDGg7E6vbfVQEwiBCNVW" type="speaker" xml:lang="sv">
+        <note xml:id="i-8TSDGg7E6vbfVQEwiBCNVW" xml:lang="sv" type="speaker">
           Professor Cleve:
         </note>
         <u xml:id="i-RifVcdmFVLqfgZeiUMQUFk" who="i-HfEbbpVpEUS7EMymsy7tc6">
@@ -29366,7 +29366,7 @@
           koulusta olen jo lausunut mielipiteeni, ja tahdon sitä yhä hartaasti
           kannattaa.
         </note>
-        <note xml:id="i-QU2nY53xBSjTAeHqcSavvU" type="speaker" xml:lang="sv">
+        <note xml:id="i-QU2nY53xBSjTAeHqcSavvU" xml:lang="sv" type="speaker">
           Kontraktsprosten Stenbäck:
         </note>
         <u xml:id="i-9FeR9kRMpVJYKw4QU2wim4" who="i-2pD791VLsqhv5WJ2JcdDCs">
@@ -30085,7 +30085,7 @@
           betänkandet upptagna kläm angående S8 65 och 79 yttrade sig följande
           talare:
         </note>
-        <note xml:id="i-6Z4aJuXz4dHC1qwEDwad7o" type="speaker" xml:lang="sv">
+        <note xml:id="i-6Z4aJuXz4dHC1qwEDwad7o" xml:lang="sv" type="speaker">
           Öfverläraren Kihlman:
         </note>
         <u xml:id="i-dES9n4HCJoY5SaStXTx29" who="i-34gigkRr2uXshwGmQ4qktb">
@@ -30113,7 +30113,7 @@
           Kyrkoherden Hirvinen förordade sammanjämkningsförslagets antagande
           på de skäl, utskottet angifvit.
         </note>
-        <note xml:id="i-KSgvcDsNi95QugHVL6rcfq" type="speaker" xml:lang="sv">
+        <note xml:id="i-KSgvcDsNi95QugHVL6rcfq" xml:lang="sv" type="speaker">
           Prosten Hjelt:
         </note>
         <u xml:id="i-J7vpBeyZ35jtw9z9z4Tcfd" who="i-FfVRGMNn5KRqwAWb2KstnH">
@@ -30136,7 +30136,7 @@
           nägra förändringar fortfarande kommer att bibehällas, försättas
           i tillfälle att yttra sig i detalj angäende dessa förändringar.
         </note>
-        <note xml:id="i-QdrGKXjAoLD1G4Mzxow6HJ" type="speaker" xml:lang="sv">
+        <note xml:id="i-QdrGKXjAoLD1G4Mzxow6HJ" xml:lang="sv" type="speaker">
           Prosten Hjelt:
         </note>
         <u xml:id="i-Kw846873xV8V4jtPoBc1Qo" who="i-FfVRGMNn5KRqwAWb2KstnH">
@@ -30148,7 +30148,7 @@
             uraktlätit denna sin skyldighet.
           </seg>
         </u>
-        <note xml:id="i-HTVVDoRWQwNjrWqr2SyW8U" type="speaker" xml:lang="sv">
+        <note xml:id="i-HTVVDoRWQwNjrWqr2SyW8U" xml:lang="sv" type="speaker">
           Professor Runeberg:
         </note>
         <u xml:id="i-YUmrYJk5Rje8R1oLQSTe3n" who="i-QQ7rzMcvpGv1RunkkD3Hgv">
@@ -30180,7 +30180,7 @@
           af Ståndets nyss fattade beslut, citatet af $$ 65 och 79 å pag.
           6 i förevarande sammanjämkningsförslag skulle utgå.
         </note>
-        <note xml:id="i-JQmT2qeLxxXaXYrX3m4WwR" type="speaker" xml:lang="sv">
+        <note xml:id="i-JQmT2qeLxxXaXYrX3m4WwR" xml:lang="sv" type="speaker">
           Öfverläraren Kihlman anhöll härå om ordet och yttrade:
         </note>
         <note xml:id="i-TqDc2zEZecj1PNA9vHn5Js" xml:lang="sv">
@@ -30238,7 +30238,7 @@
           beslut rörande platsen för ett ständerhus; och yttrade sig med
           anledning häraf följande talare:
         </note>
-        <note xml:id="i-BaASYKJGBMo3YCJXJPTtfh" type="speaker" xml:lang="sv">
+        <note xml:id="i-BaASYKJGBMo3YCJXJPTtfh" xml:lang="sv" type="speaker">
           Professor Donner:
         </note>
         <u xml:id="i-KAriKKvLH7dALumKMdFR2G" who="i-XbAQtPkdSaTdnLcpdJrmsg">
@@ -30266,7 +30266,7 @@
             mig derför vara bäst att Ståndet vidhåller sitt förra beslut.
           </seg>
         </u>
-        <note xml:id="i-BnEgcVeVVyvPGvQtpkKtxd" type="speaker" xml:lang="sv">
+        <note xml:id="i-BnEgcVeVVyvPGvQtpkKtxd" xml:lang="sv" type="speaker">
           Kyrkoherden Lyra:
         </note>
         <u xml:id="i-PdJrFHGJhZz3586hTWJiXZ" who="i-Qnp6pqgLniPF2sFKE6V5wi">
@@ -30309,7 +30309,7 @@
           det må få sin plats hvar som helst. — Jag förordar för min del
           antagandet af utskottets betänkande.
         </note>
-        <note xml:id="i-GArGvP3UM9DJwE4opQryGy" type="speaker" xml:lang="sv">
+        <note xml:id="i-GArGvP3UM9DJwE4opQryGy" xml:lang="sv" type="speaker">
           Professor Donner:
         </note>
         <u xml:id="i-BSDLrnzJPQSEbkEKio1RGd" who="i-XbAQtPkdSaTdnLcpdJrmsg">
@@ -30339,7 +30339,7 @@
             antingen pä mynthustomten eller Servalen.
           </seg>
         </u>
-        <note xml:id="i-AcBcBeMsLqvtyQNsPzUdyt" type="speaker" xml:lang="sv">
+        <note xml:id="i-AcBcBeMsLqvtyQNsPzUdyt" xml:lang="sv" type="speaker">
           Kyrkoherden Lyra:
         </note>
         <u xml:id="i-6x6FwkEgcKtzUTYqbdyhDU" who="i-Qnp6pqgLniPF2sFKE6V5wi">
@@ -30373,7 +30373,7 @@
           Om delegationen verkligen skall få fria händer, så anser jag att
           detta farliga ord »främst&gt; bör utgå.
         </note>
-        <note xml:id="i-VDYEvJjzDdSxdM6PcymivC" type="speaker" xml:lang="sv">
+        <note xml:id="i-VDYEvJjzDdSxdM6PcymivC" xml:lang="sv" type="speaker">
           Domprosten Renvall:
         </note>
         <u xml:id="i-SkxhNNJVL44Y4ycDKjV4Hu" who="i-81Zkpqx4nbx5hBdZktoW1S">
@@ -30423,7 +30423,7 @@
           en sådan frihet, men måhända vore det bäst att bortlemna ordet
           &gt; främst».
         </note>
-        <note xml:id="i-T8am31wzNzM8oJ6wvyCFwT" type="speaker" xml:lang="sv">
+        <note xml:id="i-T8am31wzNzM8oJ6wvyCFwT" xml:lang="sv" type="speaker">
           Kyrkoherden Lyra:
         </note>
         <u xml:id="i-XMjnjdkoQJhncFwRkfQYgL" who="i-Qnp6pqgLniPF2sFKE6V5wi">
@@ -30476,7 +30476,7 @@
         <note xml:id="i-CHh7aecvhDBwwPB6VTJuWc" xml:lang="sv">
           Presteständet 1882. 3 juni. 1785
         </note>
-        <note xml:id="i-3sXry9tNW3N4t3zX6yacBD" type="speaker" xml:lang="sv">
+        <note xml:id="i-3sXry9tNW3N4t3zX6yacBD" xml:lang="sv" type="speaker">
           Professor Donner:
         </note>
         <u xml:id="i-4pwdYTbefJHQLFrn3Tcsrg" who="i-XbAQtPkdSaTdnLcpdJrmsg">
@@ -30522,7 +30522,7 @@
           blifva klart, i synnerhet som det icke finnes någon utredning
           derom. För öfrigt är jag villig att godkänna utskottets betänkande.
         </note>
-        <note xml:id="i-8qJVc1JVUSoYguiWCpYbDB" type="speaker" xml:lang="sv">
+        <note xml:id="i-8qJVc1JVUSoYguiWCpYbDB" xml:lang="sv" type="speaker">
           Kyrkoherden Lyra:
         </note>
         <u xml:id="i-VNnsZyjMkKHvhZpg4nLHdJ" who="i-Qnp6pqgLniPF2sFKE6V5wi">
@@ -30655,7 +30655,7 @@
         <note xml:id="i-Q61MK8MknX73NyXpeS63yY" xml:lang="sv">
           Rörande detta betänkande yttrade sig följande talare:
         </note>
-        <note xml:id="i-UBKVA9xjjeZtuYqJiioSur" type="speaker" xml:lang="sv">
+        <note xml:id="i-UBKVA9xjjeZtuYqJiioSur" xml:lang="sv" type="speaker">
           Pastor Eklund:
         </note>
         <u xml:id="i-DwktQU3poqieaJA6rPSHRF" who="i-6eNAyWqvwVhwshqVaFpBzh">
@@ -30801,7 +30801,7 @@
           det sä mycket hellre, som under de fyra senaste ären folkskolornas
           antal ökats i medeltal med ungefär 34 per är.
         </note>
-        <note xml:id="i-NoBS4dSSSbTYJhGcTehq1C" type="speaker" xml:lang="sv">
+        <note xml:id="i-NoBS4dSSSbTYJhGcTehq1C" xml:lang="sv" type="speaker">
           Fältprosten Petterson:
         </note>
         <u xml:id="i-STToXvcQ8Cv749DMLwE8WH" who="i-NpQ4pik31NjbjFQK1eTY2D">
@@ -30815,7 +30815,7 @@
         <note xml:id="i-9yiY78p2BDam5MuoUdYfmm" xml:lang="sv">
           Presteståndet 1882. 3 juni. 1791
         </note>
-        <note xml:id="i-NurMNRNsQ3x9FHFZw8XFrz" type="speaker" xml:lang="sv">
+        <note xml:id="i-NurMNRNsQ3x9FHFZw8XFrz" xml:lang="sv" type="speaker">
           Professor Cleve:
         </note>
         <u xml:id="i-4K4w7Qkxv74WARsdB4jDS2" who="i-HfEbbpVpEUS7EMymsy7tc6">
@@ -31364,7 +31364,7 @@
           medel, ansåg Ständet den föreslagna förhöjningen icke vara af
           behofvet påkallad.
         </note>
-        <note xml:id="i-VBQ4Re4rgua1qUfCJDZ8em" type="speaker" xml:lang="sv">
+        <note xml:id="i-VBQ4Re4rgua1qUfCJDZ8em" xml:lang="sv" type="speaker">
           Prosten Johnsson anhöll härå om ordet och yttrade:
         </note>
         <note xml:id="i-NotEfPMh7GoYZd46vjXTrc" xml:lang="sv">
@@ -31416,7 +31416,7 @@
           om återförläggande af det finska normallyceet till Helsingfors
           och yttrade sig med anledning af detta betänkande följande talare:
         </note>
-        <note xml:id="i-PaXK2c776jVqS7us1DjG1L" type="speaker" xml:lang="sv">
+        <note xml:id="i-PaXK2c776jVqS7us1DjG1L" xml:lang="sv" type="speaker">
           Domprosten Renvall:
         </note>
         <u xml:id="i-U5RE6SgyD1AzQigtob52Rx" who="i-81Zkpqx4nbx5hBdZktoW1S">
@@ -31498,7 +31498,7 @@
           flyttning, om den också skulle ske med administrationens tillhjelp,
           kommer att ske på det lämpligaste sätt.
         </note>
-        <note xml:id="i-PJ5toAZsmZx8do6s8J7Qoz" type="speaker" xml:lang="sv">
+        <note xml:id="i-PJ5toAZsmZx8do6s8J7Qoz" xml:lang="sv" type="speaker">
           Vicepastor Böök:
         </note>
         <u xml:id="i-RDtg7ScQPTevKQMx5L5S2P" who="i-KxTPNsdvaDSQXea4wDGU8f">
@@ -31521,7 +31521,7 @@
             åtminstone icke på alla håll motses med samma odelade bifall.
           </seg>
         </u>
-        <note xml:id="i-WcRYex2GPn9kGncmPRoYpd" type="speaker" xml:lang="sv">
+        <note xml:id="i-WcRYex2GPn9kGncmPRoYpd" xml:lang="sv" type="speaker">
           Professor Runeberg:
         </note>
         <u xml:id="i-TKVfwBdmXnbSrPjMnCmF6L" who="i-QQ7rzMcvpGv1RunkkD3Hgv">
@@ -31542,7 +31542,7 @@
             att hafva yttrat någonting sådant.
           </seg>
         </u>
-        <note xml:id="i-P3ggHYm4ggM7c5jpSpUi4N" type="speaker" xml:lang="sv">
+        <note xml:id="i-P3ggHYm4ggM7c5jpSpUi4N" xml:lang="sv" type="speaker">
           Öfverläraren Kihlman:
         </note>
         <u xml:id="i-3TCsteEi4bKiLkRaZEx4Gw" who="i-34gigkRr2uXshwGmQ4qktb">
@@ -31702,7 +31702,7 @@
           tai kuulemaan vanhaa Zilleriä Leipzigiin; Kielissäkin ehkä siinä
           saisi etevää opetusta.
         </note>
-        <note xml:id="i-2UZ1LNWLjMBe3mEU2bxd25" type="speaker" xml:lang="sv">
+        <note xml:id="i-2UZ1LNWLjMBe3mEU2bxd25" xml:lang="sv" type="speaker">
           Doktor Lindelöf:
         </note>
         <u xml:id="i-BFot3V5Y85rnG9UhfxmdX3" who="i-8f5tRtT5D15j7HTFKPzTBC">
@@ -31747,7 +31747,7 @@
           framhållna skälen, motsätter jag mig normallyceets i Tavastehus
           flyttning till Helsingfors.
         </note>
-        <note xml:id="i-TnGnpP5ecmxy5p6brdNvGW" type="speaker" xml:lang="sv">
+        <note xml:id="i-TnGnpP5ecmxy5p6brdNvGW" xml:lang="sv" type="speaker">
           Domprosten Renvall:
         </note>
         <u xml:id="i-C7SrmPTGE96mu5TcUYbacN" who="i-81Zkpqx4nbx5hBdZktoW1S">
@@ -31807,7 +31807,7 @@
           i vårt Jand, så måste ifrågavarande lyceum flyttas till Helsingfors;
           frågan är endast en tidsfråga.
         </note>
-        <note xml:id="i-HNq2gfBeJuVRtLMWChQrSQ" type="speaker" xml:lang="sv">
+        <note xml:id="i-HNq2gfBeJuVRtLMWChQrSQ" xml:lang="sv" type="speaker">
           Öfverläraren Kihlman:
         </note>
         <u xml:id="i-EgvCzuk6Pxogpc1x5EbR7X" who="i-34gigkRr2uXshwGmQ4qktb">
@@ -32126,7 +32126,7 @@
           mig till att godkänna de första raderna af klämmen och sålunda
           lemna området obegränsadt.
         </note>
-        <note xml:id="i-ErPX8kj8c1Tac9wFWiJfVJ" type="speaker" xml:lang="unknown">
+        <note xml:id="i-ErPX8kj8c1Tac9wFWiJfVJ" xml:lang="unknown" type="speaker">
           Doktor Nordström:
         </note>
         <u xml:id="i-K8AGj6R8WRVemGVGTSRhyy" who="i-QwcTLbpo4YVwryjr1GArpy">
@@ -32144,7 +32144,7 @@
             dokumenter, som finnas tillgängliga i detta ärende.
           </seg>
         </u>
-        <note xml:id="i-GtB8GJ2QVKd7DjBkkcjGhz" type="speaker" xml:lang="fi">
+        <note xml:id="i-GtB8GJ2QVKd7DjBkkcjGhz" xml:lang="fi" type="speaker">
           Prosten Johnsson:
         </note>
         <u xml:id="i-PP7FH7AMbU3BRrMSCuQXQN" who="i-QVrcwFYjcxwn93KdWmPBk3">
@@ -32199,7 +32199,7 @@
           muodostaa pyyntöesityksen siihen suuntaan, kuin anomusehdotuksen
           tekijä sen itse on muodostanut.
         </note>
-        <note xml:id="i-8sqCYZvqyGKA2CNnamLohJ" type="speaker" xml:lang="unknown">
+        <note xml:id="i-8sqCYZvqyGKA2CNnamLohJ" xml:lang="unknown" type="speaker">
           Doktor Nordström:
         </note>
         <u xml:id="i-Pcn9k1pWgCT2TvTZoG93Ti" who="i-QwcTLbpo4YVwryjr1GArpy">
@@ -32287,7 +32287,7 @@
         <note xml:id="i-Tnq9iccS1NmNqxCHf6iFnW" xml:lang="sv">
           Rörande detta betänkande yttrade sig följande talare:
         </note>
-        <note xml:id="i-UaT2cPqLNAUDzYvPTKfbFr" type="speaker" xml:lang="sv">
+        <note xml:id="i-UaT2cPqLNAUDzYvPTKfbFr" xml:lang="sv" type="speaker">
           Kontraktsprosten Grönberg:
         </note>
         <u xml:id="i-XTHUDQXmX1jdxs3SbARSLa" who="i-MejDXzf7f7w3bWanLQKrgB">
@@ -32318,7 +32318,7 @@
         <note xml:id="i-R5YJT9Wu8w89cdjru5SZiJ" xml:lang="sv">
           Professor Runeberg förenade sig med de föregående talarene.
         </note>
-        <note xml:id="i-Qd43HzfTTT2u61MGNy8VmW" type="speaker" xml:lang="sv">
+        <note xml:id="i-Qd43HzfTTT2u61MGNy8VmW" xml:lang="sv" type="speaker">
           Professor Cleve:
         </note>
         <u xml:id="i-UwuEqkvBhtrFyLLKFC3PRk" who="i-HfEbbpVpEUS7EMymsy7tc6">
@@ -32453,7 +32453,7 @@
         <note xml:id="i-BYdpjnGSRDEpr1Eg2V3ucM" xml:lang="sv">
           Professor Runeberg förenade sig med den senaste talaren.
         </note>
-        <note xml:id="i-FVjziJd17SEGwRDRuvtpnh" type="speaker" xml:lang="unknown">
+        <note xml:id="i-FVjziJd17SEGwRDRuvtpnh" xml:lang="unknown" type="speaker">
           Vicepastor Lilius:
         </note>
         <u xml:id="i-SMy2mcY5dH6pxxUKPv3d4W" who="i-CM2N1ripkWqmSaCMrmMPMn">
@@ -33309,7 +33309,7 @@
           moment, med förbehäll att dervid fästes det vilkor, som professor
           Forsman föreslagit.
         </note>
-        <note xml:id="i-DXjiZ7yzXQhx5usSu7MFQA" type="speaker" xml:lang="sv">
+        <note xml:id="i-DXjiZ7yzXQhx5usSu7MFQA" xml:lang="sv" type="speaker">
           Professor Runeberg:
         </note>
         <u xml:id="i-Y4xZicKyEDDYWsvwEdNDmt" who="i-QQ7rzMcvpGv1RunkkD3Hgv">
@@ -33384,7 +33384,7 @@
           sitä voisi hyväksyä. Minä ehdottomasti tahtoisin, että pysyttäisiin
           entisessä päätöksessä.
         </note>
-        <note xml:id="i-8C66gvoyW6TzxVFxb2zkF9" type="speaker" xml:lang="sv">
+        <note xml:id="i-8C66gvoyW6TzxVFxb2zkF9" xml:lang="sv" type="speaker">
           Professor Cleve:
         </note>
         <u xml:id="i-QK9W9PjqczqR91C8pAaWvG" who="i-HfEbbpVpEUS7EMymsy7tc6">
@@ -33404,7 +33404,7 @@
             hemvist.
           </seg>
         </u>
-        <note xml:id="i-8YbyzDWMekndTsn5Tb4Vtz" type="speaker" xml:lang="fi">
+        <note xml:id="i-8YbyzDWMekndTsn5Tb4Vtz" xml:lang="fi" type="speaker">
           Prosten Johnsson:
         </note>
         <u xml:id="i-GJgKN5SuxEYCeZ6WLeoeFn" who="i-QVrcwFYjcxwn93KdWmPBk3">
@@ -33438,7 +33438,7 @@
           koulupojatkin tulisivat valiokunnan chdotuksen mukaan verotettaviksi,
           puhumattakaan ylioppilaista.
         </note>
-        <note xml:id="i-LQdhnE4gi7AcpRbsZsedub" type="speaker" xml:lang="sv">
+        <note xml:id="i-LQdhnE4gi7AcpRbsZsedub" xml:lang="sv" type="speaker">
           Öfverläraren Kihlman:
         </note>
         <u xml:id="i-W2VUQ9SnKuDkYexSkip12v" who="i-34gigkRr2uXshwGmQ4qktb">
@@ -33473,7 +33473,7 @@
             mig att detta förslag är sä väl afkattadt som man gerna kan önska.
           </seg>
         </u>
-        <note xml:id="i-MRE2Wd9Wi4uz9TVwbqqVKA" type="speaker" xml:lang="sv">
+        <note xml:id="i-MRE2Wd9Wi4uz9TVwbqqVKA" xml:lang="sv" type="speaker">
           Kyrkoherden Lyra:
         </note>
         <u xml:id="i-T5JThSj7xep818cW7bFe6e" who="i-Qnp6pqgLniPF2sFKE6V5wi">
@@ -33495,7 +33495,7 @@
         <note xml:id="i-s2fh8Nsrr9HAHriCLFgiN" xml:lang="sv">
           1838 Presteståndet 1882. 5 juni.
         </note>
-        <note xml:id="i-ExHLhSN1C93UB8mkBaHTSt" type="speaker" xml:lang="sv">
+        <note xml:id="i-ExHLhSN1C93UB8mkBaHTSt" xml:lang="sv" type="speaker">
           Kontraktsprosten Grönberg:
         </note>
         <u xml:id="i-XoLtHBADYjkKejZHY1Z5ts" who="i-MejDXzf7f7w3bWanLQKrgB">
@@ -33522,7 +33522,7 @@
           af taxeringsnämnden hafva nägot slags förnuft, sä att de icke
           skulle taxera hvem som helst.
         </note>
-        <note xml:id="i-SkV1kXJBhR241cQ36yYNWy" type="speaker" xml:lang="sv">
+        <note xml:id="i-SkV1kXJBhR241cQ36yYNWy" xml:lang="sv" type="speaker">
           Prosten Rosengren:
         </note>
         <u xml:id="i-6PdEaDYCwRbojGKb9s7jf4" who="i-UUFQ5w6CUWXPKeDW8gRVf7">
@@ -33838,7 +33838,7 @@
           tuon yhden ainoan sopimattoman paikan, niin minäkin pyytäisin,
           että Sääty pysyisi ennen tekemässään päätöksessä.
         </note>
-        <note xml:id="i-KMap3gUKR5wK8g9AvzxpWs" type="speaker" xml:lang="sv">
+        <note xml:id="i-KMap3gUKR5wK8g9AvzxpWs" xml:lang="sv" type="speaker">
           Prosten Hjelt:
         </note>
         <u xml:id="i-HmZM9vXH6qa8A9qgvowpEz" who="i-FfVRGMNn5KRqwAWb2KstnH">
@@ -33852,7 +33852,7 @@
             kunna finnas, som äro passligare för ständerhus än Servalen.
           </seg>
         </u>
-        <note xml:id="i-akWQzs8NErnkbX6eNwFgw" type="speaker" xml:lang="sv">
+        <note xml:id="i-akWQzs8NErnkbX6eNwFgw" xml:lang="sv" type="speaker">
           Kyrkoherden Lyra:
         </note>
         <u xml:id="i-3vzJ1foWEkFHRaMfAVPERY" who="i-Qnp6pqgLniPF2sFKE6V5wi">
@@ -33877,7 +33877,7 @@
           Presteständet frängär sitt beslut, är det min fulla öfvertygelse
           att ständerhuset kommer att blifva uppfört pä Servalen.
         </note>
-        <note xml:id="i-RfVbjYEV7quX2xU1zPta9d" type="speaker" xml:lang="sv">
+        <note xml:id="i-RfVbjYEV7quX2xU1zPta9d" xml:lang="sv" type="speaker">
           Kyrkoherden Lyra:
         </note>
         <u xml:id="i-YN6yhq2QwQ8xYNjpPwhkRz" who="i-Qnp6pqgLniPF2sFKE6V5wi">
@@ -33983,7 +33983,7 @@
           sen Pappissäädyn entisestä päätöksestä eriävän ainoastaan muodollisesti,
           se kun lausuu lähempiä toivomuksia tuon kansalliskirjaston hoitamisesta.
         </note>
-        <note xml:id="i-R1jm7tZ94YNchH8Hx9ANso" type="speaker" xml:lang="sv">
+        <note xml:id="i-R1jm7tZ94YNchH8Hx9ANso" xml:lang="sv" type="speaker">
           Öfverläraren Kihlman:
         </note>
         <u xml:id="i-9WPZqnsmTvrWehMJ9Fng15" who="i-34gigkRr2uXshwGmQ4qktb">
@@ -34032,7 +34032,7 @@
           raukeisi, vaikk'ei yksimielisyyttä puheina olevan kohdan suhteen
           saavutettaisikaan.
         </note>
-        <note xml:id="i-RVh2QM8ZcNeS4SZq3ScPnp" type="speaker" xml:lang="sv">
+        <note xml:id="i-RVh2QM8ZcNeS4SZq3ScPnp" xml:lang="sv" type="speaker">
           Öfverläraren Kihlman:
         </note>
         <u xml:id="i-PohHCcxPQ82rB3EQt13V6T" who="i-34gigkRr2uXshwGmQ4qktb">
@@ -34114,7 +34114,7 @@
         <note xml:id="i-32G8hvgKoExx5gHuBdtK8r" xml:lang="sv">
           Beträffande afdelningen 5 yttrade sig
         </note>
-        <note xml:id="i-1635BLKNrX8zdkx1apTby6" type="speaker" xml:lang="sv">
+        <note xml:id="i-1635BLKNrX8zdkx1apTby6" xml:lang="sv" type="speaker">
           Professor Donner:
         </note>
         <u xml:id="i-EBg3KW8ndXWV9jjW3xM988" who="i-XbAQtPkdSaTdnLcpdJrmsg">
@@ -34505,7 +34505,7 @@
           toivottaen Jumalalta siunausta toimillemme, ja pyydämme Teitä
           lausumaan arvoisalle Talonpoikaissäädylle nämä meidän kiitoksemme.
         </note>
-        <note xml:id="i-Dx7vDqTToB8iFt8f2znWfa" type="speaker" xml:lang="sv">
+        <note xml:id="i-Dx7vDqTToB8iFt8f2znWfa" xml:lang="sv" type="speaker">
           Härefter anlände deputation från Borgareständet under anförande
           af Herr Ignatius, som yttrade:
         </note>
@@ -34554,7 +34554,7 @@
         <note xml:id="i-Q9WwfnvSWLpjwecm4WtcC4" xml:lang="sv">
           Talmannens och i det Högvördiga Presteståndets hågkomst och ynnest.
         </note>
-        <note xml:id="i-QbkJ3xWyLUXmHyyxPQeMJW" type="speaker" xml:lang="sv">
+        <note xml:id="i-QbkJ3xWyLUXmHyyxPQeMJW" xml:lang="sv" type="speaker">
           Herr Talmannen svarade härå i följande ordalag:
         </note>
         <u xml:id="i-CDouXJnzHTnThhP4yY6kiP" who="unknown">
@@ -34590,7 +34590,7 @@
           för de vänliga ord, densamma meddelat oss från det vällofiiga
           Borgareständet.
         </note>
-        <note xml:id="i-KcffzFrs4MsVuQCLmcCswL" type="speaker" xml:lang="sv">
+        <note xml:id="i-KcffzFrs4MsVuQCLmcCswL" xml:lang="sv" type="speaker">
           Härefter anlände deputationen frän Ridderskapet och Adeln under
           anförande af Grefve Gustaf Armfelt, som yttrade:
         </note>
@@ -34785,7 +34785,7 @@
           I 22—23, 29—30, 45—51. R. I. 50,82—83, 91—92. R. I 92, 178—179.
           A. I 274—276.
         </note>
-        <note xml:id="i-8twMifiJ9wnp4YZNjWQ5Mp" type="speaker" xml:lang="sv">
+        <note xml:id="i-8twMifiJ9wnp4YZNjWQ5Mp" xml:lang="sv" type="speaker">
           Allmänna besvärsutskottet:
         </note>
         <note xml:id="i-4JwKT4TPu6TCg7vcqHspUj" xml:lang="sv">

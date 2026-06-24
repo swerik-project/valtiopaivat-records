@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="prot_1867_borgare_II">
   <teiHeader>
     <fileDesc>
@@ -164,7 +164,7 @@
         <note xml:id="i-L7Fd6uhToGUQ9SXvH2XWQ6" xml:lang="sv">
           Borgareståndet. 1867. 1 Maj. 653
         </note>
-        <note xml:id="i-EcEB8mGEDWqZUTCUfCfSYx" type="speaker" xml:lang="sv">
+        <note xml:id="i-EcEB8mGEDWqZUTCUfCfSYx" xml:lang="sv" type="speaker">
           Herr Östring:
         </note>
         <u xml:id="i-9Tbh4u8c2coeExdNCyxBH" who="i-5r31KKuptPPS63eWzMAseL">
@@ -194,7 +194,7 @@
             derföre antagandet af utskottets betänkande.
           </seg>
         </u>
-        <note xml:id="i-WdVEZ2W2Ha4YEbzA8fNzLZ" type="speaker" xml:lang="sv">
+        <note xml:id="i-WdVEZ2W2Ha4YEbzA8fNzLZ" xml:lang="sv" type="speaker">
           Herr Cederman:
         </note>
         <u xml:id="i-8szniS1fiuiUy3fzxndVML" who="i-UeTxv9rgAELGir3fWfG4jh">
@@ -210,7 +210,7 @@
             ett visst bryderi.
           </seg>
         </u>
-        <note xml:id="i-LhWVSMbrcaPYcvQAkKCcZ4" type="speaker" xml:lang="sv">
+        <note xml:id="i-LhWVSMbrcaPYcvQAkKCcZ4" xml:lang="sv" type="speaker">
           Herr Öhrnberg:
         </note>
         <u xml:id="i-A7WAFwHKqmvkqXaXM5TPLL" who="i-QE8zNVMp9Xs7sAfD5qKxFo">
@@ -263,7 +263,7 @@
           det nödvändigt att framdeles förklara huru dessa åtta dagar skola
           beräknas.
         </note>
-        <note xml:id="i-HyPTWeYhYQtUGTFQti1pJy" type="speaker" xml:lang="sv">
+        <note xml:id="i-HyPTWeYhYQtUGTFQti1pJy" xml:lang="sv" type="speaker">
           Herr Öhrnberg:
         </note>
         <u xml:id="i-NYcaqGZjorNGPrHettLx7i" who="i-QE8zNVMp9Xs7sAfD5qKxFo">
@@ -291,7 +291,7 @@
         <note xml:id="i-U7VBmpsmuuNX1cswB7K46u" xml:lang="sv">
           Borgareståndet. 1867. 1 Maj. 655
         </note>
-        <note xml:id="i-MPFi5bFVxWzcegBjYXzb8C" type="speaker" xml:lang="sv">
+        <note xml:id="i-MPFi5bFVxWzcegBjYXzb8C" xml:lang="sv" type="speaker">
           Herr Cederman:
         </note>
         <u xml:id="i-7wQwkED588DkdNquMMbLRx" who="i-UeTxv9rgAELGir3fWfG4jh">
@@ -336,7 +336,7 @@
           att målet ej täl uppskof och derä förr svaras kan*, hvilket tillägg
           dä skulle hänföra sig till sjörättssaker och andra dylika mäl.
         </note>
-        <note xml:id="i-4jj5WPtA1U9XBg5KxsjWEV" type="speaker" xml:lang="sv">
+        <note xml:id="i-4jj5WPtA1U9XBg5KxsjWEV" xml:lang="sv" type="speaker">
           Herr Öhrnberg:
         </note>
         <u xml:id="i-3x5bJAtNtBuxmDH5V7cPSw" who="i-QE8zNVMp9Xs7sAfD5qKxFo">
@@ -452,7 +452,7 @@
           innan häradstingets slut eller i stad innan rättegängstimman ute
           är'.
         </note>
-        <note xml:id="i-AvQ4pQyXioGixEax3vKvow" type="speaker" xml:lang="sv">
+        <note xml:id="i-AvQ4pQyXioGixEax3vKvow" xml:lang="sv" type="speaker">
           Herr Öhrnberg:
         </note>
         <u xml:id="i-A1PDsQsnnjQWwkaHsV5mX7" who="i-QE8zNVMp9Xs7sAfD5qKxFo">
@@ -495,7 +495,7 @@
           upphäfvas. Jag tillstyrker säledes att propositionens omförmälde
           bestämningar mätte af ständet antagas.
         </note>
-        <note xml:id="i-LWU3mdfWdSAuombLqfbFtX" type="speaker" xml:lang="sv">
+        <note xml:id="i-LWU3mdfWdSAuombLqfbFtX" xml:lang="sv" type="speaker">
           Herr Ohrnberg:
         </note>
         <u xml:id="i-WqaevPfpy1SVqph2ZDg4o8" who="unknown">
@@ -527,7 +527,7 @@
           värjemålsed, som kan påläggas hvilkendera parten som helst. Det
           är sålunda jag anser vrångseden böra ur lagstiftningen försvinna.
         </note>
-        <note xml:id="i-Ed9LD5wXTCag4p7ddybYfa" type="speaker" xml:lang="sv">
+        <note xml:id="i-Ed9LD5wXTCag4p7ddybYfa" xml:lang="sv" type="speaker">
           Herr Öhrnberg:
         </note>
         <u xml:id="i-DuYRU2A4Q5XMbfXfMYw4QY" who="i-QE8zNVMp9Xs7sAfD5qKxFo">
@@ -587,7 +587,7 @@
           der lagens stadgande kunde tydas derhän, att ändringsansökningen
           borde &amp; viss dag fullföljas.
         </note>
-        <note xml:id="i-U66P8CfdJd9QTwcBR77yjd" type="speaker" xml:lang="sv">
+        <note xml:id="i-U66P8CfdJd9QTwcBR77yjd" xml:lang="sv" type="speaker">
           Herr Ohrnberg:
         </note>
         <u xml:id="i-2oynh2BVDzEabjPK6tRLhu" who="unknown">
@@ -612,7 +612,7 @@
           framdeles som hittills föranleda till missförstånd. Jag håller
           således före, att $ kan utan ändring af ståndet godkännas.
         </note>
-        <note xml:id="i-GoeikY2BYvNWGV3Zo9SnNv" type="speaker" xml:lang="sv">
+        <note xml:id="i-GoeikY2BYvNWGV3Zo9SnNv" xml:lang="sv" type="speaker">
           Herr Snellman:
         </note>
         <u xml:id="i-4wZcXXtPWWG6c8WPpEvArs" who="i-Hc9XMkGEjEESuFdWzXy4JT">
@@ -644,7 +644,7 @@
         <note xml:id="i-4apVR7FUGWgLjyasHRSZXW" xml:lang="sv">
           21 kap. $ 4.
         </note>
-        <note xml:id="i-6dxUPrxd5unpMehgbuZKyq" type="speaker" xml:lang="sv">
+        <note xml:id="i-6dxUPrxd5unpMehgbuZKyq" xml:lang="sv" type="speaker">
           Herr Cederman:
         </note>
         <u xml:id="i-QxdsS8GXYqUkN7B2mQMoYa" who="i-UeTxv9rgAELGir3fWfG4jh">
@@ -658,7 +658,7 @@
             qvittas.
           </seg>
         </u>
-        <note xml:id="i-TRF4DtfT77bRD7VuGzHYFD" type="speaker" xml:lang="sv">
+        <note xml:id="i-TRF4DtfT77bRD7VuGzHYFD" xml:lang="sv" type="speaker">
           Herr Öhrnberg:
         </note>
         <u xml:id="i-E9x3Gm2FpEdHaFuFiCVnba" who="i-QE8zNVMp9Xs7sAfD5qKxFo">
@@ -692,7 +692,7 @@
           vore ganska besynnerligt att i ena fallet tillerkänna domaren
           ifrågavarande rätt, men ej i det andra.
         </note>
-        <note xml:id="i-LehrHaH9RjRArY7yTp4U3J" type="speaker" xml:lang="sv">
+        <note xml:id="i-LehrHaH9RjRArY7yTp4U3J" xml:lang="sv" type="speaker">
           Herr Öhrnberg:
         </note>
         <u xml:id="i-HnYTJZQq4sJc81qJfYDfii" who="i-QE8zNVMp9Xs7sAfD5qKxFo">
@@ -961,7 +961,7 @@
           eller ock, i händelse det ansåges lämpligare, öfverlemna densamma
           till de fattige.
         </note>
-        <note xml:id="i-4hYVBTruvsbK7xWUiWRqqV" type="speaker" xml:lang="sv">
+        <note xml:id="i-4hYVBTruvsbK7xWUiWRqqV" xml:lang="sv" type="speaker">
           Herr Öhrnberg:
         </note>
         <u xml:id="i-LRL7nk4G67G4KLofT2VGmp" who="i-QE8zNVMp9Xs7sAfD5qKxFo">
@@ -1216,7 +1216,7 @@
           tingsgästningen. Såsom stridande häremot anser jag det af utskottet
           föreslagna 7 momentet böra helt och hållet utgå.
         </note>
-        <note xml:id="i-TayiUbPgPkA7YjoYuD9Fo2" type="speaker" xml:lang="sv">
+        <note xml:id="i-TayiUbPgPkA7YjoYuD9Fo2" xml:lang="sv" type="speaker">
           Herr Öhrnberg:
         </note>
         <u xml:id="i-HUEsCxCpFnvLju9p8TVpkz" who="i-QE8zNVMp9Xs7sAfD5qKxFo">
@@ -1289,7 +1289,7 @@
           öfverlemnas till handläggning af de allmänna domstolarne, i der
           ordning, som för civila tvistemäl i allmänhet är gällande.
         </note>
-        <note xml:id="i-W5W8nrTBHxTrQAzKBZUH9y" type="speaker" xml:lang="sv">
+        <note xml:id="i-W5W8nrTBHxTrQAzKBZUH9y" xml:lang="sv" type="speaker">
           Näst antecknandet häraf anhöll Herr Ohrnberg om ordet och yttrade:
         </note>
         <u xml:id="i-RzNYMYM4VrJJj1JYqp6sxk" who="unknown">
@@ -1454,7 +1454,7 @@
           upplag och forsling af bränvin i Finland, blifvit uppläste, anmälte
           sig följande talarena.
         </note>
-        <note xml:id="i-QvtssWqwgp65yCSpgYdQPy" type="speaker" xml:lang="sv">
+        <note xml:id="i-QvtssWqwgp65yCSpgYdQPy" xml:lang="sv" type="speaker">
           Herr Öhrnberg:
         </note>
         <u xml:id="i-EmwpgckXj9kGvkgYoU1m39" who="i-QE8zNVMp9Xs7sAfD5qKxFo">
@@ -1560,7 +1560,7 @@
           komme att aflöpa utan att något till verkligt gagn i ämnet blifvit
           tillgjordt.
         </note>
-        <note xml:id="i-8AX5kzEpmAnkEQh8RvgJCU" type="speaker" xml:lang="sv">
+        <note xml:id="i-8AX5kzEpmAnkEQh8RvgJCU" xml:lang="sv" type="speaker">
           Herr Bergh:
         </note>
         <u xml:id="i-ENqD7n2ceSsi3QSkmFifEZ" who="i-N2PwTvXjXUdT9dRHeMawYq">
@@ -1596,7 +1596,7 @@
           lönnbränningen för närvarande är i fullt flor, högst oklokt att
           bibehålla en högre skatt än i det sednare alternativet föreslås.
         </note>
-        <note xml:id="i-BD1Tduo98XQvGejjgy6aXE" type="speaker" xml:lang="sv">
+        <note xml:id="i-BD1Tduo98XQvGejjgy6aXE" xml:lang="sv" type="speaker">
           Herr Linde qvist:
         </note>
         <u xml:id="i-DZfkTd1MJrxhDBBmeRVXg7" who="i-GGBAD7iX8fRMidLfwkuf4H">
@@ -1716,7 +1716,7 @@
         <note xml:id="i-FX7dUp6jJ4jRtqTojSa8HY" xml:lang="sv">
           Borgareståndet. 1867. 2 Maj. 679
         </note>
-        <note xml:id="i-Jv7KZctyXG2kxS4XUqY56W" type="speaker" xml:lang="sv">
+        <note xml:id="i-Jv7KZctyXG2kxS4XUqY56W" xml:lang="sv" type="speaker">
           Herr Öhrnberg:
         </note>
         <u xml:id="i-8p6TNWRZJWeJ4SFC8zZgja" who="i-QE8zNVMp9Xs7sAfD5qKxFo">
@@ -1789,7 +1789,7 @@
           utan äro vi fullkomligt oförhindrade att nu förändra lagstiftningen
           i ämnet, såsom vi finna mest praktiskt.
         </note>
-        <note xml:id="i-PgEhGcjAsGxKhMsdoqdPhU" type="speaker" xml:lang="sv">
+        <note xml:id="i-PgEhGcjAsGxKhMsdoqdPhU" xml:lang="sv" type="speaker">
           Herr Lindblom:
         </note>
         <u xml:id="i-4ASFrt5WKWApZycRcycSok" who="i-XW5vSkDhiDBuTQzpqfPxmM">
@@ -1800,7 +1800,7 @@
             betänkande måtte läggas till grund för diskussionen.
           </seg>
         </u>
-        <note xml:id="i-BWJMvbBKwMvRcrRzFB5LLM" type="speaker" xml:lang="sv">
+        <note xml:id="i-BWJMvbBKwMvRcrRzFB5LLM" xml:lang="sv" type="speaker">
           Herr Snellman:
         </note>
         <u xml:id="i-Pe1Q7qNoSfBmYRz3DYqbDQ" who="i-Hc9XMkGEjEESuFdWzXy4JT">
@@ -1896,7 +1896,7 @@
           skall gå öfver. Att deremot förmå Ridderskapet och Adeln att
           frångå det sednare alternativet, torde vara vida svårare.
         </note>
-        <note xml:id="i-5eaFgFzsTDBHGYchb7tTqU" type="speaker" xml:lang="sv">
+        <note xml:id="i-5eaFgFzsTDBHGYchb7tTqU" xml:lang="sv" type="speaker">
           Herr Öhrnberg:
         </note>
         <u xml:id="i-K4JotuCNv5CGunsGoN6h7y" who="i-QE8zNVMp9Xs7sAfD5qKxFo">
@@ -2006,7 +2006,7 @@
           ett ganska lämpligt föremål för beskattning, bör man söka att
           om möjligt förhöja skatten och sålunda bereda staten en ökad inkomst.
         </note>
-        <note xml:id="i-XBUPgJq628aBfbcQ4ioYCS" type="speaker" xml:lang="sv">
+        <note xml:id="i-XBUPgJq628aBfbcQ4ioYCS" xml:lang="sv" type="speaker">
           Herr Öhrnberg:
         </note>
         <u xml:id="i-QNNtxMjhmEivECxNanSmUQ" who="i-QE8zNVMp9Xs7sAfD5qKxFo">
@@ -2032,7 +2032,7 @@
           komma ifråga. Beträffande deremot det af utskottet föreslagna
           tillägg delar jag Herr Östrings betänkligheter.
         </note>
-        <note xml:id="i-pKRSmf2tYw5J9vrxrjtEg" type="speaker" xml:lang="sv">
+        <note xml:id="i-pKRSmf2tYw5J9vrxrjtEg" xml:lang="sv" type="speaker">
           Herr Östring:
         </note>
         <u xml:id="i-CMgKU6zosUfmPbMHnDf8Fj" who="i-5r31KKuptPPS63eWzMAseL">
@@ -2073,7 +2073,7 @@
           om dessa bestämningar bibehällas, hvarföre jag för min del tillstyrker
           deras antagande utan ändring.
         </note>
-        <note xml:id="i-TBhzhoBaSsGHgmip3F4DtF" type="speaker" xml:lang="sv">
+        <note xml:id="i-TBhzhoBaSsGHgmip3F4DtF" xml:lang="sv" type="speaker">
           Herr Cederman:
         </note>
         <u xml:id="i-2wZrQuxQKfY3yJQ78e2Tx9" who="i-UeTxv9rgAELGir3fWfG4jh">
@@ -2146,7 +2146,7 @@
         <note xml:id="i-7A6gqkveXxJxRxNjKR6DR9" xml:lang="sv">
           686 Borgareständet. 1867. 2 Maj.
         </note>
-        <note xml:id="i-HRipjD7WYM25Bk2sNbFdjh" type="speaker" xml:lang="sv">
+        <note xml:id="i-HRipjD7WYM25Bk2sNbFdjh" xml:lang="sv" type="speaker">
           Herr Östring:
         </note>
         <u xml:id="i-Pv6CAzbeydRTctrVEVnevm" who="i-5r31KKuptPPS63eWzMAseL">
@@ -2164,7 +2164,7 @@
             diskussion och oenighet.
           </seg>
         </u>
-        <note xml:id="i-CjFdSvLNR3rmXrJq572yx7" type="speaker" xml:lang="sv">
+        <note xml:id="i-CjFdSvLNR3rmXrJq572yx7" xml:lang="sv" type="speaker">
           Herr Bergh:
         </note>
         <u xml:id="i-WCHDdEfHkbCy6iK11LxF7g" who="i-N2PwTvXjXUdT9dRHeMawYq">
@@ -2369,7 +2369,7 @@
           och minutering af utländska spritdrycker ej är belagd med dylika
           afgifter, hela detta statut kunde försvinna.
         </note>
-        <note xml:id="i-PhZ7iFTDzT8Fq1PAeVjGoS" type="speaker" xml:lang="sv">
+        <note xml:id="i-PhZ7iFTDzT8Fq1PAeVjGoS" xml:lang="sv" type="speaker">
           Herr Lindegvist:
         </note>
         <u xml:id="i-PDXYBhdddv7zpgN7KvPaib" who="unknown">
@@ -2381,7 +2381,7 @@
             förslag att inga sädana afgifter mätte päbjudas.
           </seg>
         </u>
-        <note xml:id="i-Ro9xk3TjVVbvm3vMZJUcYJ" type="speaker" xml:lang="sv">
+        <note xml:id="i-Ro9xk3TjVVbvm3vMZJUcYJ" xml:lang="sv" type="speaker">
           Herr Snellman:
         </note>
         <u xml:id="i-HhEmGAViNSnzMbucsYU8EB" who="i-Hc9XMkGEjEESuFdWzXy4JT">
@@ -2430,7 +2430,7 @@
           ej att draga någon minuteringsskatt. Herr Cedermans beräkning
           är derföre alldeles ogrundad.
         </note>
-        <note xml:id="i-FVrTejMn42QscvDMsaKj9Z" type="speaker" xml:lang="sv">
+        <note xml:id="i-FVrTejMn42QscvDMsaKj9Z" xml:lang="sv" type="speaker">
           Herr Grundfeldt:
         </note>
         <u xml:id="i-8c7U6P45iis8TPq9xnjXtY" who="i-KGaDYg8SvhTQwWAdJXsgTo">
@@ -2442,7 +2442,7 @@
             att konkurrera med en fabriksmässig tillverkning af varan.
           </seg>
         </u>
-        <note xml:id="i-Pp56W4PJSXNVdL5hvemKQS" type="speaker" xml:lang="sv">
+        <note xml:id="i-Pp56W4PJSXNVdL5hvemKQS" xml:lang="sv" type="speaker">
           Herr Cederman:
         </note>
         <u xml:id="i-XQ718ZnkGuiRJNSZUNmrAo" who="i-UeTxv9rgAELGir3fWfG4jh">
@@ -2481,7 +2481,7 @@
           för utgörandet af såväl tillverkningsskatten, som minuterings-
           och utskänknings afgifterne.
         </note>
-        <note xml:id="i-R7rdUXuiUkyPvUez6P2nr6" type="speaker" xml:lang="sv">
+        <note xml:id="i-R7rdUXuiUkyPvUez6P2nr6" xml:lang="sv" type="speaker">
           Herr Lindblom:
         </note>
         <u xml:id="i-L687FamapEbHGj7e88yAP9" who="i-XW5vSkDhiDBuTQzpqfPxmM">
@@ -2507,7 +2507,7 @@
           skyldig att erlägga endast denna afgift, äfven om han kunde föryttra
           10,000 kannor eller mera, hvilket är hans ensak.
         </note>
-        <note xml:id="i-MTDxgumasCThiU2GzanWjQ" type="speaker" xml:lang="sv">
+        <note xml:id="i-MTDxgumasCThiU2GzanWjQ" xml:lang="sv" type="speaker">
           Herr Ohrnberg:
         </note>
         <u xml:id="i-JorcjhhyqyGR3yME9F1M6T" who="unknown">
@@ -2537,7 +2537,7 @@
           den tillökning i arbete uppbörden och redovisningen kommer att
           för stadsmyndigheterna medföra.
         </note>
-        <note xml:id="i-82FwgWbeUGCk1vv1bU7soP" type="speaker" xml:lang="sv">
+        <note xml:id="i-82FwgWbeUGCk1vv1bU7soP" xml:lang="sv" type="speaker">
           Herr Bergh:
         </note>
         <u xml:id="i-9sKNM15F9NgAAE3bNBkubb" who="i-N2PwTvXjXUdT9dRHeMawYq">
@@ -2555,7 +2555,7 @@
             måste öfvervaka.
           </seg>
         </u>
-        <note xml:id="i-DpZeLMfHaPrUvP9tcVU4zT" type="speaker" xml:lang="sv">
+        <note xml:id="i-DpZeLMfHaPrUvP9tcVU4zT" xml:lang="sv" type="speaker">
           Herr Krank:
         </note>
         <u xml:id="i-AyH7atSDx21W1VHhHXFopw" who="i-2v1sP1pTkv6wpgJSg3UXcQ">
@@ -2574,7 +2574,7 @@
           likväl sålunda, att jag anser ifrågavarande afgifter böra oafkortadt
           tillfalla kommunerne.
         </note>
-        <note xml:id="i-MMdHkQaJqonBkGLyqhnQFU" type="speaker" xml:lang="sv">
+        <note xml:id="i-MMdHkQaJqonBkGLyqhnQFU" xml:lang="sv" type="speaker">
           Herr Bergh:
         </note>
         <u xml:id="i-8xv8hYK4VPKgbyw3NxFjyV" who="i-N2PwTvXjXUdT9dRHeMawYq">
@@ -2612,7 +2612,7 @@
           sin tillbörande andel i hvad som enligt 8 3 kan komma att ät kommunerna
           anvisas, i händelse en sädan utdelning nägonsin kommer i fräga.
         </note>
-        <note xml:id="i-5cz4BxoCtJ5GBwSuM64tVM" type="speaker" xml:lang="sv">
+        <note xml:id="i-5cz4BxoCtJ5GBwSuM64tVM" xml:lang="sv" type="speaker">
           Herr Lindblom:
         </note>
         <u xml:id="i-K9fwcwMM9grE6xUTEcQsJ8" who="i-XW5vSkDhiDBuTQzpqfPxmM">
@@ -2847,7 +2847,7 @@
           upphör, försvinner också transporten af sålunda tillverkad vara
           utaf sig sjelf.
         </note>
-        <note xml:id="i-6HhDHD1c1oMjKjksMjuz8W" type="speaker" xml:lang="unknown">
+        <note xml:id="i-6HhDHD1c1oMjKjksMjuz8W" xml:lang="unknown" type="speaker">
           Herr Wolff:
         </note>
         <u xml:id="i-2Fd1n919WTrdJ3gg5nTeqt" who="i-2PT41UyWuKo4xm1qXeaPnb">
@@ -2857,7 +2857,7 @@
             fem kannor.
           </seg>
         </u>
-        <note xml:id="i-9RfW6rq6kwceYWPC3sTVNu" type="speaker" xml:lang="sv">
+        <note xml:id="i-9RfW6rq6kwceYWPC3sTVNu" xml:lang="sv" type="speaker">
           Herr Östring:
         </note>
         <u xml:id="i-NWwXKriDAru38wCZgjYBDB" who="i-5r31KKuptPPS63eWzMAseL">
@@ -2875,7 +2875,7 @@
           under en hög tillverkningsskatt och har således ingen talan, då
           skatten är låg.
         </note>
-        <note xml:id="i-FuBKr97fSkph7fH7tz3egH" type="speaker" xml:lang="sv">
+        <note xml:id="i-FuBKr97fSkph7fH7tz3egH" xml:lang="sv" type="speaker">
           Herr Östring:
         </note>
         <u xml:id="i-3gHze1ieYr6hKhChLzVf8A" who="i-5r31KKuptPPS63eWzMAseL">
@@ -2950,7 +2950,7 @@
           betänkande i anledning af nådiga propositionen angående tryckfrihet
           i Finland och om vilkoren för dess begagnande.
         </note>
-        <note xml:id="i-QAbebccUuiHE5WqxTyppZP" type="speaker" xml:lang="sv">
+        <note xml:id="i-QAbebccUuiHE5WqxTyppZP" xml:lang="sv" type="speaker">
           Herr Ohrnberg begärde ordet och yttrade:
         </note>
         <u xml:id="i-A1ZovAM4HaC87h7qKajG5v" who="unknown">
@@ -3189,7 +3189,7 @@
         <note xml:id="i-W9fLDpeZDJcXb7HPDCzaP5" xml:lang="unknown">
           $$ 66 mom. I.
         </note>
-        <note xml:id="i-MRbmkpnGz6nEWrFaArY7aA" type="speaker" xml:lang="sv">
+        <note xml:id="i-MRbmkpnGz6nEWrFaArY7aA" xml:lang="sv" type="speaker">
           Ordet begärdes af Herr Cederman, som yttrade:
         </note>
         <u xml:id="i-Ld1Bhhds3XAYTDcus43F7n" who="i-UeTxv9rgAELGir3fWfG4jh">
@@ -3269,7 +3269,7 @@
           så anser jag dem ej vara skyldiga att förklara, hvad de andra
           ståndens medlemmar i utskottet med det sednare alternativet menat.
         </note>
-        <note xml:id="i-CGLotcpVjXufnZ1d9a43LH" type="speaker" xml:lang="sv">
+        <note xml:id="i-CGLotcpVjXufnZ1d9a43LH" xml:lang="sv" type="speaker">
           Herr Öhrnberg:
         </note>
         <u xml:id="i-WWhpQ9yDpxB14n2b8gmZSq" who="i-QE8zNVMp9Xs7sAfD5qKxFo">
@@ -3391,7 +3391,7 @@
         <note xml:id="i-LH14jFegmF95euMki8d6e3" xml:lang="unknown">
           $ 83 mom. I.
         </note>
-        <note xml:id="i-BL84qezaNs5868G5uE94Ch" type="speaker" xml:lang="sv">
+        <note xml:id="i-BL84qezaNs5868G5uE94Ch" xml:lang="sv" type="speaker">
           Herr Cederman anhöll om ordet och yttrade:
         </note>
         <u xml:id="i-HFX4NDdGon42P7YXCckhL5" who="i-UeTxv9rgAELGir3fWfG4jh">
@@ -3412,7 +3412,7 @@
           &amp; den nädiga propositionen ingä, godkändes af ständet utan
           diskussion.
         </note>
-        <note xml:id="i-B6dCigh3oU1yJwZTQ2fNtM" type="speaker" xml:lang="sv">
+        <note xml:id="i-B6dCigh3oU1yJwZTQ2fNtM" xml:lang="sv" type="speaker">
           Härefter begärde Herr Wolff ordet och anförde:
         </note>
         <u xml:id="i-2ntAJJXrKhwkh4sbBQirrv" who="unknown">
@@ -3544,7 +3544,7 @@
         <note xml:id="i-Gk9JU5QHn3bPrAqZrtr3aZ" xml:lang="sv">
           $ 36. Öfver denna yttrade sig följande talare:
         </note>
-        <note xml:id="i-9g5LZhYpYCezK8uCrNhocc" type="speaker" xml:lang="sv">
+        <note xml:id="i-9g5LZhYpYCezK8uCrNhocc" xml:lang="sv" type="speaker">
           Herr Öhrnberg:
         </note>
         <u xml:id="i-7aea29GtZuTFLCjcePNne6" who="i-QE8zNVMp9Xs7sAfD5qKxFo">
@@ -3579,7 +3579,7 @@
           i rättvisans intresse föreslå, att det sednare alternativet af
           36 8 måtte af ståndet antagas.
         </note>
-        <note xml:id="i-FahgqUHKZmqeW3LCpHD7An" type="speaker" xml:lang="sv">
+        <note xml:id="i-FahgqUHKZmqeW3LCpHD7An" xml:lang="sv" type="speaker">
           Herr Bergh:
         </note>
         <u xml:id="i-ALyhw77QYep6Jg73sn8aJQ" who="i-N2PwTvXjXUdT9dRHeMawYq">
@@ -3647,7 +3647,7 @@
           försatta, dä de nödgats behandla en proposition, som icke varit
           beredd i enlighet med $ 42 i 1772 års regeringsform.
         </note>
-        <note xml:id="i-7HVVmUzDgHBUiXPE7SaCit" type="speaker" xml:lang="sv">
+        <note xml:id="i-7HVVmUzDgHBUiXPE7SaCit" xml:lang="sv" type="speaker">
           Herr Öhrn berg:
         </note>
         <u xml:id="i-AbkLaEamyDtKK5tP2DNw15" who="i-QE8zNVMp9Xs7sAfD5qKxFo">
@@ -3676,7 +3676,7 @@
             de föregående talarenas yttranden, hvad innehållet vidkommer.
           </seg>
         </u>
-        <note xml:id="i-AM5KkNesM21A1RUNLH1Lyf" type="speaker" xml:lang="sv">
+        <note xml:id="i-AM5KkNesM21A1RUNLH1Lyf" xml:lang="sv" type="speaker">
           Herr Lindeqvist:
         </note>
         <u xml:id="i-13u8q246CsDcYPzKJD1QvZ" who="i-GGBAD7iX8fRMidLfwkuf4H">
@@ -3761,7 +3761,7 @@
         <note xml:id="i-NiRooL1BQ3DVsdcPpxw12L" xml:lang="sv">
           $ 1.
         </note>
-        <note xml:id="i-RmeieBDUyQzsQSDfp8e4xP" type="speaker" xml:lang="sv">
+        <note xml:id="i-RmeieBDUyQzsQSDfp8e4xP" xml:lang="sv" type="speaker">
           Herr Holm begärde ordet och yttrade:
         </note>
         <u xml:id="i-BScfKyQ9T6CzekMgBtDGZy" who="i-8s1muuYkJkCuHXpZxcYW4y">
@@ -3880,7 +3880,7 @@
         <note xml:id="i-RhcK1Xq2c6TsYA6fwoLCH1" xml:lang="sv">
           Herr Granström instämde i Herr Lindbloms yttrande.
         </note>
-        <note xml:id="i-2RLvxmGhhraiQzMhKtBABE" type="speaker" xml:lang="sv">
+        <note xml:id="i-2RLvxmGhhraiQzMhKtBABE" xml:lang="sv" type="speaker">
           Herr Öhrnberg:
         </note>
         <u xml:id="i-7ZUc1e3A842yF2BrRPcs9Y" who="i-QE8zNVMp9Xs7sAfD5qKxFo">
@@ -3932,7 +3932,7 @@
         <note xml:id="i-KwjHSCYT4FxVVKU6ZafzRC" xml:lang="sv">
           Borgareståndet. 1867. 3 Maj. 715
         </note>
-        <note xml:id="i-PRB1vTPyFwZeanaHrqhXSy" type="speaker" xml:lang="sv">
+        <note xml:id="i-PRB1vTPyFwZeanaHrqhXSy" xml:lang="sv" type="speaker">
           Herr Bergh:
         </note>
         <u xml:id="i-96VwCYXbCusWosecxhPNkB" who="i-N2PwTvXjXUdT9dRHeMawYq">
@@ -3996,7 +3996,7 @@
         <note xml:id="i-UxgBZeC5UFBohXUNGXczmv" xml:lang="sv">
           $ 18. Vid handläggningen af denna &amp; uppträdde följande talare.
         </note>
-        <note xml:id="i-TvMo4nYG3429wG7f3cem7t" type="speaker" xml:lang="sv">
+        <note xml:id="i-TvMo4nYG3429wG7f3cem7t" xml:lang="sv" type="speaker">
           Herr Holm:
         </note>
         <u xml:id="i-6zKnGPtnusm87DdUVrGFpr" who="i-8s1muuYkJkCuHXpZxcYW4y">
@@ -4038,7 +4038,7 @@
           Jag kan derföre icke bifalla till paragrafens ordalydelse. Har
           man icke omhänder brandförsäkringsbrefvet, sä riskerar man säkerheten.
         </note>
-        <note xml:id="i-AFazXD8X3jXogsH3SCB5yU" type="speaker" xml:lang="sv">
+        <note xml:id="i-AFazXD8X3jXogsH3SCB5yU" xml:lang="sv" type="speaker">
           Herr Öhrnberg:
         </note>
         <u xml:id="i-PB3hUdfmWNRAUBXDZobt7f" who="i-QE8zNVMp9Xs7sAfD5qKxFo">
@@ -4102,7 +4102,7 @@
         <note xml:id="i-1to1YezJT9iyWTYKHqfK1" xml:lang="sv">
           $ 19 blef af ståndet godkänd utan diskussion. $ 20.
         </note>
-        <note xml:id="i-PLnSZJDbzAxdTyPk4vzmQk" type="speaker" xml:lang="sv">
+        <note xml:id="i-PLnSZJDbzAxdTyPk4vzmQk" xml:lang="sv" type="speaker">
           Herr Bergh anhöll om ordet och yttrade:
         </note>
         <u xml:id="i-Cattj6QN1a8WGZnsBcrd5P" who="i-N2PwTvXjXUdT9dRHeMawYq">
@@ -4330,7 +4330,7 @@
           hvad i förenämnda ämne är stadgadt, samt anhåller få föreslå,
           det ärendet måtte i detta afseende till utskottet återremitteras.
         </note>
-        <note xml:id="i-KJ9cT1dYQZfMANUxPZVe7Y" type="speaker" xml:lang="sv">
+        <note xml:id="i-KJ9cT1dYQZfMANUxPZVe7Y" xml:lang="sv" type="speaker">
           Herr Bergh:
         </note>
         <u xml:id="i-8yCUJnwjM6Gnr14C2HiXZk" who="i-N2PwTvXjXUdT9dRHeMawYq">
@@ -4575,7 +4575,7 @@
           jag mig upprepa min hemställan till ståndet om antagande af utskottets
           betänkande i denna del.
         </note>
-        <note xml:id="i-CDraHccuqV3GNivTLQFDLT" type="speaker" xml:lang="sv">
+        <note xml:id="i-CDraHccuqV3GNivTLQFDLT" xml:lang="sv" type="speaker">
           Herr Östring:
         </note>
         <u xml:id="i-7vzjUXSJdPhsTwzZQgSxDD" who="i-5r31KKuptPPS63eWzMAseL">
@@ -4597,7 +4597,7 @@
             moments antagande.
           </seg>
         </u>
-        <note xml:id="i-DVMaWKYxkTCN6dpDw3zCDf" type="speaker" xml:lang="sv">
+        <note xml:id="i-DVMaWKYxkTCN6dpDw3zCDf" xml:lang="sv" type="speaker">
           Herr Cederman:
         </note>
         <u xml:id="i-PkuVBsH1w14WLbgxMBiHjN" who="i-UeTxv9rgAELGir3fWfG4jh">
@@ -4767,7 +4767,7 @@
           befrielse från denna skyldighet för dessa mera än för de öfriga
           samhällsklasser, densamma enligt propositionen skulle åligga.
         </note>
-        <note xml:id="i-4yWdGxkLmyRAAGgBucdkCd" type="speaker" xml:lang="sv">
+        <note xml:id="i-4yWdGxkLmyRAAGgBucdkCd" xml:lang="sv" type="speaker">
           Herr Bergh:
         </note>
         <u xml:id="i-6sk1k7GDiHwwNDvKjDx4U5" who="i-N2PwTvXjXUdT9dRHeMawYq">
@@ -4891,7 +4891,7 @@
           att propositionen, med ogillande af utskottets betänkande, mätte
           läggas till grund för diskussionen i ämnet.
         </note>
-        <note xml:id="i-78Wvpj9EUCCmKXVm4rXtNe" type="speaker" xml:lang="sv">
+        <note xml:id="i-78Wvpj9EUCCmKXVm4rXtNe" xml:lang="sv" type="speaker">
           Herr Grundfeldt:
         </note>
         <u xml:id="i-CBkPtZ28fLYZ9pbNfq9wBx" who="i-KGaDYg8SvhTQwWAdJXsgTo">
@@ -4943,7 +4943,7 @@
           det en fjerdedel af tingsgästningen tillfaller lagman, skulle
           lämpligen förändras.
         </note>
-        <note xml:id="i-WMbhgQmvuBGMFeUuKaX8Ym" type="speaker" xml:lang="sv">
+        <note xml:id="i-WMbhgQmvuBGMFeUuKaX8Ym" xml:lang="sv" type="speaker">
           Herr Bergh:
         </note>
         <u xml:id="i-A5MNhdBYGnft7igj6vv3zt" who="i-N2PwTvXjXUdT9dRHeMawYq">
@@ -5052,7 +5052,7 @@
           hvarföre ståndet, såsom mig synes, borde, med afböjande af inbjudningen,
           vidblifva sitt förra beslut i ämnet.
         </note>
-        <note xml:id="i-2qXyRZuBWVXESMLQnSUnvr" type="speaker" xml:lang="sv">
+        <note xml:id="i-2qXyRZuBWVXESMLQnSUnvr" xml:lang="sv" type="speaker">
           Herr Lindblom:
         </note>
         <u xml:id="i-FTffbr9R1y7wj5VVRX7uke" who="i-XW5vSkDhiDBuTQzpqfPxmM">
@@ -5180,7 +5180,7 @@
           bort utgöra den rätta grunden för sammanjemkningsförslaget i denna
           del.
         </note>
-        <note xml:id="i-EyfmBBV94CWLM2F5hsicYJ" type="speaker" xml:lang="sv">
+        <note xml:id="i-EyfmBBV94CWLM2F5hsicYJ" xml:lang="sv" type="speaker">
           Herr Östring:
         </note>
         <u xml:id="i-nwAH55QQibh3efko3Fszc" who="i-5r31KKuptPPS63eWzMAseL">
@@ -5192,7 +5192,7 @@
             och Adeln samt Presteståndet.
           </seg>
         </u>
-        <note xml:id="i-Y253SsoVaCy251f1X4JuQk" type="speaker" xml:lang="sv">
+        <note xml:id="i-Y253SsoVaCy251f1X4JuQk" xml:lang="sv" type="speaker">
           Herr Öhrnberg:
         </note>
         <u xml:id="i-TTyzx3zVXNuDmHVbRhoLYN" who="i-QE8zNVMp9Xs7sAfD5qKxFo">
@@ -5237,7 +5237,7 @@
         <note xml:id="i-UXuUtetkFnJVELG6xfPz5X" xml:lang="sv">
           I anledning af utskottets förslag i $ 19 begärdes ordet af:
         </note>
-        <note xml:id="i-PooK6Zhjo3vJLdjSbfrqE9" type="speaker" xml:lang="sv">
+        <note xml:id="i-PooK6Zhjo3vJLdjSbfrqE9" xml:lang="sv" type="speaker">
           Herr Öhrnberg, som yttrade:
         </note>
         <u xml:id="i-UbX24i9xRZZh4qK9nNbmPL" who="i-QE8zNVMp9Xs7sAfD5qKxFo">
@@ -5465,7 +5465,7 @@
           en förordning rörande bevisning genom handelsbok och räkning öfver
           utborgade varor; derå:
         </note>
-        <note xml:id="i-3BerzR4icQbaLWL4NVTAaJ" type="speaker" xml:lang="sv">
+        <note xml:id="i-3BerzR4icQbaLWL4NVTAaJ" xml:lang="sv" type="speaker">
           Herr Bergh begärde ordet och yttrade:
         </note>
         <u xml:id="i-SMEAqu3pYFKEZEwgRvfQGw" who="i-N2PwTvXjXUdT9dRHeMawYq">
@@ -5494,7 +5494,7 @@
           delaktighet i brofogdarnes antagande mätte förklaras skola lända
           till efterrättelse; i anledning hvaraf ordet begärdes af:
         </note>
-        <note xml:id="i-HGHQLEbnbhokz7iJykM7C3" type="speaker" xml:lang="sv">
+        <note xml:id="i-HGHQLEbnbhokz7iJykM7C3" xml:lang="sv" type="speaker">
           Herr Bergh, som yttrade:
         </note>
         <u xml:id="i-8az8Gha5yLvVmqRK5vXKoR" who="i-N2PwTvXjXUdT9dRHeMawYq">
@@ -5552,7 +5552,7 @@
         <note xml:id="i-Ra3K2HtebXsvk5PuPMhnXp" xml:lang="sv">
           I ärendet uppstod följande diskussion:
         </note>
-        <note xml:id="i-N5EwPgtRY7bcsALwMFUGwd" type="speaker" xml:lang="sv">
+        <note xml:id="i-N5EwPgtRY7bcsALwMFUGwd" xml:lang="sv" type="speaker">
           Herr Östring:
         </note>
         <u xml:id="i-9GwwiYrLjmTv9JdbmDoc3r" who="i-5r31KKuptPPS63eWzMAseL">
@@ -5608,7 +5608,7 @@
           del skulle förslå till domarens aflöning, anser jag böra afböja
           inbjudningen.
         </note>
-        <note xml:id="i-HLiJ9sjyhy2LjEZUYVqLCU" type="speaker" xml:lang="sv">
+        <note xml:id="i-HLiJ9sjyhy2LjEZUYVqLCU" xml:lang="sv" type="speaker">
           Herr Öhrnberg:
         </note>
         <u xml:id="i-Wvn91dy551k5nW5ygWzPjh" who="i-QE8zNVMp9Xs7sAfD5qKxFo">
@@ -5654,7 +5654,7 @@
           af lagutskottets betänkande i denna del, förkasta Bondeståndets
           ifrågavarande inbjudning.
         </note>
-        <note xml:id="i-44csRauDLo6GB7aogp6Zu9" type="speaker" xml:lang="sv">
+        <note xml:id="i-44csRauDLo6GB7aogp6Zu9" xml:lang="sv" type="speaker">
           Herr Östring:
         </note>
         <u xml:id="i-EssDKcpdWZExJTUMf9SpRa" who="i-5r31KKuptPPS63eWzMAseL">
@@ -5786,7 +5786,7 @@
           inhemta stats- och bevillningsutskottets betänkande i frågan om
           skolväsendet i landet.
         </note>
-        <note xml:id="i-39PJEX1JUz3DRsnvtDWudc" type="speaker" xml:lang="sv">
+        <note xml:id="i-39PJEX1JUz3DRsnvtDWudc" xml:lang="sv" type="speaker">
           Herr Krank:
         </note>
         <u xml:id="i-Qxu2MdoGruGHiNGEHMg3X9" who="i-2v1sP1pTkv6wpgJSg3UXcQ">
@@ -5803,7 +5803,7 @@
           Herr Lindblom: jag beder att få understöda Herr Kranks projekt
           om antagande af petitionsförslaget.
         </note>
-        <note xml:id="i-Kdh422onyWpv4DXvymWMj1" type="speaker" xml:lang="sv">
+        <note xml:id="i-Kdh422onyWpv4DXvymWMj1" xml:lang="sv" type="speaker">
           Herr Östring:
         </note>
         <u xml:id="i-2StFfjxC6eZrKpWsejmxZj" who="i-5r31KKuptPPS63eWzMAseL">
@@ -5962,7 +5962,7 @@
           af rättigheten till bevisning vara alltför vidsträckt och derföre
           betänklig.
         </note>
-        <note xml:id="i-SKWFR9G6wJ9q5gnfuMuC7a" type="speaker" xml:lang="sv">
+        <note xml:id="i-SKWFR9G6wJ9q5gnfuMuC7a" xml:lang="sv" type="speaker">
           Herr Grundfeldt:
         </note>
         <u xml:id="i-6zNq2B2WDgTkbrJeNNNz6r" who="i-KGaDYg8SvhTQwWAdJXsgTo">
@@ -6155,7 +6155,7 @@
           skulle taga de gjorda inbjudningarne under pröfning; hvarä deputationen
           afträdde.
         </note>
-        <note xml:id="i-6xqx4eovthpXwRosKmYGAc" type="speaker" xml:lang="sv">
+        <note xml:id="i-6xqx4eovthpXwRosKmYGAc" xml:lang="sv" type="speaker">
           Herr Holm fortsatte:
         </note>
         <u xml:id="i-KqPgE5iUEBw69Um7qF6kbb" who="i-8s1muuYkJkCuHXpZxcYW4y">
@@ -6176,7 +6176,7 @@
           magistratens ordförande eller, såsom i Sverige, borgmästare i
           stad och häradshöfding på landet.
         </note>
-        <note xml:id="i-61oQ4ZSZ7VdwGzHDSuRJNx" type="speaker" xml:lang="sv">
+        <note xml:id="i-61oQ4ZSZ7VdwGzHDSuRJNx" xml:lang="sv" type="speaker">
           Herr Granström:
         </note>
         <u xml:id="i-6td9Auta14aCmqNg29YB43" who="i-RLK2wujPko39urNNKUwfR1">
@@ -6422,7 +6422,7 @@
           magistratssekreterare, heta magistratens ordförande i stad eller
           domhafvande pä landet.
         </note>
-        <note xml:id="i-BNwoT3BVf2X2XyfYnw1X1J" type="speaker" xml:lang="sv">
+        <note xml:id="i-BNwoT3BVf2X2XyfYnw1X1J" xml:lang="sv" type="speaker">
           Herr Bergh:
         </note>
         <u xml:id="i-4XuVibyLdyGLPjhCp8nEZT" who="i-N2PwTvXjXUdT9dRHeMawYq">
@@ -6455,7 +6455,7 @@
           om antagande af 8 1 enligt den nådiga propositionen, men med tillägg
           af hvad Herrar Bergh och Lindeqvist föreslagit.
         </note>
-        <note xml:id="i-TcQZXb6PWnrzK1tpv6Z9Ww" type="speaker" xml:lang="sv">
+        <note xml:id="i-TcQZXb6PWnrzK1tpv6Z9Ww" xml:lang="sv" type="speaker">
           Herr Cederman:
         </note>
         <u xml:id="i-Cv75mY4PhLSC5kbHedeTM3" who="i-UeTxv9rgAELGir3fWfG4jh">
@@ -6639,7 +6639,7 @@
           ,,och äfven för öfrigt inrättad, på sätt här nedan säges" äfvensom
           ordet ,,både' utgå.
         </note>
-        <note xml:id="i-YLPZim7imv2R4ciFQX6XTk" type="speaker" xml:lang="sv">
+        <note xml:id="i-YLPZim7imv2R4ciFQX6XTk" xml:lang="sv" type="speaker">
           Herr Mustonen:
         </note>
         <u xml:id="i-5JGiVNwUUk7s1ryJDkhuBA" who="i-QmDvF6akeQRHNrBxFgwyU3">
@@ -6811,7 +6811,7 @@
           tillkommit. Pä dessa grunder förordar jag antagandet af den nädiga
           propositionen.
         </note>
-        <note xml:id="i-4hiJp2BUhKY516i6SWjRph" type="speaker" xml:lang="sv">
+        <note xml:id="i-4hiJp2BUhKY516i6SWjRph" xml:lang="sv" type="speaker">
           Herr Öhrnberg:
         </note>
         <u xml:id="i-423FQ8dKo6yiPA9X1F7vAv" who="i-QE8zNVMp9Xs7sAfD5qKxFo">
@@ -6992,7 +6992,7 @@
           en kommunikation verkställd inom en så knapp tid, som nu föreslås.
           Jag tillstyrker alltså antagande af den nådiga propositionen.
         </note>
-        <note xml:id="i-BnFHr8j7WpjzBrMGfApvsm" type="speaker" xml:lang="sv">
+        <note xml:id="i-BnFHr8j7WpjzBrMGfApvsm" xml:lang="sv" type="speaker">
           Herr Ottelin:
         </note>
         <u xml:id="i-J4LJeZjqGPX16bBx3fUs5C" who="i-JFCH6e9PsE1w8HHWkxDkhR">
@@ -7008,7 +7008,7 @@
             att han håller sig undan.
           </seg>
         </u>
-        <note xml:id="i-CFohp7FcWhiKirkYf9nNBV" type="speaker" xml:lang="sv">
+        <note xml:id="i-CFohp7FcWhiKirkYf9nNBV" xml:lang="sv" type="speaker">
           Herr Krank:
         </note>
         <u xml:id="i-7jmafuuqVL3XzgqfuBpRvS" who="i-2v1sP1pTkv6wpgJSg3UXcQ">
@@ -7130,7 +7130,7 @@
           betänklighet förekomma för antagandet af paragrafen enligt den
           af herr Rosenius i hans reservation föreslagna ordalydelsen.
         </note>
-        <note xml:id="i-Jhwfo4BgnaJTTpSjaCG25B" type="speaker" xml:lang="sv">
+        <note xml:id="i-Jhwfo4BgnaJTTpSjaCG25B" xml:lang="sv" type="speaker">
           Herr Öhrnberg:
         </note>
         <u xml:id="i-HUwv4ZVW74uDZfHThkcEmC" who="i-QE8zNVMp9Xs7sAfD5qKxFo">
@@ -7285,7 +7285,7 @@
         <note xml:id="i-GL8RMWP5eFTQycb8CMqVy7" xml:lang="sv">
           $ 5. Öfver förevarande $ yttrade sig nedannämnde talare:
         </note>
-        <note xml:id="i-RY9WNBYHnxWrN2hiYBPGyL" type="speaker" xml:lang="sv">
+        <note xml:id="i-RY9WNBYHnxWrN2hiYBPGyL" xml:lang="sv" type="speaker">
           Herr Lindblom:
         </note>
         <u xml:id="i-RustYm7nyXZFnSu2K6ZH5R" who="i-XW5vSkDhiDBuTQzpqfPxmM">
@@ -7338,7 +7338,7 @@
           så anser jag, att orden ,istad' borde från $ 5 af utskottets betänkande
           utgå.
         </note>
-        <note xml:id="i-HSLSZpCwq7MBHwhMYEcvs4" type="speaker" xml:lang="sv">
+        <note xml:id="i-HSLSZpCwq7MBHwhMYEcvs4" xml:lang="sv" type="speaker">
           Herr Snellman:
         </note>
         <u xml:id="i-5LijfJo8BjNPvwjHzgSN87" who="i-Hc9XMkGEjEESuFdWzXy4JT">
@@ -7419,7 +7419,7 @@
         <note xml:id="i-UPVpb9Zhq9JSvywhCpjGCo" xml:lang="sv">
           Borgareståndet. 1867. 8 Maj. 7715
         </note>
-        <note xml:id="i-ergKfVpiYg9kt8sut1GCv" type="speaker" xml:lang="sv">
+        <note xml:id="i-ergKfVpiYg9kt8sut1GCv" xml:lang="sv" type="speaker">
           Herr Grundfeldt:
         </note>
         <u xml:id="i-6FdNu6X3UeqvwJVRKpMDSC" who="i-KGaDYg8SvhTQwWAdJXsgTo">
@@ -7458,7 +7458,7 @@
           mest lämpliga. Jag tillstyrker således äfven, att ståndet ville
           antaga den redaktionsförändringen.
         </note>
-        <note xml:id="i-T1FmXz1TEFomnhapchWYSw" type="speaker" xml:lang="sv">
+        <note xml:id="i-T1FmXz1TEFomnhapchWYSw" xml:lang="sv" type="speaker">
           Herr Lindeqvist:
         </note>
         <u xml:id="i-LzFKic8qADCunzq2GedQ5C" who="i-GGBAD7iX8fRMidLfwkuf4H">
@@ -7574,7 +7574,7 @@
         <note xml:id="i-URHb62LDB7E168Ewjmwjfe" xml:lang="sv">
           Öfver mom. pass yttrade sig följande talare:
         </note>
-        <note xml:id="i-VEznXD2zfjwhd7fyWNFqsL" type="speaker" xml:lang="sv">
+        <note xml:id="i-VEznXD2zfjwhd7fyWNFqsL" xml:lang="sv" type="speaker">
           Herr Bergh:
         </note>
         <u xml:id="i-MvKXfq9pHCRkTwna4TBQKS" who="i-N2PwTvXjXUdT9dRHeMawYq">
@@ -7616,7 +7616,7 @@
           beslut, antager icke de öfriga ståndens inbjudning, ty någon sådan
           har ej ägt rum, utan utskottets.
         </note>
-        <note xml:id="i-SAaMfXNe7yts4enk2XpCDu" type="speaker" xml:lang="sv">
+        <note xml:id="i-SAaMfXNe7yts4enk2XpCDu" xml:lang="sv" type="speaker">
           Herr Bergh:
         </note>
         <u xml:id="i-UFgVXYFAX3CrFTkuCkee39" who="i-N2PwTvXjXUdT9dRHeMawYq">
@@ -7669,7 +7669,7 @@
           pä det stämpelpapper, hvilket i författningen stadgas för expeditioner
           frän embetsverk.
         </note>
-        <note xml:id="i-YUYskn1CiuUksQtW9MTvcx" type="speaker" xml:lang="sv">
+        <note xml:id="i-YUYskn1CiuUksQtW9MTvcx" xml:lang="sv" type="speaker">
           Herr Lindegvist:
         </note>
         <u xml:id="i-U1S3QoiauJyVdYHgCmEJoR" who="unknown">
@@ -7861,7 +7861,7 @@
           ursprungsbevis finge inom landet fritt och obehindradt forslas,
           skulle nedsättas från 15 till 21/, kanna.
         </note>
-        <note xml:id="i-LSFoudHcpLKTAkZ3orpsaD" type="speaker" xml:lang="sv">
+        <note xml:id="i-LSFoudHcpLKTAkZ3orpsaD" xml:lang="sv" type="speaker">
           Herr Öhrnberg begärde ordet och yttrade:
         </note>
         <u xml:id="i-JtAu2kLvLScY8puBkT4y5Y" who="i-QE8zNVMp9Xs7sAfD5qKxFo">
@@ -8390,7 +8390,7 @@
           den föreslagna kanalbyggnaden, såsom saknande all gemenskap med
           jernvägsanläggningen, böra ju förr desto hellre påbörjas.
         </note>
-        <note xml:id="i-AAVBU9jVQ4hpfHMzERuzZS" type="speaker" xml:lang="sv">
+        <note xml:id="i-AAVBU9jVQ4hpfHMzERuzZS" xml:lang="sv" type="speaker">
           Herr Öhrnberg:
         </note>
         <u xml:id="i-K32XZEAEoNkiAR86CKqGmg" who="i-QE8zNVMp9Xs7sAfD5qKxFo">
@@ -8576,7 +8576,7 @@
           ifrägakomne farleden skall heller säkert aldrig uppstä. Jag afstyrker
           derföre petitionens antagande.
         </note>
-        <note xml:id="i-4WYcyCHwaez3kB7xmbc3LM" type="speaker" xml:lang="sv">
+        <note xml:id="i-4WYcyCHwaez3kB7xmbc3LM" xml:lang="sv" type="speaker">
           Herr Lindblom:
         </note>
         <u xml:id="i-K3LrnL6Nq98ZiypW92VjHG" who="i-XW5vSkDhiDBuTQzpqfPxmM">
@@ -8586,7 +8586,7 @@
             förena mig om densamma.
           </seg>
         </u>
-        <note xml:id="i-XUYNLsFxAP4xDPNGCP8ihg" type="speaker" xml:lang="sv">
+        <note xml:id="i-XUYNLsFxAP4xDPNGCP8ihg" xml:lang="sv" type="speaker">
           Herr Krank:
         </note>
         <u xml:id="i-Fvm17fWaQTGv9RPNsCWxUE" who="i-2v1sP1pTkv6wpgJSg3UXcQ">
@@ -9177,7 +9177,7 @@
         <note xml:id="i-EWrgZxtqTovsUuvH7LGmxc" xml:lang="sv">
           I frågan yttrade sig följande ståndets medlemmar:
         </note>
-        <note xml:id="i-UdPCaHJxxeJnkvjqWTkmfG" type="speaker" xml:lang="sv">
+        <note xml:id="i-UdPCaHJxxeJnkvjqWTkmfG" xml:lang="sv" type="speaker">
           Herr Öhrnberg:
         </note>
         <u xml:id="i-9yZhQ3cdVH7CM2wztnVD6t" who="i-QE8zNVMp9Xs7sAfD5qKxFo">
@@ -9188,7 +9188,7 @@
             ej heller torde påkalla någon åtgärd från ståndets sida.
           </seg>
         </u>
-        <note xml:id="i-ULjvJ3YYDJJLfwy9gYeita" type="speaker" xml:lang="sv">
+        <note xml:id="i-ULjvJ3YYDJJLfwy9gYeita" xml:lang="sv" type="speaker">
           Herr Bergh:
         </note>
         <u xml:id="i-MgyC86vUyRZFF7YRPYLDqN" who="i-N2PwTvXjXUdT9dRHeMawYq">
@@ -9618,7 +9618,7 @@
           Efter uppläsandet af förestående skrift föreföll i ståndet med
           anledning af densamma följande diskussion:
         </note>
-        <note xml:id="i-QDJk1pD4wAVDiWZfARrhug" type="speaker" xml:lang="unknown">
+        <note xml:id="i-QDJk1pD4wAVDiWZfARrhug" xml:lang="unknown" type="speaker">
           Herr Wolff:
         </note>
         <u xml:id="i-5sUyHi8QW1PBXxYzjDfrjN" who="i-2PT41UyWuKo4xm1qXeaPnb">
@@ -9673,7 +9673,7 @@
           makts konsuler, dä en rysk finnes å stället, får jag upprepa min
           framställning angående en petition i antydt syfte.
         </note>
-        <note xml:id="i-FQVKASqd7eLFwk4GH7XsDd" type="speaker" xml:lang="sv">
+        <note xml:id="i-FQVKASqd7eLFwk4GH7XsDd" xml:lang="sv" type="speaker">
           Herr Öhrnberg:
         </note>
         <u xml:id="i-RL85WpBU9KcBYgTMxoZFrX" who="i-QE8zNVMp9Xs7sAfD5qKxFo">
@@ -9708,7 +9708,7 @@
           del tvekar jag t. o. m. huruvida den omnämnda skriften bör ingå
           i ständets protokoll.
         </note>
-        <note xml:id="i-DkYw1mNGLBSLysFwokBdHc" type="speaker" xml:lang="unknown">
+        <note xml:id="i-DkYw1mNGLBSLysFwokBdHc" xml:lang="unknown" type="speaker">
           Herr Wolff:
         </note>
         <u xml:id="i-JVev7EvoCvT8QbpmVQoabu" who="i-2PT41UyWuKo4xm1qXeaPnb">
@@ -9758,7 +9758,7 @@
           har, sävidt jag kan erinra mig, vid frågans diskussion dä den
           förra gången förevar i ståndet ej alls varit fråga. N
         </note>
-        <note xml:id="i-9NeFydf3HoWT2u8rccHA29" type="speaker" xml:lang="sv">
+        <note xml:id="i-9NeFydf3HoWT2u8rccHA29" xml:lang="sv" type="speaker">
           Herr Östring:
         </note>
         <u xml:id="i-MyqEGQiiDqW4Fw1S83ZcGk" who="i-5r31KKuptPPS63eWzMAseL">
@@ -9846,7 +9846,7 @@
           varit att komma derhän; men en oskicklighet i stiliseringen har
           gjort att det verkligen blir fallet.
         </note>
-        <note xml:id="i-CBqPdgfsp1dTzGr2TxNvQ8" type="speaker" xml:lang="sv">
+        <note xml:id="i-CBqPdgfsp1dTzGr2TxNvQ8" xml:lang="sv" type="speaker">
           Herr Öhrnberg:
         </note>
         <u xml:id="i-7mCVbGqh9V2nh4aAEJ4kkg" who="i-QE8zNVMp9Xs7sAfD5qKxFo">
@@ -9939,7 +9939,7 @@
           det allra bästa, hvilket med representationens nuvarande sammansättning
           är omöjligt, försaka det bättre.
         </note>
-        <note xml:id="i-VKsR2EHLRFqzfdQ7Noe557" type="speaker" xml:lang="sv">
+        <note xml:id="i-VKsR2EHLRFqzfdQ7Noe557" xml:lang="sv" type="speaker">
           Herr Snellman:
         </note>
         <u xml:id="i-RtvcvCf1qeRhqs3h74brGL" who="i-Hc9XMkGEjEESuFdWzXy4JT">
@@ -9963,7 +9963,7 @@
           »om grunderne för någon bevillning* icke bör kunna villseleda,
           såsom Herr Bergh och Snellman anmärkt.
         </note>
-        <note xml:id="i-6iqyzAzUztNaZd4KJeixua" type="speaker" xml:lang="sv">
+        <note xml:id="i-6iqyzAzUztNaZd4KJeixua" xml:lang="sv" type="speaker">
           Herr Östring:
         </note>
         <u xml:id="i-MYRV9cUeELwmXw74hWW6Ao" who="i-5r31KKuptPPS63eWzMAseL">
@@ -9990,7 +9990,7 @@
             medlemmar, men att detaljfrågorne kunde afgöras genom enkel pluralitet.
           </seg>
         </u>
-        <note xml:id="i-Nwb1nMizbgkEu9dXCqPbZ1" type="speaker" xml:lang="sv">
+        <note xml:id="i-Nwb1nMizbgkEu9dXCqPbZ1" xml:lang="sv" type="speaker">
           Herr Öhrnberg:
         </note>
         <u xml:id="i-vmJHs5VdyTRqG1Ab1Gci3" who="i-QE8zNVMp9Xs7sAfD5qKxFo">
@@ -10098,7 +10098,7 @@
           Sedan ingressen till författningen i ämnet antagits enligt utskottets
           förslag, föredrogs S 1 i betänkandet, hvarvid ordet begärdes af
         </note>
-        <note xml:id="i-NW3gQ4k2N7LkgWKwo4ziDD" type="speaker" xml:lang="sv">
+        <note xml:id="i-NW3gQ4k2N7LkgWKwo4ziDD" xml:lang="sv" type="speaker">
           Herr Cederman, som yttrade:
         </note>
         <u xml:id="i-3T5ou5SXnU6PKQi7sYaAzw" who="i-UeTxv9rgAELGir3fWfG4jh">
@@ -10142,7 +10142,7 @@
           emedan hans afsigt likväl är densamma. Enligt min äsigt, borde
           derföre någon förmildring i straftet för detta fall ej äga rum.
         </note>
-        <note xml:id="i-ExWRh1Ua5m7rbFoXG9EgGd" type="speaker" xml:lang="sv">
+        <note xml:id="i-ExWRh1Ua5m7rbFoXG9EgGd" xml:lang="sv" type="speaker">
           Herr Cederman:
         </note>
         <u xml:id="i-WbaGgoab58V31uqHtTKo7Z" who="i-UeTxv9rgAELGir3fWfG4jh">
@@ -10196,7 +10196,7 @@
           eller sjelf släcka elden och detta bör äfven räknas honom tillgodo
           och föranleda till straffmildring.
         </note>
-        <note xml:id="i-MCCHtJXR6cai6EMKsCjB21" type="speaker" xml:lang="unknown">
+        <note xml:id="i-MCCHtJXR6cai6EMKsCjB21" xml:lang="unknown" type="speaker">
           Herr Wolff:
         </note>
         <u xml:id="i-5Em257sJm1zWx5Ts1WEedR" who="i-2PT41UyWuKo4xm1qXeaPnb">
@@ -10208,7 +10208,7 @@
             för lindrigt.
           </seg>
         </u>
-        <note xml:id="i-DoXjMNLbjHhyBij8Ekzvf9" type="speaker" xml:lang="sv">
+        <note xml:id="i-DoXjMNLbjHhyBij8Ekzvf9" xml:lang="sv" type="speaker">
           Herr Cederman:
         </note>
         <u xml:id="i-QvHhzbxRpSwBCVUanZZ41s" who="i-UeTxv9rgAELGir3fWfG4jh">
@@ -10235,7 +10235,7 @@
           hvem brandskadeersättningen är förverkad, hvilket dock enligt
           min äsigt borde i $ ingå.
         </note>
-        <note xml:id="i-L9SnH2yxYKbzGEpCidJ8Km" type="speaker" xml:lang="sv">
+        <note xml:id="i-L9SnH2yxYKbzGEpCidJ8Km" xml:lang="sv" type="speaker">
           Herr Bergh:
         </note>
         <u xml:id="i-KpPk3K32Zv9gAQbgcv4rbL" who="i-N2PwTvXjXUdT9dRHeMawYq">
@@ -10257,7 +10257,7 @@
           genom antändning af sin egendom förverka inteckningshafvares
           rätt.
         </note>
-        <note xml:id="i-4wd2Ud8fEp5EhpQyurpiUk" type="speaker" xml:lang="sv">
+        <note xml:id="i-4wd2Ud8fEp5EhpQyurpiUk" xml:lang="sv" type="speaker">
           Herr Rosenius:
         </note>
         <u xml:id="i-JTJwaFWNkwjUX3Y3HnX2bv" who="i-MMYT7XLX6YPQ7PudpmVcPj">
@@ -10333,7 +10333,7 @@
           inteckningshafvare, då hans säkerhet genom mordbrand går förlorad,
           åtnjuta ersättning.
         </note>
-        <note xml:id="i-W6vyp5wkRzzu1jjv2w8DA6" type="speaker" xml:lang="sv">
+        <note xml:id="i-W6vyp5wkRzzu1jjv2w8DA6" xml:lang="sv" type="speaker">
           Herr Rosenius:
         </note>
         <u xml:id="i-yke5XrwNCV5hYx8QCHnXy" who="i-MMYT7XLX6YPQ7PudpmVcPj">
@@ -10375,7 +10375,7 @@
         <note xml:id="i-VPHek89thPDy39sAWVFd3K" xml:lang="sv">
           Borgareständet. 1867. 13 Maj. 825
         </note>
-        <note xml:id="i-MEwnasCCR19SghyXUDGuvA" type="speaker" xml:lang="sv">
+        <note xml:id="i-MEwnasCCR19SghyXUDGuvA" xml:lang="sv" type="speaker">
           Herr Cederman:
         </note>
         <u xml:id="i-9KSLiR87v7MVawHxTENFqF" who="i-UeTxv9rgAELGir3fWfG4jh">
@@ -10407,7 +10407,7 @@
           uppställningen af förevarande 8, hvilken jag derföre anser böra
           helt och hållet uteslutas.
         </note>
-        <note xml:id="i-TVvFjqhZNyN9q9q2Zcd85E" type="speaker" xml:lang="sv">
+        <note xml:id="i-TVvFjqhZNyN9q9q2Zcd85E" xml:lang="sv" type="speaker">
           Herr Holm:
         </note>
         <u xml:id="i-CPfQ3rgnsSKR6HYEAMm7Gz" who="i-8s1muuYkJkCuHXpZxcYW4y">
@@ -10420,7 +10420,7 @@
             i detta fall vara fullt konseqvent.
           </seg>
         </u>
-        <note xml:id="i-LgfDsTATjuFKiCvUfn6LZD" type="speaker" xml:lang="sv">
+        <note xml:id="i-LgfDsTATjuFKiCvUfn6LZD" xml:lang="sv" type="speaker">
           Herr Öhrnberg:
         </note>
         <u xml:id="i-2gYLCvf5Qua8xEbGVfSDgG" who="i-QE8zNVMp9Xs7sAfD5qKxFo">
@@ -10536,7 +10536,7 @@
           deraf tydligen framgår, att äfven i nämnde betänkande under uttrycket
           Saima kanal inbegripes jemväl begge dessa slussar.
         </note>
-        <note xml:id="i-DBTccXMNzsRiV4o4kkMX5Z" type="speaker" xml:lang="sv">
+        <note xml:id="i-DBTccXMNzsRiV4o4kkMX5Z" xml:lang="sv" type="speaker">
           Herr Öhrnberg:
         </note>
         <u xml:id="i-VFyguABfUzWXwJVQJXR6yh" who="i-QE8zNVMp9Xs7sAfD5qKxFo">
@@ -10552,7 +10552,7 @@
             att bortfalla.
           </seg>
         </u>
-        <note xml:id="i-Fon6iqB18DcDjqGNsCd3Wn" type="speaker" xml:lang="sv">
+        <note xml:id="i-Fon6iqB18DcDjqGNsCd3Wn" xml:lang="sv" type="speaker">
           Herr Rosenius:
         </note>
         <u xml:id="i-PrSszZn3w7g5E1y9wKk3qF" who="i-MMYT7XLX6YPQ7PudpmVcPj">
@@ -10592,7 +10592,7 @@
         <note xml:id="i-254jbpRnJ9oNTYDBjvyaiu" xml:lang="sv">
           I anledning häraf uppstod följande diskussion:
         </note>
-        <note xml:id="i-8ib4R2PBtWpM1qyt1RPWuo" type="speaker" xml:lang="unknown">
+        <note xml:id="i-8ib4R2PBtWpM1qyt1RPWuo" xml:lang="unknown" type="speaker">
           Herr Wolff:
         </note>
         <u xml:id="i-F82JiG8zABgZZLudmurMTr" who="i-2PT41UyWuKo4xm1qXeaPnb">
@@ -10608,7 +10608,7 @@
             denna landtdag ville låta petitionsförslaget förfalla.
           </seg>
         </u>
-        <note xml:id="i-8gNkfZ8tdhJikZLy2crvXk" type="speaker" xml:lang="sv">
+        <note xml:id="i-8gNkfZ8tdhJikZLy2crvXk" xml:lang="sv" type="speaker">
           Herr Rosenius:
         </note>
         <u xml:id="i-BaEyQbyvNDZ2qvY8AVGCfH" who="i-MMYT7XLX6YPQ7PudpmVcPj">
@@ -10767,7 +10767,7 @@
           hamn, kanske svårare än Uleåborgs och genom sina ringare resurser
           vore mera i behof af understöd än sistnämnde stad.
         </note>
-        <note xml:id="i-GhZgAoMuT3YmbaKhKDG6aQ" type="speaker" xml:lang="sv">
+        <note xml:id="i-GhZgAoMuT3YmbaKhKDG6aQ" xml:lang="sv" type="speaker">
           Herr Rosenius:
         </note>
         <u xml:id="i-EDTy6sXYQgqmScYvHsv43B" who="i-MMYT7XLX6YPQ7PudpmVcPj">
@@ -10810,7 +10810,7 @@
           Uleåborg, vore såsom jag redan haft äran föreslå, garanti för
           ett lån att för det uppgifna ändamålet användas.
         </note>
-        <note xml:id="i-R4hWovCnQK8VWMU1Rrn8DB" type="speaker" xml:lang="sv">
+        <note xml:id="i-R4hWovCnQK8VWMU1Rrn8DB" xml:lang="sv" type="speaker">
           Herr Snellman:
         </note>
         <u xml:id="i-2Wagw7FmNQrSHAF8R4ckjL" who="i-Hc9XMkGEjEESuFdWzXy4JT">
@@ -10887,7 +10887,7 @@
           räntefot utgör räntan på nämnde tid ungefär två gånger kapitalets
           belopp.
         </note>
-        <note xml:id="i-QF8zGqFdERkMNmLv5HXvd7" type="speaker" xml:lang="sv">
+        <note xml:id="i-QF8zGqFdERkMNmLv5HXvd7" xml:lang="sv" type="speaker">
           Herr Rosenius:
         </note>
         <u xml:id="i-MVBD22RUymTbHFQqs56Mrk" who="i-MMYT7XLX6YPQ7PudpmVcPj">
@@ -11282,7 +11282,7 @@
           Vid i anledning häraf uppkommen diskussion yttrade sig nedannämnda
           ledamöter:
         </note>
-        <note xml:id="i-6Cjhw1rhr3Fr9PxLBnrX9a" type="speaker" xml:lang="sv">
+        <note xml:id="i-6Cjhw1rhr3Fr9PxLBnrX9a" xml:lang="sv" type="speaker">
           Herr Ohrnberg:
         </note>
         <u xml:id="i-4jiN8mcucN3De1gU8vnEQS" who="unknown">
@@ -11356,7 +11356,7 @@
           Vid behandlingen af förevarande ärende anmälde sig nedannämnda
           talare:
         </note>
-        <note xml:id="i-A1T5JWKcQikTksLMGoRhop" type="speaker" xml:lang="sv">
+        <note xml:id="i-A1T5JWKcQikTksLMGoRhop" xml:lang="sv" type="speaker">
           Herr Öhrnberg:
         </note>
         <u xml:id="i-J9336iR2ysKAVuHNfXitZ1" who="i-QE8zNVMp9Xs7sAfD5qKxFo">
@@ -11395,7 +11395,7 @@
         <note xml:id="i-9BFhcFKFncPYkps7wkk2qu" xml:lang="sv">
           842 Borgareståndet. 1867. 14 Maj.
         </note>
-        <note xml:id="i-WHeBdDC52BCB6qRdm9zPHp" type="speaker" xml:lang="sv">
+        <note xml:id="i-WHeBdDC52BCB6qRdm9zPHp" xml:lang="sv" type="speaker">
           Herr Lindeqvist:
         </note>
         <u xml:id="i-NybMUTgUrUjWAfAeFQcQs6" who="i-GGBAD7iX8fRMidLfwkuf4H">
@@ -11415,7 +11415,7 @@
             såsom hos Ridderskapet och Adeln icke skulle af ståndet antagas.
           </seg>
         </u>
-        <note xml:id="i-qT9LdR5WMYdxXXdNF6xHB" type="speaker" xml:lang="sv">
+        <note xml:id="i-qT9LdR5WMYdxXXdNF6xHB" xml:lang="sv" type="speaker">
           Herr Östring:
         </note>
         <u xml:id="i-LufwEuGVbQJyKit3fdWfGs" who="i-5r31KKuptPPS63eWzMAseL">
@@ -11499,7 +11499,7 @@
           och Lindbloms yttranden, att ständerna skulle vid nästa landtdag
           föreläggas ett nytt lagförslag i ämnet.
         </note>
-        <note xml:id="i-AAuhe81rCGWgVT16cTveV9" type="speaker" xml:lang="sv">
+        <note xml:id="i-AAuhe81rCGWgVT16cTveV9" xml:lang="sv" type="speaker">
           Herr Bronikowsky:
         </note>
         <u xml:id="i-4ixea51YoSux8jgFs5fpJc" who="i-7vAC7C5Kk5aWg5YhiSZpDB">
@@ -11567,7 +11567,7 @@
           ingä en anhällan, att ett nytt lagförslag må vid nästa landtdag
           ständerna föreläggas.
         </note>
-        <note xml:id="i-5ztgiq5N3an9Ar2sYdsrwv" type="speaker" xml:lang="sv">
+        <note xml:id="i-5ztgiq5N3an9Ar2sYdsrwv" xml:lang="sv" type="speaker">
           Herr Lindeqvist:
         </note>
         <u xml:id="i-Urf5brBUFK57MH8Eo9g1Tx" who="i-GGBAD7iX8fRMidLfwkuf4H">
@@ -11669,7 +11669,7 @@
           utskotts betänkande i anledning af nådiga propositionen, angående
           förändrade grunder för räntepersedleomsättningen i landet.
         </note>
-        <note xml:id="i-WUidpCXoPnoJun4bdnzXw6" type="speaker" xml:lang="sv">
+        <note xml:id="i-WUidpCXoPnoJun4bdnzXw6" xml:lang="sv" type="speaker">
           På begäran erhöll Herr Bergh ordet och yttrade:
         </note>
         <u xml:id="i-3dW19ReQ9H8dF91HxCHCF3" who="i-N2PwTvXjXUdT9dRHeMawYq">
@@ -11830,7 +11830,7 @@
           till utskottets betänkande uttalade åsigt, såsom innefattande
           fullkomligt rättvisa anspråk.
         </note>
-        <note xml:id="i-3unzbgp2XqfgVr43duTZ38" type="speaker" xml:lang="sv">
+        <note xml:id="i-3unzbgp2XqfgVr43duTZ38" xml:lang="sv" type="speaker">
           Herr Grundfeldt:
         </note>
         <u xml:id="i-KEazTDUjqmQujWmMEy2x78" who="i-KGaDYg8SvhTQwWAdJXsgTo">
@@ -11851,7 +11851,7 @@
             att sådant måtte ske.
           </seg>
         </u>
-        <note xml:id="i-973HYjM8GZC5XpQjFBG8M2" type="speaker" xml:lang="sv">
+        <note xml:id="i-973HYjM8GZC5XpQjFBG8M2" xml:lang="sv" type="speaker">
           Herr Lindegvist:
         </note>
         <u xml:id="i-J4GV7vqi6m4xfpZ2o4sZZ6" who="unknown">
@@ -11901,7 +11901,7 @@
           syfte samt inbjuda de öfriga ständen att deri deltaga. Jag tror,
           att medständen skola förena sig i en dylik petition.
         </note>
-        <note xml:id="i-NSATFhdKgs5L7XxJA7Yg7V" type="speaker" xml:lang="sv">
+        <note xml:id="i-NSATFhdKgs5L7XxJA7Yg7V" xml:lang="sv" type="speaker">
           Herr Rosenius:
         </note>
         <u xml:id="i-F5Hh3eAkMUp2fsrF2aRyb7" who="i-MMYT7XLX6YPQ7PudpmVcPj">
@@ -11954,7 +11954,7 @@
           stiga, och statsverket blefve sålunda fullt ersatt för den förlust,
           man emellertid befarar.
         </note>
-        <note xml:id="i-4jCACHGFg57iDsz8v6uCpM" type="speaker" xml:lang="sv">
+        <note xml:id="i-4jCACHGFg57iDsz8v6uCpM" xml:lang="sv" type="speaker">
           Herr Öhrnberg:
         </note>
         <u xml:id="i-44VxkBTeafvjXjQsCn3z5P" who="i-QE8zNVMp9Xs7sAfD5qKxFo">
@@ -12042,7 +12042,7 @@
         <note xml:id="i-5TNBFbVfpkqh2qpXd3hNnS" xml:lang="sv">
           Borgareståndet. 1867. 14 Maj. 853
         </note>
-        <note xml:id="i-48ej311FPF1pKvyzKWzcde" type="speaker" xml:lang="sv">
+        <note xml:id="i-48ej311FPF1pKvyzKWzcde" xml:lang="sv" type="speaker">
           Herr Lindegvist:
         </note>
         <u xml:id="i-2m5gVHE4WDCdsY42FG7VTc" who="unknown">
@@ -12052,7 +12052,7 @@
             af dessa afgifter, sädant det i hans reservation finnes upptaget.
           </seg>
         </u>
-        <note xml:id="i-HcMVZBshDh62xpEg7j39DK" type="speaker" xml:lang="sv">
+        <note xml:id="i-HcMVZBshDh62xpEg7j39DK" xml:lang="sv" type="speaker">
           Herr Rosenius:
         </note>
         <u xml:id="i-UFgmWH9q2gcwzDS3wLXdDd" who="i-MMYT7XLX6YPQ7PudpmVcPj">
@@ -12075,7 +12075,7 @@
             om der behöfves nägon hjelp, det har härtills icke aktats nödigt.
           </seg>
         </u>
-        <note xml:id="i-UR2WKud1tzFQUYEfNEVJM5" type="speaker" xml:lang="unknown">
+        <note xml:id="i-UR2WKud1tzFQUYEfNEVJM5" xml:lang="unknown" type="speaker">
           Herr Wolff:
         </note>
         <u xml:id="i-QoN3LApCk8FidVJa2EdSS2" who="i-2PT41UyWuKo4xm1qXeaPnb">
@@ -12098,7 +12098,7 @@
           dessa afgifter blefve borttagna, finge kronan köpare till sina
           skogsalster.
         </note>
-        <note xml:id="i-V97NvGiFubJRJvhHEfrhLM" type="speaker" xml:lang="sv">
+        <note xml:id="i-V97NvGiFubJRJvhHEfrhLM" xml:lang="sv" type="speaker">
           Herr Bergh:
         </note>
         <u xml:id="i-XCGS61LZwB9MStyuv5fS1h" who="i-N2PwTvXjXUdT9dRHeMawYq">
@@ -12194,7 +12194,7 @@
           Efter uppläsandet af protokolls utdraget i sistnämnde fräga begärdes
           ordet af:
         </note>
-        <note xml:id="i-KmqjDBPU42YCrELayEARt4" type="speaker" xml:lang="sv">
+        <note xml:id="i-KmqjDBPU42YCrELayEARt4" xml:lang="sv" type="speaker">
           Herr Wolff, som yttrade:
         </note>
         <u xml:id="i-KBAYEou4PGEU3idvb8e1YK" who="i-2PT41UyWuKo4xm1qXeaPnb">
@@ -12228,7 +12228,7 @@
           och nyttan af den föreslagna åtgärden, som i händelse petitionen
           hade utgått från ständerna i sin helhet.
         </note>
-        <note xml:id="i-QVjXxvEp8SXAQDhq7reXZK" type="speaker" xml:lang="sv">
+        <note xml:id="i-QVjXxvEp8SXAQDhq7reXZK" xml:lang="sv" type="speaker">
           Herr Bergh:
         </note>
         <u xml:id="i-QiQxdvsXkwQoZDWq7XHqnV" who="i-N2PwTvXjXUdT9dRHeMawYq">
@@ -12247,7 +12247,7 @@
         <note xml:id="i-7ds6j2yH1Wv3DZBuewVnaE" xml:lang="sv">
           Herr Mustonen instämde med Herr Bergh.
         </note>
-        <note xml:id="i-NzUFKJXeb6XS11WbVhtNsJ" type="speaker" xml:lang="sv">
+        <note xml:id="i-NzUFKJXeb6XS11WbVhtNsJ" xml:lang="sv" type="speaker">
           Herr Öhrnberg:
         </note>
         <u xml:id="i-7nECHrEiDLdcVzGcJXjbYe" who="i-QE8zNVMp9Xs7sAfD5qKxFo">
@@ -12315,7 +12315,7 @@
           i landet; och föranledde betänkandet till följande diskussion
           :
         </note>
-        <note xml:id="i-GFukh1WcorVsFZgPtqmXfR" type="speaker" xml:lang="sv">
+        <note xml:id="i-GFukh1WcorVsFZgPtqmXfR" xml:lang="sv" type="speaker">
           Herr Bronikowskij:
         </note>
         <u xml:id="i-WP9gYS5s5pt1JdkHPq34UZ" who="unknown">
@@ -12359,7 +12359,7 @@
           betänkande föreslår. För min del tager jag mig således friheten
           hemställa, om icke berörde alternativ kunde af ståndet godkännas.
         </note>
-        <note xml:id="i-8P8AQTHSsMwydv3asQnZbs" type="speaker" xml:lang="sv">
+        <note xml:id="i-8P8AQTHSsMwydv3asQnZbs" xml:lang="sv" type="speaker">
           Herr Lindegvist:
         </note>
         <u xml:id="i-YAHxheTJAxJPEdfZcpWhFB" who="unknown">
@@ -12390,7 +12390,7 @@
             af värt undervisningsväsende vore taget.
           </seg>
         </u>
-        <note xml:id="i-2V8XBciGcK2MgrooRn2dYn" type="speaker" xml:lang="sv">
+        <note xml:id="i-2V8XBciGcK2MgrooRn2dYn" xml:lang="sv" type="speaker">
           Herr Lindblom:
         </note>
         <u xml:id="i-N8ZzeHxzsyK3ZYzNvDkNrJ" who="i-XW5vSkDhiDBuTQzpqfPxmM">
@@ -12410,7 +12410,7 @@
         <note xml:id="i-Dv3znH4G6wgY8d6bGypN5T" xml:lang="sv">
           Borgareständet. 1867. 15 Maj. 859
         </note>
-        <note xml:id="i-7rhTpPGZ4TWiSoMTdvn9WU" type="speaker" xml:lang="sv">
+        <note xml:id="i-7rhTpPGZ4TWiSoMTdvn9WU" xml:lang="sv" type="speaker">
           Herr Öhrnberg:
         </note>
         <u xml:id="i-AcBDT53Nmwg3r8xud1qYCE" who="i-QE8zNVMp9Xs7sAfD5qKxFo">
@@ -12454,7 +12454,7 @@
             alternativ i denna del har förtjensten af.
           </seg>
         </u>
-        <note xml:id="i-J4NMGeDUyzP45Zrczh1MDU" type="speaker" xml:lang="sv">
+        <note xml:id="i-J4NMGeDUyzP45Zrczh1MDU" xml:lang="sv" type="speaker">
           Herr Rosenius:
         </note>
         <u xml:id="i-6kXZKh4k4HQ4HnRNjufpZC" who="i-MMYT7XLX6YPQ7PudpmVcPj">
@@ -12498,7 +12498,7 @@
           med deras anställning vinnes, så att verklig kunskap och verklig
           bildning måtte eleverne i landets skolor bibringas.
         </note>
-        <note xml:id="i-UNU2m3vFY4NjqrvuEuFxLK" type="speaker" xml:lang="sv">
+        <note xml:id="i-UNU2m3vFY4NjqrvuEuFxLK" xml:lang="sv" type="speaker">
           Herr Snellman:
         </note>
         <u xml:id="i-KwdSfZ4i3p3C9p3LNH2CUo" who="i-Hc9XMkGEjEESuFdWzXy4JT">
@@ -12525,7 +12525,7 @@
             svar framhållas såsom värd regeringens uppmärksamhet.
           </seg>
         </u>
-        <note xml:id="i-VvNEPMBGV4xVJAFHBYtkTH" type="speaker" xml:lang="sv">
+        <note xml:id="i-VvNEPMBGV4xVJAFHBYtkTH" xml:lang="sv" type="speaker">
           Herr Lindeq vist:
         </note>
         <u xml:id="i-EcMTqJJBe8znymbQh3Ttko" who="i-GGBAD7iX8fRMidLfwkuf4H">
@@ -12542,7 +12542,7 @@
         <note xml:id="i-29DgAmBvahusTMESPkhSYb" xml:lang="sv">
           Borgareständet. 1867. 15 Maj. 861
         </note>
-        <note xml:id="i-K2b1K98FPX4Ru7GtKKucxX" type="speaker" xml:lang="sv">
+        <note xml:id="i-K2b1K98FPX4Ru7GtKKucxX" xml:lang="sv" type="speaker">
           Herr Krank:
         </note>
         <u xml:id="i-C3Zs1AJkWJqv53sLCYTUSm" who="i-2v1sP1pTkv6wpgJSg3UXcQ">
@@ -12564,7 +12564,7 @@
             förenar jag mig med Herr Ohrnberg.
           </seg>
         </u>
-        <note xml:id="i-FA43sijCVgtpMzUySNYsDC" type="speaker" xml:lang="sv">
+        <note xml:id="i-FA43sijCVgtpMzUySNYsDC" xml:lang="sv" type="speaker">
           Herr Granström:
         </note>
         <u xml:id="i-XNX5dDSN5MmfX58Dba9k4Y" who="i-RLK2wujPko39urNNKUwfR1">
@@ -12582,7 +12582,7 @@
             bör åtnjuta befrielse.
           </seg>
         </u>
-        <note xml:id="i-XwRiSvthBxRtwRGosdhkv9" type="speaker" xml:lang="sv">
+        <note xml:id="i-XwRiSvthBxRtwRGosdhkv9" xml:lang="sv" type="speaker">
           Herr Mustonen:
         </note>
         <u xml:id="i-V8TfQKeQ2rMhZwGHHpfLi7" who="i-QmDvF6akeQRHNrBxFgwyU3">
@@ -12731,7 +12731,7 @@
         <note xml:id="i-GDHBYvacy4Mq3Yp8wkGxUt" xml:lang="sv">
           864 Borgareständet. 1867. 15 Maj.
         </note>
-        <note xml:id="i-L5GnyWEagPtNwKMue5yc9o" type="speaker" xml:lang="sv">
+        <note xml:id="i-L5GnyWEagPtNwKMue5yc9o" xml:lang="sv" type="speaker">
           Herr Krank:
         </note>
         <u xml:id="i-TP9LgteBTP3SKrugT9NGsR" who="i-2v1sP1pTkv6wpgJSg3UXcQ">
@@ -12855,7 +12855,7 @@
           till kusten. På grund af det anförda tager jag mig friheten föreslå
           förkastande af denna petition.
         </note>
-        <note xml:id="i-2bdUfBntaHJtQhm9eeVt3T" type="speaker" xml:lang="sv">
+        <note xml:id="i-2bdUfBntaHJtQhm9eeVt3T" xml:lang="sv" type="speaker">
           Herr Krank:
         </note>
         <u xml:id="i-CpUPUKTKrrPCh64vguvaf6" who="i-2v1sP1pTkv6wpgJSg3UXcQ">
@@ -12881,7 +12881,7 @@
             deraf, erhållit jernväg och nästan allt hvad de begärt.
           </seg>
         </u>
-        <note xml:id="i-25mYWAEah2MEVgQZiCsn3b" type="speaker" xml:lang="sv">
+        <note xml:id="i-25mYWAEah2MEVgQZiCsn3b" xml:lang="sv" type="speaker">
           Herr Grundfeldt:
         </note>
         <u xml:id="i-48jpqrAqWASkq1gFNwprXj" who="i-KGaDYg8SvhTQwWAdJXsgTo">
@@ -12893,7 +12893,7 @@
           Herr Lindblom: för att ej onödigtvis förlänga diskussionen ber
           jag endast att få förena mig med de talare, som afstyrkt petitionsförslaget.
         </note>
-        <note xml:id="i-14AACBdrfCC7XMZ8yrC4zR" type="speaker" xml:lang="sv">
+        <note xml:id="i-14AACBdrfCC7XMZ8yrC4zR" xml:lang="sv" type="speaker">
           Herr Lindeqvist:
         </note>
         <u xml:id="i-Jca7pQurUVR3ZkanZruoGR" who="i-GGBAD7iX8fRMidLfwkuf4H">
@@ -12916,7 +12916,7 @@
           såvidt tatsverkets tillgångar sådant medgifva, tillstyrker jag
           bifall till 1ans anhållan.
         </note>
-        <note xml:id="i-UwsjkgbuGtJar59QuKuLci" type="speaker" xml:lang="sv">
+        <note xml:id="i-UwsjkgbuGtJar59QuKuLci" xml:lang="sv" type="speaker">
           Herr Östring:
         </note>
         <u xml:id="i-Wf54r9ZtB8UKLHNxSuJnqJ" who="i-5r31KKuptPPS63eWzMAseL">
@@ -12946,7 +12946,7 @@
           för Kalkis kanal ensamt, hvarom nu är fråga, ej kan stiga stort
           öfver hälften af berörda summa.
         </note>
-        <note xml:id="i-89W8yYZBaMMpGn2Y8B4WZ5" type="speaker" xml:lang="sv">
+        <note xml:id="i-89W8yYZBaMMpGn2Y8B4WZ5" xml:lang="sv" type="speaker">
           Herr Östring:
         </note>
         <u xml:id="i-UegWY6YfKhv3cWEYeJZs7t" who="i-5r31KKuptPPS63eWzMAseL">
@@ -13070,7 +13070,7 @@
           Emedan berörda protokollsutdrag icke föranledde till nägon vidare
           åtgärd skulle desamma ur diariet aflöras.
         </note>
-        <note xml:id="i-TzpoRrqKuRm8di5iHmymso" type="speaker" xml:lang="sv">
+        <note xml:id="i-TzpoRrqKuRm8di5iHmymso" xml:lang="sv" type="speaker">
           Herr Malm begärde härä ordet och yttrade:
         </note>
         <u xml:id="i-8CaYB868CxqHuMNhBQ75yV" who="i-M3vdGvw9iDEMvMQ8z7ckwG">
@@ -13133,7 +13133,7 @@
           än de öfriga stånden, hvarföre en påminnelse härom borde till
           vederbörande afgå.
         </note>
-        <note xml:id="i-XxdHaP95nbewUL8sFBAyQK" type="speaker" xml:lang="sv">
+        <note xml:id="i-XxdHaP95nbewUL8sFBAyQK" xml:lang="sv" type="speaker">
           Herr Snellman:
         </note>
         <u xml:id="i-PeJaxVayXHBsjzEWmZ2yhv" who="i-Hc9XMkGEjEESuFdWzXy4JT">
@@ -13165,7 +13165,7 @@
           Herrar kommerserådet Malm, vice konsuln Lindblom och konsuln Rosenius.
           N
         </note>
-        <note xml:id="i-4NzPRpvx28Gzu37XqdYsEo" type="speaker" xml:lang="sv">
+        <note xml:id="i-4NzPRpvx28Gzu37XqdYsEo" xml:lang="sv" type="speaker">
           Herr Wolff begärde ordet och yttrade:
         </note>
         <u xml:id="i-SsvhnmcRunwaP7qL5Y7iWk" who="i-2PT41UyWuKo4xm1qXeaPnb">
@@ -13197,7 +13197,7 @@
           Vid i anledning häraf uppkommen diskussion yttrade sig nedannämnde
           ledamöter:
         </note>
-        <note xml:id="i-3x7xz5RKoFLWr1MzixKN2Z" type="speaker" xml:lang="sv">
+        <note xml:id="i-3x7xz5RKoFLWr1MzixKN2Z" xml:lang="sv" type="speaker">
           Herr Lindeqvist:
         </note>
         <u xml:id="i-Py5Q9EhW7DPprt98TRDj89" who="i-GGBAD7iX8fRMidLfwkuf4H">
@@ -13312,7 +13312,7 @@
           dess andel i kostnaden belöpa sig till omkring etthundra mark,
           mot hvilket belopp den egde dä valuta i de tryckta protokollerna.
         </note>
-        <note xml:id="i-MorV2ovXtKABVLFTxMvHGt" type="speaker" xml:lang="unknown">
+        <note xml:id="i-MorV2ovXtKABVLFTxMvHGt" xml:lang="unknown" type="speaker">
           Herr Wolff:
         </note>
         <u xml:id="i-ETDxvEiNBJLJkR3K37LEqw" who="i-2PT41UyWuKo4xm1qXeaPnb">
@@ -13338,7 +13338,7 @@
           upprepa, att det icke är af egenkärlek, men väl af verkligen
           giltiga skäl, som jag yrkat derpä.
         </note>
-        <note xml:id="i-CT5pRhRC7jJ3LFWPN8Kdn9" type="speaker" xml:lang="sv">
+        <note xml:id="i-CT5pRhRC7jJ3LFWPN8Kdn9" xml:lang="sv" type="speaker">
           Herr Lindegvist:
         </note>
         <u xml:id="i-JsfmHTjA6TYD5Rz8qGLjjw" who="unknown">
@@ -13358,7 +13358,7 @@
             må till bättre tider anstå.
           </seg>
         </u>
-        <note xml:id="i-Bi3mHU3qsQ2awynSqKf1qo" type="speaker" xml:lang="sv">
+        <note xml:id="i-Bi3mHU3qsQ2awynSqKf1qo" xml:lang="sv" type="speaker">
           Herr Malm:
         </note>
         <u xml:id="i-Kcg2Nm3J6ZhK7zQ4rLxJjh" who="i-M3vdGvw9iDEMvMQ8z7ckwG">
@@ -13392,7 +13392,7 @@
           och ständernas svar, så är det fullkomligen onödigt att låta trycka
           protokollerna.
         </note>
-        <note xml:id="i-KUpjEpYJXABmqnykaYVrgc" type="speaker" xml:lang="sv">
+        <note xml:id="i-KUpjEpYJXABmqnykaYVrgc" xml:lang="sv" type="speaker">
           Herr Öhrnberg:
         </note>
         <u xml:id="i-YHHcjukb4dsWNT7DE1gAM5" who="i-QE8zNVMp9Xs7sAfD5qKxFo">
@@ -13415,7 +13415,7 @@
           att de lemna honom tillfälle att taga kännedom om landtdagsmännens
           äsigter, sävidt de kunna inhemtas ur ständets protokoller.
         </note>
-        <note xml:id="i-4tvArmiVtFiGRdVSc2mvcd" type="speaker" xml:lang="sv">
+        <note xml:id="i-4tvArmiVtFiGRdVSc2mvcd" xml:lang="sv" type="speaker">
           Herr Grundfeldt:
         </note>
         <u xml:id="i-MLxuCtp4bhh9dfewVis67F" who="i-KGaDYg8SvhTQwWAdJXsgTo">
@@ -13428,7 +13428,7 @@
             ehuru jag för min enskilda del icke skulle göra det.
           </seg>
         </u>
-        <note xml:id="i-9fompuczXXSnGkPdC3qita" type="speaker" xml:lang="sv">
+        <note xml:id="i-9fompuczXXSnGkPdC3qita" xml:lang="sv" type="speaker">
           Herr Snellman:
         </note>
         <u xml:id="i-2zn4KtpnMKXyzLxEnDF8qK" who="i-Hc9XMkGEjEESuFdWzXy4JT">
@@ -13445,7 +13445,7 @@
             tryckning.
           </seg>
         </u>
-        <note xml:id="i-BDVFEwoxi9p7Bz3mfaV3r2" type="speaker" xml:lang="sv">
+        <note xml:id="i-BDVFEwoxi9p7Bz3mfaV3r2" xml:lang="sv" type="speaker">
           Herr Cederman:
         </note>
         <u xml:id="i-CymEWwG397FUFt4v9z5JtX" who="i-UeTxv9rgAELGir3fWfG4jh">
@@ -13487,7 +13487,7 @@
           icke nägot omdöme derpä kan byggas. Jag förordar derföre pä det
           varmaste, att äfven diskussionerna mä tryckas.
         </note>
-        <note xml:id="i-XM24e4bTQqvZ2PmsegA5c8" type="speaker" xml:lang="sv">
+        <note xml:id="i-XM24e4bTQqvZ2PmsegA5c8" xml:lang="sv" type="speaker">
           Herr Talmannen:
         </note>
         <u xml:id="i-CjnaVdCT68MC5TaCGbcU6U" who="unknown">
@@ -13518,7 +13518,7 @@
           borgerskap att mästa deltaga i kostnaden för tryckningen af protokollerna,
           hvaraf det icke har nägon nytta.
         </note>
-        <note xml:id="i-J5jQNpuMnZDNKEN8thhvct" type="speaker" xml:lang="sv">
+        <note xml:id="i-J5jQNpuMnZDNKEN8thhvct" xml:lang="sv" type="speaker">
           Herr Lindegvist:
         </note>
         <u xml:id="i-Jzx2LTKikKV55W1WXyd7Bp" who="unknown">
@@ -13560,7 +13560,7 @@
           icke åtminstone protokollerna skulle renskrifvas och ett register
           eller innehålls förteckning till desamma uppgöras.
         </note>
-        <note xml:id="i-WUGQLbU72PDiNYRrj7FNmN" type="speaker" xml:lang="sv">
+        <note xml:id="i-WUGQLbU72PDiNYRrj7FNmN" xml:lang="sv" type="speaker">
           I anledning häraf begärde Herr Bergh ordet och yttrade:
         </note>
         <u xml:id="i-3J45a3BhnXGjdpDmLy2y7J" who="i-N2PwTvXjXUdT9dRHeMawYq">
@@ -13602,7 +13602,7 @@
           så litet som en enda rad. Detta är icke för mycket begärdt, ty
           en sådan rättighet har man redan förut.
         </note>
-        <note xml:id="i-Mjz5QMQGfnbHGkJ3TKRrqj" type="speaker" xml:lang="sv">
+        <note xml:id="i-Mjz5QMQGfnbHGkJ3TKRrqj" xml:lang="sv" type="speaker">
           Herr Bergh:
         </note>
         <u xml:id="i-Lq4Z3dbChgX4Ra4RnYhj7v" who="i-N2PwTvXjXUdT9dRHeMawYq">
@@ -13725,7 +13725,7 @@
           afsägelse nytt förslag till besättande af ifrågavarande befattning
           borde af de utsedde elektorerne uppgöras.
         </note>
-        <note xml:id="i-Ym8WuREhxecyfSt2AtS7c" type="speaker" xml:lang="sv">
+        <note xml:id="i-Ym8WuREhxecyfSt2AtS7c" xml:lang="sv" type="speaker">
           Herr Rosenius yttrade:
         </note>
         <u xml:id="i-UbbouyThxDKSXbb9ZXGiS5" who="i-MMYT7XLX6YPQ7PudpmVcPj">
@@ -13759,7 +13759,7 @@
           är talrikare än Borgareståndet och det har visat sig der att val
           kunnat ske utan elektorer.
         </note>
-        <note xml:id="i-XUJ9aLDRLSae1BZj5NZeTY" type="speaker" xml:lang="sv">
+        <note xml:id="i-XUJ9aLDRLSae1BZj5NZeTY" xml:lang="sv" type="speaker">
           Herr Lindeqvist:
         </note>
         <u xml:id="i-E1umYMZ57DfR9kpQyc3CU2" who="i-GGBAD7iX8fRMidLfwkuf4H">
@@ -13780,7 +13780,7 @@
           Herr Östring: förmälte äfven hans mening hafva varit att valet
           icke skulle ske genast.
         </note>
-        <note xml:id="i-Lve73CYrp3UaGpcXLPhTMV" type="speaker" xml:lang="sv">
+        <note xml:id="i-Lve73CYrp3UaGpcXLPhTMV" xml:lang="sv" type="speaker">
           Herr Öhrnberg:
         </note>
         <u xml:id="i-SqFkniaUEHQNj7GFfF6S5E" who="i-QE8zNVMp9Xs7sAfD5qKxFo">
@@ -13830,7 +13830,7 @@
           valsättet; och anser jag för min del att vid sådant förhållande
           äfven revisor och suppleanter borde väljas på samma sätt.
         </note>
-        <note xml:id="i-77zZCBfRMayANPDg4CQVdG" type="speaker" xml:lang="sv">
+        <note xml:id="i-77zZCBfRMayANPDg4CQVdG" xml:lang="sv" type="speaker">
           Herr Öhrnberg:
         </note>
         <u xml:id="i-Dhvx9r5Rg7DcknJ6GcQAkW" who="i-QE8zNVMp9Xs7sAfD5qKxFo">
@@ -13892,7 +13892,7 @@
           afträda icke förefinnas, än mindre någon anledning att tvinga
           honom dertill.
         </note>
-        <note xml:id="i-A71hbfo6CvqsoNyEANESpm" type="speaker" xml:lang="sv">
+        <note xml:id="i-A71hbfo6CvqsoNyEANESpm" xml:lang="sv" type="speaker">
           Herr Bronikowskij:
         </note>
         <u xml:id="i-7XCfmZBmcMsrc5m4gG4N9F" who="unknown">
@@ -13925,7 +13925,7 @@
           men sedan talaren numera erfarit sitt misstag, ville talaren
           frångå sin ofvangjorda framställning.
         </note>
-        <note xml:id="i-JEg5Xk47eg14UbVyp1XU2z" type="speaker" xml:lang="sv">
+        <note xml:id="i-JEg5Xk47eg14UbVyp1XU2z" xml:lang="sv" type="speaker">
           Herr Öhrnberg:
         </note>
         <u xml:id="i-7Mcum2SYmhne9wXQeYGkB1" who="i-QE8zNVMp9Xs7sAfD5qKxFo">
@@ -13971,7 +13971,7 @@
           och gästgifverierna samt väg- och brobyggnaden; hvilket betänkande
           föranledde till följande diskussion:
         </note>
-        <note xml:id="i-6V9nym1t9YtGTPHas64S57" type="speaker" xml:lang="sv">
+        <note xml:id="i-6V9nym1t9YtGTPHas64S57" xml:lang="sv" type="speaker">
           Herr Holm:
         </note>
         <u xml:id="i-KM5UkQTJCD86Q63b2h1MfM" who="i-8s1muuYkJkCuHXpZxcYW4y">
@@ -13995,7 +13995,7 @@
           icke Borgareståndet borde i likhet med desse förklara betänkandet
           ej kunna af ståndet bifallas.
         </note>
-        <note xml:id="i-Fnw4DanqRZ7DLTJi7PCtPa" type="speaker" xml:lang="sv">
+        <note xml:id="i-Fnw4DanqRZ7DLTJi7PCtPa" xml:lang="sv" type="speaker">
           Herr Östring:
         </note>
         <u xml:id="i-JdKWrEGAPGnQVsqbXSwZdW" who="i-5r31KKuptPPS63eWzMAseL">
@@ -14183,7 +14183,7 @@
           betänkande tillstyrka godkännande af den nådiga propositionen
           rörande $$ 1 och 2.
         </note>
-        <note xml:id="i-AQUKorYpJYfr5uHfVWpx9w" type="speaker" xml:lang="sv">
+        <note xml:id="i-AQUKorYpJYfr5uHfVWpx9w" xml:lang="sv" type="speaker">
           Herr Lindeqvist:
         </note>
         <u xml:id="i-E7d8YeqyTsJj1DR5vAr4e9" who="i-GGBAD7iX8fRMidLfwkuf4H">
@@ -14263,7 +14263,7 @@
         <note xml:id="i-CF3ZpYS5AX2ngHobHxazcG" xml:lang="sv">
           Inledningen.
         </note>
-        <note xml:id="i-Ly482PYDYbc1DYs1vmwbsf" type="speaker" xml:lang="sv">
+        <note xml:id="i-Ly482PYDYbc1DYs1vmwbsf" xml:lang="sv" type="speaker">
           Herr Östring:
         </note>
         <u xml:id="i-V2fiCw1kUTtVwqVZwQ3LMc" who="i-5r31KKuptPPS63eWzMAseL">
@@ -14289,7 +14289,7 @@
         <note xml:id="i-PDmohT5epNaJ4jj3R2UQg4" xml:lang="sv">
           $1
         </note>
-        <note xml:id="i-TJVFkaTggj9wLejaP5MRam" type="speaker" xml:lang="sv">
+        <note xml:id="i-TJVFkaTggj9wLejaP5MRam" xml:lang="sv" type="speaker">
           Herr Holm:
         </note>
         <u xml:id="i-J9K7QQtQcZ1xbedh6dwcEr" who="i-8s1muuYkJkCuHXpZxcYW4y">
@@ -14305,7 +14305,7 @@
             antaga samma redaktion.
           </seg>
         </u>
-        <note xml:id="i-S9bLV7owCNp8xezx2jLPiR" type="speaker" xml:lang="sv">
+        <note xml:id="i-S9bLV7owCNp8xezx2jLPiR" xml:lang="sv" type="speaker">
           Herr Östring:
         </note>
         <u xml:id="i-VzV2BtSDSErwiyaPx4X9eH" who="i-5r31KKuptPPS63eWzMAseL">
@@ -14350,7 +14350,7 @@
           erhållas pä landet, sedan denna rörelse redan genom medicinaltaxans
           nedsättning lidit betydligt afbräck.
         </note>
-        <note xml:id="i-72fzEsrPwV9g3fMKc5qboT" type="speaker" xml:lang="sv">
+        <note xml:id="i-72fzEsrPwV9g3fMKc5qboT" xml:lang="sv" type="speaker">
           Herr Bronikowskij:
         </note>
         <u xml:id="i-AMqmsFouZcJss1guPoVkvX" who="unknown">
@@ -14383,7 +14383,7 @@
           tills de $8 i författningsförslaget, der sjelfva principen tillämpats,
           komme under pröfning.
         </note>
-        <note xml:id="i-MZuYg4Yb2d8p5SBiTGGknT" type="speaker" xml:lang="sv">
+        <note xml:id="i-MZuYg4Yb2d8p5SBiTGGknT" xml:lang="sv" type="speaker">
           Herr Öhrnberg:
         </note>
         <u xml:id="i-N8DdY3dpAuBUDBPtNRCrXZ" who="i-QE8zNVMp9Xs7sAfD5qKxFo">
@@ -14482,7 +14482,7 @@
           apotekare och handlande å landet måtte från antalet af skjutsningsskyldige
           uteslutas.
         </note>
-        <note xml:id="i-HZE7FPkjzh6VmXQZm7G7Yk" type="speaker" xml:lang="sv">
+        <note xml:id="i-HZE7FPkjzh6VmXQZm7G7Yk" xml:lang="sv" type="speaker">
           Herr Snellman:
         </note>
         <u xml:id="i-JyXG8KztA8mcYqouHbp29F" who="i-Hc9XMkGEjEESuFdWzXy4JT">
@@ -14610,7 +14610,7 @@
           utgörande. Jag föreslår således att mom. 2 i förenämnde $ måtte
           erhålla den lydelse det har i propositionen.
         </note>
-        <note xml:id="i-TujnxVA7fRkzTxxQMyhWCh" type="speaker" xml:lang="sv">
+        <note xml:id="i-TujnxVA7fRkzTxxQMyhWCh" xml:lang="sv" type="speaker">
           Herr Östring:
         </note>
         <u xml:id="i-3WcXsyzWQEdz63V4YXjRr3" who="i-5r31KKuptPPS63eWzMAseL">
@@ -14827,7 +14827,7 @@
           derå uppfört Herr Hofrättsassessorn Öhrnberg, Herr kommerserådet
           Sundman och ståndets sekreterare, protokollssekreteraren Calamnius.
         </note>
-        <note xml:id="i-WtfoabR8VGzPYSr2HMqL2c" type="speaker" xml:lang="sv">
+        <note xml:id="i-WtfoabR8VGzPYSr2HMqL2c" xml:lang="sv" type="speaker">
           Herr Östring begärde ordet och yttrade:
         </note>
         <u xml:id="i-4EN6UTCoJJJXBdyu8sXrPC" who="i-5r31KKuptPPS63eWzMAseL">
@@ -14846,7 +14846,7 @@
           8 och Herr Sundman 1 röst; till följe hvaraf Herr Öhrnberg förklarades
           vara af ståndet till dess bankfullmäktig utsedd.
         </note>
-        <note xml:id="i-H9Gg7aSBTv4y7duyPNs3bw" type="speaker" xml:lang="sv">
+        <note xml:id="i-H9Gg7aSBTv4y7duyPNs3bw" xml:lang="sv" type="speaker">
           Härå erhöll Herr Öhrnberg ordet och anförde:
         </note>
         <u xml:id="i-VZqfhgFjC7ur3fksJHZdp5" who="i-QE8zNVMp9Xs7sAfD5qKxFo">
@@ -15013,7 +15013,7 @@
           förmå mig att återtaga mina ord. Det är bäst, att Herrar elektorer
           skrida till upprättande af nytt förslag.
         </note>
-        <note xml:id="i-KpoRamUHjUpJ2FSJZEey87" type="speaker" xml:lang="sv">
+        <note xml:id="i-KpoRamUHjUpJ2FSJZEey87" xml:lang="sv" type="speaker">
           Herr Talmannen:
         </note>
         <u xml:id="i-EJCjPLPY8AU8ZXG3ivY5yW" who="unknown">
@@ -15027,7 +15027,7 @@
           Härå afträdde elektorerne i afskildt rum och sessionen ajournerades
           på en stund; hvarefter elektorerne återkommo och
         </note>
-        <note xml:id="i-W4ogMiMUq3GpqvgPxcabcM" type="speaker" xml:lang="sv">
+        <note xml:id="i-W4ogMiMUq3GpqvgPxcabcM" xml:lang="sv" type="speaker">
           Herr Malm anförde:
         </note>
         <u xml:id="i-NDZEiiMGbNWzbi9YDwD11P" who="i-M3vdGvw9iDEMvMQ8z7ckwG">
@@ -15128,7 +15128,7 @@
           med första alternativet till grund. Finner utskottet anledning
           att föreslå vidare sammanjemkning; så står det utskottet fritt.
         </note>
-        <note xml:id="i-BvTu2gvAe1WC3PujX54M9g" type="speaker" xml:lang="sv">
+        <note xml:id="i-BvTu2gvAe1WC3PujX54M9g" xml:lang="sv" type="speaker">
           Herr Lindeqvist:
         </note>
         <u xml:id="i-WqvwskUTYdSEwyrmMPWfuG" who="i-GGBAD7iX8fRMidLfwkuf4H">
@@ -15187,7 +15187,7 @@
           slutet det, att några istadiga prester och bönder diktera ständernas
           beslut.
         </note>
-        <note xml:id="i-U55SFY5ntQLf7Ymk7ec3Eu" type="speaker" xml:lang="unknown">
+        <note xml:id="i-U55SFY5ntQLf7Ymk7ec3Eu" xml:lang="unknown" type="speaker">
           Herr Wolff:
         </note>
         <u xml:id="i-TWDqbE9UfugVLBaG2eHcqb" who="i-2PT41UyWuKo4xm1qXeaPnb">
@@ -15204,7 +15204,7 @@
             två onda ting välja det mindre skadliga.
           </seg>
         </u>
-        <note xml:id="i-P2GSizv4Knc4HD8mdTdBDh" type="speaker" xml:lang="sv">
+        <note xml:id="i-P2GSizv4Knc4HD8mdTdBDh" xml:lang="sv" type="speaker">
           Herr Snellman:
         </note>
         <u xml:id="i-X5TomLJ7ZxbYgFG6sfVkre" who="i-Hc9XMkGEjEESuFdWzXy4JT">
@@ -15247,7 +15247,7 @@
           det ståndet ville antaga det första alternativet, med den af mig
           nu föreslagna ändringen. Då skulle det kanske gå igenom.
         </note>
-        <note xml:id="i-XE9oAF8t28VKq6jKfYrVke" type="speaker" xml:lang="sv">
+        <note xml:id="i-XE9oAF8t28VKq6jKfYrVke" xml:lang="sv" type="speaker">
           Herr Öhrnberg:
         </note>
         <u xml:id="i-YavQQxBzxd7QPbjzW7epSH" who="i-QE8zNVMp9Xs7sAfD5qKxFo">
@@ -15307,7 +15307,7 @@
           händer det lätt, att man förlorar alltsammans. Det gäller nu att
           genom endrägt paralysera gensträfvigheten hos det fjerde ståndet.
         </note>
-        <note xml:id="i-Ggn7zwZYAP2KM2YaDh5ABP" type="speaker" xml:lang="sv">
+        <note xml:id="i-Ggn7zwZYAP2KM2YaDh5ABP" xml:lang="sv" type="speaker">
           Herr Lindeqvist:
         </note>
         <u xml:id="i-SxSpE8RYCWF1vYjMiPScfd" who="i-GGBAD7iX8fRMidLfwkuf4H">
@@ -15333,7 +15333,7 @@
             att qvarstå.
           </seg>
         </u>
-        <note xml:id="i-3uKKxziJmAVBFcB3Ld9ysi" type="speaker" xml:lang="sv">
+        <note xml:id="i-3uKKxziJmAVBFcB3Ld9ysi" xml:lang="sv" type="speaker">
           Herr Östring:
         </note>
         <u xml:id="i-RxygqQuaoZ9ssmpTNwGy5f" who="i-5r31KKuptPPS63eWzMAseL">
@@ -15372,7 +15372,7 @@
           att ståndet må frångå sitt förra beslut, samt att det förra alternativet
           lägges till grund för sammanjemkningen.
         </note>
-        <note xml:id="i-LvVZpMQfMLG365UGcMwc7T" type="speaker" xml:lang="sv">
+        <note xml:id="i-LvVZpMQfMLG365UGcMwc7T" xml:lang="sv" type="speaker">
           Herr Bronikowskij:
         </note>
         <u xml:id="i-AT5ZqCnWhX6uCYzngDZwnS" who="unknown">
@@ -15425,7 +15425,7 @@
           likväl borde bestämma, att förra alternativet skulle för frågans
           lösning läggas till grund, baserad på en bestämd skatt för tillverkningen.
         </note>
-        <note xml:id="i-813Et5RM6Qe9XcpDK6xuu6" type="speaker" xml:lang="sv">
+        <note xml:id="i-813Et5RM6Qe9XcpDK6xuu6" xml:lang="sv" type="speaker">
           Herr Snellman:
         </note>
         <u xml:id="i-15VUsArzzKioYPWsLyDvsz" who="i-Hc9XMkGEjEESuFdWzXy4JT">
@@ -15446,7 +15446,7 @@
             inbjudningen samt antaga det förra alternativet med jemkningar.
           </seg>
         </u>
-        <note xml:id="i-DFWfbPEpNDNkospJFbWNbd" type="speaker" xml:lang="sv">
+        <note xml:id="i-DFWfbPEpNDNkospJFbWNbd" xml:lang="sv" type="speaker">
           Herr Öhrnberg:
         </note>
         <u xml:id="i-FTcPgh3QTuHkr443gNx8DH" who="i-QE8zNVMp9Xs7sAfD5qKxFo">
@@ -15508,7 +15508,7 @@
           att det förra alternativet må läggas till grund för sammanjemkningen,
           med den bestämda skatten, som i samma alternativ är föreslagen.
         </note>
-        <note xml:id="i-TjbEFoGqthZ93NPaeM12DL" type="speaker" xml:lang="sv">
+        <note xml:id="i-TjbEFoGqthZ93NPaeM12DL" xml:lang="sv" type="speaker">
           Herr Granström:
         </note>
         <u xml:id="i-5jJ1a4KQvWDCkawFQH88Bg" who="i-RLK2wujPko39urNNKUwfR1">
@@ -15571,7 +15571,7 @@
           härmed föredrogs utdrag ur Bondeståndets protokoll för berörda
           dag, innehållande en inbjudning till Borgareståndet i samma syfte.
         </note>
-        <note xml:id="i-XKZ5ak3QbNJee4Wq3Fcp7u" type="speaker" xml:lang="sv">
+        <note xml:id="i-XKZ5ak3QbNJee4Wq3Fcp7u" xml:lang="sv" type="speaker">
           Herr Snellman begärde ordet och yttrade:
         </note>
         <u xml:id="i-3mJiuhKDrsckxUyxDto1C6" who="i-Hc9XMkGEjEESuFdWzXy4JT">
@@ -15585,7 +15585,7 @@
             sä behjertansvärda, att de icke borde kunna af ståndet afstyrkas.
           </seg>
         </u>
-        <note xml:id="i-PV3vi7tM4GhgnGrsskv1Yc" type="speaker" xml:lang="sv">
+        <note xml:id="i-PV3vi7tM4GhgnGrsskv1Yc" xml:lang="sv" type="speaker">
           Herr Lindeqvist:
         </note>
         <u xml:id="i-Pxqud5HMKEre8u5JSYthcB" who="i-GGBAD7iX8fRMidLfwkuf4H">
@@ -15836,7 +15836,7 @@
           kunde således derifrån utgå. För öfrigt förordar jag antagandet
           af det förra alternativet.
         </note>
-        <note xml:id="i-S2CEJUWAvkADkjihEToRwW" type="speaker" xml:lang="sv">
+        <note xml:id="i-S2CEJUWAvkADkjihEToRwW" xml:lang="sv" type="speaker">
           Herr Rosenius:
         </note>
         <u xml:id="i-UVn6E8tpx6EEPxF9yQYZqp" who="i-MMYT7XLX6YPQ7PudpmVcPj">
@@ -15862,7 +15862,7 @@
             komma att hållas, utan allt förblifver vid det gamla.
           </seg>
         </u>
-        <note xml:id="i-Arwe2zfaWwvfiKUeFBjey6" type="speaker" xml:lang="sv">
+        <note xml:id="i-Arwe2zfaWwvfiKUeFBjey6" xml:lang="sv" type="speaker">
           Herr Grundfeldt:
         </note>
         <u xml:id="i-DtGsXYdGw6BYwUWTQy123o" who="i-KGaDYg8SvhTQwWAdJXsgTo">
@@ -15970,7 +15970,7 @@
           så är jag öfvertygad, att guvernören då icke lemnar bifall till
           separation.
         </note>
-        <note xml:id="i-Cak7FLkRD3jda6iqa9vBJ4" type="speaker" xml:lang="sv">
+        <note xml:id="i-Cak7FLkRD3jda6iqa9vBJ4" xml:lang="sv" type="speaker">
           Herr Krank:
         </note>
         <u xml:id="i-EyJzGSgVFE5JC7XA7WFpxs" who="i-2v1sP1pTkv6wpgJSg3UXcQ">
@@ -15990,7 +15990,7 @@
             nådiga propositionen är att i detta fall föredragas.
           </seg>
         </u>
-        <note xml:id="i-HmMeARLLEjNmDrU6pEZgRe" type="speaker" xml:lang="sv">
+        <note xml:id="i-HmMeARLLEjNmDrU6pEZgRe" xml:lang="sv" type="speaker">
           Herr Östring:
         </note>
         <u xml:id="i-9QCQvnaKB3H7ykuaU2nr7J" who="i-5r31KKuptPPS63eWzMAseL">
@@ -16084,7 +16084,7 @@
         <note xml:id="i-JLsZrmgHFb534uVsQCzqek" xml:lang="sv">
           Härefter begärdes ordet af
         </note>
-        <note xml:id="i-CaYpsDR9uM11Gf3xAuobPJ" type="speaker" xml:lang="sv">
+        <note xml:id="i-CaYpsDR9uM11Gf3xAuobPJ" xml:lang="sv" type="speaker">
           Herr Öhrnberg:
         </note>
         <u xml:id="i-LtLNKuB8hTecQoYs2HMRZx" who="i-QE8zNVMp9Xs7sAfD5qKxFo">
@@ -16150,7 +16150,7 @@
         <note xml:id="i-XehRJc7grfRZYSQTpzkPEi" xml:lang="sv">
           Vidare föreföll inom ståndet följande diskussion:
         </note>
-        <note xml:id="i-2YE42oRzGMmQC5aixLnfiz" type="speaker" xml:lang="sv">
+        <note xml:id="i-2YE42oRzGMmQC5aixLnfiz" xml:lang="sv" type="speaker">
           Herr Östring:
         </note>
         <u xml:id="i-Hc1qq4zdQQVrwPxZpq9pp3" who="i-5r31KKuptPPS63eWzMAseL">
@@ -16202,7 +16202,7 @@
           blifvit osagda; men jag tager mig friheten vara af en annan åsigt.
           Jag anser bäst att de blifvit öppet uttalade.
         </note>
-        <note xml:id="i-XTL4ztmKRuUTxWHTqN82jy" type="speaker" xml:lang="sv">
+        <note xml:id="i-XTL4ztmKRuUTxWHTqN82jy" xml:lang="sv" type="speaker">
           Herr Lindeqvist:
         </note>
         <u xml:id="i-TESu2siyv3ChwrQ1QvJiP5" who="i-GGBAD7iX8fRMidLfwkuf4H">
@@ -16221,7 +16221,7 @@
             bekomma sig det ringaste, åtminstone är detta fallet med mig.
           </seg>
         </u>
-        <note xml:id="i-Qw2E8MafipiRyGkCtd9UnF" type="speaker" xml:lang="sv">
+        <note xml:id="i-Qw2E8MafipiRyGkCtd9UnF" xml:lang="sv" type="speaker">
           Herr Snellman:
         </note>
         <u xml:id="i-5uGeagLbJMVFxL8tcUxBS8" who="i-Hc9XMkGEjEESuFdWzXy4JT">
@@ -16284,7 +16284,7 @@
           N I öfverensstämmelse med valets utgång förklarades Herr Öhrnberg
           vara till ståndets bankfullmäktig utsedd.
         </note>
-        <note xml:id="i-TzzKuNt5vsT5c3YbhcUMKJ" type="speaker" xml:lang="sv">
+        <note xml:id="i-TzzKuNt5vsT5c3YbhcUMKJ" xml:lang="sv" type="speaker">
           Herr Öhrnberg erhöll härå ordet och yttrade:
         </note>
         <u xml:id="i-Uk47BoDgamjSVyKFTC4nh8" who="i-QE8zNVMp9Xs7sAfD5qKxFo">
@@ -16318,7 +16318,7 @@
           för ständet, hvarvid nedannämnde ständets medlemmar begärde ordet
           och yttrade sig pä sätt som följer:
         </note>
-        <note xml:id="i-KtHdHXo3c7osi7g6zBymuu" type="speaker" xml:lang="sv">
+        <note xml:id="i-KtHdHXo3c7osi7g6zBymuu" xml:lang="sv" type="speaker">
           Herr Lindegvist:
         </note>
         <u xml:id="i-2CQaAp9ePCBwzRx6HXMhB4" who="unknown">
@@ -16343,7 +16343,7 @@
           sig jemväl sine elektors befattningar, under äberopande af det
           skäl Herr Wolff anfört.
         </note>
-        <note xml:id="i-MZn4kJBYDtbtCxgvBryMyy" type="speaker" xml:lang="sv">
+        <note xml:id="i-MZn4kJBYDtbtCxgvBryMyy" xml:lang="sv" type="speaker">
           Herr Öhrnberg:
         </note>
         <u xml:id="i-LkK3aMNTYixWuFNxgiV3zC" who="i-QE8zNVMp9Xs7sAfD5qKxFo">
@@ -16398,7 +16398,7 @@
           fråga utsedde elektorerne, utan afseende å den gjorda afsägelsen,
           egde med denna befattning fortfara.
         </note>
-        <note xml:id="i-JWb9XbtfYUpBcudADQAdkw" type="speaker" xml:lang="sv">
+        <note xml:id="i-JWb9XbtfYUpBcudADQAdkw" xml:lang="sv" type="speaker">
           Herr Wolff, som härå erhöll ordet, yttrade:
         </note>
         <u xml:id="i-KaaWP7tTHJ3f3BSvogbPV7" who="i-2PT41UyWuKo4xm1qXeaPnb">
@@ -16411,7 +16411,7 @@
             tror mig vara berättigad att fordra skydd af ståndet.
           </seg>
         </u>
-        <note xml:id="i-5nMRXFj6vA1DfGEtishB8p" type="speaker" xml:lang="sv">
+        <note xml:id="i-5nMRXFj6vA1DfGEtishB8p" xml:lang="sv" type="speaker">
           Herr Östring erhöll härå ordet och utlät sig:
         </note>
         <u xml:id="i-7m7SCd6bc2bB61tQbNTsU6" who="i-5r31KKuptPPS63eWzMAseL">
@@ -17203,7 +17203,7 @@
           sig lega för flere hästar än hvarmed de färdats. På sådan grund
           anser jag den nu gällande skjutslegan vara alldeles tillräcklig.
         </note>
-        <note xml:id="i-VFjekdxwGf4d5HnQWbC5ss" type="speaker" xml:lang="sv">
+        <note xml:id="i-VFjekdxwGf4d5HnQWbC5ss" xml:lang="sv" type="speaker">
           Herr Grönholm:
         </note>
         <u xml:id="i-7ES8MMZuDEgRcrSEa6sfzL" who="i-PfNDvdPUw3V2yuQ3zFXWwn">
@@ -17248,7 +17248,7 @@
         <note xml:id="i-T17hLXE2ePAomPE4bedN2K" xml:lang="sv">
           Börgareståndet. 1867. 21 Maj. 939
         </note>
-        <note xml:id="i-K1NBtkoDLWFkx3C4bSngRJ" type="speaker" xml:lang="sv">
+        <note xml:id="i-K1NBtkoDLWFkx3C4bSngRJ" xml:lang="sv" type="speaker">
           Herr Rosenius:
         </note>
         <u xml:id="i-TDGF657w36pW21jL4nMBUM" who="i-MMYT7XLX6YPQ7PudpmVcPj">
@@ -17331,7 +17331,7 @@
           man icke skulle begagna sig af detta medel. De skäl Herr Rosenius
           anfört äro af ingen vigt.
         </note>
-        <note xml:id="i-YAtooSdDyUiWA6XVZ1WwFB" type="speaker" xml:lang="sv">
+        <note xml:id="i-YAtooSdDyUiWA6XVZ1WwFB" xml:lang="sv" type="speaker">
           Herr Rosenius:
         </note>
         <u xml:id="i-R3wcm6sBitSDn9RogxKrb6" who="i-MMYT7XLX6YPQ7PudpmVcPj">
@@ -17347,7 +17347,7 @@
             förhöjningen. Jag finner Herr Östrings inkast alldeles öfverflödigt.
           </seg>
         </u>
-        <note xml:id="i-BQiBeCv55d86VFbbDQ9ed7" type="speaker" xml:lang="sv">
+        <note xml:id="i-BQiBeCv55d86VFbbDQ9ed7" xml:lang="sv" type="speaker">
           Herr Mustonen:
         </note>
         <u xml:id="i-MyZBVvoP36KdrNRx7mTvyE" who="i-QmDvF6akeQRHNrBxFgwyU3">
@@ -17361,7 +17361,7 @@
             allt arbete fallit med ungefär hälften af dess förra pris.
           </seg>
         </u>
-        <note xml:id="i-Y1C2iiJ44XGzieWPj3qms5" type="speaker" xml:lang="sv">
+        <note xml:id="i-Y1C2iiJ44XGzieWPj3qms5" xml:lang="sv" type="speaker">
           Herr Öhrnberg:
         </note>
         <u xml:id="i-JJeaKitrMYJkUJBmeLtSKn" who="i-QE8zNVMp9Xs7sAfD5qKxFo">
@@ -17459,7 +17459,7 @@
           lika som för den första eller till tjugu lispund och tillstyrker
           derföre ständet att biträda utskottets förstberörda äsigt.
         </note>
-        <note xml:id="i-Qqe8fWprF1e2MLevkhFFAK" type="speaker" xml:lang="sv">
+        <note xml:id="i-Qqe8fWprF1e2MLevkhFFAK" xml:lang="sv" type="speaker">
           Herr Östring:
         </note>
         <u xml:id="i-ApGEmJqStYSvBDGpVkWwiX" who="i-5r31KKuptPPS63eWzMAseL">
@@ -17637,7 +17637,7 @@
         <note xml:id="i-MrvqLntq8iM8WZmfbQG4Qf" xml:lang="sv">
           Herr Ahlberg förenade sig med Herr Snellman.
         </note>
-        <note xml:id="i-CXTeZFmKmkvpCj27GHkZfK" type="speaker" xml:lang="sv">
+        <note xml:id="i-CXTeZFmKmkvpCj27GHkZfK" xml:lang="sv" type="speaker">
           Herr Öhrnberg:
         </note>
         <u xml:id="i-N8Cd25FwtPme8ZL6ysczJu" who="i-QE8zNVMp9Xs7sAfD5qKxFo">
@@ -17693,7 +17693,7 @@
           ens antydas här. Jag tillstyrker derföre bifall till utskottets
           betänkande.
         </note>
-        <note xml:id="i-7EfWg3pQ3mL1YZhpdgWHVm" type="speaker" xml:lang="sv">
+        <note xml:id="i-7EfWg3pQ3mL1YZhpdgWHVm" xml:lang="sv" type="speaker">
           Herr Rosenius:
         </note>
         <u xml:id="i-KvPXTp2F4bnUBrGTwDmXNx" who="i-MMYT7XLX6YPQ7PudpmVcPj">
@@ -17722,7 +17722,7 @@
           ståndets bifall, att till undvikande af hvarje missförstånd i
           momentet åtminstone måtte införas ordet , tillsvidare".
         </note>
-        <note xml:id="i-4e75wCB8ArVKb6v7bL95qH" type="speaker" xml:lang="sv">
+        <note xml:id="i-4e75wCB8ArVKb6v7bL95qH" xml:lang="sv" type="speaker">
           Herr Bronikowskij:
         </note>
         <u xml:id="i-LtfrT8y9T41Jd9XHVSbbE4" who="unknown">
@@ -17849,7 +17849,7 @@
           den fordrade reparationskostnaden derä nedlagts, blifva i sanning
           de vägabyggnadsskyldige ganska illa utsatte.
         </note>
-        <note xml:id="i-87cSYRfDgNcaZAZCEza1sj" type="speaker" xml:lang="sv">
+        <note xml:id="i-87cSYRfDgNcaZAZCEza1sj" xml:lang="sv" type="speaker">
           Herr Helsingius:
         </note>
         <u xml:id="i-7fSepzQ5doGS4HccVpf4jX" who="i-49NneHoz93DCgq2dzhP6Gn">
@@ -17956,7 +17956,7 @@
         <note xml:id="i-DExx8BvEY5Dqj5u4wcJyJb" xml:lang="sv">
           $ 16.
         </note>
-        <note xml:id="i-DRUt4rPaMzBHiCeeApaJCe" type="speaker" xml:lang="sv">
+        <note xml:id="i-DRUt4rPaMzBHiCeeApaJCe" xml:lang="sv" type="speaker">
           Herr Östring:
         </note>
         <u xml:id="i-4qWoh4GnEeKaod1CUVKb77" who="i-5r31KKuptPPS63eWzMAseL">
@@ -18005,7 +18005,7 @@
           fyratiotusen mark. Det blir ändock ganska många broar, vid hvilka
           detta omak kan komma ifråga.
         </note>
-        <note xml:id="i-CmoMbZBm2AjfrDnF9dZCMK" type="speaker" xml:lang="sv">
+        <note xml:id="i-CmoMbZBm2AjfrDnF9dZCMK" xml:lang="sv" type="speaker">
           Herr Bronikowskij:
         </note>
         <u xml:id="i-QciF89B9uRAsJo3uDmkiQf" who="unknown">
@@ -18409,7 +18409,7 @@
           af nädiga propositionen, angäende förändrade grunder för räntepersedleomsättningen
           i landet.
         </note>
-        <note xml:id="i-JoYdX5QNF7NxpAkr5hfMnX" type="speaker" xml:lang="sv">
+        <note xml:id="i-JoYdX5QNF7NxpAkr5hfMnX" xml:lang="sv" type="speaker">
           Herr Bergh anhöll om ordet och yttrade:
         </note>
         <u xml:id="i-4gXkS7pjp3EpncLfDwWxi8" who="i-N2PwTvXjXUdT9dRHeMawYq">
@@ -18442,7 +18442,7 @@
           ståndet, huruvida det vore nödigt att jemväl uppläsa det senare
           alternativet.
         </note>
-        <note xml:id="i-YHkXLszGUM1zTUbrDFHMDc" type="speaker" xml:lang="sv">
+        <note xml:id="i-YHkXLszGUM1zTUbrDFHMDc" xml:lang="sv" type="speaker">
           I anledning häraf begärde Herr Öhrnberg ordet och anförde:
         </note>
         <u xml:id="i-RP1h9gaLJhgiG4xnxRwqmw" who="i-QE8zNVMp9Xs7sAfD5qKxFo">
@@ -18696,7 +18696,7 @@
           lösa skäl framställt. Jag beder således att få förorda antagande
           af det förra alternativet.
         </note>
-        <note xml:id="i-Qx8sixwVGCpph4khoy2Q7h" type="speaker" xml:lang="sv">
+        <note xml:id="i-Qx8sixwVGCpph4khoy2Q7h" xml:lang="sv" type="speaker">
           Herr Öhrnberg:
         </note>
         <u xml:id="i-C1qQ25o5iZhuZMZegzWBco" who="i-QE8zNVMp9Xs7sAfD5qKxFo">
@@ -18802,7 +18802,7 @@
           i mom. b och d. Jag föreslär derföre, att dessa 3 mom. skulle
           ur paragrafen uteslutas.
         </note>
-        <note xml:id="i-KmrsFbSSEgS871qX2LMVKT" type="speaker" xml:lang="sv">
+        <note xml:id="i-KmrsFbSSEgS871qX2LMVKT" xml:lang="sv" type="speaker">
           Herr Öhrnberg:
         </note>
         <u xml:id="i-FrG6bvaXV6NUmRBdY7y4YV" who="i-QE8zNVMp9Xs7sAfD5qKxFo">
@@ -18886,7 +18886,7 @@
           om ett tillägg i paragrafen. För öfrigt förordar jag densammas
           antagande.
         </note>
-        <note xml:id="i-MEFApa69czPZoVxdoZmhdT" type="speaker" xml:lang="sv">
+        <note xml:id="i-MEFApa69czPZoVxdoZmhdT" xml:lang="sv" type="speaker">
           Herr Snellman:
         </note>
         <u xml:id="i-BUXGenM7F3CcJcU28o3HDW" who="i-Hc9XMkGEjEESuFdWzXy4JT">
@@ -18948,7 +18948,7 @@
         <note xml:id="i-vfME8aRmzPwWgWtqN3nza" xml:lang="sv">
           Vid behandlingen af $ 10 begärde
         </note>
-        <note xml:id="i-W8ZDZTy9oF1W5EDv3kSQrp" type="speaker" xml:lang="sv">
+        <note xml:id="i-W8ZDZTy9oF1W5EDv3kSQrp" xml:lang="sv" type="speaker">
           Herr Cederman ordet och anförde:
         </note>
         <u xml:id="i-HpvRZLJnr7hyQNbiQnLYGj" who="i-UeTxv9rgAELGir3fWfG4jh">
@@ -19079,7 +19079,7 @@
           och jag befarar, att om utskottets förslag antages, så kommer
           4 månaders stemningstiden att utgöra regel i stället för undantag.
         </note>
-        <note xml:id="i-GymZHRnKCrYfFsQJDf5reH" type="speaker" xml:lang="sv">
+        <note xml:id="i-GymZHRnKCrYfFsQJDf5reH" xml:lang="sv" type="speaker">
           Herr Öhrnberg:
         </note>
         <u xml:id="i-8LtCMsGT4tKDDqpHU3Ujti" who="i-QE8zNVMp9Xs7sAfD5qKxFo">
@@ -19436,7 +19436,7 @@
           Han gör då med konkursmassans medel, hvad han behagar. Jag anser
           derföre flera än en syssloman böra tillsättas.
         </note>
-        <note xml:id="i-EAXQpo8v3inmJXFr6eggmj" type="speaker" xml:lang="sv">
+        <note xml:id="i-EAXQpo8v3inmJXFr6eggmj" xml:lang="sv" type="speaker">
           Herr Öhrnberg:
         </note>
         <u xml:id="i-3NP4DyZwiZNxJanQXZsmrE" who="i-QE8zNVMp9Xs7sAfD5qKxFo">
@@ -19491,7 +19491,7 @@
         <note xml:id="i-NpxDoK5JRSC7n6jNwpkL8B" xml:lang="sv">
           S 60.
         </note>
-        <note xml:id="i-Kk5okSUTAYyMFLTfzs9Qdd" type="speaker" xml:lang="sv">
+        <note xml:id="i-Kk5okSUTAYyMFLTfzs9Qdd" xml:lang="sv" type="speaker">
           Herr Rosenius:
         </note>
         <u xml:id="i-DKd14YMC4o2i3hoHUcmtjE" who="i-MMYT7XLX6YPQ7PudpmVcPj">
@@ -19648,7 +19648,7 @@
           kommer det äfven att gå på samma sätt med denna författning, nemligen
           att det dermed åsyftade målet icke vinnes.
         </note>
-        <note xml:id="i-7XKbsdk3kGpMR8vH3NmJJC" type="speaker" xml:lang="sv">
+        <note xml:id="i-7XKbsdk3kGpMR8vH3NmJJC" xml:lang="sv" type="speaker">
           Herr Lindeqvist:
         </note>
         <u xml:id="i-15AeJJhwEeF7GNrjUxRBLc" who="i-GGBAD7iX8fRMidLfwkuf4H">
@@ -19720,7 +19720,7 @@
           föreslår en omredigering af förevarande $ i ofverensstämmelse
           med hvad den svenska konkurslagen härom innehäller.
         </note>
-        <note xml:id="i-RcePHS1aktg5kZYBgvKWzm" type="speaker" xml:lang="sv">
+        <note xml:id="i-RcePHS1aktg5kZYBgvKWzm" xml:lang="sv" type="speaker">
           Herr Mustonen:
         </note>
         <u xml:id="i-EzKx2kyEGhZr6ChsvmF4QJ" who="i-QmDvF6akeQRHNrBxFgwyU3">
@@ -19765,7 +19765,7 @@
         <note xml:id="i-Ss2WaFZfABn7XKdLVAFNVW" xml:lang="sv">
           982 Borgareståndet. 1867. 28 Maj.
         </note>
-        <note xml:id="i-QAdBTq1chL3WxV6rGZUvzQ" type="speaker" xml:lang="sv">
+        <note xml:id="i-QAdBTq1chL3WxV6rGZUvzQ" xml:lang="sv" type="speaker">
           Herr Krank:
         </note>
         <u xml:id="i-XDwRPXn9Ep88gvWVmt1Dnt" who="i-2v1sP1pTkv6wpgJSg3UXcQ">
@@ -19865,7 +19865,7 @@
           hvartill ståndet, på Herr Talmannens framställning samtyckte;
           derå
         </note>
-        <note xml:id="i-AeFRe5KpDpjxVaKsscFSmm" type="speaker" xml:lang="sv">
+        <note xml:id="i-AeFRe5KpDpjxVaKsscFSmm" xml:lang="sv" type="speaker">
           Herr Öhrnberg yttrade:
         </note>
         <u xml:id="i-JfaarU9KTYBJ2T2KqWEdM8" who="i-QE8zNVMp9Xs7sAfD5qKxFo">
@@ -19989,7 +19989,7 @@
         <note xml:id="i-31J6iGmX3AqkU4HKKCZxjf" xml:lang="sv">
           986 Borgareståndet. 1867. 23 Maj.
         </note>
-        <note xml:id="i-5bBFBLaqqZj23LKgTTtdfC" type="speaker" xml:lang="sv">
+        <note xml:id="i-5bBFBLaqqZj23LKgTTtdfC" xml:lang="sv" type="speaker">
           Herr Rosenius:
         </note>
         <u xml:id="i-BMGh324HJR7Yirj4wdoQ9E" who="i-MMYT7XLX6YPQ7PudpmVcPj">
@@ -20018,7 +20018,7 @@
             och handlingar.
           </seg>
         </u>
-        <note xml:id="i-T9HY5Ct8Nmf1EZBnUhz73D" type="speaker" xml:lang="sv">
+        <note xml:id="i-T9HY5Ct8Nmf1EZBnUhz73D" xml:lang="sv" type="speaker">
           Herr Cederman:
         </note>
         <u xml:id="i-2pjF7C2V3npYBCx3JBSybc" who="i-UeTxv9rgAELGir3fWfG4jh">
@@ -20061,7 +20061,7 @@
           konkursstadgan förekommande tillägg måtte genom regeringens åtgärd
           äfven hos oss blifva antagna.
         </note>
-        <note xml:id="i-MFFmEu2Xr91ocARUFY1VJC" type="speaker" xml:lang="sv">
+        <note xml:id="i-MFFmEu2Xr91ocARUFY1VJC" xml:lang="sv" type="speaker">
           Herr Bergh:
         </note>
         <u xml:id="i-B7Y4e2rupBeJC28HrQyP7T" who="i-N2PwTvXjXUdT9dRHeMawYq">
@@ -20091,7 +20091,7 @@
             att införas.
           </seg>
         </u>
-        <note xml:id="i-Cy58QxL7ehDK7iEBZynoZE" type="speaker" xml:lang="sv">
+        <note xml:id="i-Cy58QxL7ehDK7iEBZynoZE" xml:lang="sv" type="speaker">
           Herr Lindeqvist:
         </note>
         <u xml:id="i-Tkhon68QvvLZFpf11YVKo8" who="i-GGBAD7iX8fRMidLfwkuf4H">
@@ -20129,7 +20129,7 @@
           tillstyrker således icke ståndet att uttala sig för den svenska
           formuleringen af detta stadgande.
         </note>
-        <note xml:id="i-LbcnDokSJTZaFEuLn8dQ5T" type="speaker" xml:lang="sv">
+        <note xml:id="i-LbcnDokSJTZaFEuLn8dQ5T" xml:lang="sv" type="speaker">
           Herr Öhrnberg:
         </note>
         <u xml:id="i-9tmmZV5BxiRxkHuKzSeZoR" who="i-QE8zNVMp9Xs7sAfD5qKxFo">
@@ -20161,7 +20161,7 @@
           om förslaget icke hunne att vid denna landtdag redigeras och antagas,
           samt tillstyrker således remiss af frågan tillbaka till lagutskottet.
         </note>
-        <note xml:id="i-GNjt5DNP3YtS9YeU7FqUMp" type="speaker" xml:lang="sv">
+        <note xml:id="i-GNjt5DNP3YtS9YeU7FqUMp" xml:lang="sv" type="speaker">
           Herr Rosenius:
         </note>
         <u xml:id="i-GnQ1YQP4n18hEit6TVNPkV" who="i-MMYT7XLX6YPQ7PudpmVcPj">
@@ -20213,7 +20213,7 @@
         <note xml:id="i-RoaZvyak6XN7vgAjP5QnTJ" xml:lang="unknown">
           $ 88.
         </note>
-        <note xml:id="i-GfWaQRuPp7B61AnDcMdoCc" type="speaker" xml:lang="sv">
+        <note xml:id="i-GfWaQRuPp7B61AnDcMdoCc" xml:lang="sv" type="speaker">
           Herr Hackman:
         </note>
         <u xml:id="i-VrQmCKoBcDkionGQpuuvZP" who="i-KDkAw6MJH2W79wd7auFFmc">
@@ -20438,7 +20438,7 @@
           blifvit från och med denna dag kl. XI f. m. å förut bestämdt ställe
           pä 24 timmar bordlagdt.
         </note>
-        <note xml:id="i-7kkwDu2gcs9GHRLEFYv9mA" type="speaker" xml:lang="sv">
+        <note xml:id="i-7kkwDu2gcs9GHRLEFYv9mA" xml:lang="sv" type="speaker">
           I anledning häraf begärdes ordet af Herr Öhrnberg, som yttrade:
         </note>
         <u xml:id="i-4FEYPshLzu8PJkGwGcdmbu" who="i-QE8zNVMp9Xs7sAfD5qKxFo">
@@ -20532,7 +20532,7 @@
           medlemmar, utom Herrar Wendelin och Utter, hvilka af förut anmäldt
           förfall hindrades att tillstädeskomma.
         </note>
-        <note xml:id="i-LeN5PmnDE6DvrieZXwJN7D" type="speaker" xml:lang="sv">
+        <note xml:id="i-LeN5PmnDE6DvrieZXwJN7D" xml:lang="sv" type="speaker">
           Herr Bergh begärde ordet och yttrade:
         </note>
         <u xml:id="i-CwdKJz3qbNR4xLTffyEmMZ" who="i-N2PwTvXjXUdT9dRHeMawYq">
@@ -20662,7 +20662,7 @@
           blifvit uppläst bestämmer sig för det ena eller andra, antingen
           oförändradt eller med nödiga ändringar.
         </note>
-        <note xml:id="i-RnmYKtbYWn2nS45ZGFX82o" type="speaker" xml:lang="sv">
+        <note xml:id="i-RnmYKtbYWn2nS45ZGFX82o" xml:lang="sv" type="speaker">
           Herr Lindegvist:
         </note>
         <u xml:id="i-6p3jL6MdEBPtVDVSsieC3i" who="unknown">
@@ -20680,7 +20680,7 @@
             förkorta expeditionsutskottets utlåtande.
           </seg>
         </u>
-        <note xml:id="i-QvQbz1usQvPpB2kGjLgdY5" type="speaker" xml:lang="sv">
+        <note xml:id="i-QvQbz1usQvPpB2kGjLgdY5" xml:lang="sv" type="speaker">
           Herr Östring:
         </note>
         <u xml:id="i-3Jvmw2NLnC1kVdA7qa5uK6" who="i-5r31KKuptPPS63eWzMAseL">
@@ -20736,7 +20736,7 @@
           uttala derigenom att de anse grundlagsenlig behandling framdeles
           icke vara af nöden i nägot ärende.
         </note>
-        <note xml:id="i-F6EKJ4dfSjVTFZBFdNXGn1" type="speaker" xml:lang="sv">
+        <note xml:id="i-F6EKJ4dfSjVTFZBFdNXGn1" xml:lang="sv" type="speaker">
           Herr Ohrnberg:
         </note>
         <u xml:id="i-MRfD95mTsrb3UAuQ5SaHhP" who="unknown">
@@ -20753,7 +20753,7 @@
             att taga kännedom om de bordlagda handlingarne, rädrum dertill.
           </seg>
         </u>
-        <note xml:id="i-H6w1oymq3zay9wVVgxdr5B" type="speaker" xml:lang="sv">
+        <note xml:id="i-H6w1oymq3zay9wVVgxdr5B" xml:lang="sv" type="speaker">
           Herr Rosenius:
         </note>
         <u xml:id="i-8AVpi7kELDc2tAvN4n5N5" who="i-MMYT7XLX6YPQ7PudpmVcPj">
@@ -20842,7 +20842,7 @@
         <note xml:id="i-7n8ymZmwZsJrGggnCFBMi1" xml:lang="sv">
           1000 Borgareståndet. 1867. 23 Maj.
         </note>
-        <note xml:id="i-MRGEdnSeBsrn3wdzerr5Ls" type="speaker" xml:lang="sv">
+        <note xml:id="i-MRGEdnSeBsrn3wdzerr5Ls" xml:lang="sv" type="speaker">
           Herr Lindegvist:
         </note>
         <u xml:id="i-P51TGC3A8SBfwPRN7mhC1C" who="unknown">
@@ -20861,7 +20861,7 @@
           ständerna, oaktadt ärendet icke blifvit i grundlagsenlig väg förberedt,
           ingått i pröfning deraf.
         </note>
-        <note xml:id="i-SfCuJWd8s7SKMd5Xod8wtT" type="speaker" xml:lang="sv">
+        <note xml:id="i-SfCuJWd8s7SKMd5Xod8wtT" xml:lang="sv" type="speaker">
           Herr Östring:
         </note>
         <u xml:id="i-HbCyZ1UySKUBmkFsNweMem" who="i-5r31KKuptPPS63eWzMAseL">
@@ -21220,7 +21220,7 @@
         <note xml:id="i-U5h1JSn6wtez1nu4oabdsT" xml:lang="unknown">
           8 1.
         </note>
-        <note xml:id="i-N2sk6974fZx5eV8vLoa5cQ" type="speaker" xml:lang="sv">
+        <note xml:id="i-N2sk6974fZx5eV8vLoa5cQ" xml:lang="sv" type="speaker">
           Herr Bergh yttrade:
         </note>
         <u xml:id="i-G1QkM1SyyNLp9e39NEo74W" who="i-N2PwTvXjXUdT9dRHeMawYq">
@@ -21294,7 +21294,7 @@
           direkte till guvernörsembetet, kan han icke päräkna ett sädant
           biträde der.
         </note>
-        <note xml:id="i-MckfQ95uGx5VJffsZHAf86" type="speaker" xml:lang="sv">
+        <note xml:id="i-MckfQ95uGx5VJffsZHAf86" xml:lang="sv" type="speaker">
           Herr Öhrnberg:
         </note>
         <u xml:id="i-9WtyFKZyR6yhNLum9ZEWNd" who="i-QE8zNVMp9Xs7sAfD5qKxFo">
@@ -21376,7 +21376,7 @@
           eller parterna. År saken tvistig, förvises den i alla händelser
           till vederbörlig domstol.
         </note>
-        <note xml:id="i-FwLhMHCVF5z4yvv24oYv2d" type="speaker" xml:lang="sv">
+        <note xml:id="i-FwLhMHCVF5z4yvv24oYv2d" xml:lang="sv" type="speaker">
           Herr Öhrnberg:
         </note>
         <u xml:id="i-FMgiwkfSAWKeMg5SRX7u1F" who="i-QE8zNVMp9Xs7sAfD5qKxFo">
@@ -21468,7 +21468,7 @@
         <note xml:id="i-88ujcrng1NbgyH9VzCCj1o" xml:lang="unknown">
           $ 8.
         </note>
-        <note xml:id="i-SkbebMZeJBL3FZJ7jPaEAe" type="speaker" xml:lang="sv">
+        <note xml:id="i-SkbebMZeJBL3FZJ7jPaEAe" xml:lang="sv" type="speaker">
           Herr Öhrnberg:
         </note>
         <u xml:id="i-MDEoNPfD6Puy59kGv5Dv6B" who="i-QE8zNVMp9Xs7sAfD5qKxFo">
@@ -21499,7 +21499,7 @@
           måtte af ståndet godkännas samt lagutskottets förslag till redaktion
           af $ 8 i följd deraf förkastas.
         </note>
-        <note xml:id="i-R7UjfV91YA2ps9HaVAvLQK" type="speaker" xml:lang="sv">
+        <note xml:id="i-R7UjfV91YA2ps9HaVAvLQK" xml:lang="sv" type="speaker">
           Herr Bergh:
         </note>
         <u xml:id="i-G8uhZCHvF1Dcz7Y8JERiL5" who="i-N2PwTvXjXUdT9dRHeMawYq">
@@ -21732,7 +21732,7 @@
         <note xml:id="i-67bpWgXc1FHMQD3x4VNf6d" xml:lang="sv">
           Borgareståndet. 1867. 24 Maj. 1015
         </note>
-        <note xml:id="i-aWLdVARJGE4wyWnxYvCky" type="speaker" xml:lang="sv">
+        <note xml:id="i-aWLdVARJGE4wyWnxYvCky" xml:lang="sv" type="speaker">
           Herr Östring:
         </note>
         <u xml:id="i-SyBWeVCo2Eeh262HX7bbjw" who="i-5r31KKuptPPS63eWzMAseL">
@@ -21774,7 +21774,7 @@
           det är pä sädana skäl jag ber att få tillstyrka antagandet af
           utskottets betänkande.
         </note>
-        <note xml:id="i-RQYuTto8pTiRkp2c83o2GV" type="speaker" xml:lang="sv">
+        <note xml:id="i-RQYuTto8pTiRkp2c83o2GV" xml:lang="sv" type="speaker">
           Herr Lindegvist:
         </note>
         <u xml:id="i-9qzoLy8dPiprKVhxiH4E1k" who="unknown">
@@ -21817,7 +21817,7 @@
           högsta orättvisa emot en näring af den betydelse, som landets
           export enligt min tanke är.
         </note>
-        <note xml:id="i-M7qRer8ugiycoeM4BEVi7A" type="speaker" xml:lang="sv">
+        <note xml:id="i-M7qRer8ugiycoeM4BEVi7A" xml:lang="sv" type="speaker">
           Herr Bergh:
         </note>
         <u xml:id="i-7twT8iA59K5r77NYieteN9" who="i-N2PwTvXjXUdT9dRHeMawYq">
@@ -21838,7 +21838,7 @@
             det lägre smidet nedtryckt den högre industrin.
           </seg>
         </u>
-        <note xml:id="i-Q7CaWLdgJTS9jsDyaeXMhD" type="speaker" xml:lang="sv">
+        <note xml:id="i-Q7CaWLdgJTS9jsDyaeXMhD" xml:lang="sv" type="speaker">
           Herr Snellman:
         </note>
         <u xml:id="i-UyiXqxwYprsHX9KFbrBtrv" who="i-Hc9XMkGEjEESuFdWzXy4JT">
@@ -21914,7 +21914,7 @@
         <note xml:id="i-7CRKXH12qBmg1RaE5VNk7u" xml:lang="sv">
           1018 Borgareståndet. 1867. 24 Maj.
         </note>
-        <note xml:id="i-HayS5hQ6uMyzwpHT9gQBQn" type="speaker" xml:lang="unknown">
+        <note xml:id="i-HayS5hQ6uMyzwpHT9gQBQn" xml:lang="unknown" type="speaker">
           Herr Wolff:
         </note>
         <u xml:id="i-8gYVbJ5XG93CHZLj1fJyor" who="i-2PT41UyWuKo4xm1qXeaPnb">
@@ -21944,7 +21944,7 @@
         <note xml:id="i-GCLTYyWKYsHXykbtGueSPJ" xml:lang="sv">
           Herrar Mustonen och Grundfeldt förenade sig med herr Wolff.
         </note>
-        <note xml:id="i-857himZBKSbcZPgFz1SvdL" type="speaker" xml:lang="sv">
+        <note xml:id="i-857himZBKSbcZPgFz1SvdL" xml:lang="sv" type="speaker">
           Herr Krank:
         </note>
         <u xml:id="i-RUq216AjFBpLf8QZqfMpEQ" who="i-2v1sP1pTkv6wpgJSg3UXcQ">
@@ -22102,7 +22102,7 @@
           likstäldt med landets öfriga innevånare, om ock på ett sätt, som
           i allmänhet ej afsetts.
         </note>
-        <note xml:id="i-SLc5oTRa7xHwtVVwxGHD7U" type="speaker" xml:lang="sv">
+        <note xml:id="i-SLc5oTRa7xHwtVVwxGHD7U" xml:lang="sv" type="speaker">
           Herr Rosenius:
         </note>
         <u xml:id="i-SaYN3Y6bFjC1LUKFKUp5Xb" who="i-MMYT7XLX6YPQ7PudpmVcPj">
@@ -22234,7 +22234,7 @@
           derföre, att ståndet ville ingå i en närmare granskning af förslaget
           och icke så utan vidare förkasta detsamma.
         </note>
-        <note xml:id="i-XA7t876Q1jFV7mnR1v5r1P" type="speaker" xml:lang="sv">
+        <note xml:id="i-XA7t876Q1jFV7mnR1v5r1P" xml:lang="sv" type="speaker">
           Herr Lindeqvist:
         </note>
         <u xml:id="i-StBjYKfjvwu7xj4ZE6XZtc" who="i-GGBAD7iX8fRMidLfwkuf4H">
@@ -22273,7 +22273,7 @@
           mesyr, som enligt min måhända oriktiga åsigt ej kommer att lända
           till någon väsentlig båtnad.
         </note>
-        <note xml:id="i-2Zdst9NeM5p1Af8ejZAoQH" type="speaker" xml:lang="sv">
+        <note xml:id="i-2Zdst9NeM5p1Af8ejZAoQH" xml:lang="sv" type="speaker">
           Herr Lindblom:
         </note>
         <u xml:id="i-R2gKLk8MNg3X3aKG7fcwHj" who="i-XW5vSkDhiDBuTQzpqfPxmM">
@@ -22283,7 +22283,7 @@
             betänkande måtte tagas under närmare pröfning.
           </seg>
         </u>
-        <note xml:id="i-5bdiZctrh911z3MFtRpW3m" type="speaker" xml:lang="sv">
+        <note xml:id="i-5bdiZctrh911z3MFtRpW3m" xml:lang="sv" type="speaker">
           Herr Hackman:
         </note>
         <u xml:id="i-DyNG6hmhYg39nevAyDaxok" who="i-KDkAw6MJH2W79wd7auFFmc">
@@ -22294,7 +22294,7 @@
             som yrkat att detsamma måtte till detaljerad granskning företagas.
           </seg>
         </u>
-        <note xml:id="i-AA5qf1bUpkqgbHhmasBkhc" type="speaker" xml:lang="sv">
+        <note xml:id="i-AA5qf1bUpkqgbHhmasBkhc" xml:lang="sv" type="speaker">
           Herr Öhrnberg:
         </note>
         <u xml:id="i-RPFCrPe2L676HvrC2WEGS2" who="i-QE8zNVMp9Xs7sAfD5qKxFo">
@@ -22388,7 +22388,7 @@
           att idkandet af borgerlig näring eller handel och handtverk tillkommer
           städernes borgerskap och ingen annan.
         </note>
-        <note xml:id="i-JDve9ZMixkjuE3LfgqZLuj" type="speaker" xml:lang="sv">
+        <note xml:id="i-JDve9ZMixkjuE3LfgqZLuj" xml:lang="sv" type="speaker">
           Herr Grundfeldt:
         </note>
         <u xml:id="i-DqfVu5wuDqXZA7XT8Z12pi" who="i-KGaDYg8SvhTQwWAdJXsgTo">
@@ -22443,7 +22443,7 @@
           undandraga mig att ingä i granskning af lagförslaget, derest ständet
           finner densamma nödig.
         </note>
-        <note xml:id="i-CAAHPkNayxLJWDkfns5nW5" type="speaker" xml:lang="sv">
+        <note xml:id="i-CAAHPkNayxLJWDkfns5nW5" xml:lang="sv" type="speaker">
           Herr Bergh:
         </note>
         <u xml:id="i-KJQPBWpCDsb3qVYXM54rY4" who="i-N2PwTvXjXUdT9dRHeMawYq">
@@ -22551,7 +22551,7 @@
         <note xml:id="i-CGpahJjF6CWLkPwQqV2G3m" xml:lang="sv">
           $ 2.
         </note>
-        <note xml:id="i-J7AyTKriZFwbg48dSE2RBe" type="speaker" xml:lang="sv">
+        <note xml:id="i-J7AyTKriZFwbg48dSE2RBe" xml:lang="sv" type="speaker">
           Herr Östring:
         </note>
         <u xml:id="i-3yhEGfkLHMs4uD91z8TTW6" who="i-5r31KKuptPPS63eWzMAseL">
@@ -22737,7 +22737,7 @@
           min del motsätta mig, ty att t. ex. en tjensteman vid tullverket
           skulle drifva handel kan väl ej anses lämpligt.
         </note>
-        <note xml:id="i-Myy4KyvASfDmZg2MmTTjEt" type="speaker" xml:lang="sv">
+        <note xml:id="i-Myy4KyvASfDmZg2MmTTjEt" xml:lang="sv" type="speaker">
           Herr Bergh:
         </note>
         <u xml:id="i-5nXUY7ZTpZDNhZaXrQ5fUY" who="i-N2PwTvXjXUdT9dRHeMawYq">
@@ -22757,7 +22757,7 @@
             och det under flere är, utan att ringaste olägenhet deraf förspordes.
           </seg>
         </u>
-        <note xml:id="i-LcptTSNTb8zfhoSvw85nap" type="speaker" xml:lang="sv">
+        <note xml:id="i-LcptTSNTb8zfhoSvw85nap" xml:lang="sv" type="speaker">
           Herr Lindegvist:
         </note>
         <u xml:id="i-EQ4T1XszzXLubPvKqCVAd7" who="unknown">
@@ -22977,7 +22977,7 @@
           rätt att bosätta sig utom staden, instemmer jag till alla delar
           med Herr Krank.
         </note>
-        <note xml:id="i-W7TQPSDc2jy8LX4zMgZ6Mm" type="speaker" xml:lang="sv">
+        <note xml:id="i-W7TQPSDc2jy8LX4zMgZ6Mm" xml:lang="sv" type="speaker">
           Herr Ohrnberg:
         </note>
         <u xml:id="i-9Huvofgb6VByw3WWZYatCk" who="unknown">
@@ -23003,7 +23003,7 @@
             förskaffat sig om deras skicklighet och pälitlighet.
           </seg>
         </u>
-        <note xml:id="i-JJwZXA6A8JwDhK3LcwGYP8" type="speaker" xml:lang="sv">
+        <note xml:id="i-JJwZXA6A8JwDhK3LcwGYP8" xml:lang="sv" type="speaker">
           Herr Rosenius:
         </note>
         <u xml:id="i-Xtyc6NcXkTnRRMsTN9mrMA" who="i-MMYT7XLX6YPQ7PudpmVcPj">
@@ -23036,7 +23036,7 @@
           af hans gesäller och lärlingar. Allmänheten är, såsom redan anmärkts,
           sjelf den bästa domaren dervidlag.
         </note>
-        <note xml:id="i-SnL3i2kAD2Cm1497VS89To" type="speaker" xml:lang="sv">
+        <note xml:id="i-SnL3i2kAD2Cm1497VS89To" xml:lang="sv" type="speaker">
           Herr Bergh:
         </note>
         <u xml:id="i-GXdE44BjccLBxy9u5qGheX" who="i-N2PwTvXjXUdT9dRHeMawYq">
@@ -23141,7 +23141,7 @@
         <note xml:id="i-R8Dixoqj4YzEgoJK1dU2uC" xml:lang="unknown">
           $ 4 mom. 1.
         </note>
-        <note xml:id="i-HvmJbEVtTUnWQonsZuCdUt" type="speaker" xml:lang="sv">
+        <note xml:id="i-HvmJbEVtTUnWQonsZuCdUt" xml:lang="sv" type="speaker">
           Herr Grundfeldt:
         </note>
         <u xml:id="i-6WELxsLGaLxF4RysVA6VLt" who="i-KGaDYg8SvhTQwWAdJXsgTo">
@@ -23344,7 +23344,7 @@
           i omförmäldt syfte. Jag fär derföre i enlighet med min reservation
           yrka att orden ,inom stadens egoomräde* mätte frän momentet uteslutas.
         </note>
-        <note xml:id="i-PYTvw9awUNDQkjppbA5ueT" type="speaker" xml:lang="sv">
+        <note xml:id="i-PYTvw9awUNDQkjppbA5ueT" xml:lang="sv" type="speaker">
           Herr Grundfeldt:
         </note>
         <u xml:id="i-Jo4oN7f54NJoywQAz4v4P1" who="i-KGaDYg8SvhTQwWAdJXsgTo">
@@ -23367,7 +23367,7 @@
           jag påstår; och att så är, torde flertalet af de bland ståndets
           medlemmar, som representera mindre städer, kunna vitsorda.
         </note>
-        <note xml:id="i-3iHU7vr5BLNA54Wadj5BBt" type="speaker" xml:lang="sv">
+        <note xml:id="i-3iHU7vr5BLNA54Wadj5BBt" xml:lang="sv" type="speaker">
           Herr Öhrnberg:
         </note>
         <u xml:id="i-L6sm9ZMCBVAwtnHpfbbFqm" who="i-QE8zNVMp9Xs7sAfD5qKxFo">
@@ -23423,7 +23423,7 @@
           bestämning till åtminstone en eller kanske t. o. m. tre mil från
           stad.
         </note>
-        <note xml:id="i-AaXYcvXyYJoo2vhJN94Qh" type="speaker" xml:lang="sv">
+        <note xml:id="i-AaXYcvXyYJoo2vhJN94Qh" xml:lang="sv" type="speaker">
           Herr Grönholm:
         </note>
         <u xml:id="i-EfxecK1HEGw9h8g2Pjhivt" who="i-PfNDvdPUw3V2yuQ3zFXWwn">
@@ -23446,7 +23446,7 @@
           för litet, hvarföre jag förenar mig med Herr Öhrnberg om detsammas
           bestämmande till en mil.
         </note>
-        <note xml:id="i-8uJmEY1zyE3eUaFb1mGQUG" type="speaker" xml:lang="sv">
+        <note xml:id="i-8uJmEY1zyE3eUaFb1mGQUG" xml:lang="sv" type="speaker">
           Herr Bronikowskij:
         </note>
         <u xml:id="i-Nf37iinrdxG7pyJDTGtbZ4" who="unknown">
@@ -23492,7 +23492,7 @@
           som drifver sitt yrke inom det nämnda området, skall utverka sig
           burskap i staden, föga tillämpligt.
         </note>
-        <note xml:id="i-RgYMjw5d9KqnBhWqh9P2WF" type="speaker" xml:lang="unknown">
+        <note xml:id="i-RgYMjw5d9KqnBhWqh9P2WF" xml:lang="unknown" type="speaker">
           Herr W olff:
         </note>
         <u xml:id="i-TZRKo8z24Mu8AYTuhpuaWM" who="unknown">
@@ -23554,7 +23554,7 @@
           anhåller jag få förorda utskottets betänkande, som deri synes
           mig äga företrädet framför propositionen.
         </note>
-        <note xml:id="i-9zYmpjjd3Fsfr7KfChpSzW" type="speaker" xml:lang="sv">
+        <note xml:id="i-9zYmpjjd3Fsfr7KfChpSzW" xml:lang="sv" type="speaker">
           Herr Krank:
         </note>
         <u xml:id="i-UoXBgyLQS4XfPESEf14L66" who="i-2v1sP1pTkv6wpgJSg3UXcQ">
@@ -23626,7 +23626,7 @@
           förenar jag mig med herrar Ohrnberg och Krank om tre mil, såsom
           det lämpligaste.
         </note>
-        <note xml:id="i-CsFjXqWviuxzqYoLDkSfj3" type="speaker" xml:lang="sv">
+        <note xml:id="i-CsFjXqWviuxzqYoLDkSfj3" xml:lang="sv" type="speaker">
           Herr Grundfeldt:
         </note>
         <u xml:id="i-NA5hJnnV5cWJXbW9qg4UTa" who="i-KGaDYg8SvhTQwWAdJXsgTo">
@@ -23777,7 +23777,7 @@
         <note xml:id="i-9z4s3cKhuS2hkjRVWhtM2s" xml:lang="sv">
           1050 Borgareständet. 1867. 24 Maj.
         </note>
-        <note xml:id="i-2ZrkqvHyWFg5Tjjuf4i8hD" type="speaker" xml:lang="sv">
+        <note xml:id="i-2ZrkqvHyWFg5Tjjuf4i8hD" xml:lang="sv" type="speaker">
           Herr Bergh:
         </note>
         <u xml:id="i-XvojANUbiEcC3bbhcbZwHs" who="i-N2PwTvXjXUdT9dRHeMawYq">
@@ -23987,7 +23987,7 @@
         <note xml:id="i-MRvYxu51FfBgg1UQW3USDv" xml:lang="sv">
           $ 15 mom. 2.
         </note>
-        <note xml:id="i-PebJ7irjapxjQW8jan2Vvu" type="speaker" xml:lang="sv">
+        <note xml:id="i-PebJ7irjapxjQW8jan2Vvu" xml:lang="sv" type="speaker">
           Vid behandlingen af detta mom. begärde Herr Ahlberg ordet och
           yttrade:
         </note>
@@ -24058,7 +24058,7 @@
           fattighjon. Dessutom innehåller 1852 års fattigreglemente, det
           en sådan person ej får flytta från en kommun till en annan.
         </note>
-        <note xml:id="i-CgtCbiAuQkS2rW1iZakokw" type="speaker" xml:lang="sv">
+        <note xml:id="i-CgtCbiAuQkS2rW1iZakokw" xml:lang="sv" type="speaker">
           Herr Rosenius:
         </note>
         <u xml:id="i-TjzkDSL2TTWczhJPnyBxne" who="i-MMYT7XLX6YPQ7PudpmVcPj">
@@ -24157,7 +24157,7 @@
         <note xml:id="i-Dg9szTEegbV7Zh2jtke1J5" xml:lang="sv">
           Öfver mom. 2 af $ 22 yttrade sig
         </note>
-        <note xml:id="i-SmXaL1dZfCLDownVzxsTde" type="speaker" xml:lang="sv">
+        <note xml:id="i-SmXaL1dZfCLDownVzxsTde" xml:lang="sv" type="speaker">
           Herr Ostring:
         </note>
         <u xml:id="i-EbmRqr8XwSw1fFE4kEig7T" who="unknown">
@@ -24199,7 +24199,7 @@
           syster. Jag föreslår derföre att det skulle heta ,mälsman, äldre
           anhörig eller förmyndare".
         </note>
-        <note xml:id="i-LLNP5F9dwYX5FzBNBYczNh" type="speaker" xml:lang="sv">
+        <note xml:id="i-LLNP5F9dwYX5FzBNBYczNh" xml:lang="sv" type="speaker">
           Herr Ahlberg:
         </note>
         <u xml:id="i-TW9QmchkaHeD391E3Aogfm" who="i-Wc94mfKvFCXNZujj6r2PaP">
@@ -24230,7 +24230,7 @@
           borde antagas, eller ock att den sista meningen borde ur paragrafen
           helt och hället utgä.
         </note>
-        <note xml:id="i-Cqjs8SsvmRcnMDDqMZyXbv" type="speaker" xml:lang="sv">
+        <note xml:id="i-Cqjs8SsvmRcnMDDqMZyXbv" xml:lang="sv" type="speaker">
           Herr Bergh:
         </note>
         <u xml:id="i-2bvb2kZpCBmvwUZpcr4Y1e" who="i-N2PwTvXjXUdT9dRHeMawYq">
@@ -24262,7 +24262,7 @@
         <note xml:id="i-NLSKCU6SERuwLeNtZCrVvK" xml:lang="sv">
           Herr Petrelius: jag instämmer i Herr Berghs yttrande.
         </note>
-        <note xml:id="i-Umnre54ea3qodJ5nsai4MV" type="speaker" xml:lang="sv">
+        <note xml:id="i-Umnre54ea3qodJ5nsai4MV" xml:lang="sv" type="speaker">
           Herr Grundfeldt:
         </note>
         <u xml:id="i-4qwQaoNFArdMjRhDABeJtf" who="i-KGaDYg8SvhTQwWAdJXsgTo">
@@ -24337,7 +24337,7 @@
           föreslagna, men mom:t kan dock gvarstä, sådant det är, ty i värt
           land är ett sädant stadgande af ganska ringa betydelse.
         </note>
-        <note xml:id="i-TbfYyzZ4QFVs5gmUSciGPB" type="speaker" xml:lang="sv">
+        <note xml:id="i-TbfYyzZ4QFVs5gmUSciGPB" xml:lang="sv" type="speaker">
           Herr Bergh:
         </note>
         <u xml:id="i-3y6p8UA8ap4mqRSaxy8Tjx" who="i-N2PwTvXjXUdT9dRHeMawYq">
@@ -24409,7 +24409,7 @@
         <note xml:id="i-TFovduXGyr4TXzxNrJYa7C" xml:lang="unknown">
           $ 31 mom. 2.
         </note>
-        <note xml:id="i-Fzqd6ar8BKUFR91yHH36Gq" type="speaker" xml:lang="sv">
+        <note xml:id="i-Fzqd6ar8BKUFR91yHH36Gq" xml:lang="sv" type="speaker">
           Herr Lindblom:
         </note>
         <u xml:id="i-YNJ9WM6cEtuSSnvoPZLmow" who="i-XW5vSkDhiDBuTQzpqfPxmM">
@@ -24471,7 +24471,7 @@
           en större frihet och ofta en ganska nödig frihet för fabrikernas
           och näringarnes behöriga bedrifvande lemnas.
         </note>
-        <note xml:id="i-LQ7g6uyqALRaaMWbaSLMiq" type="speaker" xml:lang="sv">
+        <note xml:id="i-LQ7g6uyqALRaaMWbaSLMiq" xml:lang="sv" type="speaker">
           Herr Mustonen:
         </note>
         <u xml:id="i-NAa1mMkFBH2wNcD2MchEeN" who="i-QmDvF6akeQRHNrBxFgwyU3">
@@ -24510,7 +24510,7 @@
           till arbete nattetid, sä är det hinderligt för utvecklingen af
           deras fysik.
         </note>
-        <note xml:id="i-Q53mSfchZTf6x573La2och" type="speaker" xml:lang="sv">
+        <note xml:id="i-Q53mSfchZTf6x573La2och" xml:lang="sv" type="speaker">
           Herr Öhrnberg:
         </note>
         <u xml:id="i-2yDHipZdraooEseExUavZp" who="i-QE8zNVMp9Xs7sAfD5qKxFo">
@@ -24650,7 +24650,7 @@
           lära sig yrket, men hvilken begagnades endast till att skrifva
           ut räkningar.
         </note>
-        <note xml:id="i-CFXpeG1xq1gVuVo65BfnoS" type="speaker" xml:lang="sv">
+        <note xml:id="i-CFXpeG1xq1gVuVo65BfnoS" xml:lang="sv" type="speaker">
           Herr Östring:
         </note>
         <u xml:id="i-CqAzDhiJC4RoDQestFMRyr" who="i-5r31KKuptPPS63eWzMAseL">
@@ -24723,7 +24723,7 @@
           $$ 32—34 godkändes utan diskussion. Vid behandlingen af $ 35
           uppträdde
         </note>
-        <note xml:id="i-BmR7qknxw5JaZq79sKx2pK" type="speaker" xml:lang="sv">
+        <note xml:id="i-BmR7qknxw5JaZq79sKx2pK" xml:lang="sv" type="speaker">
           Herr Bergh samt yttrade:
         </note>
         <u xml:id="i-Sn9FnpAHU7p9R4zVE8t31F" who="i-N2PwTvXjXUdT9dRHeMawYq">
@@ -24843,7 +24843,7 @@
           fartyg, som hos dem försäkras, vilja hafva examineradt befäl eller
           icke.
         </note>
-        <note xml:id="i-PV3twpVnX6WKrEA7e5sAXi" type="speaker" xml:lang="sv">
+        <note xml:id="i-PV3twpVnX6WKrEA7e5sAXi" xml:lang="sv" type="speaker">
           Herr Lindblom:
         </note>
         <u xml:id="i-JR9MbJCmYvYj1vAum6R2vc" who="i-XW5vSkDhiDBuTQzpqfPxmM">
@@ -24869,7 +24869,7 @@
             å den nådiga propositionen.
           </seg>
         </u>
-        <note xml:id="i-QNBWCLqh6Dv2yedtmWrUSE" type="speaker" xml:lang="sv">
+        <note xml:id="i-QNBWCLqh6Dv2yedtmWrUSE" xml:lang="sv" type="speaker">
           Herr Bronikowskij:
         </note>
         <u xml:id="i-Egcx7S7zaQ1C8u5BoPv5Eo" who="unknown">
@@ -24898,7 +24898,7 @@
           på en likställighet emellan stadsmanna- och landtmannafartygen
           äfven i detta afseende.
         </note>
-        <note xml:id="i-CRM9xusPgY4EyxaQ4DzSVa" type="speaker" xml:lang="sv">
+        <note xml:id="i-CRM9xusPgY4EyxaQ4DzSVa" xml:lang="sv" type="speaker">
           Herr Mustonen:
         </note>
         <u xml:id="i-A7b7KB2R355PpjZovXz2Dg" who="i-QmDvF6akeQRHNrBxFgwyU3">
@@ -24912,7 +24912,7 @@
             fullkomligen likställda.
           </seg>
         </u>
-        <note xml:id="i-UpQrujVnhUoY2spdA6DNwc" type="speaker" xml:lang="sv">
+        <note xml:id="i-UpQrujVnhUoY2spdA6DNwc" xml:lang="sv" type="speaker">
           Herr Granström:
         </note>
         <u xml:id="i-WucrNGbg4ty7Dimxgc7BeU" who="i-RLK2wujPko39urNNKUwfR1">
@@ -25365,7 +25365,7 @@
         <note xml:id="i-UHCeh6c6g9ZE9AagNzaJhR" xml:lang="sv">
           1076 Borgareståndet. 1867. 25 Maj.
         </note>
-        <note xml:id="i-NZjsd8JsLUt7zinbbSrRp3" type="speaker" xml:lang="sv">
+        <note xml:id="i-NZjsd8JsLUt7zinbbSrRp3" xml:lang="sv" type="speaker">
           Herr Cederman:
         </note>
         <u xml:id="i-VFQJWunPbZRE6EuYDEZWig" who="i-UeTxv9rgAELGir3fWfG4jh">
@@ -25439,7 +25439,7 @@
           Jag föreslår derföre, att Borgareståndet jemväl godkänner förevarande
           punkt.
         </note>
-        <note xml:id="i-4Mc82vHRmcPAP8yVMA7yjc" type="speaker" xml:lang="sv">
+        <note xml:id="i-4Mc82vHRmcPAP8yVMA7yjc" xml:lang="sv" type="speaker">
           Herr Bergh:
         </note>
         <u xml:id="i-XcQKTi7X9dqETwKh4emZNJ" who="i-N2PwTvXjXUdT9dRHeMawYq">
@@ -25465,7 +25465,7 @@
         <note xml:id="i-2Q7RSkVp1Re9NjaSPKevh1" xml:lang="sv">
           Vid handläggningen af punkten 3 anmälde sig nedannämnda talare:
         </note>
-        <note xml:id="i-YTXq4XzmRDFrCVKqBotMuE" type="speaker" xml:lang="sv">
+        <note xml:id="i-YTXq4XzmRDFrCVKqBotMuE" xml:lang="sv" type="speaker">
           Herr Östring:
         </note>
         <u xml:id="i-TemR8jVaeDDizTBqSoiaJD" who="i-5r31KKuptPPS63eWzMAseL">
@@ -25494,7 +25494,7 @@
         <note xml:id="i-LKRuXSAddencL9hQjZfdhJ" xml:lang="sv">
           1078 Borgareståndet. 1867. 25 Maj.
         </note>
-        <note xml:id="i-7qmBkDfL2PFCrKHFeHCAVA" type="speaker" xml:lang="sv">
+        <note xml:id="i-7qmBkDfL2PFCrKHFeHCAVA" xml:lang="sv" type="speaker">
           Herr Cederman:
         </note>
         <u xml:id="i-UgmSePLXPzypCStXWVEXDG" who="i-UeTxv9rgAELGir3fWfG4jh">
@@ -25508,7 +25508,7 @@
             skulle ur svaret till Hans Kejserliga Majestät uteslutas.
           </seg>
         </u>
-        <note xml:id="i-3ahUPfUB2fwAGgJdwPLe49" type="speaker" xml:lang="sv">
+        <note xml:id="i-3ahUPfUB2fwAGgJdwPLe49" xml:lang="sv" type="speaker">
           Herr Öhrnberg:
         </note>
         <u xml:id="i-U942aMsjx1i1JsyugFqiSL" who="i-QE8zNVMp9Xs7sAfD5qKxFo">
@@ -25636,7 +25636,7 @@
         <note xml:id="i-r8jfXzMBEWstYkusJWQqJ" xml:lang="sv">
           Öfver punkten 4 yttrade sig nedannämnde ledamöter:
         </note>
-        <note xml:id="i-WPdg34AU5qGeTNE25i5nYr" type="speaker" xml:lang="sv">
+        <note xml:id="i-WPdg34AU5qGeTNE25i5nYr" xml:lang="sv" type="speaker">
           Herr Nylander:
         </note>
         <u xml:id="i-2u7VuU3aFRvD1XSXXCfmzx" who="i-R6esB2VMiCeF9f4oaXQg24">
@@ -26047,7 +26047,7 @@
           innehäller skulle läggas till grund för ständets behandling af
           frägan; i anledning hvaraf ordet begärdes af
         </note>
-        <note xml:id="i-KJDuv9uhG9H9ZHirDbkyA" type="speaker" xml:lang="sv">
+        <note xml:id="i-KJDuv9uhG9H9ZHirDbkyA" xml:lang="sv" type="speaker">
           Herr Ostring, som yttrade:
         </note>
         <u xml:id="i-Ee6MxWMgKMAAnSnhK3z9tN" who="unknown">
@@ -26093,7 +26093,7 @@
         <note xml:id="i-FhyURZDCvLEUZU8fF7Ltmz" xml:lang="unknown">
           $ 1 mom. 1.
         </note>
-        <note xml:id="i-4yVFsnrVJKcLvWgxB5tBVp" type="speaker" xml:lang="sv">
+        <note xml:id="i-4yVFsnrVJKcLvWgxB5tBVp" xml:lang="sv" type="speaker">
           Herr Östring:
         </note>
         <u xml:id="i-NfdhZA4kqhDArgUbETSj36" who="i-5r31KKuptPPS63eWzMAseL">
@@ -26125,7 +26125,7 @@
         <note xml:id="i-6ZK11WcpFiosizxfxcsoR9" xml:lang="sv">
           Mom. 2.
         </note>
-        <note xml:id="i-4E4fxRaHNEpfw85V8gDDmJ" type="speaker" xml:lang="sv">
+        <note xml:id="i-4E4fxRaHNEpfw85V8gDDmJ" xml:lang="sv" type="speaker">
           Herr Hamberg:
         </note>
         <u xml:id="i-JH6MAzyb6guHQB4kQGrgGv" who="i-UGnMF187bsPNnrbM6fZK27">
@@ -26169,7 +26169,7 @@
         <note xml:id="i-H296ERxKCmVLykk77DUjAX" xml:lang="sv">
           $ 2.
         </note>
-        <note xml:id="i-LD1YVGv5XZK3PSnxvDYEHe" type="speaker" xml:lang="sv">
+        <note xml:id="i-LD1YVGv5XZK3PSnxvDYEHe" xml:lang="sv" type="speaker">
           Herr Östring:
         </note>
         <u xml:id="i-QdWcN8QZMeW9z53y9HQmeP" who="i-5r31KKuptPPS63eWzMAseL">
@@ -26238,7 +26238,7 @@
           Deputationen betackades och afträdde; derå den sålunda afbrutna
           diskussionen fortsattes som följer:
         </note>
-        <note xml:id="i-N8aJtTkAXug3atYjqcm2Zb" type="speaker" xml:lang="sv">
+        <note xml:id="i-N8aJtTkAXug3atYjqcm2Zb" xml:lang="sv" type="speaker">
           Herr Bronikowskij:
         </note>
         <u xml:id="i-6qRdXrDNe1FYHi3dqjs38S" who="unknown">
@@ -26333,7 +26333,7 @@
           ting, isynnerhet urtimating, hålles. På grund häraf anser jag
           tingshus böra hela året vara befriade från inqvartering.
         </note>
-        <note xml:id="i-EjFsNX4XJKQ6tExeB94noM" type="speaker" xml:lang="sv">
+        <note xml:id="i-EjFsNX4XJKQ6tExeB94noM" xml:lang="sv" type="speaker">
           Herr Lindeqvist:
         </note>
         <u xml:id="i-FQmAfZLUSjgNVSPzFXznbq" who="i-GGBAD7iX8fRMidLfwkuf4H">
@@ -26351,7 +26351,7 @@
             enligt propositionen. N
           </seg>
         </u>
-        <note xml:id="i-EagjHo9DxdB42tJtRKCs5Z" type="speaker" xml:lang="sv">
+        <note xml:id="i-EagjHo9DxdB42tJtRKCs5Z" xml:lang="sv" type="speaker">
           Herr Cederman:
         </note>
         <u xml:id="i-SVdSSqzkiMum4utzrzFdKD" who="i-UeTxv9rgAELGir3fWfG4jh">
@@ -26375,7 +26375,7 @@
           fande militieboställen vill jag göra det tillägg, att bestämningen
           rörande dem också bör från $ utgå.
         </note>
-        <note xml:id="i-EfmcZsZ1YbbMJJQvEAqCeA" type="speaker" xml:lang="unknown">
+        <note xml:id="i-EfmcZsZ1YbbMJJQvEAqCeA" xml:lang="unknown" type="speaker">
           Herr Wolff:
         </note>
         <u xml:id="i-AXVrqshUwPnpLZHqecGmSN" who="i-2PT41UyWuKo4xm1qXeaPnb">
@@ -26384,7 +26384,7 @@
             få förena mig i det yttrande och de skäl Herr Lindeqvist framställt.
           </seg>
         </u>
-        <note xml:id="i-WUKNhQFBnF2yUo8gCL3NEW" type="speaker" xml:lang="sv">
+        <note xml:id="i-WUKNhQFBnF2yUo8gCL3NEW" xml:lang="sv" type="speaker">
           Herr Östring:
         </note>
         <u xml:id="i-CEXQuJtbkUPPvG3L9pQ4UH" who="i-5r31KKuptPPS63eWzMAseL">
@@ -26552,7 +26552,7 @@
         <note xml:id="i-54MYjzCr6yHk7qxPPgGiF9" xml:lang="sv">
           1096 Borgareståndet. 1867. 27 Maj.
         </note>
-        <note xml:id="i-HhTg5MMpa8KFXB5SPCbse9" type="speaker" xml:lang="sv">
+        <note xml:id="i-HhTg5MMpa8KFXB5SPCbse9" xml:lang="sv" type="speaker">
           Herr Bronikowskij:
         </note>
         <u xml:id="i-8WeREnqTDoD6nFZADpQWxf" who="unknown">
@@ -26568,7 +26568,7 @@
             måtte från författningsförslaget utelemnas.
           </seg>
         </u>
-        <note xml:id="i-GqLNLjinmuw4RbNC1Q5Z7i" type="speaker" xml:lang="sv">
+        <note xml:id="i-GqLNLjinmuw4RbNC1Q5Z7i" xml:lang="sv" type="speaker">
           Herr Malm:
         </note>
         <u xml:id="i-F61zHeu6S1RY6xZXXP6q8F" who="i-M3vdGvw9iDEMvMQ8z7ckwG">
@@ -26597,7 +26597,7 @@
             är orättvist och bör förfalla.
           </seg>
         </u>
-        <note xml:id="i-LtqoiyPiXEkZLCbPik8aZn" type="speaker" xml:lang="sv">
+        <note xml:id="i-LtqoiyPiXEkZLCbPik8aZn" xml:lang="sv" type="speaker">
           Herr Rosenius:
         </note>
         <u xml:id="i-BCB3LQcMsmPiLkTYqgReG3" who="i-MMYT7XLX6YPQ7PudpmVcPj">
@@ -26652,7 +26652,7 @@
           de 80,000 mark sagde stad nödgas för ingvarteringen ärligen utgifva,
           torde enhvar af ständets medlemmar inse vara en emöjlighet.
         </note>
-        <note xml:id="i-TaEQt1eVDehooXuHu9TKy8" type="speaker" xml:lang="sv">
+        <note xml:id="i-TaEQt1eVDehooXuHu9TKy8" xml:lang="sv" type="speaker">
           Herr Malm:
         </note>
         <u xml:id="i-4CSxyhP1gjQrB4DiUxmgDt" who="i-M3vdGvw9iDEMvMQ8z7ckwG">
@@ -26693,7 +26693,7 @@
         <note xml:id="i-NQYBamc7WgxpntorqyNspc" xml:lang="sv">
           Herr Rosenius instämde med Herr Östring.
         </note>
-        <note xml:id="i-34QdQUbesPMJn8TqYGJxUp" type="speaker" xml:lang="sv">
+        <note xml:id="i-34QdQUbesPMJn8TqYGJxUp" xml:lang="sv" type="speaker">
           Herr Bronikowskij:
         </note>
         <u xml:id="i-AvB7Z5JGMHbWa1Q551c8T7" who="unknown">
@@ -26737,7 +26737,7 @@
         <note xml:id="i-8WABrE5FWE7WTfHzQys4jR" xml:lang="sv">
           $ 9.
         </note>
-        <note xml:id="i-HPMhppG75PHjVJ6V5P2vEG" type="speaker" xml:lang="sv">
+        <note xml:id="i-HPMhppG75PHjVJ6V5P2vEG" xml:lang="sv" type="speaker">
           Herr Bronikowskij:
         </note>
         <u xml:id="i-2NsxT4aib8vqk6NKeQMPYR" who="unknown">
@@ -26774,7 +26774,7 @@
         <note xml:id="i-MNdzaUdNXmdPaPmi8sKYHL" xml:lang="fi">
           $ 15.
         </note>
-        <note xml:id="i-LQ6zSWb9cBJLYZ7ihstr2S" type="speaker" xml:lang="sv">
+        <note xml:id="i-LQ6zSWb9cBJLYZ7ihstr2S" xml:lang="sv" type="speaker">
           Herr Bronikowskij:
         </note>
         <u xml:id="i-FWH7sVcecBADeHK5QdDqV3" who="unknown">
@@ -27505,7 +27505,7 @@
           beviljande af statsbidrag för anläggningen af en bro öfver Pojo
           viken.
         </note>
-        <note xml:id="i-MtqY81Ad9GUFD81HgvhfJw" type="speaker" xml:lang="sv">
+        <note xml:id="i-MtqY81Ad9GUFD81HgvhfJw" xml:lang="sv" type="speaker">
           Herr Bergh:
         </note>
         <u xml:id="i-U8AFJ4yLAAXddKMZT956aG" who="i-N2PwTvXjXUdT9dRHeMawYq">
@@ -27647,7 +27647,7 @@
         <note xml:id="i-DaDCSzUvGGFxpcRVCDRpFE" xml:lang="sv">
           $ 23.
         </note>
-        <note xml:id="i-8JvofuQ6LtBvWYem9kiwD7" type="speaker" xml:lang="sv">
+        <note xml:id="i-8JvofuQ6LtBvWYem9kiwD7" xml:lang="sv" type="speaker">
           Herr Bronikowskij yttrade:
         </note>
         <u xml:id="i-WUcrUnziAt5ymixd9f4DcN" who="unknown">
@@ -27832,7 +27832,7 @@
           att deltaga i ständets beslut om afskaffande af borgenärsed i
           konkursmäl.
         </note>
-        <note xml:id="i-RFs1NH3bB8N4tgCA9ZHHKS" type="speaker" xml:lang="sv">
+        <note xml:id="i-RFs1NH3bB8N4tgCA9ZHHKS" xml:lang="sv" type="speaker">
           Härvid begärde Herr Wolff ordet och yttrade:
         </note>
         <u xml:id="i-7sQuhvmZ1FJ6CdcHdaVkGp" who="i-2PT41UyWuKo4xm1qXeaPnb">
@@ -28494,7 +28494,7 @@
           icke finna den så särdeles betungande för sjöfarten, då den fördelas
           på 10 års tid. Jag måste alltså förorda utskottets betänkande.
         </note>
-        <note xml:id="i-8n1Dg2S4Z31QswNR3LNKd1" type="speaker" xml:lang="sv">
+        <note xml:id="i-8n1Dg2S4Z31QswNR3LNKd1" xml:lang="sv" type="speaker">
           Herr Grundfeldt:
         </note>
         <u xml:id="i-FPXJW9ZdeEVT6E9tqgqvcX" who="i-KGaDYg8SvhTQwWAdJXsgTo">
@@ -28562,7 +28562,7 @@
           men då den nya författningen i ämnet utkom, afsade sig begge sina
           befattningar.
         </note>
-        <note xml:id="i-6y2d9Puq3J2py3qUENiqVX" type="speaker" xml:lang="sv">
+        <note xml:id="i-6y2d9Puq3J2py3qUENiqVX" xml:lang="sv" type="speaker">
           Herr Lindblom:
         </note>
         <u xml:id="i-FSWSdY5eTrfH8eV5qYELyz" who="i-XW5vSkDhiDBuTQzpqfPxmM">
@@ -28598,7 +28598,7 @@
           inga andra biträden vid mätningarna begagnats än skeppsfolket,
           som gerna utan nägon ersättning gätt mätaren tillhanda.
         </note>
-        <note xml:id="i-R82osQMq8DtQ2GRqgDMDEX" type="speaker" xml:lang="sv">
+        <note xml:id="i-R82osQMq8DtQ2GRqgDMDEX" xml:lang="sv" type="speaker">
           Herr Mustonen:
         </note>
         <u xml:id="i-RZLWfDmQ8X65sqKhdx8NW3" who="i-QmDvF6akeQRHNrBxFgwyU3">
@@ -28764,7 +28764,7 @@
           kostnadsförslag sålunda blifvit upprättadt, borde till ständernas
           pröfning vid nästkommande landtdag öfverlemnas.
         </note>
-        <note xml:id="i-FzTeojZaxvgtBjbJrFMaTz" type="speaker" xml:lang="sv">
+        <note xml:id="i-FzTeojZaxvgtBjbJrFMaTz" xml:lang="sv" type="speaker">
           Herr Mustonen:
         </note>
         <u xml:id="i-WhocxTA3fMyrCbp3BpH9JG" who="i-QmDvF6akeQRHNrBxFgwyU3">
@@ -28990,7 +28990,7 @@
           att tjenstgöra. En annan ledamot borde då vid sådant förhållande
           utses i stället för Herr Utter.
         </note>
-        <note xml:id="i-7PEcVEWFEkR6wNwTrqLdVb" type="speaker" xml:lang="sv">
+        <note xml:id="i-7PEcVEWFEkR6wNwTrqLdVb" xml:lang="sv" type="speaker">
           Herr Krank:
         </note>
         <u xml:id="i-Y4k3yNnsPsDibZdFxpUHkM" who="i-2v1sP1pTkv6wpgJSg3UXcQ">
@@ -29011,7 +29011,7 @@
           proposition fann ståndet godt befria Herr Krank från ledamotskapet
           i justeringsutskottet.
         </note>
-        <note xml:id="i-ASxm1BrPMoKZgEHfgL3Tg" type="speaker" xml:lang="sv">
+        <note xml:id="i-ASxm1BrPMoKZgEHfgL3Tg" xml:lang="sv" type="speaker">
           Herr Öhrnberg begärde härå ordet och yttrade:
         </note>
         <u xml:id="i-2qoADMRe6fGkCb5bH8G8dr" who="i-QE8zNVMp9Xs7sAfD5qKxFo">
@@ -29022,7 +29022,7 @@
             nemligen Herr Ottelin, skulle träda i Herr Kranks ställe.
           </seg>
         </u>
-        <note xml:id="i-n6yYnQnzYkPS6Jk83tuJn" type="speaker" xml:lang="sv">
+        <note xml:id="i-n6yYnQnzYkPS6Jk83tuJn" xml:lang="sv" type="speaker">
           Herr Talmannen:
         </note>
         <u xml:id="i-Yb3y5hAoixXZdj4FwQv3NP" who="unknown">
@@ -29172,7 +29172,7 @@
           Borgareståndets beslut, innan Bondeståndet tager frågan under
           afgörande.
         </note>
-        <note xml:id="i-3eo4FyQtNEJXNrvzGVQiRP" type="speaker" xml:lang="sv">
+        <note xml:id="i-3eo4FyQtNEJXNrvzGVQiRP" xml:lang="sv" type="speaker">
           Herr Krank:
         </note>
         <u xml:id="i-HZqVsvABG2GQDHKDwNwHyF" who="i-2v1sP1pTkv6wpgJSg3UXcQ">
@@ -29336,7 +29336,7 @@
           ledamotskapet i justeringsutskottet, samt att någon annan blefve
           i mitt ställe dertill utsedd.
         </note>
-        <note xml:id="i-8ZWqgBfBRayGB2r4m91d2h" type="speaker" xml:lang="sv">
+        <note xml:id="i-8ZWqgBfBRayGB2r4m91d2h" xml:lang="sv" type="speaker">
           Herr Lindblom:
         </note>
         <u xml:id="i-NcEzzqT81rpC6JznqWQVde" who="i-XW5vSkDhiDBuTQzpqfPxmM">
@@ -29680,7 +29680,7 @@
           jag är öfvertygad derom, skall fortfarande likasom hittills blifva
           ett kyrkotuktsmedel blott på pappret.
         </note>
-        <note xml:id="i-3fpf7ACqUJGuZA3TexRocK" type="speaker" xml:lang="sv">
+        <note xml:id="i-3fpf7ACqUJGuZA3TexRocK" xml:lang="sv" type="speaker">
           Herr Holm:
         </note>
         <u xml:id="i-7DVLsDTFBFhBz9ww5JjEXs" who="i-8s1muuYkJkCuHXpZxcYW4y">
@@ -29723,7 +29723,7 @@
           med det nuvarande kyrkolagsförslaget, mätte af Borgareständets
           medlemmar biträdas.
         </note>
-        <note xml:id="i-UJF7WveQrUNLxLrsevzHxg" type="speaker" xml:lang="sv">
+        <note xml:id="i-UJF7WveQrUNLxLrsevzHxg" xml:lang="sv" type="speaker">
           Herr Bergh:
         </note>
         <u xml:id="i-frdP8kLNbTtPp8GLGn57W" who="i-N2PwTvXjXUdT9dRHeMawYq">
@@ -29755,7 +29755,7 @@
             riksdagspraxis.
           </seg>
         </u>
-        <note xml:id="i-HBtDsYeniipiaN8pBKjm3G" type="speaker" xml:lang="sv">
+        <note xml:id="i-HBtDsYeniipiaN8pBKjm3G" xml:lang="sv" type="speaker">
           Herr Östring:
         </note>
         <u xml:id="i-5egHBb8Z4aJatKxvqGQ1WJ" who="i-5r31KKuptPPS63eWzMAseL">
@@ -30132,7 +30132,7 @@
           genom utländska resor, isynnerhet i länder, hvars språk är oss
           obekant.
         </note>
-        <note xml:id="i-LN6GsoEyddnw1YusQ99inA" type="speaker" xml:lang="sv">
+        <note xml:id="i-LN6GsoEyddnw1YusQ99inA" xml:lang="sv" type="speaker">
           Herr Öhrnberg:
         </note>
         <u xml:id="i-CMwtdkfYhLeEVfrasrSyGL" who="i-QE8zNVMp9Xs7sAfD5qKxFo">
@@ -31426,7 +31426,7 @@
           sekreteraren, som omhänderhade dem, i sädant afseende emot qvitto
           tillställas förvaltaren af veterankassan.
         </note>
-        <note xml:id="i-CZGPwUeEe4N9Lu1dhM2biu" type="speaker" xml:lang="sv">
+        <note xml:id="i-CZGPwUeEe4N9Lu1dhM2biu" xml:lang="sv" type="speaker">
           Härefter yttrade Herr Talmannen:
         </note>
         <u xml:id="i-VYUSZAC5KjMPijnZy4oHQu" who="unknown">
@@ -32956,7 +32956,7 @@
         <note xml:id="i-WE3QoR8mxYHoJNLDYa4Qbx" xml:lang="unknown">
           1, 17, 18.
         </note>
-        <note xml:id="i-Rk5AaL2nbnuAE1dzseUTzL" type="speaker" xml:lang="sv">
+        <note xml:id="i-Rk5AaL2nbnuAE1dzseUTzL" xml:lang="sv" type="speaker">
           Brundiagsutskottet :
         </note>
         <note xml:id="i-8nkMggJxLer2FCpubEnPky" xml:lang="sv">
@@ -33337,7 +33337,7 @@
           1182. Deputation fr. ridd. o. ad. II. 1144—1145, d:o fr. presteständet
           I. 584—584.
         </note>
-        <note xml:id="i-o7PdDTV84eKJNqkHtBmXY" type="speaker" xml:lang="sv">
+        <note xml:id="i-o7PdDTV84eKJNqkHtBmXY" xml:lang="sv" type="speaker">
           Kyrkolagsutskottet :
         </note>
         <note xml:id="i-HfVpbkCJsZKFnYsoa2ACMa" xml:lang="sv">
@@ -33420,7 +33420,7 @@
         <note xml:id="i-2nbg6TRyB9EfoZLPdJsyJQ" xml:lang="sv">
           Lagmansrätter, ang. deras indragning, se kämnersrätt.
         </note>
-        <note xml:id="i-5gGBPPv7SUFQMdUMjwuvkq" type="speaker" xml:lang="sv">
+        <note xml:id="i-5gGBPPv7SUFQMdUMjwuvkq" xml:lang="sv" type="speaker">
           Lagutskottet:
         </note>
         <note xml:id="i-AeCxG9FMgU1mWyi24ebssW" xml:lang="sv">
@@ -34629,7 +34629,7 @@
         <note xml:id="i-AMBH1EajJc3PqnqNPne2gV" xml:lang="sv">
           — ölver militiefonden för är 1867. I. 267.
         </note>
-        <note xml:id="i-41onfACwe9XGJP1mkzDBgF" type="speaker" xml:lang="sv">
+        <note xml:id="i-41onfACwe9XGJP1mkzDBgF" xml:lang="sv" type="speaker">
           Stats- och bevillningsutskottet:
         </note>
         <note xml:id="i-AmDX6he5FUPdNhZGpAGfov" xml:lang="sv">

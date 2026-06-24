@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="prot_1905-1906_papisto_I">
   <teiHeader>
     <fileDesc>
@@ -1406,7 +1406,7 @@
         <note xml:id="i-6ESDG9emfjaxcvgfGpwLb2" xml:lang="fi">
           Puheenvuoron saatuaan lausuivat:
         </note>
-        <note xml:id="i-4fpc59vsgSZBpPPQz6RXqP" type="speaker" xml:lang="fi">
+        <note xml:id="i-4fpc59vsgSZBpPPQz6RXqP" xml:lang="fi" type="speaker">
           Hra Setälä:
         </note>
         <u xml:id="i-PaWg7zrt1JqE4TwAiYPeCT" who="i-5C3y3vPwK2g3nTViCkVpL4">
@@ -1422,7 +1422,7 @@
             esityksen.
           </seg>
         </u>
-        <note xml:id="i-WjAZatahC45jjenV7hLeEA" type="speaker" xml:lang="fi">
+        <note xml:id="i-WjAZatahC45jjenV7hLeEA" xml:lang="fi" type="speaker">
           Hra Malin:
         </note>
         <u xml:id="i-CNwGq8KxqcT4mSiocYfZyz" who="i-8qrRwBURsh8DZrrsYhwTcH">
@@ -1432,7 +1432,7 @@
             asettamista tähän valiokuntaan. Pyydän saada tämän tiedoksi ilmoittaa.
           </seg>
         </u>
-        <note xml:id="i-36hxU8bAXXCCh2rzgj2KKd" type="speaker" xml:lang="unknown">
+        <note xml:id="i-36hxU8bAXXCCh2rzgj2KKd" xml:lang="unknown" type="speaker">
           Hra Runeberg:
         </note>
         <u xml:id="i-EFYAKsJiWqgVsDmu4QF5cd" who="i-QQ7rzMcvpGv1RunkkD3Hgv">
@@ -1623,7 +1623,7 @@
           28 Pappissääty Jouluk. 28 p. 1905. Puheenvuoron saatuaan lausui
           sen jälkeen:
         </note>
-        <note xml:id="i-HhvMDTGjgBZ91eBsDvWNR3" type="speaker" xml:lang="sv">
+        <note xml:id="i-HhvMDTGjgBZ91eBsDvWNR3" xml:lang="sv" type="speaker">
           Hra Hermanson:
         </note>
         <u xml:id="i-7WgpgFbRsVz3BFqVjwx5Sd" who="i-SaCnJmAftzcnG2e8XYGcL9">
@@ -1645,7 +1645,7 @@
           että yksityisesti oli se milipide lausuttu että valiokunnan jäsenet
           jo tällä välin voisivat perehtyä tulevaan työhönsä.
         </note>
-        <note xml:id="i-SrdABUEzUNy4aAwse8eg7W" type="speaker" xml:lang="unknown">
+        <note xml:id="i-SrdABUEzUNy4aAwse8eg7W" xml:lang="unknown" type="speaker">
           Hra Hedberg:
         </note>
         <u xml:id="i-RaZVSGZMha5TVm3FJZn6t1" who="i-FNPPwEod1e3taFV6aqGkL">
@@ -1659,7 +1659,7 @@
             tästä toimesta ei minusta mitenkään voi tulla kysymykseen.
           </seg>
         </u>
-        <note xml:id="i-QuN6AfgWUNBX7CDbGovL8K" type="speaker" xml:lang="sv">
+        <note xml:id="i-QuN6AfgWUNBX7CDbGovL8K" xml:lang="sv" type="speaker">
           Hra Danielson:
         </note>
         <u xml:id="i-7woN9US4Ww5ZSjN9b9SnJE" who="i-LhNeaJMK2rPRdMfEm4W2yR">
@@ -1670,7 +1670,7 @@
             työhön samaan aikaan kun komitea istuu.
           </seg>
         </u>
-        <note xml:id="i-CQVLUXPNsMj6WnetVDyEgh" type="speaker" xml:lang="unknown">
+        <note xml:id="i-CQVLUXPNsMj6WnetVDyEgh" xml:lang="unknown" type="speaker">
           Hra Runeberg:
         </note>
         <u xml:id="i-XviNYV1zc9mANnKzbBkW5V" who="i-QQ7rzMcvpGv1RunkkD3Hgv">
@@ -1684,7 +1684,7 @@
             komma väl bättre än nägon annan att göra det. :
           </seg>
         </u>
-        <note xml:id="i-DEPJsmi7aVowyGE1RmF7BR" type="speaker" xml:lang="fi">
+        <note xml:id="i-DEPJsmi7aVowyGE1RmF7BR" xml:lang="fi" type="speaker">
           Hra Setälä:
         </note>
         <u xml:id="i-Pcsc9NukuCVtZRCosVTxZD" who="i-5C3y3vPwK2g3nTViCkVpL4">
@@ -1936,7 +1936,7 @@
           jonka sivuilla 4—5 olevan ponnen ensimäisen kohdan johdosta,
           puheenvuoron saatuaan, lausui:
         </note>
-        <note xml:id="i-N9pNjhWDu6bCDbLnMNBgCZ" type="speaker" xml:lang="sv">
+        <note xml:id="i-N9pNjhWDu6bCDbLnMNBgCZ" xml:lang="sv" type="speaker">
           Hra Danielson:
         </note>
         <u xml:id="i-2ZgpFM85Jv97Zd9zLpsVmF" who="i-LhNeaJMK2rPRdMfEm4W2yR">
@@ -2005,7 +2005,7 @@
           aikaan niin pian kuin suinkin, luulen ettei tarvitse epäillä hyväksyä
           tätä mietintöä.
         </note>
-        <note xml:id="i-XnWceKbT68vS6xLFC398Bn" type="speaker" xml:lang="fi">
+        <note xml:id="i-XnWceKbT68vS6xLFC398Bn" xml:lang="fi" type="speaker">
           Vapaahra Palmén:
         </note>
         <u xml:id="i-GRXWoMisRrCp7H4WuDwA4j" who="i-SUpmw56zMz2APdv8K23tDg">
@@ -2039,7 +2039,7 @@
           yhteen mitä kaksi valiokuntaa, jotka ovat asiaa valmistaneet,
           ovat tahtoneet eroittaa.
         </note>
-        <note xml:id="i-6qSu2J4iR8fzHEqY4owocu" type="speaker" xml:lang="sv">
+        <note xml:id="i-6qSu2J4iR8fzHEqY4owocu" xml:lang="sv" type="speaker">
           Hra Nordlund:
         </note>
         <u xml:id="i-9GshjWgcgfk63VUQ5RDdJ6" who="i-7nQwnFEu5Yk3kSApPefrFA">
@@ -2441,7 +2441,7 @@
         <note xml:id="i-VfiQMTddcWtbBtgwQybznG" xml:lang="fi">
           Kun tämän jälkeen tuli kysymykseen notarin valitseminen, lausuivat:
         </note>
-        <note xml:id="i-EYZNVVZfsBtim5Y52ATk94" type="speaker" xml:lang="fi">
+        <note xml:id="i-EYZNVVZfsBtim5Y52ATk94" xml:lang="fi" type="speaker">
           Hra Setälä:
         </note>
         <u xml:id="i-82rhjfiBkFBQwnHFMwcHUw" who="i-5C3y3vPwK2g3nTViCkVpL4">
@@ -2452,7 +2452,7 @@
             muut kirjelmän kohdat heti hyväksytään.
           </seg>
         </u>
-        <note xml:id="i-HtVa5EmU1uFgp4L93b5VEY" type="speaker" xml:lang="fi">
+        <note xml:id="i-HtVa5EmU1uFgp4L93b5VEY" xml:lang="fi" type="speaker">
           Hra Johansson:
         </note>
         <u xml:id="i-CQTpp9n2mpEacfkyqpbazA" who="i-29jAvqcdVSDmnMHm7GL7zd">
@@ -2463,7 +2463,7 @@
             jos saavat siihen lupaa, ja turhaa on minusta asiaa enempää viivytellä.
           </seg>
         </u>
-        <note xml:id="i-7TbsHbFceKcwmpHCiJ8RC9" type="speaker" xml:lang="fi">
+        <note xml:id="i-7TbsHbFceKcwmpHCiJ8RC9" xml:lang="fi" type="speaker">
           Hra Heikel:
         </note>
         <u xml:id="i-MaUGR4rJx5QGtfJFdnPs8S" who="i-NBh89WjkAAKD9CCqxkG37S">
@@ -2473,7 +2473,7 @@
             ehdotusta.
           </seg>
         </u>
-        <note xml:id="i-DU6BzyHbFVdokVrjMEFeFc" type="speaker" xml:lang="fi">
+        <note xml:id="i-DU6BzyHbFVdokVrjMEFeFc" xml:lang="fi" type="speaker">
           Hra Johansson:
         </note>
         <u xml:id="i-63qqJxZbFwVNntZtdAWaNe" who="i-29jAvqcdVSDmnMHm7GL7zd">
@@ -2483,7 +2483,7 @@
             tilaisuudessa olemaan saapuvilla.
           </seg>
         </u>
-        <note xml:id="i-UqNjcABzCxsWjxGLaLKdk2" type="speaker" xml:lang="fi">
+        <note xml:id="i-UqNjcABzCxsWjxGLaLKdk2" xml:lang="fi" type="speaker">
           Hra Hannula:
         </note>
         <u xml:id="i-VUcSr9t5qr3DxbWJX3S53" who="i-D1FsfDBmNqCrFh66jtDHKq">
@@ -3114,7 +3114,7 @@
         <note xml:id="i-QBiaxL1c49HDNpDBoYxfSp" xml:lang="fi">
           ja lausuivat sen johdosta puheenvuoron saatuaan:
         </note>
-        <note xml:id="i-8oGtTQnDFCvTAV7e6b4W2m" type="speaker" xml:lang="fi">
+        <note xml:id="i-8oGtTQnDFCvTAV7e6b4W2m" xml:lang="fi" type="speaker">
           Hra Westerlund:
         </note>
         <u xml:id="i-WHdCoMVV5TRNDdWeqoxJx9" who="i-E4sJZkcvrMxBkmsiZoBAAh">
@@ -3165,7 +3165,7 @@
           pyydän että tämä huomautus saisi seurata armollista esitystä asianomaiseen
           valiokuntaan.
         </note>
-        <note xml:id="i-NKbhaE9dTEZY2h6jiXDWbQ" type="speaker" xml:lang="unknown">
+        <note xml:id="i-NKbhaE9dTEZY2h6jiXDWbQ" xml:lang="unknown" type="speaker">
           Hra Hedberg:
         </note>
         <u xml:id="i-PYC7FjWQ4QDeg8mmFq1Fh3" who="i-FNPPwEod1e3taFV6aqGkL">
@@ -3187,7 +3187,7 @@
           laisessa tekstissä on: ,två tredjedelar af årsvinst", mikä on
           väärin. Tämä olisisi korjattava.
         </note>
-        <note xml:id="i-2ZpiemWt2BantLdGRthQo6" type="speaker" xml:lang="sv">
+        <note xml:id="i-2ZpiemWt2BantLdGRthQo6" xml:lang="sv" type="speaker">
           Hra Söderhjelm:
         </note>
         <u xml:id="i-WLuHoEVWAsmdDbFDHFUw36" who="i-3RMpW3iFEvgpKbFP34kXg8">
@@ -3539,7 +3539,7 @@
         <note xml:id="i-LvSUrcyWBpofh6G8wxQA2k" xml:lang="fi">
           64 Pappissääty Helmik. 27 p. 1906.
         </note>
-        <note xml:id="i-5GPPx9c1qT2DAzobEaq9up" type="speaker" xml:lang="unknown">
+        <note xml:id="i-5GPPx9c1qT2DAzobEaq9up" xml:lang="unknown" type="speaker">
           Hra Runeberg:
         </note>
         <u xml:id="i-AcfEBryfXnxnkmAhKtCqaq" who="i-QQ7rzMcvpGv1RunkkD3Hgv">
@@ -3676,7 +3676,7 @@
           också detta påkalla en liten förändring i beräkningen af skatteintraden.
           Alltså föreslår jag återremiss i det anförda syftet.
         </note>
-        <note xml:id="i-YiBsuZ3zP3PNHJ7UtVwLe" type="speaker" xml:lang="sv">
+        <note xml:id="i-YiBsuZ3zP3PNHJ7UtVwLe" xml:lang="sv" type="speaker">
           Hra Hjelt:
         </note>
         <u xml:id="i-VpNfUebjLAWzJzAm2TJNxG" who="i-C9dmrUvwspHpLHXM6o1jJo">
@@ -3769,7 +3769,7 @@
           käytäntö on oiniansa edistämään kansallemme turmiollista tapaa.
           Pyydän siis saada yhtyä vastalauseesen.
         </note>
-        <note xml:id="i-4NsHEnPUDnV3DSFUnHyh6p" type="speaker" xml:lang="sv">
+        <note xml:id="i-4NsHEnPUDnV3DSFUnHyh6p" xml:lang="sv" type="speaker">
           Hra Lönnrot:
         </note>
         <u xml:id="i-9s7zoSDBmCzw7bpTVjNzt4" who="i-VrYVhWgWmsDTenThaELYuL">
@@ -3795,7 +3795,7 @@
             lykättäisiin valiokuntaan takaisin.
           </seg>
         </u>
-        <note xml:id="i-CH9qYBJsiRX5hXWyWjNxdN" type="speaker" xml:lang="sv">
+        <note xml:id="i-CH9qYBJsiRX5hXWyWjNxdN" xml:lang="sv" type="speaker">
           Hra Schwartzberg:
         </note>
         <u xml:id="i-GzhfCd7XNWjDj3c2sX14kv" who="i-PUGEJH9kXtM6B1imKCMoex">
@@ -3809,7 +3809,7 @@
             mietintöön liitettyä vastalausetta.
           </seg>
         </u>
-        <note xml:id="i-Fddiu1V5r9qGvTgx17sB5V" type="speaker" xml:lang="unknown">
+        <note xml:id="i-Fddiu1V5r9qGvTgx17sB5V" xml:lang="unknown" type="speaker">
           Hra Hedberg:
         </note>
         <u xml:id="i-Av8zUSBU88EA1zpYXLPb8w" who="i-FNPPwEod1e3taFV6aqGkL">
@@ -3825,7 +3825,7 @@
         <note xml:id="i-FpKf3Jh8JmCNzuQKnLRtXB" xml:lang="fi">
           . Pelikorttisuostunnasta. 69
         </note>
-        <note xml:id="i-TXQafQvU4bAWtBj5foAzQA" type="speaker" xml:lang="sv">
+        <note xml:id="i-TXQafQvU4bAWtBj5foAzQA" xml:lang="sv" type="speaker">
           Hra V. T. Rosenqvist:
         </note>
         <u xml:id="i-XsUDNWuz8iqVxB8hTAa9jN" who="unknown">
@@ -3942,7 +3942,7 @@
         <note xml:id="i-WwijPvpeyVWwkvvMHK1gra" xml:lang="sv">
           Jag tillstyrker alltså godkännande af utskottsbetänkandet.
         </note>
-        <note xml:id="i-Ji8k7KpciYjiNG3zP2EQkt" type="speaker" xml:lang="sv">
+        <note xml:id="i-Ji8k7KpciYjiNG3zP2EQkt" xml:lang="sv" type="speaker">
           Hra Hjelt:
         </note>
         <u xml:id="i-EietzB1i7tkJihvK85w9hU" who="i-C9dmrUvwspHpLHXM6o1jJo">
@@ -3972,7 +3972,7 @@
           kuinka alentaminen Ruotsissa vuonna 1896 on siellä vaikuttanut
           valtion tuloihin. Minulla ei ole siitä tietoa.
         </note>
-        <note xml:id="i-DfzZLnXnvTgJ5iZbgrGQ4u" type="speaker" xml:lang="sv">
+        <note xml:id="i-DfzZLnXnvTgJ5iZbgrGQ4u" xml:lang="sv" type="speaker">
           Hra Nordlund:
         </note>
         <u xml:id="i-BSEoN2h6wW3JkSqZN3q1Sg" who="i-7nQwnFEu5Yk3kSApPefrFA">
@@ -4018,7 +4018,7 @@
           och töra med sig en dubbel depravation. På dessa grunder skulle
           jag för min del be att få understöda utskottsbetänkandet.
         </note>
-        <note xml:id="i-BR92FtASR7PzXTfRzhqXkq" type="speaker" xml:lang="unknown">
+        <note xml:id="i-BR92FtASR7PzXTfRzhqXkq" xml:lang="unknown" type="speaker">
           Hra P. Snellman:
         </note>
         <u xml:id="i-Kesn5ArXjquJTjB3do4tDS" who="i-3KmZ2JW55We9zqnwrRNCgP">
@@ -4050,7 +4050,7 @@
           vallanpitäjien kanssa Venäjällä. Tähän nähden kannatan valiokunnan
           mietintöä asiassa.
         </note>
-        <note xml:id="i-7rp7JKV3ZXyXpYnq5p2kdJ" type="speaker" xml:lang="sv">
+        <note xml:id="i-7rp7JKV3ZXyXpYnq5p2kdJ" xml:lang="sv" type="speaker">
           Hra Wennerström:
         </note>
         <u xml:id="i-SgPSKnaWuubrixpMZnfPV" who="i-2F6oVsrG3mDJDsy2mxCob7">
@@ -4121,7 +4121,7 @@
           uträtta nägot med den projekterade förhöjningen, omfattar äfven
           jag den nädiga propositionen.
         </note>
-        <note xml:id="i-GEFtPCaoxBoTgPE94iKM9A" type="speaker" xml:lang="fi">
+        <note xml:id="i-GEFtPCaoxBoTgPE94iKM9A" xml:lang="fi" type="speaker">
           Hra Hellman:
         </note>
         <u xml:id="i-XLhoq68tr6JWyC1BTSG8LS" who="i-D6Mi4GWWJsTvqGyurVJi26">
@@ -4132,7 +4132,7 @@
             puheenvuorosta. Saan vaan ilmoittaa, että minäkin kannatan vastalausetta.
           </seg>
         </u>
-        <note xml:id="i-2Lu4zbJUr4mz2xLBpk6zeU" type="speaker" xml:lang="fi">
+        <note xml:id="i-2Lu4zbJUr4mz2xLBpk6zeU" xml:lang="fi" type="speaker">
           Hra Johansson:
         </note>
         <u xml:id="i-3sTvWwAfeZfGFWwWtfFJyP" who="i-29jAvqcdVSDmnMHm7GL7zd">
@@ -4186,7 +4186,7 @@
           enemmistöllä tulisi hyväksytyksi ja mietintö siis lykättäisiin
           takaisin valiokuntaan.
         </note>
-        <note xml:id="i-VZiPiS875ugebosX45Vjf1" type="speaker" xml:lang="fi">
+        <note xml:id="i-VZiPiS875ugebosX45Vjf1" xml:lang="fi" type="speaker">
           Hra Malin:
         </note>
         <u xml:id="i-WnFsAPWHM55gGRvBXUq9Vu" who="i-8qrRwBURsh8DZrrsYhwTcH">
@@ -4203,7 +4203,7 @@
             siis vastalausetta.
           </seg>
         </u>
-        <note xml:id="i-XCWYibjcauNgcfyQCFGnyu" type="speaker" xml:lang="unknown">
+        <note xml:id="i-XCWYibjcauNgcfyQCFGnyu" xml:lang="unknown" type="speaker">
           Hra Walle:
         </note>
         <u xml:id="i-6ERDtaDWudSwXBCEts3UWA" who="i-Ay8y6qphUDYbXoFXQgQvgE">
@@ -4306,7 +4306,7 @@
           mutta ei ole syytä luulla niiden kohoavankaan. Luulen sentähden,
           että valiokunnan laskut ovat aivan paikallaan.
         </note>
-        <note xml:id="i-553z6whi5e6wvNTs52WgER" type="speaker" xml:lang="fi">
+        <note xml:id="i-553z6whi5e6wvNTs52WgER" xml:lang="fi" type="speaker">
           Hra Hyvärinen:
         </note>
         <u xml:id="i-2EewGkcmSzxug1mv59LRMQ" who="i-GoAtGw3V5JQjMdAfdcsfof">
@@ -4503,7 +4503,7 @@
         <note xml:id="i-7yxmhxtzBDB3ruVfqtJriq" xml:lang="fi">
           Puheenvuoroa käyttivät:
         </note>
-        <note xml:id="i-EM53NRrKZbWWiSb3NZNiAh" type="speaker" xml:lang="fi">
+        <note xml:id="i-EM53NRrKZbWWiSb3NZNiAh" xml:lang="fi" type="speaker">
           Hra Setälä:
         </note>
         <u xml:id="i-FikkMqpJdbreTuej6LQsKH" who="i-5C3y3vPwK2g3nTViCkVpL4">
@@ -4540,7 +4540,7 @@
         <note xml:id="i-KnE8Vz6czoMkXKM3oSjkM" xml:lang="fi">
           82 Pappissääty maalisk. 3 p. 1906.
         </note>
-        <note xml:id="i-SEL7CddKqA1FHedbXCkG4t" type="speaker" xml:lang="fi">
+        <note xml:id="i-SEL7CddKqA1FHedbXCkG4t" xml:lang="fi" type="speaker">
           Hra Heikel:
         </note>
         <u xml:id="i-MED2oJKqvmg4wiGrX6qwau" who="i-NBh89WjkAAKD9CCqxkG37S">
@@ -4639,7 +4639,7 @@
           Jag anhäller vördsamt att detta mitt uttalande mätte fä åtfölja
           remissen till utskottet.
         </note>
-        <note xml:id="i-SHcy9Xbz4UwyHRDdbot7o6" type="speaker" xml:lang="sv">
+        <note xml:id="i-SHcy9Xbz4UwyHRDdbot7o6" xml:lang="sv" type="speaker">
           Hra Danielson:
         </note>
         <u xml:id="i-RSNhGVT1ma1ECajFVsekZ8" who="i-LhNeaJMK2rPRdMfEm4W2yR">
@@ -4701,7 +4701,7 @@
           Arm. esitys N:o 8 uusista rautatierakennuksista aiheutti seuraavan
           keskustelun :
         </note>
-        <note xml:id="i-QMsW5JZimY5NrtyDbSVikk" type="speaker" xml:lang="fi">
+        <note xml:id="i-QMsW5JZimY5NrtyDbSVikk" xml:lang="fi" type="speaker">
           Vapaahra Palmén:
         </note>
         <u xml:id="i-Kyn7F6smHAnTdHE8YtfSgE" who="i-SUpmw56zMz2APdv8K23tDg">
@@ -4792,7 +4792,7 @@
           hyötyä, jos se edistää intensiivistä toimintaa tällä alalla, jotta
           päätetyt radat voisivat kantaa hedelmänsä niin pian kuin mahdollista.
         </note>
-        <note xml:id="i-UvASs7zPTPtieZ7xNtS3TV" type="speaker" xml:lang="sv">
+        <note xml:id="i-UvASs7zPTPtieZ7xNtS3TV" xml:lang="sv" type="speaker">
           Hra Nordlund:
         </note>
         <u xml:id="i-KeVdtC4ZHqcfaGj1ModQyu" who="i-7nQwnFEu5Yk3kSApPefrFA">
@@ -4860,7 +4860,7 @@
           står i sådant oskiljaktigt sammanhang med propositionen om järvägslänet
           som sista mom. 2 8 i L. O. förutsätter.
         </note>
-        <note xml:id="i-KBfaEmdkQE6366PKLmwg6N" type="speaker" xml:lang="sv">
+        <note xml:id="i-KBfaEmdkQE6366PKLmwg6N" xml:lang="sv" type="speaker">
           Hra Lybeck:
         </note>
         <u xml:id="i-MJXyzMHuQ8Ueg2hSrahWRE" who="i-RYRLCW2s7dknqNzUos9PeB">
@@ -4888,7 +4888,7 @@
           näillä ja pastori Nordlundin esittämillä syillä lähettää tämän
           huomautuksen valiokuntaan.
         </note>
-        <note xml:id="i-WMSAWimiYK1gpvUzRk1p8b" type="speaker" xml:lang="fi">
+        <note xml:id="i-WMSAWimiYK1gpvUzRk1p8b" xml:lang="fi" type="speaker">
           Hra Hellman:
         </note>
         <u xml:id="i-YCeAK8KFaWxiFs9Wh1cnMc" who="i-D6Mi4GWWJsTvqGyurVJi26">
@@ -4963,7 +4963,7 @@
         <note xml:id="i-VZLqQKMYb6mt8ZUNFgNBuW" xml:lang="fi">
           jonka johdosta puheenvuoron saatuaan lausui:
         </note>
-        <note xml:id="i-SGXfU9ktg7yrA3dHCB4njR" type="speaker" xml:lang="sv">
+        <note xml:id="i-SGXfU9ktg7yrA3dHCB4njR" xml:lang="sv" type="speaker">
           Hra Björklund:
         </note>
         <u xml:id="i-GKG8Pk2UpGRFATp3bZ1spn" who="i-RE9ioS2PcNCNiD9EFU1fDJ">
@@ -4978,7 +4978,7 @@
             maksu pysytettäisiin edelleen 60 penninä.
           </seg>
         </u>
-        <note xml:id="i-MHR8Pmi5f3pzVs2Y6j7b6C" type="speaker" xml:lang="unknown">
+        <note xml:id="i-MHR8Pmi5f3pzVs2Y6j7b6C" xml:lang="unknown" type="speaker">
           Hra Hedberg:
         </note>
         <u xml:id="i-JUiM6GeZCn2GRMbuh81vci" who="i-FNPPwEod1e3taFV6aqGkL">
@@ -5003,7 +5003,7 @@
           olisi tullut epämuodolliseksi. Näin ollen minäkin puolestani ehdotan,
           että pappissääty hyväksyisi suostuntavaliokunnan yhteensovitusehdotuksen.
         </note>
-        <note xml:id="i-XmxPAVFDUiNoxApj24v3Bu" type="speaker" xml:lang="sv">
+        <note xml:id="i-XmxPAVFDUiNoxApj24v3Bu" xml:lang="sv" type="speaker">
           Hra Berger:
         </note>
         <u xml:id="i-DZEcd11jma6Pg6XnM5gnLF" who="i-6RRNWfsAtFAXWdUseP8L1A">
@@ -5201,7 +5201,7 @@
           pappissääty ole viikkokausiin kokoontunut tänne muuta varten kuin
           kuuntelemaan rukouksia ja pöytäkirjanotteita.
         </note>
-        <note xml:id="i-CwMm9RSabKvgmDHGhcfNJQ" type="speaker" xml:lang="fi">
+        <note xml:id="i-CwMm9RSabKvgmDHGhcfNJQ" xml:lang="fi" type="speaker">
           Vapaahra Palmén:
         </note>
         <u xml:id="i-VVEigQhvV4TmM5KUaxYRQk" who="i-SUpmw56zMz2APdv8K23tDg">
@@ -5215,7 +5215,7 @@
             että aivan samoin on muiden delegatsioonien laita valtiovaliokunnassa.
           </seg>
         </u>
-        <note xml:id="i-9Rg7fkVmotkkP4K8HSEtnu" type="speaker" xml:lang="sv">
+        <note xml:id="i-9Rg7fkVmotkkP4K8HSEtnu" xml:lang="sv" type="speaker">
           Hra V. T. Rosengvist:
         </note>
         <u xml:id="i-67Tp5dg3ipdqDk7Tphb5kf" who="unknown">
@@ -5235,7 +5235,7 @@
             grundlighet, det ansett vara nödvändigt.
           </seg>
         </u>
-        <note xml:id="i-9ifwrNBg7QQTY1V4YcMBfc" type="speaker" xml:lang="fi">
+        <note xml:id="i-9ifwrNBg7QQTY1V4YcMBfc" xml:lang="fi" type="speaker">
           Hra Johansson:
         </note>
         <u xml:id="i-E8JjP89ig64vVhsEaxqqRu" who="i-29jAvqcdVSDmnMHm7GL7zd">
@@ -5254,7 +5254,7 @@
         <note xml:id="i-8hi3ZJJX98NVBiR4bmbAs8" xml:lang="fi">
           Interpellatsioni mietintöjen viipymisestä. 95
         </note>
-        <note xml:id="i-6tQ8B5aRSy8HTRRwKqHUbp" type="speaker" xml:lang="sv">
+        <note xml:id="i-6tQ8B5aRSy8HTRRwKqHUbp" xml:lang="sv" type="speaker">
           Hra Schwartzberg:
         </note>
         <u xml:id="i-XdwsA2QtGA226hAvVioYY1" who="i-PUGEJH9kXtM6B1imKCMoex">
@@ -5278,7 +5278,7 @@
             ei huomenna, niin sitte ylihuomenna on se valmis.
           </seg>
         </u>
-        <note xml:id="i-3EwMbUr4aZR7MiweCvkAgx" type="speaker" xml:lang="sv">
+        <note xml:id="i-3EwMbUr4aZR7MiweCvkAgx" xml:lang="sv" type="speaker">
           Hra Hermanson:
         </note>
         <u xml:id="i-FoPc1HPZzcmGnrrvJDWriT" who="i-SaCnJmAftzcnG2e8XYGcL9">
@@ -5294,7 +5294,7 @@
             jämför arbetet vid desamma med arbetena vid föregående landtdagar.
           </seg>
         </u>
-        <note xml:id="i-5YLihcAF9VXx3NGuad7mWx" type="speaker" xml:lang="fi">
+        <note xml:id="i-5YLihcAF9VXx3NGuad7mWx" xml:lang="fi" type="speaker">
           Hra Malin:
         </note>
         <u xml:id="i-EPjEdqUEgHLHgo4rKuPqHE" who="i-8qrRwBURsh8DZrrsYhwTcH">
@@ -5310,7 +5310,7 @@
             en ensinkään kohdistanut kysymystäni siihen.
           </seg>
         </u>
-        <note xml:id="i-H6BcwbwB2agzN83RVC4Hz5" type="speaker" xml:lang="unknown">
+        <note xml:id="i-H6BcwbwB2agzN83RVC4Hz5" xml:lang="unknown" type="speaker">
           Hra Walle:
         </note>
         <u xml:id="i-3DXkAZ8T3FctHcAAcrrHYK" who="i-Ay8y6qphUDYbXoFXQgQvgE">
@@ -5342,7 +5342,7 @@
           ratkaisun alaisiksikaan, ennenkun tuo suuri eduskuntapropositsioni
           on säädylle jaettu.
         </note>
-        <note xml:id="i-AW78mtVwbTXZtVbh1b6EgG" type="speaker" xml:lang="unknown">
+        <note xml:id="i-AW78mtVwbTXZtVbh1b6EgG" xml:lang="unknown" type="speaker">
           Hra Hedberg:
         </note>
         <u xml:id="i-CFscgmqdHGqurHEgMCkXk6" who="i-FNPPwEod1e3taFV6aqGkL">
@@ -5589,7 +5589,7 @@
         <note xml:id="i-8RvwdJsN8gvSUoA69jfUby" xml:lang="fi">
           Ylempänä mainitun ehdotuksen johdosta lausuivat:
         </note>
-        <note xml:id="i-RpNnTD7Kwd6pjDYNLtynR2" type="speaker" xml:lang="fi">
+        <note xml:id="i-RpNnTD7Kwd6pjDYNLtynR2" xml:lang="fi" type="speaker">
           Hra Heikel:
         </note>
         <u xml:id="i-UiUJHBzE6HvCgPmuTYMWwN" who="i-NBh89WjkAAKD9CCqxkG37S">
@@ -5725,7 +5725,7 @@
           Jag ber att få skänka varmt understöd åt grundlagsutskottets
           förslag.
         </note>
-        <note xml:id="i-GGjuPHeGiAekAHgeH7UE6K" type="speaker" xml:lang="fi">
+        <note xml:id="i-GGjuPHeGiAekAHgeH7UE6K" xml:lang="fi" type="speaker">
           Hra Hannula:
         </note>
         <u xml:id="i-Dr17tXzPwF1PQDc1YURFuc" who="i-D1FsfDBmNqCrFh66jtDHKq">
@@ -5764,7 +5764,7 @@
           esitykseksi sisältää. Ja pappissääty ei mistään niin paljon murehtisi
           kuin siitä, jos ei tätä päämäärää jo näillä valtiopäivillä saavutettaisi.
         </note>
-        <note xml:id="i-MKXggSxCeEsNaHN2iWtXRj" type="speaker" xml:lang="sv">
+        <note xml:id="i-MKXggSxCeEsNaHN2iWtXRj" xml:lang="sv" type="speaker">
           Hra Söderhjelm:
         </note>
         <u xml:id="i-EHyShQkPkga9GULUXq9mQA" who="i-3RMpW3iFEvgpKbFP34kXg8">
@@ -5827,7 +5827,7 @@
           yhteiskuntamme on suoritettava kansalle, ja koska pitemmän viivytyksen
           kautta täällä voi tapahtua seikkoja, joista eduskunta ei ota vastatakseen.
         </note>
-        <note xml:id="i-9P951E9xN2CehJp97pkf19" type="speaker" xml:lang="sv">
+        <note xml:id="i-9P951E9xN2CehJp97pkf19" xml:lang="sv" type="speaker">
           Hra Nordlund:
         </note>
         <u xml:id="i-QgZnbvjhus2AkwG7pXRUmW" who="i-7nQwnFEu5Yk3kSApPefrFA">
@@ -5869,7 +5869,7 @@
           sätt Finlands grundlagar härom stadga. Jag ber således också tör
           min del att få varmt förorda grundlagsutskottets förslag.
         </note>
-        <note xml:id="i-DpwPsi2BTNzJ4RR1ZetBYY" type="speaker" xml:lang="unknown">
+        <note xml:id="i-DpwPsi2BTNzJ4RR1ZetBYY" xml:lang="unknown" type="speaker">
           Hra Runeberg:
         </note>
         <u xml:id="i-N1rNM8ZRMQaFLTA1r4Jpyv" who="i-QQ7rzMcvpGv1RunkkD3Hgv">
@@ -5932,7 +5932,7 @@
           utan helt säkert hela folket förenar sig. Jag ber derför att få
           tillstyrka godkännande af förslaget.
         </note>
-        <note xml:id="i-GKEhYTkBtKSdt363B3G6qQ" type="speaker" xml:lang="sv">
+        <note xml:id="i-GKEhYTkBtKSdt363B3G6qQ" xml:lang="sv" type="speaker">
           Hra Danielson:
         </note>
         <u xml:id="i-St6fmU2hVxswbCghCX1g4N" who="i-LhNeaJMK2rPRdMfEm4W2yR">
@@ -5984,7 +5984,7 @@
           Kannatan siis säädyssä, samoin kun olen tehnyt sitä perustuslakivaliokunnassa,
           esillä olevaa adressiehdotusta.
         </note>
-        <note xml:id="i-Di1EtCksz5gS4iipdA1uap" type="speaker" xml:lang="sv">
+        <note xml:id="i-Di1EtCksz5gS4iipdA1uap" xml:lang="sv" type="speaker">
           Hra Hermanson:
         </note>
         <u xml:id="i-TYwyApK2uJCPhLSsFShJw3" who="i-SaCnJmAftzcnG2e8XYGcL9">
@@ -6028,7 +6028,7 @@
           afgifva denna förklaring. 1 själfva hufvudsaken tillstyrker jag
           naturligtvis, såsom ledamot af grundlagsutskoitet, dess förslag.
         </note>
-        <note xml:id="i-B378oR5UEKMgE7QKDCgogR" type="speaker" xml:lang="sv">
+        <note xml:id="i-B378oR5UEKMgE7QKDCgogR" xml:lang="sv" type="speaker">
           Hra Söderhjelm:
         </note>
         <u xml:id="i-N2s6Stf7yN2CRiLKNZcjSY" who="i-3RMpW3iFEvgpKbFP34kXg8">
@@ -6100,7 +6100,7 @@
         <note xml:id="i-NvMEnx6fh4XM7W6NcSrtA5" xml:lang="fi">
           Keskustelu:
         </note>
-        <note xml:id="i-MsmV2Mxqc17G7hKamPSX6Q" type="speaker" xml:lang="unknown">
+        <note xml:id="i-MsmV2Mxqc17G7hKamPSX6Q" xml:lang="unknown" type="speaker">
           Hra Walle:
         </note>
         <u xml:id="i-XtvfBfTrtmhhS7bZCJkcUL" who="i-Ay8y6qphUDYbXoFXQgQvgE">
@@ -6112,7 +6112,7 @@
             puheenalaiset toimituskirjat ovat vapaat.
           </seg>
         </u>
-        <note xml:id="i-Ef6yPAhp8JqP9AGQ9cGhfa" type="speaker" xml:lang="sv">
+        <note xml:id="i-Ef6yPAhp8JqP9AGQ9cGhfa" xml:lang="sv" type="speaker">
           Hra Saxén:
         </note>
         <u xml:id="i-U4ATWHYsTT5TUfj3izDjQ9" who="i-6uBc5itfkvswdCxwfNnXyC">
@@ -6224,7 +6224,7 @@
           genom hvilka egendom, som i kontant eller värde ej uppgär till
           100 mark, bortgifves — 25 p.*
         </note>
-        <note xml:id="i-SMpN7pEwRXwqSy6t5DtDe8" type="speaker" xml:lang="fi">
+        <note xml:id="i-SMpN7pEwRXwqSy6t5DtDe8" xml:lang="fi" type="speaker">
           Vapaahra Palmén:
         </note>
         <u xml:id="i-K7EpXQ3rkYFutGFMVtQRgs" who="i-SUpmw56zMz2APdv8K23tDg">
@@ -6347,7 +6347,7 @@
           ajatellaan että, jos kysyjällä on sarekkeita, on täyttäjällä
           numeroita. Semmoisella tilastolla ei ole sanottavaa arvoa.
         </note>
-        <note xml:id="i-FSAnCeAh1cuMvVspxw7Bap" type="speaker" xml:lang="fi">
+        <note xml:id="i-FSAnCeAh1cuMvVspxw7Bap" xml:lang="fi" type="speaker">
           Hra Johansson:
         </note>
         <u xml:id="i-2MBTFQ6t2JQh5UCViGjeQH" who="i-29jAvqcdVSDmnMHm7GL7zd">
@@ -6363,7 +6363,7 @@
         <note xml:id="i-MvL7VnC1mpSEs7HwvazCQT" xml:lang="fi">
           3 &amp;:n johdosta lausuivat:
         </note>
-        <note xml:id="i-HfdpmghnuHDPYKyt9bVxyk" type="speaker" xml:lang="fi">
+        <note xml:id="i-HfdpmghnuHDPYKyt9bVxyk" xml:lang="fi" type="speaker">
           Hra Hyvärinen:
         </note>
         <u xml:id="i-8EjbwTE3Au3j6x9dfwiGw8" who="i-GoAtGw3V5JQjMdAfdcsfof">
@@ -6423,7 +6423,7 @@
           niin, niinkuin valiokunta ehdottaa, ettei nyt ole aihetta lisätä
           näistä johtuvia leimamaksuja.
         </note>
-        <note xml:id="i-PzSEa38vZH9EhAfeFxEa3r" type="speaker" xml:lang="sv">
+        <note xml:id="i-PzSEa38vZH9EhAfeFxEa3r" xml:lang="sv" type="speaker">
           Hra Hjelt:
         </note>
         <u xml:id="i-4WgknBnFzB2CUkZsQxMHq8" who="i-C9dmrUvwspHpLHXM6o1jJo">
@@ -6513,7 +6513,7 @@
           500 markaksi koko kuukaudelta tai kuukauden osalta tai 50 markaksi
           jokaisesta näytännöstä.
         </note>
-        <note xml:id="i-NhhcENagTDXZTGpbzFr7oU" type="speaker" xml:lang="fi">
+        <note xml:id="i-NhhcENagTDXZTGpbzFr7oU" xml:lang="fi" type="speaker">
           Hra Auvinen:
         </note>
         <u xml:id="i-FovZEf8nSVoGByygXMhTjh" who="i-J6zP3X9ccdcPDSdoJRRzLX">
@@ -6544,7 +6544,7 @@
           edellisillä valtiopäivillä, vuonna 1894 ja 1897, myöskin on päättänyt
           tämän veron korotettavaksi mainitsemaani määrään.
         </note>
-        <note xml:id="i-6CpgrrSkNNi8axt5GW9doG" type="speaker" xml:lang="sv">
+        <note xml:id="i-6CpgrrSkNNi8axt5GW9doG" xml:lang="sv" type="speaker">
           Hra Ingman:
         </note>
         <u xml:id="i-7wBew9TWrc3rLb7V9PYpTL" who="i-Ef7n2WRKmjh7HiBPqvKhX5">
@@ -6601,7 +6601,7 @@
           mutta tyydyn tällä kertaa kannattamaan professori Hjeltin tekemää
           ehdotusta.
         </note>
-        <note xml:id="i-LWWvfbLKCkD6JBNZzMyvs7" type="speaker" xml:lang="fi">
+        <note xml:id="i-LWWvfbLKCkD6JBNZzMyvs7" xml:lang="fi" type="speaker">
           Hra Johansson:
         </note>
         <u xml:id="i-6VSXuXoxEPJ7wxkkRRnJcq" who="i-29jAvqcdVSDmnMHm7GL7zd">
@@ -6623,7 +6623,7 @@
         <note xml:id="i-9ixMMWTXqy1zpLJzmqPSt3" xml:lang="fi">
           Hra Auvinen kannatti lääninprovasti Johanssonin tekemää lisäehdotusta.
         </note>
-        <note xml:id="i-So3fUBoM7wyxSPPxFhfRPv" type="speaker" xml:lang="unknown">
+        <note xml:id="i-So3fUBoM7wyxSPPxFhfRPv" xml:lang="unknown" type="speaker">
           Hra Walle:
         </note>
         <u xml:id="i-RZdpAXKWCbZFFNxiQxViGT" who="i-Ay8y6qphUDYbXoFXQgQvgE">
@@ -6667,7 +6667,7 @@
           ja, niinkuin on ollut tänäpäivänä valiokunnassa puhe, vero mallasjuomistakin
           tulee korotetuksi, nekin tulevat tavallaan tätä tulvaa ehkäisemään.
         </note>
-        <note xml:id="i-Rm2BorXBLxMyay4hV9DEUC" type="speaker" xml:lang="sv">
+        <note xml:id="i-Rm2BorXBLxMyay4hV9DEUC" xml:lang="sv" type="speaker">
           Hra Gummerus:
         </note>
         <u xml:id="i-M8QhGrbtXGqc74wL4xjX2n" who="i-669G58xkbnpQCsVJmoyWfs">
@@ -6680,7 +6680,7 @@
             ehdotuksia näissä kohdin.
           </seg>
         </u>
-        <note xml:id="i-355UBrPkDHidMezxeAdV8B" type="speaker" xml:lang="fi">
+        <note xml:id="i-355UBrPkDHidMezxeAdV8B" xml:lang="fi" type="speaker">
           Hra Hellman:
         </note>
         <u xml:id="i-CboVuFgroz5kM4gBZzTeFu" who="i-D6Mi4GWWJsTvqGyurVJi26">
@@ -6788,7 +6788,7 @@
           toistaiseksi olen hyvinkin epävarma siitä, tuottaisiko ehdotettu
           toimenpide toivottua tulosta.
         </note>
-        <note xml:id="i-U7K1tua9s9e2B3U2tAGPhZ" type="speaker" xml:lang="fi">
+        <note xml:id="i-U7K1tua9s9e2B3U2tAGPhZ" xml:lang="fi" type="speaker">
           Hra H. E. Schroderus:
         </note>
         <u xml:id="i-BLGBQmdBnCLzgnDgJrGSBU" who="unknown">
@@ -6802,7 +6802,7 @@
             ei siitä virasta mitään sanottavaa tuloakaan ole.
           </seg>
         </u>
-        <note xml:id="i-W7YuHEiGLro89Ug33ZhgDp" type="speaker" xml:lang="unknown">
+        <note xml:id="i-W7YuHEiGLro89Ug33ZhgDp" xml:lang="unknown" type="speaker">
           Hra G. G. Rosenqvist:
         </note>
         <u xml:id="i-S1Zyyr2wrwuiF27NXAEGFr" who="unknown">
@@ -6850,7 +6850,7 @@
           efter samma principer, som följas vid beskattningen af andra liknande
           beskattningsföremål.
         </note>
-        <note xml:id="i-CMNYNyVwscazY7hz949Pxm" type="speaker" xml:lang="fi">
+        <note xml:id="i-CMNYNyVwscazY7hz949Pxm" xml:lang="fi" type="speaker">
           Hra Tallgren:
         </note>
         <u xml:id="i-JMzCprP7MszHBvpnsb5nw8" who="i-5mrB9FPRsk5QE1MSMJGM5v">
@@ -6878,7 +6878,7 @@
           hyvin lievästi. Minusta on 20 markkaa aivan liiaksi. Kun niistä
           on hyötyä opelukselle, riittäisi mielestäni kylläkin 10 markkaa.
         </note>
-        <note xml:id="i-NN4PTHxG5RzpLH3CJmyMQK" type="speaker" xml:lang="sv">
+        <note xml:id="i-NN4PTHxG5RzpLH3CJmyMQK" xml:lang="sv" type="speaker">
           Hra Serlachius:
         </note>
         <u xml:id="i-uvFfosx1YtX5jSSyijhjg" who="i-9oAGbXKxe5dgbbLMbJ63tk">
@@ -6930,7 +6930,7 @@
           asiata, niin minä luulen, että verotus, ja korkea verotus, on
           varsin paikallaan.
         </note>
-        <note xml:id="i-6c7efnKMJjTbAT9K43UQBp" type="speaker" xml:lang="fi">
+        <note xml:id="i-6c7efnKMJjTbAT9K43UQBp" xml:lang="fi" type="speaker">
           Hra Maunu:
         </note>
         <u xml:id="i-KHhBfbpYSkFg5m89j75hYk" who="i-24MJDgsqqgCgQM9j64vDZY">
@@ -6964,7 +6964,7 @@
           kokonaan vapaita tai huokeita, eivätkä milloinkaan tulisi maksamaan
           korkeampaa maksua, joka mietinnössä on ehdotettu 50 markaksi.
         </note>
-        <note xml:id="i-LD7z1bbfH9UbrGk6Tb7Stk" type="speaker" xml:lang="unknown">
+        <note xml:id="i-LD7z1bbfH9UbrGk6Tb7Stk" xml:lang="unknown" type="speaker">
           Hra Walle:
         </note>
         <u xml:id="i-CXkbxPCM7BMk6VW3i23tC9" who="i-Ay8y6qphUDYbXoFXQgQvgE">
@@ -7048,7 +7048,7 @@
           alltså för att utskottets förslag ocksä frän etisk synpunkt läter
           försvara sig.
         </note>
-        <note xml:id="i-Cc4HBsf7jKBRHHTxDMbneM" type="speaker" xml:lang="fi">
+        <note xml:id="i-Cc4HBsf7jKBRHHTxDMbneM" xml:lang="fi" type="speaker">
           Hra Tallgren:
         </note>
         <u xml:id="i-77qZkkke3nF8TggYZSWNbg" who="i-5mrB9FPRsk5QE1MSMJGM5v">
@@ -7140,7 +7140,7 @@
         <note xml:id="i-q7j9yjroSjeft1biciYgU" xml:lang="fi">
           4 8 hyväksyttiin keskustelutta: 5 &amp;:stä keskusteltiin seuraavasti.
         </note>
-        <note xml:id="i-LguY7vZqGfBZ3WbR26J5nU" type="speaker" xml:lang="sv">
+        <note xml:id="i-LguY7vZqGfBZ3WbR26J5nU" xml:lang="sv" type="speaker">
           Hra Mennander:
         </note>
         <u xml:id="i-K7FiNwLaxQo9sKwpcCwma3" who="i-4JLjd6bDZEbBMJYBuR7DMV">
@@ -7242,7 +7242,7 @@
           koskevat, lukuunottamatta määräyskirjoja ja valtakirjoja virkaan
           tai arvoon.*
         </note>
-        <note xml:id="i-QXM9RECjuLZS8Kq8GdNTJ" type="speaker" xml:lang="fi">
+        <note xml:id="i-QXM9RECjuLZS8Kq8GdNTJ" xml:lang="fi" type="speaker">
           Hra Johansson:
         </note>
         <u xml:id="i-Lt7fGYQM1zjCMzvkBut56t" who="i-29jAvqcdVSDmnMHm7GL7zd">
@@ -7260,7 +7260,7 @@
             sillä kymys ei ole suinkaan suuren suuri.
           </seg>
         </u>
-        <note xml:id="i-XrwfvhRiA4k1CA3YkDV7Zj" type="speaker" xml:lang="sv">
+        <note xml:id="i-XrwfvhRiA4k1CA3YkDV7Zj" xml:lang="sv" type="speaker">
           Hra Serlachius:
         </note>
         <u xml:id="i-NYpofBu6bjepbK1p4gtB64" who="i-9oAGbXKxe5dgbbLMbJ63tk">
@@ -7292,7 +7292,7 @@
         <note xml:id="i-Er4fHgk2NTXyEeHHUG32sv" xml:lang="fi">
           Leimasuostunnasta. 131
         </note>
-        <note xml:id="i-NVVepeC2FprZMi3AXzwCzg" type="speaker" xml:lang="unknown">
+        <note xml:id="i-NVVepeC2FprZMi3AXzwCzg" xml:lang="unknown" type="speaker">
           Hra Walle:
         </note>
         <u xml:id="i-VNcvj2yfb43uBQ3Pun5Ba2" who="i-Ay8y6qphUDYbXoFXQgQvgE">
@@ -7351,7 +7351,7 @@
           saaneet metsänmyynnillä ja jommoisia miljoonamääriä eivät etelässä
           olevat kunnat ole saaneet eivätkä tulle saamaan.
         </note>
-        <note xml:id="i-QEEdHt2rZT92vyZUh5jN4C" type="speaker" xml:lang="fi">
+        <note xml:id="i-QEEdHt2rZT92vyZUh5jN4C" xml:lang="fi" type="speaker">
           Hra Johansson:
         </note>
         <u xml:id="i-CsJVxsSFrLapd7MXy6sA5o" who="i-29jAvqcdVSDmnMHm7GL7zd">
@@ -7367,7 +7367,7 @@
             tämä sääty ne jättää entiselleen.
           </seg>
         </u>
-        <note xml:id="i-6BJQXL8WmSjCsf9KQvDoyw" type="speaker" xml:lang="fi">
+        <note xml:id="i-6BJQXL8WmSjCsf9KQvDoyw" xml:lang="fi" type="speaker">
           Hra Hannula:
         </note>
         <u xml:id="i-LpXhNcRWfexEoVMcNRutte" who="i-D1FsfDBmNqCrFh66jtDHKq">
@@ -7382,7 +7382,7 @@
             ehdotusta.
           </seg>
         </u>
-        <note xml:id="i-A7rg5Uk7ZxbAKSSLQ1JhZK" type="speaker" xml:lang="sv">
+        <note xml:id="i-A7rg5Uk7ZxbAKSSLQ1JhZK" xml:lang="sv" type="speaker">
           Hra Svanljung:
         </note>
         <u xml:id="i-TTdndcWRjV2EKJvJeg5ZL1" who="i-S8BUZ6vnbJpzzmYXeu7wqs">
@@ -7398,7 +7398,7 @@
             nauttia sitä vapautta, joka täten heille on suotu.
           </seg>
         </u>
-        <note xml:id="i-DvRoxADw8y5KfHZ4f1tQ4p" type="speaker" xml:lang="sv">
+        <note xml:id="i-DvRoxADw8y5KfHZ4f1tQ4p" xml:lang="sv" type="speaker">
           Hra Schwartzberg:
         </note>
         <u xml:id="i-Q4bsJRThkYTfBiCvGvZJaU" who="i-PUGEJH9kXtM6B1imKCMoex">
@@ -7442,7 +7442,7 @@
         <note xml:id="i-KuuXRFwEqjRB9HhHCEB8EB" xml:lang="fi">
           6 &amp;. Puheenvuoroa käyttivät:
         </note>
-        <note xml:id="i-Jzj2PTH5XxDXxH6NQ7dNU4" type="speaker" xml:lang="fi">
+        <note xml:id="i-Jzj2PTH5XxDXxH6NQ7dNU4" xml:lang="fi" type="speaker">
           Hra Heikel:
         </note>
         <u xml:id="i-EZk3scwof595WpjCybN75M" who="i-NBh89WjkAAKD9CCqxkG37S">
@@ -7554,7 +7554,7 @@
           framställda ändringsförslaget rörande beskattning af testamente,
           hvilket förslag synes väl motiveradt.
         </note>
-        <note xml:id="i-5aEk6P9eBAh7idwoaS4aT3" type="speaker" xml:lang="fi">
+        <note xml:id="i-5aEk6P9eBAh7idwoaS4aT3" xml:lang="fi" type="speaker">
           Hra Malin:
         </note>
         <u xml:id="i-KFmRX19gjePjEaRimNQ8Sz" who="i-8qrRwBURsh8DZrrsYhwTcH">
@@ -7578,7 +7578,7 @@
             että asianomaisten varalta.
           </seg>
         </u>
-        <note xml:id="i-RuqU2VtXBZP2dBy79uvL8n" type="speaker" xml:lang="fi">
+        <note xml:id="i-RuqU2VtXBZP2dBy79uvL8n" xml:lang="fi" type="speaker">
           Hra Hyvärinen:
         </note>
         <u xml:id="i-W9nUtRV6dpkZuCtW3aDtNb" who="i-GoAtGw3V5JQjMdAfdcsfof">
@@ -7686,7 +7686,7 @@
         <note xml:id="i-Wm2ALmCBECoCdCmApm6yPa" xml:lang="fi">
           Sivulla 5 olevan ponnen johdosta käyttivät puheenvuoroa:
         </note>
-        <note xml:id="i-GUy6rhc5WpXdm7qTnCNhgL" type="speaker" xml:lang="sv">
+        <note xml:id="i-GUy6rhc5WpXdm7qTnCNhgL" xml:lang="sv" type="speaker">
           Hra Svanljung:
         </note>
         <u xml:id="i-3AWEpYgBa13gwJyHh4dG2L" who="i-S8BUZ6vnbJpzzmYXeu7wqs">
@@ -7715,7 +7715,7 @@
           että valiokunnan arvioima apumaksu on oikea, enkä sen vuoksi
           tahdo vastustaa valiokunnan korottamaa määrää.
         </note>
-        <note xml:id="i-N572JoPfcxm77whRtHwVJB" type="speaker" xml:lang="fi">
+        <note xml:id="i-N572JoPfcxm77whRtHwVJB" xml:lang="fi" type="speaker">
           Vapaahra Palmén:
         </note>
         <u xml:id="i-FMo9inQFS3dAZuRCDtYhca" who="i-SUpmw56zMz2APdv8K23tDg">
@@ -7748,7 +7748,7 @@
             jotka sitä vastaan ovat esitetyt, vielä riitä sitä kumoamaan.
           </seg>
         </u>
-        <note xml:id="i-4zLf3b68vvj3nAXpofCTxQ" type="speaker" xml:lang="sv">
+        <note xml:id="i-4zLf3b68vvj3nAXpofCTxQ" xml:lang="sv" type="speaker">
           Hra Svanljung:
         </note>
         <u xml:id="i-JxzQK5q6MvDiNxWZiz3tHj" who="i-S8BUZ6vnbJpzzmYXeu7wqs">
@@ -7760,7 +7760,7 @@
             suurempaa raha-apua.
           </seg>
         </u>
-        <note xml:id="i-6zVzmsXHi9AdJ1ucThiCfA" type="speaker" xml:lang="fi">
+        <note xml:id="i-6zVzmsXHi9AdJ1ucThiCfA" xml:lang="fi" type="speaker">
           Vapaahra Palmen:
         </note>
         <u xml:id="i-XPQEeVBCBMrwMk9gHPvdcc" who="unknown">
@@ -7781,7 +7781,7 @@
           muualta näitä tietoja voi saada kuin juuri kaupungin hyväksymästä
           kulunkiarviosta.
         </note>
-        <note xml:id="i-56ssybzHmkTPis6xT3523C" type="speaker" xml:lang="sv">
+        <note xml:id="i-56ssybzHmkTPis6xT3523C" xml:lang="sv" type="speaker">
           Hra Svanljung:
         </note>
         <u xml:id="i-KZWJbnRxbSoiZJzJfr6JTB" who="i-S8BUZ6vnbJpzzmYXeu7wqs">
@@ -7801,7 +7801,7 @@
         <note xml:id="i-Y6NapsPcVkYyt2GYyA3foj" xml:lang="fi">
           Kun ponsi sivulla 7 otettiin kekustelun alaiseksi, lausuivat:
         </note>
-        <note xml:id="i-5kcpDsPZ2MrDSK7H4aFjfr" type="speaker" xml:lang="fi">
+        <note xml:id="i-5kcpDsPZ2MrDSK7H4aFjfr" xml:lang="fi" type="speaker">
           Vapaahra Palmen:
         </note>
         <u xml:id="i-CJpYN6X9Vprz5rvLTxqFyc" who="unknown">
@@ -7813,7 +7813,7 @@
             kursiivilla painettu paikka tulisi säätyjen vastaukseen.
           </seg>
         </u>
-        <note xml:id="i-SYzkKQBuLr75KdbPtE9nPJ" type="speaker" xml:lang="fi">
+        <note xml:id="i-SYzkKQBuLr75KdbPtE9nPJ" xml:lang="fi" type="speaker">
           Hra Johansson:
         </note>
         <u xml:id="i-ASsj7Jkvzesqbg3KNj8TKs" who="i-29jAvqcdVSDmnMHm7GL7zd">
@@ -7832,7 +7832,7 @@
         <note xml:id="i-ETsvvAms28jz5Q8nwnZEBD" xml:lang="fi">
           Mietinnön sivulla12 olevan ensimäisen ponnen johdosta lausui:
         </note>
-        <note xml:id="i-38wGU6U5DdD8u5wd3JLmh9" type="speaker" xml:lang="fi">
+        <note xml:id="i-38wGU6U5DdD8u5wd3JLmh9" xml:lang="fi" type="speaker">
           Hra Hyvärinen:
         </note>
         <u xml:id="i-4k3QRom4TR9c7qPCWvEQVv" who="i-GoAtGw3V5JQjMdAfdcsfof">
@@ -7883,7 +7883,7 @@
           varten maalaiskuntien kansakoulunopettajille ja opettajattarille,
           aiheutti seuraavan keskustelun:
         </note>
-        <note xml:id="i-23K6GiqMMj3UeDxXYWw3yk" type="speaker" xml:lang="fi">
+        <note xml:id="i-23K6GiqMMj3UeDxXYWw3yk" xml:lang="fi" type="speaker">
           Hra Hyvärinen:
         </note>
         <u xml:id="i-SD7nU5D57LMrzvNXfkNjh2" who="i-GoAtGw3V5JQjMdAfdcsfof">
@@ -7899,7 +7899,7 @@
             toivomuksen toteutuvan, ellei osoteta varoja näihin tarkoituksiin.
           </seg>
         </u>
-        <note xml:id="i-Cpx1KqysNM7fKfkimn16Pt" type="speaker" xml:lang="fi">
+        <note xml:id="i-Cpx1KqysNM7fKfkimn16Pt" xml:lang="fi" type="speaker">
           Vapaahra Palmén:
         </note>
         <u xml:id="i-JE6iAymigV62Ee4pjMvEmn" who="i-SUpmw56zMz2APdv8K23tDg">
@@ -7985,7 +7985,7 @@
           därhän, att anslaget mätte höjas ätminstone till dubbelt af det
           nu upptagna beloppet.
         </note>
-        <note xml:id="i-Xz8UJRRuyVTL5ivzxh6hKL" type="speaker" xml:lang="fi">
+        <note xml:id="i-Xz8UJRRuyVTL5ivzxh6hKL" xml:lang="fi" type="speaker">
           Hra Johansson:
         </note>
         <u xml:id="i-8NwB7drySdn7kAbzxP15Zg" who="i-29jAvqcdVSDmnMHm7GL7zd">
@@ -7995,7 +7995,7 @@
             on siinä tehnyt mitä tehtävänä on ollut ja toivoa on voitu.
           </seg>
         </u>
-        <note xml:id="i-5xXehkHX53iyqGheUs8t4B" type="speaker" xml:lang="fi">
+        <note xml:id="i-5xXehkHX53iyqGheUs8t4B" xml:lang="fi" type="speaker">
           Hra Hellman:
         </note>
         <u xml:id="i-QZjDXZzzVvPLSdVEgyDG6S" who="i-D6Mi4GWWJsTvqGyurVJi26">
@@ -8020,7 +8020,7 @@
             tämä onkin minun puoleltani väärinkäsitys.
           </seg>
         </u>
-        <note xml:id="i-8rhCXCBrNRXMULvjXzjVqN" type="speaker" xml:lang="unknown">
+        <note xml:id="i-8rhCXCBrNRXMULvjXzjVqN" xml:lang="unknown" type="speaker">
           Hra H. H. Snellman:
         </note>
         <u xml:id="i-7EhM41z6w4KTyvWZYFRXHU" who="unknown">
@@ -8042,7 +8042,7 @@
           gen. Därtör skulle jag vilja särskildt framhålla, att detta anslag
           för auskultering och tör stipendieresor borde höjas.
         </note>
-        <note xml:id="i-DFYxhMYvVhYVL49Yhv79Nr" type="speaker" xml:lang="fi">
+        <note xml:id="i-DFYxhMYvVhYVL49Yhv79Nr" xml:lang="fi" type="speaker">
           Hra Johansson:
         </note>
         <u xml:id="i-6a1gA1BVGo1NQpBfEX6CPg" who="i-29jAvqcdVSDmnMHm7GL7zd">
@@ -8058,7 +8058,7 @@
             tämä taas maaseutua.
           </seg>
         </u>
-        <note xml:id="i-QNfi1T3wVsHFowU7shkAzY" type="speaker" xml:lang="fi">
+        <note xml:id="i-QNfi1T3wVsHFowU7shkAzY" xml:lang="fi" type="speaker">
           Hra Hellman:
         </note>
         <u xml:id="i-5hb4Q71aykwJeDuWcYiAds" who="i-D6Mi4GWWJsTvqGyurVJi26">
@@ -8075,7 +8075,7 @@
             pu-
           </seg>
         </u>
-        <note xml:id="i-ARJwGBBkufhxdJKnWDNyUX" type="speaker" xml:lang="sv">
+        <note xml:id="i-ARJwGBBkufhxdJKnWDNyUX" xml:lang="sv" type="speaker">
           Hra Nordlund:
         </note>
         <u xml:id="i-PHMFyUGe4NF5QnXWupnhn5" who="i-7nQwnFEu5Yk3kSApPefrFA">
@@ -8087,7 +8087,7 @@
             folkskolelärare och och lärarinnor pä landet.
           </seg>
         </u>
-        <note xml:id="i-C12DWcWvKdarLRjGAX4P4z" type="speaker" xml:lang="fi">
+        <note xml:id="i-C12DWcWvKdarLRjGAX4P4z" xml:lang="fi" type="speaker">
           Vapaahra Palmén:
         </note>
         <u xml:id="i-SZefaLomo7V3SR8zCjCTZZ" who="i-SUpmw56zMz2APdv8K23tDg">
@@ -8100,7 +8100,7 @@
             joten en usko, että tarvitsee asian valiokuntaan palauttaa.
           </seg>
         </u>
-        <note xml:id="i-FdQgirPHTZm8omGZAjhrwn" type="speaker" xml:lang="sv">
+        <note xml:id="i-FdQgirPHTZm8omGZAjhrwn" xml:lang="sv" type="speaker">
           Hra S. W. Roos:
         </note>
         <u xml:id="i-UsRgYwcQCNWgTAWhhTiCSK" who="unknown">
@@ -8120,7 +8120,7 @@
           sisältyy myös auskulteeraus- ja opintomatkastipendeiksi käytettävät
           määrärahat.
         </note>
-        <note xml:id="i-VbcVKCWXX9mQfstigxYpwR" type="speaker" xml:lang="fi">
+        <note xml:id="i-VbcVKCWXX9mQfstigxYpwR" xml:lang="fi" type="speaker">
           Hra Hellman:
         </note>
         <u xml:id="i-RDbnLeiGDSaB9Y9s6axTyD" who="i-D6Mi4GWWJsTvqGyurVJi26">
@@ -8142,7 +8142,7 @@
           vastedes voisivat saada hyvitystä valtiolta niistä menoeristä,
           joita ne maksavat auskulteerausrahoina opettajilleen.
         </note>
-        <note xml:id="i-FA7WNVZQTYKeSRzN4nzfrA" type="speaker" xml:lang="fi">
+        <note xml:id="i-FA7WNVZQTYKeSRzN4nzfrA" xml:lang="fi" type="speaker">
           Hra Hannula:
         </note>
         <u xml:id="i-KEtUaXyKuA6DgtEifK1A6d" who="i-D1FsfDBmNqCrFh66jtDHKq">
@@ -8158,7 +8158,7 @@
             ottaa puheeksi.
           </seg>
         </u>
-        <note xml:id="i-HMNsZXke3ZVxwWfUUFTteH" type="speaker" xml:lang="fi">
+        <note xml:id="i-HMNsZXke3ZVxwWfUUFTteH" xml:lang="fi" type="speaker">
           Hra Auvinen:
         </note>
         <u xml:id="i-VaBzoWHYnjeL9i2k9USeAm" who="i-J6zP3X9ccdcPDSdoJRRzLX">
@@ -8181,7 +8181,7 @@
         <note xml:id="i-PE2Z9yiJWqMrkt9qaVHFkd" xml:lang="fi">
           Kansakoulusuostunnasta. 145
         </note>
-        <note xml:id="i-LK7DAGxwpkLKMCdVDpZABX" type="speaker" xml:lang="fi">
+        <note xml:id="i-LK7DAGxwpkLKMCdVDpZABX" xml:lang="fi" type="speaker">
           Hra Johansson:
         </note>
         <u xml:id="i-SS5eQaPBgvrRw32zpCu8nL" who="i-29jAvqcdVSDmnMHm7GL7zd">
@@ -8284,7 +8284,7 @@
         <note xml:id="i-EhjxbYz1REeyxiS1zFA47R" xml:lang="fi">
           Mietinnön 13 sivulla olevan ponnen johdosta syntyi seuraava keskustelu:
         </note>
-        <note xml:id="i-WPQsBPbxiXeJcco2MmYmtE" type="speaker" xml:lang="fi">
+        <note xml:id="i-WPQsBPbxiXeJcco2MmYmtE" xml:lang="fi" type="speaker">
           Hra Johansson:
         </note>
         <u xml:id="i-8Ca3L6TMUt9nJFZni9dnyc" who="i-29jAvqcdVSDmnMHm7GL7zd">
@@ -8430,7 +8430,7 @@
           oikeuteen käsitellä näitä kysymyksiä, ja erityisissä kohdissa
           pyydän saada kosketella asioihin sitä myöten kun ne tulevat esille.
         </note>
-        <note xml:id="i-MffigiA8gPMYKFG3UKqdDJ" type="speaker" xml:lang="sv">
+        <note xml:id="i-MffigiA8gPMYKFG3UKqdDJ" xml:lang="sv" type="speaker">
           Piispa Räbergh:
         </note>
         <u xml:id="i-DrzwvcbQZ9VxPm7Z1quoaS" who="unknown">
@@ -8546,7 +8546,7 @@
           sedligt folk, som därför äfven vore i stånd att fylla den af Gud
           åt detta folk gifna uppgift.
         </note>
-        <note xml:id="i-Ai9GQK7sGsFg4YnJCvnyK8" type="speaker" xml:lang="fi">
+        <note xml:id="i-Ai9GQK7sGsFg4YnJCvnyK8" xml:lang="fi" type="speaker">
           Hra Auvinen:
         </note>
         <u xml:id="i-FQGJkpAjamBr89wGUFBsVR" who="i-J6zP3X9ccdcPDSdoJRRzLX">
@@ -8608,7 +8608,7 @@
           voidaan sitä meidänkin maassamme käyttää. Minä siis puolestani
           myöskin hyväksyn valiokunnan ensimäisen 13 sivulla olevan ponnen.
         </note>
-        <note xml:id="i-AF4cXTMALSUEiCEubkPSij" type="speaker" xml:lang="sv">
+        <note xml:id="i-AF4cXTMALSUEiCEubkPSij" xml:lang="sv" type="speaker">
           Hra Schwartzberg:
         </note>
         <u xml:id="i-QatjLWkxLQ26qg8gszu3Ge" who="i-PUGEJH9kXtM6B1imKCMoex">
@@ -8795,7 +8795,7 @@
           Mutta arveltiin että ei ole sopivaa ottaa näillä valtiopäivillä
           tätäkään asiaa esille ja sen tähden me jätimme sen.
         </note>
-        <note xml:id="i-LswnqFxUXyNM4pAzWdVhYz" type="speaker" xml:lang="fi">
+        <note xml:id="i-LswnqFxUXyNM4pAzWdVhYz" xml:lang="fi" type="speaker">
           Hra Johansson:
         </note>
         <u xml:id="i-NZjtYBuTzCWXtPjGVDFVZt" who="i-29jAvqcdVSDmnMHm7GL7zd">
@@ -8861,7 +8861,7 @@
           ennenkuin uusi vero tulee voimaansa. Näin ollen hyöty veron korottamisesta
           ensi kädessä tulee viinan valmistajille.
         </note>
-        <note xml:id="i-GmMZdmeGSop31qsbnWgvQ2" type="speaker" xml:lang="sv">
+        <note xml:id="i-GmMZdmeGSop31qsbnWgvQ2" xml:lang="sv" type="speaker">
           Hra Hermanson:
         </note>
         <u xml:id="i-2vzQFs33A8ByhC7NQg1RUM" who="i-SaCnJmAftzcnG2e8XYGcL9">
@@ -8993,7 +8993,7 @@
           vår regering för närvarande har att dragas, omnämnes, då regeringen
           klandras för att den icke öfverlemnat denna fråga till landtdagen.
         </note>
-        <note xml:id="i-MAEpY1w48YVkwJwT9UktUz" type="speaker" xml:lang="unknown">
+        <note xml:id="i-MAEpY1w48YVkwJwT9UktUz" xml:lang="unknown" type="speaker">
           Hra G. G. Rosenqvist:
         </note>
         <u xml:id="i-77UYpqdKr6Uev6YfaedGVo" who="unknown">
@@ -9074,7 +9074,7 @@
           Det är endast för att i berörda punkt understöda utskottets ändringsförslag,
           hvilket synes mig fullt motiveradt, som jag begärde ordet.
         </note>
-        <note xml:id="i-JtVTcoqiVijFDVW1Zo8eGr" type="speaker" xml:lang="fi">
+        <note xml:id="i-JtVTcoqiVijFDVW1Zo8eGr" xml:lang="fi" type="speaker">
           Hra Heikel:
         </note>
         <u xml:id="i-WZbKLQpFZTrPhJBwBEJFUb" who="i-NBh89WjkAAKD9CCqxkG37S">
@@ -9157,7 +9157,7 @@
           icke ens om den skulle ökas till 1: 50. Jag skulle därför vara
           benägen att föreslå skattens höjande till 1: 50 per liter.
         </note>
-        <note xml:id="i-Bsmh3LAa47Snf8LkTjNqcn" type="speaker" xml:lang="sv">
+        <note xml:id="i-Bsmh3LAa47Snf8LkTjNqcn" xml:lang="sv" type="speaker">
           Hra Schwartzberg:
         </note>
         <u xml:id="i-5hdcjqZVTayp7cU1gC4yQx" who="i-PUGEJH9kXtM6B1imKCMoex">
@@ -9187,7 +9187,7 @@
           niitä. . Mutta se asia ei ole tullut ilmi pannuksi tähän mietintöön,
           ja sen tähden en voi sitä sen enempää puolustaa.
         </note>
-        <note xml:id="i-CxeWY9G68wVWHH3MZZhsrd" type="speaker" xml:lang="sv">
+        <note xml:id="i-CxeWY9G68wVWHH3MZZhsrd" xml:lang="sv" type="speaker">
           Hra Serlachius:
         </note>
         <u xml:id="i-PLwXRkuaVph41WqhjgEXqf" who="i-9oAGbXKxe5dgbbLMbJ63tk">
@@ -9218,7 +9218,7 @@
             siitä että oluenkin hintaa korotetaan vastaavassa määrässä.
           </seg>
         </u>
-        <note xml:id="i-SGxWaxrijYUcvVEaFkEYNb" type="speaker" xml:lang="fi">
+        <note xml:id="i-SGxWaxrijYUcvVEaFkEYNb" xml:lang="fi" type="speaker">
           Hra Tallgren:
         </note>
         <u xml:id="i-4E3C3pkiHCCNLToUv9brNB" who="i-5mrB9FPRsk5QE1MSMJGM5v">
@@ -9349,7 +9349,7 @@
         <note xml:id="i-VN7SzJu21eMcCBwoVLUpvD" xml:lang="fi">
           166 Pappissääty maalisk. 80 p. 1906.
         </note>
-        <note xml:id="i-J8QzBHjPjCSBpKJjVzjLpz" type="speaker" xml:lang="fi">
+        <note xml:id="i-J8QzBHjPjCSBpKJjVzjLpz" xml:lang="fi" type="speaker">
           Herra Puhemies:
         </note>
         <u xml:id="i-ENntoKJ7Y7aX1F9bvANWUs" who="unknown">
@@ -9370,7 +9370,7 @@
           on ehdottanut tehtävän määräämistä säädyssä. Lausun tämän muutaman
           lausunnon johdosta.
         </note>
-        <note xml:id="i-FJgUnsnRcMYrTpHQGvt5WK" type="speaker" xml:lang="fi">
+        <note xml:id="i-FJgUnsnRcMYrTpHQGvt5WK" xml:lang="fi" type="speaker">
           Hra Johansson:
         </note>
         <u xml:id="i-NWCckx8ugTE8AThUUHmnAP" who="i-29jAvqcdVSDmnMHm7GL7zd">
@@ -9393,7 +9393,7 @@
             muinaismuistojen joukkoon.
           </seg>
         </u>
-        <note xml:id="i-MhBXGmQavvL2maN3xejbQV" type="speaker" xml:lang="sv">
+        <note xml:id="i-MhBXGmQavvL2maN3xejbQV" xml:lang="sv" type="speaker">
           Hra Berger:
         </note>
         <u xml:id="i-QUq9GoXKSSnaRecor6Whq7" who="i-6RRNWfsAtFAXWdUseP8L1A">
@@ -9441,7 +9441,7 @@
           I denna punkt föreskrefs alltsä att fördelningen skulle baseras
           pä folkmängden.
         </note>
-        <note xml:id="i-CVPwboidgpF5zpxrVsxvda" type="speaker" xml:lang="sv">
+        <note xml:id="i-CVPwboidgpF5zpxrVsxvda" xml:lang="sv" type="speaker">
           Hra J. A. Roos:
         </note>
         <u xml:id="i-5aNkUvHB3q4LDeajT6MSUe" who="unknown">
@@ -9453,7 +9453,7 @@
             paragraf.
           </seg>
         </u>
-        <note xml:id="i-2bQ7wCNXuLtp9JmYC7auCG" type="speaker" xml:lang="sv">
+        <note xml:id="i-2bQ7wCNXuLtp9JmYC7auCG" xml:lang="sv" type="speaker">
           Hra Lybeck:
         </note>
         <u xml:id="i-r3iMLeg1ggByjQJwbL53j" who="i-RYRLCW2s7dknqNzUos9PeB">
@@ -9485,7 +9485,7 @@
           mitä korkeimmaksi, kunnes voitaisiin täydellinen kieltolaki saada
           toimeen.
         </note>
-        <note xml:id="i-M3xmZrTQFUu4MhXUVVhb24" type="speaker" xml:lang="unknown">
+        <note xml:id="i-M3xmZrTQFUu4MhXUVVhb24" xml:lang="unknown" type="speaker">
           Hra P. Snellman:
         </note>
         <u xml:id="i-GoiQnQkWRUsxJU7i1XqT9j" who="i-3KmZ2JW55We9zqnwrRNCgP">
@@ -9511,7 +9511,7 @@
             förhöjd till 1: 50 per liter.
           </seg>
         </u>
-        <note xml:id="i-7kYnzxxHuHha9auV6PptBb" type="speaker" xml:lang="sv">
+        <note xml:id="i-7kYnzxxHuHha9auV6PptBb" xml:lang="sv" type="speaker">
           Piispa Colliander:
         </note>
         <u xml:id="i-6fG79xWUKtLm8noSnvNBhC" who="unknown">
@@ -9528,7 +9528,7 @@
             veron korottamista 1 markaksi 50 penniksi.
           </seg>
         </u>
-        <note xml:id="i-6tBnBfxCRTRRNkLnr5M36U" type="speaker" xml:lang="fi">
+        <note xml:id="i-6tBnBfxCRTRRNkLnr5M36U" xml:lang="fi" type="speaker">
           Hra Westerlund:
         </note>
         <u xml:id="i-AFrQtuzPYM4tBpqj1CdcLh" who="i-E4sJZkcvrMxBkmsiZoBAAh">
@@ -9565,7 +9565,7 @@
           mietinnön yläreunassa on arm. esityksen numero mainittuna, mutta
           koska tuo asia pisti silmiini, huomautan siitä.
         </note>
-        <note xml:id="i-Joof3tRJiQAy1sxBWEreBD" type="speaker" xml:lang="unknown">
+        <note xml:id="i-Joof3tRJiQAy1sxBWEreBD" xml:lang="unknown" type="speaker">
           Hra Walle:
         </note>
         <u xml:id="i-QT8BiyjRm2LvTRxQ8aujRj" who="i-Ay8y6qphUDYbXoFXQgQvgE">
@@ -9652,7 +9652,7 @@
           kosketella, mitä minulla on valiokunnan mietintöä vastaan ollut
           sanottavaa.
         </note>
-        <note xml:id="i-XuzW7EWwUAUqx66NEQYbc2" type="speaker" xml:lang="sv">
+        <note xml:id="i-XuzW7EWwUAUqx66NEQYbc2" xml:lang="sv" type="speaker">
           Hra Björklund:
         </note>
         <u xml:id="i-D14JgBpxRJpTsGCDbrpW7e" who="i-RE9ioS2PcNCNiD9EFU1fDJ">
@@ -9678,7 +9678,7 @@
           att bränvinsskatten denna gång endast borde höjas till 1: 20 per
           liter.
         </note>
-        <note xml:id="i-XS8VbC8Kahc9czJuCvEc6H" type="speaker" xml:lang="fi">
+        <note xml:id="i-XS8VbC8Kahc9czJuCvEc6H" xml:lang="fi" type="speaker">
           Hra Hellman:
         </note>
         <u xml:id="i-NP3iGJJoTbKuJNco9kJyKu" who="i-D6Mi4GWWJsTvqGyurVJi26">
@@ -9699,7 +9699,7 @@
             kannatan valiokunnan mietintöä.
           </seg>
         </u>
-        <note xml:id="i-7GqTHNcrjufVNyg4ZD9bKL" type="speaker" xml:lang="sv">
+        <note xml:id="i-7GqTHNcrjufVNyg4ZD9bKL" xml:lang="sv" type="speaker">
           Hra Svanljung:
         </note>
         <u xml:id="i-TR9sau6Nefek7zEydJzp3x" who="i-S8BUZ6vnbJpzzmYXeu7wqs">
@@ -9750,7 +9750,7 @@
           Asetuksen 2 8:ää koskevien mietinnön ponsien johdosta lausui
           puheenvuoron saatuaan
         </note>
-        <note xml:id="i-QSyKHMfUqDC1i9HHe8t6D5" type="speaker" xml:lang="sv">
+        <note xml:id="i-QSyKHMfUqDC1i9HHe8t6D5" xml:lang="sv" type="speaker">
           Hra Svanljung:
         </note>
         <u xml:id="i-6vvjs3AB7YTgjY4AHM6rGw" who="i-S8BUZ6vnbJpzzmYXeu7wqs">
@@ -9785,7 +9785,7 @@
           jätti säädyn päätettäväksi, lähettääkö sääty 2 S:ään kuuluvat
           ponnet valtiovaliokuntaan vai tahtooko sääty nyt niitä käsitellä.
         </note>
-        <note xml:id="i-3UMVp6N3KvyGBErprUqgyc" type="speaker" xml:lang="sv">
+        <note xml:id="i-3UMVp6N3KvyGBErprUqgyc" xml:lang="sv" type="speaker">
           Hra Hermansson:
         </note>
         <u xml:id="i-7omKLv9BBgso8Tx8LhL7SS" who="unknown">
@@ -9794,7 +9794,7 @@
             hufvud skulle remitteras till statsutskottet, sävidt angår 8 2.
           </seg>
         </u>
-        <note xml:id="i-2BPgonPBrSFDuUhGqAdT2N" type="speaker" xml:lang="unknown">
+        <note xml:id="i-2BPgonPBrSFDuUhGqAdT2N" xml:lang="unknown" type="speaker">
           Hra Runeberg:
         </note>
         <u xml:id="i-1GtAWaqCZ2qS5r3kXBuXN" who="i-QQ7rzMcvpGv1RunkkD3Hgv">
@@ -10039,7 +10039,7 @@
           3:lla sivulla olevan sirkus- ja varieteenäytäntöjä koskevan ponnen
           johdosta lausuivat puheenvuoron saatuaan
         </note>
-        <note xml:id="i-Rn8hn5kvp8Aaqt4V7hr5DR" type="speaker" xml:lang="sv">
+        <note xml:id="i-Rn8hn5kvp8Aaqt4V7hr5DR" xml:lang="sv" type="speaker">
           Hra Gummerus:
         </note>
         <u xml:id="i-AcUqjsqjm7sA3VBdh1RG6T" who="i-669G58xkbnpQCsVJmoyWfs">
@@ -10090,7 +10090,7 @@
           olisi voinut tässäkin kohden katsoa asianmukaiseksi tällaisen
           tavan korottaa puheenaolevia verotuksia.
         </note>
-        <note xml:id="i-FyiFFPa1oQbkvjfoWeDfdH" type="speaker" xml:lang="sv">
+        <note xml:id="i-FyiFFPa1oQbkvjfoWeDfdH" xml:lang="sv" type="speaker">
           Hra Hjelt:
         </note>
         <u xml:id="i-MHjYDP38yerstyM71eXzge" who="i-C9dmrUvwspHpLHXM6o1jJo">
@@ -10111,7 +10111,7 @@
             valiokuntaan niinkuin 71 ja 74 &amp; V. J:ssä säätää.
           </seg>
         </u>
-        <note xml:id="i-HHSWxmc5Z3ZJtW1LDgBaDa" type="speaker" xml:lang="fi">
+        <note xml:id="i-HHSWxmc5Z3ZJtW1LDgBaDa" xml:lang="fi" type="speaker">
           Hra H. E. Schroderus:
         </note>
         <u xml:id="i-Q7qeWWteJdB8vgDcxoJVQv" who="unknown">
@@ -10123,7 +10123,7 @@
             tekemää ehdotusta että sääty pysyy päätöksessään.
           </seg>
         </u>
-        <note xml:id="i-UwtQcd9TyCxpTUcUhX61MY" type="speaker" xml:lang="unknown">
+        <note xml:id="i-UwtQcd9TyCxpTUcUhX61MY" xml:lang="unknown" type="speaker">
           Hra Walle:
         </note>
         <u xml:id="i-AZUGj7gXNcd4sWLUYnzgST" who="i-Ay8y6qphUDYbXoFXQgQvgE">
@@ -10177,7 +10177,7 @@
           kaksi säätyä on kahta vastaan, mutta yksinkertaisella äänten enemmistöllä
           ei päästä voitolle lisätyssä valiokunnassa.
         </note>
-        <note xml:id="i-8Nq2o64MQn1rT9Gv2bwYsg" type="speaker" xml:lang="fi">
+        <note xml:id="i-8Nq2o64MQn1rT9Gv2bwYsg" xml:lang="fi" type="speaker">
           Hra Johansson:
         </note>
         <u xml:id="i-8T7YcThAyWYZ7ehF6oy5Bk" who="i-29jAvqcdVSDmnMHm7GL7zd">
@@ -10209,7 +10209,7 @@
           valiokunta olisi tätä toista tapaa käyttänyt enkä luule että
           kukaan olisi valiokuntaa siitä moittinut.
         </note>
-        <note xml:id="i-9XxQhsLthdEKAP9QWbdc2R" type="speaker" xml:lang="unknown">
+        <note xml:id="i-9XxQhsLthdEKAP9QWbdc2R" xml:lang="unknown" type="speaker">
           Hra Walle:
         </note>
         <u xml:id="i-3bwpXZyCF7dSeccjt957fN" who="i-Ay8y6qphUDYbXoFXQgQvgE">
@@ -10276,7 +10276,7 @@
         <note xml:id="i-JLFBYJzwt4pShpAqyQ45hu" xml:lang="fi">
           aiheutti seuraavat lausunnot:
         </note>
-        <note xml:id="i-AVZDGzacnkq1t6MgyKspUj" type="speaker" xml:lang="fi">
+        <note xml:id="i-AVZDGzacnkq1t6MgyKspUj" xml:lang="fi" type="speaker">
           Vapaahra Palmén:
         </note>
         <u xml:id="i-P7kmk2GuKcjjZiJMK7eYkv" who="i-SUpmw56zMz2APdv8K23tDg">
@@ -10296,7 +10296,7 @@
         <note xml:id="i-7BgvHKu69EhBW898dPNAT6" xml:lang="fi">
           Hra Hyvärinen kannatti edellisen puhujan ehdotusta.
         </note>
-        <note xml:id="i-12LR4r67YSGx6XmtA4fhUb" type="speaker" xml:lang="unknown">
+        <note xml:id="i-12LR4r67YSGx6XmtA4fhUb" xml:lang="unknown" type="speaker">
           Hra Hedberg:
         </note>
         <u xml:id="i-RTfV7fgR69xpQFYTa5jPVG" who="i-FNPPwEod1e3taFV6aqGkL">
@@ -10372,7 +10372,7 @@
           Sivulla 11 olevan ensimäisen ponnen johdosta aiheutui seuraava
           keskustelu: N
         </note>
-        <note xml:id="i-LhaZhWHgvR3ETSRfNL71xM" type="speaker" xml:lang="unknown">
+        <note xml:id="i-LhaZhWHgvR3ETSRfNL71xM" xml:lang="unknown" type="speaker">
           Hra G. G. Rosengvist:
         </note>
         <u xml:id="i-VvgXc6oUJEfjSX6qCfdTXG" who="unknown">
@@ -10408,7 +10408,7 @@
             som gjorts i bondeståndet och som äfven omfattats af ekonomiutskottet.
           </seg>
         </u>
-        <note xml:id="i-VvytmRs8RdbwaLmzz8iJay" type="speaker" xml:lang="fi">
+        <note xml:id="i-VvytmRs8RdbwaLmzz8iJay" xml:lang="fi" type="speaker">
           Hra Hyvärinen:
         </note>
         <u xml:id="i-GkUe8BQnyKaUypfvMrfDRv" who="i-GoAtGw3V5JQjMdAfdcsfof">
@@ -10432,7 +10432,7 @@
           tehtyyn päätökseen ja siihen sanamuotoon, jonka tälle asialle
           talousvaliokunta mietinnössään on antanut.
         </note>
-        <note xml:id="i-HMhJyQh7vEuNGNkLYCiS25" type="speaker" xml:lang="sv">
+        <note xml:id="i-HMhJyQh7vEuNGNkLYCiS25" xml:lang="sv" type="speaker">
           Hra Schwartzberg:
         </note>
         <u xml:id="i-QXwwPnLXSSUiiVt2MWmRTF" who="i-PUGEJH9kXtM6B1imKCMoex">
@@ -10476,7 +10476,7 @@
           tahtoisin sen tähden puolustaa tässä talousvaliokunnan ehdottamaa
           muodostusta.
         </note>
-        <note xml:id="i-LkLjdpYDm7TKy8r7WjQsv3" type="speaker" xml:lang="fi">
+        <note xml:id="i-LkLjdpYDm7TKy8r7WjQsv3" xml:lang="fi" type="speaker">
           Hra Johansson:
         </note>
         <u xml:id="i-FWSMFMUaa3rjM8HkkwQnJw" who="i-29jAvqcdVSDmnMHm7GL7zd">
@@ -10523,7 +10523,7 @@
           täytyy olla poikkeusmääräyksiä muihin asetuksiin nähden. Koko
           viina-asia on sellaista laatua ett'ei se kulje tavallista rataa.
         </note>
-        <note xml:id="i-2PnKF9etGqG5qn69wYxFyt" type="speaker" xml:lang="unknown">
+        <note xml:id="i-2PnKF9etGqG5qn69wYxFyt" xml:lang="unknown" type="speaker">
           Hra G. G. Rosengvist:
         </note>
         <u xml:id="i-NaiSdBdYwEiNMzpyCpg2PC" who="unknown">
@@ -10546,7 +10546,7 @@
           vändigt för senatens ekonomiedepartement att tilldela skild belöning
           uti ifrågavarande fall.
         </note>
-        <note xml:id="i-EATszShF4mrmw9f6yNKkS8" type="speaker" xml:lang="fi">
+        <note xml:id="i-EATszShF4mrmw9f6yNKkS8" xml:lang="fi" type="speaker">
           Hra Johansson:
         </note>
         <u xml:id="i-8jaHTk1nFRryLJQL2oJ5uG" who="i-29jAvqcdVSDmnMHm7GL7zd">
@@ -10556,7 +10556,7 @@
             ettei voi mennä ilman muuta pyyhkimään pois laissa olevia säännöksiä.
           </seg>
         </u>
-        <note xml:id="i-CTLNtrzGjkgLwW9WxdPC5w" type="speaker" xml:lang="fi">
+        <note xml:id="i-CTLNtrzGjkgLwW9WxdPC5w" xml:lang="fi" type="speaker">
           Hra Maunu:
         </note>
         <u xml:id="i-8MaBAEYfZJto8newNXLThV" who="i-24MJDgsqqgCgQM9j64vDZY">
@@ -10579,7 +10579,7 @@
             kustannuksista syytteeseen saatettaessa.
           </seg>
         </u>
-        <note xml:id="i-JJ1rhLDgT2n9qXoVKnWTzu" type="speaker" xml:lang="sv">
+        <note xml:id="i-JJ1rhLDgT2n9qXoVKnWTzu" xml:lang="sv" type="speaker">
           Hra Serlachius:
         </note>
         <u xml:id="i-DJNATCNBkbPkHu8F7ujKHa" who="i-9oAGbXKxe5dgbbLMbJ63tk">
@@ -10640,7 +10640,7 @@
           mutta joskin se sen tekisi, niin se vahinko, minkä se yleiseen
           oikeuskäsitykseen saapi aikaan, on verrattoman paljoa suurempi.
         </note>
-        <note xml:id="i-P8787ZaA2CrZEbabeHTVhT" type="speaker" xml:lang="fi">
+        <note xml:id="i-P8787ZaA2CrZEbabeHTVhT" xml:lang="fi" type="speaker">
           Hra Johansson:
         </note>
         <u xml:id="i-Dfxkdt5pqVxcFbrUcPLHQ3" who="i-29jAvqcdVSDmnMHm7GL7zd">
@@ -10676,7 +10676,7 @@
         <note xml:id="i-NXbqN6nFyQtUeWj1dhTQk6" xml:lang="fi">
           Sivulla 11 olevan toisen ponnen johdosta lausui mielipiteensä
         </note>
-        <note xml:id="i-PhLUfRruWYbwVs4H2UHeZw" type="speaker" xml:lang="fi">
+        <note xml:id="i-PhLUfRruWYbwVs4H2UHeZw" xml:lang="fi" type="speaker">
           Hra Auvinen:
         </note>
         <u xml:id="i-4XhBM644SA4Lsb6tEmwx9N" who="i-J6zP3X9ccdcPDSdoJRRzLX">
@@ -10705,7 +10705,7 @@
             eli kahdelta vuodelta 800,000 markkaa.
           </seg>
         </u>
-        <note xml:id="i-MgBboWjNnpimuDbJzc5LoQ" type="speaker" xml:lang="sv">
+        <note xml:id="i-MgBboWjNnpimuDbJzc5LoQ" xml:lang="sv" type="speaker">
           Hra Hjelt:
         </note>
         <u xml:id="i-BS2KMvpBa3kjBhVFeRySur" who="i-C9dmrUvwspHpLHXM6o1jJo">
@@ -10724,7 +10724,7 @@
         <note xml:id="i-SzTWNRmMXmmYrVgzedbXC1" xml:lang="fi">
           190 Pappissääty huhtik. 11. p. 1906.
         </note>
-        <note xml:id="i-YBVN9o9NujwExo7ekCrB7r" type="speaker" xml:lang="sv">
+        <note xml:id="i-YBVN9o9NujwExo7ekCrB7r" xml:lang="sv" type="speaker">
           Hra Berger:
         </note>
         <u xml:id="i-Rq7jnc67taTkSmrjAQJk9K" who="i-6RRNWfsAtFAXWdUseP8L1A">
@@ -10791,7 +10791,7 @@
           kun talousvaliokunta on niin täydellisesti ja hyvin perustellut
           ehdotuksensa jakoperusteeksi, jota minä täydellisesti kannatan.
         </note>
-        <note xml:id="i-UXhcYrBwzueNV3QTAiAFMJ" type="speaker" xml:lang="sv">
+        <note xml:id="i-UXhcYrBwzueNV3QTAiAFMJ" xml:lang="sv" type="speaker">
           Hra Fontell:
         </note>
         <u xml:id="i-XzwP1VPn1dA5S5Usore7fh" who="i-58p2yq1prpUmoBHrSj7Haf">
@@ -10886,7 +10886,7 @@
           ehdotusta tässä kohden, vaikkapa osittain toisista syistä kuin
           niistä, joihin valiokunta perustaa.
         </note>
-        <note xml:id="i-CqLZNzM8QMQfhSADhy4peC" type="speaker" xml:lang="sv">
+        <note xml:id="i-CqLZNzM8QMQfhSADhy4peC" xml:lang="sv" type="speaker">
           Hra J. A. Roos:
         </note>
         <u xml:id="i-Q38DCa1YM5B2PRoCjnPmFa" who="unknown">
@@ -10944,7 +10944,7 @@
           Jag ber således att få föreslå att den fördelnig af bränvinsskatten,
           som utskottet förordar, måtte af prästeståndet antagas.
         </note>
-        <note xml:id="i-EhzvGWqLqdfUnMPptryAks" type="speaker" xml:lang="sv">
+        <note xml:id="i-EhzvGWqLqdfUnMPptryAks" xml:lang="sv" type="speaker">
           Hra Nordlund:
         </note>
         <u xml:id="i-PLeJJ4WFRi4eb7C6mgK5tU" who="i-7nQwnFEu5Yk3kSApPefrFA">
@@ -11025,7 +11025,7 @@
           en sådan fördelning vore den rättvisaste, och skulle jag därför
           föreslå att ståndet ville förena sig härom.
         </note>
-        <note xml:id="i-YUVidk6TWc6jVqdszwW2WF" type="speaker" xml:lang="fi">
+        <note xml:id="i-YUVidk6TWc6jVqdszwW2WF" xml:lang="fi" type="speaker">
           Vapaahra Palmén:
         </note>
         <u xml:id="i-FAcgrBetFmN3bAx9dW8FXU" who="i-SUpmw56zMz2APdv8K23tDg">
@@ -11187,7 +11187,7 @@
           oivallisia laitoksia on perustettu näiden rahojen avulla. Minä
           pyydän siis omasta puolestani kannattaa valtiovaliokunnan ehdotusta.
         </note>
-        <note xml:id="i-QcNbMk3KjR3t2oooJQ2pox" type="speaker" xml:lang="fi">
+        <note xml:id="i-QcNbMk3KjR3t2oooJQ2pox" xml:lang="fi" type="speaker">
           Hra Hyvärinen:
         </note>
         <u xml:id="i-SGyGABJLELwvrRcD8MTRek" who="i-GoAtGw3V5JQjMdAfdcsfof">
@@ -11299,7 +11299,7 @@
           ehdottaa, että jokainen täysi 150-luku asukasta määrättäisiin
           vastaamaan yhtä manttaaalia.
         </note>
-        <note xml:id="i-QxG3fr9roo6d16NWGanCJw" type="speaker" xml:lang="sv">
+        <note xml:id="i-QxG3fr9roo6d16NWGanCJw" xml:lang="sv" type="speaker">
           Hra Berger:
         </note>
         <u xml:id="i-4uzyMACVbZtNdADXrmNMmf" who="i-6RRNWfsAtFAXWdUseP8L1A">
@@ -11315,7 +11315,7 @@
             Roosin lausunnon johdosta.
           </seg>
         </u>
-        <note xml:id="i-CHnYhzRztZBJ7kq2HxiH2N" type="speaker" xml:lang="sv">
+        <note xml:id="i-CHnYhzRztZBJ7kq2HxiH2N" xml:lang="sv" type="speaker">
           Hra Schwartzberg:
         </note>
         <u xml:id="i-TKZkLZ28K8GDiWzmNQPYrL" who="i-PUGEJH9kXtM6B1imKCMoex">
@@ -11358,7 +11358,7 @@
           ettei suinkaan olisi mikään kohtuuttomuus, jos 150 luettaisiin
           vastaamaan yhtä manttaalia.
         </note>
-        <note xml:id="i-PAjKECF64WrvP18uKxhMNG" type="speaker" xml:lang="fi">
+        <note xml:id="i-PAjKECF64WrvP18uKxhMNG" xml:lang="fi" type="speaker">
           Hra Hellman:
         </note>
         <u xml:id="i-Lx7hggTcX87Q3TLMqWXqnH" who="i-D6Mi4GWWJsTvqGyurVJi26">
@@ -11409,7 +11409,7 @@
           Minä siis puolustan sitä perustetta, että viinaverorahat jaettaisiin
           henkilöluvun mukaan.
         </note>
-        <note xml:id="i-5mWCtVsx61EaZ6QUrAZjcQ" type="speaker" xml:lang="sv">
+        <note xml:id="i-5mWCtVsx61EaZ6QUrAZjcQ" xml:lang="sv" type="speaker">
           Hra Mennander:
         </note>
         <u xml:id="i-Vit8quyjyqjwTp2B3HGwZU" who="i-4JLjd6bDZEbBMJYBuR7DMV">
@@ -11446,7 +11446,7 @@
           raunikkoseutujen etu mielestäni tule siltäkään puolen kärsimään
           väkilukuperusteen kautta näiden rahojen jakamisessa.
         </note>
-        <note xml:id="i-6VPMHwPbLXQce5FM3fPzK8" type="speaker" xml:lang="unknown">
+        <note xml:id="i-6VPMHwPbLXQce5FM3fPzK8" xml:lang="unknown" type="speaker">
           Hra G. G. Rosengvist:
         </note>
         <u xml:id="i-G8zDSUS4zrRLKW2UxKNLdz" who="unknown">
@@ -11491,7 +11491,7 @@
           Fortfarande håller jag således på att reformen vore motiverad
           och rättvis.
         </note>
-        <note xml:id="i-XM3Zu7PmrGitrifPY5QX78" type="speaker" xml:lang="unknown">
+        <note xml:id="i-XM3Zu7PmrGitrifPY5QX78" xml:lang="unknown" type="speaker">
           Hra Runeberg:
         </note>
         <u xml:id="i-CSKoY51aqQwHPk4GCcibeH" who="i-QQ7rzMcvpGv1RunkkD3Hgv">
@@ -11532,7 +11532,7 @@
           rättare att godkänna statsutskottets förslag och bibehålla den
           anordning, som hittills gällt.
         </note>
-        <note xml:id="i-XzK4UH1wEHyiBYWCbhq7Ld" type="speaker" xml:lang="unknown">
+        <note xml:id="i-XzK4UH1wEHyiBYWCbhq7Ld" xml:lang="unknown" type="speaker">
           Hra P. Snellman:
         </note>
         <u xml:id="i-ERh9b4rJkNzkcHm5jeYKHe" who="i-3KmZ2JW55We9zqnwrRNCgP">
@@ -11573,7 +11573,7 @@
           Mietinnön 11 sivulla olevan kolmannen eli viimeisen ponnen johdosta
           lausui:
         </note>
-        <note xml:id="i-LQckJbHsjiJCzWmUtaTwa3" type="speaker" xml:lang="sv">
+        <note xml:id="i-LQckJbHsjiJCzWmUtaTwa3" xml:lang="sv" type="speaker">
           Hra Söderhjelm:
         </note>
         <u xml:id="i-6Awe6Hko4EZHVanUawDQRu" who="i-3RMpW3iFEvgpKbFP34kXg8">
@@ -11619,7 +11619,7 @@
           sama ehdotus, minkä professori Söderhjelm oli tehnyt, ja pyysi
           siis ainoastaan saada kannattaa hänen ehdotustaan.
         </note>
-        <note xml:id="i-JKV2BUHPHJdizFk4xpL53C" type="speaker" xml:lang="sv">
+        <note xml:id="i-JKV2BUHPHJdizFk4xpL53C" xml:lang="sv" type="speaker">
           Hra Hjelt:
         </note>
         <u xml:id="i-JqTm4Ujt7GrXij4iwoY19P" who="i-C9dmrUvwspHpLHXM6o1jJo">
@@ -11706,7 +11706,7 @@
           saada kannattaa talousvaliokunnan ehdotusta ja ehdottaa, että
           mietintö tässä kohden palautettaisiin valtiovaliokuntaan.
         </note>
-        <note xml:id="i-BVoP31WEKZxqVzpMmYkQ6M" type="speaker" xml:lang="fi">
+        <note xml:id="i-BVoP31WEKZxqVzpMmYkQ6M" xml:lang="fi" type="speaker">
           Vapaahra Palmén:
         </note>
         <u xml:id="i-SbuqQq3eynnNwsmdRJksG3" who="i-SUpmw56zMz2APdv8K23tDg">
@@ -11791,7 +11791,7 @@
         <note xml:id="i-8tAzwB4fUgqKzhtjno2o5U" xml:lang="fi">
           Hra Sax6n kannatti professori Söderhjelmin tekemää pöydällepano-ehdotusta.
         </note>
-        <note xml:id="i-GDrohr4WKNR8vhrXXzid9K" type="speaker" xml:lang="sv">
+        <note xml:id="i-GDrohr4WKNR8vhrXXzid9K" xml:lang="sv" type="speaker">
           Hra Danielson:
         </note>
         <u xml:id="i-JFueySifSoSMgxwtgwuPzu" who="i-LhNeaJMK2rPRdMfEm4W2yR">
@@ -11817,7 +11817,7 @@
           tässä kohden on ratkaiseva. Mutta, kuten sanottu, valtiopäiväjärjestyksen
           määräys pöydällepanosta ei nähdäkseni ylety tällaiseen tapaukseen.
         </note>
-        <note xml:id="i-9azc1pgZageSkT72PjVFst" type="speaker" xml:lang="fi">
+        <note xml:id="i-9azc1pgZageSkT72PjVFst" xml:lang="fi" type="speaker">
           Hra Hyvärinen:
         </note>
         <u xml:id="i-6aWP3j7pSygw3iiCNXVd4R" who="i-GoAtGw3V5JQjMdAfdcsfof">
@@ -11991,7 +11991,7 @@
         <note xml:id="i-VMKn9y6fjUE3ifRfANKRUQ" xml:lang="fi">
           Puheenvuoroa käyttäen lausui
         </note>
-        <note xml:id="i-3Xp61uqQwiBF56k3M1ePts" type="speaker" xml:lang="unknown">
+        <note xml:id="i-3Xp61uqQwiBF56k3M1ePts" xml:lang="unknown" type="speaker">
           Hra Walle:
         </note>
         <u xml:id="i-6nNoH6AEi8kGnKXhbTDy2q" who="i-Ay8y6qphUDYbXoFXQgQvgE">
@@ -12003,7 +12003,7 @@
             että rautatievaliokunnan mietintö pantaisiin vielä pöydälle.
           </seg>
         </u>
-        <note xml:id="i-UNCmgcjRJzv8YHfzxL7u9i" type="speaker" xml:lang="sv">
+        <note xml:id="i-UNCmgcjRJzv8YHfzxL7u9i" xml:lang="sv" type="speaker">
           Hra Gummerus:
         </note>
         <u xml:id="i-N7o4CGQ1Kr6MVZTccbwmzz" who="i-669G58xkbnpQCsVJmoyWfs">
@@ -12599,7 +12599,7 @@
           5 miljoonaa, ehdottaisin Rovaniemen radalle annettavaksi yhden
           miljoonan ja Suupohjan radan hyväksi myös yhden miljoonan.
         </note>
-        <note xml:id="i-SgfSpeq2Q1N2RQTAJJB6YM" type="speaker" xml:lang="unknown">
+        <note xml:id="i-SgfSpeq2Q1N2RQTAJJB6YM" xml:lang="unknown" type="speaker">
           Hra Hedberg:
         </note>
         <u xml:id="i-8rWL64bpDiKT8oQpW1kn8h" who="i-FNPPwEod1e3taFV6aqGkL">
@@ -12856,7 +12856,7 @@
         <note xml:id="i-JDqoxCX2g1yyfHLa1vy2ry" xml:lang="fi">
           kemmin esittää kantani, kun erikoiskeskustelu alkaa.
         </note>
-        <note xml:id="i-CZ6LYG47unnQGtqzyRfD3H" type="speaker" xml:lang="fi">
+        <note xml:id="i-CZ6LYG47unnQGtqzyRfD3H" xml:lang="fi" type="speaker">
           Hra H. E. Schroderus:
         </note>
         <u xml:id="i-Heo77wSXcV4BU4m4R1b7m3" who="unknown">
@@ -13084,7 +13084,7 @@
         <note xml:id="i-NuKDSvyC82HjVjsLzuMto5" xml:lang="fi">
           Uusista rautatierakennuksista. 233
         </note>
-        <note xml:id="i-ANjCmDdzkbedTo57Kb63Dm" type="speaker" xml:lang="unknown">
+        <note xml:id="i-ANjCmDdzkbedTo57Kb63Dm" xml:lang="unknown" type="speaker">
           Hra Walle:
         </note>
         <u xml:id="i-LW7oHS5vT6ENqptU3ae53s" who="i-Ay8y6qphUDYbXoFXQgQvgE">
@@ -13119,7 +13119,7 @@
           kohden hyväksytään noudatettavaksi ja että siis tätä kysymystä
           koko laajuudessaan voidaan käsitellä.
         </note>
-        <note xml:id="i-61Kb9LmAxt9KcZd6UNC6pU" type="speaker" xml:lang="unknown">
+        <note xml:id="i-61Kb9LmAxt9KcZd6UNC6pU" xml:lang="unknown" type="speaker">
           Hra Walle:
         </note>
         <u xml:id="i-G9rHmnxT1VW4w1kbjJD6pu" who="i-Ay8y6qphUDYbXoFXQgQvgE">
@@ -13202,7 +13202,7 @@
           Kun eri radat tulevat keskustelun alaisiksi, pyydän uudestaan
           puheenvuoroa.
         </note>
-        <note xml:id="i-KXnrv57m6YVzVC18mhtq21" type="speaker" xml:lang="sv">
+        <note xml:id="i-KXnrv57m6YVzVC18mhtq21" xml:lang="sv" type="speaker">
           Hra Wennerström:
         </note>
         <u xml:id="i-6JBS4YtWyU1gz2Po3pcYRC" who="i-2F6oVsrG3mDJDsy2mxCob7">
@@ -13429,7 +13429,7 @@
           beviljas, ifall förslaget om bansträckningen Suonenjoki—Suolahti
           förfaller.
         </note>
-        <note xml:id="i-7s7g93CrXo17UGNfBpbc8b" type="speaker" xml:lang="sv">
+        <note xml:id="i-7s7g93CrXo17UGNfBpbc8b" xml:lang="sv" type="speaker">
           Hra Nordlund:
         </note>
         <u xml:id="i-4aq8a8FFBCutJjdudvHVdh" who="i-7nQwnFEu5Yk3kSApPefrFA">
@@ -13662,7 +13662,7 @@
           och dylikt förbehåller jag mig att vid detaljgranskningen uttala
           mig.
         </note>
-        <note xml:id="i-EPGAvGhq7iZxa4kbfcUAfX" type="speaker" xml:lang="fi">
+        <note xml:id="i-EPGAvGhq7iZxa4kbfcUAfX" xml:lang="fi" type="speaker">
           Hra Hellman:
         </note>
         <u xml:id="i-y57DKJw5GbsLquvUq3JXo" who="i-D6Mi4GWWJsTvqGyurVJi26">
@@ -13777,7 +13777,7 @@
           Mitä muuta minulla on sanottavana näistä erityisradoista, jätän
           siksi, kun erityiskeskustelu alkaa.
         </note>
-        <note xml:id="i-3Q3YEr1t1UYyWQ7dkgBvrk" type="speaker" xml:lang="sv">
+        <note xml:id="i-3Q3YEr1t1UYyWQ7dkgBvrk" xml:lang="sv" type="speaker">
           Piispa Forsman:
         </note>
         <u xml:id="i-XGGNDhwyeyGhd66Eo1jd2e" who="unknown">
@@ -13846,7 +13846,7 @@
           jota on ehdotettu. Mutta tämän tahtoisin asetettavaksi vieläpä
           ensimäiseen sijaan.
         </note>
-        <note xml:id="i-Mf1boe9qvdTYqdP9ExdKX" type="speaker" xml:lang="unknown">
+        <note xml:id="i-Mf1boe9qvdTYqdP9ExdKX" xml:lang="unknown" type="speaker">
           Hra P. Snellman:
         </note>
         <u xml:id="i-XKCRMhdfbpKQRvmobGZE75" who="i-3KmZ2JW55We9zqnwrRNCgP">
@@ -13971,7 +13971,7 @@
           Detsamma är äfven tallet med Lahtis—Heinola banan. Denna bana
           kunde ännu hvila någon tid.
         </note>
-        <note xml:id="i-WvxbPpBpbtF9K9hXMfbwQN" type="speaker" xml:lang="sv">
+        <note xml:id="i-WvxbPpBpbtF9K9hXMfbwQN" xml:lang="sv" type="speaker">
           Hra Gummerus:
         </note>
         <u xml:id="i-XfmveCBRk7aiqLdS4zEdir" who="i-669G58xkbnpQCsVJmoyWfs">
@@ -14118,7 +14118,7 @@
           nimittäin noudattaa hallituksen esityksiä, etenkin kun ei mitään
           pakottavaa syytä ole siitä poikkeamiseen.
         </note>
-        <note xml:id="i-SZ3jv3t3qR82H2v9UgTzAS" type="speaker" xml:lang="sv">
+        <note xml:id="i-SZ3jv3t3qR82H2v9UgTzAS" xml:lang="sv" type="speaker">
           Hra Lönnrot:
         </note>
         <u xml:id="i-5VSjXqXzw9wWGJZGbMfDUi" who="i-VrYVhWgWmsDTenThaELYuL">
@@ -14456,7 +14456,7 @@
           Toiselle sijalle puolestani asettaisin radan Joensuu— Lieksa Nurmes
           enkä tahtoisi äänelläni kannattaa muitten rautateitten rakentamista.
         </note>
-        <note xml:id="i-9n4ESvJWv19QkAm6zbjxTq" type="speaker" xml:lang="sv">
+        <note xml:id="i-9n4ESvJWv19QkAm6zbjxTq" xml:lang="sv" type="speaker">
           Hra Mennander:
         </note>
         <u xml:id="i-6g71sKnMs2xr9oHHrJdSLN" who="i-4JLjd6bDZEbBMJYBuR7DMV">
@@ -14656,7 +14656,7 @@
           Lapin komitea sanoo, rautatien sinne saamisen olevan. Kannatan
           etusijassa Kemin Rovaniemen rataa.
         </note>
-        <note xml:id="i-Qps7k3ygo6uEgrR3LBNQqs" type="speaker" xml:lang="fi">
+        <note xml:id="i-Qps7k3ygo6uEgrR3LBNQqs" xml:lang="fi" type="speaker">
           Hra Johansson:
         </note>
         <u xml:id="i-Vweefyzmt7EgqAKvYouoaa" who="i-29jAvqcdVSDmnMHm7GL7zd">
@@ -14715,7 +14715,7 @@
         <note xml:id="i-YEAawtvAewYNFSCJF2r1oh" xml:lang="fi">
           Muuten en tahdo tällä kertaa jatkaa keskustelua.
         </note>
-        <note xml:id="i-DW4ZTiWeVgq92CHvq278yU" type="speaker" xml:lang="sv">
+        <note xml:id="i-DW4ZTiWeVgq92CHvq278yU" xml:lang="sv" type="speaker">
           Hra Lybeck:
         </note>
         <u xml:id="i-5atK67raEe5i7oYKW46Yam" who="i-RYRLCW2s7dknqNzUos9PeB">
@@ -14758,7 +14758,7 @@
           Mitä Etelä-Pohjanmaan rataan tulee, yhdyn herrojen Hedbergin
           ja Nordlundin lausuntoihin.
         </note>
-        <note xml:id="i-4Dj69T1X4yF3J2L6FW7pzT" type="speaker" xml:lang="sv">
+        <note xml:id="i-4Dj69T1X4yF3J2L6FW7pzT" xml:lang="sv" type="speaker">
           Hra Hermanson:
         </note>
         <u xml:id="i-JNLwX5xKevr9CRq1VaXwnt" who="i-SaCnJmAftzcnG2e8XYGcL9">
@@ -14881,7 +14881,7 @@
           jag för min del icke hyser någon betänklighet att behandla frågan
           i den utsträckning, i hvilken järnvägsutskottet behandlat den.
         </note>
-        <note xml:id="i-7xDPgn11TyfcwJK8FHN1qX" type="speaker" xml:lang="fi">
+        <note xml:id="i-7xDPgn11TyfcwJK8FHN1qX" xml:lang="fi" type="speaker">
           Vapaahra Palmén:
         </note>
         <u xml:id="i-Ak6BsXoZW58DLV3RAqa12D" who="i-SUpmw56zMz2APdv8K23tDg">
@@ -15175,7 +15175,7 @@
           otettavat rakennettaviksi, ja se on se päätös, joka kai nyt kohta
           tulee tehtäväksi.
         </note>
-        <note xml:id="i-CRCKeR51QYCVKVCqWpxUDz" type="speaker" xml:lang="fi">
+        <note xml:id="i-CRCKeR51QYCVKVCqWpxUDz" xml:lang="fi" type="speaker">
           Hra Hyvärinen:
         </note>
         <u xml:id="i-R5hpbgRsXVSKkRwx3gi7Nh" who="i-GoAtGw3V5JQjMdAfdcsfof">
@@ -15320,7 +15320,7 @@
           valtiopäiväin päättämistä rautateistä vasta voi työn alle jonkun
           panna. Muita ratoja en siis tällä kertaa kannata.
         </note>
-        <note xml:id="i-8vZqc2d2HpgPh5ZPU2R7cn" type="speaker" xml:lang="fi">
+        <note xml:id="i-8vZqc2d2HpgPh5ZPU2R7cn" xml:lang="fi" type="speaker">
           Hra Westerlund:
         </note>
         <u xml:id="i-43ZMLncV8YbZMPPrAe9XaZ" who="i-E4sJZkcvrMxBkmsiZoBAAh">
@@ -15392,7 +15392,7 @@
           Kun nyt otettiin edelleen käyteltäväksi rautatievaliokunnan mietintö
           uusista rautatierakennuksista, niin lausui
         </note>
-        <note xml:id="i-8tP32Eh4WX8tX6uTD8Hp8j" type="speaker" xml:lang="fi">
+        <note xml:id="i-8tP32Eh4WX8tX6uTD8Hp8j" xml:lang="fi" type="speaker">
           Herra Puhemies:
         </note>
         <u xml:id="i-PUvfPXHcsWt44vbj5avUfG" who="unknown">
@@ -15433,7 +15433,7 @@
           mietinnön siinä, ettei tätä rataa rakenneta vai päättääkö se sen
           rakennettavaksi.
         </note>
-        <note xml:id="i-XEcVhQpyRmHWrKztV7MLnX" type="speaker" xml:lang="fi">
+        <note xml:id="i-XEcVhQpyRmHWrKztV7MLnX" xml:lang="fi" type="speaker">
           Vapaahra Palmén:
         </note>
         <u xml:id="i-KnoghojxH3NEmJWMxFeuS2" who="i-SUpmw56zMz2APdv8K23tDg">
@@ -15459,7 +15459,7 @@
             kunnes on tultu selvyyteen asiassa.
           </seg>
         </u>
-        <note xml:id="i-Yc6rm9GHQYW367UohywemR" type="speaker" xml:lang="fi">
+        <note xml:id="i-Yc6rm9GHQYW367UohywemR" xml:lang="fi" type="speaker">
           Hra Puhemies:
         </note>
         <u xml:id="i-3avBeyryoWF1PBZidiFnwc" who="unknown">
@@ -15478,7 +15478,7 @@
           Rovaniemen radan rakentamista ei voi nyt panna mitään toista pontta
           vastaan.
         </note>
-        <note xml:id="i-Lidn6vHhQNzF7LhBLc65o" type="speaker" xml:lang="fi">
+        <note xml:id="i-Lidn6vHhQNzF7LhBLc65o" xml:lang="fi" type="speaker">
           Vapaahra Palmen:
         </note>
         <u xml:id="i-2YGaYMwzrTNtffS4vf1bdB" who="unknown">
@@ -15489,7 +15489,7 @@
             etusijaan.
           </seg>
         </u>
-        <note xml:id="i-DXWy5hHKpVRYxhWNCrQuX6" type="speaker" xml:lang="unknown">
+        <note xml:id="i-DXWy5hHKpVRYxhWNCrQuX6" xml:lang="unknown" type="speaker">
           Hra Hedberg:
         </note>
         <u xml:id="i-JbrKxFKqF3pcw1FEiVtb99" who="i-FNPPwEod1e3taFV6aqGkL">
@@ -15513,7 +15513,7 @@
             sillä niitä on molempia kannatettu ensi sijaan asetettaviksi.
           </seg>
         </u>
-        <note xml:id="i-RN4QcDHnPPeYp8Zf1CW2dG" type="speaker" xml:lang="fi">
+        <note xml:id="i-RN4QcDHnPPeYp8Zf1CW2dG" xml:lang="fi" type="speaker">
           Hra Puhemies:
         </note>
         <u xml:id="i-TYNBjzZCnwJ6nkD8q1zWwe" who="unknown">
@@ -15546,7 +15546,7 @@
         <note xml:id="i-V1kA1aaJK1TboaCA8VXMwM" xml:lang="fi">
           a). Suonenjoen Suolahden rata. Keskustelu:
         </note>
-        <note xml:id="i-Qdc1GwVjQGa57Xc1AvaCrq" type="speaker" xml:lang="sv">
+        <note xml:id="i-Qdc1GwVjQGa57Xc1AvaCrq" xml:lang="sv" type="speaker">
           Hra Saxén:
         </note>
         <u xml:id="i-HVGZDsqoMGsRc6C1xvLTit" who="i-6uBc5itfkvswdCxwfNnXyC">
@@ -15566,7 +15566,7 @@
             Savolaxbanan samt sistnämnda bana med Jyväskylä-banan.
           </seg>
         </u>
-        <note xml:id="i-Frw1ccti5DcaVacuqsJYr9" type="speaker" xml:lang="sv">
+        <note xml:id="i-Frw1ccti5DcaVacuqsJYr9" xml:lang="sv" type="speaker">
           Hra Björklund:
         </note>
         <u xml:id="i-WNiouFZrvfwvyiNv5rdDdC" who="i-RE9ioS2PcNCNiD9EFU1fDJ">
@@ -15609,7 +15609,7 @@
           yhdysrataa ja tahdon lopuksi lisätä, että asetan tämän radan ensimäiseen
           sijaan, kuten se on asetettu arm. esityksessäkin.
         </note>
-        <note xml:id="i-dYELDKw1Y6WbsEnv7HSjD" type="speaker" xml:lang="fi">
+        <note xml:id="i-dYELDKw1Y6WbsEnv7HSjD" xml:lang="fi" type="speaker">
           Hra Maunu:
         </note>
         <u xml:id="i-U3WFLt4Aq3NKbxyF1eTRmx" who="i-24MJDgsqqgCgQM9j64vDZY">
@@ -15631,7 +15631,7 @@
             tekemään ponsiehdotukseen.
           </seg>
         </u>
-        <note xml:id="i-QYBjNbK8KqJpdDEpQLxs7H" type="speaker" xml:lang="sv">
+        <note xml:id="i-QYBjNbK8KqJpdDEpQLxs7H" xml:lang="sv" type="speaker">
           Hra Berger:
         </note>
         <u xml:id="i-KF47ZGEgwvpv4tUd35ueF4" who="i-6RRNWfsAtFAXWdUseP8L1A">
@@ -15683,7 +15683,7 @@
           sopivinta yhdistysrataa rakenneta? — Pyydän puolestani siis minäkin
           yhtyä hra Sax6nin ehdotukseen.
         </note>
-        <note xml:id="i-YRn3aEWX4Y2PGUu993oDEE" type="speaker" xml:lang="fi">
+        <note xml:id="i-YRn3aEWX4Y2PGUu993oDEE" xml:lang="fi" type="speaker">
           Hra Johansson:
         </note>
         <u xml:id="i-B8tPZRn4rDHBap3WNHB9aR" who="i-29jAvqcdVSDmnMHm7GL7zd">
@@ -15702,7 +15702,7 @@
             meillä sitte nämä tärkeimmät yhdysradat valmiina.
           </seg>
         </u>
-        <note xml:id="i-6KiocqCr5dsM78TgCagKjU" type="speaker" xml:lang="unknown">
+        <note xml:id="i-6KiocqCr5dsM78TgCagKjU" xml:lang="unknown" type="speaker">
           Hra Walle:
         </note>
         <u xml:id="i-EsD5BoZF5VDSKTkqixnAHT" who="i-Ay8y6qphUDYbXoFXQgQvgE">
@@ -15764,7 +15764,7 @@
           siinä tapauksessa yhdyn kannattamaan herra Saxenin tänä iltana
           tekemää ehdotusta.
         </note>
-        <note xml:id="i-HxVYhGQscDYnmDy6iyNnUe" type="speaker" xml:lang="sv">
+        <note xml:id="i-HxVYhGQscDYnmDy6iyNnUe" xml:lang="sv" type="speaker">
           Hra Wennerström:
         </note>
         <u xml:id="i-WqaWXaqvhoch6opzAKbPvm" who="i-2F6oVsrG3mDJDsy2mxCob7">
@@ -15847,7 +15847,7 @@
           anseende att det för närvarande är det enda, som gerna kan komma
           i fråga. Förhastade beslut äro sannerligen icke till sakens fromma.
         </note>
-        <note xml:id="i-V8GqfNasXWC3q1fZiC1dBr" type="speaker" xml:lang="unknown">
+        <note xml:id="i-V8GqfNasXWC3q1fZiC1dBr" xml:lang="unknown" type="speaker">
           Hra Hedberg:
         </note>
         <u xml:id="i-U7thy2KQryzTHouwJX7je1" who="i-FNPPwEod1e3taFV6aqGkL">
@@ -15967,7 +15967,7 @@
           että hyväksyttäisiin I vastalause ja samalla pyydettäisiin annettavaksi
           arm. esitystä yhdistysradasta Savonlinna— Mikkeli— Jyväskylä.
         </note>
-        <note xml:id="i-PCWHoieNTtu9bV94wKKj22" type="speaker" xml:lang="fi">
+        <note xml:id="i-PCWHoieNTtu9bV94wKKj22" xml:lang="fi" type="speaker">
           Vapaahra Palmén:
         </note>
         <u xml:id="i-XhGYSCd5dKnGVcX8JaXiYg" who="i-SUpmw56zMz2APdv8K23tDg">
@@ -16156,7 +16156,7 @@
           heidän vaatimuksiaan, jos jotakin muuta rataa puolustettaisiin.
           Arvelen sentähden, ettei uutta selvitystä tässä asiassa enää kaivata.
         </note>
-        <note xml:id="i-8tQ9nvxdjmtcn3e157ZdLW" type="speaker" xml:lang="sv">
+        <note xml:id="i-8tQ9nvxdjmtcn3e157ZdLW" xml:lang="sv" type="speaker">
           Piispa Colliander:
         </note>
         <u xml:id="i-DrNhgVy49ixuwqoy26o4Lq" who="unknown">
@@ -16211,7 +16211,7 @@
           joka nyt on rakennettava, on juuri tämä nyt kysymyksessä oleva
           yhdysrata.
         </note>
-        <note xml:id="i-4fw1bvokjLXkUjmYRt3wzK" type="speaker" xml:lang="unknown">
+        <note xml:id="i-4fw1bvokjLXkUjmYRt3wzK" xml:lang="unknown" type="speaker">
           Hra Runeberg:
         </note>
         <u xml:id="i-GH2aRWDFNJsK9PJwQjFj67" who="i-QQ7rzMcvpGv1RunkkD3Hgv">
@@ -16234,7 +16234,7 @@
             andra talare.
           </seg>
         </u>
-        <note xml:id="i-WAqu8PhXLSN6CAgfqmbKT8" type="speaker" xml:lang="fi">
+        <note xml:id="i-WAqu8PhXLSN6CAgfqmbKT8" xml:lang="fi" type="speaker">
           Hra Westerlund:
         </note>
         <u xml:id="i-UqnXYhMnVxDM1ZMcSi7yVN" who="i-E4sJZkcvrMxBkmsiZoBAAh">
@@ -16270,7 +16270,7 @@
           lahden—Suonenjoen radan hyväksi, jonka tähden senkin syyn vuoksi
           minä kannatan ensimäistä vastalausetta.
         </note>
-        <note xml:id="i-WxCuJKcqnBMZKiJh5EfZAm" type="speaker" xml:lang="fi">
+        <note xml:id="i-WxCuJKcqnBMZKiJh5EfZAm" xml:lang="fi" type="speaker">
           Hra Tallgren:
         </note>
         <u xml:id="i-9iPxLEzzBJjppRkaiGj4Wz" who="i-5mrB9FPRsk5QE1MSMJGM5v">
@@ -16293,7 +16293,7 @@
             Minä siis täydellisesti kannatan ensimäistä vastalausetta.
           </seg>
         </u>
-        <note xml:id="i-Fqi7rgbUtTgFFMaWevNeQS" type="speaker" xml:lang="fi">
+        <note xml:id="i-Fqi7rgbUtTgFFMaWevNeQS" xml:lang="fi" type="speaker">
           Hra Auvinen:
         </note>
         <u xml:id="i-PbZ8ayTcNMQ8QLvZbecU7e" who="i-J6zP3X9ccdcPDSdoJRRzLX">
@@ -16357,7 +16357,7 @@
           rakentamista ja yhdyn siis herra Hedbergin ynnä muiden tekemään
           ensimäiseen vastalauseeseen.
         </note>
-        <note xml:id="i-Qc8BzawmqMkoUBq2zWtmdZ" type="speaker" xml:lang="sv">
+        <note xml:id="i-Qc8BzawmqMkoUBq2zWtmdZ" xml:lang="sv" type="speaker">
           Hra Wennerström:
         </note>
         <u xml:id="i-3MG7PZ449nnQWvQXFvFCA2" who="i-2F6oVsrG3mDJDsy2mxCob7">
@@ -16411,7 +16411,7 @@
           god sjöled ända till hafvet. Vidare har jag icke i denna sak att
           säga.
         </note>
-        <note xml:id="i-VKFF9vPCaHp6dafECJgwXr" type="speaker" xml:lang="fi">
+        <note xml:id="i-VKFF9vPCaHp6dafECJgwXr" xml:lang="fi" type="speaker">
           Vapaahra Palmön:
         </note>
         <u xml:id="i-JmVRmYWmTEu5ene7hcpdUK" who="unknown">
@@ -17065,7 +17065,7 @@
         <note xml:id="i-NxYvTnpneRADPrWMDmeKYS" xml:lang="fi">
           Uusista rautatierakennuksista. 305
         </note>
-        <note xml:id="i-BuGLMfSFdqM8yKe4q5i2Bu" type="speaker" xml:lang="fi">
+        <note xml:id="i-BuGLMfSFdqM8yKe4q5i2Bu" xml:lang="fi" type="speaker">
           Hra Homen:
         </note>
         <u xml:id="i-PBBeGFeSCgbAtLSMQ5NsMZ" who="unknown">
@@ -17403,7 +17403,7 @@
           ja kulttuurin herättämistyölle, ymmärtää katsoa asiaa tältäkin
           puolelta.
         </note>
-        <note xml:id="i-JH5FEtWMMUfLDqpfnSBSti" type="speaker" xml:lang="unknown">
+        <note xml:id="i-JH5FEtWMMUfLDqpfnSBSti" xml:lang="unknown" type="speaker">
           Hra Walle:
         </note>
         <u xml:id="i-PwHeZKJhh2Lp2th3TuFdm8" who="i-Ay8y6qphUDYbXoFXQgQvgE">
@@ -17728,7 +17728,7 @@
           Joensuusta lähtevä vähemmän. Kannatan siis Värtsilästä lähtevää
           rataa.
         </note>
-        <note xml:id="i-7hzFGoAeiivhDsWhgHk7pj" type="speaker" xml:lang="sv">
+        <note xml:id="i-7hzFGoAeiivhDsWhgHk7pj" xml:lang="sv" type="speaker">
           Hra Gummerus:
         </note>
         <u xml:id="i-5ihTep6xJY9SNUb5GuvPjP" who="i-669G58xkbnpQCsVJmoyWfs">
@@ -17828,7 +17828,7 @@
           Sittenkuin pappissääty oli pitänyt neljännestunnin lomaaikaa,
           jatkettiin keskustelua seuraavaan tapaan:
         </note>
-        <note xml:id="i-9eGTSNhpMsvq9cktnXo5bM" type="speaker" xml:lang="unknown">
+        <note xml:id="i-9eGTSNhpMsvq9cktnXo5bM" xml:lang="unknown" type="speaker">
           Hra P. Snellman:
         </note>
         <u xml:id="i-NdvNL3B9Job4JLzgbifyX4" who="i-3KmZ2JW55We9zqnwrRNCgP">
@@ -17850,7 +17850,7 @@
             Värtsilästä Nurmekseen.
           </seg>
         </u>
-        <note xml:id="i-NWMbk9zaYPRa8oNyfwn45D" type="speaker" xml:lang="fi">
+        <note xml:id="i-NWMbk9zaYPRa8oNyfwn45D" xml:lang="fi" type="speaker">
           Vapaahra Palmen:
         </note>
         <u xml:id="i-X7ZKCE1eJEKumSLPTs4tpM" who="unknown">
@@ -18049,7 +18049,7 @@
           voivat isänmaalle suurimmaksi hyödyksi tällä kertaa saada rautatien,
           niin minä en voi päästä siitä, että se on Pielisen seutu.
         </note>
-        <note xml:id="i-Q1EqUQuo9PQ3QS8gr9ZThR" type="speaker" xml:lang="sv">
+        <note xml:id="i-Q1EqUQuo9PQ3QS8gr9ZThR" xml:lang="sv" type="speaker">
           Hra Nordlund:
         </note>
         <u xml:id="i-SEjm2JcmGUcPwaFpEiX4dV" who="i-7nQwnFEu5Yk3kSApPefrFA">
@@ -18119,7 +18119,7 @@
           det klara, att den karelska banan bör gå ut från Joensuu och till
           Nurmes, och förenar mig om denna sträckning.
         </note>
-        <note xml:id="i-K9HzwSQ6ZppKwG8tctByfo" type="speaker" xml:lang="fi">
+        <note xml:id="i-K9HzwSQ6ZppKwG8tctByfo" xml:lang="fi" type="speaker">
           Hra Hellman:
         </note>
         <u xml:id="i-6TAZmzpdJxXpThwLbo1bES" who="i-D6Mi4GWWJsTvqGyurVJi26">
@@ -18207,7 +18207,7 @@
         <note xml:id="i-U8GbPLRfnhPJTHBKXVH3Su" xml:lang="fi">
           Pitkistä puheista ei asia taida parantua, jonka tähden lopetan.
         </note>
-        <note xml:id="i-N4dTxwsDeHKTW6mtAZeBPo" type="speaker" xml:lang="fi">
+        <note xml:id="i-N4dTxwsDeHKTW6mtAZeBPo" xml:lang="fi" type="speaker">
           Hra Homen:
         </note>
         <u xml:id="i-C8w2jq6ScEgBDxqY2oTKGo" who="unknown">
@@ -18336,7 +18336,7 @@
           vähän liikettä yhdelle reitille, niin kyllä kovasti epäilyttää
           kuinka sitä sitte riittäisi kahdelle.
         </note>
-        <note xml:id="i-3zLC2YSaqt6UjWEDNxBzbN" type="speaker" xml:lang="unknown">
+        <note xml:id="i-3zLC2YSaqt6UjWEDNxBzbN" xml:lang="unknown" type="speaker">
           Hra Walle:
         </note>
         <u xml:id="i-VN64hrTkFouj2Kq3JUfCK5" who="i-Ay8y6qphUDYbXoFXQgQvgE">
@@ -18402,7 +18402,7 @@
           siihen ja kannatan hänen tekemäänsä ehdotusta, semminkin kun ei
           se estä ollenkaan Karjalan radan jatkamista.
         </note>
-        <note xml:id="i-7o8rshBfZw3MtrGYk9XtZN" type="speaker" xml:lang="sv">
+        <note xml:id="i-7o8rshBfZw3MtrGYk9XtZN" xml:lang="sv" type="speaker">
           Hra Homön:
         </note>
         <u xml:id="i-BHhuZFJfDRPFqaM3oJRoMK" who="unknown">
@@ -18461,7 +18461,7 @@
         <note xml:id="i-78FvUM6GwdAFXTNhNSdrXf" xml:lang="fi">
           Tästä keskusteltiin seuraavasti:
         </note>
-        <note xml:id="i-QkU6x7fGTCTQ8HWKaFrjBT" type="speaker" xml:lang="unknown">
+        <note xml:id="i-QkU6x7fGTCTQ8HWKaFrjBT" xml:lang="unknown" type="speaker">
           Hra Hedberg:
         </note>
         <u xml:id="i-8P755RxcRMeprV7KFzL3Pe" who="i-FNPPwEod1e3taFV6aqGkL">
@@ -18651,7 +18651,7 @@
           että pappissääty hyväksyisi puheena olevalle radalle VI vastalauseen,
           joka on luettava sivulla 60.
         </note>
-        <note xml:id="i-A9vUQiQbdUysveVMEzMaFg" type="speaker" xml:lang="sv">
+        <note xml:id="i-A9vUQiQbdUysveVMEzMaFg" xml:lang="sv" type="speaker">
           Hra Nordlund:
         </note>
         <u xml:id="i-BfZ5HqBTszg7zARwNWnD1Z" who="i-7nQwnFEu5Yk3kSApPefrFA">
@@ -19174,7 +19174,7 @@
           stad skall utföras och under innevarande finansperiod beläggas
           med arbete.
         </note>
-        <note xml:id="i-2n7WEXKQKwRart1DTQNLi4" type="speaker" xml:lang="fi">
+        <note xml:id="i-2n7WEXKQKwRart1DTQNLi4" xml:lang="fi" type="speaker">
           Hra Maunu:
         </note>
         <u xml:id="i-XrLWC8g5Unww9LNLfq1zf4" who="i-24MJDgsqqgCgQM9j64vDZY">
@@ -19273,7 +19273,7 @@
           johonkin satamaan ja tietysti perustelisi tämän esityksen tutkittuihin
           tosiasioihin.
         </note>
-        <note xml:id="i-YUhe9nWLhRtEvbjmKgjGY8" type="speaker" xml:lang="sv">
+        <note xml:id="i-YUhe9nWLhRtEvbjmKgjGY8" xml:lang="sv" type="speaker">
           Hra Lybeck:
         </note>
         <u xml:id="i-HsfV8XkHdvy6t3MHikFgTm" who="i-RYRLCW2s7dknqNzUos9PeB">
@@ -19368,7 +19368,7 @@
           ja määrättäisiin sitä varten tarvittavat varat vuosina 1906—1907.
           |
         </note>
-        <note xml:id="i-N2FyywXKQ4T5j29aGvukm4" type="speaker" xml:lang="unknown">
+        <note xml:id="i-N2FyywXKQ4T5j29aGvukm4" xml:lang="unknown" type="speaker">
           Hra P. Snellman:
         </note>
         <u xml:id="i-M8FPWajaWVkkeqUePb5aeu" who="i-3KmZ2JW55We9zqnwrRNCgP">
@@ -19405,7 +19405,7 @@
           I likhet med hr Nordlund skulle jag äfven föreslå, att banan skulle
           dragas från Seinäjoki till Kaskö.
         </note>
-        <note xml:id="i-4cL8uC6H3fHaw6xPF2jL6r" type="speaker" xml:lang="sv">
+        <note xml:id="i-4cL8uC6H3fHaw6xPF2jL6r" xml:lang="sv" type="speaker">
           Hra Svanljung:
         </note>
         <u xml:id="i-RZwBDTSrZrt5KwcwRhtokJ" who="i-S8BUZ6vnbJpzzmYXeu7wqs">
@@ -19440,7 +19440,7 @@
           pitäisi tulla siihen päätökseen, että koko rata olisi hyljättävä
           sentähden, että suunnasta ollaan eri mieltä.
         </note>
-        <note xml:id="i-BWfWQ3gix8HU1nbXYHnL39" type="speaker" xml:lang="sv">
+        <note xml:id="i-BWfWQ3gix8HU1nbXYHnL39" xml:lang="sv" type="speaker">
           Hra Gummerus:
         </note>
         <u xml:id="i-HkEnNVdqAEmGLUCsrT2t86" who="i-669G58xkbnpQCsVJmoyWfs">
@@ -19462,7 +19462,7 @@
           vastalauseen ponnen, että kysymys Suupohjan radan rakentamisesta
           tällä kertaa jätettäisiin sikseen.
         </note>
-        <note xml:id="i-W8mF5tcXBTFTd3veEA78kW" type="speaker" xml:lang="unknown">
+        <note xml:id="i-W8mF5tcXBTFTd3veEA78kW" xml:lang="unknown" type="speaker">
           Hra Runeberg:
         </note>
         <u xml:id="i-Az15TDVj3Ka4onEUTNJQPa" who="i-QQ7rzMcvpGv1RunkkD3Hgv">
@@ -19501,7 +19501,7 @@
             till Kristinestad genom Bötom.
           </seg>
         </u>
-        <note xml:id="i-XbTzU2TTbr71fphsSdykwu" type="speaker" xml:lang="fi">
+        <note xml:id="i-XbTzU2TTbr71fphsSdykwu" xml:lang="fi" type="speaker">
           Hra Maunu:
         </note>
         <u xml:id="i-8zKxysidaQCPJ2yri9nKpz" who="i-24MJDgsqqgCgQM9j64vDZY">
@@ -19539,7 +19539,7 @@
           viidenteen vastalauseesen ja jättäisimme tämän radan kokonaan
           pois. Meille jää sittenkin vielä riittävästi vertailemista.
         </note>
-        <note xml:id="i-Ho5nBbjMmJybkvaExWhCKR" type="speaker" xml:lang="sv">
+        <note xml:id="i-Ho5nBbjMmJybkvaExWhCKR" xml:lang="sv" type="speaker">
           Hra Danielson:
         </note>
         <u xml:id="i-UqQpWSEd2CoNdvk5hZhbHi" who="i-LhNeaJMK2rPRdMfEm4W2yR">
@@ -19578,7 +19578,7 @@
           vuoden rakennusaika, säädyn täytyy, jos tahtoo pysyä johdonmukaisena,
           hyljätä tällä kertaa Suupohjan rata.
         </note>
-        <note xml:id="i-2oDstKbXtfxLJzaPuKiWZT" type="speaker" xml:lang="unknown">
+        <note xml:id="i-2oDstKbXtfxLJzaPuKiWZT" xml:lang="unknown" type="speaker">
           Hra Runeberg:
         </note>
         <u xml:id="i-TRWDnWoQWmqVi1k5urpHfQ" who="i-QQ7rzMcvpGv1RunkkD3Hgv">
@@ -19610,7 +19610,7 @@
             ifrågavarande period.
           </seg>
         </u>
-        <note xml:id="i-977g4BzojanvFpbSXtDMw8" type="speaker" xml:lang="fi">
+        <note xml:id="i-977g4BzojanvFpbSXtDMw8" xml:lang="fi" type="speaker">
           Vapaahra Palmén:
         </note>
         <u xml:id="i-UaPhWVtvJFiNEgNWauE7A" who="i-SUpmw56zMz2APdv8K23tDg">
@@ -19647,7 +19647,7 @@
           hänestä olisivat tärkeimmät. Olen siis tässä kohden samaa mieltä
           kuin valtioneuvos Danielson.
         </note>
-        <note xml:id="i-FS55jaVmAh37WmfVFbnbbE" type="speaker" xml:lang="sv">
+        <note xml:id="i-FS55jaVmAh37WmfVFbnbbE" xml:lang="sv" type="speaker">
           Hra Danielson:
         </note>
         <u xml:id="i-2KaBntuwKVniAGF3Q6UzT8" who="i-LhNeaJMK2rPRdMfEm4W2yR">
@@ -19668,7 +19668,7 @@
             kuten sanottu, nyt on kysymyksessä perin lyhyt finanssikausi.
           </seg>
         </u>
-        <note xml:id="i-9UKSMUTgfgEc1bHSdGAHQY" type="speaker" xml:lang="unknown">
+        <note xml:id="i-9UKSMUTgfgEc1bHSdGAHQY" xml:lang="unknown" type="speaker">
           Hra Runeberg:
         </note>
         <u xml:id="i-58eaZsCtS3CtHAms73wYT9" who="i-QQ7rzMcvpGv1RunkkD3Hgv">
@@ -19681,7 +19681,7 @@
             utföras.
           </seg>
         </u>
-        <note xml:id="i-GWGfRFUfYYiNf6HEeqt37w" type="speaker" xml:lang="sv">
+        <note xml:id="i-GWGfRFUfYYiNf6HEeqt37w" xml:lang="sv" type="speaker">
           Hra S. W. Roos:
         </note>
         <u xml:id="i-EeMqU7tkyPvL8Ku4QA8w1X" who="unknown">
@@ -19699,7 +19699,7 @@
         <note xml:id="i-RFiCgaCgJ1auiJtKzvKfrS" xml:lang="fi">
           Uusista rautatierakennuksista, 353
         </note>
-        <note xml:id="i-BKs2ybNJ9BwEVscchvLth3" type="speaker" xml:lang="sv">
+        <note xml:id="i-BKs2ybNJ9BwEVscchvLth3" xml:lang="sv" type="speaker">
           Hra Danielson:
         </note>
         <u xml:id="i-Kfn4rR4u2i57u1gudw9ppp" who="i-LhNeaJMK2rPRdMfEm4W2yR">
@@ -19724,7 +19724,7 @@
           ne vastalauseet, joita on kannatettu, ja että jokaisella tiettävästi
           on vapaus tehdä ehdotuksia ja-äänestää miten tahtoo.
         </note>
-        <note xml:id="i-WZWF8prf6V3JXFhMGVX8wc" type="speaker" xml:lang="sv">
+        <note xml:id="i-WZWF8prf6V3JXFhMGVX8wc" xml:lang="sv" type="speaker">
           Hra Svanljung:
         </note>
         <u xml:id="i-FW5opESUCuYWPheE2xYmUf" who="i-S8BUZ6vnbJpzzmYXeu7wqs">
@@ -19751,7 +19751,7 @@
           Jo tämäkin seikka pakoittaa meitä asettamaan radoille järjestyksessä
           sijat, siten kun ne tulevat päätetyiksi.
         </note>
-        <note xml:id="i-S3D89p5N2HEtUHxywmYkp4" type="speaker" xml:lang="unknown">
+        <note xml:id="i-S3D89p5N2HEtUHxywmYkp4" xml:lang="unknown" type="speaker">
           Hra Walle:
         </note>
         <u xml:id="i-A2F2fVroo7yo1cYbQo29tj" who="i-Ay8y6qphUDYbXoFXQgQvgE">
@@ -19782,7 +19782,7 @@
           sillä ei meillä minun mielestäni ole ensinkään rahoja riittämään
           niin moneen rakennustyöhön.
         </note>
-        <note xml:id="i-TvZNxuHaDQfL71tWKbxDLP" type="speaker" xml:lang="sv">
+        <note xml:id="i-TvZNxuHaDQfL71tWKbxDLP" xml:lang="sv" type="speaker">
           Hra Hermanson:
         </note>
         <u xml:id="i-Ha8x2JBZxi7hzZtYPPZYzS" who="i-SaCnJmAftzcnG2e8XYGcL9">
@@ -19808,7 +19808,7 @@
             beviljande af järnvägsanläggningen eller icke.
           </seg>
         </u>
-        <note xml:id="i-Hy9MRGp8Yd6taVUZuZ4v1c" type="speaker" xml:lang="fi">
+        <note xml:id="i-Hy9MRGp8Yd6taVUZuZ4v1c" xml:lang="fi" type="speaker">
           Herra Puhemies:
         </note>
         <u xml:id="i-FW6fHHZCHwyT8sAiwBjYfs" who="unknown">
@@ -19971,7 +19971,7 @@
           esiintuoda. Minusta ne ovat niin selviä, että niiden pitäisi puhua
           itse puolestaan.
         </note>
-        <note xml:id="i-VPaDjcF6RZJbRUnppMcTra" type="speaker" xml:lang="unknown">
+        <note xml:id="i-VPaDjcF6RZJbRUnppMcTra" xml:lang="unknown" type="speaker">
           Hra Hedberg:
         </note>
         <u xml:id="i-La32iKVRSXPEShtgNi8Y7r" who="i-FNPPwEod1e3taFV6aqGkL">
@@ -20017,7 +20017,7 @@
           onko tohtori Maunulla esitettävänä joitakin edullisempia tuloksia,
           kuin mitä tässä nyt on mainittu.
         </note>
-        <note xml:id="i-MYTc7rvEPUn7Y1Qat9jQXy" type="speaker" xml:lang="fi">
+        <note xml:id="i-MYTc7rvEPUn7Y1Qat9jQXy" xml:lang="fi" type="speaker">
           Hra Homen:
         </note>
         <u xml:id="i-9F1x6Eq3bBqsYoHf4q5vCo" who="unknown">
@@ -20046,7 +20046,7 @@
             radan rakentamista.
           </seg>
         </u>
-        <note xml:id="i-66gJDoVP8Ewnw74bDzH3hZ" type="speaker" xml:lang="fi">
+        <note xml:id="i-66gJDoVP8Ewnw74bDzH3hZ" xml:lang="fi" type="speaker">
           Hra Maunu:
         </note>
         <u xml:id="i-YBux4s8iBtyk9nPH2hQ7pm" who="i-24MJDgsqqgCgQM9j64vDZY">
@@ -20073,7 +20073,7 @@
           ovat niiden jälkeen tulleet yhä edullisimmiksi rautatien rakentamiselle.
           On siis mielestäni päteviä syitä puolustaa tämän radan rakentamista.
         </note>
-        <note xml:id="i-XpnFoPnfWWYndRwu2RyQeQ" type="speaker" xml:lang="fi">
+        <note xml:id="i-XpnFoPnfWWYndRwu2RyQeQ" xml:lang="fi" type="speaker">
           Hra Hellman:
         </note>
         <u xml:id="i-MYFS2BU1UuCW29UuU6nfRy" who="i-D6Mi4GWWJsTvqGyurVJi26">
@@ -20086,7 +20086,7 @@
             vaan ehdotan senkin hylättäväksi.
           </seg>
         </u>
-        <note xml:id="i-DLdg7pcKyViGMyDKfHkPp2" type="speaker" xml:lang="unknown">
+        <note xml:id="i-DLdg7pcKyViGMyDKfHkPp2" xml:lang="unknown" type="speaker">
           Hra Hedberg:
         </note>
         <u xml:id="i-CSq8dXc2BMYgnaGeWLBfrn" who="i-FNPPwEod1e3taFV6aqGkL">
@@ -20100,7 +20100,7 @@
             hän ei nyt ole tehnyt, ja täytynee meidän siis tyytyä siihen.
           </seg>
         </u>
-        <note xml:id="i-7HiUESXR48qop4L6nkjo1F" type="speaker" xml:lang="sv">
+        <note xml:id="i-7HiUESXR48qop4L6nkjo1F" xml:lang="sv" type="speaker">
           Hra Mennander:
         </note>
         <u xml:id="i-Ek8TzipwLLaVQijwdKxAjU" who="i-4JLjd6bDZEbBMJYBuR7DMV">
@@ -20208,7 +20208,7 @@
           avuntarve luonnollisten apulähteiden ääressä puhuu rautateiden
           puolesta eikä niitä vastaan.
         </note>
-        <note xml:id="i-C8FEwps1hQTnaU5tQdfwSZ" type="speaker" xml:lang="fi">
+        <note xml:id="i-C8FEwps1hQTnaU5tQdfwSZ" xml:lang="fi" type="speaker">
           Hra Maunu:
         </note>
         <u xml:id="i-UpGSkTjSY7QJT6uQ9ZgBkz" who="i-24MJDgsqqgCgQM9j64vDZY">
@@ -20237,7 +20237,7 @@
         <note xml:id="i-UxVM3S5NiXVyMR3ApzqZz6" xml:lang="fi">
           362 Pappissääty huhtik. 26 p. 1906.
         </note>
-        <note xml:id="i-9ggppTxBeUsUudM1uDFRYo" type="speaker" xml:lang="unknown">
+        <note xml:id="i-9ggppTxBeUsUudM1uDFRYo" xml:lang="unknown" type="speaker">
           Hra Hedberg:
         </note>
         <u xml:id="i-EBQYV1izjvXrh96P23T658" who="i-FNPPwEod1e3taFV6aqGkL">
@@ -20252,7 +20252,7 @@
             mielipiteeseensä. Mutta sellaisia tietoja minä en ole heiltä saanut.
           </seg>
         </u>
-        <note xml:id="i-H8FHk728jHgHktjXjw4zFH" type="speaker" xml:lang="unknown">
+        <note xml:id="i-H8FHk728jHgHktjXjw4zFH" xml:lang="unknown" type="speaker">
           Hra Runeberg:
         </note>
         <u xml:id="i-EkDsSTAoxnQtoruLqui1JH" who="i-QQ7rzMcvpGv1RunkkD3Hgv">
@@ -20330,7 +20330,7 @@
           4 A sivulla 18 ja 19 olevien laskujen lopputulokseen eli 13,000,000
           markkaan uusien rautateiden rakentamiseksi vuosina 1906 ja 1907.
         </note>
-        <note xml:id="i-Eo2JXSG6xgFX6bKgWVAaDv" type="speaker" xml:lang="fi">
+        <note xml:id="i-Eo2JXSG6xgFX6bKgWVAaDv" xml:lang="fi" type="speaker">
           Hra H. E. Schroderus:
         </note>
         <u xml:id="i-E1CTGKxJ44UThGMLxyWw3w" who="unknown">
@@ -20349,7 +20349,7 @@
             etusijalle.
           </seg>
         </u>
-        <note xml:id="i-3dKie4L8s2tVfDFf28gWT9" type="speaker" xml:lang="fi">
+        <note xml:id="i-3dKie4L8s2tVfDFf28gWT9" xml:lang="fi" type="speaker">
           Hra Hyvärinen:
         </note>
         <u xml:id="i-BkMowdremJ1G7VXFRo1Nvk" who="i-GoAtGw3V5JQjMdAfdcsfof">
@@ -20398,7 +20398,7 @@
         <note xml:id="i-J2TrUP6Caim4185wCaiu4V" xml:lang="fi">
           Keskustelu:
         </note>
-        <note xml:id="i-S1bDhjmNH4DojpdwHqTG1n" type="speaker" xml:lang="sv">
+        <note xml:id="i-S1bDhjmNH4DojpdwHqTG1n" xml:lang="sv" type="speaker">
           Hra S. W. Roos:
         </note>
         <u xml:id="i-G5VVyS6dQxdMd9AE2X9KsL" who="unknown">
@@ -20588,7 +20588,7 @@
           viitattua tarkotusta varten varattuun määrärahaan pidettäisiin
           tarpeen vaatimana, siitä antaa ehdotus säädyille.
         </note>
-        <note xml:id="i-B5Nf6pNaHWKvYDxQkaLmFd" type="speaker" xml:lang="sv">
+        <note xml:id="i-B5Nf6pNaHWKvYDxQkaLmFd" xml:lang="sv" type="speaker">
           Hra Schwartzberg:
         </note>
         <u xml:id="i-RHxV2MjtNGUKQF9k6pd4kd" who="i-PUGEJH9kXtM6B1imKCMoex">
@@ -20603,7 +20603,7 @@
         <note xml:id="i-4ovWcoVBpF9HK5PcfJoVh7" xml:lang="sv">
           Hra v. Pfaler kannatti kirkkoherra Roosin tekemää ehdotusta.
         </note>
-        <note xml:id="i-H3iMoPCoh3z9dRBEav96ew" type="speaker" xml:lang="unknown">
+        <note xml:id="i-H3iMoPCoh3z9dRBEav96ew" xml:lang="unknown" type="speaker">
           Hra Hedberg:
         </note>
         <u xml:id="i-4J21E8aU7dFWNuegPkxioL" who="i-FNPPwEod1e3taFV6aqGkL">
@@ -20617,7 +20617,7 @@
             on tehnyt. Minä pyydän siis saada kannattaa hänen ehdotustaan.
           </seg>
         </u>
-        <note xml:id="i-PMZiNS3zv2MLsUXepybd5M" type="speaker" xml:lang="sv">
+        <note xml:id="i-PMZiNS3zv2MLsUXepybd5M" xml:lang="sv" type="speaker">
           Hra Gummerus:
         </note>
         <u xml:id="i-G3upngWWGX2njUR3CPykmW" who="i-669G58xkbnpQCsVJmoyWfs">
@@ -20649,7 +20649,7 @@
           Minä rohkenisin vieläkin pyytää lisäystä tähän ponteen siihen
           suuntaan kuin olen tässä esittänyt.
         </note>
-        <note xml:id="i-9TgvxP9xNTjTxrsoJz3k23" type="speaker" xml:lang="sv">
+        <note xml:id="i-9TgvxP9xNTjTxrsoJz3k23" xml:lang="sv" type="speaker">
           Hra Svanljung:
         </note>
         <u xml:id="i-5KgqgvjGdeSFzTLdhkKBdK" who="i-S8BUZ6vnbJpzzmYXeu7wqs">
@@ -20662,7 +20662,7 @@
             ja vaatimattomalla pyynnöllä kuin tämä nyt puheena oleva.
           </seg>
         </u>
-        <note xml:id="i-J2G61P4tNJCv3LafBjYYsp" type="speaker" xml:lang="unknown">
+        <note xml:id="i-J2G61P4tNJCv3LafBjYYsp" xml:lang="unknown" type="speaker">
           Hra Hedberg:
         </note>
         <u xml:id="i-JHEuCWkpsMzwtosRCfFag9" who="i-FNPPwEod1e3taFV6aqGkL">
@@ -20685,7 +20685,7 @@
             ne lisäykset, jotka herrat Roos ja Hyvärinen ovat ehdottaneet.
           </seg>
         </u>
-        <note xml:id="i-NhyHuQujYFUeWbMPk6wyeu" type="speaker" xml:lang="unknown">
+        <note xml:id="i-NhyHuQujYFUeWbMPk6wyeu" xml:lang="unknown" type="speaker">
           Hra P. Snellman:
         </note>
         <u xml:id="i-5ggXG1tkLZjfvwh3kGabW6" who="i-3KmZ2JW55We9zqnwrRNCgP">
@@ -20695,7 +20695,7 @@
             välillä.
           </seg>
         </u>
-        <note xml:id="i-4xKQ3aU12CDkbGpYrjHDQ8" type="speaker" xml:lang="unknown">
+        <note xml:id="i-4xKQ3aU12CDkbGpYrjHDQ8" xml:lang="unknown" type="speaker">
           Hra Walle:
         </note>
         <u xml:id="i-V4rYR6pKRWddr4DcpuzW99" who="i-Ay8y6qphUDYbXoFXQgQvgE">
@@ -20743,7 +20743,7 @@
           1) Ponnet mietinnön sivuilla 40—44. Ponsi siv. 40 hyväksyttiin
           keskustelutta. Sivulla 41 olevan ponnen johdosta lausui
         </note>
-        <note xml:id="i-DUMgFLn6NtJhKcQu1kTV5B" type="speaker" xml:lang="sv">
+        <note xml:id="i-DUMgFLn6NtJhKcQu1kTV5B" xml:lang="sv" type="speaker">
           Hra Homön:
         </note>
         <u xml:id="i-XdXqQQEuaa4RaxTJynkFGE" who="unknown">
@@ -20759,7 +20759,7 @@
             ovat sitä vastaan.
           </seg>
         </u>
-        <note xml:id="i-GNF9p4dDbJ8NrZp44cB7vB" type="speaker" xml:lang="unknown">
+        <note xml:id="i-GNF9p4dDbJ8NrZp44cB7vB" xml:lang="unknown" type="speaker">
           Hra Hedberg:
         </note>
         <u xml:id="i-WpKcp9C8jWxoJ16JjmbS7H" who="i-FNPPwEod1e3taFV6aqGkL">
@@ -20839,7 +20839,7 @@
         <note xml:id="i-4aZHvQMSGpn9L9fwnMW8o5" xml:lang="fi">
           Ensimäinen ponsi sivulla 21 herätti seuraavan keskustelun :
         </note>
-        <note xml:id="i-VWQKHWnTons9c7UHLkr76j" type="speaker" xml:lang="sv">
+        <note xml:id="i-VWQKHWnTons9c7UHLkr76j" xml:lang="sv" type="speaker">
           Hra S. W. Roos:
         </note>
         <u xml:id="i-XZYoiN2eLRSxtkJibb7kW5" who="unknown">
@@ -20901,7 +20901,7 @@
           måtte bordläggas till dess att statsutskottet inkommit med sitt
           utlofvade betänkande.
         </note>
-        <note xml:id="i-L3D79qUMECDJy51GtzNEFT" type="speaker" xml:lang="fi">
+        <note xml:id="i-L3D79qUMECDJy51GtzNEFT" xml:lang="fi" type="speaker">
           Vapaahra Palmén:
         </note>
         <u xml:id="i-MUhTdEGDCNYQEVorQNMFhV" who="i-SUpmw56zMz2APdv8K23tDg">
@@ -20970,7 +20970,7 @@
           olisi tarvis turvautua Suomen Pankin voittovaroihin, on aivan
           perää vailla.
         </note>
-        <note xml:id="i-NmvbSJ8rZySUhNUjqzMdfU" type="speaker" xml:lang="fi">
+        <note xml:id="i-NmvbSJ8rZySUhNUjqzMdfU" xml:lang="fi" type="speaker">
           Hra Hyvärinen:
         </note>
         <u xml:id="i-YEoRMbct8nMpf9jC5TAm88" who="i-GoAtGw3V5JQjMdAfdcsfof">
@@ -21029,7 +21029,7 @@
           hiukan väljempää tilaa ja enemmän ilmaa. Omasta puolestani ainakin
           pyydän tämän toivomuksen lausua.
         </note>
-        <note xml:id="i-4EwD34LPxiZ6AW62VS7WGK" type="speaker" xml:lang="fi">
+        <note xml:id="i-4EwD34LPxiZ6AW62VS7WGK" xml:lang="fi" type="speaker">
           Hra Johansson:
         </note>
         <u xml:id="i-GeK1W985gLKTSQv8nTHRqh" who="i-29jAvqcdVSDmnMHm7GL7zd">
@@ -21066,7 +21066,7 @@
           tehtyä ehdotusta nyt käsiteltävänä olevan ponnen panemisesta pöydälle,
           niinkuin herra Roos on ehdottanut.
         </note>
-        <note xml:id="i-EsJEznHiWRFnRVFSKvbMii" type="speaker" xml:lang="sv">
+        <note xml:id="i-EsJEznHiWRFnRVFSKvbMii" xml:lang="sv" type="speaker">
           Hra Söderhjelm:
         </note>
         <u xml:id="i-UyXLXe2R93kVX89SSi2Ju1" who="i-3RMpW3iFEvgpKbFP34kXg8">
@@ -21080,7 +21080,7 @@
             vuoksi herra Roosin ehdotukseen.
           </seg>
         </u>
-        <note xml:id="i-KLS35kBVmw1yD7HrEB69uY" type="speaker" xml:lang="fi">
+        <note xml:id="i-KLS35kBVmw1yD7HrEB69uY" xml:lang="fi" type="speaker">
           Herra Puhemies:
         </note>
         <u xml:id="i-Vx5tvdDhijBBJskKaCnLvx" who="unknown">
@@ -21139,7 +21139,7 @@
         <note xml:id="i-Lv7wkX7bN3EjMrhhv3ktZr" xml:lang="fi">
           Sivulla 29 olevan lausunnon johdosta pyysivät ja käyttivät puheenvuoroa:
         </note>
-        <note xml:id="i-BjKCncJsf8XPHj5PeLz5HP" type="speaker" xml:lang="sv">
+        <note xml:id="i-BjKCncJsf8XPHj5PeLz5HP" xml:lang="sv" type="speaker">
           Hra Söderhjelm:
         </note>
         <u xml:id="i-5NDCgfyYoho3WWT532z9aP" who="i-3RMpW3iFEvgpKbFP34kXg8">
@@ -21245,7 +21245,7 @@
         <note xml:id="i-TVuSGdPvSfN2ko5PrHYmJe" xml:lang="fi">
           ja että mietintö tässä tarkoituksessa palautetaan valiokuntaan.
         </note>
-        <note xml:id="i-GWHLZ4uNR2d6khQxGfi7oX" type="speaker" xml:lang="fi">
+        <note xml:id="i-GWHLZ4uNR2d6khQxGfi7oX" xml:lang="fi" type="speaker">
           Vapaahra Palmen:
         </note>
         <u xml:id="i-hPLZ81wEY1ZBAfNKAFrpZ" who="unknown">
@@ -21400,7 +21400,7 @@
           Mutta uskallanpa sanoa, ettei sitä asiantuntemusta ole monella,
           ehkä ei yhdelläkään valtiosäätyjen jäsenellä.
         </note>
-        <note xml:id="i-8HqUU9mTJ3gxvCxvQ3ZKet" type="speaker" xml:lang="sv">
+        <note xml:id="i-8HqUU9mTJ3gxvCxvQ3ZKet" xml:lang="sv" type="speaker">
           Hra Nordlund:
         </note>
         <u xml:id="i-9ZkpVTzUauKcyMv2z39qQA" who="i-7nQwnFEu5Yk3kSApPefrFA">
@@ -21414,7 +21414,7 @@
             att tagas till ortsförhällandena.
           </seg>
         </u>
-        <note xml:id="i-UGEBVFURPQT4WUc8HAvYFj" type="speaker" xml:lang="sv">
+        <note xml:id="i-UGEBVFURPQT4WUc8HAvYFj" xml:lang="sv" type="speaker">
           Hra Lönnrot:
         </note>
         <u xml:id="i-5b9YV6MnX6JNpmLWxz62Yw" who="i-VrYVhWgWmsDTenThaELYuL">
@@ -21449,7 +21449,7 @@
           ylimalkaisen ponnen, niin olen valmis hyväksymään tämän valiokunnan
           mietinnön ponnen sellaisenaan.
         </note>
-        <note xml:id="i-Q8sv5s9cN4Hi6qfRYcnTz" type="speaker" xml:lang="sv">
+        <note xml:id="i-Q8sv5s9cN4Hi6qfRYcnTz" xml:lang="sv" type="speaker">
           Hra Wennerström:
         </note>
         <u xml:id="i-2Yw7dHbqC7XjxRUkf1KEnS" who="i-2F6oVsrG3mDJDsy2mxCob7">
@@ -21521,7 +21521,7 @@
           förmåner, särskildt med beaktande af ortsförhällandena*. Någon
           ändring härvidlag anser jag icke böra ifrägakomma.
         </note>
-        <note xml:id="i-PTcMfwHqu41rezK1CofGka" type="speaker" xml:lang="unknown">
+        <note xml:id="i-PTcMfwHqu41rezK1CofGka" xml:lang="unknown" type="speaker">
           Hra Walle:
         </note>
         <u xml:id="i-5zq8MPtu7vouFFWPxz8TGR" who="i-Ay8y6qphUDYbXoFXQgQvgE">
@@ -21575,7 +21575,7 @@
           tulisi palkankorotuksesta osallisiksi. Hyväksyn muussa suhteessa
           valiokunnan mietinnön.
         </note>
-        <note xml:id="i-XQdEyiT5nwdSPNeL6WgK31" type="speaker" xml:lang="sv">
+        <note xml:id="i-XQdEyiT5nwdSPNeL6WgK31" xml:lang="sv" type="speaker">
           Hra Söderhjelm:
         </note>
         <u xml:id="i-GXoLz3QZ8z94ZbQZBiWyb8" who="i-3RMpW3iFEvgpKbFP34kXg8">
@@ -21600,7 +21600,7 @@
           juuri seikkaperäistä kät sittelyä, ja se on sitäpaitsi asianomaisten
           administratsionin vastustamista. Minä pysyn siis ehdotuksessani.
         </note>
-        <note xml:id="i-APsNYUNMhLE2RC3wugtBkf" type="speaker" xml:lang="fi">
+        <note xml:id="i-APsNYUNMhLE2RC3wugtBkf" xml:lang="fi" type="speaker">
           Hra Johansson:
         </note>
         <u xml:id="i-KL8unNmnypPRBxbb9UuVnP" who="i-29jAvqcdVSDmnMHm7GL7zd">
@@ -21649,7 +21649,7 @@
           tehköön sääty sen lykkäämättä asian valiokuntaan. Ei asia siellä
           suinkaan parane.
         </note>
-        <note xml:id="i-UDLz6RvPR8fZhE1WT2TGtX" type="speaker" xml:lang="fi">
+        <note xml:id="i-UDLz6RvPR8fZhE1WT2TGtX" xml:lang="fi" type="speaker">
           Vapaahra Palmén:
         </note>
         <u xml:id="i-Cni1Z9SBTg6KwKCgBQDuyn" who="i-SUpmw56zMz2APdv8K23tDg">
@@ -21694,7 +21694,7 @@
           Iisalmen välillä. Noissa tapauksissa olot ovat siksi erilaiset,
           ettei voi niitä pitää samanlaisina.
         </note>
-        <note xml:id="i-CysA8hLxiuQWtv189kkua3" type="speaker" xml:lang="fi">
+        <note xml:id="i-CysA8hLxiuQWtv189kkua3" xml:lang="fi" type="speaker">
           Hra Setälä:
         </note>
         <u xml:id="i-3TSqyB9LrwdqmiL2ZVxynj" who="i-5C3y3vPwK2g3nTViCkVpL4">
@@ -21716,7 +21716,7 @@
             erinäisten palkkaluokkien poistaminen.
           </seg>
         </u>
-        <note xml:id="i-R1Jfx4AxM6jVwkBowP4t96" type="speaker" xml:lang="fi">
+        <note xml:id="i-R1Jfx4AxM6jVwkBowP4t96" xml:lang="fi" type="speaker">
           Hra Auvinen:
         </note>
         <u xml:id="i-8uRgK3FnW54jn8zfHJFCMX" who="i-J6zP3X9ccdcPDSdoJRRzLX">
@@ -21804,7 +21804,7 @@
           mallasjuomain valmistamisesta ja tämän asetusehdotuksen 1 &amp;,
           syntyi asiasta seuraava keskustelu:
         </note>
-        <note xml:id="i-NNFPpHETej8PpciBTRvntY" type="speaker" xml:lang="fi">
+        <note xml:id="i-NNFPpHETej8PpciBTRvntY" xml:lang="fi" type="speaker">
           Hra Johansson:
         </note>
         <u xml:id="i-PD81tEvDUj2jZmnZVsM2GM" who="i-29jAvqcdVSDmnMHm7GL7zd">
@@ -21866,7 +21866,7 @@
           aivan päinvastoin kuin mitä sen pitäisi olla. Olisin suonut, ettei
           asiata tässä väärässä muodossa olisi esitetty.
         </note>
-        <note xml:id="i-URJCQM1reUmUhBnoAUDEgt" type="speaker" xml:lang="sv">
+        <note xml:id="i-URJCQM1reUmUhBnoAUDEgt" xml:lang="sv" type="speaker">
           Hra Berger:
         </note>
         <u xml:id="i-F8LEAFX8vwqx9UmhzRARAq" who="i-6RRNWfsAtFAXWdUseP8L1A">
@@ -21932,7 +21932,7 @@
         <note xml:id="i-4uZEAGDYE3CF5qB8kEKnzz" xml:lang="sv">
           Med detta uttalande har jag understödt reservationen n:o 2.
         </note>
-        <note xml:id="i-CETaq5ZBYd85M3EVFumw5a" type="speaker" xml:lang="fi">
+        <note xml:id="i-CETaq5ZBYd85M3EVFumw5a" xml:lang="fi" type="speaker">
           Hra Hyvärinen:
         </note>
         <u xml:id="i-Sr3zDM86zarMWLv9JnyKTw" who="i-GoAtGw3V5JQjMdAfdcsfof">
@@ -21951,7 +21951,7 @@
             köyhän kansan juomaa.
           </seg>
         </u>
-        <note xml:id="i-Rxx5EPSRDTLEBiCsyfYb1F" type="speaker" xml:lang="sv">
+        <note xml:id="i-Rxx5EPSRDTLEBiCsyfYb1F" xml:lang="sv" type="speaker">
           Hra Gummerus:
         </note>
         <u xml:id="i-F1X6u1FygJuHxvzF1tmuj5" who="i-669G58xkbnpQCsVJmoyWfs">
@@ -22025,7 +22025,7 @@
           pyydän saada yhtyä tähän toiseen vastalauseesen ja niihin puhujiin,
           jotka täällä ovat sitä kannattaneet.
         </note>
-        <note xml:id="i-ETNrPo8i23Sdnx6qQYW9Aw" type="speaker" xml:lang="sv">
+        <note xml:id="i-ETNrPo8i23Sdnx6qQYW9Aw" xml:lang="sv" type="speaker">
           Hra Serlachius:
         </note>
         <u xml:id="i-3xg6hbHafMFkT3EaZnzxDR" who="i-9oAGbXKxe5dgbbLMbJ63tk">
@@ -22150,7 +22150,7 @@
           suomiseksi yksinomaan miedompien mallasjuomien valmistusta varten
           perustetuissa tehtaissa valmistetulle sahdille eli kaljalle.
         </note>
-        <note xml:id="i-7U7tRvqmqkBq2T6vfirp5J" type="speaker" xml:lang="sv">
+        <note xml:id="i-7U7tRvqmqkBq2T6vfirp5J" xml:lang="sv" type="speaker">
           Hra V. T. Rosenqvist:
         </note>
         <u xml:id="i-Y8m1meYUsdsDqHsYYgDSyF" who="unknown">
@@ -22275,7 +22275,7 @@
           För min del står jag således fortfarande på den ståndpunkt, som
           vunnit uttryck i utskottsbetänkandet.
         </note>
-        <note xml:id="i-DjfVpSXMwfJSqqLmZG5mWt" type="speaker" xml:lang="unknown">
+        <note xml:id="i-DjfVpSXMwfJSqqLmZG5mWt" xml:lang="unknown" type="speaker">
           Hra P. Snellman:
         </note>
         <u xml:id="i-NVK5VbetBoHD75detqbTe4" who="i-3KmZ2JW55We9zqnwrRNCgP">
@@ -22304,7 +22304,7 @@
           vakuutettu, että väkevämmän mallasjuoman valmistajat kyllä voivat
           kantaa sen veronlisäyksen, jota valiokunta on ehdottanut.
         </note>
-        <note xml:id="i-UxkgDurNUaETsCNGvptiiU" type="speaker" xml:lang="fi">
+        <note xml:id="i-UxkgDurNUaETsCNGvptiiU" xml:lang="fi" type="speaker">
           Hra Hannula:
         </note>
         <u xml:id="i-PE9xuubZSxdnCz9rE8nMXL" who="i-D1FsfDBmNqCrFh66jtDHKq">
@@ -22350,7 +22350,7 @@
           tavalla tekee valiokunnalle helpommaksi laatia sellainen ehdotus,
           jota useat puhujat täällä ovat valiokunnalta pyytäneet.
         </note>
-        <note xml:id="i-NFcNJXHtJwoe2cjH9N6Yfy" type="speaker" xml:lang="fi">
+        <note xml:id="i-NFcNJXHtJwoe2cjH9N6Yfy" xml:lang="fi" type="speaker">
           Hra Hyvärinen:
         </note>
         <u xml:id="i-RMWagQcndW8DJ7iUQKdvnd" who="i-GoAtGw3V5JQjMdAfdcsfof">
@@ -22365,7 +22365,7 @@
             kohti ei ole niinkään ,tuntuva" korotus.
           </seg>
         </u>
-        <note xml:id="i-TYzfMoSRaF6tkqn2cW1DBY" type="speaker" xml:lang="fi">
+        <note xml:id="i-TYzfMoSRaF6tkqn2cW1DBY" xml:lang="fi" type="speaker">
           Hra Johansson:
         </note>
         <u xml:id="i-5jxLnyFyPSRjCwfiXvsCtA" who="i-29jAvqcdVSDmnMHm7GL7zd">
@@ -22407,7 +22407,7 @@
           Kuten sanoin, pyydän saada kokonaan kannattaa professori Serlachiuksen
           tekemää ehdotusta sekä veroon että myös kaljateollisuuteen nähden.
         </note>
-        <note xml:id="i-8Qa3QTHa81Tz1cTpnwgJjK" type="speaker" xml:lang="sv">
+        <note xml:id="i-8Qa3QTHa81Tz1cTpnwgJjK" xml:lang="sv" type="speaker">
           Hra Serlachius:
         </note>
         <u xml:id="i-Hd7dN6t2byZHWZK5jTPCjb" who="i-9oAGbXKxe5dgbbLMbJ63tk">
@@ -22447,7 +22447,7 @@
           sillä siinähän on aivan selvästi osoitettu, mihin suuntaan muutoksen
           pitäisi tapahtua.
         </note>
-        <note xml:id="i-SCD1JsvFyGBBjKoiHb5h8y" type="speaker" xml:lang="unknown">
+        <note xml:id="i-SCD1JsvFyGBBjKoiHb5h8y" xml:lang="unknown" type="speaker">
           Hra Walle:
         </note>
         <u xml:id="i-QxA4sZoYDEzdJfeebkcke9" who="i-Ay8y6qphUDYbXoFXQgQvgE">
@@ -22585,7 +22585,7 @@
           arvelen ettei sääty mene muuttamaan valiokunnan ja hallituksen
           tässä suhteessa tekemää ehdotusta.
         </note>
-        <note xml:id="i-QB8ZoVV7Zvs6DtSGmLXzUC" type="speaker" xml:lang="unknown">
+        <note xml:id="i-QB8ZoVV7Zvs6DtSGmLXzUC" xml:lang="unknown" type="speaker">
           Hra Runeberg:
         </note>
         <u xml:id="i-XcWL6V4Z7cJUHGq5sjHGJp" who="i-QQ7rzMcvpGv1RunkkD3Hgv">
@@ -22657,7 +22657,7 @@
           asiana, etten siihen kosketellut äskeisessä lausunnossani. Ilmeistähän
           on, että muuten väärinkäytöstä voisi syntyä.
         </note>
-        <note xml:id="i-K7d3cPGA8yd8VJVLsCbKuK" type="speaker" xml:lang="sv">
+        <note xml:id="i-K7d3cPGA8yd8VJVLsCbKuK" xml:lang="sv" type="speaker">
           Hra V. T. Rosenqvist:
         </note>
         <u xml:id="i-MQTUcsAEsRBa4PiWsSm9Mc" who="unknown">
@@ -22685,7 +22685,7 @@
           att beskatta den svagdricka, som ölbryggerier tillverka, medan
           man lämnar obeskattad den svagdricka, som tillverkas i svagdricksfabrik.
         </note>
-        <note xml:id="i-UD6PdvFBLezvDjeeM36PjS" type="speaker" xml:lang="fi">
+        <note xml:id="i-UD6PdvFBLezvDjeeM36PjS" xml:lang="fi" type="speaker">
           Hra Johansson:
         </note>
         <u xml:id="i-5GWhZXEaVJvYvyfaUPs3ZA" who="i-29jAvqcdVSDmnMHm7GL7zd">
@@ -22840,7 +22840,7 @@
         <note xml:id="i-RsSMA2btQjNAs1HDZz9YvN" xml:lang="fi">
           Mallasjuomasuostunnasta. 407
         </note>
-        <note xml:id="i-Cvt6W8drwGwXQnVprp8bD4" type="speaker" xml:lang="sv">
+        <note xml:id="i-Cvt6W8drwGwXQnVprp8bD4" xml:lang="sv" type="speaker">
           Hra Serlachius:
         </note>
         <u xml:id="i-QBfK1cyTP1vSkRTfN7gpSG" who="i-9oAGbXKxe5dgbbLMbJ63tk">
@@ -22920,7 +22920,7 @@
         <note xml:id="i-NiEwDDk5sJqnPKtHnqGarn" xml:lang="fi">
           Keskustelu:
         </note>
-        <note xml:id="i-Bqu8XqQ3gaa4MrFd3CymNK" type="speaker" xml:lang="fi">
+        <note xml:id="i-Bqu8XqQ3gaa4MrFd3CymNK" xml:lang="fi" type="speaker">
           Hra Heikel:
         </note>
         <u xml:id="i-3gfBG5SvdTsX9Vj919xtLX" who="i-NBh89WjkAAKD9CCqxkG37S">
@@ -23134,7 +23134,7 @@
           Jag ber alltså att få förorda godkännande af utskottets förslag
           med de små tillägg, som jag nyss antydde.
         </note>
-        <note xml:id="i-GsHJbCwn4tNr8GC8c7n5Yq" type="speaker" xml:lang="sv">
+        <note xml:id="i-GsHJbCwn4tNr8GC8c7n5Yq" xml:lang="sv" type="speaker">
           Hra Nordlund:
         </note>
         <u xml:id="i-X7k5Hhv1xS1AcYdTkkbrJZ" who="i-7nQwnFEu5Yk3kSApPefrFA">
@@ -23321,7 +23321,7 @@
           sätt ett årligt belopp af 25,000 mark kunde anslås till stipendier
           för fattiga folkhögskole-elever.
         </note>
-        <note xml:id="i-W6T96Gry27is1nTsUUYeSD" type="speaker" xml:lang="fi">
+        <note xml:id="i-W6T96Gry27is1nTsUUYeSD" xml:lang="fi" type="speaker">
           Vapaahra Palmén:
         </note>
         <u xml:id="i-YMQWKsZov7kJyonxm8UX2u" who="i-SUpmw56zMz2APdv8K23tDg">
@@ -23522,7 +23522,7 @@
           käsiteltäväksi, ei puutu tilaisuutta tehdä parannuksia, jos niitä
           tarvitaan.
         </note>
-        <note xml:id="i-J4pZJ64izPcYpNGgvAyfKZ" type="speaker" xml:lang="fi">
+        <note xml:id="i-J4pZJ64izPcYpNGgvAyfKZ" xml:lang="fi" type="speaker">
           Hra Setälä:
         </note>
         <u xml:id="i-LZUUgZDp8eXUEMboj6sm7u" who="i-5C3y3vPwK2g3nTViCkVpL4">
@@ -23663,7 +23663,7 @@
           niin käyttämätön osa tulee vuoden loputtua palaamaan takaisin
           valtion varoihin.
         </note>
-        <note xml:id="i-AKHE47fm3xEWaZANxbCpQp" type="speaker" xml:lang="sv">
+        <note xml:id="i-AKHE47fm3xEWaZANxbCpQp" xml:lang="sv" type="speaker">
           Hra Mennander:
         </note>
         <u xml:id="i-VnmmD9grEqXY7oJB4eQ5tR" who="i-4JLjd6bDZEbBMJYBuR7DMV">
@@ -23716,7 +23716,7 @@
           Pyydän saada ehdottaa, että mietintö mainitussa kohdassa palautettaisiin
           valiokuntaan tällä tavoin muodostettavaksi.
         </note>
-        <note xml:id="i-YJFx2oDTVFPpkxoHLAdYum" type="speaker" xml:lang="sv">
+        <note xml:id="i-YJFx2oDTVFPpkxoHLAdYum" xml:lang="sv" type="speaker">
           Hra Svanljung:
         </note>
         <u xml:id="i-X1VE7FHeFkMQ9aLS8NyrV3" who="i-S8BUZ6vnbJpzzmYXeu7wqs">
@@ -23829,7 +23829,7 @@
           koska ei tarvitse pelätä, että valtiovaliokunnan ehdottamaa rahamäärää
           käytettäisiin mihinkään huonoihin tarkoituksiin.
         </note>
-        <note xml:id="i-4CpUh5duytkQvPEXLf9FzD" type="speaker" xml:lang="fi">
+        <note xml:id="i-4CpUh5duytkQvPEXLf9FzD" xml:lang="fi" type="speaker">
           Hra Heikel:
         </note>
         <u xml:id="i-V3HXMhyF9wzrKhEqycP6QF" who="i-NBh89WjkAAKD9CCqxkG37S">
@@ -23932,7 +23932,7 @@
           då de medel, som komme att tillfalla ungdomsföreningarna, skulle
           utdelas genom dessas högsta centralledning.
         </note>
-        <note xml:id="i-Hruujuo1d2SU9r5d1zCsfm" type="speaker" xml:lang="unknown">
+        <note xml:id="i-Hruujuo1d2SU9r5d1zCsfm" xml:lang="unknown" type="speaker">
           Hra G. G. Rosenqvist:
         </note>
         <u xml:id="i-9khCrQ56iLZujrYeZjnaMM" who="unknown">
@@ -23990,7 +23990,7 @@
           så vill jag endast säga, att jag i hufvudsak ansluter mig till
           pastor Mennanders och professor Heikels uttalanden.
         </note>
-        <note xml:id="i-FMTBrXoZpRS95knK3Ynk4z" type="speaker" xml:lang="fi">
+        <note xml:id="i-FMTBrXoZpRS95knK3Ynk4z" xml:lang="fi" type="speaker">
           Vapaahra Palmén:
         </note>
         <u xml:id="i-H3RxgQKe4RDsknL3wxneoZ" who="i-SUpmw56zMz2APdv8K23tDg">
@@ -24163,7 +24163,7 @@
         <note xml:id="i-TvouMJuXZRZrew1rAXM3AM" xml:lang="fi">
           pitkiksi. tulev at.
         </note>
-        <note xml:id="i-JVJx8Kf6bxQHzitAKGv2Qs" type="speaker" xml:lang="unknown">
+        <note xml:id="i-JVJx8Kf6bxQHzitAKGv2Qs" xml:lang="unknown" type="speaker">
           Hra Runeberg:
         </note>
         <u xml:id="i-8PdDssEMJDgV8ryn598pWA" who="i-QQ7rzMcvpGv1RunkkD3Hgv">
@@ -24201,7 +24201,7 @@
           mietinnön, ettei tarvitsisi mennä keskustelua yhdistämään, mutta
           ehkä on oikeampi, että eri kohtia nyt ryhdytään käsittelemään.
         </note>
-        <note xml:id="i-8XdqqKGCXmitLxD61YGPz2" type="speaker" xml:lang="sv">
+        <note xml:id="i-8XdqqKGCXmitLxD61YGPz2" xml:lang="sv" type="speaker">
           Hra V. T. Rosengvist:
         </note>
         <u xml:id="i-CkTp39twyVWHWKyuR54Sr9" who="unknown">
@@ -24254,7 +24254,7 @@
           oli sanottavaa, siksi kunnes oli tultu käsittelemään valiokunnan
           toista pontta.
         </note>
-        <note xml:id="i-Wkm9bEUTVrbQKPsCUMGiwK" type="speaker" xml:lang="unknown">
+        <note xml:id="i-Wkm9bEUTVrbQKPsCUMGiwK" xml:lang="unknown" type="speaker">
           Hra P. Snellman:
         </note>
         <u xml:id="i-KC2Vz3zSXN4FrZcsK6wNPh" who="i-3KmZ2JW55We9zqnwrRNCgP">
@@ -24321,7 +24321,7 @@
           Mietinnön 10 sivulla olevasta toisesta ponnesta keskusteltiin
           seuraavaan tapaan:
         </note>
-        <note xml:id="i-JuncB5ogn8pM4BH4eo1bwU" type="speaker" xml:lang="sv">
+        <note xml:id="i-JuncB5ogn8pM4BH4eo1bwU" xml:lang="sv" type="speaker">
           Hra Söderhjelm:
         </note>
         <u xml:id="i-2wq5m9cdUtznMg5BcxmXr1" who="i-3RMpW3iFEvgpKbFP34kXg8">
@@ -24357,7 +24357,7 @@
           niin minä luovun ehdottamasta mitään nimenomaista lisäystä tähän
           ponteen.
         </note>
-        <note xml:id="i-49k6CCW9Pt3TMbKjd5tdGa" type="speaker" xml:lang="fi">
+        <note xml:id="i-49k6CCW9Pt3TMbKjd5tdGa" xml:lang="fi" type="speaker">
           Hra Hellman:
         </note>
         <u xml:id="i-B2TD2Ujq8a6jVML3i93437" who="i-D6Mi4GWWJsTvqGyurVJi26">
@@ -24401,7 +24401,7 @@
           sen ehdotuksen, että tämä toinen momentti kokonaan jätettäisiin
           pois.
         </note>
-        <note xml:id="i-9i7zxJ8hBcUu8qwAQ6m6MK" type="speaker" xml:lang="fi">
+        <note xml:id="i-9i7zxJ8hBcUu8qwAQ6m6MK" xml:lang="fi" type="speaker">
           Hra Johansson:
         </note>
         <u xml:id="i-PB6quwYJvx2VDDzDZxBkFc" who="i-29jAvqcdVSDmnMHm7GL7zd">
@@ -24415,7 +24415,7 @@
           lopussa, niinkuin täällä on ehdotettu. Minä olen edelleen valemis
           mietintöä semmoisenaan kannattamaan.
         </note>
-        <note xml:id="i-51hJJKwosm32iUinJH6CJv" type="speaker" xml:lang="sv">
+        <note xml:id="i-51hJJKwosm32iUinJH6CJv" xml:lang="sv" type="speaker">
           Hra Svanljung:
         </note>
         <u xml:id="i-16PB9hKf2Kq3hSEhDtUSDP" who="i-S8BUZ6vnbJpzzmYXeu7wqs">
@@ -24450,7 +24450,7 @@
           tahtoisin antaa 3,000 markkaa ja sen vuoksi tahtoisin, että mainitut
           sanat poistettaisiin.
         </note>
-        <note xml:id="i-G6UmvpmiK4eQZyQ283MnAS" type="speaker" xml:lang="fi">
+        <note xml:id="i-G6UmvpmiK4eQZyQ283MnAS" xml:lang="fi" type="speaker">
           Hra Hannula:
         </note>
         <u xml:id="i-YEcGbz8hRUaWXcWx9SvML7" who="i-D1FsfDBmNqCrFh66jtDHKq">
@@ -24504,7 +24504,7 @@
         <note xml:id="i-VdxZU4j3n3zaDg5Ad1qFHr" xml:lang="fi">
           Mietinnön sivulla 11 oleva ponsi aiheutti seuraavan keskustelun:
         </note>
-        <note xml:id="i-Cnbhyu7eEhAqxnhxLp8E5z" type="speaker" xml:lang="fi">
+        <note xml:id="i-Cnbhyu7eEhAqxnhxLp8E5z" xml:lang="fi" type="speaker">
           Hra Setälä:
         </note>
         <u xml:id="i-ELZZCwFrZn2LVvk7wPPsx" who="i-5C3y3vPwK2g3nTViCkVpL4">
@@ -24535,7 +24535,7 @@
             jonka tehtävänä olisi kansanopistojen avustuksen järjestäminen.
           </seg>
         </u>
-        <note xml:id="i-VeMGZSYswmMEWweR5DTy6c" type="speaker" xml:lang="fi">
+        <note xml:id="i-VeMGZSYswmMEWweR5DTy6c" xml:lang="fi" type="speaker">
           Hra Johansson:
         </note>
         <u xml:id="i-JBS8CudAp875aEW4WXarhV" who="i-29jAvqcdVSDmnMHm7GL7zd">
@@ -24552,7 +24552,7 @@
           käytännöllisempi ja sovivampi kuin se ehdotus, jonka professori
           tässä teki.
         </note>
-        <note xml:id="i-6HSLih9eEKJhSCLRG6ZMnX" type="speaker" xml:lang="fi">
+        <note xml:id="i-6HSLih9eEKJhSCLRG6ZMnX" xml:lang="fi" type="speaker">
           Hra Hannula:
         </note>
         <u xml:id="i-XDseB2kBFNhehAz6gp1vPx" who="i-D1FsfDBmNqCrFh66jtDHKq">
@@ -24583,7 +24583,7 @@
           markkaa apurahaksi, tuottaa sekin sellaisia vaikeuksia, että minusta
           olisi
         </note>
-        <note xml:id="i-8dCK7k6TfAYkmWsyN7wznA" type="speaker" xml:lang="fi">
+        <note xml:id="i-8dCK7k6TfAYkmWsyN7wznA" xml:lang="fi" type="speaker">
           Vapaahra Palmen:
         </note>
         <u xml:id="i-68YCCHx92YwQeCjEdQuX4k" who="unknown">
@@ -24622,7 +24622,7 @@
         <note xml:id="i-R6Pr32hGUfYTZ5tUMJN8Ap" xml:lang="fi">
           Lisäyksestä kansakoulumenoarvioon. 439
         </note>
-        <note xml:id="i-WjhkXLqZLwNHzPV1nGQgc5" type="speaker" xml:lang="sv">
+        <note xml:id="i-WjhkXLqZLwNHzPV1nGQgc5" xml:lang="sv" type="speaker">
           Hra Lybeck:
         </note>
         <u xml:id="i-B3TBpfCV3Bxcaunr5gRp3t" who="i-RYRLCW2s7dknqNzUos9PeB">
@@ -24633,7 +24633,7 @@
             alaiseksi. Kannatan siis asessori Hannulan ehdotusta.
           </seg>
         </u>
-        <note xml:id="i-6R5FAGRbDc4B35h7SxFrdT" type="speaker" xml:lang="sv">
+        <note xml:id="i-6R5FAGRbDc4B35h7SxFrdT" xml:lang="sv" type="speaker">
           Hra Söderhjelm:
         </note>
         <u xml:id="i-4UKpotGzVBszPzfCmzgnDF" who="i-3RMpW3iFEvgpKbFP34kXg8">
@@ -24645,7 +24645,7 @@
             Kannatan sentähden professori Setälän ehdotusta.
           </seg>
         </u>
-        <note xml:id="i-3hJQKmZVmMcP6JaAVKfRcn" type="speaker" xml:lang="fi">
+        <note xml:id="i-3hJQKmZVmMcP6JaAVKfRcn" xml:lang="fi" type="speaker">
           Hra Setälä:
         </note>
         <u xml:id="i-Jc9VhU35XQXSZXJNTT1tv7" who="i-5C3y3vPwK2g3nTViCkVpL4">
@@ -24684,7 +24684,7 @@
           Sivulla 18 olevan ensimäisen ponnen johdosta lausui, puheenvuoron
           saatuaan,
         </note>
-        <note xml:id="i-Ln3unt6TBzqejuDdNm33j2" type="speaker" xml:lang="sv">
+        <note xml:id="i-Ln3unt6TBzqejuDdNm33j2" xml:lang="sv" type="speaker">
           Hra S. W. Roos:
         </note>
         <u xml:id="i-9bs29jNXNn5ejeZGdxZ1Ns" who="unknown">
@@ -24813,7 +24813,7 @@
           Roos on maininnut. Pyydän sentähden saada kannattaa hänen ehdotustaan
           noiden sanojen lisäämisestä tähän ensimäiseen ponteen.
         </note>
-        <note xml:id="i-TihfuRcSpF8Vq7sx6mgE6r" type="speaker" xml:lang="fi">
+        <note xml:id="i-TihfuRcSpF8Vq7sx6mgE6r" xml:lang="fi" type="speaker">
           Vapaahra Palmén:
         </note>
         <u xml:id="i-NAbe9yvKNCocJDeQvbyjZ6" who="i-SUpmw56zMz2APdv8K23tDg">
@@ -24837,7 +24837,7 @@
             sitä kannatan.
           </seg>
         </u>
-        <note xml:id="i-9aiBWUEtzRyZfupGaxEp5i" type="speaker" xml:lang="fi">
+        <note xml:id="i-9aiBWUEtzRyZfupGaxEp5i" xml:lang="fi" type="speaker">
           Hra Hannula:
         </note>
         <u xml:id="i-HZDMbyPXqX2jBvwFe1v9tk" who="i-D1FsfDBmNqCrFh66jtDHKq">
@@ -24870,7 +24870,7 @@
         <note xml:id="i-JMSxqZL5jpBa21EjxHKY68" xml:lang="fi">
           Lisäyksestä kansakoulumenoarvioon. 443
         </note>
-        <note xml:id="i-4PVtPez8ACAg22KFRofFtC" type="speaker" xml:lang="sv">
+        <note xml:id="i-4PVtPez8ACAg22KFRofFtC" xml:lang="sv" type="speaker">
           Hra Söderhjelm:
         </note>
         <u xml:id="i-S4Dhqs3v6PpLp31EZS6cjw" who="i-3RMpW3iFEvgpKbFP34kXg8">
@@ -24894,7 +24894,7 @@
             siis näitä lisäehdotuksia, ehkä lähimmin herra Heikelin muodostamaa.
           </seg>
         </u>
-        <note xml:id="i-Ec8pdtEE13AiiLvtfRBYb7" type="speaker" xml:lang="sv">
+        <note xml:id="i-Ec8pdtEE13AiiLvtfRBYb7" xml:lang="sv" type="speaker">
           Hra Mennander:
         </note>
         <u xml:id="i-4ewWk6ip4hc47MaxiSDH73" who="i-4JLjd6bDZEbBMJYBuR7DMV">
@@ -24919,7 +24919,7 @@
           mielestäni paikallaan, että kirjastoasia tulee mainituksi niiden
           asiain joukossa, joita kannattaa tahdotaan. Sentähden näh-
         </note>
-        <note xml:id="i-L1oc6TaXf7FarXsscLXCbi" type="speaker" xml:lang="fi">
+        <note xml:id="i-L1oc6TaXf7FarXsscLXCbi" xml:lang="fi" type="speaker">
           Vapaahra Palmen:
         </note>
         <u xml:id="i-Ke8MjdcUz3CQWTnB3n6umb" who="unknown">
@@ -24977,7 +24977,7 @@
         <note xml:id="i-3uoZ57Y14yzTWKNgWFrx2M" xml:lang="fi">
           Ponnesta siv. 18—19 lausuivat mielensä seuraavat puhujat:
         </note>
-        <note xml:id="i-8pSyy8bL8uJHyPo9e6niDF" type="speaker" xml:lang="unknown">
+        <note xml:id="i-8pSyy8bL8uJHyPo9e6niDF" xml:lang="unknown" type="speaker">
           Hra Walle:
         </note>
         <u xml:id="i-JPB7uuEmrpkAxeFVrsYwJy" who="i-Ay8y6qphUDYbXoFXQgQvgE">
@@ -25015,7 +25015,7 @@
           sanojen sijaan , joiden katsotaan sitä ansaitsevan* pantaisiin
           edes nuo mainitsemani kaksi ehtoa.
         </note>
-        <note xml:id="i-BV7REddZQkf9U4mSvSsP32" type="speaker" xml:lang="fi">
+        <note xml:id="i-BV7REddZQkf9U4mSvSsP32" xml:lang="fi" type="speaker">
           Hra Auvinen:
         </note>
         <u xml:id="i-RhC2SqYLhiN2b1vkff8AHF" who="i-J6zP3X9ccdcPDSdoJRRzLX">
@@ -25039,7 +25039,7 @@
             mielestä kannatusta olisi annettava.
           </seg>
         </u>
-        <note xml:id="i-JDwWSZSPfeqTsCJGtvSjRk" type="speaker" xml:lang="fi">
+        <note xml:id="i-JDwWSZSPfeqTsCJGtvSjRk" xml:lang="fi" type="speaker">
           Hra Hannula:
         </note>
         <u xml:id="i-Ftosn1xtVwCmnviMHDBB5G" who="i-D1FsfDBmNqCrFh66jtDHKq">
@@ -25058,7 +25058,7 @@
         <note xml:id="i-75pgu1topLiR57X85PbcT9" xml:lang="fi">
           446 Pappissääty toukok. 9 p. 1906.
         </note>
-        <note xml:id="i-65TQ1vVP5rR13kD3ZyqpsD" type="speaker" xml:lang="fi">
+        <note xml:id="i-65TQ1vVP5rR13kD3ZyqpsD" xml:lang="fi" type="speaker">
           Vapaahra Palmén:
         </note>
         <u xml:id="i-PxnoVVLCK5XeyemHYa6ZGb" who="i-SUpmw56zMz2APdv8K23tDg">
@@ -25333,7 +25333,7 @@
         <note xml:id="i-7Fj9oi7eKTe9cdqg1oWYqn" xml:lang="fi">
           Tämän johdosta lausui
         </note>
-        <note xml:id="i-HpTa7izsx1YLTpxHqTkysy" type="speaker" xml:lang="fi">
+        <note xml:id="i-HpTa7izsx1YLTpxHqTkysy" xml:lang="fi" type="speaker">
           Herra Puhemies:
         </note>
         <u xml:id="i-E1Bn8EsH6ZyV4vijCt5Ltu" who="unknown">
@@ -25344,7 +25344,7 @@
             ehdotus valiokunnalta saapuu.
           </seg>
         </u>
-        <note xml:id="i-Tv3zoieuFuj74d2pGBc6Ln" type="speaker" xml:lang="sv">
+        <note xml:id="i-Tv3zoieuFuj74d2pGBc6Ln" xml:lang="sv" type="speaker">
           Hra Hermanson:
         </note>
         <u xml:id="i-UmxTZLQGBJg4a4crsBqY3v" who="i-SaCnJmAftzcnG2e8XYGcL9">
@@ -25380,7 +25380,7 @@
           ken, vet jag icke att prästeståndet nu skulle kunna göra någonting
           i frågan.
         </note>
-        <note xml:id="i-USqhwQRpPHmM224UKaKy5L" type="speaker" xml:lang="sv">
+        <note xml:id="i-USqhwQRpPHmM224UKaKy5L" xml:lang="sv" type="speaker">
           Hra Schwartzberg:
         </note>
         <u xml:id="i-WDrpA6mbojM3MeSRnuwYUC" who="i-PUGEJH9kXtM6B1imKCMoex">
@@ -25426,7 +25426,7 @@
           Minä luulen, että talousvaliokunnasta ei tule muuta kirjettä,
           mutta kentiesi pappissääty kuitenkin voisi muuttaa päätöksensä.
         </note>
-        <note xml:id="i-YKJ765frgNxJ86bUY6SAYS" type="speaker" xml:lang="fi">
+        <note xml:id="i-YKJ765frgNxJ86bUY6SAYS" xml:lang="fi" type="speaker">
           Hra Setälä:
         </note>
         <u xml:id="i-WCKjaGdRDACm1sdzFtXFpD" who="i-5C3y3vPwK2g3nTViCkVpL4">
@@ -25447,7 +25447,7 @@
           puhemiesneuvosto tekisi ehdotuksen tämän asian käsittelystä, että
           yhdenmukainen käsittelytapa saataisiin aikaan.
         </note>
-        <note xml:id="i-WjHXixvNJ1YzRqwtVYEcg4" type="speaker" xml:lang="unknown">
+        <note xml:id="i-WjHXixvNJ1YzRqwtVYEcg4" xml:lang="unknown" type="speaker">
           Hra Runeberg:
         </note>
         <u xml:id="i-Ty61FKHDDrsAGpYn48tDyD" who="i-QQ7rzMcvpGv1RunkkD3Hgv">
@@ -25460,7 +25460,7 @@
             upptagit frägan och att nägot förslag dä skall föreligga.
           </seg>
         </u>
-        <note xml:id="i-LgUEztWj5d81i9rJ4ZC9mv" type="speaker" xml:lang="fi">
+        <note xml:id="i-LgUEztWj5d81i9rJ4ZC9mv" xml:lang="fi" type="speaker">
           Hra Homen:
         </note>
         <u xml:id="i-Pei66VRz32oE1yM15kBCiZ" who="unknown">
@@ -25470,7 +25470,7 @@
             pääsisimme tästä.
           </seg>
         </u>
-        <note xml:id="i-VxURtgGShYEjJTDrMV6j3Q" type="speaker" xml:lang="fi">
+        <note xml:id="i-VxURtgGShYEjJTDrMV6j3Q" xml:lang="fi" type="speaker">
           Hra Heman:
         </note>
         <u xml:id="i-6ywkhzQKHXw81KcMAzLU9N" who="i-76wvRLqhqAr39bzB2aNLry">
@@ -25496,7 +25496,7 @@
         <note xml:id="i-ML9Qwpkouna9a6oPe8TF8n" xml:lang="fi">
           Keskustelu:
         </note>
-        <note xml:id="i-8pJg8nVvuZkM25eyWjqNqA" type="speaker" xml:lang="fi">
+        <note xml:id="i-8pJg8nVvuZkM25eyWjqNqA" xml:lang="fi" type="speaker">
           Vapaahra Palmön:
         </note>
         <u xml:id="i-5caXMCeXGR9NYxCqRwmvhU" who="unknown">
@@ -25654,7 +25654,7 @@
           ja edellyttämällä että tämä kokonaisuus tulee hyväksytyksi. Jollei,
           niin sääty voi ottaa asian koko laajuudessaan uudelleen päätettäväksi.
         </note>
-        <note xml:id="i-DfhPRz5W2yyoMgyRPMXLDg" type="speaker" xml:lang="unknown">
+        <note xml:id="i-DfhPRz5W2yyoMgyRPMXLDg" xml:lang="unknown" type="speaker">
           Hra Hedberg:
         </note>
         <u xml:id="i-FE2d6c9ohmNupAKGBY1ARN" who="i-FNPPwEod1e3taFV6aqGkL">
@@ -25754,7 +25754,7 @@
           Suu-Pohjan rataa, hyväksytään, myöskin ehdotan että tämä hyväksyminen
           tapahtuisi ehdottomasti.
         </note>
-        <note xml:id="i-2Zeo2i1kwPMkRXBUx3tkoi" type="speaker" xml:lang="sv">
+        <note xml:id="i-2Zeo2i1kwPMkRXBUx3tkoi" xml:lang="sv" type="speaker">
           Hra Nordlund:
         </note>
         <u xml:id="i-M5h3fhYdFeH9HdnEHkSv6V" who="i-7nQwnFEu5Yk3kSApPefrFA">
@@ -25767,7 +25767,7 @@
             ännu till i öfvermorgon.
           </seg>
         </u>
-        <note xml:id="i-WgoH32QbtW4u5Zjp2Q9wpM" type="speaker" xml:lang="fi">
+        <note xml:id="i-WgoH32QbtW4u5Zjp2Q9wpM" xml:lang="fi" type="speaker">
           Hra Hellman:
         </note>
         <u xml:id="i-Ju3JnoEgUo7NCH2bZwwib2" who="i-D6Mi4GWWJsTvqGyurVJi26">
@@ -25816,7 +25816,7 @@
           päätös tule ehdolliseksi, pyydän vast'edes saada lausua mielipiteeni
           ja tehdä ehdotukseni.
         </note>
-        <note xml:id="i-HBEtWmcxu5MN1dWL4e6kGX" type="speaker" xml:lang="unknown">
+        <note xml:id="i-HBEtWmcxu5MN1dWL4e6kGX" xml:lang="unknown" type="speaker">
           Hra Hedberg:
         </note>
         <u xml:id="i-3tSHeh9iSLoSftbv7XM5qw" who="i-FNPPwEod1e3taFV6aqGkL">
@@ -25863,7 +25863,7 @@
           jää pöydälle, mutta ennen mainituista syistä pyytäisin vieläkin
           saada ehdottaa, että herra Nordlund peruuttaisi ehdotuksensa.
         </note>
-        <note xml:id="i-K2dD2R8C5DxdBx3XmFLCVM" type="speaker" xml:lang="sv">
+        <note xml:id="i-K2dD2R8C5DxdBx3XmFLCVM" xml:lang="sv" type="speaker">
           Hra Gummerus:
         </note>
         <u xml:id="i-BqJfpmvmPMKuZStTrJ6A9N" who="i-669G58xkbnpQCsVJmoyWfs">
@@ -25911,7 +25911,7 @@
           päätöksen, mihinkä lopputulokseen silloin tullaan? Kyllä olisi
           selvintä tehdä ehdoton päätös.
         </note>
-        <note xml:id="i-5wdNZq6K8L5JjdK9mwNid4" type="speaker" xml:lang="sv">
+        <note xml:id="i-5wdNZq6K8L5JjdK9mwNid4" xml:lang="sv" type="speaker">
           Hra Lybeck:
         </note>
         <u xml:id="i-XrV4WpRif72638u7vPA5do" who="i-RYRLCW2s7dknqNzUos9PeB">
@@ -25953,7 +25953,7 @@
         <note xml:id="i-5epFHRTXTuNeQD8FBKyuJP" xml:lang="fi">
           nyt tehdään ehdottomasti. :
         </note>
-        <note xml:id="i-SyHRjJ4XPeQDKJsfyVrxcu" type="speaker" xml:lang="sv">
+        <note xml:id="i-SyHRjJ4XPeQDKJsfyVrxcu" xml:lang="sv" type="speaker">
           Hra Homén:
         </note>
         <u xml:id="i-9ocG67M3FNQefZLd5WeXwk" who="i-6s9yv9SowA7sBkJvmExQWV">
@@ -26002,7 +26002,7 @@
           että ehdotus Heinolan radasta oli rauennut eikä siis nyt enää
           pääse esille.
         </note>
-        <note xml:id="i-UyDTX7EjeE4iVesPCK5fA8" type="speaker" xml:lang="sv">
+        <note xml:id="i-UyDTX7EjeE4iVesPCK5fA8" xml:lang="sv" type="speaker">
           Hra Homön:
         </note>
         <u xml:id="i-TM7jivWhHZWTVsFRqb6Fab" who="unknown">
@@ -26013,7 +26013,7 @@
             että asia raukeisi.
           </seg>
         </u>
-        <note xml:id="i-4g9Vjk1SifcJFMFnpYPvKP" type="speaker" xml:lang="unknown">
+        <note xml:id="i-4g9Vjk1SifcJFMFnpYPvKP" xml:lang="unknown" type="speaker">
           Hra Runeberg:
         </note>
         <u xml:id="i-CRyWei3VWRi4REqPKezD59" who="i-QQ7rzMcvpGv1RunkkD3Hgv">
@@ -26052,7 +26052,7 @@
           således godkännande af järnvägsutskottets sammanjämkningsförslag,
           under förutsättning att detta förslag vinner ständerpluralitet.
         </note>
-        <note xml:id="i-C3AoRF8u2UnReHa7mw9WRa" type="speaker" xml:lang="fi">
+        <note xml:id="i-C3AoRF8u2UnReHa7mw9WRa" xml:lang="fi" type="speaker">
           Vapaahra Palmén:
         </note>
         <u xml:id="i-59EUxBn4svEkMcxkLFC2Ar" who="i-SUpmw56zMz2APdv8K23tDg">
@@ -26128,7 +26128,7 @@
           aikaan se, minkä aikaisemmin olemme lausuneet toi-- vottavaksi,
           että nimittäin Joensuun-Nurmeksen rata tulee rakennettavaksi.
         </note>
-        <note xml:id="i-JhM1zyfwiJfnZBrosH5N1m" type="speaker" xml:lang="unknown">
+        <note xml:id="i-JhM1zyfwiJfnZBrosH5N1m" xml:lang="unknown" type="speaker">
           Hra Hedberg:
         </note>
         <u xml:id="i-9k3ao2eWtp1LeGdFPcurgu" who="i-FNPPwEod1e3taFV6aqGkL">
@@ -26181,7 +26181,7 @@
           Samalla sivulla olevan Seinäjoen-Kristiinankaupungin rataa koskevan
           toisen ponnen johdosta lausui, puheenvuoron saatuaan,
         </note>
-        <note xml:id="i-oC7cX8JdyuQ2PPsbaA9wH" type="speaker" xml:lang="unknown">
+        <note xml:id="i-oC7cX8JdyuQ2PPsbaA9wH" xml:lang="unknown" type="speaker">
           Hra Walle:
         </note>
         <u xml:id="i-RFFqa6aavjUbv4gf8DcV7x" who="i-Ay8y6qphUDYbXoFXQgQvgE">
@@ -26232,7 +26232,7 @@
           tämä rata olisi ollut rakennettava. Tahdon senvuoksi ilmoittaa,
           että olen samalla kannalla kuin mietintöä käsiteltäessä olin.
         </note>
-        <note xml:id="i-XfVjGexCruQ25Qy1hmPJWC" type="speaker" xml:lang="sv">
+        <note xml:id="i-XfVjGexCruQ25Qy1hmPJWC" xml:lang="sv" type="speaker">
           Hra Hermanson:
         </note>
         <u xml:id="i-GL8YCKYuaYUw33xya9urUD" who="i-SaCnJmAftzcnG2e8XYGcL9">
@@ -26404,7 +26404,7 @@
         <note xml:id="i-8sfSrYRmCnr7xL6CeeLfE1" xml:lang="fi">
           Edellä olevaa ehdotusta käsiteltäessä lausuivat
         </note>
-        <note xml:id="i-Wg5LPrGTziSgGSz4Q78Lhi" type="speaker" xml:lang="sv">
+        <note xml:id="i-Wg5LPrGTziSgGSz4Q78Lhi" xml:lang="sv" type="speaker">
           Professori G. G. Rosengvist:
         </note>
         <u xml:id="i-YQ6n9TJFtvoQXtCYAGDuNX" who="unknown">
@@ -26765,7 +26765,7 @@
           sida af saken vill jag icke ingå, då jag anser, att förslaget
           till hela sitt innehåll är sådant, att det måste förkastas.
         </note>
-        <note xml:id="i-8zwtvPxdtVfyrNc3QXUzeT" type="speaker" xml:lang="fi">
+        <note xml:id="i-8zwtvPxdtVfyrNc3QXUzeT" xml:lang="fi" type="speaker">
           Hra Hannula:
         </note>
         <u xml:id="i-RFVkBZDq6jyRveaa18YD1Z" who="i-D1FsfDBmNqCrFh66jtDHKq">
@@ -26828,7 +26828,7 @@
           maassa. UI- konaiset edut eivät sitä pystyssä pidä, vaan kansan
           rakkauden tukemana se seisoo, ilman sitä ei.
         </note>
-        <note xml:id="i-3agK4FBHgk5JszqWSxVtdM" type="speaker" xml:lang="fi">
+        <note xml:id="i-3agK4FBHgk5JszqWSxVtdM" xml:lang="fi" type="speaker">
           Vapaahra Palmén:
         </note>
         <u xml:id="i-XkgiQUt9vQ6heLAxscDHuC" who="i-SUpmw56zMz2APdv8K23tDg">
@@ -26870,7 +26870,7 @@
           joka on epäviisasta ja vaarallista kirkolle. Mitä joku yksityinen
           on lausunut, siitä hän itse saa vastata eikä koko sääty. (Hyv.!)
         </note>
-        <note xml:id="i-CueXVTtpi3Q2a55tFc4m5f" type="speaker" xml:lang="fi">
+        <note xml:id="i-CueXVTtpi3Q2a55tFc4m5f" xml:lang="fi" type="speaker">
           Piispa Koskimies:
         </note>
         <u xml:id="i-C3Tku9k5L81bt7Foq9GadJ" who="unknown">
@@ -26919,7 +26919,7 @@
           semmoisia motiiveja, joita ei tämän sanotun yksityisen valiokunnan
           mieleen olisi tullutkaan.
         </note>
-        <note xml:id="i-XirQwmAciJcNzb5fakNyd7" type="speaker" xml:lang="sv">
+        <note xml:id="i-XirQwmAciJcNzb5fakNyd7" xml:lang="sv" type="speaker">
           Hra S. W. Roos:
         </note>
         <u xml:id="i-3y8ox38FDZfEJBTZSWf6CS" who="unknown">
@@ -26938,7 +26938,7 @@
           icke bör anses vara orätt. Jag för min del understöder säledes
           professor Rosengvist däruti, att förslaget mätte förkastas.
         </note>
-        <note xml:id="i-KQTua7fy5Ut62Z5KGFsYdZ" type="speaker" xml:lang="unknown">
+        <note xml:id="i-KQTua7fy5Ut62Z5KGFsYdZ" xml:lang="unknown" type="speaker">
           Hra Hedberg:
         </note>
         <u xml:id="i-EsWSSfGZ4nvdCzaufiM8sQ" who="i-FNPPwEod1e3taFV6aqGkL">
@@ -27026,7 +27026,7 @@
           joten tahdon ehdottaa että valiokunta siitäkin jonkun lausunnon
           antaisi.
         </note>
-        <note xml:id="i-8R19MfRdNA7UWYh1wEXhvs" type="speaker" xml:lang="fi">
+        <note xml:id="i-8R19MfRdNA7UWYh1wEXhvs" xml:lang="fi" type="speaker">
           Hra Hellman:
         </note>
         <u xml:id="i-Sx1CnGVEPrhKvSM82UVmXz" who="i-D6Mi4GWWJsTvqGyurVJi26">
@@ -27111,7 +27111,7 @@
           emme voineet aavistaakaan. Toivon, ettei pappissäädyn enemmistö
           arvostele tätä ehdotusta samalla tavalla kuin professori Rosenqvist.
         </note>
-        <note xml:id="i-SsG8t6tFg8Q3zUVUDeYp9w" type="speaker" xml:lang="sv">
+        <note xml:id="i-SsG8t6tFg8Q3zUVUDeYp9w" xml:lang="sv" type="speaker">
           Hra Ingman:
         </note>
         <u xml:id="i-KzSTiH27zX1MrCF1KdQASE" who="i-Ef7n2WRKmjh7HiBPqvKhX5">
@@ -27158,7 +27158,7 @@
           ettei se minuuttiakaan tulisi eduskuntamuutosasian ratkaisua
           viivyttämään.
         </note>
-        <note xml:id="i-CgXYnbiBn3A2oe5QA6eDDu" type="speaker" xml:lang="unknown">
+        <note xml:id="i-CgXYnbiBn3A2oe5QA6eDDu" xml:lang="unknown" type="speaker">
           Hra Runeberg:
         </note>
         <u xml:id="i-4C1V8Q1BMt126aDdQ146R1" who="i-QQ7rzMcvpGv1RunkkD3Hgv">
@@ -27282,7 +27282,7 @@
           asettaminen asiassa, joka kieltämättä on yleistä laatua ja joka
           jo on siirretty koko eduskunnan yhteisen valiokunnan käsiteltäväksi.
         </note>
-        <note xml:id="i-WQMRJQyTaPc7b69NUMMQfc" type="speaker" xml:lang="unknown">
+        <note xml:id="i-WQMRJQyTaPc7b69NUMMQfc" xml:lang="unknown" type="speaker">
           Hra G. G. Rosengvist:
         </note>
         <u xml:id="i-5C17zLVznDvzcVb1cfXZUk" who="unknown">
@@ -27384,7 +27384,7 @@
           Det vore åtskilligt annat ännu att säga, men jag skall icke längre
           uppehälla ständet.
         </note>
-        <note xml:id="i-BgGnHJduWbWPRvBmAScSAR" type="speaker" xml:lang="fi">
+        <note xml:id="i-BgGnHJduWbWPRvBmAScSAR" xml:lang="fi" type="speaker">
           Hra Setälä:
         </note>
         <u xml:id="i-VS8mZW9wiWrHADQfT6Rtp8" who="i-5C3y3vPwK2g3nTViCkVpL4">
@@ -27419,7 +27419,7 @@
           ei tarvita semmoista valiokuntaa, joka selvittelisi itse privileegioiden
           syntyä, historiaa ja laatua.
         </note>
-        <note xml:id="i-3X7wuvagKz8rTrJnY6p1Kt" type="speaker" xml:lang="sv">
+        <note xml:id="i-3X7wuvagKz8rTrJnY6p1Kt" xml:lang="sv" type="speaker">
           Hra Lönnrot:
         </note>
         <u xml:id="i-G5xs5kWE4VJrrAgmpEckFJ" who="i-VrYVhWgWmsDTenThaELYuL">
@@ -27469,7 +27469,7 @@
         <note xml:id="i-GZpv1vZzeMFRGyxTMMbKTW" xml:lang="fi">
           Kannatan siis asian lähettämistä valiokuntaan.
         </note>
-        <note xml:id="i-4LL7kRVGd8iWZvZYUU2LHL" type="speaker" xml:lang="unknown">
+        <note xml:id="i-4LL7kRVGd8iWZvZYUU2LHL" xml:lang="unknown" type="speaker">
           Hra Hedberg:
         </note>
         <u xml:id="i-5cdoF9SYXh9WS5VwWKcaFp" who="i-FNPPwEod1e3taFV6aqGkL">
@@ -27490,7 +27490,7 @@
             Tahdon rajoittaa lausuntoni tähän.
           </seg>
         </u>
-        <note xml:id="i-ErsxSEasuWGVjW3icv6LM4" type="speaker" xml:lang="fi">
+        <note xml:id="i-ErsxSEasuWGVjW3icv6LM4" xml:lang="fi" type="speaker">
           Hra Johansson:
         </note>
         <u xml:id="i-MrocwJFMv8dZCZRWQiqi3t" who="i-29jAvqcdVSDmnMHm7GL7zd">
@@ -27561,7 +27561,7 @@
           paeta. Kyllä epäluuloja aina herätetyiksi saadaan miten paljon
           tahansa.
         </note>
-        <note xml:id="i-FYz8YX7qLEiXktozJYuzKo" type="speaker" xml:lang="fi">
+        <note xml:id="i-FYz8YX7qLEiXktozJYuzKo" xml:lang="fi" type="speaker">
           Hra Heikel:
         </note>
         <u xml:id="i-PPpcmuRtj8PyX8idrxKbop" who="i-NBh89WjkAAKD9CCqxkG37S">
@@ -27636,7 +27636,7 @@
           praktisk uppgift, utan en som är af helt och hållet teoretisk
           beskaffenhet.
         </note>
-        <note xml:id="i-MDvCEtqxqWJQxjmRR81FfL" type="speaker" xml:lang="unknown">
+        <note xml:id="i-MDvCEtqxqWJQxjmRR81FfL" xml:lang="unknown" type="speaker">
           Hra G. G. Rosenqvist:
         </note>
         <u xml:id="i-RS6QypriUmSQb3XRn9NFAz" who="unknown">
@@ -27690,7 +27690,7 @@
           på dess innehåll; jag förstår icke heller hvarför man icke publicerat
           detsamma.
         </note>
-        <note xml:id="i-Lg35rWCPxA5Y1gFczSNAyG" type="speaker" xml:lang="fi">
+        <note xml:id="i-Lg35rWCPxA5Y1gFczSNAyG" xml:lang="fi" type="speaker">
           Piispa Koskimies:
         </note>
         <u xml:id="i-Q5MNp2X4EoKBkhrCvoeEyZ" who="unknown">
@@ -27731,7 +27731,7 @@
         <note xml:id="i-381M4ehBF4MHzNfhMZkE9j" xml:lang="fi">
           Yksityisen valiokunnan asettamisesta. 493
         </note>
-        <note xml:id="i-J38PFMphNeEJ8gum1ac1e5" type="speaker" xml:lang="sv">
+        <note xml:id="i-J38PFMphNeEJ8gum1ac1e5" xml:lang="sv" type="speaker">
           Hra Hjelt:
         </note>
         <u xml:id="i-9qnWt13Qd7rbSocQQ2FQEC" who="i-C9dmrUvwspHpLHXM6o1jJo">
@@ -27772,7 +27772,7 @@
           pohtimisen esineeksi, niin silloin keskustelu ilmeisesti joutuu
           harhaan.
         </note>
-        <note xml:id="i-ARRTDbimbdeUWqFBNGmLaY" type="speaker" xml:lang="sv">
+        <note xml:id="i-ARRTDbimbdeUWqFBNGmLaY" xml:lang="sv" type="speaker">
           Hra Hermanson:
         </note>
         <u xml:id="i-NFuBhSyFSmttZWY5eM2BvH" who="i-SaCnJmAftzcnG2e8XYGcL9">
@@ -28002,7 +28002,7 @@
           Mietinnön 4 sivulla olevan ensimäisen ponnen johdosta lausui,
           puheenvuoron saatuaan,
         </note>
-        <note xml:id="i-RCwizhzqAQVpduSKuypkTw" type="speaker" xml:lang="sv">
+        <note xml:id="i-RCwizhzqAQVpduSKuypkTw" xml:lang="sv" type="speaker">
           Hra Nordlund:
         </note>
         <u xml:id="i-WY6oWTo1BSM7SXCScPy5Sq" who="i-7nQwnFEu5Yk3kSApPefrFA">
@@ -28027,7 +28027,7 @@
             samt hoppas, att ståndet i sin helhet också godkänner detsamma.
           </seg>
         </u>
-        <note xml:id="i-Tm2PLU38t61vNkDta2LyZZ" type="speaker" xml:lang="fi">
+        <note xml:id="i-Tm2PLU38t61vNkDta2LyZZ" xml:lang="fi" type="speaker">
           Vapaahra Palmén:
         </note>
         <u xml:id="i-UeWdAL4Cnu2cAu2qGd54bS" who="i-SUpmw56zMz2APdv8K23tDg">
@@ -28109,7 +28109,7 @@
         <note xml:id="i-Egmdt8dg7w81p1XN56Vppp" xml:lang="fi">
           Kolmannen ponnen johdosta puheenvuoron saatuaan lausui
         </note>
-        <note xml:id="i-Ww8RuFQCfS1scwiMtrzkEb" type="speaker" xml:lang="sv">
+        <note xml:id="i-Ww8RuFQCfS1scwiMtrzkEb" xml:lang="sv" type="speaker">
           Hra Berger:
         </note>
         <u xml:id="i-bbUpBVAEqweEHafnbSxeD" who="i-6RRNWfsAtFAXWdUseP8L1A">
@@ -28423,7 +28423,7 @@
         <note xml:id="i-6TrM6KCsHYeuzVNugaPYSB" xml:lang="sv">
           Hra Hyvärinen kannatti herra Serlachiuksen tekemää ehdotusta.
         </note>
-        <note xml:id="i-EtaBTifMwjMQizHWcbHuZ3" type="speaker" xml:lang="sv">
+        <note xml:id="i-EtaBTifMwjMQizHWcbHuZ3" xml:lang="sv" type="speaker">
           Hra V. T. Rosengvist:
         </note>
         <u xml:id="i-NWe9CBYNBGQrRKqKJnmoLp" who="unknown">
@@ -28496,7 +28496,7 @@
           är den omständighet, att ständerna lämnat utskottet en sädan uppgift,
           hvilken uppgift dock utskottet efter bästa förmäga sökt lösa.
         </note>
-        <note xml:id="i-Gp8TbJJiNiSu1B3XUPeEkr" type="speaker" xml:lang="sv">
+        <note xml:id="i-Gp8TbJJiNiSu1B3XUPeEkr" xml:lang="sv" type="speaker">
           Hra Serlachius:
         </note>
         <u xml:id="i-NZk52i6LR77CRMwJwFjaWV" who="i-9oAGbXKxe5dgbbLMbJ63tk">
@@ -28537,7 +28537,7 @@
           Minun täytyy vielä kerran kehoittaa kunnianarvoisaa säätyä palauttamaan
           mietinnön valiokuntaan, sillä muuten saadaan verotonta olutta.
         </note>
-        <note xml:id="i-SMFMX8WeJ3Csy81ZNSQzLQ" type="speaker" xml:lang="fi">
+        <note xml:id="i-SMFMX8WeJ3Csy81ZNSQzLQ" xml:lang="fi" type="speaker">
           Hra Johansson:
         </note>
         <u xml:id="i-Ng3NsRwvDyRPnGKHw1JSzQ" who="i-29jAvqcdVSDmnMHm7GL7zd">
@@ -28639,7 +28639,7 @@
           rautatievaliokunnan toisen yhteensovitusehdotuksen, joka tietääkseni
           on aivan oikeilla perusteilla tehty.
         </note>
-        <note xml:id="i-PHHgHjwyCNBhDb1AmxcZMe" type="speaker" xml:lang="fi">
+        <note xml:id="i-PHHgHjwyCNBhDb1AmxcZMe" xml:lang="fi" type="speaker">
           Hra K. A. Schroderus:
         </note>
         <u xml:id="i-PY2VVLDPtQKW8QXJfz111i" who="unknown">
@@ -28688,7 +28688,7 @@
         <note xml:id="i-K4Y3v8TgdjCNdxy5DuhWnE" xml:lang="fi">
           Uusista rautatierakennuksista. 511
         </note>
-        <note xml:id="i-RhSmMi6LQoW8B45GoZBC21" type="speaker" xml:lang="sv">
+        <note xml:id="i-RhSmMi6LQoW8B45GoZBC21" xml:lang="sv" type="speaker">
           Hra Nordlund:
         </note>
         <u xml:id="i-Y1WPsHf8gu32BnGHn8ZBEH" who="i-7nQwnFEu5Yk3kSApPefrFA">
@@ -28964,7 +28964,7 @@
           min del borgareständets inbjudning och hoppas att prästeständet
           ocksä skall göra detsamma.
         </note>
-        <note xml:id="i-LVpFyqWi1sPEctyjFLiYeu" type="speaker" xml:lang="sv">
+        <note xml:id="i-LVpFyqWi1sPEctyjFLiYeu" xml:lang="sv" type="speaker">
           Hra Gummerus:
         </note>
         <u xml:id="i-Hae3jzJVV5z4ccdwVmGcmR" who="i-669G58xkbnpQCsVJmoyWfs">
@@ -29014,7 +29014,7 @@
           nähden. Minä sentähden ehdotan, että pappissääty pysyy entisessä
           päätöksessään.
         </note>
-        <note xml:id="i-GFg1gtaMKUR5pRMgwjdsYD" type="speaker" xml:lang="unknown">
+        <note xml:id="i-GFg1gtaMKUR5pRMgwjdsYD" xml:lang="unknown" type="speaker">
           Hra Hedberg:
         </note>
         <u xml:id="i-SHfGu6397QAQ8FJd4vYnxa" who="i-FNPPwEod1e3taFV6aqGkL">
@@ -29165,7 +29165,7 @@
           pappissäädyn ja ritariston ja aatelin ynnä osaksi porvarissäädyn
           päätökseen.
         </note>
-        <note xml:id="i-VKrm5qpRZK33q5BAzgfvp4" type="speaker" xml:lang="fi">
+        <note xml:id="i-VKrm5qpRZK33q5BAzgfvp4" xml:lang="fi" type="speaker">
           Vapaahra Palmén:
         </note>
         <u xml:id="i-XDFZHEf6XvCbWvsmEcGh77" who="i-SUpmw56zMz2APdv8K23tDg">
@@ -29268,7 +29268,7 @@
           sääty muutettuaan kolmannen kerran päätöstä vielä saisi sen muuttaa
           neljännen kerran, mikä ei tosiaan olisi säädyn arvon mukaista.
         </note>
-        <note xml:id="i-YFy1FBRnv4diQPa27rhjnN" type="speaker" xml:lang="unknown">
+        <note xml:id="i-YFy1FBRnv4diQPa27rhjnN" xml:lang="unknown" type="speaker">
           Hra P. Snellman:
         </note>
         <u xml:id="i-MaNT92Y3Hg8BvxkqRGxTf2" who="i-3KmZ2JW55We9zqnwrRNCgP">
@@ -29284,7 +29284,7 @@
         <note xml:id="i-8nExHdoCJVcLrSha1xJvr9" xml:lang="fi">
           522 Pappissääty toukok. 25 p. 1906.
         </note>
-        <note xml:id="i-Js25He6YkotzJtjVQ92aiN" type="speaker" xml:lang="fi">
+        <note xml:id="i-Js25He6YkotzJtjVQ92aiN" xml:lang="fi" type="speaker">
           Hra Tallgren:
         </note>
         <u xml:id="i-H9xmxvRJ9chb2TPfamZ2cU" who="i-5mrB9FPRsk5QE1MSMJGM5v">
@@ -29297,7 +29297,7 @@
             mutta tehtäisiin tämä päätös ehdolliseksi.
           </seg>
         </u>
-        <note xml:id="i-8oWnnzT6mP2QQwhvL6St1b" type="speaker" xml:lang="unknown">
+        <note xml:id="i-8oWnnzT6mP2QQwhvL6St1b" xml:lang="unknown" type="speaker">
           Hra Hedberg:
         </note>
         <u xml:id="i-RDfq97d5AHs21sv9qcqs2y" who="i-FNPPwEod1e3taFV6aqGkL">
@@ -29318,7 +29318,7 @@
             tietysti aina asiaa sekoittaa.
           </seg>
         </u>
-        <note xml:id="i-LCtQMstDrsRU2RgVKQzfBZ" type="speaker" xml:lang="unknown">
+        <note xml:id="i-LCtQMstDrsRU2RgVKQzfBZ" xml:lang="unknown" type="speaker">
           Hra Walle:
         </note>
         <u xml:id="i-XmqnT4tat1mt7zLfiJggMM" who="i-Ay8y6qphUDYbXoFXQgQvgE">
@@ -29331,7 +29331,7 @@
             pysyisi viimeksi tehdyssä päätöksessään.
           </seg>
         </u>
-        <note xml:id="i-3MbHuhs2GM2Mr1YgQMkduD" type="speaker" xml:lang="fi">
+        <note xml:id="i-3MbHuhs2GM2Mr1YgQMkduD" xml:lang="fi" type="speaker">
           Vapaahra Palmén:
         </note>
         <u xml:id="i-15GkjjZafs7Rc8iYjCzpaE" who="i-SUpmw56zMz2APdv8K23tDg">
@@ -30182,7 +30182,7 @@
           teemme haittaa itse aatteelle ja — pelkään minä — teemme haittaa
           kansallemme.
         </note>
-        <note xml:id="i-38VgeqGYKdGwRtsArQj65w" type="speaker" xml:lang="fi">
+        <note xml:id="i-38VgeqGYKdGwRtsArQj65w" xml:lang="fi" type="speaker">
           Piispa Koskimies:
         </note>
         <u xml:id="i-XzVz9usghyebxynZq8C5ZC" who="unknown">
@@ -30774,7 +30774,7 @@
           tälle uudelle eduskunnalle vaan myöskin koko kansallemme, koko
           isänmaallemme onnettomuudeksi.
         </note>
-        <note xml:id="i-7qpVJ2XYBzicRRyeDjF9Bn" type="speaker" xml:lang="sv">
+        <note xml:id="i-7qpVJ2XYBzicRRyeDjF9Bn" xml:lang="sv" type="speaker">
           Hra Ingman:
         </note>
         <u xml:id="i-XbdqKf6d1Syx3r3QHXFpLa" who="i-Ef7n2WRKmjh7HiBPqvKhX5">
@@ -31246,7 +31246,7 @@
           Kun säädyllä tämän jälkeen oli ollut viidenkolmatta minuutin
           lomahetki, lausuivat yleiskeskustelussa edelleen mielensä:
         </note>
-        <note xml:id="i-3ePo8fRydJ7wxzUiZL2dz6" type="speaker" xml:lang="sv">
+        <note xml:id="i-3ePo8fRydJ7wxzUiZL2dz6" xml:lang="sv" type="speaker">
           Piispa Räbergh:
         </note>
         <u xml:id="i-M9ADMudX1ENynihMrGvZWs" who="unknown">

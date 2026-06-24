@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="prot_1867_praster_III">
   <teiHeader>
     <fileDesc>
@@ -46,7 +46,7 @@
         <note xml:id="i-XVmHcTrQzM9GHrhxFSYDRv" xml:lang="unknown">
           ÄR 1867.
         </note>
-        <note xml:id="i-Hm6UdoZvuhipzmTFLie54h" type="speaker" xml:lang="sv">
+        <note xml:id="i-Hm6UdoZvuhipzmTFLie54h" xml:lang="sv" type="speaker">
           TREDJE HÄFTET.
         </note>
         <note xml:id="i-XUsaSfHpUaWsqSAPsuW554" xml:lang="sv">
@@ -1624,7 +1624,7 @@
           tillochmed hade den fördel att statens inkomster derigenom skulle
           ökas.
         </note>
-        <note xml:id="i-7bWF1E9Ch4gYRJvMhUP61X" type="speaker" xml:lang="sv">
+        <note xml:id="i-7bWF1E9Ch4gYRJvMhUP61X" xml:lang="sv" type="speaker">
           Professor Granfelt yttrade:
         </note>
         <u xml:id="i-CcjyifiKrx7UpHwR7nmYFq" who="i-Lk8xzvhSG9RJUN6BeTB6mi">
@@ -2274,7 +2274,7 @@
         <note xml:id="i-FKpxgyULDgpD8RnqpubYUk" xml:lang="sv">
           Presteständet. 1867. 13 Maj. 941
         </note>
-        <note xml:id="i-4TaPsd236YWkGQZRmfafXX" type="speaker" xml:lang="sv">
+        <note xml:id="i-4TaPsd236YWkGQZRmfafXX" xml:lang="sv" type="speaker">
           Prosten Borenius yttrade:
         </note>
         <u xml:id="i-K3pTZqM8SUMWnzL5vGvB4D" who="i-KM5zW4VUqMnFTF1EiyLAR9">
@@ -2546,7 +2546,7 @@
           den med suckan, att äfven de hittills fixerade afgifterna måtte
           helt och hället varda afskaffade.
         </note>
-        <note xml:id="i-KQ3GFdcXyrRyVVw263kELJ" type="speaker" xml:lang="sv">
+        <note xml:id="i-KQ3GFdcXyrRyVVw263kELJ" xml:lang="sv" type="speaker">
           Prosten Borenius yttrade:
         </note>
         <u xml:id="i-XhSNmAakQmqkqd3fNJHHTD" who="i-KM5zW4VUqMnFTF1EiyLAR9">
@@ -2774,7 +2774,7 @@
           ansluter jag mig till den af lärarekorpsens senior gjorda reservation;
           det kan vara lika godt och bättre än annat.
         </note>
-        <note xml:id="i-963AXgF1jvDhs9Hooepb5v" type="speaker" xml:lang="sv">
+        <note xml:id="i-963AXgF1jvDhs9Hooepb5v" xml:lang="sv" type="speaker">
           Prosten Hackzell yttrade:
         </note>
         <u xml:id="i-VN4vSxJXTCnyFoAd6zbM6X" who="i-DWiyp39c5DMfpZq6cMdmVh">
@@ -3186,7 +3186,7 @@
           den är fri och tillgänglig för alla. Jag förenar mig med biskopen
           Schauman om tillstyrkandet af utskottets senare alternativ.
         </note>
-        <note xml:id="i-K4hgFehQkmRHeTqdKCMKLE" type="speaker" xml:lang="sv">
+        <note xml:id="i-K4hgFehQkmRHeTqdKCMKLE" xml:lang="sv" type="speaker">
           Kontraktsprosten Sirön yttrade:
         </note>
         <u xml:id="i-XBbhdKxofz6w5fDifeKrPt" who="unknown">
@@ -3618,7 +3618,7 @@
           af Hans Kejserliga Majestäts nädiga proposition angäende ordnandet
           af skjutshällningen och gästgifverierna samt vägoch brobyggnaden.
         </note>
-        <note xml:id="i-NwSeZBS5p6F8dDnxAEdbqB" type="speaker" xml:lang="sv">
+        <note xml:id="i-NwSeZBS5p6F8dDnxAEdbqB" xml:lang="sv" type="speaker">
           Prosten Grönberg yttrade:
         </note>
         <u xml:id="i-152c5q9PEnNZDGVLgQbsus" who="i-MejDXzf7f7w3bWanLQKrgB">
@@ -3667,7 +3667,7 @@
           städerne finge åtnjuta samma förmån, hvadan således $ 10 i prestaståndets
           privilegier äfven borde vid kraft och verkan bibehållas.
         </note>
-        <note xml:id="i-DTHtHqVNekDbysDisjhBZx" type="speaker" xml:lang="sv">
+        <note xml:id="i-DTHtHqVNekDbysDisjhBZx" xml:lang="sv" type="speaker">
           Kontraktsprosten doktor Andelin yttrade:
         </note>
         <u xml:id="i-SKXhfZCRw9mCcu4sgrsHsm" who="unknown">
@@ -3869,7 +3869,7 @@
           till ganska ringa bätnad för de nu skjutsningsskyldige att t.
           ex. prestbolens ringa bråkdel till sistnämnde kategori öfverfördes.
         </note>
-        <note xml:id="i-MmMZeTLZUZbmhLWEz4KiFq" type="speaker" xml:lang="sv">
+        <note xml:id="i-MmMZeTLZUZbmhLWEz4KiFq" xml:lang="sv" type="speaker">
           Kontraktsprosten doktor Andelin:
         </note>
         <u xml:id="i-5ewkJY6wd5aVwDjMKrxMD4" who="unknown">
@@ -4124,7 +4124,7 @@
           af den skjutsningsskyldige, så hade slika stadganden af utskottets
           pluralitet ansetts alldeles olämpliga.
         </note>
-        <note xml:id="i-SmyRVC8skEjFZFULUAAA1X" type="speaker" xml:lang="sv">
+        <note xml:id="i-SmyRVC8skEjFZFULUAAA1X" xml:lang="sv" type="speaker">
           Professorn doktor Geitlin:
         </note>
         <u xml:id="i-G3ZPUP5fR5pMMFPLV3bt7g" who="unknown">
@@ -7180,7 +7180,7 @@
           proposition i ämnet i det syfte, som om lagförslag här skulle
           afses. N
         </note>
-        <note xml:id="i-4inKoT2kLW5dsSwvM5rwKD" type="speaker" xml:lang="sv">
+        <note xml:id="i-4inKoT2kLW5dsSwvM5rwKD" xml:lang="sv" type="speaker">
           Prosten Hjelt yttrade:
         </note>
         <u xml:id="i-GvssaRLc2CmARvcL8VCX2R" who="i-FfVRGMNn5KRqwAWb2KstnH">
@@ -7280,7 +7280,7 @@
         <note xml:id="i-GFF4p3pmwGUS6cQeQXBCXy" xml:lang="sv">
           Diskussionen fortsattes och yttrade sig:
         </note>
-        <note xml:id="i-MVr2sBQHJWXixubF2YkWNU" type="speaker" xml:lang="sv">
+        <note xml:id="i-MVr2sBQHJWXixubF2YkWNU" xml:lang="sv" type="speaker">
           Vicepastor Johnsson:
         </note>
         <u xml:id="i-HpVfhpdP9AFSWDjd5PuqhF" who="i-QVrcwFYjcxwn93KdWmPBk3">
@@ -7491,7 +7491,7 @@
           Vicepastor Putkonen ansäg vicepastor Johnssons omförmäilda förslag
           böra förfalla enär det norra landet derigenom tvärtom skulle förlora.
         </note>
-        <note xml:id="i-Bc5CKfnFYxTM6sjauUYwTu" type="speaker" xml:lang="sv">
+        <note xml:id="i-Bc5CKfnFYxTM6sjauUYwTu" xml:lang="sv" type="speaker">
           Doktor Bergh yttrade:
         </note>
         <u xml:id="i-o1wULC2i4FeKhrj4f99F2" who="i-Vta7BDiM8BB6Zkf1iBczRE">
@@ -11176,7 +11176,7 @@
           navigation, sjö- och vexelrätt samt näringslagfarenhet. Talaren
           förordade pä det högsta inbjudningens antagande.
         </note>
-        <note xml:id="i-ADXJkGkSwj4KuJbwdUThQ2" type="speaker" xml:lang="sv">
+        <note xml:id="i-ADXJkGkSwj4KuJbwdUThQ2" xml:lang="sv" type="speaker">
           Prosten Hackzell yttrade:
         </note>
         <u xml:id="i-FA2hWCMoQEcd5J1oFAZjQb" who="i-DWiyp39c5DMfpZq6cMdmVh">
@@ -11325,7 +11325,7 @@
           högre teknologiskt institut. Huru skulle landet reda sig ifall
           endast högre elementarskolor funnos, men icke något universitet?
         </note>
-        <note xml:id="i-99ayJzt88CoQmQYy7LPVAU" type="speaker" xml:lang="sv">
+        <note xml:id="i-99ayJzt88CoQmQYy7LPVAU" xml:lang="sv" type="speaker">
           Prosten Hackzell yttrade:
         </note>
         <u xml:id="i-SJE4eeUfmbtzS6LW4EYqR5" who="i-DWiyp39c5DMfpZq6cMdmVh">
@@ -12474,7 +12474,7 @@
         <note xml:id="i-6va7iph6uaXWcB2mNTmX5k" xml:lang="sv">
           s 23.
         </note>
-        <note xml:id="i-6dcweZsu9kQr3fMwZuTmGs" type="speaker" xml:lang="sv">
+        <note xml:id="i-6dcweZsu9kQr3fMwZuTmGs" xml:lang="sv" type="speaker">
           Prosten Hjelt yttrade:
         </note>
         <u xml:id="i-KRAtfirqxh4KK3u38mV7Fi" who="i-FfVRGMNn5KRqwAWb2KstnH">
@@ -12540,7 +12540,7 @@
           fängelseinrättningens räkning och blott en del af förtjensten
           lades af för fångarne, som hade motbok.
         </note>
-        <note xml:id="i-GkDaJhj1Y9RZN4rFxV3yvm" type="speaker" xml:lang="sv">
+        <note xml:id="i-GkDaJhj1Y9RZN4rFxV3yvm" xml:lang="sv" type="speaker">
           Prosten Hjelt yttrade:
         </note>
         <u xml:id="i-BSEdUELfjwwkHFCXywFyeX" who="i-FfVRGMNn5KRqwAWb2KstnH">
@@ -16237,7 +16237,7 @@
           ringa, hvarföre talaren ansåg ständet ej böra sila mygg och svälja
           kamelar, utan helt enkelt antaga expeditionsutskottets jemkningsförslag.
         </note>
-        <note xml:id="i-2RYw1cFbwZooJtEoYujJTo" type="speaker" xml:lang="sv">
+        <note xml:id="i-2RYw1cFbwZooJtEoYujJTo" xml:lang="sv" type="speaker">
           Doktor Hellön yttrade:
         </note>
         <u xml:id="i-FNbhBoWibXA2nXvxAeDDwj" who="unknown">
@@ -20234,7 +20234,7 @@
           för de till ständet under senaste landtdag ingångna medel. IH.
           1205—1206, 1211—1215, 1216—1219.
         </note>
-        <note xml:id="i-7HTPyMtVAb4QfMTtzza67L" type="speaker" xml:lang="sv">
+        <note xml:id="i-7HTPyMtVAb4QfMTtzza67L" xml:lang="sv" type="speaker">
           Expeditionsutskottet:
         </note>
         <note xml:id="i-xqBaiFDFM875bMocbKPgX" xml:lang="sv">
@@ -22300,7 +22300,7 @@
         <note xml:id="i-BLkUQh48ew5BBewrvrg9vu" xml:lang="sv">
           1288 Register.
         </note>
-        <note xml:id="i-WtXqeBquyJe8GuqkKHnNn1" type="speaker" xml:lang="sv">
+        <note xml:id="i-WtXqeBquyJe8GuqkKHnNn1" xml:lang="sv" type="speaker">
           Stats- och bevillningsutskottet:
         </note>
         <note xml:id="i-83DEZsGA8Mpu8cHRzAZPeQ" xml:lang="sv">

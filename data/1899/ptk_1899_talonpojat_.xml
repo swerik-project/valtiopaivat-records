@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="ptk_1899_talonpojat_">
   <teiHeader>
     <fileDesc>
@@ -774,7 +774,7 @@
         <note xml:id="i-TTtsGpJX6vYferHak7z8Xu" xml:lang="fi">
           18 Talonpoikaissääty 1899.
         </note>
-        <note xml:id="i-F9ExoZKtewMvtxdi5yUSFn" type="speaker" xml:lang="fi">
+        <note xml:id="i-F9ExoZKtewMvtxdi5yUSFn" xml:lang="fi" type="speaker">
           Edusmies Fellman:
         </note>
         <u xml:id="i-AhBSGpx5TuqW3SqCnSaQXW" who="i-761jFp8QFs1K22nsTyPrT4">
@@ -792,7 +792,7 @@
             lipuilla; minä ainakin sitä vaadin.
           </seg>
         </u>
-        <note xml:id="i-7WWSr63x88zBqhX7v1ckJw" type="speaker" xml:lang="fi">
+        <note xml:id="i-7WWSr63x88zBqhX7v1ckJw" xml:lang="fi" type="speaker">
           Edusmies Kiipula:
         </note>
         <u xml:id="i-XNtCVy9kTTdFhw2GEY81B" who="i-yz5WqRw8dv6YYSDpDNaKH">
@@ -924,7 +924,7 @@
           mutta säädyn ulkopuolella oleville olisi erotus tuomiokunnan mukaan
           sopivampi.
         </note>
-        <note xml:id="i-FFRX2uqBVnTxVdm1PMVYVF" type="speaker" xml:lang="fi">
+        <note xml:id="i-FFRX2uqBVnTxVdm1PMVYVF" xml:lang="fi" type="speaker">
           Edusmies Lindberg:
         </note>
         <u xml:id="i-Dccpy4pys35Bnp9YswbzBu" who="unknown">
@@ -937,7 +937,7 @@
             i fråga om far och son samt tvänne bröder.
           </seg>
         </u>
-        <note xml:id="i-6k91J64wihZhXcsV2JgaeR" type="speaker" xml:lang="fi">
+        <note xml:id="i-6k91J64wihZhXcsV2JgaeR" xml:lang="fi" type="speaker">
           Edusmies Avellan:
         </note>
         <u xml:id="i-2gfeXVVGTZiZW15j4qTjfe" who="i-Pwjr6vGBf5sGMw2BtNjBMH">
@@ -1078,7 +1078,7 @@
           käsiteltäväksi on annettu, niin näin tavoin tulevat ne enemmän
           tutuiksi säädyn jäsenille.
         </note>
-        <note xml:id="i-3CoFhLY2bjEpuRZqcc1G3C" type="speaker" xml:lang="fi">
+        <note xml:id="i-3CoFhLY2bjEpuRZqcc1G3C" xml:lang="fi" type="speaker">
           Edusmies Bremer:
         </note>
         <u xml:id="i-ChcCdMHsotoRwwaysBfmTN" who="i-HjfmDsS4k6Zju4rc3Q8bpb">
@@ -3180,7 +3180,7 @@
           kumoamiseen, ja näiden mietintöjen hyväksyminen tuottaa myös sen
           edun, että nämä selitykset tulevat korkeammissakin piireissä tunnetuiksi.
         </note>
-        <note xml:id="i-9ifERvWhVF9LHjEdPhqrZP" type="speaker" xml:lang="fi">
+        <note xml:id="i-9ifERvWhVF9LHjEdPhqrZP" xml:lang="fi" type="speaker">
           Edusmies Laitinen:
         </note>
         <u xml:id="i-CTgTTHVikw3aKuLHAh7y2G" who="i-TGqE1UqnA73NvW2YYgmMf3">
@@ -3302,7 +3302,7 @@
           armollista esitystä asiasta ensi valtiopäiville annettavaksi perustuslaillisessa
           järjestyksessä.
         </note>
-        <note xml:id="i-Kiugst7eWd8v4WSUWVtuB9" type="speaker" xml:lang="fi">
+        <note xml:id="i-Kiugst7eWd8v4WSUWVtuB9" xml:lang="fi" type="speaker">
           Edusmies Slotte:
         </note>
         <u xml:id="i-H6bkUZpndrZT9sJXrdE8d6" who="i-Ev9rwChsySU6VMfbevkpjp">
@@ -3323,7 +3323,7 @@
           Edusmies Eriksson yhtyi edusmies Laitisen lausuntoon ja kannatti
           edusmies Slotten pyyntöä mietinnön pöydälle panemisesta.
         </note>
-        <note xml:id="i-7wENRCDfU6YfuzVNozqw44" type="speaker" xml:lang="fi">
+        <note xml:id="i-7wENRCDfU6YfuzVNozqw44" xml:lang="fi" type="speaker">
           Edusmies Huoponen:
         </note>
         <u xml:id="i-WqbdZZckNQGA6zPHQ5F7CC" who="i-HAkXw2e7ETu7AUjeewEWfr">
@@ -3426,7 +3426,7 @@
           laatiman asetusehdotuksen periaatteen ja ehdotan että sitä ryhdyttäisiin
           pykälittäin tarkastamaan.
         </note>
-        <note xml:id="i-BoxKy2itRq8Qtn6iHb2R57" type="speaker" xml:lang="fi">
+        <note xml:id="i-BoxKy2itRq8Qtn6iHb2R57" xml:lang="fi" type="speaker">
           Edusmies Suutarla:
         </note>
         <u xml:id="i-TwUKF9pemnvveUp3e9kAzP" who="i-7F4xdWsmn5h2gsuep9xE2v">
@@ -3594,7 +3594,7 @@
           Valiokunnan mietinnön hyväksyy, vakuutukseni mukaan, Talonpoikaissääty
           niinkuin yksi mies, samoin kuin muutkin Säädyt.
         </note>
-        <note xml:id="i-E9s9ioE72oxbUtCzAFvnju" type="speaker" xml:lang="fi">
+        <note xml:id="i-E9s9ioE72oxbUtCzAFvnju" xml:lang="fi" type="speaker">
           Edusmies Hoikka:
         </note>
         <u xml:id="i-95o9VeLWm7mSZjeUT84zqb" who="unknown">
@@ -3757,7 +3757,7 @@
           kalliista oikeuksistaan, jotka sille nykyisen, Aleksanteri I:sen
           vahvistaman, perustuslain mukaan tulevat.
         </note>
-        <note xml:id="i-HbxXokXAq3TLVUQsVHBymB" type="speaker" xml:lang="fi">
+        <note xml:id="i-HbxXokXAq3TLVUQsVHBymB" xml:lang="fi" type="speaker">
           Edusmies Aulin:
         </note>
         <u xml:id="i-HgsGJN18udqNEJXrRxxniU" who="unknown">
@@ -4005,7 +4005,7 @@
           mitä on toimittanut. Sentähden minä panen jyrkimmän vastalauseen
           tuollaista viittausta vastaan. (Hyvä, hyvä)".
         </note>
-        <note xml:id="i-PFNPcfKzrA1BkCdrV8sXBg" type="speaker" xml:lang="fi">
+        <note xml:id="i-PFNPcfKzrA1BkCdrV8sXBg" xml:lang="fi" type="speaker">
           Edusmies Lagerström:
         </note>
         <u xml:id="i-4Catg1iwYCpJDeme3sDiBc" who="i-RSUNuRBeN9QEuyvaqF6vTD">
@@ -4115,7 +4115,7 @@
           i laga form uppgjord ny nädig proposition i förenämda ärende till
           nästa landtdag.
         </note>
-        <note xml:id="i-6BwxxENCi2PcMRXxgd6bhD" type="speaker" xml:lang="fi">
+        <note xml:id="i-6BwxxENCi2PcMRXxgd6bhD" xml:lang="fi" type="speaker">
           Edusmies Koskelin:
         </note>
         <u xml:id="i-3X4L9MdkyReBJ2B6JFv9BA" who="i-VprBVce4soGLYgngLSjo1p">
@@ -4145,7 +4145,7 @@
             kun tullaan asiasta pykälittäin keskustelemaan.
           </seg>
         </u>
-        <note xml:id="i-Cc1iysUcPTzptea8oDpZmF" type="speaker" xml:lang="fi">
+        <note xml:id="i-Cc1iysUcPTzptea8oDpZmF" xml:lang="fi" type="speaker">
           Edusmies Lindberg:
         </note>
         <u xml:id="i-EBdLSkrBrAy9X1iXVcT6kf" who="unknown">
@@ -4169,7 +4169,7 @@
         <note xml:id="i-9y93xKM7vb3JzfGKUry7Dm" xml:lang="fi">
           Edusmies Kasurinen kannatti asian pöydälle panoa.
         </note>
-        <note xml:id="i-9JGaE6YrGXZGjXxFRvFZpV" type="speaker" xml:lang="fi">
+        <note xml:id="i-9JGaE6YrGXZGjXxFRvFZpV" xml:lang="fi" type="speaker">
           Edusmies Hoikka:
         </note>
         <u xml:id="i-eiE78w9ueVuEb8YkJun8Y" who="unknown">
@@ -4187,7 +4187,7 @@
             minun tarkoitukseni eikä se mitä edusmies Aulin katsoi siksi.
           </seg>
         </u>
-        <note xml:id="i-XFFz9jKpyoDgPjqc3svuT4" type="speaker" xml:lang="fi">
+        <note xml:id="i-XFFz9jKpyoDgPjqc3svuT4" xml:lang="fi" type="speaker">
           Edusmies Aulin:
         </note>
         <u xml:id="i-8p3AXTXC8iuVH98Q7CpcgK" who="unknown">
@@ -4330,7 +4330,7 @@
         <note xml:id="i-HTTDDpmycR3jc6MLWHsDjh" xml:lang="fi">
           Tiistaina 23 p:nä toukokuuta. 81
         </note>
-        <note xml:id="i-NCnYiDzBLXbrC8izZA1gAy" type="speaker" xml:lang="fi">
+        <note xml:id="i-NCnYiDzBLXbrC8izZA1gAy" xml:lang="fi" type="speaker">
           Edusmies Eklund:
         </note>
         <u xml:id="i-3iUfFUuGnGtioh9CghQJzb" who="i-UuNpejz63DNoacNWFAFjXE">
@@ -4428,7 +4428,7 @@
           kunde hämta ånyo krafter för sitt nationella lif. Jag föreslår
           således, att de nåd. prop. icke upptagas till saklig pröfning.
         </note>
-        <note xml:id="i-Neg5JtqwpTyAHAXr3whd6F" type="speaker" xml:lang="fi">
+        <note xml:id="i-Neg5JtqwpTyAHAXr3whd6F" xml:lang="fi" type="speaker">
           Edusmies Valta:
         </note>
         <u xml:id="i-DGVHPX2Exw1SvPQxLdkQiJ" who="unknown">
@@ -4482,7 +4482,7 @@
           Sentähden lyhyesti vaan yhdistyn niihin, jotka kannattavat mietinnön
           ottamista käsiteltäväksi ja hyväksyn mietinnön ponsineen.
         </note>
-        <note xml:id="i-Q3YJuGRmpVv4Z1VjBPp1ac" type="speaker" xml:lang="fi">
+        <note xml:id="i-Q3YJuGRmpVv4Z1VjBPp1ac" xml:lang="fi" type="speaker">
           Edusmies Kasurinen:
         </note>
         <u xml:id="i-Je9emDSVQu41N8qLYfv7QA" who="i-BiLJE3xxrrRCyZeZCQjHcJ">
@@ -4535,7 +4535,7 @@
           nämä kysymykset otettaisiin säädyssä käsiteltäviksi Kuitenkin
           pidätän itselleni erikoiskohdissa oikeuden mielipiteeni lausua.
         </note>
-        <note xml:id="i-2DSKJAmgvXweX5W4m7tabB" type="speaker" xml:lang="fi">
+        <note xml:id="i-2DSKJAmgvXweX5W4m7tabB" xml:lang="fi" type="speaker">
           Edusmies Slotte:
         </note>
         <u xml:id="i-PdsS8itRHV5yUYQbiPjTBK" who="i-Ev9rwChsySU6VMfbevkpjp">
@@ -4572,7 +4572,7 @@
           häller att rekommendera, hvarför sista meningen gerna hade kunnat
           vara borta.
         </note>
-        <note xml:id="i-YHBPcU7SZifNPETbjUYcvB" type="speaker" xml:lang="fi">
+        <note xml:id="i-YHBPcU7SZifNPETbjUYcvB" xml:lang="fi" type="speaker">
           Edusmies Halonen:
         </note>
         <u xml:id="i-WT5nxoXzM3LBe9cCsoFCQ7" who="i-7tBzcdop95Z1XrJKrUj55e">
@@ -4718,7 +4718,7 @@
           mutta minusta näyttää taatummalta käsitellä asiaa valiokuntien
           tekemien ehdotusten mukaisesti. W
         </note>
-        <note xml:id="i-7WPAuVJTQ1jRCZ2F7uAhyq" type="speaker" xml:lang="fi">
+        <note xml:id="i-7WPAuVJTQ1jRCZ2F7uAhyq" xml:lang="fi" type="speaker">
           Edusmies Rosenberg:
         </note>
         <u xml:id="i-7g3MME7nXVEWGR3fYzzTfn" who="i-EeTFbyDUFF9QtjjBFNtDQF">
@@ -4753,7 +4753,7 @@
           endräkt respektera hvarandras mening, och om möjligt fatta ett
           värdigt beslut för värt land. Mätte Gud hjelpa oss till det rätta!
         </note>
-        <note xml:id="i-iU26H19Pd2PD82REU94kJ" type="speaker" xml:lang="fi">
+        <note xml:id="i-iU26H19Pd2PD82REU94kJ" xml:lang="fi" type="speaker">
           Edusmies Starcke:
         </note>
         <u xml:id="i-H9xHR1nPyWbQ9pyXExBn5y" who="i-SbofGedkQmSvXcY3kuYV13">
@@ -4826,7 +4826,7 @@
           meningsfränder fått en ganska sträng skrapa af kommunalrådet Meurman,
           hvilken skrapa dock icke torde hafva varit så illa ment.
         </note>
-        <note xml:id="i-VfW9RtH5D8qBcMkdpvXXa7" type="speaker" xml:lang="fi">
+        <note xml:id="i-VfW9RtH5D8qBcMkdpvXXa7" xml:lang="fi" type="speaker">
           Edusmies Flygare:
         </note>
         <u xml:id="i-JK7pf4VPneE9j9qY67dNom" who="i-Vh1dqy2xKpjHzkQPmypXH2">
@@ -4862,7 +4862,7 @@
           ber jag få förena mig i antagandet af den af hr Eklund föreslagna
           klämmen.
         </note>
-        <note xml:id="i-NGWbdGwesFAhMPXK3bEA6F" type="speaker" xml:lang="fi">
+        <note xml:id="i-NGWbdGwesFAhMPXK3bEA6F" xml:lang="fi" type="speaker">
           Edusmies Stenroth:
         </note>
         <u xml:id="i-Q8fTg2d17WRENrjs9f51sK" who="i-uXjb9J171HfAGASs8vqS9">
@@ -4907,7 +4907,7 @@
           Detta har dessutom redan flere gånger framhållits af dem som äro
           af samma åsigt som jag.
         </note>
-        <note xml:id="i-ULvVBqNq4SRqinJmhyg1Wk" type="speaker" xml:lang="fi">
+        <note xml:id="i-ULvVBqNq4SRqinJmhyg1Wk" xml:lang="fi" type="speaker">
           Edusmies Kyckling:
         </note>
         <u xml:id="i-FevUqhCUy7HNg5yLSDYUD6" who="unknown">
@@ -4980,7 +4980,7 @@
           niitä asevelvollisuuslakimuutoksia, joiden käsitteleminen nyt
           alkaa.
         </note>
-        <note xml:id="i-SonNSEncLmDmENU6T9J6Pt" type="speaker" xml:lang="fi">
+        <note xml:id="i-SonNSEncLmDmENU6T9J6Pt" xml:lang="fi" type="speaker">
           Edusmies Eriksson:
         </note>
         <u xml:id="i-Sv9rf43jTM51HNLjH93Bh1" who="i-BErd1xbD4tu5tZsqSXAGg3">
@@ -5047,7 +5047,7 @@
           tarpeen — tekemään tehtävänsä vasta tulevilla valtiopäivillä,
           sitte kun selvitys todellisista tarpeista on hankittu.
         </note>
-        <note xml:id="i-MRvEyy216zZDgejp1L5cCG" type="speaker" xml:lang="fi">
+        <note xml:id="i-MRvEyy216zZDgejp1L5cCG" xml:lang="fi" type="speaker">
           Edusmies Danielson:
         </note>
         <u xml:id="i-UMXsEgbgyEZDDuAFV4YdBF" who="i-9pashV7KkwGfYg8WYhns6X">
@@ -5225,7 +5225,7 @@
           jolloin valtakunta on suuressa vaarassa, sen pääkaupunkia uhataan
           tai niin pois päin, suomalaisia joukkoja saisi viedä maan ulkopuolelle.
         </note>
-        <note xml:id="i-95sK9qUY5195zpvb5fAkwx" type="speaker" xml:lang="fi">
+        <note xml:id="i-95sK9qUY5195zpvb5fAkwx" xml:lang="fi" type="speaker">
           Edusmies Lindberg:
         </note>
         <u xml:id="i-DAwvcsSriZiDQML7Fw7DAm" who="unknown">
@@ -5348,7 +5348,7 @@
           att man ingen risk löper då man ställer sig i minoriteten. Det
           är mot denna uppfattning jag inlägger en allvarlig protest.
         </note>
-        <note xml:id="i-Y7Ywwf5NfBj75LHC79Jynp" type="speaker" xml:lang="fi">
+        <note xml:id="i-Y7Ywwf5NfBj75LHC79Jynp" xml:lang="fi" type="speaker">
           Edusmies Björni:
         </note>
         <u xml:id="i-4yytutMbdhP5AeH9Cu8k2V" who="i-WjNrP4V2Q7sQnyWHLYvkVn">
@@ -5378,7 +5378,7 @@
           Sentähden en pidä tarpeellisena enempää lausua, vaan täydellisesti
           kannatan mitä edusmies Danielson on lausunut.
         </note>
-        <note xml:id="i-8qqUiz6ZvJDeoUpCz25A6r" type="speaker" xml:lang="fi">
+        <note xml:id="i-8qqUiz6ZvJDeoUpCz25A6r" xml:lang="fi" type="speaker">
           Edusmies Hollmen:
         </note>
         <u xml:id="i-A6Sb6epqob5RXuLdhPsggS" who="unknown">
@@ -5406,7 +5406,7 @@
           Asevelvollisuusvaliokunnan mietinnön perusteluja ja ponsia ja
           yhdyn Asevelvollisuusvaliokunnan mietintöön liitettyyn vastalauseeseen.
         </note>
-        <note xml:id="i-8AEQuzS9eXwBCn3mebewPY" type="speaker" xml:lang="fi">
+        <note xml:id="i-8AEQuzS9eXwBCn3mebewPY" xml:lang="fi" type="speaker">
           Edusmies Torppa:
         </note>
         <u xml:id="i-Nxsr8tsEuriWvxew4x7RyH" who="i-8Nqw1ci2HJgHqGKyao4gz6">
@@ -5493,7 +5493,7 @@
           olen tahtonut esille tuoda sitä käsitystapaa vastaan, jota on
           vastustavalta taholta ehdotettu.
         </note>
-        <note xml:id="i-SvXvf2u5AnPVgxPWmSTmYQ" type="speaker" xml:lang="fi">
+        <note xml:id="i-SvXvf2u5AnPVgxPWmSTmYQ" xml:lang="fi" type="speaker">
           Edusmies Kiipula:
         </note>
         <u xml:id="i-PH9X8TZ5AQ4t6vZt7LNCef" who="i-yz5WqRw8dv6YYSDpDNaKH">
@@ -5509,7 +5509,7 @@
             itselleni sanavallan muutamissa kysymyksissä.
           </seg>
         </u>
-        <note xml:id="i-DVEmAfLvx1RtJDGzKWAMzu" type="speaker" xml:lang="fi">
+        <note xml:id="i-DVEmAfLvx1RtJDGzKWAMzu" xml:lang="fi" type="speaker">
           Edusmies Laine:
         </note>
         <u xml:id="i-4wv2N4nLDLvoMHRMAFPLbu" who="i-A3iNU74qwgCMgUUvCNEK5W">
@@ -5522,7 +5522,7 @@
             mietintöjä ponsineen.
           </seg>
         </u>
-        <note xml:id="i-6oForoRDrYvTGYYBjSVjop" type="speaker" xml:lang="fi">
+        <note xml:id="i-6oForoRDrYvTGYYBjSVjop" xml:lang="fi" type="speaker">
           Edusmies Roiha:
         </note>
         <u xml:id="i-UdDTKkkjJ1UTaPwUzfwSXa" who="i-17htpZDs17EUXFq4uXyrgb">
@@ -5533,7 +5533,7 @@
             asetusta pykälittäin tarkastamaan.
           </seg>
         </u>
-        <note xml:id="i-EcT4eLbdKJAVpmhYCNp4y" type="speaker" xml:lang="fi">
+        <note xml:id="i-EcT4eLbdKJAVpmhYCNp4y" xml:lang="fi" type="speaker">
           Edusmies Tensikkala:
         </note>
         <u xml:id="i-C9WRb8g9Fg7DJ8vHCPdpcB" who="i-3SZWVADXp26LoEUsfMXtuW">
@@ -5561,7 +5561,7 @@
         <note xml:id="i-PLs2z4dtqF8LaDwNDVeY8t" xml:lang="fi">
           Tiistaina 23 p:nä toukokuuta. 101
         </note>
-        <note xml:id="i-H7mqLexKAXttGkBBMeoHUb" type="speaker" xml:lang="fi">
+        <note xml:id="i-H7mqLexKAXttGkBBMeoHUb" xml:lang="fi" type="speaker">
           Edusmies Lindegren:
         </note>
         <u xml:id="i-SZNNJ54PFGC65z5xnZMDug" who="i-VgXbiJ1DeKP1NgamtWyuHV">
@@ -5592,7 +5592,7 @@
             suostuvat asiaa käsittelemään valiokuntain ehdotuksen mukaan.
           </seg>
         </u>
-        <note xml:id="i-GsX7rks6EkUdmLKVLCxeio" type="speaker" xml:lang="fi">
+        <note xml:id="i-GsX7rks6EkUdmLKVLCxeio" xml:lang="fi" type="speaker">
           Edusmies Tuomikoski:
         </note>
         <u xml:id="i-H2s7hXhf13M92DCvAJTL2e" who="i-WCzaY3RxHpZPCCrEhQE6FZ">
@@ -5688,7 +5688,7 @@
           1 $ hyväksyttäisiin sillä lisäyksellä, jonka valiokunta on sen
           loppuun ehdottanut.
         </note>
-        <note xml:id="i-EqgWhYZYpjq4LebejBnS2n" type="speaker" xml:lang="fi">
+        <note xml:id="i-EqgWhYZYpjq4LebejBnS2n" xml:lang="fi" type="speaker">
           Edusmies Vihonen:
         </note>
         <u xml:id="i-CrWisapj29SPKE7QkYoC1w" who="i-FYbSvFu4rVek9C99uESHpF">
@@ -5703,7 +5703,7 @@
             laissa säilytetään muuttamatta.
           </seg>
         </u>
-        <note xml:id="i-TRsGhCp1Zhgz9Vqw6GeFRH" type="speaker" xml:lang="fi">
+        <note xml:id="i-TRsGhCp1Zhgz9Vqw6GeFRH" xml:lang="fi" type="speaker">
           Edusmies Koskelin:
         </note>
         <u xml:id="i-BXskuSyCadsQa47bhs76q7" who="i-VprBVce4soGLYgngLSjo1p">
@@ -5729,7 +5729,7 @@
             kansallinen luonne.
           </seg>
         </u>
-        <note xml:id="i-5FxD17rRkuiiwuetL1tDdu" type="speaker" xml:lang="fi">
+        <note xml:id="i-5FxD17rRkuiiwuetL1tDdu" xml:lang="fi" type="speaker">
           Edusmies Eklund:
         </note>
         <u xml:id="i-8i481DDXbxWCX1cWmw2F5d" who="i-UuNpejz63DNoacNWFAFjXE">
@@ -5745,7 +5745,7 @@
           Edusmiehet Toijala ja Kyckling kannattivat edusmies Koskelinin
           tekemää ehdotusta.
         </note>
-        <note xml:id="i-CfJyMS7NKnkUHpMdgRWTLH" type="speaker" xml:lang="fi">
+        <note xml:id="i-CfJyMS7NKnkUHpMdgRWTLH" xml:lang="fi" type="speaker">
           Edusmies Slotte:
         </note>
         <u xml:id="i-7EmPP5v2EWQtd7ZZ3d1Rsf" who="i-Ev9rwChsySU6VMfbevkpjp">
@@ -5755,7 +5755,7 @@
             som han har föreslagit.
           </seg>
         </u>
-        <note xml:id="i-LDrVL2DSTPgVgQfqikcBS3" type="speaker" xml:lang="fi">
+        <note xml:id="i-LDrVL2DSTPgVgQfqikcBS3" xml:lang="fi" type="speaker">
           Edusmies Riihimäki:
         </note>
         <u xml:id="i-2dpn2JEDSNSb1d3Lbkp5tq" who="i-6suuzHSQU6bgefM53wxoHs">
@@ -5776,7 +5776,7 @@
           ehdotus olisi hyväksyttävä, koska se voi vaikuttaa korkeimmassa
           paikassa koko asetusehdotuksen hyväksymiseen.
         </note>
-        <note xml:id="i-PPpyJEzRs5KgLtQ7MQrXXV" type="speaker" xml:lang="fi">
+        <note xml:id="i-PPpyJEzRs5KgLtQ7MQrXXV" xml:lang="fi" type="speaker">
           Edusmies Flygare:
         </note>
         <u xml:id="i-YME9UBXtYsUYoMZGB4SS9n" who="i-Vh1dqy2xKpjHzkQPmypXH2">
@@ -5803,7 +5803,7 @@
         <note xml:id="i-K4dLoZNNLhSjdDoX55huGW" xml:lang="fi">
           Edusmies Lampinen kannatti edusmies Koskelinin tekemää. ehdotusta.
         </note>
-        <note xml:id="i-uqeQXuTT4qmNzUkJ6Fv7s" type="speaker" xml:lang="fi">
+        <note xml:id="i-uqeQXuTT4qmNzUkJ6Fv7s" xml:lang="fi" type="speaker">
           Edusmies Wuolijoki:
         </note>
         <u xml:id="i-UMcJHPatvkeYyT5Mso44Eg" who="i-7r77TsZ9KwmhJExgnCC3ao">
@@ -5825,7 +5825,7 @@
             olevassa laissa.
           </seg>
         </u>
-        <note xml:id="i-YNxfjR76Ax6k6xV9TuXMGH" type="speaker" xml:lang="fi">
+        <note xml:id="i-YNxfjR76Ax6k6xV9TuXMGH" xml:lang="fi" type="speaker">
           Edusmies Laitinen:
         </note>
         <u xml:id="i-HTmd93S8Eh58RbHpirppuC" who="i-TGqE1UqnA73NvW2YYgmMf3">
@@ -5837,7 +5837,7 @@
             se on nykyisessä asevelvollisuuslaissa.
           </seg>
         </u>
-        <note xml:id="i-WnAEDfe2Wxa7jBvTZ2paZ5" type="speaker" xml:lang="fi">
+        <note xml:id="i-WnAEDfe2Wxa7jBvTZ2paZ5" xml:lang="fi" type="speaker">
           Edusmies Avellan:
         </note>
         <u xml:id="i-8tAV86P6dxrgUmL24rTN7u" who="i-Pwjr6vGBf5sGMw2BtNjBMH">
@@ -5876,7 +5876,7 @@
           suorastaan myöntää mitä on myönnettävä, nimittäin että Suomen
           kansa on velvollinen puolustamaan koko Venäjän valtakuntaa.
         </note>
-        <note xml:id="i-7MbRcqS4MJ2DaKcFW2NQrP" type="speaker" xml:lang="fi">
+        <note xml:id="i-7MbRcqS4MJ2DaKcFW2NQrP" xml:lang="fi" type="speaker">
           Edusmies Starcke:
         </note>
         <u xml:id="i-S17kESvB3DvkRFjGncRK6G" who="i-SbofGedkQmSvXcY3kuYV13">
@@ -5891,7 +5891,7 @@
             har.
           </seg>
         </u>
-        <note xml:id="i-DcKtPPpnyod3eUWwLDyyPa" type="speaker" xml:lang="fi">
+        <note xml:id="i-DcKtPPpnyod3eUWwLDyyPa" xml:lang="fi" type="speaker">
           Edusmies Koivisto:
         </note>
         <u xml:id="i-LKAKxHUqTinQiG2rd9fxmj" who="i-Adw7hSqFhqRTF21aMdhwtq">
@@ -5903,7 +5903,7 @@
             siihen mitä edusmies Avellan on lausunut.
           </seg>
         </u>
-        <note xml:id="i-ApML2bwLr6aMGqHuAcoJmC" type="speaker" xml:lang="fi">
+        <note xml:id="i-ApML2bwLr6aMGqHuAcoJmC" xml:lang="fi" type="speaker">
           Edusmies Lindegren:
         </note>
         <u xml:id="i-GM1QrWDN3Sm5wG9jdXj14q" who="i-VgXbiJ1DeKP1NgamtWyuHV">
@@ -5928,7 +5928,7 @@
           att ständerna borde afstå från sin lagstiftningsrätt i denna sak.
           Jag vill endast konstatera detta.
         </note>
-        <note xml:id="i-HTfym1Wdj6ZgsyGHtdmb56" type="speaker" xml:lang="fi">
+        <note xml:id="i-HTfym1Wdj6ZgsyGHtdmb56" xml:lang="fi" type="speaker">
           Edusmies Flygare:
         </note>
         <u xml:id="i-REJKsaP16r2hHErDx11JYo" who="i-Vh1dqy2xKpjHzkQPmypXH2">
@@ -5942,7 +5942,7 @@
           Edusmies Näs: Jag har samma åsikt som de två föregående talarene,
           och förenar mig således om deras åsikt.
         </note>
-        <note xml:id="i-8SuiU9mHPWrMPpQi4yn4nz" type="speaker" xml:lang="fi">
+        <note xml:id="i-8SuiU9mHPWrMPpQi4yn4nz" xml:lang="fi" type="speaker">
           Edusmies Flygare:
         </note>
         <u xml:id="i-S3taoomiF5mrAZJNmrJPgb" who="i-Vh1dqy2xKpjHzkQPmypXH2">
@@ -5976,7 +5976,7 @@
           lydelse skulle då komma att närma sig 1:sta momentet i motsvarande
           &amp; i nu gällande värnepliktslag.
         </note>
-        <note xml:id="i-AvtFxmD2cJ4DGj4nUiPVF2" type="speaker" xml:lang="fi">
+        <note xml:id="i-AvtFxmD2cJ4DGj4nUiPVF2" xml:lang="fi" type="speaker">
           Edusmies Vihonen:
         </note>
         <u xml:id="i-6zFBsnKrri386fw9uzaiuB" who="i-FYbSvFu4rVek9C99uESHpF">
@@ -5990,7 +5990,7 @@
             ja kannatan siis tämän &amp;:n muuttamista.
           </seg>
         </u>
-        <note xml:id="i-Ue5Eh8FTiy6EXpZzbTPoE1" type="speaker" xml:lang="fi">
+        <note xml:id="i-Ue5Eh8FTiy6EXpZzbTPoE1" xml:lang="fi" type="speaker">
           Edusmies Aulin:
         </note>
         <u xml:id="i-3S2AqExSZPYokw9dMqFBZf" who="unknown">
@@ -6010,7 +6010,7 @@
         <note xml:id="i-BzjSvBdPfrDEnxvohhC4zi" xml:lang="fi">
           Edusmies Kasurinen kannatti niin ikään edusm. Eklundin ehdotusta.
         </note>
-        <note xml:id="i-TKtcZFQxsBg6PP3QfXzDmj" type="speaker" xml:lang="fi">
+        <note xml:id="i-TKtcZFQxsBg6PP3QfXzDmj" xml:lang="fi" type="speaker">
           Edusmies Starcke:
         </note>
         <u xml:id="i-7u8gXPV6wWz7d97XjkUfZa" who="i-SbofGedkQmSvXcY3kuYV13">
@@ -6020,7 +6020,7 @@
             det af den föregäende talaren gjorda tillägget.
           </seg>
         </u>
-        <note xml:id="i-BmvdReL32qnPsAQ9g5rM51" type="speaker" xml:lang="fi">
+        <note xml:id="i-BmvdReL32qnPsAQ9g5rM51" xml:lang="fi" type="speaker">
           Edusmies Koskelin:
         </note>
         <u xml:id="i-AaDfNdJYLcCC8DSh9fg6KK" who="i-VprBVce4soGLYgngLSjo1p">
@@ -6039,7 +6039,7 @@
         <note xml:id="i-MipVBJ9AVi5CUirWMANmj6" xml:lang="fi">
           Edusmies Roiha oli niinikään samaa mielipidettä.
         </note>
-        <note xml:id="i-FZQNzm6cZi3wVVspYmrcY3" type="speaker" xml:lang="fi">
+        <note xml:id="i-FZQNzm6cZi3wVVspYmrcY3" xml:lang="fi" type="speaker">
           Edusmies Fellman:
         </note>
         <u xml:id="i-6BXcUtKSKcA2KsoYg1HHuk" who="i-761jFp8QFs1K22nsTyPrT4">
@@ -6063,7 +6063,7 @@
             takaisin muodostettavaksi ehdottamaani suuntaan.
           </seg>
         </u>
-        <note xml:id="i-BHtdo6eWrFEYEqmDGsJb4P" type="speaker" xml:lang="fi">
+        <note xml:id="i-BHtdo6eWrFEYEqmDGsJb4P" xml:lang="fi" type="speaker">
           Edusmies Lindegren:
         </note>
         <u xml:id="i-FxMyhc3GtNRHyU4XdLmLcK" who="i-VgXbiJ1DeKP1NgamtWyuHV">
@@ -6086,7 +6086,7 @@
         <note xml:id="i-HTB126B13ZzLNfVsGNGVsV" xml:lang="fi">
           112 Talonpoikaissääty 1899.
         </note>
-        <note xml:id="i-T7LLeL7WaV3wynNj8vr2up" type="speaker" xml:lang="fi">
+        <note xml:id="i-T7LLeL7WaV3wynNj8vr2up" xml:lang="fi" type="speaker">
           Edusmies Fieandt:
         </note>
         <u xml:id="i-H4bHryXj7JmYCDut4bHEiP" who="i-43CbwtzFU9fvE1ZC4NayXe">
@@ -6096,7 +6096,7 @@
             minäkin aioin tehdä, minkä vuoksi pyydän ainoastaan yhtyä häneen.
           </seg>
         </u>
-        <note xml:id="i-XAn6LNygjjkw145mraA1x1" type="speaker" xml:lang="fi">
+        <note xml:id="i-XAn6LNygjjkw145mraA1x1" xml:lang="fi" type="speaker">
           Edusmies Lindegren:
         </note>
         <u xml:id="i-5qdV5tuJ4e8ugbdwCsvadz" who="i-VgXbiJ1DeKP1NgamtWyuHV">
@@ -6119,7 +6119,7 @@
           Silloin minun mielestäni mietintö olisi selvempi eikä tulisi missään
           suhteessa näyttämään ristiriitaiselta pykälän kanssa.
         </note>
-        <note xml:id="i-XcKPYfRgNu7DBXMD7uY52E" type="speaker" xml:lang="fi">
+        <note xml:id="i-XcKPYfRgNu7DBXMD7uY52E" xml:lang="fi" type="speaker">
           Edusmies Halonen:
         </note>
         <u xml:id="i-F1bw9Bt9BQq17nmx7eCtg9" who="i-7tBzcdop95Z1XrJKrUj55e">
@@ -6130,7 +6130,7 @@
             ehdotusta.
           </seg>
         </u>
-        <note xml:id="i-XU6eyjAeRAsPiZpYojGxTX" type="speaker" xml:lang="fi">
+        <note xml:id="i-XU6eyjAeRAsPiZpYojGxTX" xml:lang="fi" type="speaker">
           Edusmies Ekberg:
         </note>
         <u xml:id="i-KLXXv3N7Fp3vMed887hprf" who="i-TRJUkgdtqj8YafcHWiunC8">
@@ -6141,7 +6141,7 @@
             muualla käyttääkään.
           </seg>
         </u>
-        <note xml:id="i-L5cpRaGL5vK6tJfivktBjr" type="speaker" xml:lang="fi">
+        <note xml:id="i-L5cpRaGL5vK6tJfivktBjr" xml:lang="fi" type="speaker">
           Edusmies Eklund:
         </note>
         <u xml:id="i-Dtmn3umaoJ3fFZEiSWG65j" who="i-UuNpejz63DNoacNWFAFjXE">
@@ -6249,7 +6249,7 @@
           itsensä läänin toimistossa, niin on mielestäni tuo entinen tapa
           lääkärin tarkastuksen käyttämisessä aivan riittävä.
         </note>
-        <note xml:id="i-F9uGegHhRi4yxpPWjXWi3E" type="speaker" xml:lang="fi">
+        <note xml:id="i-F9uGegHhRi4yxpPWjXWi3E" xml:lang="fi" type="speaker">
           Edusmies Kasurinen:
         </note>
         <u xml:id="i-FqGs1c7Mm6cLEhhz6MoSU1" who="i-BiLJE3xxrrRCyZeZCQjHcJ">
@@ -6260,7 +6260,7 @@
             kutsuntatoimistossa että läänintoimistossa.
           </seg>
         </u>
-        <note xml:id="i-3yWNXvkH8G8E3HURRZHPmS" type="speaker" xml:lang="fi">
+        <note xml:id="i-3yWNXvkH8G8E3HURRZHPmS" xml:lang="fi" type="speaker">
           Edusmies Slotte:
         </note>
         <u xml:id="i-Q7Y2d5svebnWkLFyhvX5yg" who="i-Ev9rwChsySU6VMfbevkpjp">
@@ -6276,7 +6276,7 @@
             att tvänne läkare alltid böra vara tillstädes.
           </seg>
         </u>
-        <note xml:id="i-MVc8C8fz9DvkFdAV1uWJZh" type="speaker" xml:lang="fi">
+        <note xml:id="i-MVc8C8fz9DvkFdAV1uWJZh" xml:lang="fi" type="speaker">
           Edusmies Forsman:
         </note>
         <u xml:id="i-QXjXy7ZwaRRyxLtwwubb9A" who="i-T2NvVpCbguQDo4BsdWUvRd">
@@ -6323,7 +6323,7 @@
           ja ehdotan sentähden että käsiteltävänä oleva pykälä lähetettäisiin
           takaisin valiokuntaan muodostettavaksi mainitsemaani suuntaan.
         </note>
-        <note xml:id="i-4QjwFTVdRCgybtxsJo75SR" type="speaker" xml:lang="fi">
+        <note xml:id="i-4QjwFTVdRCgybtxsJo75SR" xml:lang="fi" type="speaker">
           Edusmies Starcke:
         </note>
         <u xml:id="i-FnR5WvneJg9ZJJQDeJtZje" who="i-SbofGedkQmSvXcY3kuYV13">
@@ -6332,7 +6332,7 @@
             och vill derför understöda honom.
           </seg>
         </u>
-        <note xml:id="i-Nb3dZVPXk6veMUKJBdUw6S" type="speaker" xml:lang="fi">
+        <note xml:id="i-Nb3dZVPXk6veMUKJBdUw6S" xml:lang="fi" type="speaker">
           Edusmies Ekberg:
         </note>
         <u xml:id="i-D45TTr1MGw8SEd8wyFwLyx" who="i-TRJUkgdtqj8YafcHWiunC8">
@@ -6481,7 +6481,7 @@
           että Sääty yksimielisesti hyväksyisi rauhanaikaisen lukumäärän,
           joka olisi korkeintaan 10,000 miestä.
         </note>
-        <note xml:id="i-B8d5QMzmBzEZSnD54eBJyh" type="speaker" xml:lang="fi">
+        <note xml:id="i-B8d5QMzmBzEZSnD54eBJyh" xml:lang="fi" type="speaker">
           Edusmies Kasurinen:
         </note>
         <u xml:id="i-TVrZPJXysSB9iyhfuAfEYZ" who="i-BiLJE3xxrrRCyZeZCQjHcJ">
@@ -6630,7 +6630,7 @@
           joka ei koskaan ole rikkonut velvollisuuksiansa, kun me vaan rehellisesti
           ja nöyrästi tunnustamme minkä me voimme ja mitä me emme voi täyttää.
         </note>
-        <note xml:id="i-JEa6dKp6JsYy11FtEvDRJe" type="speaker" xml:lang="fi">
+        <note xml:id="i-JEa6dKp6JsYy11FtEvDRJe" xml:lang="fi" type="speaker">
           Edusmies Björni:
         </note>
         <u xml:id="i-HFRPz7tAzkzv3ebzRLrQqc" who="i-WjNrP4V2Q7sQnyWHLYvkVn">
@@ -6643,7 +6643,7 @@
             perusteilla kuin vastalausujat siinä ovat esille tuoneet.
           </seg>
         </u>
-        <note xml:id="i-LG2KvARS6ASo1NpvMbNhEq" type="speaker" xml:lang="fi">
+        <note xml:id="i-LG2KvARS6ASo1NpvMbNhEq" xml:lang="fi" type="speaker">
           Edusmies Roiha:
         </note>
         <u xml:id="i-FfdPWQjd2UcMTJ8PSSHxMm" who="i-17htpZDs17EUXFq4uXyrgb">
@@ -6698,7 +6698,7 @@
           valiokuntaan takaisin muodostettavaksi siihen suuntaan, että 1
           momentissa löytyvä miehistön määrä 12,000 muutettaisiin 8,000:ksi.
         </note>
-        <note xml:id="i-LYRHD22LP2GdVZkyu7AZ16" type="speaker" xml:lang="fi">
+        <note xml:id="i-LYRHD22LP2GdVZkyu7AZ16" xml:lang="fi" type="speaker">
           Fdusmies Laine:
         </note>
         <u xml:id="i-R9KTeugRoEw2A1eRTchE1d" who="i-A3iNU74qwgCMgUUvCNEK5W">
@@ -6710,7 +6710,7 @@
             ovat sen tarpeeksi selvästi tehneet.
           </seg>
         </u>
-        <note xml:id="i-X8cGtWxf7K69uFUJ58HR29" type="speaker" xml:lang="fi">
+        <note xml:id="i-X8cGtWxf7K69uFUJ58HR29" xml:lang="fi" type="speaker">
           Edusmies Kiipula:
         </note>
         <u xml:id="i-RUPgA6Bvjz56rH2gmGbASZ" who="i-yz5WqRw8dv6YYSDpDNaKH">
@@ -6721,7 +6721,7 @@
             suhteessa edusmies Huoposen lausuntoon.
           </seg>
         </u>
-        <note xml:id="i-AfYfGePuKFrPv77AEnViUm" type="speaker" xml:lang="fi">
+        <note xml:id="i-AfYfGePuKFrPv77AEnViUm" xml:lang="fi" type="speaker">
           Edusmies Toijala:
         </note>
         <u xml:id="i-C7WTPiPu6FfudmCTFz1vQj" who="i-NbLP2Nt1pfin8JxryLMYRd">
@@ -6744,7 +6744,7 @@
             asettaa, on 8,000 miestä.
           </seg>
         </u>
-        <note xml:id="i-XwAztVay9mZgGUvboa1uDj" type="speaker" xml:lang="fi">
+        <note xml:id="i-XwAztVay9mZgGUvboa1uDj" xml:lang="fi" type="speaker">
           Edusmies Fieandt:
         </note>
         <u xml:id="i-G2cnBpgkiL6oiexyNXK5ft" who="i-43CbwtzFU9fvE1ZC4NayXe">
@@ -6822,7 +6822,7 @@
           minä en ole ollenkaan epäillyt kantaani ilmaistessa. Minä tiedän
           seisovani kansan ja tulevaisuuden edessä.
         </note>
-        <note xml:id="i-T46pUNSMBtFxXoHKLQV4KU" type="speaker" xml:lang="fi">
+        <note xml:id="i-T46pUNSMBtFxXoHKLQV4KU" xml:lang="fi" type="speaker">
           Edusmies Nykänen:
         </note>
         <u xml:id="i-8KDbhXkVbLu7SbWHNhw2fB" who="i-JorHLG9UJyX1sjpnaG1dmH">
@@ -6843,7 +6843,7 @@
             vastalauseeseen.
           </seg>
         </u>
-        <note xml:id="i-StS3JcwnJR49jm4JQE2UWS" type="speaker" xml:lang="fi">
+        <note xml:id="i-StS3JcwnJR49jm4JQE2UWS" xml:lang="fi" type="speaker">
           Edusmies Flygare:
         </note>
         <u xml:id="i-5couWsrYFnfCHidGbjCbEs" who="i-Vh1dqy2xKpjHzkQPmypXH2">
@@ -6861,7 +6861,7 @@
             fredsnumerären skall blifva 8,000 man.
           </seg>
         </u>
-        <note xml:id="i-D2DgDGqUjUptTgkNyNkVGc" type="speaker" xml:lang="fi">
+        <note xml:id="i-D2DgDGqUjUptTgkNyNkVGc" xml:lang="fi" type="speaker">
           Edusmies Starcke:
         </note>
         <u xml:id="i-62SMPVbp9EgLtdrzo1Zkn5" who="i-SbofGedkQmSvXcY3kuYV13">
@@ -6875,7 +6875,7 @@
             som värneplikten pälägger honom.
           </seg>
         </u>
-        <note xml:id="i-Uzg1LbQ9KdDX4hNVsQVWv6" type="speaker" xml:lang="fi">
+        <note xml:id="i-Uzg1LbQ9KdDX4hNVsQVWv6" xml:lang="fi" type="speaker">
           Edusmies Hosia:
         </note>
         <u xml:id="i-Tk9C4Zj3W6oVgnHAVPciu8" who="unknown">
@@ -6895,7 +6895,7 @@
           så slutar jag mitt yttrande med att gifva tillkänna, att jag kommer
           att rösta för fredsnumerärens höjande till 8,000 man.
         </note>
-        <note xml:id="i-Bni8ugW3poa7JzDNdYEiBW" type="speaker" xml:lang="fi">
+        <note xml:id="i-Bni8ugW3poa7JzDNdYEiBW" xml:lang="fi" type="speaker">
           Edusmies Kilpiläinen:
         </note>
         <u xml:id="i-NL6z7mYAxMFqy4qPe8Y37L" who="unknown">
@@ -6932,7 +6932,7 @@
           tahdo poiketa tästä jalosta vakaumuksestaan hänelle aina uskollisen
           Suomen kansan suhteen.
         </note>
-        <note xml:id="i-Giwuvbuotff9qJ7ZRGY51t" type="speaker" xml:lang="fi">
+        <note xml:id="i-Giwuvbuotff9qJ7ZRGY51t" xml:lang="fi" type="speaker">
           Edusmies Halonen:
         </note>
         <u xml:id="i-5EhDTRPqqBaZg3gj1GDixt" who="i-7tBzcdop95Z1XrJKrUj55e">
@@ -6982,7 +6982,7 @@
           Minun mielestäni nykyisissä oloissa siinäkin jo on otettu paljon
           lisää velvollisuuksia.
         </note>
-        <note xml:id="i-97C3yhFuxd1TGs5VLzk7EF" type="speaker" xml:lang="fi">
+        <note xml:id="i-97C3yhFuxd1TGs5VLzk7EF" xml:lang="fi" type="speaker">
           Edusmies Juvonen:
         </note>
         <u xml:id="i-FDMCjMsbW6E8FBVnipES32" who="i-9bXKRcbNZcEMCDoY2xG6Cc">
@@ -6991,7 +6991,7 @@
             mietinnön lähettämistä takaisin valiokuntaan.
           </seg>
         </u>
-        <note xml:id="i-H96ujwUvFTZLNjNjGpmoWo" type="speaker" xml:lang="fi">
+        <note xml:id="i-H96ujwUvFTZLNjNjGpmoWo" xml:lang="fi" type="speaker">
           Edusmies Laitinen:
         </note>
         <u xml:id="i-AEzn9K9jvD9RaFdk3x6h7y" who="i-TGqE1UqnA73NvW2YYgmMf3">
@@ -7054,7 +7054,7 @@
           katsonut kuitenkin velvollisuudekseni tässä tärkeässä asiassa
           tuoda mielipiteeni esille.
         </note>
-        <note xml:id="i-USJ9SNr5ZaspvCFC8eq9Y" type="speaker" xml:lang="fi">
+        <note xml:id="i-USJ9SNr5ZaspvCFC8eq9Y" xml:lang="fi" type="speaker">
           Edusmies Meurman:
         </note>
         <u xml:id="i-M71H93RWYGrGCDxcuf1k9F" who="i-TPLLng6ovQtEFTALxn8PZa">
@@ -7169,7 +7169,7 @@
           mutta en voi sanoa, niillä perusteilla jotka tässä olen esiintuonut,
           että kansa voi sitäkään kestää. (Hyvä! hyvä!)
         </note>
-        <note xml:id="i-5qS87rev2ryjyZrAgec4P1" type="speaker" xml:lang="fi">
+        <note xml:id="i-5qS87rev2ryjyZrAgec4P1" xml:lang="fi" type="speaker">
           Edusmies Myllylä:
         </note>
         <u xml:id="i-N4y4KSy7FZxFoATMLzxd7U" who="i-PKPe2Nyabt6ctrsa6d5cFL">
@@ -7185,7 +7185,7 @@
             että rauhanaikaisen sotaväen luku korotetaan korkeintaan 8,000.
           </seg>
         </u>
-        <note xml:id="i-JmeqjFkBjuXGAhyHA1Pz9b" type="speaker" xml:lang="fi">
+        <note xml:id="i-JmeqjFkBjuXGAhyHA1Pz9b" xml:lang="fi" type="speaker">
           Edusmies Oittinen:
         </note>
         <u xml:id="i-XnigRFFYotuGpeaC6BnaZj" who="i-VERhf75LTeyuyLzkXYFc3J">
@@ -7282,7 +7282,7 @@
           föröfvade enskilda och allmänna ödeläggelser kan denna arme med
           sina olika vapenslag dock icke användas.
         </note>
-        <note xml:id="i-TttA6TUfmT5c2V1uLxJzz1" type="speaker" xml:lang="fi">
+        <note xml:id="i-TttA6TUfmT5c2V1uLxJzz1" xml:lang="fi" type="speaker">
           Edusmies Tuomikoski:
         </note>
         <u xml:id="i-QbwYUFAjHuHuaa5VUdGQaH" who="i-WCzaY3RxHpZPCCrEhQE6FZ">
@@ -7335,7 +7335,7 @@
           merkitystä, kuitenkin jättämällä siihen se tunnustus, jonka esittäminen
           on säätyjen kohtuullinen velvollisuus.
         </note>
-        <note xml:id="i-TCX7GktGF7LmkrgcrJkH8j" type="speaker" xml:lang="fi">
+        <note xml:id="i-TCX7GktGF7LmkrgcrJkH8j" xml:lang="fi" type="speaker">
           Edusmies Koskelin:
         </note>
         <u xml:id="i-VUmZDYHe6zCkhGX2BmEQMj" who="i-VprBVce4soGLYgngLSjo1p">
@@ -7364,7 +7364,7 @@
             sotilaslukuun, siis 8,000.
           </seg>
         </u>
-        <note xml:id="i-K8N5qs4ARwq2e2EC4b6ai9" type="speaker" xml:lang="fi">
+        <note xml:id="i-K8N5qs4ARwq2e2EC4b6ai9" xml:lang="fi" type="speaker">
           Edusmies Teittinen:
         </note>
         <u xml:id="i-2PNosvGAQfznsouV1PVsqP" who="i-M9GEjZeNs7B27BfEGmJYSN">
@@ -7380,7 +7380,7 @@
         <note xml:id="i-GJqrpX6HEfKmDc9TnZjQ6S" xml:lang="fi">
           136 Talonpoikaissääty 1899.
         </note>
-        <note xml:id="i-YNrUxAvRY5jUb46NMF7twd" type="speaker" xml:lang="fi">
+        <note xml:id="i-YNrUxAvRY5jUb46NMF7twd" xml:lang="fi" type="speaker">
           Edusmies Torppa:
         </note>
         <u xml:id="i-35Zqz5UR49nmACRMynKUEy" who="i-8Nqw1ci2HJgHqGKyao4gz6">
@@ -7444,7 +7444,7 @@
           Edusmies Häkkänen kannatti samoin edusmies Tuomikosken tekemää
           ehdotusta.
         </note>
-        <note xml:id="i-HmEpcmHDMQKAdbxdqv8RHQ" type="speaker" xml:lang="fi">
+        <note xml:id="i-HmEpcmHDMQKAdbxdqv8RHQ" xml:lang="fi" type="speaker">
           Edusmies Lindegren:
         </note>
         <u xml:id="i-H3R86vB7Ai8TzQKu1gLndX" who="i-VgXbiJ1DeKP1NgamtWyuHV">
@@ -7584,7 +7584,7 @@
           sitä puolustustoimeen Suomessa ei tarvita. Ehdotukseni ei kaipaa
           minun puoleltani enempiä perusteluita.
         </note>
-        <note xml:id="i-KjqPMuBQf15UxaKx8aQq4A" type="speaker" xml:lang="fi">
+        <note xml:id="i-KjqPMuBQf15UxaKx8aQq4A" xml:lang="fi" type="speaker">
           Edusmies Eklund:
         </note>
         <u xml:id="i-Cywzpodv5EPSjsEVc9Lo1t" who="i-UuNpejz63DNoacNWFAFjXE">
@@ -7601,7 +7601,7 @@
           Edusmies Roiha kannatti edusmies Vihosen tekemää ehdotusta ja
           pyysi äänestystä.
         </note>
-        <note xml:id="i-WpPErua7Awb6fgEbdBEWAF" type="speaker" xml:lang="fi">
+        <note xml:id="i-WpPErua7Awb6fgEbdBEWAF" xml:lang="fi" type="speaker">
           Edusmies Häkkänen:
         </note>
         <u xml:id="i-RA2D5dNX4D1xzqrfshNohU" who="i-Lget5LPYWHPvRtBPXGq6gH">
@@ -7613,7 +7613,7 @@
             tuskinpa he sieltä takaisin palajaisivat.
           </seg>
         </u>
-        <note xml:id="i-YA8tUzwZtZeBW6xsxSbWBV" type="speaker" xml:lang="fi">
+        <note xml:id="i-YA8tUzwZtZeBW6xsxSbWBV" xml:lang="fi" type="speaker">
           Edusmies Halonen:
         </note>
         <u xml:id="i-G4eDmuLb8XkTKKJecWwtJY" who="i-7tBzcdop95Z1XrJKrUj55e">
@@ -7623,7 +7623,7 @@
             olevaan momenttiin, josta syystä minä sitä kannatan.
           </seg>
         </u>
-        <note xml:id="i-AngFMkTfcH6jKuLMekxH6y" type="speaker" xml:lang="fi">
+        <note xml:id="i-AngFMkTfcH6jKuLMekxH6y" xml:lang="fi" type="speaker">
           Edusmies Flygare:
         </note>
         <u xml:id="i-7q4XvHLX8QBr8EsCrJXEc9" who="i-Vh1dqy2xKpjHzkQPmypXH2">
@@ -7631,7 +7631,7 @@
             Jag understöder hr Eklunds förslag.
           </seg>
         </u>
-        <note xml:id="i-HLqSdSzw8E5aZXPASjuYsR" type="speaker" xml:lang="fi">
+        <note xml:id="i-HLqSdSzw8E5aZXPASjuYsR" xml:lang="fi" type="speaker">
           Edusmies Meurman:
         </note>
         <u xml:id="i-tYc18RJwELaaKMPSVbVEQ" who="i-TPLLng6ovQtEFTALxn8PZa">
@@ -7664,7 +7664,7 @@
           Mitä edusmies Eklundin ehdottamaan lisäykseen tulee, en ole niin
           tarkoin sitä tutkinut, mutta ehkä se sopii.
         </note>
-        <note xml:id="i-JbzYZEmLFGM1CxRSYFu2ri" type="speaker" xml:lang="fi">
+        <note xml:id="i-JbzYZEmLFGM1CxRSYFu2ri" xml:lang="fi" type="speaker">
           Edusmies Oittinen:
         </note>
         <u xml:id="i-4a541tx7Evmt17L8WFRU8z" who="i-VERhf75LTeyuyLzkXYFc3J">
@@ -7680,7 +7680,7 @@
             pykälän nykyinen muoto paras, minkä sille voi keksiä.
           </seg>
         </u>
-        <note xml:id="i-XjkvozPtNbncnRWcRFXN1F" type="speaker" xml:lang="fi">
+        <note xml:id="i-XjkvozPtNbncnRWcRFXN1F" xml:lang="fi" type="speaker">
           Edusmies Eklund:
         </note>
         <u xml:id="i-4UYuxUyRUTqWzLEKwHYML8" who="i-UuNpejz63DNoacNWFAFjXE">
@@ -7701,7 +7701,7 @@
             tillfälle kan äberopas, än ingen.
           </seg>
         </u>
-        <note xml:id="i-VonJUKNCX37GoTXVaRDtmk" type="speaker" xml:lang="fi">
+        <note xml:id="i-VonJUKNCX37GoTXVaRDtmk" xml:lang="fi" type="speaker">
           Edusmies Torppa:
         </note>
         <u xml:id="i-5Qmpqkn7v6eY92ptGg37Q7" who="i-8Nqw1ci2HJgHqGKyao4gz6">
@@ -7875,7 +7875,7 @@
           syvästi koskee Suomen kansan sydämeen, ollen vastauskirjelmässä
           Keis. Majesteetille tästä nimenomaan mainittava.
         </note>
-        <note xml:id="i-zvybqN9ktRuHasqWPghjZ" type="speaker" xml:lang="fi">
+        <note xml:id="i-zvybqN9ktRuHasqWPghjZ" xml:lang="fi" type="speaker">
           Edusmies Oittinen:
         </note>
         <u xml:id="i-7QY4wXa6Qbgp6J3bwonSrC" who="i-VERhf75LTeyuyLzkXYFc3J">
@@ -7929,7 +7929,7 @@
           vastaan minä Talonpoikaissäädyn jäsenenä, varsinaisen kansan edustajana
           panen vakavimman vastalauseeni.
         </note>
-        <note xml:id="i-PCCXQHpdNJBF8Ss7i49hnF" type="speaker" xml:lang="fi">
+        <note xml:id="i-PCCXQHpdNJBF8Ss7i49hnF" xml:lang="fi" type="speaker">
           Edusmies Slotte:
         </note>
         <u xml:id="i-RihwKaDp5DVacFLx54HmcW" who="i-Ev9rwChsySU6VMfbevkpjp">
@@ -7947,7 +7947,7 @@
           och jag ber att få rikta dessa ord särskildt till ledamöterna
           af detta utskott.
         </note>
-        <note xml:id="i-AAiu3wL1Qv5EDuivDbyozr" type="speaker" xml:lang="fi">
+        <note xml:id="i-AAiu3wL1Qv5EDuivDbyozr" xml:lang="fi" type="speaker">
           Edusmies Meurman:
         </note>
         <u xml:id="i-JK2pAesW8WyBPM6cC7Pnku" who="i-TPLLng6ovQtEFTALxn8PZa">
@@ -7971,7 +7971,7 @@
             tämmöisiä solvauksia. (Hyvä! hyvä!)
           </seg>
         </u>
-        <note xml:id="i-6CzzQqfxh8zfxwEKyEthrf" type="speaker" xml:lang="fi">
+        <note xml:id="i-6CzzQqfxh8zfxwEKyEthrf" xml:lang="fi" type="speaker">
           Edusmies Eklund:
         </note>
         <u xml:id="i-NPZFZAAesUYV893u9h3DSw" who="i-UuNpejz63DNoacNWFAFjXE">
@@ -8021,7 +8021,7 @@
           oleva mietintö alusta loppuun, niin perustelmineen kuin ponsilauseineenkin,
           hyväksyttäisiin ilman keskustelua.
         </note>
-        <note xml:id="i-MAn6H4nEdqrVnqMVCrszjM" type="speaker" xml:lang="fi">
+        <note xml:id="i-MAn6H4nEdqrVnqMVCrszjM" xml:lang="fi" type="speaker">
           Fdusmies Avellan:
         </note>
         <u xml:id="i-Ld2iBUmcPX2MCAJSgrMstX" who="i-Pwjr6vGBf5sGMw2BtNjBMH">
@@ -8205,7 +8205,7 @@
           edusmies Tensikkala: Minä pyytäisin ehdottaa että tähän lähetystöön
           valittaisiin edusmiehet Oittinen, Torppa, Huoponen, Pere ja Lindegren.
         </note>
-        <note xml:id="i-2pLNnvbSBrWDAeyNHbL8qq" type="speaker" xml:lang="fi">
+        <note xml:id="i-2pLNnvbSBrWDAeyNHbL8qq" xml:lang="fi" type="speaker">
           Edusmies Perho:
         </note>
         <u xml:id="i-43TYoneDcgPAuVJ1wmZU7a" who="i-6FpU4tS1g54mE21oZxEp2a">
@@ -8214,7 +8214,7 @@
             ehdotusta.
           </seg>
         </u>
-        <note xml:id="i-BtWRrQV8n6RPhUdQHDpTuC" type="speaker" xml:lang="fi">
+        <note xml:id="i-BtWRrQV8n6RPhUdQHDpTuC" xml:lang="fi" type="speaker">
           Edusmies Vihonen:
         </note>
         <u xml:id="i-LCsUf4mcwELgmF3Qze7sfD" who="i-FYbSvFu4rVek9C99uESHpF">
@@ -8223,7 +8223,7 @@
             Björnin, Fellmanin, Roihan, Koskelinin ja Kycklingin.
           </seg>
         </u>
-        <note xml:id="i-4nxEvLZ2cS2RsdN8vHXDUe" type="speaker" xml:lang="fi">
+        <note xml:id="i-4nxEvLZ2cS2RsdN8vHXDUe" xml:lang="fi" type="speaker">
           Edusmies Fellman:
         </note>
         <u xml:id="i-F75eYnHaXCBZ7td9WtaiUs" who="i-761jFp8QFs1K22nsTyPrT4">
@@ -8235,7 +8235,7 @@
         <note xml:id="i-NT7xj89CrxPLD1CpLnzL1T" xml:lang="fi">
           Torstaina 25 p:nä toukokuuta. 149
         </note>
-        <note xml:id="i-BaQBpooktSnGWnWjn7kqnD" type="speaker" xml:lang="fi">
+        <note xml:id="i-BaQBpooktSnGWnWjn7kqnD" xml:lang="fi" type="speaker">
           Edusmies Kiipula:
         </note>
         <u xml:id="i-PMmQgFkwbT14yQDD9X1z9B" who="i-yz5WqRw8dv6YYSDpDNaKH">
@@ -8244,7 +8244,7 @@
             ehdottaa edusm. Stenrothin.
           </seg>
         </u>
-        <note xml:id="i-HfVUNi58uABEdBtVnXfLmX" type="speaker" xml:lang="fi">
+        <note xml:id="i-HfVUNi58uABEdBtVnXfLmX" xml:lang="fi" type="speaker">
           Edusmies Eklund:
         </note>
         <u xml:id="i-76MZWqVeBkhwCTq6PVnAne" who="i-UuNpejz63DNoacNWFAFjXE">
@@ -8253,7 +8253,7 @@
             väljas landtdagsm. Fellman, Starcke, Björni, Koskelin och Aulin.
           </seg>
         </u>
-        <note xml:id="i-DG63BZCBhnZYKZ748tMEpo" type="speaker" xml:lang="fi">
+        <note xml:id="i-DG63BZCBhnZYKZ748tMEpo" xml:lang="fi" type="speaker">
           Edusmies Vuolijoki:
         </note>
         <u xml:id="i-B8HvC33tGQkWJ1sjtSwckF" who="unknown">
@@ -8262,7 +8262,7 @@
             että kysymyksessä oleva vaali toimitetaan suljetuilla lipuilla.
           </seg>
         </u>
-        <note xml:id="i-Wn3PoxXjzXpRGNSv7TJjSk" type="speaker" xml:lang="fi">
+        <note xml:id="i-Wn3PoxXjzXpRGNSv7TJjSk" xml:lang="fi" type="speaker">
           Edusmies Teittinen:
         </note>
         <u xml:id="i-EvtHrZCbAJ15vf9wooq9kt" who="i-M9GEjZeNs7B27BfEGmJYSN">
@@ -8428,7 +8428,7 @@
         <note xml:id="i-EQebxARkypSnkbNTMELYX4" xml:lang="fi">
           FEdusmies Laine yhtyi edusm. Aulinin lausuntoon.
         </note>
-        <note xml:id="i-3D3CBUM8fqsLRny5oxfH9L" type="speaker" xml:lang="fi">
+        <note xml:id="i-3D3CBUM8fqsLRny5oxfH9L" xml:lang="fi" type="speaker">
           Edusmies Hoikka:
         </note>
         <u xml:id="i-69dgcAuJpue5RhLM35zF3g" who="unknown">
@@ -8442,7 +8442,7 @@
             voisi niitä saada.
           </seg>
         </u>
-        <note xml:id="i-CQBRNPpsPhGG4y3M5o9wbc" type="speaker" xml:lang="fi">
+        <note xml:id="i-CQBRNPpsPhGG4y3M5o9wbc" xml:lang="fi" type="speaker">
           Edusmies Kiipula:
         </note>
         <u xml:id="i-NS6LohzJmmfgHrptErL3c3" who="i-yz5WqRw8dv6YYSDpDNaKH">
@@ -8456,7 +8456,7 @@
             auki jonkun määrätunnin viikossa.
           </seg>
         </u>
-        <note xml:id="i-TCVfPne4aK71YT784qvL3X" type="speaker" xml:lang="fi">
+        <note xml:id="i-TCVfPne4aK71YT784qvL3X" xml:lang="fi" type="speaker">
           Edusmies Valta:
         </note>
         <u xml:id="i-Ekxk7x17AWyuuP16XrqqUQ" who="unknown">
@@ -8477,7 +8477,7 @@
             tuoda takaisin, kun sitä ei saa maksaa.
           </seg>
         </u>
-        <note xml:id="i-VKNbmkBEtDEDGvCNHv5Le4" type="speaker" xml:lang="fi">
+        <note xml:id="i-VKNbmkBEtDEDGvCNHv5Le4" xml:lang="fi" type="speaker">
           Edusmies Bremer:
         </note>
         <u xml:id="i-WVp5Q3VhesUZVW6LVarVRP" who="i-HjfmDsS4k6Zju4rc3Q8bpb">
@@ -8495,7 +8495,7 @@
           jastonhoitajalta pitää niitä saada. Jos hän on laiminlyönyt tehtävänsä,
           ettei ole toimittanut tilaajoille, niin siitä täytyy tehdä muistutus.
         </note>
-        <note xml:id="i-NPMUPtaJ1jmZRVF6pbgzAa" type="speaker" xml:lang="fi">
+        <note xml:id="i-NPMUPtaJ1jmZRVF6pbgzAa" xml:lang="fi" type="speaker">
           Edusmies Aulin:
         </note>
         <u xml:id="i-FCtescW7tfAwwg8WzWEAuc" who="unknown">
@@ -8510,7 +8510,7 @@
             on niille, jotka ovat tänne maalta tulleet.
           </seg>
         </u>
-        <note xml:id="i-C9yzoyVxmskPfJvEJVH8B1" type="speaker" xml:lang="fi">
+        <note xml:id="i-C9yzoyVxmskPfJvEJVH8B1" xml:lang="fi" type="speaker">
           Edusmies Avellan:
         </note>
         <u xml:id="i-iPURAkG2nB9w7PpcbmqC9" who="i-Pwjr6vGBf5sGMw2BtNjBMH">
@@ -8673,7 +8673,7 @@
           mitään semmoista, vaan tahdotaan ainoastaan lausua toivomus että
           sotajoukkoja etupäässä on käytettävä Suomenmaan puolustukseksi.
         </note>
-        <note xml:id="i-YRPG9udt56HZTi7bLvvMCL" type="speaker" xml:lang="fi">
+        <note xml:id="i-YRPG9udt56HZTi7bLvvMCL" xml:lang="fi" type="speaker">
           Edusmies Eklund:
         </note>
         <u xml:id="i-8ZovHQu66hU8wZ3ZkZK5Dj" who="i-UuNpejz63DNoacNWFAFjXE">
@@ -8756,7 +8756,7 @@
           kohtaan vaativan minua pysymään ennen lausumassani ajatuksessa.
           Ja ehdotan että Sääty pysyy järkähtämättä ennen tekemässään päätöksessä.
         </note>
-        <note xml:id="i-JxpuGaTU3DMLfJKXqfLz6A" type="speaker" xml:lang="fi">
+        <note xml:id="i-JxpuGaTU3DMLfJKXqfLz6A" xml:lang="fi" type="speaker">
           Edusmies Forsman:
         </note>
         <u xml:id="i-N2G963jCELx4k4SMJWu4Ty" who="i-T2NvVpCbguQDo4BsdWUvRd">
@@ -8784,7 +8784,7 @@
         <note xml:id="i-4S6uoD9qoXPo91EWBW6nni" xml:lang="fi">
           162 Talonpoikaissääty 1899.
         </note>
-        <note xml:id="i-JAJ13SqigaJnMaFQEEjgtq" type="speaker" xml:lang="fi">
+        <note xml:id="i-JAJ13SqigaJnMaFQEEjgtq" xml:lang="fi" type="speaker">
           Edusmies Kasurinen:
         </note>
         <u xml:id="i-6Dk8oLHCv6vikjhRr6kuHb" who="i-BiLJE3xxrrRCyZeZCQjHcJ">
@@ -8827,7 +8827,7 @@
           useat arvoisat säädyn jäsenet ovat aikaisemmin kannattaneet? En
           siis voi luopua entisestä mielipiteestäni.
         </note>
-        <note xml:id="i-Pr3zL6FjByLPxpY9eyi5Zw" type="speaker" xml:lang="fi">
+        <note xml:id="i-Pr3zL6FjByLPxpY9eyi5Zw" xml:lang="fi" type="speaker">
           Edusmies Koskelin:
         </note>
         <u xml:id="i-32TD1p5kVRuqoJuB8E4Ler" who="i-VprBVce4soGLYgngLSjo1p">
@@ -8856,7 +8856,7 @@
           ylipäänsä niitä mielipiteitä, joita edusmies Toijala jo on tuonut
           esiin.
         </note>
-        <note xml:id="i-M8YjRR6L4MwHxfj5ShdXfQ" type="speaker" xml:lang="fi">
+        <note xml:id="i-M8YjRR6L4MwHxfj5ShdXfQ" xml:lang="fi" type="speaker">
           Edusmies Tensikkala:
         </note>
         <u xml:id="i-VRh9jxpiof8Cg5Jy1DSerx" who="i-3SZWVADXp26LoEUsfMXtuW">
@@ -8879,7 +8879,7 @@
             sen hyväksyn.
           </seg>
         </u>
-        <note xml:id="i-9752c7gwWzqFRaNWcVEFKe" type="speaker" xml:lang="fi">
+        <note xml:id="i-9752c7gwWzqFRaNWcVEFKe" xml:lang="fi" type="speaker">
           Edusmies Eklund:
         </note>
         <u xml:id="i-KfCocqGNxP4HY2AyW7veqA" who="i-UuNpejz63DNoacNWFAFjXE">
@@ -8920,7 +8920,7 @@
           nöd å färde i framtiden skola förhållandena ovilkorligen framtvinga
           en förändring ånyo i värnepligtslagen.
         </note>
-        <note xml:id="i-FPNTb6iVEzUVc1psfgnYu7" type="speaker" xml:lang="fi">
+        <note xml:id="i-FPNTb6iVEzUVc1psfgnYu7" xml:lang="fi" type="speaker">
           Edusmies Perho:
         </note>
         <u xml:id="i-B2iHSkhGjYJYdLZ2hySw4B" who="i-6FpU4tS1g54mE21oZxEp2a">
@@ -8966,7 +8966,7 @@
           tulen äänelläni, vaikka raskain mielin, kannattamaan tätä 12,000:nen
           miehen lukumäärää ja yhdyn siis nyt yhteensovitusehdotukseen.
         </note>
-        <note xml:id="i-TD2KjZkRXKYA7u2X55qwMQ" type="speaker" xml:lang="fi">
+        <note xml:id="i-TD2KjZkRXKYA7u2X55qwMQ" xml:lang="fi" type="speaker">
           Edusmies Meurman:
         </note>
         <u xml:id="i-EQ3f11K33SMS9aTQEg38kC" who="i-TPLLng6ovQtEFTALxn8PZa">
@@ -9022,7 +9022,7 @@
           että se ansaitsee uhrauksia. (Hyvä.). Minä kannatan valiokunnan
           yhteensovitusehdotusta.
         </note>
-        <note xml:id="i-HUw5UWRZB3dvGXxwM8VYp3" type="speaker" xml:lang="fi">
+        <note xml:id="i-HUw5UWRZB3dvGXxwM8VYp3" xml:lang="fi" type="speaker">
           Edusmies Avellan:
         </note>
         <u xml:id="i-BkK2Gu6Z35bc73tvYSdeiP" who="i-Pwjr6vGBf5sGMw2BtNjBMH">
@@ -9110,7 +9110,7 @@
           af utskottet förordade siffran och hvilka som hafva yrkat på bibehållandet
           af grundlagarnas helgd och motsatt sig denna förhöjning.
         </note>
-        <note xml:id="i-D3vcTEisrunfEnkMmLQ55V" type="speaker" xml:lang="fi">
+        <note xml:id="i-D3vcTEisrunfEnkMmLQ55V" xml:lang="fi" type="speaker">
           Edusmies Vuolijoki:
         </note>
         <u xml:id="i-5fZiuZZhn6uhFRQTCQaCFC" who="unknown">
@@ -9130,7 +9130,7 @@
             minun puolestani hyväksyä valiokunnan yhteensovitus.
           </seg>
         </u>
-        <note xml:id="i-P3yxiHKFN2BYPHdbJUGe2K" type="speaker" xml:lang="fi">
+        <note xml:id="i-P3yxiHKFN2BYPHdbJUGe2K" xml:lang="fi" type="speaker">
           Edusmies Danielson:
         </note>
         <u xml:id="i-HBMgRrazEozrnuWqPVuCFa" who="i-9pashV7KkwGfYg8WYhns6X">
@@ -9251,7 +9251,7 @@
           vaan ettei se voi mennä niin pitkälle kuin muut säädyt ovat menneet.
           Ei missään tapauksessa asia siis viipyisi enemmän kuin vuoden.
         </note>
-        <note xml:id="i-J4EiZpN3ayn3jqzmvSX2Za" type="speaker" xml:lang="fi">
+        <note xml:id="i-J4EiZpN3ayn3jqzmvSX2Za" xml:lang="fi" type="speaker">
           Edusmies Lagerstedt:
         </note>
         <u xml:id="i-2Qza5vtiY3VSqbSAJTw6NV" who="i-6uGv5Py1DwPoEDrATVCYHQ">
@@ -9277,7 +9277,7 @@
           kun kolme säätyä on vaatinut 12,000, katson minäkin asian pakosta
           velvollisuudekseni hyväksyä yhteensovituksen.
         </note>
-        <note xml:id="i-E8KLcxwhwyHt4fxgvQNFSN" type="speaker" xml:lang="fi">
+        <note xml:id="i-E8KLcxwhwyHt4fxgvQNFSN" xml:lang="fi" type="speaker">
           Edusmies Lindberg:
         </note>
         <u xml:id="i-2Qi4GP5nqzA5U6k9mw1BGP" who="unknown">
@@ -9321,7 +9321,7 @@
             och förena sig om Bondeståndets förslag.
           </seg>
         </u>
-        <note xml:id="i-58vPw5LqztCkTzTY9dcjc3" type="speaker" xml:lang="fi">
+        <note xml:id="i-58vPw5LqztCkTzTY9dcjc3" xml:lang="fi" type="speaker">
           Edusmies Riihimäki:
         </note>
         <u xml:id="i-4h7rxrf7XEQQtBoNKVZ4cS" who="i-6suuzHSQU6bgefM53wxoHs">
@@ -9400,7 +9400,7 @@
           Lapinmaan edusmiehellä pitäisi tässä kysymyksessä olla äänestysoikeutta,
           koska asevelvollisuuslaki ei tulisi koskemaan Lapinmaan tuomiokuntaa.
         </note>
-        <note xml:id="i-EyVkgxpwyp4tHfkjxYmkbi" type="speaker" xml:lang="fi">
+        <note xml:id="i-EyVkgxpwyp4tHfkjxYmkbi" xml:lang="fi" type="speaker">
           Edusmies Ekberg:
         </note>
         <u xml:id="i-AeTgSjVmkqF5mMGK197gz1" who="i-TRJUkgdtqj8YafcHWiunC8">
@@ -9430,7 +9430,7 @@
             12,000 mieheksi.
           </seg>
         </u>
-        <note xml:id="i-9BghELhLarojbE2y2qjRa5" type="speaker" xml:lang="fi">
+        <note xml:id="i-9BghELhLarojbE2y2qjRa5" xml:lang="fi" type="speaker">
           Edusmies Vihonen:
         </note>
         <u xml:id="i-CmYMmmxgpYjTpD89McyWLA" who="i-FYbSvFu4rVek9C99uESHpF">
@@ -9446,7 +9446,7 @@
             korotettavaksi 12,000 mieheen.
           </seg>
         </u>
-        <note xml:id="i-XgkpULMGN7hb2nEeMzDKZe" type="speaker" xml:lang="fi">
+        <note xml:id="i-XgkpULMGN7hb2nEeMzDKZe" xml:lang="fi" type="speaker">
           Edusmies Valta:
         </note>
         <u xml:id="i-AssbyfJ8wDPv17i9r8xwwr" who="unknown">
@@ -9466,7 +9466,7 @@
           8,000 miestä ja valiokunnan yhteensovitus. Tässä tapauksessa olen
           valmis kannattamaan valiokunnan ehdotusta.
         </note>
-        <note xml:id="i-2SLoWk419NaCmy9vvW9npQ" type="speaker" xml:lang="fi">
+        <note xml:id="i-2SLoWk419NaCmy9vvW9npQ" xml:lang="fi" type="speaker">
           Edusmies Pere:
         </note>
         <u xml:id="i-AXq8hJCVTXspmYBwXRWKhK" who="i-T6iwtdGymhfhiK1c7VMUXe">
@@ -9483,7 +9483,7 @@
             valiokunnan yhteensovitusta, jonka jo kolme säätyä on hyväksynyt.
           </seg>
         </u>
-        <note xml:id="i-9b5ZQvvB3t3RsoE2dGNTq6" type="speaker" xml:lang="fi">
+        <note xml:id="i-9b5ZQvvB3t3RsoE2dGNTq6" xml:lang="fi" type="speaker">
           Edusmies Bremer:
         </note>
         <u xml:id="i-QQMcbSgyhjDbJGZ3BpBrEf" who="i-HjfmDsS4k6Zju4rc3Q8bpb">
@@ -9543,7 +9543,7 @@
           Pysyn siis näin ollen hyvällä omallatunnolla toistaiseksi entisessä
           mielipiteessäni.
         </note>
-        <note xml:id="i-W9CjSJ1HLhjwWFxxDdmP1j" type="speaker" xml:lang="fi">
+        <note xml:id="i-W9CjSJ1HLhjwWFxxDdmP1j" xml:lang="fi" type="speaker">
           Edusmies Juvonen:
         </note>
         <u xml:id="i-NBHmEXpG6hZkbWKPiYUbca" who="i-9bXKRcbNZcEMCDoY2xG6Cc">
@@ -9559,7 +9559,7 @@
         <note xml:id="i-J8HAxS9zyvHeiLfHnsjoqJ" xml:lang="fi">
           Edusmies Rosenberg yhdistyi edusmies Danielsonin lausuntoon.
         </note>
-        <note xml:id="i-oAqEZ8YBWPtJSxmmBC3Nr" type="speaker" xml:lang="fi">
+        <note xml:id="i-oAqEZ8YBWPtJSxmmBC3Nr" xml:lang="fi" type="speaker">
           Edusmies Avellan:
         </note>
         <u xml:id="i-VzJVJCs3pB2ZzyX11cdpas" who="i-Pwjr6vGBf5sGMw2BtNjBMH">
@@ -9585,7 +9585,7 @@
             ennen lausunut.
           </seg>
         </u>
-        <note xml:id="i-Pr7sxo1uuBtRLeWYRpBe1w" type="speaker" xml:lang="fi">
+        <note xml:id="i-Pr7sxo1uuBtRLeWYRpBe1w" xml:lang="fi" type="speaker">
           Edusmies Eriksson:
         </note>
         <u xml:id="i-CSfe6YtkNjGBV4LoHP3dhY" who="i-BErd1xbD4tu5tZsqSXAGg3">
@@ -9669,7 +9669,7 @@
           ole mahdollinen. Muuten yhdistyn edusmies Neiglickiin siinä, mitä
           hän edusmies Erikssonia vastaan lausui.
         </note>
-        <note xml:id="i-JChRtWN5FTdXfYW1tjwVuD" type="speaker" xml:lang="fi">
+        <note xml:id="i-JChRtWN5FTdXfYW1tjwVuD" xml:lang="fi" type="speaker">
           Edusmies Halonen:
         </note>
         <u xml:id="i-ULw8bi9WgJ1kiKRwJMUBpi" who="i-7tBzcdop95Z1XrJKrUj55e">
@@ -9684,7 +9684,7 @@
             edusmies ottaa osaa tämänkin asian päättämiseen.
           </seg>
         </u>
-        <note xml:id="i-2DE6JYAKBxwhgK1V5VeMMq" type="speaker" xml:lang="fi">
+        <note xml:id="i-2DE6JYAKBxwhgK1V5VeMMq" xml:lang="fi" type="speaker">
           Edusmies Aulin:.
         </note>
         <u xml:id="i-9jacHoiQ5cXGEYZmsP3dMp" who="unknown">
@@ -9739,7 +9739,7 @@
           vaativat. Tällaisia toisia säätyjä loukkaavia lausuntoja vastaan
           panen minä vastalauseen. (Hyvä!).
         </note>
-        <note xml:id="i-3NmnD6x6kZDjUw3gSvLoBz" type="speaker" xml:lang="fi">
+        <note xml:id="i-3NmnD6x6kZDjUw3gSvLoBz" xml:lang="fi" type="speaker">
           Edusmies Hollmen:
         </note>
         <u xml:id="i-4FiAfbdTCzRz9sZREWS9j8" who="unknown">
@@ -9747,7 +9747,7 @@
             Kannatan valiokunnan yhteensovitusehdotusta.
           </seg>
         </u>
-        <note xml:id="i-CQhxjZCtT6quPFbz7ByUrU" type="speaker" xml:lang="fi">
+        <note xml:id="i-CQhxjZCtT6quPFbz7ByUrU" xml:lang="fi" type="speaker">
           Edusmies Eriksson:
         </note>
         <u xml:id="i-LLCjfJb8FEFooBBiqvtqSj" who="i-BErd1xbD4tu5tZsqSXAGg3">
@@ -9808,7 +9808,7 @@
         <note xml:id="i-XizJE7pMxiWtFqZP9nq3eT" xml:lang="fi">
           Edusmies Suutarla niinikään teki vastalauseen.
         </note>
-        <note xml:id="i-Ez2cVM5U8e84sVXKNBT4pz" type="speaker" xml:lang="fi">
+        <note xml:id="i-Ez2cVM5U8e84sVXKNBT4pz" xml:lang="fi" type="speaker">
           Edusmies Eklund:
         </note>
         <u xml:id="i-5BfdzvkCVXqRs9QC8VoAyY" who="i-UuNpejz63DNoacNWFAFjXE">
@@ -9820,7 +9820,7 @@
             mot densamma.
           </seg>
         </u>
-        <note xml:id="i-M9mLnPdd46ePhuV4sBueNs" type="speaker" xml:lang="fi">
+        <note xml:id="i-M9mLnPdd46ePhuV4sBueNs" xml:lang="fi" type="speaker">
           Edusmies Lindberg:
         </note>
         <u xml:id="i-PAaysUQKYW3BfM7msDt8iN" who="unknown">
@@ -9832,7 +9832,7 @@
             dylikt förslag icke skulle fä upptagas till pröfning.
           </seg>
         </u>
-        <note xml:id="i-J5eG2oAtf38cwk7Go2SbZp" type="speaker" xml:lang="fi">
+        <note xml:id="i-J5eG2oAtf38cwk7Go2SbZp" xml:lang="fi" type="speaker">
           Edusmies Flygare:
         </note>
         <u xml:id="i-2prYxQ5viGD5x2QVtG6ArP" who="i-Vh1dqy2xKpjHzkQPmypXH2">
@@ -9844,7 +9844,7 @@
         <note xml:id="i-Pkvh9jjM1K2pwAy27Bv4Vo" xml:lang="fi">
           Edusmies Näs yhdistyi edusm. Flygaren vastalauseeseen.
         </note>
-        <note xml:id="i-J9xC3VfDspyt2c2g1g35Ub" type="speaker" xml:lang="fi">
+        <note xml:id="i-J9xC3VfDspyt2c2g1g35Ub" xml:lang="fi" type="speaker">
           Edusmies Koskelin:
         </note>
         <u xml:id="i-NdNtKLQePFLv7ZfpNuDynL" who="i-VprBVce4soGLYgngLSjo1p">
@@ -9856,7 +9856,7 @@
             sen johdosta pyydän pöytäkirjaan lausua paheksumiseni.
           </seg>
         </u>
-        <note xml:id="i-AopiTycuYvuM2tMBY559TW" type="speaker" xml:lang="fi">
+        <note xml:id="i-AopiTycuYvuM2tMBY559TW" xml:lang="fi" type="speaker">
           Edusmies Hoikka:
         </note>
         <u xml:id="i-H8xWn26QRjHMagHFsMThJM" who="unknown">
@@ -9919,7 +9919,7 @@
           II undergått ändring är det väl lämpligare att säga såsom jag
           antydde. Detta är dock egentligen endast en redaktionsangelägenhet.
         </note>
-        <note xml:id="i-YYHGuHF19T7ybENpCTYUMx" type="speaker" xml:lang="fi">
+        <note xml:id="i-YYHGuHF19T7ybENpCTYUMx" xml:lang="fi" type="speaker">
           Edusmies Tensikkala:
         </note>
         <u xml:id="i-BfLSzCRFsFGfcCvJLqkhLG" who="i-3SZWVADXp26LoEUsfMXtuW">
@@ -9941,7 +9941,7 @@
           ei tarkoiteta muiden pykälien muutoksia kuin ainoastaan perustuslainluontoisten
           pykälien.
         </note>
-        <note xml:id="i-826yLuA5uhT78ENpCKRAh2" type="speaker" xml:lang="fi">
+        <note xml:id="i-826yLuA5uhT78ENpCKRAh2" xml:lang="fi" type="speaker">
           Edusmies Lindberg:
         </note>
         <u xml:id="i-TZCQavDs4GGxCe5MdqU3pQ" who="unknown">
@@ -9961,7 +9961,7 @@
         <note xml:id="i-UZ1WFGxgBBFQD3XBvoRU48" xml:lang="fi">
           182 Talonpoikaissääty 1899.
         </note>
-        <note xml:id="i-fzuoBSqXPjZAMkJP4Vvpo" type="speaker" xml:lang="fi">
+        <note xml:id="i-fzuoBSqXPjZAMkJP4Vvpo" xml:lang="fi" type="speaker">
           Edusmies Bremer:
         </note>
         <u xml:id="i-SvDCRWWxqYkKM5MWRsTVzd" who="i-HjfmDsS4k6Zju4rc3Q8bpb">
@@ -9971,7 +9971,7 @@
             pitää otsakirjoitukseen mahtua.
           </seg>
         </u>
-        <note xml:id="i-WvtZmL1TTDCJ5g2ACsCwsC" type="speaker" xml:lang="fi">
+        <note xml:id="i-WvtZmL1TTDCJ5g2ACsCwsC" xml:lang="fi" type="speaker">
           Edusmies Teittinen:
         </note>
         <u xml:id="i-7QevQKmkPB3dGjDAu3ezye" who="i-M9GEjZeNs7B27BfEGmJYSN">
@@ -9989,7 +9989,7 @@
             se on, niinkuin edusm. Lindbergkin on myöntänyt, redaktsioonikysymys.
           </seg>
         </u>
-        <note xml:id="i-212pUV26AXHwyPG3TRx4MJ" type="speaker" xml:lang="fi">
+        <note xml:id="i-212pUV26AXHwyPG3TRx4MJ" xml:lang="fi" type="speaker">
           Edusmies Vuolijoki:
         </note>
         <u xml:id="i-3uhhi6hzP14dKSPLXZeuia" who="unknown">
@@ -10047,7 +10047,7 @@
           valiokuntia, ja että Sääty ei ole päättänyt ettei tuota sanamuotoa,
           joka näkyy olevan ilmeinen erehdys, saataisi muuttaa.
         </note>
-        <note xml:id="i-Jbvc2dj3emj461qtfrQGUY" type="speaker" xml:lang="fi">
+        <note xml:id="i-Jbvc2dj3emj461qtfrQGUY" xml:lang="fi" type="speaker">
           Edusmies Lindberg:
         </note>
         <u xml:id="i-9aFfKd1RsJJ725hHEszDUU" who="unknown">

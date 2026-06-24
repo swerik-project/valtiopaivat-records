@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="ptk_1904-1905_porvaristo_I">
   <teiHeader>
     <fileDesc>
@@ -1265,7 +1265,7 @@
           vara att hr talmannen inskränker sig till de ord, som här senast
           upplästes.
         </note>
-        <note xml:id="i-JuSb3bUFr99WEeReULaoNR" type="speaker" xml:lang="unknown">
+        <note xml:id="i-JuSb3bUFr99WEeReULaoNR" xml:lang="unknown" type="speaker">
           Hra Cederberg:
         </note>
         <u xml:id="i-8WdBbwcHUtSoQbZdQU5mW5" who="unknown">
@@ -1516,7 +1516,7 @@
           Hra Hallberg pyysi puheenvuoroa ja lausui: Jag anhäller fä föreslä
           att med elektorsvalet mätte anstä till första plenum i nästa vecka.
         </note>
-        <note xml:id="i-7Y3HbKgJFHV6uNzfDwvSSS" type="speaker" xml:lang="fi">
+        <note xml:id="i-7Y3HbKgJFHV6uNzfDwvSSS" xml:lang="fi" type="speaker">
           Hra Ohman:
         </note>
         <u xml:id="i-RhzTDYAb2cVwaqHtktPFTi" who="unknown">
@@ -1535,7 +1535,7 @@
           kolailla kasvanut siitä kun valitsijamiesten lukumäärä määrättiin
           21:ksi, pyytäisin ehdottaa tämän luvun lisättäväksi 25:ksi.
         </note>
-        <note xml:id="i-LUgV5BPWd7Hpf5YRVJZAMj" type="speaker" xml:lang="fi">
+        <note xml:id="i-LUgV5BPWd7Hpf5YRVJZAMj" xml:lang="fi" type="speaker">
           Hra Öhman:
         </note>
         <u xml:id="i-6rFqQBNSCxnW59apVeeNvM" who="unknown">
@@ -1553,7 +1553,7 @@
           21. För att nu yttermera öka antalet synes mig icke tillräckliga
           skäl föreligga.
         </note>
-        <note xml:id="i-Y7RvESyLFsrp4Avrt1tHDE" type="speaker" xml:lang="sv">
+        <note xml:id="i-Y7RvESyLFsrp4Avrt1tHDE" xml:lang="sv" type="speaker">
           Hra Idman:
         </note>
         <u xml:id="i-T2eU1hDvuFmN5vWuz3MyBV" who="unknown">
@@ -1896,7 +1896,7 @@
           och hoppas jag också, att ständerna skola få tillfälle att i detta
           afseende snart uttala sig.
         </note>
-        <note xml:id="i-UwVrJkx2dqkxFgsQz1g1j5" type="speaker" xml:lang="fi">
+        <note xml:id="i-UwVrJkx2dqkxFgsQz1g1j5" xml:lang="fi" type="speaker">
           Hra Öhman:
         </note>
         <u xml:id="i-CEaH6tKEnm7dLsLC3jPyqL" who="unknown">
@@ -1906,7 +1906,7 @@
             icke för närvarande hos oss förefinnas.
           </seg>
         </u>
-        <note xml:id="i-ACkwbqcWeoGPkVLvcaYiPL" type="speaker" xml:lang="fi">
+        <note xml:id="i-ACkwbqcWeoGPkVLvcaYiPL" xml:lang="fi" type="speaker">
           Hra Alin:
         </note>
         <u xml:id="i-JgwfsvdT6uiuJGnn8114MJ" who="unknown">
@@ -2115,7 +2115,7 @@
           om att denna skrifvelse också bordlägges till samma plenum, som
           jag sist föreslog, d. v. s. till första plenum efter jul.
         </note>
-        <note xml:id="i-3PQvtV1Wz6EBkzFfyvs56f" type="speaker" xml:lang="sv">
+        <note xml:id="i-3PQvtV1Wz6EBkzFfyvs56f" xml:lang="sv" type="speaker">
           Hra Stählberg:
         </note>
         <u xml:id="i-UGtb9RxVV1yUiaE2JCWKAX" who="unknown">
@@ -2129,7 +2129,7 @@
             pantaisiin pöydälle ensi istuntoon.
           </seg>
         </u>
-        <note xml:id="i-PfaMKS437ssE2HP5RCQgvJ" type="speaker" xml:lang="sv">
+        <note xml:id="i-PfaMKS437ssE2HP5RCQgvJ" xml:lang="sv" type="speaker">
           Hra Ingman:
         </note>
         <u xml:id="i-45hPEHq2XWtzKayyevxSca" who="unknown">
@@ -2139,7 +2139,7 @@
             aikaa jäisivät ilman hoitokuntaa.
           </seg>
         </u>
-        <note xml:id="i-CZpn8XXWVdWHU5AJY95s7d" type="speaker" xml:lang="sv">
+        <note xml:id="i-CZpn8XXWVdWHU5AJY95s7d" xml:lang="sv" type="speaker">
           Hra Stenström:
         </note>
         <u xml:id="i-GzkDJ94dt8a1vJcjZU9caQ" who="unknown">
@@ -3051,7 +3051,7 @@
           mig föreslä att denna petition mätte bordläggas till första plenum
           under nästa är.
         </note>
-        <note xml:id="i-FwsHiQHW8uSG8P23fVUbCV" type="speaker" xml:lang="sv">
+        <note xml:id="i-FwsHiQHW8uSG8P23fVUbCV" xml:lang="sv" type="speaker">
           Hra Ansas:
         </note>
         <u xml:id="i-7rqJYRYY3aMbGuksBWAV3w" who="unknown">
@@ -3061,7 +3061,7 @@
             nyt heti.
           </seg>
         </u>
-        <note xml:id="i-AwPZG1dKPAkDrZ9349i3fD" type="speaker" xml:lang="unknown">
+        <note xml:id="i-AwPZG1dKPAkDrZ9349i3fD" xml:lang="unknown" type="speaker">
           Hra Latva:
         </note>
         <u xml:id="i-9mSUEoPUnzWffDBPV9aUCW" who="unknown">
@@ -3070,7 +3070,7 @@
             että se viipymättä lähetettäisiin yleiseen anomusvaliokuntaan.
           </seg>
         </u>
-        <note xml:id="i-CS288e4BX7c6wZnKqnN5sd" type="speaker" xml:lang="sv">
+        <note xml:id="i-CS288e4BX7c6wZnKqnN5sd" xml:lang="sv" type="speaker">
           Hra Stenström:
         </note>
         <u xml:id="i-VpLmKBM6A1jBWEntxr7F7i" who="unknown">
@@ -3189,7 +3189,7 @@
           behandling under nuvarande situation är af omständigheterna motiverad
           och möjlig.
         </note>
-        <note xml:id="i-3ZeZ8SD5qaRZsWv1hWzj48" type="speaker" xml:lang="sv">
+        <note xml:id="i-3ZeZ8SD5qaRZsWv1hWzj48" xml:lang="sv" type="speaker">
           Hra Ståhlberg:
         </note>
         <u xml:id="i-6NrCKr6zFiHfF1S5PT3evV" who="unknown">
@@ -3490,7 +3490,7 @@
           Hra Alfthan pyysi, että anomusehdotus lähetettäisiin asianomaiseen
           valiokuntaan.
         </note>
-        <note xml:id="i-RqpxDYoD4418Yoq4Tnb1eG" type="speaker" xml:lang="unknown">
+        <note xml:id="i-RqpxDYoD4418Yoq4Tnb1eG" xml:lang="unknown" type="speaker">
           Hra Holmberg:
         </note>
         <u xml:id="i-QQoULEFuYDmGfz24TnXQsv" who="unknown">
@@ -3558,7 +3558,7 @@
           minä puolestani en ole mitään tietänyt siitä, mistä hra Jansson
           tässä on puhunut.
         </note>
-        <note xml:id="i-3zVqWeYeqUBWTbJWqwYZBc" type="speaker" xml:lang="sv">
+        <note xml:id="i-3zVqWeYeqUBWTbJWqwYZBc" xml:lang="sv" type="speaker">
           Hra Hammarström:
         </note>
         <u xml:id="i-PdXBzyc8dAfoDrEzSvYS58" who="unknown">
@@ -3570,7 +3570,7 @@
             till första plenum 1905.
           </seg>
         </u>
-        <note xml:id="i-uJEUSxVfGLZ5YyiXnVqx3" type="speaker" xml:lang="sv">
+        <note xml:id="i-uJEUSxVfGLZ5YyiXnVqx3" xml:lang="sv" type="speaker">
           Hra Ignatius:
         </note>
         <u xml:id="i-J7Vesq9PNGDfkRUB1c1SSC" who="unknown">
@@ -3581,7 +3581,7 @@
             arbetet, förutsatt att detta sedan kommer att fullföljas.
           </seg>
         </u>
-        <note xml:id="i-TqdqcdH8Hes2uxdzdvGSQc" type="speaker" xml:lang="sv">
+        <note xml:id="i-TqdqcdH8Hes2uxdzdvGSQc" xml:lang="sv" type="speaker">
           Hra Lundenius:
         </note>
         <u xml:id="i-Lj7EBkySDCgkMD9YoHVrvu" who="unknown">
@@ -3601,7 +3601,7 @@
           i denna sak och jag skulle därför anse det vara en märklig inkonsekvens,
           om denna remiss nu blefve annorlunda behandlad än den förra.
         </note>
-        <note xml:id="i-VqTamNyL8U6ToTyE1bhgc5" type="speaker" xml:lang="sv">
+        <note xml:id="i-VqTamNyL8U6ToTyE1bhgc5" xml:lang="sv" type="speaker">
           Hra Lundson:
         </note>
         <u xml:id="i-WXsyT9rp778Ft4NoLmaYSC" who="unknown">
@@ -3613,7 +3613,7 @@
             pöydälle panemista tulevan vuoden ensi täysi-istuntoon.
           </seg>
         </u>
-        <note xml:id="i-V9QJNNmHUBAE4Tv3DCjgz7" type="speaker" xml:lang="sv">
+        <note xml:id="i-V9QJNNmHUBAE4Tv3DCjgz7" xml:lang="sv" type="speaker">
           Hra Ingman:
         </note>
         <u xml:id="i-7dZsFETykYHJUf46r4jusX" who="unknown">
@@ -3658,7 +3658,7 @@
         <note xml:id="i-K7yDzzPmh9kJT2M69u9jQE" xml:lang="fi">
           20 p. jouluk. Hätäaputoimia. 63
         </note>
-        <note xml:id="i-7Un1tU6Nny6BPWx6BSSxK6" type="speaker" xml:lang="fi">
+        <note xml:id="i-7Un1tU6Nny6BPWx6BSSxK6" xml:lang="fi" type="speaker">
           Hra Killinen:
         </note>
         <u xml:id="i-6zDHnVowEo69syaTSjLopB" who="unknown">
@@ -3671,7 +3671,7 @@
             J:n hengen mukaista eikä työlle eduksi.
           </seg>
         </u>
-        <note xml:id="i-R2ZsP4TEcAh48pJbef8kSi" type="speaker" xml:lang="fi">
+        <note xml:id="i-R2ZsP4TEcAh48pJbef8kSi" xml:lang="fi" type="speaker">
           Hra Alin:
         </note>
         <u xml:id="i-9emjbpkG6mHt2KHoNa5DAN" who="unknown">
@@ -3689,7 +3689,7 @@
             ainoa, joka ajattelee asiasta tällä tavoin.
           </seg>
         </u>
-        <note xml:id="i-hMT33RE4ztJoGRzNZkUd1" type="speaker" xml:lang="sv">
+        <note xml:id="i-hMT33RE4ztJoGRzNZkUd1" xml:lang="sv" type="speaker">
           Hra Ansas:
         </note>
         <u xml:id="i-H3zvUHF4aaA5i6Dd8yHBYk" who="unknown">
@@ -3707,7 +3707,7 @@
             noudattakaamme ainakin täydellistä johdonmukaisuutta.
           </seg>
         </u>
-        <note xml:id="i-A6HvqCsmjFdHfkBSyLSiCF" type="speaker" xml:lang="fi">
+        <note xml:id="i-A6HvqCsmjFdHfkBSyLSiCF" xml:lang="fi" type="speaker">
           Hra Öhman:
         </note>
         <u xml:id="i-4KzQt7mu4w6LGybq3fcCHJ" who="unknown">
@@ -3756,7 +3756,7 @@
           till hvilken hr Jansson vill hafva remissen uppskjuten, och säledes
           ännu mindre de nu föreliggande petitionerna.
         </note>
-        <note xml:id="i-Jci7GftRpxTkPjqfLETyGs" type="speaker" xml:lang="sv">
+        <note xml:id="i-Jci7GftRpxTkPjqfLETyGs" xml:lang="sv" type="speaker">
           Hra Stählberg:
         </note>
         <u xml:id="i-3YgzUovMQAvQvLhBLNnE9c" who="unknown">
@@ -3772,7 +3772,7 @@
             olleet jo toista kuukautta koolla.
           </seg>
         </u>
-        <note xml:id="i-9noJSG2eSuxhHaHghK7xcP" type="speaker" xml:lang="sv">
+        <note xml:id="i-9noJSG2eSuxhHaHghK7xcP" xml:lang="sv" type="speaker">
           Hra Björklund:
         </note>
         <u xml:id="i-8aT8Dfsr7SHid9CSkFASXK" who="i-RE9ioS2PcNCNiD9EFU1fDJ">
@@ -4277,7 +4277,7 @@
           jag, att äfven detta petitionsmemorial mätte bordläggas till första
           plenum 1905.
         </note>
-        <note xml:id="i-NC6CTwzE4C38aFxDVckKVQ" type="speaker" xml:lang="unknown">
+        <note xml:id="i-NC6CTwzE4C38aFxDVckKVQ" xml:lang="unknown" type="speaker">
           Hra Latva:
         </note>
         <u xml:id="i-8tiM6BWnkQc6HxaeTXQSkU" who="unknown">
@@ -4289,7 +4289,7 @@
             puolustan anomusehdotuksen Jähettämistä erityiseen valitusvaliokuntaan.
           </seg>
         </u>
-        <note xml:id="i-PabnUGkGKziu1PqTpMXcDc" type="speaker" xml:lang="sv">
+        <note xml:id="i-PabnUGkGKziu1PqTpMXcDc" xml:lang="sv" type="speaker">
           Hra Ignatius:
         </note>
         <u xml:id="i-YQE1fWKKAJThFXEWYJxxZQ" who="unknown">
@@ -4330,7 +4330,7 @@
         <note xml:id="i-PQBbqzFVfojjeVnSqtwnAQ" xml:lang="fi">
           74 Kokoontumis- ja lausuntovapaus. 20 p. jouluk.
         </note>
-        <note xml:id="i-5AyXL7Tk2WBoTNDXCBxJWW" type="speaker" xml:lang="sv">
+        <note xml:id="i-5AyXL7Tk2WBoTNDXCBxJWW" xml:lang="sv" type="speaker">
           Hra Spoof:
         </note>
         <u xml:id="i-QCvcDdt9mDhZA1C6Bx2TLk" who="unknown">
@@ -4342,7 +4342,7 @@
             taas minun mielestäni olisi erikseen käsiteltävä.
           </seg>
         </u>
-        <note xml:id="i-7egEBUTT7PYzWesDm241Ue" type="speaker" xml:lang="sv">
+        <note xml:id="i-7egEBUTT7PYzWesDm241Ue" xml:lang="sv" type="speaker">
           Hra Lindroos:
         </note>
         <u xml:id="i-3DMYNhno6GuQDReCnkKF9j" who="unknown">
@@ -4360,7 +4360,7 @@
             käsiteltäväksi samanluontoisten asiain kanssa.
           </seg>
         </u>
-        <note xml:id="i-Haf2DFrfAV4QsSByMEYsNr" type="speaker" xml:lang="fi">
+        <note xml:id="i-Haf2DFrfAV4QsSByMEYsNr" xml:lang="fi" type="speaker">
           Hra Pietinen:
         </note>
         <u xml:id="i-3L1mQ7V58iPngbkSYVSmqi" who="unknown">
@@ -17164,7 +17164,7 @@
           kanssa tästä asiasta ja että hänellä ei ole mitään tällaista menettelytapaa
           vastaan.
         </note>
-        <note xml:id="i-DPRE5CtuQWsTY7wqAYsrDB" type="speaker" xml:lang="sv">
+        <note xml:id="i-DPRE5CtuQWsTY7wqAYsrDB" xml:lang="sv" type="speaker">
           Hra Rengvist:
         </note>
         <u xml:id="i-DY8xEh5u7WY7koT3CMfzR8" who="unknown">
@@ -17212,7 +17212,7 @@
           nu föreslagits, icke är nödvändig, men skulle dock af ständerbibliotekarien
           önska inhämta närmare upplysningar härom innan frägan afgjordes.
         </note>
-        <note xml:id="i-NNhTprBpAK4A92ZPqBCwG5" type="speaker" xml:lang="fi">
+        <note xml:id="i-NNhTprBpAK4A92ZPqBCwG5" xml:lang="fi" type="speaker">
           Hra Killinen:
         </note>
         <u xml:id="i-BvwkUL2jG1dDYkgu7AQZrw" who="unknown">
@@ -17225,7 +17225,7 @@
             m. m. valtiopäiväasiakirjoja niin paljon kuin mahdollista.
           </seg>
         </u>
-        <note xml:id="i-CgGDxr3kLtGzRsxqEhZv4b" type="speaker" xml:lang="fi">
+        <note xml:id="i-CgGDxr3kLtGzRsxqEhZv4b" xml:lang="fi" type="speaker">
           Hra Hallberg:
         </note>
         <u xml:id="i-MYBt4dhPf5eyNJfnDJjh44" who="unknown">
@@ -17240,7 +17240,7 @@
             finnas en särskild finsk upplaga.
           </seg>
         </u>
-        <note xml:id="i-2ivXw8EvbRDvL8zN96nuU7" type="speaker" xml:lang="sv">
+        <note xml:id="i-2ivXw8EvbRDvL8zN96nuU7" xml:lang="sv" type="speaker">
           Hra Renqvist:
         </note>
         <u xml:id="i-5zkxywk24VDmRzSuk9Ba7U" who="unknown">
@@ -17255,7 +17255,7 @@
             sig desamma.
           </seg>
         </u>
-        <note xml:id="i-8WAzbF75ptuYeE3CBZbbWt" type="speaker" xml:lang="fi">
+        <note xml:id="i-8WAzbF75ptuYeE3CBZbbWt" xml:lang="fi" type="speaker">
           Hra Mikkola:
         </note>
         <u xml:id="i-3hoqJ3kMHweXwkBeunw2A5" who="unknown">
@@ -17555,7 +17555,7 @@
           att petitionsmemorialet mätte bordläggas till första plenum nästa
           är.
         </note>
-        <note xml:id="i-4TVxCb3iGgXa4RK1Sv24Lg" type="speaker" xml:lang="sv">
+        <note xml:id="i-4TVxCb3iGgXa4RK1Sv24Lg" xml:lang="sv" type="speaker">
           Hra Durchman:
         </note>
         <u xml:id="i-ALSBdUQL63Lsf3Me85rV2g" who="unknown">
@@ -17744,7 +17744,7 @@
           att därefter en hänvisning till särskilda besvärutskottet vore
           den enda tänkbara och riktiga ätgärden.
         </note>
-        <note xml:id="i-16ezFzMrwdc8hhMitwCYrh" type="speaker" xml:lang="sv">
+        <note xml:id="i-16ezFzMrwdc8hhMitwCYrh" xml:lang="sv" type="speaker">
           Hra Spoof:
         </note>
         <u xml:id="i-8XCmPaWvAuUFBd3fWkG4hW" who="unknown">
@@ -17753,7 +17753,7 @@
             pyydän kaikin puolin saada sitä kannattaa.
           </seg>
         </u>
-        <note xml:id="i-GbhtsNzndn6A47REAhbazF" type="speaker" xml:lang="unknown">
+        <note xml:id="i-GbhtsNzndn6A47REAhbazF" xml:lang="unknown" type="speaker">
           Hra Cederberg:
         </note>
         <u xml:id="i-E67uQ1i6HDa6v7yTrWnB3x" who="unknown">
@@ -17765,7 +17765,7 @@
             yrkanden.
           </seg>
         </u>
-        <note xml:id="i-DKj5dC5oUoJQKV7b2o9qYb" type="speaker" xml:lang="unknown">
+        <note xml:id="i-DKj5dC5oUoJQKV7b2o9qYb" xml:lang="unknown" type="speaker">
           Hra Snellman:
         </note>
         <u xml:id="i-B6rQLao59DY1Cwvx1SyDms" who="unknown">
@@ -17778,7 +17778,7 @@
         <note xml:id="i-WBm2XTTUJ1XfA4rkCEZbdR" xml:lang="fi">
           Hrt Idman, Alin ja Karvonen ilmoittivat yhtyvänsä anomusehdotukseen.
         </note>
-        <note xml:id="i-92cE7iWG1gVcAcCMcF1Wjr" type="speaker" xml:lang="sv">
+        <note xml:id="i-92cE7iWG1gVcAcCMcF1Wjr" xml:lang="sv" type="speaker">
           Hra Lundenius:
         </note>
         <u xml:id="i-4VUKtv5vxSCwrUjMT8dHD5" who="unknown">
@@ -17789,7 +17789,7 @@
             ansluter mig till hr Janssons andragande.
           </seg>
         </u>
-        <note xml:id="i-KgGVRTrX84f1rg2EhzNPN1" type="speaker" xml:lang="sv">
+        <note xml:id="i-KgGVRTrX84f1rg2EhzNPN1" xml:lang="sv" type="speaker">
           Hra Söderholm:
         </note>
         <u xml:id="i-9z8zq9AZqGSLWXEkoF3CRb" who="unknown">
@@ -17801,7 +17801,7 @@
         <note xml:id="i-9uGwyFirBvxBNfVDxbbsjA" xml:lang="fi">
           Hra Björklund lausui, että hänkin yhtyi anomuksentekijäin ehdotukseen.
         </note>
-        <note xml:id="i-NFXHLqNS545K4QxSdXAjJM" type="speaker" xml:lang="sv">
+        <note xml:id="i-NFXHLqNS545K4QxSdXAjJM" xml:lang="sv" type="speaker">
           Hra Ignatius:
         </note>
         <u xml:id="i-DdWzvzA9jiVwaV6HvCbmYM" who="unknown">
@@ -17836,7 +17836,7 @@
         <note xml:id="i-4Hc2a2B8hE9YhsiVq1iPiP" xml:lang="fi">
           Hra Dahlström, Ernst, ilmoitti kannattavansa anomusehdotusta.
         </note>
-        <note xml:id="i-MrJFat3HKEVcrNJUnsqANH" type="speaker" xml:lang="fi">
+        <note xml:id="i-MrJFat3HKEVcrNJUnsqANH" xml:lang="fi" type="speaker">
           Hra Liljeroos:
         </note>
         <u xml:id="i-21JZmn4EAVKgnP8VbBSDFZ" who="unknown">
@@ -17845,7 +17845,7 @@
             anomusehdotusta, pyydän saada lausua siihen kaikin puolin yhtyväni.
           </seg>
         </u>
-        <note xml:id="i-YCVL8LWpqLvZyLCHpSch2g" type="speaker" xml:lang="fi">
+        <note xml:id="i-YCVL8LWpqLvZyLCHpSch2g" xml:lang="fi" type="speaker">
           Hra Mattsson:
         </note>
         <u xml:id="i-LpcWU5YsBrv75C9Df7tUJr" who="unknown">
@@ -17854,7 +17854,7 @@
             pä omedelbar remiss utan gärna förenar mig om bordläggning.
           </seg>
         </u>
-        <note xml:id="i-DycHa1t9cVS7icCAEKca2S" type="speaker" xml:lang="fi">
+        <note xml:id="i-DycHa1t9cVS7icCAEKca2S" xml:lang="fi" type="speaker">
           Hra Killinen:
         </note>
         <u xml:id="i-Gukz75adE1SPLyFeSH66px" who="unknown">
@@ -17868,7 +17868,7 @@
             ettei tässä ilmenisi säädyn yksimielinen ajatus.
           </seg>
         </u>
-        <note xml:id="i-A59CHYp6vKYPz81VtzpkGk" type="speaker" xml:lang="sv">
+        <note xml:id="i-A59CHYp6vKYPz81VtzpkGk" xml:lang="sv" type="speaker">
           Hra Lundson:
         </note>
         <u xml:id="i-Ltzb1V4wvEiCaGEdZ5uYUC" who="unknown">
@@ -18404,7 +18404,7 @@
           Anomusehdotuksen ponnet luki julki hra Liljeroos, joka sitten
           pyysi asian pantavaksi pöydälle tulevan vuoden ensimäiseen täysi-istuntoon.
         </note>
-        <note xml:id="i-A4BKRCitPHDd5JKFtm4oLe" type="speaker" xml:lang="sv">
+        <note xml:id="i-A4BKRCitPHDd5JKFtm4oLe" xml:lang="sv" type="speaker">
           Hra Rengvist:
         </note>
         <u xml:id="i-PbBaMdZaqtfvJz2fCktX7V" who="unknown">
@@ -18413,7 +18413,7 @@
             istuntoon samoin kuin kysymys painoasioista.
           </seg>
         </u>
-        <note xml:id="i-B8wyw8hTiPcycs6d6ibEnE" type="speaker" xml:lang="fi">
+        <note xml:id="i-B8wyw8hTiPcycs6d6ibEnE" xml:lang="fi" type="speaker">
           Hra Hynön:
         </note>
         <u xml:id="i-5RJyHcTXWxy3jPjvCkQxtp" who="unknown">
@@ -19011,7 +19011,7 @@
           kuten muutkin kouluasiat, pöydälle ensimäiseen täysiistuntoon
           ensi vuonna.
         </note>
-        <note xml:id="i-UdCB2RLhmmicx8C8ZRFmaD" type="speaker" xml:lang="sv">
+        <note xml:id="i-UdCB2RLhmmicx8C8ZRFmaD" xml:lang="sv" type="speaker">
           Hra Lundenius:
         </note>
         <u xml:id="i-B5KHtupa5TmRstsBoivtz2" who="unknown">
@@ -19167,7 +19167,7 @@
           Esitettävä asia on niin tärkeä, että kaikki muodollisuudet ovat
           saatettavat oheen; aikomukseni oli ainoastaan odottaa vastalausetta.
         </note>
-        <note xml:id="i-VNDdEZKawJgffyPF235dQd" type="speaker" xml:lang="fi">
+        <note xml:id="i-VNDdEZKawJgffyPF235dQd" xml:lang="fi" type="speaker">
           Hra Kokkonen:
         </note>
         <u xml:id="i-4Fy9j14KFNGUCnHwGCZrPv" who="unknown">
@@ -19184,7 +19184,7 @@
             mietinnön pöydälle panossa.
           </seg>
         </u>
-        <note xml:id="i-UYY7y6xcXiPfLxyuyJPxkm" type="speaker" xml:lang="fi">
+        <note xml:id="i-UYY7y6xcXiPfLxyuyJPxkm" xml:lang="fi" type="speaker">
           Hra Alin:
         </note>
         <u xml:id="i-8BWauye1EatVbmUpdAzWkM" who="unknown">
@@ -19200,7 +19200,7 @@
             yhtymään siihen ehdotukseen, että mietintö pannaan pöydälle.
           </seg>
         </u>
-        <note xml:id="i-XYZ7aD49mRmKPdCoH3WLev" type="speaker" xml:lang="fi">
+        <note xml:id="i-XYZ7aD49mRmKPdCoH3WLev" xml:lang="fi" type="speaker">
           Hra Hynön:
         </note>
         <u xml:id="i-KTWvtYEme5tqSXEgwU1TA1" who="unknown">
@@ -19307,7 +19307,7 @@
           bordläggning af detta ärende förslagsvis till andra plenum nästa
           är.
         </note>
-        <note xml:id="i-MjYvKQox8DjBLq8HcuNqKP" type="speaker" xml:lang="sv">
+        <note xml:id="i-MjYvKQox8DjBLq8HcuNqKP" xml:lang="sv" type="speaker">
           Hra Savön:
         </note>
         <u xml:id="i-7rVX8iCp8XfzJkFKdAiZed" who="unknown">
@@ -19502,7 +19502,7 @@
         <note xml:id="i-WdRUJcad8nYs4iFFGvzNs" xml:lang="fi">
           322 Laillisen järjestyksen palauttaminen. 28 p. jouluk.
         </note>
-        <note xml:id="i-Lm5epvkJncNshexGprdhrg" type="speaker" xml:lang="sv">
+        <note xml:id="i-Lm5epvkJncNshexGprdhrg" xml:lang="sv" type="speaker">
           Hra Ståhlberg:
         </note>
         <u xml:id="i-6jk8mefXkJhE1CqULgpaCV" who="unknown">
@@ -19679,7 +19679,7 @@
           Hra Labbar t: Jag ber pä det varmaste få understöda säväl hr
           Janssons förslag som hans uttalande.
         </note>
-        <note xml:id="i-y4tKcg3o7QFpiQzG1HsZy" type="speaker" xml:lang="sv">
+        <note xml:id="i-y4tKcg3o7QFpiQzG1HsZy" xml:lang="sv" type="speaker">
           Hra Renvall:
         </note>
         <u xml:id="i-LkzkzevXzpkYbFCvwGqYbH" who="unknown">
@@ -19707,7 +19707,7 @@
           joka kuitenkin koko maailmalle tunnustaa ja osoittaa sen sisäisen
           hajaannuksen, johon olemme joutuneet.
         </note>
-        <note xml:id="i-CMcAV7YL92M3T6HBwtMdL" type="speaker" xml:lang="fi">
+        <note xml:id="i-CMcAV7YL92M3T6HBwtMdL" xml:lang="fi" type="speaker">
           Hra Hynön:
         </note>
         <u xml:id="i-5AW9uu2aFgBPScNQNKXHyz" who="unknown">
@@ -19931,7 +19931,7 @@
           Beträffande hr Janssons uttalande ber jag att fä ansluta mig
           till hvad hr Stählberg därom redan yttrat.
         </note>
-        <note xml:id="i-X3cegfrscN7tUZnYTfe4Ds" type="speaker" xml:lang="sv">
+        <note xml:id="i-X3cegfrscN7tUZnYTfe4Ds" xml:lang="sv" type="speaker">
           Hra Alfthan:
         </note>
         <u xml:id="i-BA97G2adj1pzk3LtWPxYfw" who="unknown">
@@ -20227,7 +20227,7 @@
           siis hra Janssonin esityksen semmoisenaan olevan hyljättävän pitemmittä
           keskusteluitta.
         </note>
-        <note xml:id="i-6Y2ShiyEyUCaauVoburLAE" type="speaker" xml:lang="sv">
+        <note xml:id="i-6Y2ShiyEyUCaauVoburLAE" xml:lang="sv" type="speaker">
           Hra Renlund:
         </note>
         <u xml:id="i-Cw9tt1twcD2roaoGRddGNW" who="unknown">
@@ -20236,7 +20236,7 @@
             uttalande.
           </seg>
         </u>
-        <note xml:id="i-MRGGhM7419G7QHnVoFPtET" type="speaker" xml:lang="fi">
+        <note xml:id="i-MRGGhM7419G7QHnVoFPtET" xml:lang="fi" type="speaker">
           Hra Pietinen:
         </note>
         <u xml:id="i-3aSG5xMoBLtMLpD6EBpV6a" who="unknown">
@@ -20276,7 +20276,7 @@
           Hra Janssonin ehdotusta minä puolestani en toivoisi tässä istunnossa
           käsiteltävän, vaan toivoisin sen lykättävän toistaiseksi.
         </note>
-        <note xml:id="i-WUkykK5QAfm8EWinpWQtEr" type="speaker" xml:lang="sv">
+        <note xml:id="i-WUkykK5QAfm8EWinpWQtEr" xml:lang="sv" type="speaker">
           Hra Ansas:
         </note>
         <u xml:id="i-QQi8Q85cXojfc2tCqd3Bsn" who="unknown">
@@ -20489,7 +20489,7 @@
           något blefve skärpt med ledning af de fakta, som jag här haft
           äran för vällofliga borgareståndet anföra.
         </note>
-        <note xml:id="i-15rDWbXk62w8QCdKFfKiMB" type="speaker" xml:lang="sv">
+        <note xml:id="i-15rDWbXk62w8QCdKFfKiMB" xml:lang="sv" type="speaker">
           Hra Ingman:
         </note>
         <u xml:id="i-5abWKcyGzNNMzaxWqereb7" who="unknown">
@@ -20558,7 +20558,7 @@
           ehdotuksen johdosta yhtyä niihin, jotka ovat puolustaneet sen
           huomioon ottamatta jättämistä.
         </note>
-        <note xml:id="i-5NrK5Lp8JdeUM8jhXktK9Y" type="speaker" xml:lang="sv">
+        <note xml:id="i-5NrK5Lp8JdeUM8jhXktK9Y" xml:lang="sv" type="speaker">
           Hra Hammarström:
         </note>
         <u xml:id="i-8tgw2Ph3WUmDn8ybJBhohU" who="unknown">
@@ -20655,7 +20655,7 @@
           för ett normalt ständerarbete för närvarande saknas, icke i nägon
           händelse mä förvanskas.
         </note>
-        <note xml:id="i-27aEeofXZGxfRsqsDEMWLD" type="speaker" xml:lang="fi">
+        <note xml:id="i-27aEeofXZGxfRsqsDEMWLD" xml:lang="fi" type="speaker">
           Hra Öhman:
         </note>
         <u xml:id="i-CuWrYrRHZ1Svo7ZCg6aMsp" who="unknown">
@@ -20738,7 +20738,7 @@
           måtte tillsvidare bordläggas för att, efter det förevarande ärende
           blifvit slutbehandladt, komma under ståndets pröfning.
         </note>
-        <note xml:id="i-72hhgB2978W5oeT63yTRWE" type="speaker" xml:lang="sv">
+        <note xml:id="i-72hhgB2978W5oeT63yTRWE" xml:lang="sv" type="speaker">
           Hra Stenström:
         </note>
         <u xml:id="i-SVUs5EbmGAHC4NBTG6nzDb" who="unknown">
@@ -20859,7 +20859,7 @@
           viides toiseksi ja kolmas viimeiseksi, samalla tietysti lauserakennuksia
           sopivalla tavalla muuttaen.
         </note>
-        <note xml:id="i-P3t2v3HdyxjvjLnRJz3VpH" type="speaker" xml:lang="unknown">
+        <note xml:id="i-P3t2v3HdyxjvjLnRJz3VpH" xml:lang="unknown" type="speaker">
           Hra Latva:
         </note>
         <u xml:id="i-W4mhSobSAK2MohER5KLe78" who="unknown">
@@ -20985,7 +20985,7 @@
           mietintöön asevelvollisuuskysymys siinä muodossa, kuin se on vastalauseen
           d-kohdassa.
         </note>
-        <note xml:id="i-BwW64BcQGvDyK9MMZQMzXE" type="speaker" xml:lang="fi">
+        <note xml:id="i-BwW64BcQGvDyK9MMZQMzXE" xml:lang="fi" type="speaker">
           Hra Sundvall:
         </note>
         <u xml:id="i-Loi5WTM6nycLgxbvaFWvKd" who="unknown">
@@ -21132,7 +21132,7 @@
           att ständet ville godkänna betänkandet säsom sädant, utan att
           äterremittera detsamma till utskottet. (Bra).
         </note>
-        <note xml:id="i-Du6fJ9Vv84o7vNUe337MKh" type="speaker" xml:lang="unknown">
+        <note xml:id="i-Du6fJ9Vv84o7vNUe337MKh" xml:lang="unknown" type="speaker">
           Hra Holmberg:
         </note>
         <u xml:id="i-TMQN3kFiAYSAgui6xQH4Du" who="unknown">
@@ -21221,7 +21221,7 @@
           hafva stöd för denna handling i mina valmäns uttalade fordringar
           förrän landtdagsarbetet vidtager.
         </note>
-        <note xml:id="i-5FuwAvfL9ZjxH1X9P6kdWu" type="speaker" xml:lang="unknown">
+        <note xml:id="i-5FuwAvfL9ZjxH1X9P6kdWu" xml:lang="unknown" type="speaker">
           Hra Clouberg:
         </note>
         <u xml:id="i-5p7fKYPQPj3fK7CfKZ8SPE" who="unknown">
@@ -21256,7 +21256,7 @@
         <note xml:id="i-azzutnBW697vVkHBnQ7BN" xml:lang="fi">
           352 Laillisen järjestyksen palauttaminen. 29 p. jouluk.
         </note>
-        <note xml:id="i-Apy9Gu3cNkRcESG2NcYguK" type="speaker" xml:lang="fi">
+        <note xml:id="i-Apy9Gu3cNkRcESG2NcYguK" xml:lang="fi" type="speaker">
           Hra Wiljakainen:
         </note>
         <u xml:id="i-SJeKJr8TKz2BREkHRbQi39" who="unknown">
@@ -21378,7 +21378,7 @@
           kaikkien muiden säätyjen kanssa sekä tämän mietinnön perusteluihin
           että ponsiin. Pyydän siis kannattaa mietintöä.
         </note>
-        <note xml:id="i-6BbWNLKqZEuXUZJuRFbEBM" type="speaker" xml:lang="sv">
+        <note xml:id="i-6BbWNLKqZEuXUZJuRFbEBM" xml:lang="sv" type="speaker">
           Hra Lundenius:
         </note>
         <u xml:id="i-5SkgKpMCpcPR9FkAYYe8fB" who="unknown">
@@ -21526,7 +21526,7 @@
           toivoa siitä, että asian takaisin lykkäämisellä voitaisiin saada
           yksimielistä mietintöä aikaan valiokunnassa.
         </note>
-        <note xml:id="i-UwtCCucvSALyq4T5cch235" type="speaker" xml:lang="fi">
+        <note xml:id="i-UwtCCucvSALyq4T5cch235" xml:lang="fi" type="speaker">
           Hra Mikkola:
         </note>
         <u xml:id="i-U1YfZ6yB2y7qbThKkJAwmv" who="unknown">
@@ -21574,7 +21574,7 @@
           perusteltu ja liian aikaisin nostettu; sen tulokset eivät mielestäni
           voi vastata tehtävän panoksen suuruutta.
         </note>
-        <note xml:id="i-W7pDG2kHj2hFfdxTLBk1GM" type="speaker" xml:lang="sv">
+        <note xml:id="i-W7pDG2kHj2hFfdxTLBk1GM" xml:lang="sv" type="speaker">
           Hra Spoof:
         </note>
         <u xml:id="i-98dAafXNUWg95AYhVVgP9p" who="unknown">
@@ -21597,7 +21597,7 @@
             jää muuta kuin pyytää yhtyä siihen, mitä hra Clouberg lausui.
           </seg>
         </u>
-        <note xml:id="i-XzkG4och32vFMaryJJ3bw" type="speaker" xml:lang="sv">
+        <note xml:id="i-XzkG4och32vFMaryJJ3bw" xml:lang="sv" type="speaker">
           Hra Idman:
         </note>
         <u xml:id="i-FnkYr6VUBhyGQeQTVettWF" who="unknown">
@@ -21621,7 +21621,7 @@
           yhteen tai toiseen suuntaan meneviä muutoksia itse mietinnön perusteluihin.
           Minä siis täydellisesti hyväksyn valiokunnan mietinnön.
         </note>
-        <note xml:id="i-FSrNDbqUEsxYBKgDUY36z8" type="speaker" xml:lang="sv">
+        <note xml:id="i-FSrNDbqUEsxYBKgDUY36z8" xml:lang="sv" type="speaker">
           Hra Björklund:
         </note>
         <u xml:id="i-L1L6egUm6tgrsQ3sc9KhnE" who="i-RE9ioS2PcNCNiD9EFU1fDJ">
@@ -21668,7 +21668,7 @@
         <note xml:id="i-Ttq2PgjEBLMUhiajr91x3d" xml:lang="fi">
           29 p. jouluk. Laillisen järjestyksen palauttaminen. 359
         </note>
-        <note xml:id="i-8F58soFE8en25CWeczVuiK" type="speaker" xml:lang="unknown">
+        <note xml:id="i-8F58soFE8en25CWeczVuiK" xml:lang="unknown" type="speaker">
           Hra Carlström:
         </note>
         <u xml:id="i-4wUTkMs1vCP1Uj8HYsraMv" who="unknown">
@@ -21869,7 +21869,7 @@
           betydelselös förklaring som den, hvilken af hr Jansson förordats.
           (Bra).
         </note>
-        <note xml:id="i-sWvJ1gXcfRgHhoYGwX9FP" type="speaker" xml:lang="sv">
+        <note xml:id="i-sWvJ1gXcfRgHhoYGwX9FP" xml:lang="sv" type="speaker">
           Hra Hammarström:
         </note>
         <u xml:id="i-MFbGrmNUdTGbXkF9cxPD34" who="unknown">
@@ -21891,7 +21891,7 @@
             förvanskad.
           </seg>
         </u>
-        <note xml:id="i-VPC3Qo4EMvVwbiWqEp1iGA" type="speaker" xml:lang="fi">
+        <note xml:id="i-VPC3Qo4EMvVwbiWqEp1iGA" xml:lang="fi" type="speaker">
           Hra Karvonen:
         </note>
         <u xml:id="i-GJxSgfYK1QN3DQ1h4AoEzJ" who="unknown">
@@ -22035,7 +22035,7 @@
           är bäde fullt berättigad och pliktig att följa sitt hedersbegrepp
           icke minst i denna landets lifsfräga. N
         </note>
-        <note xml:id="i-NCzpTfpLMFYFSNYQ6kv1UU" type="speaker" xml:lang="sv">
+        <note xml:id="i-NCzpTfpLMFYFSNYQ6kv1UU" xml:lang="sv" type="speaker">
           Hra Renvall:
         </note>
         <u xml:id="i-Qi38o8bTjv2Yf4nt1L6iy9" who="unknown">
@@ -22125,7 +22125,7 @@
           valiokuntaan ja muutettaisiin niiden toivomusten mukaan, kuin
           useat täällä esiintyneet puhujat ovat ehdottaneet.
         </note>
-        <note xml:id="i-MCgcdYsHh5q3tAfxB7Qc4o" type="speaker" xml:lang="fi">
+        <note xml:id="i-MCgcdYsHh5q3tAfxB7Qc4o" xml:lang="fi" type="speaker">
           Hra Hynön:
         </note>
         <u xml:id="i-6PzKWPSsRoKmJBemB3ycDa" who="unknown">
@@ -22185,7 +22185,7 @@
           Mitä hra Janssonin ehdotukseen tulee, yhdyn täydellisesti siihen,
           mitä hrat Wiljakainen ja Felix Heikel asiassa lausuneet ovat.
         </note>
-        <note xml:id="i-BEzsTNyXTFAorrSGj7dhPd" type="speaker" xml:lang="sv">
+        <note xml:id="i-BEzsTNyXTFAorrSGj7dhPd" xml:lang="sv" type="speaker">
           Hra Labbart:
         </note>
         <u xml:id="i-JS8sTmtw8s7GwFV7XsPpzc" who="unknown">
@@ -22225,7 +22225,7 @@
           skyndsamhet pä det att svar mä hinna härpä anlända, förrän uppbäden
           begynna.
         </note>
-        <note xml:id="i-QL7nfdHBFZr4QiujG4zU9R" type="speaker" xml:lang="unknown">
+        <note xml:id="i-QL7nfdHBFZr4QiujG4zU9R" xml:lang="unknown" type="speaker">
           Hra Clouberg:
         </note>
         <u xml:id="i-XtfbKZmSSiA8mTGHtAvQ6m" who="unknown">
@@ -22299,7 +22299,7 @@
           praktiska skäl i alla fall mäste tagas, öfverlägga och besluta
           hvilka ätgärder, som under därädande förhällanden skola vidtagas.
         </note>
-        <note xml:id="i-BxBAFhEy5eVU2pj1CagDBg" type="speaker" xml:lang="fi">
+        <note xml:id="i-BxBAFhEy5eVU2pj1CagDBg" xml:lang="fi" type="speaker">
           Hra Boisman:
         </note>
         <u xml:id="i-Ennpq2AtyPcPKWU1mSApD6" who="unknown">
@@ -22342,7 +22342,7 @@
           gäng framdeles. Jag för min del vill hälla ständernas händer rena
           frän allt, som kunde innefatta dagtingan med uttalad öfvertygelse.
         </note>
-        <note xml:id="i-EqunmeUSWVsG6k4AA2q6Bh" type="speaker" xml:lang="sv">
+        <note xml:id="i-EqunmeUSWVsG6k4AA2q6Bh" xml:lang="sv" type="speaker">
           Hra Ansas:
         </note>
         <u xml:id="i-Fmk65LHzHCbhTa9Qgdyb6j" who="unknown">
@@ -22482,7 +22482,7 @@
           synes mig, att hvardera inom ständen rädande meningarna riktigast
           komme till uttryck.
         </note>
-        <note xml:id="i-Q94ftkAsq22sXg6fV9Fx12" type="speaker" xml:lang="sv">
+        <note xml:id="i-Q94ftkAsq22sXg6fV9Fx12" xml:lang="sv" type="speaker">
           Hra Ansas:
         </note>
         <u xml:id="i-o826tYntCLXhd5ghoWQNv" who="unknown">
@@ -22505,7 +22505,7 @@
           vuonna 1905 pidettäväksi k:lo 2 p., mutta että tuntimäärä sitten
           käytännöllisistä syistä oli muutettu k:lo 12:ksi p.
         </note>
-        <note xml:id="i-HDwe3T6yoi33E8mCTyd79i" type="speaker" xml:lang="unknown">
+        <note xml:id="i-HDwe3T6yoi33E8mCTyd79i" xml:lang="unknown" type="speaker">
           Hra Carlström:
         </note>
         <u xml:id="i-UX3PwzGSx4m6NC54KYKRbC" who="unknown">
@@ -24582,7 +24582,7 @@
           att petitionen skulle remitteras till ständernas särskilda besvärsutskott
           och att remissen skulle ske utan nägon bordläggning.
         </note>
-        <note xml:id="i-UJHNUedH6WdVxfKr6df636" type="speaker" xml:lang="sv">
+        <note xml:id="i-UJHNUedH6WdVxfKr6df636" xml:lang="sv" type="speaker">
           Hra Labbart:
         </note>
         <u xml:id="i-vK6etwgPDuJwCfKn9qJw8" who="unknown">
@@ -24597,7 +24597,7 @@
           andra petitionsmemorial, ber jag för min del få föreslå bordläggning
           af petitionsmemorialet till andra plenum under nästa år.
         </note>
-        <note xml:id="i-QNE4KYg3BTxPd1EgqW39r8" type="speaker" xml:lang="sv">
+        <note xml:id="i-QNE4KYg3BTxPd1EgqW39r8" xml:lang="sv" type="speaker">
           Hra Lundenius:
         </note>
         <u xml:id="i-U6RjU2LVsgvDoBkXUW2eAe" who="unknown">
@@ -24605,7 +24605,7 @@
             För att förekomma omröstning ber jag att få frångå mitt förslag.
           </seg>
         </u>
-        <note xml:id="i-HrttSDpLqHHjysXkGpoWzf" type="speaker" xml:lang="sv">
+        <note xml:id="i-HrttSDpLqHHjysXkGpoWzf" xml:lang="sv" type="speaker">
           Hra Labbart:
         </note>
         <u xml:id="i-3eh4dWzcG9eNhhmT4twRVm" who="unknown">
@@ -28135,7 +28135,7 @@
           förutsättningar för ett normalt ständerarbete inträdt, mätte taga
           propositionerna under förnyad ompröfning.
         </note>
-        <note xml:id="i-UgGZQbvPevwCzbiwTzQqTn" type="speaker" xml:lang="sv">
+        <note xml:id="i-UgGZQbvPevwCzbiwTzQqTn" xml:lang="sv" type="speaker">
           Hra Hammarström:
         </note>
         <u xml:id="i-6HW81W9UMXbGtvXMweWYHB" who="unknown">
@@ -28180,7 +28180,7 @@
           dä de samtidigt eller kort därpä komma att förklara, att detta
           icke skett under sädana förutsättningar, som gjorde ätgärden laglig.
         </note>
-        <note xml:id="i-6WtYvt1KQe6aft8hZVUJMk" type="speaker" xml:lang="fi">
+        <note xml:id="i-6WtYvt1KQe6aft8hZVUJMk" xml:lang="fi" type="speaker">
           Hra Pietinen:
         </note>
         <u xml:id="i-JaFKJJ6NHwTpksALc6zehH" who="unknown">
@@ -28265,7 +28265,7 @@
           jota kulkeminen olisi oikeinta niin hyvin periaatteen kuin käytännön
           kannalta katsoen.
         </note>
-        <note xml:id="i-9B7kYCwmisHxby4UEig8ga" type="speaker" xml:lang="sv">
+        <note xml:id="i-9B7kYCwmisHxby4UEig8ga" xml:lang="sv" type="speaker">
           Hra Lundson:
         </note>
         <u xml:id="i-Q651gpJwXiDcLCaAXHRGkz" who="unknown">
@@ -28297,7 +28297,7 @@
           asiaa käsittelyn alaiseksi. Näin ollen ei minulla ole muuta tehtävänä
           kuin pyytää yhtyä hra Dahlströmin ehdotukseen.
         </note>
-        <note xml:id="i-MMNKg6NigpL9zwVR5ek1Sv" type="speaker" xml:lang="sv">
+        <note xml:id="i-MMNKg6NigpL9zwVR5ek1Sv" xml:lang="sv" type="speaker">
           Hra Ignatius:
         </note>
         <u xml:id="i-8UqnDSE1rEtCaUxxLJUGpt" who="unknown">
@@ -28386,7 +28386,7 @@
           hr Hallbergs förslag om godkännande af de å sidorna 7 och 8 i
           statsutskottets betänkande upptagna klämmarna.
         </note>
-        <note xml:id="i-2Lf7AuDWobqv2Qi11rVjhu" type="speaker" xml:lang="unknown">
+        <note xml:id="i-2Lf7AuDWobqv2Qi11rVjhu" xml:lang="unknown" type="speaker">
           Hra Holmberg:
         </note>
         <u xml:id="i-GSsQbJvNC1BwMrQd9xzUSH" who="unknown">
@@ -28415,7 +28415,7 @@
         <note xml:id="i-s56atWLiXHoztAWf5P9yY" xml:lang="sv">
           Jag förenar mig i allo med det uttalande, som gjordes af hr Jansson.
         </note>
-        <note xml:id="i-9wfHRT8uAHxT9G8GtQpfaD" type="speaker" xml:lang="fi">
+        <note xml:id="i-9wfHRT8uAHxT9G8GtQpfaD" xml:lang="fi" type="speaker">
           Hra Hallberg:
         </note>
         <u xml:id="i-AMErg4bdRksw6qmz7S1iy5" who="unknown">
@@ -28591,7 +28591,7 @@
           del talare yrkats, på obestämd tid tills svar anländt på ständernas
           framställning om den lagliga ordningens återställande.
         </note>
-        <note xml:id="i-XD9hbuq64PyATuSAM9EzuT" type="speaker" xml:lang="sv">
+        <note xml:id="i-XD9hbuq64PyATuSAM9EzuT" xml:lang="sv" type="speaker">
           Hra Hammarström:
         </note>
         <u xml:id="i-WAUca7j9vNKcrGZHtk21kK" who="unknown">
@@ -28660,7 +28660,7 @@
           besluten, den tid som af utskotten föreslås, ett år eller 6 månader,
           måtte ytterligare inskränkas till 3 månader.
         </note>
-        <note xml:id="i-pNjP9kQc52fNYLXDQps6t" type="speaker" xml:lang="sv">
+        <note xml:id="i-pNjP9kQc52fNYLXDQps6t" xml:lang="sv" type="speaker">
           Hra Idman:
         </note>
         <u xml:id="i-EoZPATKfzx9yPJQhJKbdZH" who="unknown">
@@ -28721,7 +28721,7 @@
           pöydälle huomiseksi. Katson nimittäin aivan tärkeäksi, että asia
           tulee päätetyksi ennen tämän vuoden loppua. i
         </note>
-        <note xml:id="i-SySoaZ1NXxnLSp7XQsbo3M" type="speaker" xml:lang="sv">
+        <note xml:id="i-SySoaZ1NXxnLSp7XQsbo3M" xml:lang="sv" type="speaker">
           Hra Ignatius:
         </note>
         <u xml:id="i-S5FCa4HPpQbKgxY4THV4me" who="unknown">
@@ -28759,7 +28759,7 @@
           en tunga för valmännen. Detta gäller dock naturligtvis icke borgareständet.
           Det var endast detta jag ville framhälla.
         </note>
-        <note xml:id="i-RFDo45mwnrzK2ijo39B3Sh" type="speaker" xml:lang="fi">
+        <note xml:id="i-RFDo45mwnrzK2ijo39B3Sh" xml:lang="fi" type="speaker">
           Hra Sundvall:
         </note>
         <u xml:id="i-SRThRYmLWebdvJBU1gQFZh" who="unknown">
@@ -28798,7 +28798,7 @@
           och rena rättssynpunkter aldrig nägonsin läta sig genom diskussion
           sammanjämkas.
         </note>
-        <note xml:id="i-45dmrSRbJVKwsU2UD6zSvb" type="speaker" xml:lang="sv">
+        <note xml:id="i-45dmrSRbJVKwsU2UD6zSvb" xml:lang="sv" type="speaker">
           Hra Ignatius:
         </note>
         <u xml:id="i-5bnmTZMUXT9w8xjiAVXouN" who="unknown">
@@ -28992,7 +28992,7 @@
           min del har jag icke uti L. O. kunnat finna nägon paragraf, som
           skulle tala därom.
         </note>
-        <note xml:id="i-Lr3QozTutxbq93qrqR2yaY" type="speaker" xml:lang="fi">
+        <note xml:id="i-Lr3QozTutxbq93qrqR2yaY" xml:lang="fi" type="speaker">
           Hra Heimbärger:
         </note>
         <u xml:id="i-BknRT41EFqnPsuyCUPNE6s" who="unknown">
@@ -29009,7 +29009,7 @@
           vasta sitten, kun oli todeksi havaittu, että perustuslaillisia
           edellytyksiä säännölliselle säätytyölle oli olemassa.
         </note>
-        <note xml:id="i-Pv83Ys1eEJPCrcmkVXNNkj" type="speaker" xml:lang="fi">
+        <note xml:id="i-Pv83Ys1eEJPCrcmkVXNNkj" xml:lang="fi" type="speaker">
           Hra Heimbärger:
         </note>
         <u xml:id="i-2L3HMBHgfzVQTkfM6zwfVF" who="unknown">
@@ -29041,7 +29041,7 @@
           särskildt dä man härigenom i själfva värket afskär för ett flertal
           ständsmedlemmar deras förhandlingsrätt.
         </note>
-        <note xml:id="i-2fPTwF5xeHTqcZD1q6tubd" type="speaker" xml:lang="fi">
+        <note xml:id="i-2fPTwF5xeHTqcZD1q6tubd" xml:lang="fi" type="speaker">
           Hra Mikkola:
         </note>
         <u xml:id="i-CG2zzsstMkjW64biBAfstF" who="unknown">
@@ -29058,7 +29058,7 @@
         <note xml:id="i-jjZVGmkg6xVJJrABfqmuV" xml:lang="fi">
           486 Suostuntaverot. 30 p. jouluk.
         </note>
-        <note xml:id="i-CDJcrjeA6cALHCVZ7hw6th" type="speaker" xml:lang="sv">
+        <note xml:id="i-CDJcrjeA6cALHCVZ7hw6th" xml:lang="sv" type="speaker">
           Hra Stählberg:
         </note>
         <u xml:id="i-JQbDMsaSGvg8t6odcwaTnZ" who="unknown">
@@ -29097,7 +29097,7 @@
           protokollet antecknadt, att jag önskar reservera mig rätt att
           omröstningsvis fä fram den ständpunkt, jag i denna sak företrädt.
         </note>
-        <note xml:id="i-3c54ExdDDFnuXDFPkqEv9d" type="speaker" xml:lang="unknown">
+        <note xml:id="i-3c54ExdDDFnuXDFPkqEv9d" xml:lang="unknown" type="speaker">
           Hra Carlström:
         </note>
         <u xml:id="i-2HM3y3BCpTrT25FTjep6ZC" who="unknown">
@@ -29145,7 +29145,7 @@
           och att detsamma omedelbart därefter skulle af ståndet tagas i
           öfvervägande.
         </note>
-        <note xml:id="i-WG2fWZjfmrHqSkq4TqZ7F6" type="speaker" xml:lang="fi">
+        <note xml:id="i-WG2fWZjfmrHqSkq4TqZ7F6" xml:lang="fi" type="speaker">
           Hra Hallberg:
         </note>
         <u xml:id="i-2ygYg7oVzfjSJpt9cgtuny" who="unknown">
@@ -29283,7 +29283,7 @@
         <note xml:id="i-94wvQqKBbee6PQF5Qy4w2o" xml:lang="fi">
           490 Laillisen järjestyksen palauttaminen. 31 p. jouluk.
         </note>
-        <note xml:id="i-93Y8q7wb1bZ248UrBpcNv6" type="speaker" xml:lang="sv">
+        <note xml:id="i-93Y8q7wb1bZ248UrBpcNv6" xml:lang="sv" type="speaker">
           Hra Ignatius:
         </note>
         <u xml:id="i-GTpb3PnyjH9daYv7VnLmA7" who="unknown">
@@ -29356,7 +29356,7 @@
           omredaktion, det vara onödigt att ytterligare förlänga diskusionen
           i denna sak.
         </note>
-        <note xml:id="i-Dtw5xkNdb93aa2yeonfHAM" type="speaker" xml:lang="sv">
+        <note xml:id="i-Dtw5xkNdb93aa2yeonfHAM" xml:lang="sv" type="speaker">
           Hra Schvindt:
         </note>
         <u xml:id="i-Lfp5h3aLfaAbk8LGQkCPhS" who="unknown">
@@ -29364,7 +29364,7 @@
             Hra Ignatius on jo lausunut sen, mitä minä aioin sanoa.
           </seg>
         </u>
-        <note xml:id="i-W2kAKErU7aViQdJutfJ9Xj" type="speaker" xml:lang="fi">
+        <note xml:id="i-W2kAKErU7aViQdJutfJ9Xj" xml:lang="fi" type="speaker">
           Hra Öhman:
         </note>
         <u xml:id="i-PFmqcaVnUq6YzucYQmFenA" who="unknown">
@@ -29421,7 +29421,7 @@
           två här särskildt framhållna. Jag tror, att utskottet på objektiva
           grunder icke kunnat komma till något annat resultat än det gjort.
         </note>
-        <note xml:id="i-CrzjXMUu6atYxHXmFNASJT" type="speaker" xml:lang="fi">
+        <note xml:id="i-CrzjXMUu6atYxHXmFNASJT" xml:lang="fi" type="speaker">
           Hra Pietinen:
         </note>
         <u xml:id="i-8e3frFMJep9oFPfpGaegfg" who="unknown">
@@ -29515,7 +29515,7 @@
           suostuntavaliokunnan mietinnön, kun se aikaan nähden korjataan
           sopusointuisaksi valtiovaliokunnan mietinnön kanssa.
         </note>
-        <note xml:id="i-JsUoW7YqxBr6nv7AVeokbP" type="speaker" xml:lang="sv">
+        <note xml:id="i-JsUoW7YqxBr6nv7AVeokbP" xml:lang="sv" type="speaker">
           Hra Ståhlberg:
         </note>
         <u xml:id="i-WJ6ySpSz9UCwTeA2TL1pkN" who="unknown">
@@ -29750,7 +29750,7 @@
           valtiovaliokunnan ehdotukseen, että väliaikainen suostunta myönnettäisiin
           kokonaiseksi vuodeksi.
         </note>
-        <note xml:id="i-4DbC8FyPkp6vbTuBPs2SAt" type="speaker" xml:lang="fi">
+        <note xml:id="i-4DbC8FyPkp6vbTuBPs2SAt" xml:lang="fi" type="speaker">
           Hra Sumelius:
         </note>
         <u xml:id="i-NvKgcExAHKihydntM2FMWv" who="unknown">
@@ -29795,7 +29795,7 @@
           tiden, som reservanterna förorda, hvarigenom beslutets provisoriska
           natur särskildt blefve betonad.
         </note>
-        <note xml:id="i-2zwXFsAVwXQVo53ykmFirL" type="speaker" xml:lang="fi">
+        <note xml:id="i-2zwXFsAVwXQVo53ykmFirL" xml:lang="fi" type="speaker">
           Hra Pietinen:
         </note>
         <u xml:id="i-Mv9qvN6DE7RHxbtKuH4sPC" who="unknown">
@@ -29824,7 +29824,7 @@
             ottaa osaa tämän asian käsittelemiseen.
           </seg>
         </u>
-        <note xml:id="i-865doya1si6EpF2keG8QYC" type="speaker" xml:lang="fi">
+        <note xml:id="i-865doya1si6EpF2keG8QYC" xml:lang="fi" type="speaker">
           Hra Mikkola:
         </note>
         <u xml:id="i-J5uxrVznByWwnuQBGNpHB5" who="unknown">
@@ -29864,7 +29864,7 @@
           ottaa huomioon ne näkökannat, jotka koskevat tarkoituksenmukaisuutta
           ja yleensä edistävät kansan onnea ja menestystä.
         </note>
-        <note xml:id="i-RCzMzvR83jf3YW95AU6s1D" type="speaker" xml:lang="sv">
+        <note xml:id="i-RCzMzvR83jf3YW95AU6s1D" xml:lang="sv" type="speaker">
           Hra Ansas:
         </note>
         <u xml:id="i-6VqybXLDFKDzu5MQe6JUSM" who="unknown">
@@ -29885,7 +29885,7 @@
             muutoksella, että aika supistettaisiin kuudeksi kuukaudeksi.
           </seg>
         </u>
-        <note xml:id="i-K4k5oeZay621ai4jFg4yGW" type="speaker" xml:lang="sv">
+        <note xml:id="i-K4k5oeZay621ai4jFg4yGW" xml:lang="sv" type="speaker">
           Hra Lundenius:
         </note>
         <u xml:id="i-RPmVhYxREXLRND389EGhv3" who="unknown">
@@ -29927,7 +29927,7 @@
           utöfver 6 månader. Men för dessa 6 månader anser jag oss icke
           kunna undgå densamma.
         </note>
-        <note xml:id="i-4d5qhyypVUhC71QJsawBAM" type="speaker" xml:lang="fi">
+        <note xml:id="i-4d5qhyypVUhC71QJsawBAM" xml:lang="fi" type="speaker">
           Hra Öhman:
         </note>
         <u xml:id="i-oGa6L4cBfURy9vxpfH2S7" who="unknown">
@@ -29949,7 +29949,7 @@
             kläm på sidd. 14 och 15.
           </seg>
         </u>
-        <note xml:id="i-MHEr7xuaqksMpbfhAUdtbR" type="speaker" xml:lang="unknown">
+        <note xml:id="i-MHEr7xuaqksMpbfhAUdtbR" xml:lang="unknown" type="speaker">
           Hra Clouberg:
         </note>
         <u xml:id="i-6WQuasVuTNpUG3zqnqovqh" who="unknown">
@@ -30205,7 +30205,7 @@
           få anmäla, att jag på de af mig förut anförda principiella skälen
           anser mig förhindrad att deltaga i ärendets vidare behandling.
         </note>
-        <note xml:id="i-AodoaQe1wvqkyesQFKcHtZ" type="speaker" xml:lang="sv">
+        <note xml:id="i-AodoaQe1wvqkyesQFKcHtZ" xml:lang="sv" type="speaker">
           Hra Stenström:
         </note>
         <u xml:id="i-DbMWpDEh6ApN7TJXvF2g1d" who="unknown">
@@ -30216,7 +30216,7 @@
             af hr Jansson nyss gjorda.
           </seg>
         </u>
-        <note xml:id="i-9dfyaph6e6UppNbjHT88dB" type="speaker" xml:lang="sv">
+        <note xml:id="i-9dfyaph6e6UppNbjHT88dB" xml:lang="sv" type="speaker">
           Hra Lundson:
         </note>
         <u xml:id="i-RYfgPLoW2LfKTzcwrNGrBM" who="unknown">
@@ -30227,7 +30227,7 @@
             päätöstä siitä, että minut vapautettaisiin tästä käsittelystä.
           </seg>
         </u>
-        <note xml:id="i-4RrVXWfRbLepx8KpFgD3Lr" type="speaker" xml:lang="sv">
+        <note xml:id="i-4RrVXWfRbLepx8KpFgD3Lr" xml:lang="sv" type="speaker">
           Hra Savön:
         </note>
         <u xml:id="i-B8SdXyNEMtF8JubA8rypHW" who="unknown">
@@ -30236,7 +30236,7 @@
             min röst bidragit till det beslut borgareständet nyss fattat.
           </seg>
         </u>
-        <note xml:id="i-V7pgLjHptnXwMwpRQqdQm3" type="speaker" xml:lang="unknown">
+        <note xml:id="i-V7pgLjHptnXwMwpRQqdQm3" xml:lang="unknown" type="speaker">
           Hra Carlström:
         </note>
         <u xml:id="i-XLpKi4JzFuK6KeuM7nFnzs" who="unknown">
@@ -30244,7 +30244,7 @@
             Jag ber att fä göra enahanda anmälan som den af hr Jansson framställda.
           </seg>
         </u>
-        <note xml:id="i-WLA8usLVdXEqCTNDYTCTNZ" type="speaker" xml:lang="sv">
+        <note xml:id="i-WLA8usLVdXEqCTNDYTCTNZ" xml:lang="sv" type="speaker">
           Hra Labbart:
         </note>
         <u xml:id="i-GzdWjiqECXtcfMYdGjJHX4" who="unknown">
@@ -30255,7 +30255,7 @@
             ärende.
           </seg>
         </u>
-        <note xml:id="i-BAByPBSavvF1juyyXqyg2Q" type="speaker" xml:lang="unknown">
+        <note xml:id="i-BAByPBSavvF1juyyXqyg2Q" xml:lang="unknown" type="speaker">
           Hra Holmberg:
         </note>
         <u xml:id="i-7McHkXCukgp4ZVMynbkgsp" who="unknown">
@@ -30271,7 +30271,7 @@
           minäkin yhdistyn siihen vastalauseesen, jonka m. m. hra Jansson
           on täällä esittänyt.
         </note>
-        <note xml:id="i-NN22i5M9tMDhPQf79TCdXp" type="speaker" xml:lang="sv">
+        <note xml:id="i-NN22i5M9tMDhPQf79TCdXp" xml:lang="sv" type="speaker">
           Hra Renlund:
         </note>
         <u xml:id="i-JPy1v1hdjy92L7P3ZZfV1f" who="unknown">
@@ -30290,7 +30290,7 @@
           olivat esittäneet, mutta tahtoi kuitenkin jättää asian säädyn
           keskusteltavaksi.
         </note>
-        <note xml:id="i-5FsjRFckyQ4vVVHj9HwHKL" type="speaker" xml:lang="sv">
+        <note xml:id="i-5FsjRFckyQ4vVVHj9HwHKL" xml:lang="sv" type="speaker">
           Hra Lundson:
         </note>
         <u xml:id="i-KiqygtZRKBZfyW5s7sgo2P" who="unknown">
@@ -30301,7 +30301,7 @@
             asiani säädyn ratkaistavaksi.
           </seg>
         </u>
-        <note xml:id="i-ECyDnvty6RQotNwgueSrF3" type="speaker" xml:lang="sv">
+        <note xml:id="i-ECyDnvty6RQotNwgueSrF3" xml:lang="sv" type="speaker">
           Hra Ignatius:
         </note>
         <u xml:id="i-ESn23k8QpddHAtaMvWV4Jx" who="unknown">
@@ -30321,7 +30321,7 @@
             härutinnan skulle utöfva nägot tväng pä sina medlemmar.
           </seg>
         </u>
-        <note xml:id="i-PQjqDxpV195M116vyJ1hke" type="speaker" xml:lang="sv">
+        <note xml:id="i-PQjqDxpV195M116vyJ1hke" xml:lang="sv" type="speaker">
           Hra Lundson:
         </note>
         <u xml:id="i-NdMXjuzxRKSxsJ1HBU5Ypp" who="unknown">
@@ -30369,7 +30369,7 @@
           men detta berättigar honom likväl icke att på denna grund afhälla
           sig från att deltaga i kollegiets beslut.
         </note>
-        <note xml:id="i-RS7RD5VsdEiSfgiKcWKc4j" type="speaker" xml:lang="sv">
+        <note xml:id="i-RS7RD5VsdEiSfgiKcWKc4j" xml:lang="sv" type="speaker">
           Hra Spoof:
         </note>
         <u xml:id="i-DSrfNyWTbVQcyLeWsbZqfo" who="unknown">
@@ -30387,7 +30387,7 @@
             olisi se, että enemmistö olisi tehnyt aivan laittoman päätöksen.
           </seg>
         </u>
-        <note xml:id="i-S81XoqNxwrPgr4BzgdYXPa" type="speaker" xml:lang="sv">
+        <note xml:id="i-S81XoqNxwrPgr4BzgdYXPa" xml:lang="sv" type="speaker">
           Hra Söderholm:
         </note>
         <u xml:id="i-ES9cHvFfWfveLUyp2b8TiE" who="unknown">
@@ -30434,7 +30434,7 @@
           betäakande, anhäller jag för min del att fä föreslä bevillningsutskottets
           ifrägavarande kläm till godkännande af borgareständet.
         </note>
-        <note xml:id="i-J9PQqa7hNscFY7HaCV9txu" type="speaker" xml:lang="sv">
+        <note xml:id="i-J9PQqa7hNscFY7HaCV9txu" xml:lang="sv" type="speaker">
           Hra Hammarström:
         </note>
         <u xml:id="i-QaWdkt8Vf4eG8o7TS2wwrJ" who="unknown">
@@ -30472,7 +30472,7 @@
             den provisoriska bevillningen skulle medgifvas för endast 3 månader.
           </seg>
         </u>
-        <note xml:id="i-AmirpkZZcYUHh5SLrsw8YH" type="speaker" xml:lang="fi">
+        <note xml:id="i-AmirpkZZcYUHh5SLrsw8YH" xml:lang="fi" type="speaker">
           Hra Sundvall:
         </note>
         <u xml:id="i-PdiLGCVAMsqpwhXh7iBvkT" who="unknown">
@@ -30495,7 +30495,7 @@
           bevillning medgifves för hela året 1905. De spärrade orden i den
           föreslagna förordningen borde sålunda utgå.
         </note>
-        <note xml:id="i-WNoLUC9BXtokASGoitfNUh" type="speaker" xml:lang="sv">
+        <note xml:id="i-WNoLUC9BXtokASGoitfNUh" xml:lang="sv" type="speaker">
           Hra Idman:
         </note>
         <u xml:id="i-LFYnMHXK1W95k2pVdZmZKP" who="unknown">
@@ -30579,7 +30579,7 @@
           i konformitet med sitt tidigare beslut i ärendet, ville antaga
           klämmen enligt denna lydelse.
         </note>
-        <note xml:id="i-VPDzUjK8DKooDo2bEPJvw" type="speaker" xml:lang="sv">
+        <note xml:id="i-VPDzUjK8DKooDo2bEPJvw" xml:lang="sv" type="speaker">
           Hra Lundenius:
         </note>
         <u xml:id="i-T4Qi6Zj4bvS2fBpvoXeZzd" who="unknown">
@@ -30591,7 +30591,7 @@
             af är 1905» borde förändras till »intill 1 juli 1905».
           </seg>
         </u>
-        <note xml:id="i-QuRgo8HC3N3add1umecoXG" type="speaker" xml:lang="fi">
+        <note xml:id="i-QuRgo8HC3N3add1umecoXG" xml:lang="fi" type="speaker">
           Hra Öhman:
         </note>
         <u xml:id="i-Q5MFBgCL7PAh9DJQ3p44QU" who="unknown">
@@ -30609,7 +30609,7 @@
             beslut härutinnan skulle fattas.
           </seg>
         </u>
-        <note xml:id="i-DNRg9vLmJFtFW4tWCvCGT3" type="speaker" xml:lang="sv">
+        <note xml:id="i-DNRg9vLmJFtFW4tWCvCGT3" xml:lang="sv" type="speaker">
           Hra Lundenius:
         </note>
         <u xml:id="i-8HjUxkruow76UzLGt1dG3r" who="unknown">
@@ -30808,7 +30808,7 @@
           protokolleutdreg som fordersammast skulle expedieras och såsom
           rådskande tillställas medstånden ännu i dag.
         </note>
-        <note xml:id="i-39MGW9jT2yRNXr82h2Swff" type="speaker" xml:lang="sv">
+        <note xml:id="i-39MGW9jT2yRNXr82h2Swff" xml:lang="sv" type="speaker">
           Hra Ignatius:
         </note>
         <u xml:id="i-Dwy1Cimi555PHVRgbwzTkM" who="unknown">
@@ -30818,7 +30818,7 @@
             kan komma till användning.
           </seg>
         </u>
-        <note xml:id="i-N3Y43yvEPY3tb2FXYTPmJ8" type="speaker" xml:lang="sv">
+        <note xml:id="i-N3Y43yvEPY3tb2FXYTPmJ8" xml:lang="sv" type="speaker">
           Hra Renvall:
         </note>
         <u xml:id="i-GKmznvDzatMDsJv1sVrJis" who="unknown">
@@ -30827,7 +30827,7 @@
             voittamiseksi olisi mielestäni asia sillä tavoin suoritettava.
           </seg>
         </u>
-        <note xml:id="i-W7pSNXLZ9n4cEiNaiymA9V" type="speaker" xml:lang="sv">
+        <note xml:id="i-W7pSNXLZ9n4cEiNaiymA9V" xml:lang="sv" type="speaker">
           Hra Spoof:
         </note>
         <u xml:id="i-P6JhTgnSPntYiSFHFiM5Cv" who="unknown">
@@ -31107,7 +31107,7 @@
           ainoastaan tule kohtaamaan yksityisiä säädyn jäseniä, vaan suuresti
           vaikeuttamaan työtä valtiopäivillä.
         </note>
-        <note xml:id="i-5xtemo9PqMTQwGUiEMaNym" type="speaker" xml:lang="fi">
+        <note xml:id="i-5xtemo9PqMTQwGUiEMaNym" xml:lang="fi" type="speaker">
           Hra Öhman:
         </note>
         <u xml:id="i-UNHD3m5EGHY8eoS819UNHG" who="unknown">
@@ -31133,7 +31133,7 @@
           Renvalls förslag, men jag tror det vore nödigt att ändra tidsbestämningen
           till den 24 januari.
         </note>
-        <note xml:id="i-Thq3reGbGWiCmF5pSaM677" type="speaker" xml:lang="sv">
+        <note xml:id="i-Thq3reGbGWiCmF5pSaM677" xml:lang="sv" type="speaker">
           Hra Hammarström:
         </note>
         <u xml:id="i-GFmippghUSUNh26X455bS1" who="unknown">
@@ -31146,7 +31146,7 @@
         <note xml:id="i-B8qwx84xXXXt28ndZCCUSA" xml:lang="fi">
           520 Loma. 31 p. jouluk.
         </note>
-        <note xml:id="i-MJ38V4ViFYdXVKXXduoTkw" type="speaker" xml:lang="sv">
+        <note xml:id="i-MJ38V4ViFYdXVKXXduoTkw" xml:lang="sv" type="speaker">
           Hra Renvall:
         </note>
         <u xml:id="i-Eff5UKAjpyo71gJy5v3vjW" who="unknown">
@@ -31230,7 +31230,7 @@
           jota sitäkään ei kuitenkaan nyt voi sanoa, kun asiasta ei vielä
           ole päätöstä olemassa.
         </note>
-        <note xml:id="i-D6iE7Fq6aroERN4riMxzQg" type="speaker" xml:lang="unknown">
+        <note xml:id="i-D6iE7Fq6aroERN4riMxzQg" xml:lang="unknown" type="speaker">
           Hra Holmberg:
         </note>
         <u xml:id="i-8vB6MsLLrDQ7TDpmtgrne9" who="unknown">
@@ -31283,7 +31283,7 @@
           det jag ber få detta till protokollet antecknadt, förenar jag
           mig om hr Janssons nyss gjorda uttalande,
         </note>
-        <note xml:id="i-NPgC2JzXF4Z7kLZQATJdNk" type="speaker" xml:lang="sv">
+        <note xml:id="i-NPgC2JzXF4Z7kLZQATJdNk" xml:lang="sv" type="speaker">
           Hra Savön:
         </note>
         <u xml:id="i-FqxUzKyRsMiM7eqe4LUbaH" who="unknown">
@@ -31293,7 +31293,7 @@
             jag på denna grund icke kunnat i omröstningen deltaga.
           </seg>
         </u>
-        <note xml:id="i-3bGuca7HJ9dZLJvNrHHAGV" type="speaker" xml:lang="unknown">
+        <note xml:id="i-3bGuca7HJ9dZLJvNrHHAGV" xml:lang="unknown" type="speaker">
           Hra Carlström:
         </note>
         <u xml:id="i-KGaUzwHXUSQvqEQHrQWzzj" who="unknown">
@@ -31302,7 +31302,7 @@
             och icke deltagit i omröstningen.
           </seg>
         </u>
-        <note xml:id="i-Qg1RBUANQAfbrFU6Xv9VeN" type="speaker" xml:lang="sv">
+        <note xml:id="i-Qg1RBUANQAfbrFU6Xv9VeN" xml:lang="sv" type="speaker">
           Hra Labbart:
         </note>
         <u xml:id="i-BnaPBeF2eQGPzBhNzpq3h5" who="unknown">
@@ -31312,7 +31312,7 @@
             i omröstningen.
           </seg>
         </u>
-        <note xml:id="i-2LqE7AxbTVnvhhW6UTYB7j" type="speaker" xml:lang="unknown">
+        <note xml:id="i-2LqE7AxbTVnvhhW6UTYB7j" xml:lang="unknown" type="speaker">
           Hra Holmberg:
         </note>
         <u xml:id="i-VQTpLGHFYFdwfrLufa5f6K" who="unknown">
