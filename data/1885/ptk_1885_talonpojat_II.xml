@@ -1,5 +1,5 @@
-<?xml version='1.0' encoding='utf-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="ptk_1885_talonpojat_II">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -25,8 +25,12 @@
   <text>
     <front>
       <div type="preface">
-        <head>ptk_1885_talonpojat_II</head>
-        <docDate when="1885-01-01">1885-01-01</docDate>
+        <head>
+          ptk_1885_talonpojat_II
+        </head>
+        <docDate when="1885-01-01">
+          1885-01-01
+        </docDate>
       </div>
     </front>
     <body>
@@ -803,8 +807,8 @@
           pientareelle. Puhujan mielestä armollinen esitys on valiokunnan
           ehdotusta parempi, sillä edellisessä tahdotaan jättää kuntien
           vapaasen valtaan tehdä suostumuksia kysymyksessä olevassa asiassa.
-          Säädyn pitäisi siis omaksua armollinen &amp;sitys; valiokunnan mietintö
-          pitäisi sitä vastaan ehdottomasti hyljättämän.
+          Säädyn pitäisi siis omaksua armollinen &amp;sitys; valiokunnan
+          mietintö pitäisi sitä vastaan ehdottomasti hyljättämän.
         </note>
         <note xml:id="i-X6X8L7gSv86iR3Yno4rANQ">
           Edusmies Tensikkala puolusti valiokunnan periaatetta siinä kohdassa,
@@ -4359,8 +4363,8 @@
         </note>
         <note xml:id="i-FpbFaxC3KBEKYK24qLA9Yn">
           Perustetta tällä tavoin menettelemiselleni luulin minä löytäväni
-          1 &amp;:stä Keisarillisessa Asetuksessa 9 p:ltä Toukokuuta 1881, koska
-          asia oli ruotsinkielellä vireesen pantu kuvernörin virastossa
+          1 &amp;:stä Keisarillisessa Asetuksessa 9 p:ltä Toukokuuta 1881,
+          koska asia oli ruotsinkielellä vireesen pantu kuvernörin virastossa
           ja äsken mainitun &amp;:n 1:sessä kohdassa sanotaan, että toimituskirjoitus,
           joka virastosta asian omistajalle annetaan, on tehtävä sillä kielellä,
           ruotsin tahi suomen, jota se, joka on asian vireesen
@@ -6868,47 +6872,47 @@
           merkitys on päin vastoin tarkoin määrätty ei ainoastaan teknillisessä
           suhteessa, vaan myöskin voimassa olevissa asetuksissa ja säätönäisissä
           laeissa. Keisarillinen asetus metsistä, annettu 9 p. Syyskuuta
-          1851, säätää 2 &amp;ssään: ,Kruununpuistoja ovat ne pyykitetyt kruunun
-          metsämaat. jotka kruununpuistoiksi ovat julistetut, taikka joille
-          vastedes niiden luonto ehkä mää tään*. Miten kruunun metsämaat
+          1851, säätää 2 &amp;ssään: ,Kruununpuistoja ovat ne pyykitetyt
+          kruunun metsämaat. jotka kruununpuistoiksi ovat julistetut, taikka
+          joille vastedes niiden luonto ehkä mää tään*. Miten kruunun metsämaat
           julistetaan kruununpuistoiksi, siitä taas löytyy erinäisiä määräyksiä
           Keisarillisissa asetuksissa 13 päivältä Toukokuuta 1859 ja 27
           päivältä Joulukuuta 1877. Ettei taasen kruununpuistoiksi millään
           tavoin voi lukea kruunun liikamaita eikä myöskään kruunun metsiä,
           se seikka käy epäiltämättömästi selville kaikista kruunun metsiä
           ja niitten hoitoa koskevista asetuksista. Niinpä sanotaan esim.
-          jo mainitsemassani 1851 vuoden asetuksen 10 &amp;:ssä: ,Kruunun metsämaa,
-          joka ei ole kruununpuistoiksi pyykitetty j. n. e.*, joten siis
-          tässäkin on tehty tarkka ero kruunun metsämaan ja kruununpuiston
+          jo mainitsemassani 1851 vuoden asetuksen 10 &amp;:ssä: ,Kruunun
+          metsämaa, joka ei ole kruununpuistoiksi pyykitetty j. n. e.*,
+          joten siis tässäkin on tehty tarkka ero kruunun metsämaan ja kruununpuiston
           välillä. Saman asetuksen 4 &amp;:ssä sanotaan: ,Jos kruununmaalla,
           jota laatunsa vuoksi ei sovi kruununpuistoksi pyykittää j. n.
           e.*; eroitus siis tässäkin, samaten kuin 14 ja 15 $:ssä. Toukokuun
-          13 päivänä 1859 annetun Keisarillisen johtosäännön 41 &amp;:ssä sanotaan:
-          ,Jos kruununmetsä on kruununpuistoksi määrätty j. n. e.* Mainitsemissani
-          asetuksissa on siis tehty tarkka eroitus kruununmetsien ja kruununpuistojen
-          välillä. Ja tämä eroitus riippuu pääasiallisesti siitä että kun
-          kruununpuistolla on varmasti määrätty tarkoituksensa, se kun muodostaa
-          sen osan kruunun metsämaata, joka on erityisellä tavalla ja asetuksien
-          määräämässä järjestyksessä lopullisesti ja kaikeksi ajaksi kruununpuistoksi
-          julistettu — kun kruununpuistolla on varmat vuotuiset hakkuumääränsä
-          ja aivan erityinen järjestetty hoitonsa, on kruunun metsäin käytäntötarkoitus
-          vielä määräämätöin, niitä kun käy joko antaminen lisä veroa vastaan
-          yksityisille verotalojen omistajille, tahi jakaminen kruununtorpiksi
-          y. m., niillä ei ole varmat vuotuiset hakkuumäärät, ne ovat järjestettyä
-          hoitoa vailla ja ainoastaan väliaikaisen vartioimisen alaisina.
-          Asetuksessa 7 päivältä Toukokuuta 1859 määrätään näet, että semmoiset
-          kruunun metsät, joita ei ole kruununpuistoiksi julistettu, ovat
-          kuvernöörien hallituksen ja ”hoidon alaisia sekä asetettavat toistaiseksi
-          tarkastuksen alaisiksi (under provisionel] bevakning). Kruunun
-          liikamaitten ja kruununmetsien välillä sitä vastaan ei ole minkäänlaista
-          teknillistä eikä myöskään asetuksissa määrättyä eroitusta. Ne
-          ovat molemmat ison-jaon kautta syntyneitä ja molempain lopullinen
-          käytäntötarkoitus on vielä määräämättä. Osittain ovat ne jo lopullisesti
-          pyykitettyjä erilleen tilallisten maista, osittain on tämä pyykitys
-          vielä väliaikainen. Molemmat voidaan 1851 vuoden asetuksen mukaan
-          veroa vastaan antaa yksityisille tahi jakaa kruununtorpiksi y.
-          m. Edellisestä lienee siis selvä että ennen vuotta 1883 ilmaantuneissa
-          hallinnol-
+          13 päivänä 1859 annetun Keisarillisen johtosäännön 41 &amp;:ssä
+          sanotaan: ,Jos kruununmetsä on kruununpuistoksi määrätty j. n.
+          e.* Mainitsemissani asetuksissa on siis tehty tarkka eroitus kruununmetsien
+          ja kruununpuistojen välillä. Ja tämä eroitus riippuu pääasiallisesti
+          siitä että kun kruununpuistolla on varmasti määrätty tarkoituksensa,
+          se kun muodostaa sen osan kruunun metsämaata, joka on erityisellä
+          tavalla ja asetuksien määräämässä järjestyksessä lopullisesti
+          ja kaikeksi ajaksi kruununpuistoksi julistettu — kun kruununpuistolla
+          on varmat vuotuiset hakkuumääränsä ja aivan erityinen järjestetty
+          hoitonsa, on kruunun metsäin käytäntötarkoitus vielä määräämätöin,
+          niitä kun käy joko antaminen lisä veroa vastaan yksityisille verotalojen
+          omistajille, tahi jakaminen kruununtorpiksi y. m., niillä ei ole
+          varmat vuotuiset hakkuumäärät, ne ovat järjestettyä hoitoa vailla
+          ja ainoastaan väliaikaisen vartioimisen alaisina. Asetuksessa
+          7 päivältä Toukokuuta 1859 määrätään näet, että semmoiset kruunun
+          metsät, joita ei ole kruununpuistoiksi julistettu, ovat kuvernöörien
+          hallituksen ja ”hoidon alaisia sekä asetettavat toistaiseksi tarkastuksen
+          alaisiksi (under provisionel] bevakning). Kruunun liikamaitten
+          ja kruununmetsien välillä sitä vastaan ei ole minkäänlaista teknillistä
+          eikä myöskään asetuksissa määrättyä eroitusta. Ne ovat molemmat
+          ison-jaon kautta syntyneitä ja molempain lopullinen käytäntötarkoitus
+          on vielä määräämättä. Osittain ovat ne jo lopullisesti pyykitettyjä
+          erilleen tilallisten maista, osittain on tämä pyykitys vielä väliaikainen.
+          Molemmat voidaan 1851 vuoden asetuksen mukaan veroa vastaan antaa
+          yksityisille tahi jakaa kruununtorpiksi y. m. Edellisestä lienee
+          siis selvä että ennen vuotta 1883 ilmaantuneissa hallinnol-
         </note>
         <pb facs="https://swerik-project.github.io/valtiopaivat-records-pdf/1885/ptk_1885_talonpojat_II/ptk_1885_talonpojat_II-0106"/>
         <note xml:id="i-VaRFxFNGPwm6jD6CnY8jAE">
@@ -7186,13 +7190,13 @@
           ja missä kysymys siitä, ketkä ovat oikeutetut olemaan osallisina
           valitsijamiehenvaalissa, on tutkittava ja päätettävä. Itsestään
           selvä vastaus tähän on, että se on tapahtuva siinä kuntakokouksessa,
-          joka V. J:n 13 &amp;n nojalla on valitsijamiehenvaalia varten asianomaisesti
-          kuulutettu, sillä päivänselkeä lienee, että on mahdotonta ryhtyä
-          valitsijamiehenvaaliin, ennenkuin on päätetty, kutka ovat oikeutetut
-          ottamaan osaa vaalitoimitukseen. Tästä seuraa myös, että, kun
-          kaikki valitsijamiehenvaalit ovat toimitetut, ovat myös kaikki
-          kysymykset oikeudesta ottaa niihin osaa ratkaistut. Koska nyt
-          valitsijamiehenvaalit V. J:n 18 $:n mukaan kerran toimitettuina
+          joka V. J:n 13 &amp;n nojalla on valitsijamiehenvaalia varten
+          asianomaisesti kuulutettu, sillä päivänselkeä lienee, että on
+          mahdotonta ryhtyä valitsijamiehenvaaliin, ennenkuin on päätetty,
+          kutka ovat oikeutetut ottamaan osaa vaalitoimitukseen. Tästä seuraa
+          myös, että, kun kaikki valitsijamiehenvaalit ovat toimitetut,
+          ovat myös kaikki kysymykset oikeudesta ottaa niihin osaa ratkaistut.
+          Koska nyt valitsijamiehenvaalit V. J:n 18 $:n mukaan kerran toimitettuina
           ovat voimassa koko valtiopäiväin ajan, on myös selvä, että kaikki
           kysymykset siitä, kutka ovat oikeutetut olemaan osallisina valitsijamiehenvaalissa,
           samassa ovat päätetyt koko valtiopäiviä varten. Jos nyt tarkastamme,
@@ -8131,12 +8135,12 @@
           </seg>
         </u>
         <note xml:id="i-KD7yep31R1EGeNSPSfjUHJ">
-          + Puhemies julisti nyt keskustelun 2 &amp;:stä loppuneeksi ja huomautti,
-          että edusmies Kiipula oli viime istunnossa myöskin tehnyt eräitä
-          muistutuksia tämän pykälän suomenkielistä tekstiä vastaan. Sitä
-          vastoin ei puheenalaisen pykälän sisällyksestä ole tehty mitään
-          muistutusta, joten Sääty lienee katsottava sen hyväksyneeksi mitä
-          sisällykseen tulee.
+          + Puhemies julisti nyt keskustelun 2 &amp;:stä loppuneeksi ja
+          huomautti, että edusmies Kiipula oli viime istunnossa myöskin
+          tehnyt eräitä muistutuksia tämän pykälän suomenkielistä tekstiä
+          vastaan. Sitä vastoin ei puheenalaisen pykälän sisällyksestä ole
+          tehty mitään muistutusta, joten Sääty lienee katsottava sen hyväksyneeksi
+          mitä sisällykseen tulee.
         </note>
         <note xml:id="i-VCBhAgrqWEMi22wKurR8AV">
           Tähän vastasi Sääty myöntämällä sekä hyväksyi edusmiesten Kiipulan
@@ -8200,8 +8204,8 @@
             ja ,lohkaistu* sanain käyttämisessä. Sitä paitsi voi, niinkuin
             Pappissäädyssä on huomautettu, syntyä epäilyksiä 4 8:n oikeasta
             sisällyksestä. Tässä S:ssä näet viitataan 3 S:ään tarkemmin määräämättä
-            kuinka lavealta 4 &amp; koskee sitä mitä 3 8:ssä sanotaan. Olisi siis
-            tämänkin epäselvyyden poistamiseksi tarpeen jakaa 3 8 kahdeksi
+            kuinka lavealta 4 &amp; koskee sitä mitä 3 8:ssä sanotaan. Olisi
+            siis tämänkin epäselvyyden poistamiseksi tarpeen jakaa 3 8 kahdeksi
             eri pykäläksi.
           </seg>
         </u>
@@ -8302,15 +8306,16 @@
           12 p. Maalisk. 571
         </note>
         <note xml:id="i-M7arfC9nWTzvj87rSNa79J">
-          luvan. 3 &amp;:stä näemme, että kun kruunu ottaa perustaakseen palstakyliä,
-          se. tapahtuu nykyisten voimassa olevien asetusten mukaan niin
-          että ainoastaan kuvernööri vahvistaa hankkeen, ja asia menee Senaattiin
-          ainoastaan siinä tapauksessa, että syntyy riitoja. Minkä tähden
-          sitten, kun kunta antaa maapalstoja asuttaviksi, vaaditaan Senaatin
-          Talousosaston suostumusta? Uskallan sen tähden ehdottaa, että
-          sanat jos Senaatin Talousosasto katsoo syytä olevan siitä tehtyyn
-          hakemukseen suostua* jätettäisiin pois, ja että kunnan tässäkin
-          asiassa annettaisiin olla nykyään voimassa olevien sääntöjen alaisena.
+          luvan. 3 &amp;:stä näemme, että kun kruunu ottaa perustaakseen
+          palstakyliä, se. tapahtuu nykyisten voimassa olevien asetusten
+          mukaan niin että ainoastaan kuvernööri vahvistaa hankkeen, ja
+          asia menee Senaattiin ainoastaan siinä tapauksessa, että syntyy
+          riitoja. Minkä tähden sitten, kun kunta antaa maapalstoja asuttaviksi,
+          vaaditaan Senaatin Talousosaston suostumusta? Uskallan sen tähden
+          ehdottaa, että sanat jos Senaatin Talousosasto katsoo syytä olevan
+          siitä tehtyyn hakemukseen suostua* jätettäisiin pois, ja että
+          kunnan tässäkin asiassa annettaisiin olla nykyään voimassa olevien
+          sääntöjen alaisena.
         </note>
         <note xml:id="i-T8CHNtmHpojX3zAmVamvYj">
           Edusmies Luoma kannatti edusmies Vehasen mielipidettä, arvellen,
@@ -8354,8 +8359,8 @@
             esityksen sisällyksessä, ja se rajoittaa sitä valtaa, jonka Hallitus
             on tahtonut pidättää viranomaisilleen. Luulen, että ehdoittamani
             rajoitus ei ensinkään ole tuntuvampi kuin se, minkä valiokunta
-            on 1 &amp;:n kohdalla ehdottanut, ja minun ehdotuksellani lienee siis
-            yhtä hyvä toivo tulla hyväksytyksi, kuin valiokunnan mainitulla
+            on 1 &amp;:n kohdalla ehdottanut, ja minun ehdotuksellani lienee
+            siis yhtä hyvä toivo tulla hyväksytyksi, kuin valiokunnan mainitulla
             ehdotuksella.
           </seg>
         </u>
@@ -8383,8 +8388,8 @@
             En luule tarpeelliseksi enää koskea maisteri Vehasen ehdotukseen;
             sitä vastaan pyydän saada tehdä sen ehdotuksen, että tämäkin pykälä
             lykättäisiin takaisin valiokuntaan siellä muodostettavaksi uudestaan
-            siihen muotoon, kuin 3 &amp;:n jakaminen kahdeksi eri pykäläksi vaatii.
-            Sekä edusmies Vehanen että edusmies Castren ovat jo huomauttaneet
+            siihen muotoon, kuin 3 &amp;:n jakaminen kahdeksi eri pykäläksi
+            vaatii. Sekä edusmies Vehanen että edusmies Castren ovat jo huomauttaneet
             siitä, että 4 8:n sanat ,Yhtäläinen oikeus* eivät liity luonnollisesti
             edelliseen pykälään, ja kun se tulee kahtia jaetuksi, jää sama
             epäsuhtaisuus olemaan. Ilman sitä on 4 8&amp;n toisessa lauseessa
@@ -8456,10 +8461,10 @@
           ja yhdistyn muuten siihen mitä edusmies Avellan on 4 8:n johdosta
           lausunut. Edusmies Ojanen: En juuri pelkää, että Hallitus jättäisi
           asetus ehdotuksen hyväksymättä, vaikka kysymyksessä oleva määräys
-          pyyhitäänkin 4 &amp;:stä, sillä luulen ettei tämä määräys ole lähtenyt
-          Hallituksen vallanhimosta, vaan se lienee pikemmin saanut alkunsa
-          eräistä taloudellisista näkökohdista. Saattaahan näet kunnassa
-          tulla kysymykseen jonkun sellaisen tilan ostaminen palstakylän
+          pyyhitäänkin 4 &amp;:stä, sillä luulen ettei tämä määräys ole
+          lähtenyt Hallituksen vallanhimosta, vaan se lienee pikemmin saanut
+          alkunsa eräistä taloudellisista näkökohdista. Saattaahan näet
+          kunnassa tulla kysymykseen jonkun sellaisen tilan ostaminen palstakylän
           perustamista varten, että palstakylästä syntyy naapureille paljon
           vastusta. Sen vuoksi on hyvä, että Hallitus saa tarkastaa, tuleeko
           esim. aiottu palstakylä niin sijoitetuksi ja järjestetyksi, ettei
@@ -8605,8 +8610,8 @@
         <note xml:id="i-69V1LGig7cRMZujSqytX2j">
           Joka hyväksyy kysymyksessä olevan 8:n valiokunnan ehdotuksen
           mukaan, kuitenkin sillä ehdolla että se lähetetään takaisin valiokuntaan
-          uudestaan muodostettavaksi semmoiseksi kuin 3 &amp;:n jakaminen kahdeksi
-          eri pykäläksi vaatii, äänestää ,jaa*;
+          uudestaan muodostettavaksi semmoiseksi kuin 3 &amp;:n jakaminen
+          kahdeksi eri pykäläksi vaatii, äänestää ,jaa*;
         </note>
         <note xml:id="i-4kp5dxJoVDdfMJRnro73ke">
           joka sen lisäksi tahtoo, että sanat ,jos Senaatin Talousosasto
@@ -9299,30 +9304,31 @@
         <note xml:id="i-KvaP9eHBftRQjY7ZxaA1JQ">
           Ensiksikin lienee tarpeellista ottaa selkoa niistä ominaisuuksista,
           jotka Valtiopäiväjärjestys vaatii vaalikelpoisuutta varten Talonpoikaissäätyyn.
-          Ne luetellaan V. J:n 14 ja 13 &amp;ässä. 14:ssa &amp;:ssä sanotaan: ,Valtiopäivämiehen
-          vaaliin käypä aatelittomassa säädyssä on, alempana luetelluilla
-          poikkeuksilla, jokainen joko vaalipiirissä taikka siitä ulkona
-          asuva säädynjäsen, jolla itsellään on oikeus olla osallisena saman
-          säädyn valitsiamiehen tahi edusmiehen vaalissa*; sekä saman &amp;:n
-          ensimmäisessä kohdassa: ,Oikeutettu olemaan osallisena valitsiamiehen
-          tahi valtiopäivämiehen vaalissa aatelittomaan säätyyn on, noudattamalla
-          11, 12 ja 13 Kä:ssä säättyjä perustuksia, jokainen säätyyn kuuluva
-          ja vaalipiirissä asuva täysivaltaiseen ikään tullut Suomen mies*
-          j. n. e. 13 S:ssä taas sanotaan: ,Valitsijamiehen vaalissa on
-          osallisena jokainen kunnassa asuva mies, jolla on manttaaliin
-          pantua relssi- tahi perintömaata, taikka joka vakaalla asukas-oikeudella
-          hallitsee kruununtilaa tahi arrennilla pitää kruununpuustellia,
-          kuninkaankartanoa tahi kuninkaan-latokartanoa ja ei kuulu muuhun
-          säätyn tahi ei ole maan palveluksessa*. Ne ominaisuudet siis,
-          jotka vaalikelpoisuutta varten vaaditaan, ovat: jossakin maalaiskunnassa
-          asuminen, manttaaliin pannun kiinteimistön omistaminen tahi hallitseminen,
-          vihdoin tuo ominaisuus, ettei kuulu muuhun säätyyn tahi ole maan
-          palveluksessa. Mutta mihinkä aikaan näitä ominaisuuksia vaalikelpoisuutta
-          varten vaaditaan? Vaaditaanko niitä siihen aikaan kuin valtiopäivämiehen
-          vaali tapahtuu, vaiko siihen aikaan kuin valitsijamiehen vaali
-          toimetaan? Kun valtiopäiväjärjestys puhuessaan valtiopäivämiesvaaliin
-          käypyydestä määrää että valtiopäivämieheksi kelpaava on se, jolla
-          itsellään on oikeus olla osallisena saman säädyn valitsijamiesvaalissa,
+          Ne luetellaan V. J:n 14 ja 13 &amp;ässä. 14:ssa &amp;:ssä sanotaan:
+          ,Valtiopäivämiehen vaaliin käypä aatelittomassa säädyssä on, alempana
+          luetelluilla poikkeuksilla, jokainen joko vaalipiirissä taikka
+          siitä ulkona asuva säädynjäsen, jolla itsellään on oikeus olla
+          osallisena saman säädyn valitsiamiehen tahi edusmiehen vaalissa*;
+          sekä saman &amp;:n ensimmäisessä kohdassa: ,Oikeutettu olemaan
+          osallisena valitsiamiehen tahi valtiopäivämiehen vaalissa aatelittomaan
+          säätyyn on, noudattamalla 11, 12 ja 13 Kä:ssä säättyjä perustuksia,
+          jokainen säätyyn kuuluva ja vaalipiirissä asuva täysivaltaiseen
+          ikään tullut Suomen mies* j. n. e. 13 S:ssä taas sanotaan: ,Valitsijamiehen
+          vaalissa on osallisena jokainen kunnassa asuva mies, jolla on
+          manttaaliin pantua relssi- tahi perintömaata, taikka joka vakaalla
+          asukas-oikeudella hallitsee kruununtilaa tahi arrennilla pitää
+          kruununpuustellia, kuninkaankartanoa tahi kuninkaan-latokartanoa
+          ja ei kuulu muuhun säätyn tahi ei ole maan palveluksessa*. Ne
+          ominaisuudet siis, jotka vaalikelpoisuutta varten vaaditaan, ovat:
+          jossakin maalaiskunnassa asuminen, manttaaliin pannun kiinteimistön
+          omistaminen tahi hallitseminen, vihdoin tuo ominaisuus, ettei
+          kuulu muuhun säätyyn tahi ole maan palveluksessa. Mutta mihinkä
+          aikaan näitä ominaisuuksia vaalikelpoisuutta varten vaaditaan?
+          Vaaditaanko niitä siihen aikaan kuin valtiopäivämiehen vaali tapahtuu,
+          vaiko siihen aikaan kuin valitsijamiehen vaali toimetaan? Kun
+          valtiopäiväjärjestys puhuessaan valtiopäivämiesvaaliin käypyydestä
+          määrää että valtiopäivämieheksi kelpaava on se, jolla itsellään
+          on oikeus olla osallisena saman säädyn valitsijamiesvaalissa,
           mainitsematta että tämän oikeuden olisi jo pitänyt olla olemassa
           valitsijamiesvaalin aikana, niin on myöntäminen, ellei tahdo Valtiopäiväjärjestyksen
           sanoja ja henkeä polkea, että nämät omainaisuudet vaaditaan siihen
@@ -9429,9 +9435,9 @@
           omistaa tahi viljelee maatilaa maalla, olkoon velvoitettu määrättynä
           päivänä siinä kunnassa, missä hän on hengille pantava, toimitusmiehelle
           kirjallisesti ilmoittamaan itsensä* j. n. e. Saman asetuksen 3
-          &amp; kuuluu taas näin: ,Se säännös 12 &amp;:ssä armollisessa asetuksessa
-          hengeltä maksettavista veroista, annettu 20 p:nä Helmikuuta v.
-          1865, että itse kukin Suomen kansalainen pitää — — — -- hengille
+          &amp; kuuluu taas näin: ,Se säännös 12 &amp;:ssä armollisessa
+          asetuksessa hengeltä maksettavista veroista, annettu 20 p:nä Helmikuuta
+          v. 1865, että itse kukin Suomen kansalainen pitää — — — -- hengille
           otettaman siinä paikkakunnassa, missä hänellä on asuntonsa ja
           oikea kotonsa, ja hän porvariliikettä tahi muuta elatusleinoa
           harjoittaa taikka virkaa toimittaa, on noudatettava tämän asianlaidan
@@ -10142,12 +10148,12 @@
           kirjallisesti tehdyn äänestysesityksen :
         </note>
         <note xml:id="i-Nv1KznAWmk1C7AZwBYBebW">
-          Joka hyväksyy 1 &amp;:n Talousvaliokunnan nyt käsillä olevassa asetusehdotuksessa,
-          äänestää ,jaa';
+          Joka hyväksyy 1 &amp;:n Talousvaliokunnan nyt käsillä olevassa
+          asetusehdotuksessa, äänestää ,jaa';
         </note>
         <note xml:id="i-KHkHwZphxhXznXWqR5nLRg">
-          jos ,ei* voittaa, on Sääty hyljännyt sanotun &amp;n mikäli se eroaa
-          Säädyn entisestä päätöksestä, jossa Sääty siis pysyy kiinni.
+          jos ,ei* voittaa, on Sääty hyljännyt sanotun &amp;n mikäli se
+          eroaa Säädyn entisestä päätöksestä, jossa Sääty siis pysyy kiinni.
         </note>
         <note xml:id="i-HXDTks6YizRass8qv1ZPCL">
           Jälkimmäisessä tapauksessa on erittäin päätettävä siitä, onko
@@ -10978,8 +10984,8 @@
         </note>
         <note xml:id="i-MHz3F3n8LRXbToKQ4dKUKW">
           Kun ei kukaan enään pyytänyt puheenvuoroa, julistettiin keskustelu
-          esillä olevan asetusehdotuksen 1 $&amp;n sekä edusmies Castrenin ehdotuksen
-          johdosta loppuneeksi, ja puhemies huomautti,
+          esillä olevan asetusehdotuksen 1 $&amp;n sekä edusmies Castrenin
+          ehdotuksen johdosta loppuneeksi, ja puhemies huomautti,
         </note>
         <pb facs="https://swerik-project.github.io/valtiopaivat-records-pdf/1885/ptk_1885_talonpojat_II/ptk_1885_talonpojat_II-0166"/>
         <note xml:id="i-JyizSYTsj1STFaRw35YHqq">
@@ -11622,9 +11628,9 @@
           Jos veromäärät osoitetaan ainoastaan litroina, eikä hehtoleina
           ja litroina, voisi litrojen lukumäärä nousta satoihin jopa tuhansiinkin
           — numeroluku, joka kammoksuttaisi äkkinäistä ja asiaan vähemmin
-          perehtynyttä. Siitä syystä puhuja hyväksyi 2 &amp;:n armollisen esityksen
-          mukaan sekä huomautti, että Sääty ehkä erehtyi siinä, kun se hyväksyi
-          1 &amp;:n valiokunnan ehdotuksen mukaan.
+          perehtynyttä. Siitä syystä puhuja hyväksyi 2 &amp;:n armollisen
+          esityksen mukaan sekä huomautti, että Sääty ehkä erehtyi siinä,
+          kun se hyväksyi 1 &amp;:n valiokunnan ehdotuksen mukaan.
         </note>
         <note xml:id="i-rJ35zMJhMKrDZG4mAX4cL">
           Landtdagsmannen Hollmörus vidhöll sitt förra tvifvelsmäl och
@@ -11711,7 +11717,8 @@
           lopetetuksi, ja Sääty hyväksyi seuraavan äänestysesityksen:
         </note>
         <note xml:id="i-BWcAptWvzZk8Z9xkDb5aep">
-          Joka hyväksyy 5 &amp;n valiokunnan ehdotuksen mukaan, äänestää ,jaa";
+          Joka hyväksyy 5 &amp;n valiokunnan ehdotuksen mukaan, äänestää
+          ,jaa";
         </note>
         <note xml:id="i-ADwS9bZXPdgfnv6eT2SjbV">
           jos yei* voittaa, niin lykätään pykälä takaisin valiokuntaan
@@ -11741,9 +11748,9 @@
         </note>
         <note xml:id="i-BeGvfJnndCQtsFKyTAoTGm">
           Otettiin nyt uudestaan käsille Talousvaliokunnan mietintö n:o
-          2, jossa 4 &amp; asetusehdotuksesta erinäisten ulostekojen ja veromääräin
-          suorittamisesta metrisen mitan ja painon mukaan äsken jätettiin
-          tarkastamatta.
+          2, jossa 4 &amp; asetusehdotuksesta erinäisten ulostekojen ja
+          veromääräin suorittamisesta metrisen mitan ja painon mukaan äsken
+          jätettiin tarkastamatta.
         </note>
         <note xml:id="i-Uw2b7CMr2xPP8AaYqGPBeX">
           Kysymyksessä oleva pykälä hyväksyttiin nyt yksimielisesti valiokunnan
@@ -13706,12 +13713,12 @@
           anomuksen siitä, että Keisarillinen Majesteetti, käyttäen hänelle
           kuuluvaa ehdotusvaltaa perustuslaki-asioissa, tahtoisi ensinkokoontuvien
           valtiosäätyjen eteen panna armollisen esityksen semmoiseksi nykyisen
-          valtiopäivä-järjestyksen. 13:nen ja 14:nen &amp;:n selitykseksi, että
-          siitä täysin selkeästi näkyisi, mimmoinen sen kansalaisen pitää
-          laadultaan olla, joka on katsottava oikeutetuksi olemaan valitsijamiehen-vaalissa
-          osallisena ja siis olevan vaaliinkelpaava valtiopäivämieheksi
-          Talonpojansäätyyn, niin myös minä ajankohtana vaaliinkelpaavaisuutta
-          varten määrättyjen ehtojen tulee olla täytettyjä.
+          valtiopäivä-järjestyksen. 13:nen ja 14:nen &amp;:n selitykseksi,
+          että siitä täysin selkeästi näkyisi, mimmoinen sen kansalaisen
+          pitää laadultaan olla, joka on katsottava oikeutetuksi olemaan
+          valitsijamiehen-vaalissa osallisena ja siis olevan vaaliinkelpaava
+          valtiopäivämieheksi Talonpojansäätyyn, niin myös minä ajankohtana
+          vaaliinkelpaavaisuutta varten määrättyjen ehtojen tulee olla täytettyjä.
         </note>
         <note xml:id="i-JXQ4ydQjMw26MR3XD3n9J4">
           Lopuksi minä, nojaten valtiopäiväjärjestyksen 51:nteen $:ään,
@@ -14646,16 +14653,16 @@
           ja siten menetetään mitä nyt on saatavana. Että siten on paljon
           menetty sen tiedämme, jos vertaamme tätä lakiehdotusta nyt voimassa
           olevaan hallinnolliseen asetukseen sotaväen rangaistuksista. Verratkaamme
-          vaan esim. 61 &amp;:ää, joka viime valtiopäivillä valiokunnassa antoi
-          paljon puheenaihetta, voimassa olevan asetuksen 198 &amp;:ään, niin
-          huomataan niissä säädettyin rangaistusten kovuuden välillä olevan
-          silminnähtävän eroituksen. Sille, joka menettää lippunsa, määrätään
-          vanhassa asetuksessa hengenrangaistus, mutta käsillä olevassa
-          lakiehdotuksessa on, kuten tiedämme, säädetty, että, jos nähdään
-          sotilaan käyttäneen kaikkia mahdollisia keinoja lipun pelastamiseksi,
-          niin rangaistus huojennetaan kuritushuoneeksi. Samoin ovat rangaistusmäärät
-          monessa muussa kohden lievennetyt. Minä hyväksyn valiokunnan mietinnön
-          kokonaisuudessaan.
+          vaan esim. 61 &amp;:ää, joka viime valtiopäivillä valiokunnassa
+          antoi paljon puheenaihetta, voimassa olevan asetuksen 198 &amp;:ään,
+          niin huomataan niissä säädettyin rangaistusten kovuuden välillä
+          olevan silminnähtävän eroituksen. Sille, joka menettää lippunsa,
+          määrätään vanhassa asetuksessa hengenrangaistus, mutta käsillä
+          olevassa lakiehdotuksessa on, kuten tiedämme, säädetty, että,
+          jos nähdään sotilaan käyttäneen kaikkia mahdollisia keinoja lipun
+          pelastamiseksi, niin rangaistus huojennetaan kuritushuoneeksi.
+          Samoin ovat rangaistusmäärät monessa muussa kohden lievennetyt.
+          Minä hyväksyn valiokunnan mietinnön kokonaisuudessaan.
         </note>
         <note xml:id="i-8snajBmtaVH67KdkfrLE9Y">
           Edusmies Raitanen yhtyi edellisiin puhujiin.
@@ -15451,36 +15458,37 @@
           ja oppilaitoksen perustamisesta Aleksanderin yliopistoon Suomessa
           voimisteluopettajain valmistamista varten. Tämän julistuksen ensimmäisessä
           momentissa lausutaan, että se tieteisopillinen taito, jota 52
-          &amp;:n mukaan voimassa olevassa koulujärjestyksessä vaaditaan voimistelu-opettajan
-          viran saamiseen koulussa, on hankittava Aleksanderin yliopiston
-          voimistelu-yliopettajan edessä suoritetulla oppi-jaksolla, joka
-          käsittää luennoita anatomiian ja fysiologiian perustavassa liikunto-opissa,
-          metodiikissa ja historiikissa, kuin myöskin niille, jotka sitä
-          haluavat, käytännöliisiä harjoituksia pedagoogillisessa ja sairasvoimistelussa
-          sekä osanottoa julkisiin harjoituksiin yliopistossa. Tätä tarkoitusta
-          varten on yliopistolle myönnetty 2,500 markkaa ja sen lisäksi
-          yhdelle apu-opettajalle 1,500 markkaa, siis yhteensä 4,000 markkaa.
-          Voimistelun-opettajaksi kouluihin ei siis kukaan voi päästä, ellei
-          hän yliopistossa ole mainitussa asetuksessa määrättyjä opintoja
-          harjoittanut ja niissä tutkintoja suorittanut. Hallitus on niin
-          muodoin samalla kuin se on määrännyt, että yliopistossa pitää
-          pantaman toimeen laitos voimistelun-opettajien valmistamista varten
-          ja ehdoksi voimistelun-opettajaksi pääsemiselle asettanut, että
-          tutkinnot voimisteluopetukseen kuuluvissa aineissa pitää suoritettaman
-          yliopistossa, myöntänyt myöskin yksityiselle laitokselle varoja
-          aivan samaan tarkoitukseen. Kun valtiopäivillä tehdään sellainen
-          anomusesitys kuin se, mikä on esillä olevan mietinnön pohjana,
-          ei saata tulla muuhun käsitykseen, kun että yliopiston voimistelulaitos
-          enemmän kuin professori Aspinkaan ei vastaa tarkoitustaan, ja
-          syy tähän lienee minun luullakseni se, että voimia ja rahoja hajoitetaan
-          monelle suunnalle. Minä ehdotan siitä syystä, että esillä oleva
-          mietintö lähetetään takaisin valiokuntaan muodostettavaksi siihen
-          suuntaan, että maan korkea-arvoiset Säädyt yhtyisivät Keisarilliselle
-          Majesteetille tekemään alamaisen anomuksen siihen suuntaan, että
-          ne rahanmääräykset, joita Hallitus tähän asti on antanut eri haaroille
-          sekä pedagoogillista että sairasvoimistelua varten, tulevaisuudessa
-          annettaisiin yliopistolle sen tarkoituksen saavuttamiseksi, jonka
-          armollinen edellä mainitsemani julistus voimistelusta y. m. sisältää.
+          &amp;:n mukaan voimassa olevassa koulujärjestyksessä vaaditaan
+          voimistelu-opettajan viran saamiseen koulussa, on hankittava Aleksanderin
+          yliopiston voimistelu-yliopettajan edessä suoritetulla oppi-jaksolla,
+          joka käsittää luennoita anatomiian ja fysiologiian perustavassa
+          liikunto-opissa, metodiikissa ja historiikissa, kuin myöskin niille,
+          jotka sitä haluavat, käytännöliisiä harjoituksia pedagoogillisessa
+          ja sairasvoimistelussa sekä osanottoa julkisiin harjoituksiin
+          yliopistossa. Tätä tarkoitusta varten on yliopistolle myönnetty
+          2,500 markkaa ja sen lisäksi yhdelle apu-opettajalle 1,500 markkaa,
+          siis yhteensä 4,000 markkaa. Voimistelun-opettajaksi kouluihin
+          ei siis kukaan voi päästä, ellei hän yliopistossa ole mainitussa
+          asetuksessa määrättyjä opintoja harjoittanut ja niissä tutkintoja
+          suorittanut. Hallitus on niin muodoin samalla kuin se on määrännyt,
+          että yliopistossa pitää pantaman toimeen laitos voimistelun-opettajien
+          valmistamista varten ja ehdoksi voimistelun-opettajaksi pääsemiselle
+          asettanut, että tutkinnot voimisteluopetukseen kuuluvissa aineissa
+          pitää suoritettaman yliopistossa, myöntänyt myöskin yksityiselle
+          laitokselle varoja aivan samaan tarkoitukseen. Kun valtiopäivillä
+          tehdään sellainen anomusesitys kuin se, mikä on esillä olevan
+          mietinnön pohjana, ei saata tulla muuhun käsitykseen, kun että
+          yliopiston voimistelulaitos enemmän kuin professori Aspinkaan
+          ei vastaa tarkoitustaan, ja syy tähän lienee minun luullakseni
+          se, että voimia ja rahoja hajoitetaan monelle suunnalle. Minä
+          ehdotan siitä syystä, että esillä oleva mietintö lähetetään takaisin
+          valiokuntaan muodostettavaksi siihen suuntaan, että maan korkea-arvoiset
+          Säädyt yhtyisivät Keisarilliselle Majesteetille tekemään alamaisen
+          anomuksen siihen suuntaan, että ne rahanmääräykset, joita Hallitus
+          tähän asti on antanut eri haaroille sekä pedagoogillista että
+          sairasvoimistelua varten, tulevaisuudessa annettaisiin yliopistolle
+          sen tarkoituksen saavuttamiseksi, jonka armollinen edellä mainitsemani
+          julistus voimistelusta y. m. sisältää.
         </note>
         <note xml:id="i-JskYouLs4fHwPW7fsW55FQ" type="speaker">
           Landtdagsmannen Hollmörus:
@@ -15854,11 +15862,11 @@
           ole vastannut tarkoitustaan eikä täyttänyt sitoumuksiaan, olisi
           Säädyillä ollut yhä tukevampi syy vaatia annettavan valtioavun
           lakkauttamista. — Mitä taasen sairasvoimistelun opettamiseen tulee
-          tahdon siinä kohden yhtyä edusmies Hollm&amp;ruksen lausumiin mielipiteisiin.
-          En tiedä, onko tilastollisia tietoja meidän maassamme olemassa
-          niitten oppilasten lukumäärästä, jotka erinäisistä syistä ovat
-          kykenemättömiä tervevoimisteluun ottamaan osaa. Ruotsissa sitä
-          vastoin on sellaisia tietoja koottu. Ruotsin valtion korkeammissa
+          tahdon siinä kohden yhtyä edusmies Hollm&amp;ruksen lausumiin
+          mielipiteisiin. En tiedä, onko tilastollisia tietoja meidän maassamme
+          olemassa niitten oppilasten lukumäärästä, jotka erinäisistä syistä
+          ovat kykenemättömiä tervevoimisteluun ottamaan osaa. Ruotsissa
+          sitä vastoin on sellaisia tietoja koottu. Ruotsin valtion korkeammissa
           ja alhaisemmissa oppilaitoksissa oli syyslukukaudella vuonna 1877
           12,341 oppilaasta 969, siis 8 %/o, vapautettu voimistelusta epäsäännöllisen
           ruumiinsa muodostuksen ja sairaloisuuden takia. Kevätlukukaudella
@@ -16116,8 +16124,8 @@
         <note xml:id="i-5ch7Fu6EcQxa6Qk3LBpy9g">
           Lakivaliokunnan mietintö n:o 6 arm. esityksen n:o 1 johdosta,
           joka koskee 15 (3) päivänä Huhtikuuta 1869 annetun valtiopäiväjärjestyksen
-          51 ja 52 &amp; muuttamista, sisältävä lisäyksen esitysoikeudesta valtiosäädyille,
-          sekä
+          51 ja 52 &amp; muuttamista, sisältävä lisäyksen esitysoikeudesta
+          valtiosäädyille, sekä
         </note>
         <note xml:id="i-FooLU9q7PH2wsD4QgY3fvm">
           Talonpoikaissäädyn — Yksityisen valitusvaliokunnan mietintö n:o
@@ -16563,22 +16571,23 @@
             laillisuutta, jonka vaalin 16 $:ssä osoitettu korkein oikeusto
             jo on lainvoimaisella päätöksellä vahvistanut. Nämät pykälät ovat
             siis mielestäni keskinäisessä ristiriidassa, ja juuri tuo Valtiopäiväjärjestyksen
-            22 &amp;:n jälkimmäinen kohta on se, josta saattaa eri mieliä syntyä.
-            Siinä sanotaan nimittäin: ,Jokaisen säädyn tulee kuitenkin sitten
-            tutkia valtiopäivämiestoimen käyttämisoikeutta, niin hyvin sellaisen
-            jäsenensä suhteen, jonka valtuuskirja ei ole hyväksytty, kuin
-            myös senkin, jota vastaan muutoin valtiopäiväin kuluessa, tämän
-            perustuslain johdosta, jotakin muistutusta ilmautuu*. Minun mielestäni
-            ei tämä säädyn tutkimisoikeus tarkoita valituksia itse valtiopäivämiesvaalia
-            vastaan, vaan niiden muistutusten tutkimista, joita mahdollisesti
-            tehdään valtiopäivämiehen persoonaa vastaan ja jotka muistutukset
-            tarkoittavat hänen sopimattomuuttaan säädyssä istua. Nämät kohdat
-            Valtiopäivä järjestyksessä olisivat minun mielestäni siis ymmärrettävät
-            niin, että joka tahtoo valtiopäivämiesvaalia vastaan valituksen
-            tehdä, hänen on käyminen sitä tietä, jonka 16 &amp; Valtiopäiväjärjestyksessä
-            määrää, mutta joka tahtoo tehdä muistutusta itse valtiopäivämiehen
-            personaa vastaan, hänen tulee se tehdä siinä järjestyksessä, kuin
-            Valtiopäiväjärjestyksen 22 8:n jälkimmäinen kohta määrää. Paitsi
+            22 &amp;:n jälkimmäinen kohta on se, josta saattaa eri mieliä
+            syntyä. Siinä sanotaan nimittäin: ,Jokaisen säädyn tulee kuitenkin
+            sitten tutkia valtiopäivämiestoimen käyttämisoikeutta, niin hyvin
+            sellaisen jäsenensä suhteen, jonka valtuuskirja ei ole hyväksytty,
+            kuin myös senkin, jota vastaan muutoin valtiopäiväin kuluessa,
+            tämän perustuslain johdosta, jotakin muistutusta ilmautuu*. Minun
+            mielestäni ei tämä säädyn tutkimisoikeus tarkoita valituksia itse
+            valtiopäivämiesvaalia vastaan, vaan niiden muistutusten tutkimista,
+            joita mahdollisesti tehdään valtiopäivämiehen persoonaa vastaan
+            ja jotka muistutukset tarkoittavat hänen sopimattomuuttaan säädyssä
+            istua. Nämät kohdat Valtiopäivä järjestyksessä olisivat minun
+            mielestäni siis ymmärrettävät niin, että joka tahtoo valtiopäivämiesvaalia
+            vastaan valituksen tehdä, hänen on käyminen sitä tietä, jonka
+            16 &amp; Valtiopäiväjärjestyksessä määrää, mutta joka tahtoo tehdä
+            muistutusta itse valtiopäivämiehen personaa vastaan, hänen tulee
+            se tehdä siinä järjestyksessä, kuin Valtiopäiväjärjestyksen 22
+            8:n jälkimmäinen kohta määrää. Paitsi
           </seg>
         </u>
         <pb facs="https://swerik-project.github.io/valtiopaivat-records-pdf/1885/ptk_1885_talonpojat_II/ptk_1885_talonpojat_II-0250"/>
@@ -16816,7 +16825,8 @@
           rinnan-leveydestä;
         </note>
         <note xml:id="i-15zMKheT7yYnFUxaCSBk2g">
-          26:si) Valtiopäivämies Rosenbergin, koskeva Merilain 44 &amp;:n muuttamista.
+          26:si) Valtiopäivämies Rosenbergin, koskeva Merilain 44 &amp;:n
+          muuttamista.
         </note>
         <note xml:id="i-LE9eGJnf14k8fNVwsx2cuY">
           Vaikka Lakivaliokunnan aika siinä määrin tulee menemään armolliseen
@@ -17180,8 +17190,8 @@
         <note xml:id="i-NYvTAHTw7pmRC7CrMPvG6y">
           Edusmies Brusila arveli, ettei Säädyn kysymyksessä olevassa asiassa
           tulisi ryhtyä mihinkään toimenpiteisin, ennenkuin Lakivaliokunta,
-          V. J:n 30 &amp; mukaan, suorastaan pyytää lisäjäseniä, jota se Säädylle
-          lähettämässään kirjeessä ei ole tehnyt.
+          V. J:n 30 &amp; mukaan, suorastaan pyytää lisäjäseniä, jota se
+          Säädylle lähettämässään kirjeessä ei ole tehnyt.
         </note>
         <note xml:id="i-8i58LSpiqBvH2VrNgmGQcJ" type="speaker">
           Edusmies Duncker:
@@ -17634,10 +17644,11 @@
           Yhteydessä tämän kanssa päätettiin lopuksi, ettei tähän istuntoon
           pöydälle pantua yllämainittua Lakivaliokunnan mietintöä n:o 5
           Keisarillisen Majesteetin armollisen esityksen johdosta siitä,
-          että 12 &amp; Valtiopäiväjärjestyksessä 15 (3) p:ltä Huhtikuuta 1869,
-          semmoisena kuin se kuuluu armollisessa Julistuskirjassa 20 (8)
-          p:ltä Maaliskuuta 1879, muutetaan toisin kuuluvaksi, oteta päätettäväksi,
-          ennenkuin tämä mietintö on Säätyjen yhteisessä istunnossa käsitelty.
+          että 12 &amp; Valtiopäiväjärjestyksessä 15 (3) p:ltä Huhtikuuta
+          1869, semmoisena kuin se kuuluu armollisessa Julistuskirjassa
+          20 (8) p:ltä Maaliskuuta 1879, muutetaan toisin kuuluvaksi, oteta
+          päätettäväksi, ennenkuin tämä mietintö on Säätyjen yhteisessä
+          istunnossa käsitelty.
         </note>
         <note xml:id="i-QPQYChofRcJxwhs1wJwK86">
           N Esitettiin ja pantiin pöydälle huomispäivän istuntoon Lakija
@@ -18072,10 +18083,10 @@
           esityksessä ovat uskotut ehdotetuille lääninkäräjille ovat ensiksi
           epämääräiset ja toiseksi varsin vähäpätöiset. Tosin on valiokunta
           näiden tehtävien suhteen koettanut saada aikaan jonkunlaista selvyyttä
-          siten, että se Keisarillisen esityksen 28 &amp;:stä on poistanut sanat:
-          , Sen lisäksi, mitä valtio tahi erinäiset kunnat siinä suhteessa
-          ovat tehneet*, koska tästä armollisen esityksen pykälästä olisi
-          voitu tulla siihen käsitykseen, että valtion tahi hallinnollisten
+          siten, että se Keisarillisen esityksen 28 &amp;:stä on poistanut
+          sanat: , Sen lisäksi, mitä valtio tahi erinäiset kunnat siinä
+          suhteessa ovat tehneet*, koska tästä armollisen esityksen pykälästä
+          olisi voitu tulla siihen käsitykseen, että valtion tahi hallinnollisten
           virastojen ja kuntain tehtävät pysyvät muuttumattomina ja että
           lääninkäräjäin toimivalta rajoittuisi ainoastaan niihin asioihin,
           jotka ovat valtion, virastojen tahi kuntain tehtäväin ulkopuolella.
@@ -19253,37 +19264,37 @@
             semmoiseen, jossa niitä todellakin on. On myöskin sanottu, että
             kysymys kihlakuntaedustuksesta semmoisena, kuin minä tässä olen
             sitä puolustanut, ainoastaan käsittäisi jonkunlaisia muutoksia
-            20 &amp;:ään kunnallisasetuksessa. joten erinäisissä tapauksissa voitaisiin
-            saada naapurikuntien välillä ilmaantuvia asioita laillisella tavalla
-            päätökseen. En kuitenkaan ole ajatellut minkäänlaisia erinäisiä
-            tapauksia, vaan olen ajatellut todellisen itsehallinnon muodon
-            aikaansaamista, jonka kautta paikkakunnalliset kysymykset voitaisiin
-            saada ratkaistuiksi ja ylimalkaan paikkakunnallisia etuja ja tarpeita
-            valvotuksi ja edistetyksi. On myöskin mainittu siitä, että, jos
-            jonkunlainen kunnallisedustus pantaisiin toimeen ennen kuin maa
-            tulisi hallinnollisessa, kirkollisessa ja oikeudellisessa katsannossa
-            uudestaan jaetuksi, voisi tapahtua että osa laveammasta kunnallisesta
-            hallintopiiristä tämän jaon kautta siirtyisi toiseen lääniin,
-            kuin mihin tämä piiri pääasiallisesti tulisi kuulumaan. Siinä
-            tapauksessa ei tapahtuisi mitään muuta kuin mitä useasti muulloinkin,
-            kun pitäjäin tahi kihlakuntien tahi tuomiokuntien rajoja järjestetään,
-            tapahtuu. Se on luonnollista, että mainittu osa siinä tapauksessa
-            tulisi kuulumaan siihen uuteen kunnallisedustuksen piiriin, johon
-            se tulisi siirretyksi, eikä tästä muutoksesta olisi mitään suurempaa
-            haittaa. Muuten en ole voinut käsittää niitä syvällisiä selityksiä,
-            joita on annettu siitä, että, jos kysymys korkeamman kunnallisen
-            itsehallinnon muodosta pantaisiin riippuvaksi maamme uudesta jaosta,
-            se yhtäkaikki pysyisi päiväjärjestyksessä. Yhtä vähän olen myöskään
-            voinut oikein seurata erään toisen edusmiehen selityksiä niistä
-            mielipiteistä, jotka ovat valiokunnan enemmistössä olleet vallalla.
-            Kun minä luin valiokunnan mietintöön liitetyn vastalauseen, jonka
-            alle myöskin kaikki neljä Talonpoikaissäädyn jäsentä olivat kirjoittaneet
-            nimensä, en voinut muuta käsittää ja uskoa kuin että he todellakin
-            ovat tarkoittaneet sitä, mitä vastalauseessa sanotaan. Nyt olen
-            saanut kuulla, että he, tahi ainakin muutamat heistä, oikeastaan
-            ovat olleet koko asiaa vastaan, ja siis kirjoittaneet nimensä
-            sellaisen ehdotuksen alle, jota eivät ole hyväksyneet. Se minua
-            vähän oudoksuttaa.
+            20 &amp;:ään kunnallisasetuksessa. joten erinäisissä tapauksissa
+            voitaisiin saada naapurikuntien välillä ilmaantuvia asioita laillisella
+            tavalla päätökseen. En kuitenkaan ole ajatellut minkäänlaisia
+            erinäisiä tapauksia, vaan olen ajatellut todellisen itsehallinnon
+            muodon aikaansaamista, jonka kautta paikkakunnalliset kysymykset
+            voitaisiin saada ratkaistuiksi ja ylimalkaan paikkakunnallisia
+            etuja ja tarpeita valvotuksi ja edistetyksi. On myöskin mainittu
+            siitä, että, jos jonkunlainen kunnallisedustus pantaisiin toimeen
+            ennen kuin maa tulisi hallinnollisessa, kirkollisessa ja oikeudellisessa
+            katsannossa uudestaan jaetuksi, voisi tapahtua että osa laveammasta
+            kunnallisesta hallintopiiristä tämän jaon kautta siirtyisi toiseen
+            lääniin, kuin mihin tämä piiri pääasiallisesti tulisi kuulumaan.
+            Siinä tapauksessa ei tapahtuisi mitään muuta kuin mitä useasti
+            muulloinkin, kun pitäjäin tahi kihlakuntien tahi tuomiokuntien
+            rajoja järjestetään, tapahtuu. Se on luonnollista, että mainittu
+            osa siinä tapauksessa tulisi kuulumaan siihen uuteen kunnallisedustuksen
+            piiriin, johon se tulisi siirretyksi, eikä tästä muutoksesta olisi
+            mitään suurempaa haittaa. Muuten en ole voinut käsittää niitä
+            syvällisiä selityksiä, joita on annettu siitä, että, jos kysymys
+            korkeamman kunnallisen itsehallinnon muodosta pantaisiin riippuvaksi
+            maamme uudesta jaosta, se yhtäkaikki pysyisi päiväjärjestyksessä.
+            Yhtä vähän olen myöskään voinut oikein seurata erään toisen edusmiehen
+            selityksiä niistä mielipiteistä, jotka ovat valiokunnan enemmistössä
+            olleet vallalla. Kun minä luin valiokunnan mietintöön liitetyn
+            vastalauseen, jonka alle myöskin kaikki neljä Talonpoikaissäädyn
+            jäsentä olivat kirjoittaneet nimensä, en voinut muuta käsittää
+            ja uskoa kuin että he todellakin ovat tarkoittaneet sitä, mitä
+            vastalauseessa sanotaan. Nyt olen saanut kuulla, että he, tahi
+            ainakin muutamat heistä, oikeastaan ovat olleet koko asiaa vastaan,
+            ja siis kirjoittaneet nimensä sellaisen ehdotuksen alle, jota
+            eivät ole hyväksyneet. Se minua vähän oudoksuttaa.
           </seg>
         </u>
         <note xml:id="i-UGzDMwLp7kLhsZKFPhfUaq">
@@ -20239,9 +20250,9 @@
           752 9 p. Huhtik.
         </note>
         <note xml:id="i-4Wt6D92SmypYHuN4JUtc2D">
-          &amp;:kin myös niin ymmärrettävä, että puhemiehellä tällaisissa järjestysasioissa
-          on päätösvalta. Puhemies kielsi sen vuoksi äänestyksen puheenalaisesta
-          pöydällepanosta.
+          &amp;:kin myös niin ymmärrettävä, että puhemiehellä tällaisissa
+          järjestysasioissa on päätösvalta. Puhemies kielsi sen vuoksi äänestyksen
+          puheenalaisesta pöydällepanosta.
         </note>
         <note xml:id="i-Py77cH2j47etoESQDcEhFb" type="speaker">
           Edusmies Castrén:
@@ -20273,11 +20284,11 @@
           käytellessä armollista esitystä yleisestä rikoslaista että suurin
           osa valiokunnan käsiteltäväksi lykättyjä anomusesityksiä näillä
           valtiopäivillä ei voisi tulla tutkinnon alaiseksi, joll'ei valiokunnan
-          jäseniä, niin kuin Valtiopäiväjärjestyksen 30 &amp; sen myöntää, enennettäisi
-          ja valiokunta siten voisi jakautua osastoihin, on valiokunta,
-          arvellen että säätyjen olisi vaikea löytää tähän sopivia henkilöitä,
-          kirjeessä 24 päivältä viime maaliskuuta jättänyt tämän asian säätyjen
-          päätettäväksi.
+          jäseniä, niin kuin Valtiopäiväjärjestyksen 30 &amp; sen myöntää,
+          enennettäisi ja valiokunta siten voisi jakautua osastoihin, on
+          valiokunta, arvellen että säätyjen olisi vaikea löytää tähän sopivia
+          henkilöitä, kirjeessä 24 päivältä viime maaliskuuta jättänyt tämän
+          asian säätyjen päätettäväksi.
         </note>
         <note xml:id="i-VA6U4nY8hESVwRRfkKZ2qj">
           Tämän johdosta on Lakivaliokunta kaikilta säädyiltä saanut vastaanottaa
@@ -23057,8 +23068,8 @@
         <note xml:id="i-9TL7f4RHvdY6si6uqw2EAv">
           Jag ber derför att fä framställa ett förslag, hvilket afser att
           sä nära som möjligt sluta sig till det som för närvarande är bestäende,
-          men tillika sävidt möjligt skall afhjelpa bristerna uti 12 &amp; i
-          L. O. Mitt förslag vore att, likasom uti regeringens och utskottets
+          men tillika sävidt möjligt skall afhjelpa bristerna uti 12 &amp;
+          i L. O. Mitt förslag vore att, likasom uti regeringens och utskottets
           förslag, en inkomst af 800 mark i alla städer skulle berättiga
           till en röst. Den vidare röstskalan ville jag hafva bestämd efter
           städernas storlek i öfverensstämmelse med den indelning, som förekommer
@@ -23084,15 +23095,15 @@
           p: 11 April.
         </note>
         <note xml:id="i-5UVpMFpawFM9G4LpgY2LDS">
-          särskilda samhällsklasser, hvilka förekomma i &amp; 12 L. O. skulle
-          uteslutas och att derigenom valrätten skulle betydligt utvidgas.
-          Det hade varit önskligt att för bedömmandet af hela denna fråga
-          ega ett statistiskt material, utarbetadt på grund af taxeringslängderna
-          i de skilda städerna. Hvarken regeringen. eller utskottet har
-          dock aktat nödigt eller varit i stånd att framlägga någon dylik
-          statistik. Man måste derför nöja sig med de uppgifter, som på
-          enskild väg kunna inhemtas. Och ber jag här att få framlägga några
-          siffror, hemtade från olika städers vallängder.
+          särskilda samhällsklasser, hvilka förekomma i &amp; 12 L. O.
+          skulle uteslutas och att derigenom valrätten skulle betydligt
+          utvidgas. Det hade varit önskligt att för bedömmandet af hela
+          denna fråga ega ett statistiskt material, utarbetadt på grund
+          af taxeringslängderna i de skilda städerna. Hvarken regeringen.
+          eller utskottet har dock aktat nödigt eller varit i stånd att
+          framlägga någon dylik statistik. Man måste derför nöja sig med
+          de uppgifter, som på enskild väg kunna inhemtas. Och ber jag här
+          att få framlägga några siffror, hemtade från olika städers vallängder.
         </note>
         <note xml:id="i-BqBKVQzmcmcMjkvmnp7grP">
           I Helsingfors, der skattöret är 400 mark, funnos år 1884 röstberättigade
@@ -23448,14 +23459,14 @@
         <note xml:id="i-CaLA3GvCZFfowd1DeXJu9A">
           Hvad beträffar de öfriga förslagen, sä faller det sig för mig
           svårt att bestämdt afgöra om företrädet mellan den nåd. prop.
-          å ena sidan och utskottsbet. &amp; den andra. Utskottsbet. har ett
-          visst företräde deruti att det bestämmer en fix minimisumma af
-          inkomster, som berättigar till valrätt och äfven genom att bestämma
-          en fix grund för röststegringen, hvarigenom man stänger porten
-          för allehanda politiska agitationer. Men å andra sidan har tyvärr
-          utskottet höjt den inkomst som berättigar röstmaximum, sä att
-          i alla städer den inkomst skulle medföra maximum, som enligt den
-          nädiga propositionen gjorde det endast i de städer der skattöret
+          å ena sidan och utskottsbet. &amp; den andra. Utskottsbet. har
+          ett visst företräde deruti att det bestämmer en fix minimisumma
+          af inkomster, som berättigar till valrätt och äfven genom att
+          bestämma en fix grund för röststegringen, hvarigenom man stänger
+          porten för allehanda politiska agitationer. Men å andra sidan
+          har tyvärr utskottet höjt den inkomst som berättigar röstmaximum,
+          sä att i alla städer den inkomst skulle medföra maximum, som enligt
+          den nädiga propositionen gjorde det endast i de städer der skattöret
           är högst. Alltsä har lagutskottet i denna del frängätt den nädiga
           propositionen uti en retrogad riktning. För öfrigt anser
         </note>
@@ -23517,25 +23528,25 @@
           det fjerde ständet, borde reformeras, emedan ocksä der vid de
           primära valen pä visst sätt en graderad röstskala finnes. Jag
           önskar att sä mä ske och jag tänker att om i fräga varande reform
-          sker i afseende &amp; borgareständet, den kommer att medföra en motsvarande
-          reform äfven i afseende &amp; bondeståndet; ett skäl till att nu votera
-          för den ifrågasatta reformen. Man kan dock vara lugn för att icke
-          demokratins röda spöke kommer att hota vär fredliga samhällsutveckling,
-          ty konserverande element komma nog alltid att finnas inom vära
-          tvä första ständ, om de ocksä icke skulle vara tillräckligt starka
-          i de tvä öfriga. Man kunde mähända säga att en reform sädan som
-          denna borde sparas för en kommande omfattande representationsreform.
-          Vore verkligen nägon utsigt för handen att en sädan kunde inom
-          en icke alltför aflägsen framtid ästadkommas, sä skulle jag läta
-          detta resonnement gälla, men jag fruktar att icke nägon utsigt
-          dertill nu finnes. Man tyckes för närvarande alls icke tendera
-          till en sädan allmän representationsreform, hvarför jag tror det
-          riktigaste vara att söka ästadkomma en partiel reform, dä tillfälle
-          dertill erbjuder sig. Och dessa reformer böra gå i en riktning
-          som är öfverensstämmande med och icke afviker frän den, hvari
-          öfverhufvudtaget utvecklingen gär hos kultur-folken. I fall vi
-          icke våga omedelbart tillämpa de fullt riktiga principerna, så
-          må vi dock åtminstone, när flera förslag föreligga, välja det
+          sker i afseende &amp; borgareständet, den kommer att medföra en
+          motsvarande reform äfven i afseende &amp; bondeståndet; ett skäl
+          till att nu votera för den ifrågasatta reformen. Man kan dock
+          vara lugn för att icke demokratins röda spöke kommer att hota
+          vär fredliga samhällsutveckling, ty konserverande element komma
+          nog alltid att finnas inom vära tvä första ständ, om de ocksä
+          icke skulle vara tillräckligt starka i de tvä öfriga. Man kunde
+          mähända säga att en reform sädan som denna borde sparas för en
+          kommande omfattande representationsreform. Vore verkligen nägon
+          utsigt för handen att en sädan kunde inom en icke alltför aflägsen
+          framtid ästadkommas, sä skulle jag läta detta resonnement gälla,
+          men jag fruktar att icke nägon utsigt dertill nu finnes. Man tyckes
+          för närvarande alls icke tendera till en sädan allmän representationsreform,
+          hvarför jag tror det riktigaste vara att söka ästadkomma en partiel
+          reform, dä tillfälle dertill erbjuder sig. Och dessa reformer
+          böra gå i en riktning som är öfverensstämmande med och icke afviker
+          frän den, hvari öfverhufvudtaget utvecklingen gär hos kultur-folken.
+          I fall vi icke våga omedelbart tillämpa de fullt riktiga principerna,
+          så må vi dock åtminstone, när flera förslag föreligga, välja det
           som är det relativt bästa, alltså i nu föreliggande fall det förslag,
           som har framstälts af de ärade representanter hvilka underskrifvit
           reservationen n:o 2.
@@ -24285,11 +24296,11 @@
           kuin 332 henkilöä eli !/, ja 1/3 välillä, tekevä yhteensä 37 prosenttia.
         </note>
         <note xml:id="i-AxgsHASV956oNFQta1cKq5">
-          Ne kansalaisryhmät jotka tähän saakka V. J:n 12 &amp; mukaan ovat
-          olleet poissuljetut vaalioikeudesta porvarissäätyyn, mutta jotka
-          Keis. esityksen nojalla tulisivat sitä nauttimaan, ovat: kauppamerimiehet,
-          alhainen sotaväestö, paitsi vakinaisessa palveluksessa oleva,
-          yleisten ja yksityisten laitosten ja yhdyskuntain vahtipalvelijat,
+          Ne kansalaisryhmät jotka tähän saakka V. J:n 12 &amp; mukaan
+          ovat olleet poissuljetut vaalioikeudesta porvarissäätyyn, mutta
+          jotka Keis. esityksen nojalla tulisivat sitä nauttimaan, ovat:
+          kauppamerimiehet, alhainen sotaväestö, paitsi vakinaisessa palveluksessa
+          oleva, yleisten ja yksityisten laitosten ja yhdyskuntain vahtipalvelijat,
           toisen palveluksessa tai alituisessa työssä olevat henkilöt, päiväpalkkalaiset
           ja muut sellaiset, jotka elättävät itseään satunnaisella työllä;
           ne jotka omaksi elatuksekseen saavat jotakin elinkeinoa harjoittaa.
@@ -25479,8 +25490,8 @@
           det på sådana skäl, som förekomma på pag 17 der han säger: ,Men
           denna tolkning har först och främst paragrafens tydliga ordalydelse
           emot sig", sä ligger deri ett svårt angrepp emot alla dem, som
-          uti 12 &amp; af L. O. läst en annan mening än frih Wrede. Dessa ord
-          innebära att man icke iakttagit den tydliga mening, som skulle
+          uti 12 &amp; af L. O. läst en annan mening än frih Wrede. Dessa
+          ord innebära att man icke iakttagit den tydliga mening, som skulle
           framgä ur paragrafen, utan antingen af okunnighet eller tanklöshet
           omfattat en annan mening. Det är dessa härda ord jag velat tilibakavisa.
           Jag nämnde redan att jag nyss under debatten tyckte mig finna,
@@ -25495,8 +25506,8 @@
           är fräga om fullt detsamma som i L. O.: i den förra talas blott
           om att vinna ändring i valsättet, icke om ändring i ordningen
           för valet. Derför, när man sedermera fann det vara nödvändigt
-          att ocksä i afseende &amp; röstberäkningen medgifva befogenhet att
-          vinna ändring, tillade man att äfven ändring i röstberäkningen
+          att ocksä i afseende &amp; röstberäkningen medgifva befogenhet
+          att vinna ändring, tillade man att äfven ändring i röstberäkningen
           skulle kunna erhällas pä lika sätt. I 12 $ af L. O. talas deremot
           icke endast om valsättet, utan om bäde sättet och ordningen för
           valet, och med ordning menas uppenbarligen hela valordningen.
@@ -25572,29 +25583,29 @@
           $ af L. O., der det angående presteståndet stadgas: , Om sätt
           och ordning för valen inom de särskilda stiften må de väljande
           sig emellan öfverenskomma"'. Äfven der är fråga om hela valordningen,
-          röstberäkningen inbegripen. Hafva i 11 &amp; orden ,,sätt och ordning
-          för valen' denna betydelse, huru skulle de dä kunna tolkas annorlunda
-          i den 12:te. Häraf tyckes mig framgä otvetydigt, att styrelsens
-          tolkning varit riktig, eller ätminstone att den icke med skäl
-          kan klandras. Jag skulle derför gerna sett att det angrepp, som
-          gjorts mot denna tolkning, icke blifvit framstäldt pä sädant sätt,
-          som det skett i frih. Wredes reservation. (Bra! bra!) Hr Schauman,;
-          B. O.: Ehuru jag till en del eller i viss män har blifvit förekommen
-          af hr Runeberg och t. o. m. af frih. . Wrede, vill jag dock yttra
-          i största korthet och i allmänhet hvad jag ämnat. Äfven jag hör
-          till det troligen stora flertalet af de här församlade representanterne
-          för finska folket, hvilka anse att diskussionen nu här pä detta
-          rum, i öfverensstämmelse med 47 8 af L. O., icke kommer att leda
-          till något praktiskt resultat, d. v. s. att alla fyra stånd komma
-          att stanna i samma beslut angäende denna högst vigtiga grundlagsfräga,
-          närmast rörande ett af dessa ständ. Dä nu här är fräga om politisk
-          valrätt och representationsrätt, sä mäste man kasta öfver bord
-          icke allenast alla exempel frän andra länder, utan ocksä alla
-          principiella och ideella grunder för detsamma, dem man inhemtat
-          från de bäste och störste statsrättslärare ända frän Montesguieus
-          och Rousseaus dagar, och för hvilka man svärmat i ungdomsären,
-          dä man, säsom fallet är med mig, redan längesedan öfverskridit
-          deras gräns.
+          röstberäkningen inbegripen. Hafva i 11 &amp; orden ,,sätt och
+          ordning för valen' denna betydelse, huru skulle de dä kunna tolkas
+          annorlunda i den 12:te. Häraf tyckes mig framgä otvetydigt, att
+          styrelsens tolkning varit riktig, eller ätminstone att den icke
+          med skäl kan klandras. Jag skulle derför gerna sett att det angrepp,
+          som gjorts mot denna tolkning, icke blifvit framstäldt pä sädant
+          sätt, som det skett i frih. Wredes reservation. (Bra! bra!) Hr
+          Schauman,; B. O.: Ehuru jag till en del eller i viss män har blifvit
+          förekommen af hr Runeberg och t. o. m. af frih. . Wrede, vill
+          jag dock yttra i största korthet och i allmänhet hvad jag ämnat.
+          Äfven jag hör till det troligen stora flertalet af de här församlade
+          representanterne för finska folket, hvilka anse att diskussionen
+          nu här pä detta rum, i öfverensstämmelse med 47 8 af L. O., icke
+          kommer att leda till något praktiskt resultat, d. v. s. att alla
+          fyra stånd komma att stanna i samma beslut angäende denna högst
+          vigtiga grundlagsfräga, närmast rörande ett af dessa ständ. Dä
+          nu här är fräga om politisk valrätt och representationsrätt, sä
+          mäste man kasta öfver bord icke allenast alla exempel frän andra
+          länder, utan ocksä alla principiella och ideella grunder för detsamma,
+          dem man inhemtat från de bäste och störste statsrättslärare ända
+          frän Montesguieus och Rousseaus dagar, och för hvilka man svärmat
+          i ungdomsären, dä man, säsom fallet är med mig, redan längesedan
+          öfverskridit deras gräns.
         </note>
         <pb facs="https://swerik-project.github.io/valtiopaivat-records-pdf/1885/ptk_1885_talonpojat_II/ptk_1885_talonpojat_II-0405"/>
         <note xml:id="i-JeZ8hxvscdGTEqnjnuT93N">
@@ -25663,17 +25674,17 @@
         <note xml:id="i-PHvAA9aRc5fB8BSRrEFAn2">
           Hr Elving: Då jag i afseende å frågan om röstberäkningen vid
           val till borgareståndet och möjligheten att med stöd af L. O:s
-          12 &amp; begränsa denna rösträtt, är af samma uppfattning som frih.
-          Wrede i hans reservation, ber jag att med anledning deraf få yttra
-          några ord. Senator Ehrström har åberopat en strof i grundlagutskottets
+          12 &amp; begränsa denna rösträtt, är af samma uppfattning som
+          frih. Wrede i hans reservation, ber jag att med anledning deraf
+          få yttra några ord. Senator Ehrström har åberopat en strof i grundlagutskottets
           betänkande vid 1867 års landtdag, så lydande ,angående landtdagsmannavals
           förrättande'samt vid beräkningen af dervid afgifna röster äro
           hittills gällande stadganden bibehällna*. Gäller det sedan att
           taga reda på hurudana de äldre stadgandena voro, så finner man
-          af 3 &amp; i Kgl. förklaringen af den 5 Juni 1739 följande: , rösterna
-          gälla efter hvars och ens andel i utskylderna, öretalet eller
-          hvad annan grund, som till jemkning borgerskapet emellan i staden
-          kan vara antagen.”
+          af 3 &amp; i Kgl. förklaringen af den 5 Juni 1739 följande: ,
+          rösterna gälla efter hvars och ens andel i utskylderna, öretalet
+          eller hvad annan grund, som till jemkning borgerskapet emellan
+          i staden kan vara antagen.”
         </note>
         <note xml:id="i-KvWTQnqJ6e1J4oU3KHDBKB">
           Och detta stadgande, att rösträtten skulle vara obegränsad, bekräftas
@@ -25684,9 +25695,9 @@
           till borgareståndet var obegränsad.
         </note>
         <note xml:id="i-CzNgfwWCUsCsqV5vasvfrh">
-          Nu har man, med åberopande af 12 &amp; i L. O. sökt framställa två
-          grunder för rättigheten att inskränka röstetalet, att införa ett
-          röstmaximum. Den ena tolkningen är den, som af senator Ehrström
+          Nu har man, med åberopande af 12 &amp; i L. O. sökt framställa
+          två grunder för rättigheten att inskränka röstetalet, att införa
+          ett röstmaximum. Den ena tolkningen är den, som af senator Ehrström
           här framhällits, nämligen att berörda rättighet skulle hafva stöd
           deri att denna $ af L. O. tilläter de valberättigade att besluta
           om ändrings vidtagande ,i sättet och ordningen för valet". Den
@@ -25987,17 +25998,18 @@
           kan dä vara skäl att, såsom frih. Wrede säga, att ett förslag,
           som gär ut härpä, icke är reaktionärt; det är vidare skäl, att,
           säsom hr Heikel, föreslä, att valcensus bestämmes fixt, oberoende
-          af de möjligen förekommande olikheterna i lefnadskostnaden &amp; olika
-          orter. I detta afseende, eller rörande fastställandet af en taxeringscensus
-          nedåt, ber jag derför att i hufvudsak få ställa mig pä hr Heikels
-          ståndpunkt, men dä han sedan, dä det gäller att bestämma det inkomstbelopp,
-          enligt hvilket rösterna utöfver den första skola beräknas, vill
-          uppgöra en klassifikation af städerna, beroende af deras folkrikedom,
-          sä anser jag, att han gör sig skyldig till en inkonsegvens. Skall
-          man afse de olika lefnadskostnaderna i en fräga som denna, sä
-          bör man väl göra det, dä man beräknar existensminimum; icke sä
-          mycket dä det gäller att bestämma grunderna för den högre röstberäkningen.
-          För öfrigt motväges den orättvisa, som möjligen kunde
+          af de möjligen förekommande olikheterna i lefnadskostnaden &amp;
+          olika orter. I detta afseende, eller rörande fastställandet af
+          en taxeringscensus nedåt, ber jag derför att i hufvudsak få ställa
+          mig pä hr Heikels ståndpunkt, men dä han sedan, dä det gäller
+          att bestämma det inkomstbelopp, enligt hvilket rösterna utöfver
+          den första skola beräknas, vill uppgöra en klassifikation af städerna,
+          beroende af deras folkrikedom, sä anser jag, att han gör sig skyldig
+          till en inkonsegvens. Skall man afse de olika lefnadskostnaderna
+          i en fräga som denna, sä bör man väl göra det, dä man beräknar
+          existensminimum; icke sä mycket dä det gäller att bestämma grunderna
+          för den högre röstberäkningen. För öfrigt motväges den orättvisa,
+          som möjligen kunde
         </note>
         <pb facs="https://swerik-project.github.io/valtiopaivat-records-pdf/1885/ptk_1885_talonpojat_II/ptk_1885_talonpojat_II-0413"/>
         <note xml:id="i-A8x9yLRkVeK6nigq9Afe1o">
@@ -26047,10 +26059,11 @@
           Tämä käsitys ei ole aivan uusi. Se ilmestyi luullakseni ensi
           kerran vaaleissa viime valtiopäiville, ja sitä on kannattanut
           meidän tehdaskaupunkimme kuuluisa maistrati ja vielä kuuluisampi
-          pormestari. — Onkin totta että V. J:n 12 &amp; saattaa näyttää epäselvältä.
-          Se seikka että se sallii muutoksen , vaalin tavassa ja järjestyksessä*
-          ei vielä minun käsittääkseni välttämättömästi sisällä sitä, että
-          muutos myöskin äänilaskun perusteissa olisi mahdollinen.
+          pormestari. — Onkin totta että V. J:n 12 &amp; saattaa näyttää
+          epäselvältä. Se seikka että se sallii muutoksen , vaalin tavassa
+          ja järjestyksessä* ei vielä minun käsittääkseni välttämättömästi
+          sisällä sitä, että muutos myöskin äänilaskun perusteissa olisi
+          mahdollinen.
         </note>
         <pb facs="https://swerik-project.github.io/valtiopaivat-records-pdf/1885/ptk_1885_talonpojat_II/ptk_1885_talonpojat_II-0414"/>
         <note xml:id="i-5wWzck5y2Zkoc75R3R7RHu">
@@ -26177,18 +26190,18 @@
           ja mahdollisesti monet muut vaativat, mutta yhdessä hallituksen
           useasti tekemäin päätösten kanssa on se kuitenkin pidettävä molempien
           valtiomahtien tuomiona puheena olevassa riitakysymyksessä, 12
-          &amp;n käsittämisestä. Eikä tästä tuomiosta ole minkäänlaista vetoamisoikeutta
-          — Yksityiset meistä saattavat katsoa, että tuomio on ollut väärä,
-          — se on heidän oikeutensa, — mutta heidän täytyy, meidän täytyy
-          kaikkien alistua sen alle. (Hyvä!) Lakina on Suomessa ainoastaan
-          se, mitä molemmat valtiomahdit määräävät ja selittävät laiksi,
-          ei se, mitä yksityiset meistä laiksi luulevat tai laiksi selittävät.
-          (Hyvä!) Kun vapaaherra Wrede ja* hänen mielenheimolaisensa ottavat
-          tyynellä mielellä tätä kohtaa ajatellakseen, niin eivät he enää
-          taitane mennä uudistamaan sitä väitettä, joka nyt on hänen vastalauseessaan
-          luettavana, että nuo vaalijärjestykset ovat perustuslakia vastaan
-          sotivalla tavalla tulleet toimeen; minä oletan nimittäin että
-          he kaikki ovat lojaalisia kansalaisia, jotka alistuvat valtiomahtiemme
+          &amp;n käsittämisestä. Eikä tästä tuomiosta ole minkäänlaista
+          vetoamisoikeutta — Yksityiset meistä saattavat katsoa, että tuomio
+          on ollut väärä, — se on heidän oikeutensa, — mutta heidän täytyy,
+          meidän täytyy kaikkien alistua sen alle. (Hyvä!) Lakina on Suomessa
+          ainoastaan se, mitä molemmat valtiomahdit määräävät ja selittävät
+          laiksi, ei se, mitä yksityiset meistä laiksi luulevat tai laiksi
+          selittävät. (Hyvä!) Kun vapaaherra Wrede ja* hänen mielenheimolaisensa
+          ottavat tyynellä mielellä tätä kohtaa ajatellakseen, niin eivät
+          he enää taitane mennä uudistamaan sitä väitettä, joka nyt on hänen
+          vastalauseessaan luettavana, että nuo vaalijärjestykset ovat perustuslakia
+          vastaan sotivalla tavalla tulleet toimeen; minä oletan nimittäin
+          että he kaikki ovat lojaalisia kansalaisia, jotka alistuvat valtiomahtiemme
           päätöksen ja lainselityksen alle.
         </note>
         <note xml:id="i-3Sja15M74qXKPQDt8JfmqL">
@@ -26282,9 +26295,9 @@
           voisi viedä meidän yhteiseen päätökseen ja saada riitakysymyksen
           poistetuksi, joka epäilemättä, jos se jää eloon, tulee seuraavina
           vuosina olemaan se kysymys, joka kiihottaa ja suuresti myös myrkyttää
-          meidän valtiollisen elämämme. &amp;Ehdotuksellani on se suuri etu,
-          että valtiollista äänivaltaa ei ole siinä mitenkään pantu yhteyteen
-          kunnallisten veroäyrien kanssa, joten kaikellainen aaltiollinen
+          meidän valtiollisen elämämme. &amp;Ehdotuksellani on se suuri
+          etu, että valtiollista äänivaltaa ei ole siinä mitenkään pantu
+          yhteyteen kunnallisten veroäyrien kanssa, joten kaikellainen aaltiollinen
           keinotteleminen tätä määrättäessä on estetty; haittana siinä on
           tosin se, että kajaanilainen tulee äänestämään saman ääniasteikon
           mukaan kuin helsinkiläinen, mutta se haitta aikain kuluessa, kulkuneuvojen
@@ -26546,22 +26559,22 @@
           En föregäende ärad talare, hr Runeberg, klandrade det äberopande,
           som nägra talare här gjort af utlandets förhällanden, och fann
           det vara en tom parad att äberopa dessa förhällanden i afseende
-          &amp; allmänna rösträtten, i hvars lofordande talarne, enligt hr Runebergs
-          tanke, täflat om att öfverbjuda hvarandra och som, enligt frib.
-          Wredes äsigt, vore någonting till saken icke hörande, någonting
-          hos oss otillämpligt. Jag tillåter mig att häri hysa en annan
-          äsigt och ber att till stöd derför fä äberopa hr Runebergs erkännande,
-          att lika omöjligt som det är att fä floden att rinna uppät, lika
-          omöjligt är det att ändra rösträtten i det syfte, att man restringerar
-          densamma. Det är endast ett liberalt röstberäkningssätt som har
-          sitt berättigande, det är endast en utveckling i libera] riktning
-          som är möjlig; detta finna vi att äfven frih. Wrede, om ocksä
-          med vemod, erkänt, dä han yttrar, att ingen ätergäng är möjlig,
-          sedan man härvid gifvit med sig. Utlandets exempel och vär egen
-          politiska historia hafva äfvenledes tydligt visat, i hvilken riktning
-          hela utvecklingen tenderar. Det är derför som man nu måste tänka
-          jemväl pä detta slutmål och icke kan nöja sig med en förändring
-          för gängen.
+          &amp; allmänna rösträtten, i hvars lofordande talarne, enligt
+          hr Runebergs tanke, täflat om att öfverbjuda hvarandra och som,
+          enligt frib. Wredes äsigt, vore någonting till saken icke hörande,
+          någonting hos oss otillämpligt. Jag tillåter mig att häri hysa
+          en annan äsigt och ber att till stöd derför fä äberopa hr Runebergs
+          erkännande, att lika omöjligt som det är att fä floden att rinna
+          uppät, lika omöjligt är det att ändra rösträtten i det syfte,
+          att man restringerar densamma. Det är endast ett liberalt röstberäkningssätt
+          som har sitt berättigande, det är endast en utveckling i libera]
+          riktning som är möjlig; detta finna vi att äfven frih. Wrede,
+          om ocksä med vemod, erkänt, dä han yttrar, att ingen ätergäng
+          är möjlig, sedan man härvid gifvit med sig. Utlandets exempel
+          och vär egen politiska historia hafva äfvenledes tydligt visat,
+          i hvilken riktning hela utvecklingen tenderar. Det är derför som
+          man nu måste tänka jemväl pä detta slutmål och icke kan nöja sig
+          med en förändring för gängen.
         </note>
         <note xml:id="i-FmH3eHtFwATTsJRu4wgtmH">
           Det som alla mäste erkänna är att hvad 1882 ärs ständer äsyftat
@@ -26574,8 +26587,8 @@
           medborgare, hvilka förut varit utestängda frän ätnjutandet af
           politisk rösträtt, nu utsträckt densamma. Men en annan sak är,
           hurudan betydelsen är af de inskränkningar, som samma nåd. prop.
-          gjort. Här har framdragits statistiska siffror &amp; önise sidor och
-          man har sökt vederlägga dem. Dessa vederläggningar hafva ibland
+          gjort. Här har framdragits statistiska siffror &amp; önise sidor
+          och man har sökt vederlägga dem. Dessa vederläggningar hafva ibland
           utfallit olyckligt, sä t. ex. dä en ärad talare pä senatorsbänken
           betecknade säsom ett misstag af hr Ignatius, hvad som i sjelfva
           verket var ett misstag af honom sjelf, ty hr Ignatius talade dä
@@ -26938,8 +26951,8 @@
           man t. ex. till hvad i 1731 eller 1739 ärs författningar bestämdes
           om medelbara val, genom elektorer, huru det väljande borgerskapet
           skulle fördelas i grupper, sä framgär deraf, att det stod borgerskapet
-          fritt att i afseende &amp; skattebeloppet inom grupperna jemka, sä
-          att de blefvo ungefär jemnstarka. Ehuru således före 1869 det
+          fritt att i afseende &amp; skattebeloppet inom grupperna jemka,
+          sä att de blefvo ungefär jemnstarka. Ehuru således före 1869 det
           faktiska förhällandet egde rum att, säsom professor Rosenborg
           uttalar, taxeringslängderna merändels = tillika utgjorde röstlängder,
           men ingenting hindrade de burskap egande att sig emellan och utan

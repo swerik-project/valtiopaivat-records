@@ -1,5 +1,5 @@
-<?xml version='1.0' encoding='utf-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="ptk_1885_talonpojat_III">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -25,8 +25,12 @@
   <text>
     <front>
       <div type="preface">
-        <head>ptk_1885_talonpojat_III</head>
-        <docDate when="1885-01-01">1885-01-01</docDate>
+        <head>
+          ptk_1885_talonpojat_III
+        </head>
+        <docDate when="1885-01-01">
+          1885-01-01
+        </docDate>
       </div>
     </front>
     <body>
@@ -772,11 +776,11 @@
           nimittäin 50 vuoden kuluttua toinen niistä maksamaan vuotuista
           veroa 356 markkaa 25 penniä, mutta toinen ainoastaan 153 markkaa
           88 penniä. Niinikään tulisi samassa pitäjässä löytyvä rustholli
-          n:o 52 &amp; 53 Näsegärd, jolla ei ole rusthollin omia veroja ollenkaan,
-          armollisen esityksen mukaan jäämään kokonaan verottomaksi, niin
-          4 manttaalin säteri kuin se onkin. Saman luettelon mukaan (siv.
-          18) kuuluu Vehmaan komppaniaan 1 1/, manttaalin rustholli n:o
-          89 Paltvuori Taivassalon kunnassa. Korvaukseksi ratsuvarustuspalveluksestaan
+          n:o 52 &amp; 53 Näsegärd, jolla ei ole rusthollin omia veroja
+          ollenkaan, armollisen esityksen mukaan jäämään kokonaan verottomaksi,
+          niin 4 manttaalin säteri kuin se onkin. Saman luettelon mukaan
+          (siv. 18) kuuluu Vehmaan komppaniaan 1 1/, manttaalin rustholli
+          n:o 89 Paltvuori Taivassalon kunnassa. Korvaukseksi ratsuvarustuspalveluksestaan
           saa se tätä nykyä 315 markkaa 69 penniä. Armollisen esityksen
           mukaan tulisi se 50 vuoden kuluttua menettämään tämän augmenttiveronsa
           ja maksamaan vuotuista veroa 442 markkaa 68 penniä, joten tämä
@@ -896,15 +900,16 @@
             rustholleihin, vaan myöskin pieniin. Tahdon esimerkin vuoksi mainita,
             että Halikon komppaniaan kuuluva rustholli n:o 23 Heikkilä tulisi
             armollisen esityksen ensimmäisen vaihtopuolen mukaan, vaikka se
-            on ainoastaan !/&gt; manttaalin rustholli, saamaan peruutusajan loputtua
-            lisää vuotuista veroa vähän vaille 150 markkaa. Samoin tulisi
-            henkikomppaniaan kuuluva 3/, manttaalin rustholli n:o 28 Saramäen
-            Pukkila, joka tähän asti on saanut nauttia varustusveroa yli 160
-            veroruplan, vaikka sen ratsuvarustusvelvollisuus valiokunnan mielipiteen
-            mukaan ei vastaa muuta kuin 79 veroruplaa — jonka minä puolestani
-            sentään katson liian pieneksi — saamaan vuotuista veron lisäystä
-            80 veroruplaa eli noin 500 markkaa, ja tällainen veronlisäys veisi
-            näin pienen tilan auttamatta perikadon partaalle. Tä-
+            on ainoastaan !/&gt; manttaalin rustholli, saamaan peruutusajan
+            loputtua lisää vuotuista veroa vähän vaille 150 markkaa. Samoin
+            tulisi henkikomppaniaan kuuluva 3/, manttaalin rustholli n:o 28
+            Saramäen Pukkila, joka tähän asti on saanut nauttia varustusveroa
+            yli 160 veroruplan, vaikka sen ratsuvarustusvelvollisuus valiokunnan
+            mielipiteen mukaan ei vastaa muuta kuin 79 veroruplaa — jonka
+            minä puolestani sentään katson liian pieneksi — saamaan vuotuista
+            veron lisäystä 80 veroruplaa eli noin 500 markkaa, ja tällainen
+            veronlisäys veisi näin pienen tilan auttamatta perikadon partaalle.
+            Tä-
           </seg>
         </u>
         <pb facs="https://swerik-project.github.io/valtiopaivat-records-pdf/1885/ptk_1885_talonpojat_III/ptk_1885_talonpojat_III-0015"/>
@@ -1359,12 +1364,12 @@
           14 p. Hubtik. 809
         </note>
         <note xml:id="i-9J8M6NVaph3EvHpzVDKkF3">
-          Landtdagsmannen Hollm&amp;rus ville mot en föregående ta- Jare framhälla
-          att Statsutskottet vid senaste landtdag icke beräknat rustningskostnaden
-          till 82 skatterubei, utan till 75 rubel 67 kopek, hvilket belopp
-          Utskottet sedan utbytt mot jemna 76 skatterubel. Detta framgär
-          af det betänkande Statsutskottet vid senaste landtdag afgifvit
-          i rusthällsfrägan.
+          Landtdagsmannen Hollm&amp;rus ville mot en föregående ta- Jare
+          framhälla att Statsutskottet vid senaste landtdag icke beräknat
+          rustningskostnaden till 82 skatterubei, utan till 75 rubel 67
+          kopek, hvilket belopp Utskottet sedan utbytt mot jemna 76 skatterubel.
+          Detta framgär af det betänkande Statsutskottet vid senaste landtdag
+          afgifvit i rusthällsfrägan.
         </note>
         <note xml:id="i-5Ye5214j5mUvE5wwHApAZK">
           Edusmies Karlstedt kannatti edusmies Avellanin ehdotusta, vaikka
@@ -2057,9 +2062,9 @@
             ja siitä syystä minä hyväksyn sen suunnan, joka on ehdotettu meneväksi
             Mikkelistä Halmeniemen kautta Kaipiaisiin, koska se tulee välittämään
             sekä itään että länteenpäin menevää liikettä. Pohjoisen osan suunnasta
-            olen samaa mieltä kuin edusmies Hollm&amp;rus. En tosin aivan tarkoin
-            tunne näitä seutuja, mutta olen kumminkin muutamissa paikoin siellä
-            liikkunut ja huomannut asian laidan olevan, niinkuin edusmies
+            olen samaa mieltä kuin edusmies Hollm&amp;rus. En tosin aivan
+            tarkoin tunne näitä seutuja, mutta olen kumminkin muutamissa paikoin
+            siellä liikkunut ja huomannut asian laidan olevan, niinkuin edusmies
             Hollmörus on maininnut. Koska paitsi sitä en katso Savon rataa
             emäradaksi, vaan pidän sen paikallisratana, niin tulee sen mielestäni
             kulkea enemmän viljeltyjen paikkakuntain läpi.
@@ -4076,8 +4081,8 @@
         <note xml:id="i-2FsQefWgr48xhW8D9KFSZ3">
           hus. Om nu den summa, som af 1,500,000 mark blefve gvar efter
           inlösen af nägon af nämnda byggnader, skulle användas till yttre
-          prydnader &amp; huset, sä är jag öfvertygad derom att vi finge ett
-          ständerhus, som fullt motsvarade vårt behof och väl försvarade
+          prydnader &amp; huset, sä är jag öfvertygad derom att vi finge
+          ett ständerhus, som fullt motsvarade vårt behof och väl försvarade
           sin plats säsom Finlands ständerhus.
         </note>
         <note xml:id="i-WWnZMR9jzh8br4aCcCtd5X">
@@ -4757,10 +4762,11 @@
           Puhemies julisti nyt keskustelun loppuneeksi ja lausui, ettei
           hän, siihen katsoen, mitä valtiopäivillä ennen on ollut tapana
           valiokuntain mietintöjä, kysymyksiä ja kirjeitä Säädyssä käsiteltäessä
-          sekä Valtiopäiväjärjestyksen 56 &amp;:n nojalla verrattuna 63 S:ään,
-          voi huomata mitään syytä, jonka nojalla voisi äänestystä kysymyksessä
-          olevassa asiassa kieltää, varsinkin koska 56 $:ssä selvästi sanotaan,
-          että jos valiokunta on jotakin kysynyt, niin on Säädyn siitä ratkaistava.
+          sekä Valtiopäiväjärjestyksen 56 &amp;:n nojalla verrattuna 63
+          S:ään, voi huomata mitään syytä, jonka nojalla voisi äänestystä
+          kysymyksessä olevassa asiassa kieltää, varsinkin koska 56 $:ssä
+          selvästi sanotaan, että jos valiokunta on jotakin kysynyt, niin
+          on Säädyn siitä ratkaistava.
         </note>
         <note xml:id="i-MKVFXb7jYUUSAEoSDRQLJi">
           Koska mitään varsinaista erimielisyyttä ei ollut keskustelun
@@ -4839,7 +4845,8 @@
           ään.
         </note>
         <note xml:id="i-GwPKRPiuP2m77fBfXWwC23">
-          Landtdagsmannen Hollm&amp;rus biträdde den föregående talarens yrkande.
+          Landtdagsmannen Hollm&amp;rus biträdde den föregående talarens
+          yrkande.
         </note>
         <note xml:id="i-FvjTGHnje1vQEw7pMssXbb">
           Landtdagsmannen Martola instämde i landtdagsmannen Svedbergs
@@ -6994,10 +7001,10 @@
           ja katsonut selitykseksi että Kandidaatti Vehanen vuonna 1884
           on ollut hengille pantuna Turun kaupungissa ja että hän myös samana
           vuonna on siellä asunut ja oloa pitänyt, ilman että Vehanen sittemmin
-          on hengille pantu muuhun kuntaan; mistä syystä ja kun 12 &amp; Helmikuun
-          20 päivänä 1865 annetussa asetuksessa henkiveroista, verrattuna
-          sääntöön kotopaikkaoikeudesta 19 &amp;:ssä asetuksessa 17 päivältä
-          Maaliskuuta 1879, osoitti että
+          on hengille pantu muuhun kuntaan; mistä syystä ja kun 12 &amp;
+          Helmikuun 20 päivänä 1865 annetussa asetuksessa henkiveroista,
+          verrattuna sääntöön kotopaikkaoikeudesta 19 &amp;:ssä asetuksessa
+          17 päivältä Maaliskuuta 1879, osoitti että
         </note>
         <pb facs="https://swerik-project.github.io/valtiopaivat-records-pdf/1885/ptk_1885_talonpojat_III/ptk_1885_talonpojat_III-0108"/>
         <note xml:id="i-7xQjt5qZLXwv6azi9tc2JJ">
@@ -8600,8 +8607,8 @@
           </seg>
         </u>
         <note xml:id="i-NHQddUp9PHaYGPaBRDtKaj">
-          Minä puolestani siis hyväksyn tämän 4 &amp;:n sellaisena kuin se
-          on valiokunnan ehdotuksessa.
+          Minä puolestani siis hyväksyn tämän 4 &amp;:n sellaisena kuin
+          se on valiokunnan ehdotuksessa.
         </note>
         <note xml:id="i-NBBkrWV2bHTnCJ9BhWxAd3">
           Edusmies Nyrönen ilmoitti kannattavansa edusmies Caströnin mielipidettä.
@@ -8650,8 +8657,9 @@
         </note>
         <note xml:id="i-8mcoWN7z4JkNZagJ4Hf8xx">
           Kun ei kukaan enää pyytänyt puheenvuoroa, julistettiin keskustelu
-          4 &amp;:stä loppuneeksi, jonka jälkeen vastaäänestysesityksen saamiseksi
-          valiokunnan ehdotusta vastaan Säädylle luettiin seuraava äänestysesitys:
+          4 &amp;:stä loppuneeksi, jonka jälkeen vastaäänestysesityksen
+          saamiseksi valiokunnan ehdotusta vastaan Säädylle luettiin seuraava
+          äänestysesitys:
         </note>
         <note xml:id="i-W2kN4EzYMEt3k7XUZMTbpz">
           Joka vastaäänestysesitykseksi 4 $:ää vastaan valiokunnan mietinnössä
@@ -8782,8 +8790,8 @@
         </note>
         <note xml:id="i-3oWemSqKWQBHPn8ZMsruxG">
           Keskustelu loppui tähän ja koska edusmies Branderin ehdotus oli
-          jäänyt kannatusta vaille, katsottiin Säädyn hyväksyneen 18 &amp; valiokunnan
-          mietinnön mukaan.
+          jäänyt kannatusta vaille, katsottiin Säädyn hyväksyneen 18 &amp;
+          valiokunnan mietinnön mukaan.
         </note>
         <note xml:id="i-FmxiS1izCFk3jm6aqKWGaR">
           8:t 19—24 hyväksyttiin ilman keskustelua. Niinikään hyväksyttiin
@@ -9539,9 +9547,9 @@
           nykyään voimassa oleva ja välttää sitä tarpeetonta seikkaperäisyyttä,
           joka rasittaa ohjesääntöä vuodelta 1878. Varsinkin on se muutosehdotus,
           jonka komitea ja niinikään Pankkivaliokunta on ehdottanut setelinannon
-          suhteen 18 &amp;:ssä, varsin kiitettävä ja ansaitsee epäilemättä tulla
-          huomioon otetuksi. Yhtä suurta kiitosta ei kuitenkaan voi antaa
-          Pankkivaliokunnan ehdotukselle, että pankin tulisi vastaanottaa
+          suhteen 18 &amp;:ssä, varsin kiitettävä ja ansaitsee epäilemättä
+          tulla huomioon otetuksi. Yhtä suurta kiitosta ei kuitenkaan voi
+          antaa Pankkivaliokunnan ehdotukselle, että pankin tulisi vastaanottaa
           avonaisia depositioneja eli talletuksia. Voimassa oleva pankin
           ohjesääntö vuodelta 1878 sisältää $:ssä 46—52 määräyksiä pankin
           suljetuista talletuksista, jotka määräykset minusta nähden ovat
@@ -9730,8 +9738,8 @@
         <note xml:id="i-PquBfkS2Jc6sqXFZM6tnik">
           Af den föregående ärade talarens i detalj gående anmärkningar
           vill jag nu upptaga till besvarande endast en, nämligen, den som
-          blifvit riktad mot &amp; 7 i förslaget till nytt reglemente för Finlands
-          bank, der utnämnandet af bankdirektionens ledamöter öfverlemnas
+          blifvit riktad mot &amp; 7 i förslaget till nytt reglemente för
+          Finlands bank, der utnämnandet af bankdirektionens ledamöter öfverlemnas
           åt H. K. Majestät. Bankutskottet hade härvid visserligen enhälligt
           godkänt komiténs förslag, men då utskottet erhöll närmare kännedom
           om att ett sådant förslag icke skulle vinna fastställelse, så
@@ -10036,29 +10044,30 @@
           niinkuin kunnallisneuvos Meurman, että tämä pankkivaltuusmiesten
           ehdotus pantaisiin keskustelun perustukseksi, mutta etupäässä
           tahtoisin kuitenkin nyt supistaa keskustelua Pankkivaliokunnan
-          ehdottamaan Suomen pankin ohjesäännön 6 &amp;ään. Ehdotan sen tähden,
-          että tästälähin keskusteltaissa pysyttäisiin tässä pykälässä,
+          ehdottamaan Suomen pankin ohjesäännön 6 &amp;ään. Ehdotan sen
+          tähden, että tästälähin keskusteltaissa pysyttäisiin tässä pykälässä,
           ja että sitten äänestettäisiin ensiksi Pankkivaliokunnan 6 8:n
-          ja pankkivaltuusmiesten 6 &amp;:n välillä, jota minä puolestani tahdon
-          puolustaa. — Jos tahdotaan useampia pankkivaltuusmiehiä, niin
-          V. J:n 68 &amp; antaa siihen täyden vallan. Säädyt voivat. koska hyvänsä
-          näillä tahi tulevilla valtiopäivillä päättää asettaa esim. 8 pankkivaltuusmiestä.
-          Mutta minusta ei ole ollenkaan tarpeen, että. Suomen pankin ohjesäännössä
-          puhutaan mitään pankkivaltuusmiesten luvusta; se on Säätyjen määrättävä
-          kullakin valtiopäivillä. Edusmies Brander: Valiokunnan mietintöä
-          on täällä moitittu jokseenkin ankarasti ja eihän se kaikissa kohdissa
-          taidakaan olla aivan hyvä. Se kyllä tiedettiin valiokunnassa,
-          kun asiata. siellä valmistettiin, mutta siellä koetettiin parasta,
-          mitä asiassa ymmärrettiin. Pääkohta muistutuksissa on ollut se,
-          että valiokunta muka on tahtonut asetettavaksi liian monta pankkivaltuusmiestä.,
-          Mutta jos katsomme mietinnön sivuilta 8 ja 9 mitä kaikkea pankkivaltuusmiehillä
-          on tehtävää, niin näemme, että niillä on käyteltävänä asioita,
-          joita mielellään annetaan useammalle kuin yhden hengen huostaan.
-          Luulisin, että olisi enemmän turvallisuutta pankkivaltuusmiehille,
-          jos niitä olisi useampia. Edelleen on muistutettu, että valiokunnan
-          ehdottama pankkivaltuusmieslaitos on rakennettu ulkomaan laitosten,
-          varsinkin Preussin pankin mukaan. Mahtaa se olla osaksi totta,
-          mutta minä olen kuullut, että ehdo-
+          ja pankkivaltuusmiesten 6 &amp;:n välillä, jota minä puolestani
+          tahdon puolustaa. — Jos tahdotaan useampia pankkivaltuusmiehiä,
+          niin V. J:n 68 &amp; antaa siihen täyden vallan. Säädyt voivat.
+          koska hyvänsä näillä tahi tulevilla valtiopäivillä päättää asettaa
+          esim. 8 pankkivaltuusmiestä. Mutta minusta ei ole ollenkaan tarpeen,
+          että. Suomen pankin ohjesäännössä puhutaan mitään pankkivaltuusmiesten
+          luvusta; se on Säätyjen määrättävä kullakin valtiopäivillä. Edusmies
+          Brander: Valiokunnan mietintöä on täällä moitittu jokseenkin ankarasti
+          ja eihän se kaikissa kohdissa taidakaan olla aivan hyvä. Se kyllä
+          tiedettiin valiokunnassa, kun asiata. siellä valmistettiin, mutta
+          siellä koetettiin parasta, mitä asiassa ymmärrettiin. Pääkohta
+          muistutuksissa on ollut se, että valiokunta muka on tahtonut asetettavaksi
+          liian monta pankkivaltuusmiestä., Mutta jos katsomme mietinnön
+          sivuilta 8 ja 9 mitä kaikkea pankkivaltuusmiehillä on tehtävää,
+          niin näemme, että niillä on käyteltävänä asioita, joita mielellään
+          annetaan useammalle kuin yhden hengen huostaan. Luulisin, että
+          olisi enemmän turvallisuutta pankkivaltuusmiehille, jos niitä
+          olisi useampia. Edelleen on muistutettu, että valiokunnan ehdottama
+          pankkivaltuusmieslaitos on rakennettu ulkomaan laitosten, varsinkin
+          Preussin pankin mukaan. Mahtaa se olla osaksi totta, mutta minä
+          olen kuullut, että ehdo-
         </note>
         <pb facs="https://swerik-project.github.io/valtiopaivat-records-pdf/1885/ptk_1885_talonpojat_III/ptk_1885_talonpojat_III-0155"/>
         <note xml:id="i-98fnbh7CCZdi7g82QcgChy">
@@ -10195,10 +10204,10 @@
           minua täysin tyydytä. Tosin ei ole nyt mitään paikkailemista kysymyksessä,
           vaan kokonainen uudistus, mutta sittenkään en luule käyvän päinsä,
           että Sääty yhtyy komitean ehdottamaan ja Pankkivaliokunnan puolustamaan
-          6 &amp;:ään. Siihen on monta tehokasta syytä; olisi muun muassa vähemmin
-          soveliasta tehdä yhdestä Säätyjen virkakunnasta kaksi, joitten
-          toimivaltaa ei voida tarkoin määritellä. Sitä paitsi ei ole minun
-          käsittääkseni voitu pätevillä syillä todistaa että pankkivaltuusmiesten
+          6 &amp;:ään. Siihen on monta tehokasta syytä; olisi muun muassa
+          vähemmin soveliasta tehdä yhdestä Säätyjen virkakunnasta kaksi,
+          joitten toimivaltaa ei voida tarkoin määritellä. Sitä paitsi ei
+          ole minun käsittääkseni voitu pätevillä syillä todistaa että pankkivaltuusmiesten
           luku olisi liian vähäinen. On arveltu että pankkivaltuusmiesten
           lukumäärää enentämällä asiat tulevat paremmin tutkituiksi ja punnituiksi,
           pankin etu paremmin valvotuksi ja vaarat paremmin vältetyiksi.
@@ -10465,9 +10474,9 @@
             siis luulisin olevan, että otettaisiin pankkivaltuusmiesten ehdottama
             ohjesääntö keskustelun perustukseksi; silloin tulisi kerrassaan
             myös hyljätyksi tuo riidan-alainen komitean ja valiokunnan ehdottama
-            6 &amp;, sillä sellaista ei löydy valtuusmiesten ehdotuksessa. Ehdotan
-            siis, että nyt vaan äänestyksellä ratkaistaisiin, kumpiko otetaan
-            keskustelun perustukseksi, Pankkivaliokunnan vai pankkivaltuusmiestenkö
+            6 &amp;, sillä sellaista ei löydy valtuusmiesten ehdotuksessa.
+            Ehdotan siis, että nyt vaan äänestyksellä ratkaistaisiin, kumpiko
+            otetaan keskustelun perustukseksi, Pankkivaliokunnan vai pankkivaltuusmiestenkö
             ehdotus, ja tahdon minä puolestani kannattaa jälkimmäistä.
           </seg>
         </u>
@@ -11730,8 +11739,8 @@
           Lakivaliokunnan ehdotus niiden toisistaan osaksi eroavain päätösten
           yhteensovittamiseksi, joihin Säädyt ovat tulleet käytellessään
           valiokunnan mietintöä n:o 5 armollisen esityksen johdosta n:o
-          18 siitä, että 12 &amp; Valtiopäiväjärjestyksessä, semmoisena kuin
-          se kuuluu armollisessa Julistuskirjassa 20 (8) p:ltä Maaliskuuta
+          18 siitä, että 12 &amp; Valtiopäiväjärjestyksessä, semmoisena
+          kuin se kuuluu armollisessa Julistuskirjassa 20 (8) p:ltä Maaliskuuta
           1879, muutetaan toisin kuuluvaksi;
         </note>
         <note xml:id="i-VrpSBysn5N2jBFTa7Q2joZ">
@@ -13814,8 +13823,8 @@
           Puhemies huomautti, ettei kysymyksessä oleva ehdotus, mikäli
           se koskee rustholliasiaa, voi tulla äänestyksen alaiseksi, koska
           rustholliasia on perustuslaillinen kysymys ja sen ratkaisemiseen
-          siis V. J:n 71 &amp;:n mukaan vaaditaan neljän säädyn suustumus. Sitä
-          vastaan puhemies ei tahtonut kieltää keskustelua ja äänestystä
+          siis V. J:n 71 &amp;:n mukaan vaaditaan neljän säädyn suustumus.
+          Sitä vastaan puhemies ei tahtonut kieltää keskustelua ja äänestystä
           edusmies Mattilan ehdotuksesta, mikäli se koskee ruotuvakanssiasiata.
         </note>
         <note xml:id="i-BkcErXUdvqHDFhzjEXZPVX" type="speaker">
@@ -13893,9 +13902,9 @@
           Esitettiin pöydällä ollut Lakivaliokunnan ehdotus niiden toisistaan
           eriävien päätösten yhteensovittamiseksi, joihin Säädyt ovat tulleet
           käytellessään valiokunnan mietintöä n:o 5 armollisen esityksen
-          johdosta n:o 18 siitä, että 12 &amp; Valtiopäiväjärjestyksessä, semmoisena
-          kuin se kuuluu armollisessa Julistuskirjassa 20 (8) p:ltä 1879,
-          muutetaan toisin kuuluvaksi.
+          johdosta n:o 18 siitä, että 12 &amp; Valtiopäiväjärjestyksessä,
+          semmoisena kuin se kuuluu armollisessa Julistuskirjassa 20 (8)
+          p:ltä 1879, muutetaan toisin kuuluvaksi.
         </note>
         <note xml:id="i-Ax7T9wW58qug7nCo7tTLgc" type="speaker">
           Edusmies Castrén:
@@ -14410,8 +14419,8 @@
           onnistunutkin jokseenkin hyvin.
         </note>
         <note xml:id="i-EL3r6M4W1P98e2oTKQPstn">
-          Mitä erityisiin &amp;:iin valiokunnan asetusehdotuksissa tulee, niin
-          pyydän saada lausua ajatukseni niistä sitten kun asetusehdotuksia
+          Mitä erityisiin &amp;:iin valiokunnan asetusehdotuksissa tulee,
+          niin pyydän saada lausua ajatukseni niistä sitten kun asetusehdotuksia
           ruvetaan pykälittäin tarkastelemaan.
         </note>
         <note xml:id="i-94mwn3UcoFi8xTKc2EhXEu" type="speaker">
@@ -15452,9 +15461,9 @@
         </note>
         <note xml:id="i-3vTaoBZPChLRsFziqjxPbH">
           Kun ei kukaan enää pyytänyt puheenvuoroa, julistettiin keskustelu
-          1 &amp;:n 4 kohdasta loppuneeksi, ja koska edusmies Halkilahden ehdotus
-          oli jäänyt kannatusta vaille, katsottiin Sääty hyväksyneen neljännen
-          kohdan muuttamatta.
+          1 &amp;:n 4 kohdasta loppuneeksi, ja koska edusmies Halkilahden
+          ehdotus oli jäänyt kannatusta vaille, katsottiin Sääty hyväksyneen
+          neljännen kohdan muuttamatta.
         </note>
         <note xml:id="i-9QBVbUQeLebayxmDwGkxUh">
           28.
@@ -15491,17 +15500,17 @@
             Sellainen määräys, jota edusmies Avellan kaipaa, löytyykin jo
             esillä olevassa asetusehdotuksessa, sillä kaikki sellaiset kokemukset,
             jotka tarkoittavat vähittäismyynnin ja anniskeluoikeuden saamista,
-            ovat 7 &amp;:n urukaan maistraatin tutkittavat ja päätettävät, noudattamalla
-            2 &amp;:ssä annettuja määräyksiä, joitten mukaan vähittäiskauppa ja
-            anniskelu on kielletty sellaisilta henkilöiltä, jotka itse omistavat
-            tahi hallitsevat polttimoa tahi tisleerauslaitosta. Edelleen ehdotetaan
-            eräässä esillä olevan asetusehdotuksen pykälässä säädettäväksi,
-            että yhtiön, joka hakee oikeutta paloviinan paljottais- tahi vähittäiskauppaan
-            taikka sen anniskeluun, pitää toimittaman luettelo kaikista niistä
-            henkilöistä, jotka ovat siinä jäseninä ja silloin on maistraatti
-            tilaisuudessa tarkastaamaan, ettei kukaan, joka on polttimon tahi
-            tisleerauslaitoksen omistaja tahi haltija, saa olla osallisena
-            anniskelussa tahi vähittäiskaupassa.
+            ovat 7 &amp;:n urukaan maistraatin tutkittavat ja päätettävät,
+            noudattamalla 2 &amp;:ssä annettuja määräyksiä, joitten mukaan
+            vähittäiskauppa ja anniskelu on kielletty sellaisilta henkilöiltä,
+            jotka itse omistavat tahi hallitsevat polttimoa tahi tisleerauslaitosta.
+            Edelleen ehdotetaan eräässä esillä olevan asetusehdotuksen pykälässä
+            säädettäväksi, että yhtiön, joka hakee oikeutta paloviinan paljottais-
+            tahi vähittäiskauppaan taikka sen anniskeluun, pitää toimittaman
+            luettelo kaikista niistä henkilöistä, jotka ovat siinä jäseninä
+            ja silloin on maistraatti tilaisuudessa tarkastaamaan, ettei kukaan,
+            joka on polttimon tahi tisleerauslaitoksen omistaja tahi haltija,
+            saa olla osallisena anniskelussa tahi vähittäiskaupassa.
           </seg>
         </u>
         <pb facs="https://swerik-project.github.io/valtiopaivat-records-pdf/1885/ptk_1885_talonpojat_III/ptk_1885_talonpojat_III-0236"/>
@@ -16354,8 +16363,8 @@
           ehdotusta.
         </note>
         <note xml:id="i-9pN7rmv7r6Pe9NNrf7ARLK">
-          Edusmies Hollm&amp;n oli samaa mieltä kuin edusmies Avellan, mutta
-          katsoi kuitenkin aivan oikeaksi, että niin kutsutuilta reservipaikoilta,
+          Edusmies Hollm&amp;n oli samaa mieltä kuin edusmies Avellan,
+          mutta katsoi kuitenkin aivan oikeaksi, että niin kutsutuilta reservipaikoilta,
           joita uuden kyytiasetuksen jälkeen on paljon syntynyt, otettaisiin
           viinan-anniskeluoikeus pois, varsinkin koska niillä mainitun asetuksen
           mukaan ei oikeastaan olekaan tätä oikeutta.
@@ -16667,8 +16676,8 @@
           Ensimmäinen kohta.
         </note>
         <note xml:id="i-U7epv53kNPRDz5RaSarTBt">
-          Edusmies Landgr&amp;n katsoi sanat ,kaupungin alueella* hyvin epämääräisiksi,
-          koska kaupungin omistamaa maata voi kuulua maaseurakuntaankin.
+          Edusmies Landgr&amp;n katsoi sanat ,kaupungin alueella* hyvin
+          epämääräisiksi, koska kaupungin omistamaa maata voi kuulua maaseurakuntaankin.
           Puhuja ehdotti siitä syystä, että mainitut sanat vaihdettaisiin
           sanoihin , sellaisella kaupungin alueella, joka on tontteihin
           jaettu*, tahi vielä tarkemmin ,kaupungissa*. Viimeisellä rivillä
@@ -16939,16 +16948,16 @@
             kutsuntatilaisuuksissa j. n. e. Mutta koska nyt yleinen mielipide,
             jota valiokuntakin on ottanut varteen, tuntuu vaativan, että mainitsemissani
             kokouspaikoissa ennen kaikkea pitäisi anniskelemisen olla kiellettynä,
-            niin on 11 &amp;, jos sitä edusmies Avellanin kannalta koetetaan puolustaa,
-            aivan ristiriidassa niiden periaatteiden kanssa, joita valiokunta
-            on muissa käsiliä olevan asetusehdotuksen pykälissä ottanut noudattaakseen.
-            Jos se seikka, että mainittu arvoisa edusmies on nähnyt rautatievaunuissa
-            matkustavaisia viinapullo plakkarissa, on tehnyt häneen ikävän
-            vaikutuksen, niin tottahan sairaille lienee vielä kammottavampaa
-            parannuspaikoissa nähdä sellaisia ihmisiä, joilla on viinan höyryä
-            päässä. Heidän rauhansa tulisi sen kautta epäilemättä häirityksi,
-            vaikka he juuri ovat tulleet terveyspaikalle nimenomaan terveyttään
-            rauhassa hoitamaan.
+            niin on 11 &amp;, jos sitä edusmies Avellanin kannalta koetetaan
+            puolustaa, aivan ristiriidassa niiden periaatteiden kanssa, joita
+            valiokunta on muissa käsiliä olevan asetusehdotuksen pykälissä
+            ottanut noudattaakseen. Jos se seikka, että mainittu arvoisa edusmies
+            on nähnyt rautatievaunuissa matkustavaisia viinapullo plakkarissa,
+            on tehnyt häneen ikävän vaikutuksen, niin tottahan sairaille lienee
+            vielä kammottavampaa parannuspaikoissa nähdä sellaisia ihmisiä,
+            joilla on viinan höyryä päässä. Heidän rauhansa tulisi sen kautta
+            epäilemättä häirityksi, vaikka he juuri ovat tulleet terveyspaikalle
+            nimenomaan terveyttään rauhassa hoitamaan.
           </seg>
         </u>
         <note xml:id="i-J6oYMvnP1jyzjnWigU56L8">
@@ -16991,11 +17000,11 @@
         </note>
         <note xml:id="i-2WjBQUs2aEbdqyyuwMyhCB">
           Hvad sedan beträffar landtdagsmannen Avellans förslag angäende
-          utskänkning &amp; jernvägsstationer, sä mäste jag för min del motsätta
-          mig detsamma, ty dä utskänkning pä gästgifverierna är eller åtminstone
-          blir förbjuden, sä finner jag ej heller skäl att tillåta utskänkning
-          pä jernvägsstation, ty de äro ju ej annat än vid jernväg belägna
-          gästgifvaregärdar.
+          utskänkning &amp; jernvägsstationer, sä mäste jag för min del
+          motsätta mig detsamma, ty dä utskänkning pä gästgifverierna är
+          eller åtminstone blir förbjuden, sä finner jag ej heller skäl
+          att tillåta utskänkning pä jernvägsstation, ty de äro ju ej annat
+          än vid jernväg belägna gästgifvaregärdar.
         </note>
         <note xml:id="i-24gBztKYA8yhAKzwv6KoJx">
           Edusmies Kiipula hylkäsi koko 11 S:n, koska hän oli nähnyt, miten
@@ -17032,9 +17041,9 @@
           kannalla. Muuten tahtoi puhuja kokonaan hyljätä 11 8:n 1 kohdan.
         </note>
         <note xml:id="i-VXcU4nMGTtdDGUSu3fgAEE">
-          = Edusmies Värri arveli kysymyksessä olevan &amp;:än tulevan vajavaksi,
-          jos ensimmäinen kohta siitä poistetaan, mutta toinen ja kolmas
-          säilytetään. Sen vuoksi puhuja ehdotti, että 11 $ kokonaisuudessaan
+          = Edusmies Värri arveli kysymyksessä olevan &amp;:än tulevan
+          vajavaksi, jos ensimmäinen kohta siitä poistetaan, mutta toinen
+          ja kolmas säilytetään. Sen vuoksi puhuja ehdotti, että 11 $ kokonaisuudessaan
           lähetettäisiin takaisin valiokuntaan muodostettavaksi kieltopuolisesti
           samaan suuntaan, kuin se nyt on muodostettu myöntöpuolisesti,
           jotta siitä selvästi kävisi ilmi, mitä oikeastaan tahdotaan kieltää.
@@ -17899,23 +17908,24 @@
             anniskeluliikkeen kautta keräytyväin voittorahojen jättämisestä
             yleiseen viinaverorahastoon käytettäviksi niihin tarkoituksiin,
             joihin tämän rahaston varat ovat määrätyt, pyydän huomauttaa että
-            Säädyn ennen tekemän päätöksen takia, jonka kautta jo 7 &amp; käsillä
-            olevassa asetusehdotuksessa on hyväksytty, mainitun arvoisan edusmiehen
-            ehdotus viinan vähittäismyyntiliikkeen huutokaupalla myymisestä,
-            ikävä kyllä, raukeaa. Luonnollista on, että, kuten edusmies Klami
-            jo buomautti, 12 $:n viimeinen lause jätetään pois, koska tämä
-            pykälä muuten olisi ristiriidassa Säädyn 11 $ suhteen tekemän
-            päätöksen kanssa. Tahtoisin siis ehdottaa, että 12 &amp; lähetettäisiin
-            takaisin valiokuntaan muodostettavaksi edusmies Päivärinnan ehdottamaan
-            suuntaan mitä anniskelun voittorahojen käyttämiseen tulee. Edusmies
-            Avellan on arvellut, ettei Talonpoikaissäädyn enää kannattaisi
-            keskustella ja päättää pykälistä, joista jo muut Säädyt ovat päätöksensä
-            tehneet. En voi siinä olla yksimielinen mainitun arvoisan edusmiehen
-            kanssa, sillä luulen päin vastoin, että Talonpoikaissäädyn hyvin
-            kannattaa näyttää, mitä mieltä se on tuossa kansallemme niin tärkeässä
-            viina-asiassa, semminkin koska Talonpoikaissäädyn mielipide, jospa
-            kohtakin se ei tulisi saamaan sijaa uudessa viina-asetuksessa,
-            kumminkin voisi olla johtona vastedes pidettävillä valtiopäivillä.
+            Säädyn ennen tekemän päätöksen takia, jonka kautta jo 7 &amp;
+            käsillä olevassa asetusehdotuksessa on hyväksytty, mainitun arvoisan
+            edusmiehen ehdotus viinan vähittäismyyntiliikkeen huutokaupalla
+            myymisestä, ikävä kyllä, raukeaa. Luonnollista on, että, kuten
+            edusmies Klami jo buomautti, 12 $:n viimeinen lause jätetään pois,
+            koska tämä pykälä muuten olisi ristiriidassa Säädyn 11 $ suhteen
+            tekemän päätöksen kanssa. Tahtoisin siis ehdottaa, että 12 &amp;
+            lähetettäisiin takaisin valiokuntaan muodostettavaksi edusmies
+            Päivärinnan ehdottamaan suuntaan mitä anniskelun voittorahojen
+            käyttämiseen tulee. Edusmies Avellan on arvellut, ettei Talonpoikaissäädyn
+            enää kannattaisi keskustella ja päättää pykälistä, joista jo muut
+            Säädyt ovat päätöksensä tehneet. En voi siinä olla yksimielinen
+            mainitun arvoisan edusmiehen kanssa, sillä luulen päin vastoin,
+            että Talonpoikaissäädyn hyvin kannattaa näyttää, mitä mieltä se
+            on tuossa kansallemme niin tärkeässä viina-asiassa, semminkin
+            koska Talonpoikaissäädyn mielipide, jospa kohtakin se ei tulisi
+            saamaan sijaa uudessa viina-asetuksessa, kumminkin voisi olla
+            johtona vastedes pidettävillä valtiopäivillä.
           </seg>
         </u>
         <note xml:id="i-TZxFpzQ3zJQ1rxkQ5yJ7AP" type="speaker">
@@ -18027,8 +18037,8 @@
           myydä, vaan että sen välttämättömasti pitää olla vähintään 40
           prosentin alkoholivoimaista. Minä pyydän ehdottaa, että Sääty
           hylkäisi väkevyysmääräyksen 16 $:ssä ja hyväksyisi herra Granfeltin
-          vastalauseen, joka sisältää, että 16 &amp; muutettaisiin siihen suuntaan,
-          että kaikki määräykset viinan pienimmästä voimasta poistetaan.
+          vastalauseen, joka sisältää, että 16 &amp; muutettaisiin siihen
+          suuntaan, että kaikki määräykset viinan pienimmästä voimasta poistetaan.
         </note>
         <note xml:id="i-WKgm2hvN3SzRsi27GuB8va">
           Edusmiehet Häkli, Teittinen, Tensikkala ja Pöysti yhtyivät edusmies
@@ -18292,9 +18302,9 @@
         </note>
         <note xml:id="i-QBmcNREPcyRPg95W2ykWk">
           Kun ei kukaan enää pyytänyt puheenvuoroa, julistettiin keskustelu
-          16 &amp;:n johdosta loppuneeksi, ja koska eri mielipiteitä oli keskustelussa
-          ilmaantunut ja niitä kannatettu, niin Säädylle luettiin seuraava
-          kirjallisesti tehty vasta-äänestysesitys:
+          16 &amp;:n johdosta loppuneeksi, ja koska eri mielipiteitä oli
+          keskustelussa ilmaantunut ja niitä kannatettu, niin Säädylle luettiin
+          seuraava kirjallisesti tehty vasta-äänestysesitys:
         </note>
         <note xml:id="i-JwsfjaZte4YFhLvGGemArW">
           Joka tahtoo vastaäänestysesityksenä kysymyksessä olevaa pykälää
@@ -18303,8 +18313,8 @@
         </note>
         <note xml:id="i-Y8AokgoH64ufrD4DTQggp3">
           joka vastaäänestysesitykseksi hyväksyy edusmiesten Heikuran,
-          Hollm&amp;nin ja Pöystin ehdotuksen, että sana ,vähintäänkin* 16 &amp;:n
-          5 rivillä muutetaan sanaksi yenintään* vastaa ,ei*.
+          Hollm&amp;nin ja Pöystin ehdotuksen, että sana ,vähintäänkin*
+          16 &amp;:n 5 rivillä muutetaan sanaksi yenintään* vastaa ,ei*.
         </note>
         <note xml:id="i-M6bGagiKR87WB6gAhq1c9A">
           Sääty hyväksyi äänestysesityksen, ja äänestys, joka vaatimuksesta
@@ -18356,9 +18366,10 @@
             pitäisi saada pitää auki pyhäpäivinä. Jokainen tietää, kuinka
             turmiollisesti viinakauppa pyhäpäivinä vaikuttaa, käytettäköönpä
             sitä millä nimellä hyvänsä, ja sen tähden pidän valiokunnan ehdotuksen
-            tässä kohden vaillinaisena. Ehdotan, että 21 &amp;:n 1 kohtaan lisättäisiin
-            sana ,anniskelua*, niin että sanottu kohta tulisi kuulumaan: ,Paloviinan
-            vähittäiskauppaa ja anniskelua harjoitettakoon* j. n. e.
+            tässä kohden vaillinaisena. Ehdotan, että 21 &amp;:n 1 kohtaan
+            lisättäisiin sana ,anniskelua*, niin että sanottu kohta tulisi
+            kuulumaan: ,Paloviinan vähittäiskauppaa ja anniskelua harjoitettakoon*
+            j. n. e.
           </seg>
         </u>
         <note xml:id="i-RRD3y1B9UvKKjE3bf2x35u" type="speaker">
@@ -18553,17 +18564,17 @@
             ei ole joka paikassa maassamme samalla aikaa eikä jumalanpalveluskaan
             tapahdu samaan aikaan. Tämä oli syynä siihen, että anniskelujen
             aukiolemisen aika jätettiin kaupungin virastolle ja kuvernöörille
-            määrättäväksi. Sääty on jo hyväksynyt 7 &amp;:n käsillä olevassa asetusehdotuksessa;
-            tässä 7 $:ssä on kaupunginvaltuusmiehille jätetty oikeus likemmin
-            määrätä ne ohjeet, joilla anniskelua saa pitää. Jos nyt 21 S:ään
-            pantaisiin puheena-oleva määräys, niin tehtäisiin päätös, joka
-            olisi ristiriidassa Säädyn entisen päätöksen kanssa. Näistä kaikista
-            syistä ja koska ei voi odottaa, että siitä mitään vahinkoa syntyisi,
-            rakensi valiokunta 21 $:n semmoiseksi kuin se valiokunnan mietinnössä
-            on, jotta saataisiin määräykset niin sopiviksi kuin mahdollista
-            kunkin paikan oloihin katsoen. Yleiset säännöt tässä kohden matkaansaattaisivat
-            vaan häiriöitä paikallisissa oloissa ja antaisivat aihetta niiden
-            rikkomiseen.
+            määrättäväksi. Sääty on jo hyväksynyt 7 &amp;:n käsillä olevassa
+            asetusehdotuksessa; tässä 7 $:ssä on kaupunginvaltuusmiehille
+            jätetty oikeus likemmin määrätä ne ohjeet, joilla anniskelua saa
+            pitää. Jos nyt 21 S:ään pantaisiin puheena-oleva määräys, niin
+            tehtäisiin päätös, joka olisi ristiriidassa Säädyn entisen päätöksen
+            kanssa. Näistä kaikista syistä ja koska ei voi odottaa, että siitä
+            mitään vahinkoa syntyisi, rakensi valiokunta 21 $:n semmoiseksi
+            kuin se valiokunnan mietinnössä on, jotta saataisiin määräykset
+            niin sopiviksi kuin mahdollista kunkin paikan oloihin katsoen.
+            Yleiset säännöt tässä kohden matkaansaattaisivat vaan häiriöitä
+            paikallisissa oloissa ja antaisivat aihetta niiden rikkomiseen.
           </seg>
         </u>
         <note xml:id="i-QAT4QVKdz8fzp2Z2LvbdSm">
@@ -18613,11 +18624,11 @@
           viina-asetuksia kierretään ja kaarretaan. Sen tähden olisivat
           mainitut asetukset tehtävät niin suorasanaisiksi ja selviksi kuin
           vaan voidaan. Jos nyt kaikki pykälät muodostetaan sellaisiksi,
-          kuin valiokunnan esillä olevan asetusehdotuksen 21 &amp;, niin olen
-          varma siitä, että niitä voidaan hyvin helposti kiertää. — Mitä
-          tulee edusmies Dunckerin huomautukseen, että 7 8:ssä muka jo on
-          päätetty jotakin sellaista, joka joutuisi ristiriitaisuuteen nyt
-          ehdotellun päätöksen kanssa, niin minä puolestani olen käsittänyt
+          kuin valiokunnan esillä olevan asetusehdotuksen 21 &amp;, niin
+          olen varma siitä, että niitä voidaan hyvin helposti kiertää. —
+          Mitä tulee edusmies Dunckerin huomautukseen, että 7 8:ssä muka
+          jo on päätetty jotakin sellaista, joka joutuisi ristiriitaisuuteen
+          nyt ehdotellun päätöksen kanssa, niin minä puolestani olen käsittänyt
           mainitun pykälän aivan toisin. Siinä kyllä sanotaan, että maistraatti
           saa määrätä ajan, jolloin anniskeluliikettä saa harjoittaa, mutta
           minä ymmärrän asian niin, että maistraatin määrättävänä on se
@@ -18704,13 +18715,13 @@
         </u>
         <note xml:id="i-VU2inzeMmARoskMUfbeTus">
           Kun ei kukaan enää pyytänyt puheenvuoroa, julistettiin keskustelu
-          21 &amp;:n 1 kohdan johdosta loppuneeksi ja puhemies huomautti, että
-          useampia eri mielipiteitä oli keskustelussa ilmaantunut ja että
-          kaikkia muita, paitsi edusmies Brännäsin esiintuomaa, oli kannatettu.
-          Edusmies Brännäsin ehdotus ei siis voitulla mihinkään huomioon,
-          jota vastaan muista valiokunnan mietinnöstä eroavista ehdotuksista
-          on etsittävä vastaehdotus valiokunnan ehdottamaa 21 S:n 1 kohtaa
-          vastaan.
+          21 &amp;:n 1 kohdan johdosta loppuneeksi ja puhemies huomautti,
+          että useampia eri mielipiteitä oli keskustelussa ilmaantunut ja
+          että kaikkia muita, paitsi edusmies Brännäsin esiintuomaa, oli
+          kannatettu. Edusmies Brännäsin ehdotus ei siis voitulla mihinkään
+          huomioon, jota vastaan muista valiokunnan mietinnöstä eroavista
+          ehdotuksista on etsittävä vastaehdotus valiokunnan ehdottamaa
+          21 S:n 1 kohtaa vastaan.
         </note>
         <note xml:id="i-6MS45hWDg7U1HHS9Ug2UFs">
           Tämän johdosta Säädylle vastaäänestysesityksen saamiseksi valiokunnan
@@ -18787,9 +18798,9 @@
           vastaan.
         </note>
         <note xml:id="i-UW5f2FF7TNqUmrHkthpx55">
-          Sääty oli siis päättänyt lykätä 21 &amp;:n 1 kohdan takaisin valiokuntaan
-          muodostettavaksi siihen suuntaan, kuin edelläseisovassa äänestysesityksessä
-          on osoitettu.
+          Sääty oli siis päättänyt lykätä 21 &amp;:n 1 kohdan takaisin
+          valiokuntaan muodostettavaksi siihen suuntaan, kuin edelläseisovassa
+          äänestysesityksessä on osoitettu.
         </note>
         <note xml:id="i-KvD8kb6c1kQd5NiFHQD4qA">
           Toinen kohta hyväksyttiin keskustelutta. Kolmas kohta.
@@ -18829,9 +18840,9 @@
         </note>
         <note xml:id="i-5ZrpatCUeZuMgFdJXm3ij8">
           Kun ei kukaan enää pyytänyt puheenvuoroa, julistettiin keskustelu
-          21 &amp;n 3 kohdasta loppuneeksi ja puhemies huomautti, ettei edusmies
-          Landgrenin ehdotus voi tulla äänestyksen-alaiseksi, koska se on
-          jäänyt kannatusta vaille.
+          21 &amp;n 3 kohdasta loppuneeksi ja puhemies huomautti, ettei
+          edusmies Landgrenin ehdotus voi tulla äänestyksen-alaiseksi, koska
+          se on jäänyt kannatusta vaille.
         </note>
         <note xml:id="i-GAzqS2ufWAajU13EPwihrS">
           Tämän jälkeen hyväksyi Sääty seuraavan äänestysesityksen :
@@ -18854,8 +18865,8 @@
           tunnustettiin ei-äänten olleen voitolla.
         </note>
         <note xml:id="i-XrYMsUVt6tx5gcx8C1K74">
-          21 &amp;:n 3 kohta on siis lähetettävä takaisin valiokuntaan muodostettavaksi
-          äänestysesityksessä osoitettuun suuntaan.
+          21 &amp;:n 3 kohta on siis lähetettävä takaisin valiokuntaan
+          muodostettavaksi äänestysesityksessä osoitettuun suuntaan.
         </note>
         <note xml:id="i-GTB5NXwRrkFeXShAbVVtWq">
           Neljäs kohta. hyväksyttiin keskustelutta. &amp;t 22—34 hyväksyttiin
@@ -18878,8 +18889,8 @@
         </note>
         <note xml:id="i-JXvWG4hKSEPiZojwF2Nuh5">
           Kun ei kukaan enää pyytänyt pulieenvuoroa, julistettiin keskustelu
-          35 &amp;:n 1 kohdasta loppuneeksi. ja Säädylle luettiin seuraava kirjallisesti
-          tehty äänestysesitys: .
+          35 &amp;:n 1 kohdasta loppuneeksi. ja Säädylle luettiin seuraava
+          kirjallisesti tehty äänestysesitys: .
         </note>
         <note xml:id="i-VLjj6PnaARxV6H4h6QWJdD">
           Joka hyväksyy 35 S:n 1 kohdan: muuttamatta valiokunnan ehdotuksen
@@ -18960,8 +18971,8 @@
             ,21 $n 3 kohtaa vastaan rikottaessa olkoon sitä paitsi kaikki
             myymämiehen hallussa myyntipaikassa löytyvä paloviina astioineen
             takavarikon alainen ja menetetty*. Mielestäni tämä uhka 37 &amp;:ssä
-            määrätyn rangaistuksen ohessa riittää hyvin estämään 21 &amp;:n säännösten
-            rikkomista.
+            määrätyn rangaistuksen ohessa riittää hyvin estämään 21 &amp;:n
+            säännösten rikkomista.
           </seg>
         </u>
         <note xml:id="i-EPaDL1ANwt5oHQXpUVJihr">
@@ -19141,8 +19152,8 @@
             on rajoitettu, ei valiokunnan asetusehdotus paloviinan-valmistuksesta
             nykyisessä muodossaan enää ole sopiva. Minun mielestäni olisi
             siis koko tämä valmistusasetus lähetettävä takaisin valiokuntaan
-            muodostettavaksi siihen suuntaan, johon Säädyn 1 &amp;stä tekemä päätös
-            antaa aihetta.
+            muodostettavaksi siihen suuntaan, johon Säädyn 1 &amp;stä tekemä
+            päätös antaa aihetta.
           </seg>
         </u>
         <pb facs="https://swerik-project.github.io/valtiopaivat-records-pdf/1885/ptk_1885_talonpojat_III/ptk_1885_talonpojat_III-0284"/>
@@ -19268,10 +19279,10 @@
         </note>
         <u who="i-EmqNER47i1Nu1rJadKyiQw">
           <seg>
-            Tämä on yksi niitä kohtia, joka on Säädyn 1 &amp;:stä tekemän päätöksen
-            johdosta lähetettävä takaisin valiokuntaan. Toisen kohdan voi
-            hyväksyä, mutta kolmas kohta on taas sellainen, että se on valiokuntaan
-            lähetettävä.
+            Tämä on yksi niitä kohtia, joka on Säädyn 1 &amp;:stä tekemän
+            päätöksen johdosta lähetettävä takaisin valiokuntaan. Toisen kohdan
+            voi hyväksyä, mutta kolmas kohta on taas sellainen, että se on
+            valiokuntaan lähetettävä.
           </seg>
         </u>
         <note xml:id="i-DXBuKLKHsofNyFckrD3Tmx" type="speaker">
@@ -19436,7 +19447,8 @@
         </note>
         <note xml:id="i-VPBgTPGRtHfaXc4u5YnvAS">
           Kun ei kukaan enää pyytänyt puheenvuoroa, julistettiin keskustelu
-          41 &amp;:n 1 kohdasta loppuneeksi ja Säädylle luettiin seuraava äänestysesitys:
+          41 &amp;:n 1 kohdasta loppuneeksi ja Säädylle luettiin seuraava
+          äänestysesitys:
         </note>
         <note xml:id="i-3mZZTCtPYD62vSuG6W4TB2">
           Joka hyväksyy 41 $:n 1 kohdan valiokunnan ehdotuksen mukaan muuttamatta,
@@ -19512,7 +19524,8 @@
         </note>
         <note xml:id="i-WPSJ2pzpUjQ4bLey9j5mP4">
           Kun ei kukaan enää pyytänyt puheenvuoroa, julistettiin keskustelu
-          41 &amp;:n 3 kohdasta loppuneeksi ja Säädylle luettiin seuraava äänestysesitys:
+          41 &amp;:n 3 kohdasta loppuneeksi ja Säädylle luettiin seuraava
+          äänestysesitys:
         </note>
         <note xml:id="i-558wQWrSwjFHoJndsNkwGN">
           Joka hyväksyy kolmannen kohdan muuttamatta valiokunnan ehdotuksen
@@ -19888,8 +19901,9 @@
           vallan välttämättömäksi, että Sääty tekee huomautuksen Talous
           valiokunnalle, siitä että, koska eri mieltä on ilmaantunut eri
           Sää tyjen välillä viinan-valmistuksesta suoritettavasta veromäärästä,
-          asi. on ratkaistava V. J:sen 72 &amp;:ssä säädetyllä tavalla, siis
-          enenne tyssä valiokunnassa, eikä kolmen säädyn päätöksen kautta.
+          asi. on ratkaistava V. J:sen 72 &amp;:ssä säädetyllä tavalla,
+          siis enenne tyssä valiokunnassa, eikä kolmen säädyn päätöksen
+          kautta.
         </note>
         <note xml:id="i-9nv5YUrMsCLYXdy67X3BTj">
           Kun ei kukaan enää pyytänyt puheenvuoroa, julistettiin kes kustelu
@@ -23007,13 +23021,14 @@
           tyydytä. — Mitä siihen mielipiteesen tulee, ettei valiokunta muka
           olisi menetellyt perustuslain mukaisesti tätä yhteensovitusehdotusta
           tehdessään, niin ei puhuja sanonut voivansa sitä mielipidettä
-          kannattaa, koska V. J:n 67 &amp;:ssä sanotaan: , Päätös yleisen valiokunnan
-          käsiteltävänä olleessa asiassa pitää, niin pian kuin mahdollista
-          on, pöytäkirjanotteella valiokunnalle ilmoitettaman. — Jos valiokunta
-          silloin näkee Säätyjen jossakin kysymyksessä tulleen niin eroavaisiin
-          päätöksiin, että lainmukaista enemmistöä ei voi heidän eri ajatuksistansa
-          syntyä, pitää valiokunnan kokea mahdollisuutta myöten yhteensovitella
-          eri ajatukset ja Säädyille toimittaa tällainen sovitusehdotus*.
+          kannattaa, koska V. J:n 67 &amp;:ssä sanotaan: , Päätös yleisen
+          valiokunnan käsiteltävänä olleessa asiassa pitää, niin pian kuin
+          mahdollista on, pöytäkirjanotteella valiokunnalle ilmoitettaman.
+          — Jos valiokunta silloin näkee Säätyjen jossakin kysymyksessä
+          tulleen niin eroavaisiin päätöksiin, että lainmukaista enemmistöä
+          ei voi heidän eri ajatuksistansa syntyä, pitää valiokunnan kokea
+          mahdollisuutta myöten yhteensovitella eri ajatukset ja Säädyille
+          toimittaa tällainen sovitusehdotus*.
         </note>
         <note xml:id="i-Kdqeuem7TaWLYMFpXXpFox">
           Mitä siihen tulee, että asia näillä valtiopäivillä raukee, jos
@@ -23725,11 +23740,11 @@
           suurta erimielisyyttä on ilmaantunut tämän kysymyksen suhteen,
           tarpeellista saada vihdoin viimeinkin kieliasia lopullisesti ratkaistuksi
           säätylain kautta. Mietinnössä on mitä heleimmillä väreillä koetettu
-          kuvata, kuinka lain-tulkitsemiset O. K:n 24 luvun 3 &amp;:stä ovat
-          toisistaan eriäviä ja vaihtelevia. Valiokunta on taainitusta lainpaikasta
-          tuonut esiin mielipiteitä, arveluita ja tulkitsemisia, joita en
-          ainakaan minä vielä ole kuullut julki-lausuttavan; kaikki silminnähtävästi
-          tarkoituksessa osoit-
+          kuvata, kuinka lain-tulkitsemiset O. K:n 24 luvun 3 &amp;:stä
+          ovat toisistaan eriäviä ja vaihtelevia. Valiokunta on taainitusta
+          lainpaikasta tuonut esiin mielipiteitä, arveluita ja tulkitsemisia,
+          joita en ainakaan minä vielä ole kuullut julki-lausuttavan; kaikki
+          silminnähtävästi tarkoituksessa osoit-
         </note>
         <pb facs="https://swerik-project.github.io/valtiopaivat-records-pdf/1885/ptk_1885_talonpojat_III/ptk_1885_talonpojat_III-0345"/>
         <note xml:id="i-VsvSKgDeDEPS8qrtHZwGCp">
@@ -23804,9 +23819,10 @@
           Pidän yksinkertaisesti tästä lainsätääjän tarkoituksesta kiinni
           ja arvelen, että silloin kuin Suomi eroitettiin Ruotsista ja 1734
           vuoden laki siis tuli koskemaan Suomenmaata ja Suomenmaan asujamia,
-          O. K:n 24 luvun 3 &amp; on menettänyt Ruotsin vallan aikuisen merkityksensä,
-          jos sillä, jota en kumminkaan luule, koskaan on ollut sitä merkitystä,
-          että Ruotsi oli ainoa oikeutettu kieli silloisessa Ruotsin valtakunnassa.
+          O. K:n 24 luvun 3 &amp; on menettänyt Ruotsin vallan aikuisen
+          merkityksensä, jos sillä, jota en kumminkaan luule, koskaan on
+          ollut sitä merkitystä, että Ruotsi oli ainoa oikeutettu kieli
+          silloisessa Ruotsin valtakunnassa.
         </note>
         <note xml:id="i-WS6TsBHNRx8vewDAoxS9pR">
           En kuitenkaan tahdo antautua näihin laintulkitsemisen vaiheisin,
@@ -24652,9 +24668,9 @@
         </note>
         <note xml:id="i-SvzqmPRYSyWVSVJsaTNg9A">
           Kun joitakuita vuosia takaperin tuo hämmästyttävä laintulkitsemistapa
-          O. K:n 24 luvun 3 &amp;:stä ensinnä oli sanomissa luettavana, tuntui
-          se vaan pieneltä pilanteolta ja sitä melkein ylenkatsottiin. Mutta
-          siitä onkin kasvanut semmoinen vastus, ettei sitä uskoisikaan.
+          O. K:n 24 luvun 3 &amp;:stä ensinnä oli sanomissa luettavana,
+          tuntui se vaan pieneltä pilanteolta ja sitä melkein ylenkatsottiin.
+          Mutta siitä onkin kasvanut semmoinen vastus, ettei sitä uskoisikaan.
           Meillä oli semmoisia vankkoja sanomalehtiä kuin Suometar ja Valvoja,
           jotka olivat perustetut kansalliselle kannalle. Ensin otti Valvoja
           selittääkseen, että säätylaki kieliasiassa on välttämättömän tarpeellinen,

@@ -1,5 +1,5 @@
-<?xml version='1.0' encoding='utf-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="ptk_1872_talonpojat_II">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -25,8 +25,12 @@
   <text>
     <front>
       <div type="preface">
-        <head>ptk_1872_talonpojat_II</head>
-        <docDate when="1872-01-01">1872-01-01</docDate>
+        <head>
+          ptk_1872_talonpojat_II
+        </head>
+        <docDate when="1872-01-01">
+          1872-01-01
+        </docDate>
       </div>
     </front>
     <body>
@@ -100,9 +104,9 @@
           Ritaristo ja Aateli suostunut tähän kutsumukseen, jota vastoin
           Porvaris- ja Talonpoikaissäädyt ovat katsoneet valtiovaliokunnan
           asiaksi ehdoitella kysymyksen lykkäämistä enennettyyn valtiovaliokuntaan.
-          74 &amp;:än nojassa Valtiopäiväjärjestyksessä on valiokunta myös esitellyt
-          näin kuuluvan ehdoituksen äänestysesitykseen puheenalaisen kysymyksen
-          ratkaisemiseksi enennetyssä valtiovaliokunnassa :
+          74 &amp;:än nojassa Valtiopäiväjärjestyksessä on valiokunta myös
+          esitellyt näin kuuluvan ehdoituksen äänestysesitykseen puheenalaisen
+          kysymyksen ratkaisemiseksi enennetyssä valtiovaliokunnassa :
         </note>
         <note xml:id="i-RhUUNyQTMpRr4fRqpuh81M">
           »Se joka tahtoo myöntää rahanmääräystä yhdessä tai toisessa muodossa
@@ -347,8 +351,8 @@
         <note xml:id="i-5hbcJGxsxBaXgxP3vKZQPC">
           3) että Toukokuun 30 p:nä 1871 annettu armollisen julistuksen
           3 &amp; siinä kohden missä se muuttaa Helmikuun 20 p. 1865 annetun
-          kieliasetuksen 3 &amp; kumottaisiin ja tämä viimein sanottu 8 pantaisiin
-          entiseen voimaan ja vaikutukseen.
+          kieliasetuksen 3 &amp; kumottaisiin ja tämä viimein sanottu 8
+          pantaisiin entiseen voimaan ja vaikutukseen.
         </note>
         <note xml:id="i-F6MRZb3D6AUfqktkZktk8Q">
           4) että Toukokuun 30 p:nä 1871 annettu Keisarillisen asetuksen
@@ -1932,15 +1936,15 @@
         <u who="unknown">
           <seg>
             yttrade, att dä klagan öfver svenska spräkets vanvärd i landet
-            vore allmän samt detta förhållande, särskildt med afseende &amp; universitetet,
-            blifvit af den kompetentaste auktoritet, Konsistorium Academicum,
-            intygadt, sä tycktes det talaren för en oafvislig nödvändighet
-            att en lärostol vid högskolan inrättades i svenska och fornordiska
-            spräken, med hvilka hela värt politiska och sociala lif vore sä
-            nära förbundet. Äfven herr Rein hade i sin reservation erkänt
-            behofvet af en ordinarie lärare i svenska spräket, ehuru han ansett
-            att särskilda andra lärostolar måhända vore mera nödvändiga än
-            den svenska. I sjelfva verket hade icke heller petitionärerne
+            vore allmän samt detta förhållande, särskildt med afseende &amp;
+            universitetet, blifvit af den kompetentaste auktoritet, Konsistorium
+            Academicum, intygadt, sä tycktes det talaren för en oafvislig
+            nödvändighet att en lärostol vid högskolan inrättades i svenska
+            och fornordiska spräken, med hvilka hela värt politiska och sociala
+            lif vore sä nära förbundet. Äfven herr Rein hade i sin reservation
+            erkänt behofvet af en ordinarie lärare i svenska spräket, ehuru
+            han ansett att särskilda andra lärostolar måhända vore mera nödvändiga
+            än den svenska. I sjelfva verket hade icke heller petitionärerne
             yrkat att den svenska professionen borde blifva den första som
             härefter intättades; utan hade de endast ansett nödigt att pä
             detta sätt fästa uppmärksamheten vid det snara behofvet af professionen
@@ -2291,8 +2295,9 @@
         <note xml:id="i-Ug2czozxd9Fis7w5GcMbgS">
           3:ksi että sääty käsitellessä lakivaliokunnan mietintöä armollisesta
           esityksestä, 9 p:ltä marraskuuta 1868 olevan konkurssisäännön
-          24 ja 29 &amp;:n selittämisestä, ei ole saattanut valiokunnan mietintöä
-          hyväksyä, vaan omistanut herra Ohrnbergin siihen tehdyn vastalauseen;
+          24 ja 29 &amp;:n selittämisestä, ei ole saattanut valiokunnan
+          mietintöä hyväksyä, vaan omistanut herra Ohrnbergin siihen tehdyn
+          vastalauseen;
         </note>
         <note xml:id="i-2BMBCExGqVAJHVjWuv7WMb">
           4:ksi että sääty, luopumalla entisestä päätöksestään, on hyväksynyt
@@ -2460,9 +2465,10 @@
           <seg>
             yttrade, att han icke kunde inse nödvändigheten deraf, att landtmannaseglationen
             ställdes i beroende af städerna genom desses magistrater och sjömanshus,
-            dä ju sjömanshus äfven &amp; landet kunde inrättas. Eno verklig och
-            svär olägenhet deraf vore dessutom äfven den, att rederi för landtmannafartyg
-            i sä fall vore skyldigt att i tvistemäl svara inför stadsdomstol.
+            dä ju sjömanshus äfven &amp; landet kunde inrättas. Eno verklig
+            och svär olägenhet deraf vore dessutom äfven den, att rederi för
+            landtmannafartyg i sä fall vore skyldigt att i tvistemäl svara
+            inför stadsdomstol.
           </seg>
         </u>
         <note xml:id="i-7RniTLiVAf5nNis6kmMR2Y">
@@ -3123,9 +3129,9 @@
           kontrahdistansa, voipi siitä seurata paljo haittaa laivan omistajalle,
           liiatenki jos hän on sitoutunut määrätyllä ajalla toimittamaan
           jonkun sovitun tavarankuletuksen. Puhuja tahtoi sen tähden tähän
-          &amp;:ään sitä lisäystä, että, jos laivan päällikkö sairastuu taikka
-          kuolee, merimies on velkapää seuraamaan laivan kanssa. Vuoden
-          1868 palkollissäännönkin sanoi puhuja määräävän, että isännän
+          &amp;:ään sitä lisäystä, että, jos laivan päällikkö sairastuu
+          taikka kuolee, merimies on velkapää seuraamaan laivan kanssa.
+          Vuoden 1868 palkollissäännönkin sanoi puhuja määräävän, että isännän
           kuollessa palkolliset ovat velvolliset palvelemaan perillisten
           luona niin kauan kuin palkkauksen aikaa kestää, vaikka maalla
           on paljon helpompi saada palvelioita kuin laivan kulettajan on
@@ -3242,11 +3248,11 @@
         <u who="unknown">
           <seg>
             ansäg denna kostnad ej gerna kunna åläggas rederiet, ty en sjöman
-            kunde ju &amp; utrikesort ligga sjuk flere är, i hvilket fall kostnaden
-            blefve högst betungande för rederiet, utan borde denna kostnad
-            utgä frän sjömanshuskassan. Dessutom ville talaren fästa uppmärksamheten
-            pä de i samma $ förekommande bestämningar, i hvilka fall en sjöman
-            egde rätt att af rederiet erhälla nödig sjukvärd.
+            kunde ju &amp; utrikesort ligga sjuk flere är, i hvilket fall
+            kostnaden blefve högst betungande för rederiet, utan borde denna
+            kostnad utgä frän sjömanshuskassan. Dessutom ville talaren fästa
+            uppmärksamheten pä de i samma $ förekommande bestämningar, i hvilka
+            fall en sjöman egde rätt att af rederiet erhälla nödig sjukvärd.
           </seg>
         </u>
         <note xml:id="i-V4UdnUzEt1TLnpFKS6ktp2" type="speaker">
@@ -3444,11 +3450,11 @@
           Talonpoikaissääty 1872. 14 p. toukok. 503
         </note>
         <note xml:id="i-MYznLikwFSXmh29mb16z41">
-          &amp;:n 143 esille otettua virkkoi edusmies K la mi ensimäisen kohdan
-          suhteen, jossa hän katsoi &amp;:n olevan muutettavan sillä tavoin,
-          että se vahinko, jonka laiva on yhteisessä haverissa saanut, olisi
-          palkittava todellisen kustannuksen mukaan sitä korjatessa; sen
-          tähden puhuja ehdotteli, että kysymyksessä oleva kohta muutettaisiin
+          &amp;:n 143 esille otettua virkkoi edusmies K la mi ensimäisen
+          kohdan suhteen, jossa hän katsoi &amp;:n olevan muutettavan sillä
+          tavoin, että se vahinko, jonka laiva on yhteisessä haverissa saanut,
+          olisi palkittava todellisen kustannuksen mukaan sitä korjatessa;
+          sen tähden puhuja ehdotteli, että kysymyksessä oleva kohta muutettaisiin
           näin kuuluvaksi: ,arviosumman katsotaan vastaavan vahingon määrälle,
           kun sitä ei korjata, taikka kun korjaus tehdään ja kustannus siitä
           ei nouse arviosummaa enemmäksi; mutta jos korjauskustannus on
@@ -3617,15 +3623,15 @@
         </note>
         <u who="unknown">
           <seg>
-            sanoi että vaikka merimies, asetuksen 9 &amp;n johdolla ei ole pakotettu
-            itseänsä kirjotuttamaan mihinkään merimieshuoneesen, niin menee
-            kuitenkin vissi sadannes kaikkien merimiesten palkasta merimieshuoneesen,
-            sitä katsomatta ovatko he merimieshuoneesen sisään kirjotetut
-            tahi ei, jonka puhuja katsoi olevan niin muutettavan, että merimiehen
-            palkkasadannekset, jos hän ei mihinkään meriläishuoneesen ole
-            ollut sisäänkirjotettu, ovat lankiavat vaivaiskassalle hänen kotipaikassaan,
-            jonka kaikissa tapauksissa on hänet otettava hoitoonsa, kuin hän
-            vanhaksi ja voimattomaksi tulee.
+            sanoi että vaikka merimies, asetuksen 9 &amp;n johdolla ei ole
+            pakotettu itseänsä kirjotuttamaan mihinkään merimieshuoneesen,
+            niin menee kuitenkin vissi sadannes kaikkien merimiesten palkasta
+            merimieshuoneesen, sitä katsomatta ovatko he merimieshuoneesen
+            sisään kirjotetut tahi ei, jonka puhuja katsoi olevan niin muutettavan,
+            että merimiehen palkkasadannekset, jos hän ei mihinkään meriläishuoneesen
+            ole ollut sisäänkirjotettu, ovat lankiavat vaivaiskassalle hänen
+            kotipaikassaan, jonka kaikissa tapauksissa on hänet otettava hoitoonsa,
+            kuin hän vanhaksi ja voimattomaksi tulee.
           </seg>
         </u>
         <note xml:id="i-R64X1cvSbjxLQ1RvHqp3rd" type="speaker">
@@ -5011,8 +5017,8 @@
             ansäg sig i anledning af landtdagsmannen Kumpulainens yttrande
             böra försäkra att han hvarken talat osannt eller vanställt det
             verkliga förhällandet, dä han sagt att vid läroverket i Äbo undervisning
-            meddelades pä finska &amp;t dem, som sädant önskade. — Sälunda hafva
-            elever frän Björneborgs och Tammerfors skolor erhållit undervisning
+            meddelades pä finska &amp;t dem, som sädant önskade. — Sälunda
+            hafva elever frän Björneborgs och Tammerfors skolor erhållit undervisning
             pä finska vid läroanstalten i Äbo, äfven pä gymmnasialklasserna.
             — Talaren hade ej omnämt denna omständighet derföre, att han ansåg
             detta vara nog, men emedan han pä sädan grund ansäg att frägan
@@ -6956,7 +6962,8 @@
           Talonpoikaissääty 1872. 24 p. toukok. 555
         </note>
         <note xml:id="i-favFxZTFPVJ7EvBFg3y8p" type="speaker">
-          Edusmies Meurman huomautti josko ei 5 &amp;n lisäyksessä olevat sanat:
+          Edusmies Meurman huomautti josko ei 5 &amp;n lisäyksessä olevat
+          sanat:
         </note>
         <u who="unknown">
           <seg>
@@ -8542,8 +8549,8 @@
         </note>
         <u who="unknown">
           <seg>
-            sade sig vilja utesluta denna &amp; emedan en allmän lag, som stadgar
-            straff för bedrägeri redan finnes.
+            sade sig vilja utesluta denna &amp; emedan en allmän lag, som
+            stadgar straff för bedrägeri redan finnes.
           </seg>
         </u>
         <note xml:id="i-U4AVSmXs2oesNnyCr1pxTq" type="speaker">
@@ -8551,8 +8558,8 @@
         </note>
         <u who="unknown">
           <seg>
-            sade sin afsigt hafva varit att säga det &amp; ej var riktigt tydlig,
-            dä der ej säges något om hvem som skall kontrollera varan.
+            sade sin afsigt hafva varit att säga det &amp; ej var riktigt
+            tydlig, dä der ej säges något om hvem som skall kontrollera varan.
           </seg>
         </u>
         <note xml:id="i-SUnw6iBKizoPQRfTiTXLdG">
@@ -9101,9 +9108,9 @@
         </note>
         <u who="unknown">
           <seg>
-            mukaan saisi vuoteensa nousta 4,300,000 kannuun, ja 2 &amp;:n mukaan
-            enentyä vielä 50 prosentilla mainitusta määrästä. Sillä vaikka
-            viime vuonna ei valmistettu muuta kuin noin 2,400,000 kannua,
+            mukaan saisi vuoteensa nousta 4,300,000 kannuun, ja 2 &amp;:n
+            mukaan enentyä vielä 50 prosentilla mainitusta määrästä. Sillä
+            vaikka viime vuonna ei valmistettu muuta kuin noin 2,400,000 kannua,
             oli kuitenkin tultu huomaamaan, että juopumus peloittavassa määrässä
             oli kasvanut, itse sivistyksen pesäpaikassakin, täällä Helsingissä,
             missä varsinkin pyhäpäivinä juopuneita isossa määrässä näkyi kaduilla
@@ -9153,11 +9160,11 @@
           husbehofsbrännings rätt, föreslog talaren att $ skulle af Bondeständet
           antagas endast under det vilkor, att ofvanberörda af statsutskottet
           föreslagna ersättning blefve ständet tillförsäkrad. — Beträffande
-          verkan af fabriksbränningen, sä hade liderligheten jemväl &amp; talarens
-          hemort ansenligt tilltagit, sedan tvenne större brännerier blifvit
-          i närheten inrättade. Men emedan talaren icke trodde att superiet
-          kunde förebyggas genom tillverkningsbeloppets inskränkande, godkände
-          talaren $ med det af honom förut framhållna vilkor.
+          verkan af fabriksbränningen, sä hade liderligheten jemväl &amp;
+          talarens hemort ansenligt tilltagit, sedan tvenne större brännerier
+          blifvit i närheten inrättade. Men emedan talaren icke trodde att
+          superiet kunde förebyggas genom tillverkningsbeloppets inskränkande,
+          godkände talaren $ med det af honom förut framhållna vilkor.
         </note>
         <note xml:id="i-MyFha5XvRTjd9ekuhTcAwK" type="speaker">
           Edusmies Isotalo
@@ -9446,10 +9453,10 @@
             och dessutom 1 miljon mark skulle tillfalla kommunerne i landet.
             Detta förbehåll, som aldrig blifvit eftergifvet, gvarstod ännu,
             och hade jemväl statsutskottet erkänt detta, ehuru beloppet blifvit
-            nedsatt till 400,000 mark. Om nu förevarande &amp; utan vidare antogs,
-            men statsutskottets förslag angäende kommunernas andel i bränvinsskatten
-            underkändes, sä blefve följden att Bondeständet gätt sin husbehofsbränningsrätt
-            förlustig utan den ringaste ersättning.
+            nedsatt till 400,000 mark. Om nu förevarande &amp; utan vidare
+            antogs, men statsutskottets förslag angäende kommunernas andel
+            i bränvinsskatten underkändes, sä blefve följden att Bondeständet
+            gätt sin husbehofsbränningsrätt förlustig utan den ringaste ersättning.
           </seg>
         </u>
         <note xml:id="i-7jgLsWPUR6AiiHEv6JE9oV" type="speaker">
@@ -9757,8 +9764,8 @@
           äänestyksessä 32 äänellä 16 ääntä vastaan määräsi mainitun valmistuksen
           3 miljoonaan kannuun, jota vastaan vähemmistö tahtoi 2 miljoonaa;
           ja julistettiin edusmies Rosendal'in vaatimus että kysymys viinaveron
-          käyttämisestä olisi yhteydessä tämän &amp;:n kanssa käsiteltävä, säädyltä
-          tämän muassa hyljätyksi.
+          käyttämisestä olisi yhteydessä tämän &amp;:n kanssa käsiteltävä,
+          säädyltä tämän muassa hyljätyksi.
         </note>
         <note xml:id="i-L7ibuxynDQ2uGgFyVbJD3X">
           Päätöstä vastaan, siltä osalta kuin se sisälsi määräystä kuinka
@@ -10753,8 +10760,8 @@
           <seg>
             sä ollenkaan määrättäisi, vaan että Hänen Keisarilliselle Majesteetillensa
             jätettäisiin asian haarain mukaan määrätä valmistusmäärä, jonka
-            kautta &amp; tulisi näin kuulumaan: ,Tämä määrä voidaan enentää ja
-            vähentää silloin kuin Hänen Keisarillinen Majesteettinsa katsoo
+            kautta &amp; tulisi näin kuulumaan: ,Tämä määrä voidaan enentää
+            ja vähentää silloin kuin Hänen Keisarillinen Majesteettinsa katsoo
             tarpeen ja erinomaisten asianhaarain sitä vaativan*.
           </seg>
         </u>
@@ -11103,10 +11110,10 @@
         </note>
         <u who="unknown">
           <seg>
-            esitteli, että tämä &amp; pantaisiin pöydälle siihen saakka, kuin
-            47 &amp; esiin otettaisiin, jonka tähden ja koska edusmies Puhakka
-            myöskin puolusti tätä mieltä, $ pantiin pöydälle siihen saakka,
-            että 47 &amp; tulisi esiin.
+            esitteli, että tämä &amp; pantaisiin pöydälle siihen saakka,
+            kuin 47 &amp; esiin otettaisiin, jonka tähden ja koska edusmies
+            Puhakka myöskin puolusti tätä mieltä, $ pantiin pöydälle siihen
+            saakka, että 47 &amp; tulisi esiin.
           </seg>
         </u>
         <note xml:id="i-NrVeh1k7S7UVP4BdGnTcQK">
@@ -11114,11 +11121,11 @@
         </note>
         <note xml:id="i-Tys5YRCJj2z7VCwzP92RSX" type="speaker">
           Edusmies Strähle lausui että tämä $ muuten sisälsi samau kuin
-          sitä vastaava &amp; voimassa olevassa asetuksessa, paitsi siinä kohdassa
-          että tässä ehdoitettiin että polttoaika enennettäisiin kuudesta
-          kuukaudesta vuodessa seitsemäksi kuukaudeksi. Ja koska semmoinen
-          pitkitys ei paljon vaikuttaisi valmistusmäärän summaan, mutta
-          prännien kunnossa pitämisen kustannukset verrattain halventuisivat
+          sitä vastaava &amp; voimassa olevassa asetuksessa, paitsi siinä
+          kohdassa että tässä ehdoitettiin että polttoaika enennettäisiin
+          kuudesta kuukaudesta vuodessa seitsemäksi kuukaudeksi. Ja koska
+          semmoinen pitkitys ei paljon vaikuttaisi valmistusmäärän summaan,
+          mutta prännien kunnossa pitämisen kustannukset verrattain halventuisivat
           ja ylipäänsä pienempi pääoma tarvittaisiin pränniin kiinnittää,
           niin puhuja tahtoi &amp;:n
         </note>
@@ -11522,8 +11529,8 @@
           45 $.
         </note>
         <note xml:id="i-UBvN125j7pRrB4uaZceBe8">
-          Edusmies Meurman'in mielestä oli tämä &amp; kaikkein tärkein koko
-          asetuksessa, sillä vaikutukset eivät ripu siitä kuinka paljon
+          Edusmies Meurman'in mielestä oli tämä &amp; kaikkein tärkein
+          koko asetuksessa, sillä vaikutukset eivät ripu siitä kuinka paljon
           viinaa saapi polttaa, vaan siitä, millä kannalla viinan myynti
           on. Mitä helpompi viina on sitä enemmän sitä poltetaan ja juodaan
           ja päinvastoin. — Koska tässä $:ssä oli neljä kohtaa niin puhuja
@@ -12328,8 +12335,8 @@
         </note>
         <note xml:id="i-HYt7wNkEStnvYY8N1Frw7R" type="speaker">
           Edusmies Andersin tahtoi ensiksi huomauttaa säädylle sen, että
-          kun &amp; 3 oli keskustelun alaisena, niin se pantiin pöydälle siihen
-          asti kunnes ennätettäisiin 47 $:ä
+          kun &amp; 3 oli keskustelun alaisena, niin se pantiin pöydälle
+          siihen asti kunnes ennätettäisiin 47 $:ä
         </note>
         <u who="unknown">
           <seg>
@@ -12370,8 +12377,8 @@
             sä, muutettava herra Cleven vastalauseen mukaan niiden perusteiden
             nojalla, jotka hän siinä ilmoittaa. Mitä taas 3 S:ään tuli, niin
             puhuja, koska 2 $ oli muutettu ei katsonut soveliaaksi että ensinmainittu
-            &amp; kuuluisi niinkuin valiokunta on ehdotellut, vaan hyväksyi sen
-            esityksen mukaan.
+            &amp; kuuluisi niinkuin valiokunta on ehdotellut, vaan hyväksyi
+            sen esityksen mukaan.
           </seg>
         </u>
         <note xml:id="i-HdhVnZg7TCz7xkFR9nxsWW" type="speaker">
@@ -12454,7 +12461,8 @@
         </u>
         <note xml:id="i-GMh3UkFFDE28eDRkwB4HDc">
           Edusmies K yander'in mielestä oli parasta että sekä tämä että
-          3 &amp; jätettäisiin pöydälle siihen asti kunnes 50 &amp;, jonka kanssa
+          3 &amp; jätettäisiin pöydälle siihen asti kunnes 50 &amp;, jonka
+          kanssa
         </note>
         <pb facs="https://swerik-project.github.io/valtiopaivat-records-pdf/1872/ptk_1872_talonpojat_II/ptk_1872_talonpojat_II-0182"/>
         <note xml:id="i-RrLtiXNF7E6WYGwAd6Fa3r">
@@ -12493,23 +12501,24 @@
         </u>
         <note xml:id="i-NjRd4QbUn2JrkdpvMpNpMG">
           Edusmies Hah! lausui että kun hän vaati 3 $:ää pöydälle, keskusteltavaksi
-          yhtenä 7 &amp;n kanssa, jäi häneltä huomaamatta 50 8, joka on läheisessä
-          yhteydessä kysymyksenä olevain 88:äin kanssa, ja josta sentähden
-          nyt sopisi yhtenä keskustella. Jos 3 8 hyväksytään siten että
-          vero paloviinan valmistuksesta tulee olemaan 1 markka 20 penniä
-          kannulta, ja makso paloviinan anniskelusta 50 8:n mukaan määrätään
-          40 penniksi, niin tulee koko vero, joka kannulta menee, tekemään
-          1 markka 60 penniä. Tällainen vero on jo ennen ollut olemassa,
-          mutta kokemus oli näyttänyt että se oli kovin korkea, jonkatähden
-          1867 vuoden Säädyt päättivät alentaa sen 1 markaksi. Puhuja, joka
-          ei millään muotoa sallinut viina-veron koroittamista tätä korkeammaksi,
-          ehdotteli että —viinanpoltto-vero saisi pysyä 1 markassa, ja ett'ei
-          viinanmyyntiä missään tapauksessa veroitettaisi, vaan että tämä
-          kohta saisi olla entisellään vielä viisi vuotta eteenpäin, jonka
-          ajan kuluessa voitaisiin saada enemmän kokemusta, ovatko nykyisen
-          asetuksen määräykset tässä kohdin sopivia vai ei. Puhuja oli myöskin
-          sitä mieltä että säädyn päätettyä keskustelunsa kysymyksenä olevasta
-          mietinnöstä, se oli lähetettävä takaisin valiokuntaan.
+          yhtenä 7 &amp;n kanssa, jäi häneltä huomaamatta 50 8, joka on
+          läheisessä yhteydessä kysymyksenä olevain 88:äin kanssa, ja josta
+          sentähden nyt sopisi yhtenä keskustella. Jos 3 8 hyväksytään siten
+          että vero paloviinan valmistuksesta tulee olemaan 1 markka 20
+          penniä kannulta, ja makso paloviinan anniskelusta 50 8:n mukaan
+          määrätään 40 penniksi, niin tulee koko vero, joka kannulta menee,
+          tekemään 1 markka 60 penniä. Tällainen vero on jo ennen ollut
+          olemassa, mutta kokemus oli näyttänyt että se oli kovin korkea,
+          jonkatähden 1867 vuoden Säädyt päättivät alentaa sen 1 markaksi.
+          Puhuja, joka ei millään muotoa sallinut viina-veron koroittamista
+          tätä korkeammaksi, ehdotteli että —viinanpoltto-vero saisi pysyä
+          1 markassa, ja ett'ei viinanmyyntiä missään tapauksessa veroitettaisi,
+          vaan että tämä kohta saisi olla entisellään vielä viisi vuotta
+          eteenpäin, jonka ajan kuluessa voitaisiin saada enemmän kokemusta,
+          ovatko nykyisen asetuksen määräykset tässä kohdin sopivia vai
+          ei. Puhuja oli myöskin sitä mieltä että säädyn päätettyä keskustelunsa
+          kysymyksenä olevasta mietinnöstä, se oli lähetettävä takaisin
+          valiokuntaan.
         </note>
         <note xml:id="i-QxtxP4F2TyMk4xXTFKKFMU" type="speaker">
           Edusmies Heikuralla oli se ajatus että, jos viina-vero on pidettävä
@@ -12797,10 +12806,11 @@
           olisi koroitettava 1 markaksi 20 penniksi kannulta.
         </note>
         <note xml:id="i-MqY1zzzWDo7Jdv5wWgdY99">
-          Käytiin nyt äänestämään, oliko 47 &amp;:n 1 kohta hyväksyttävä valiokunnan
-          mietinnön tahi herra Cleven vastalauseen mukaan, jolloin yksimielisesti
-          päätettiin, että puheena-oleva kohta olisi muutettava niiden perusteiden
-          mukaan, jotka herra Cleve vastalauseessaan ilmoittaa.
+          Käytiin nyt äänestämään, oliko 47 &amp;:n 1 kohta hyväksyttävä
+          valiokunnan mietinnön tahi herra Cleven vastalauseen mukaan, jolloin
+          yksimielisesti päätettiin, että puheena-oleva kohta olisi muutettava
+          niiden perusteiden mukaan, jotka herra Cleve vastalauseessaan
+          ilmoittaa.
         </note>
         <note xml:id="i-AE5d2BJXiMH5JBkRY5gfeV" type="speaker">
           Landtdagsmannen Lindberg
@@ -13682,10 +13692,10 @@
         </note>
         <u who="unknown">
           <seg>
-            förordade beträffande denna &amp; den nådiga propositionen samt trodde
-            att intet ondt kunde uppstä, äfven om orden ,,om han dertill bevisligen
-            undfätt husbondens samtycke*, hvilka utskottet uteslutit, komme
-            att gvarstä, emedan, om t. ex. spannmäls-karlar, emot husbondens
+            förordade beträffande denna &amp; den nådiga propositionen samt
+            trodde att intet ondt kunde uppstä, äfven om orden ,,om han dertill
+            bevisligen undfätt husbondens samtycke*, hvilka utskottet uteslutit,
+            komme att gvarstä, emedan, om t. ex. spannmäls-karlar, emot husbondens
             vilja, finge hafva bränvin hemma hos sig, deraf tvertom kunde
             härflyta olägenheter för husbonden.
           </seg>
@@ -14335,8 +14345,8 @@
             oli tarkastusvaliokunta ollut epätiedossa, olisiko siinä löytyvä
             määräys 3 prosentin korosta luettava semmoisiin rahanmääräys-
             ja suostuntakysymyksiin, joista mainitaan Valtiopäiväjärjestyksen
-            72 &amp;:ssä ja joiden päättämiseen tarvitaan kaikkien neljän säädyn
-            suostumus. Puheena oleva mietintö on nimittäin Talonpoikaissäädyssä
+            72 &amp;:ssä ja joiden päättämiseen tarvitaan kaikkien neljän
+            säädyn suostumus. Puheena oleva mietintö on nimittäin Talonpoikaissäädyssä
             hylätty. Jos tämä kreditivilaina on käsiteltävä nyt mainitulla
             tavalla, pyysi valiokunta siitä saada tietoa huomiseksi.
           </seg>
@@ -18357,8 +18367,8 @@
             flere ärs tid haft jernväg. — Dertill är att ihägkomma att Viiala
             vägen kommer att vara 37 verst kortare än Riihimäki, hvilken kostnad,
             sammanlagd med den miljon, som Äboboerne hafva loivat, tillsammans
-            utgöra 3 &amp; 4 miljoner, hvilken summa pä sädant sätt komme att
-            inbesparas landet. Talaren trodde, att alla inkast mot
+            utgöra 3 &amp; 4 miljoner, hvilken summa pä sädant sätt komme
+            att inbesparas landet. Talaren trodde, att alla inkast mot
           </seg>
         </u>
         <note xml:id="i-S3qWKir5FhoQbBdPUtUFqS">
@@ -20581,8 +20591,8 @@
         </note>
         <note xml:id="i-Ws2TWSGv2RwsE9HzwNDK7j">
           suttit uti utskottet ända till klockan 10 pä aftonen och för
-          det andra, emedan hela ständet under det &amp; 1 diskuterades, ehuru
-          han hade begärt ordet, enhälligt ropat pä omröstning.
+          det andra, emedan hela ständet under det &amp; 1 diskuterades,
+          ehuru han hade begärt ordet, enhälligt ropat pä omröstning.
         </note>
         <note xml:id="i-BKm6j4YaSQutjMdeDwph22">
           Tuli ja luettiin :
@@ -21573,8 +21583,8 @@
         </note>
         <note xml:id="i-LCx2UJvj4JFzoCi5EaU1NV">
           2) on hyväksynyt merilakivaliokunnan yhteensovitus-ehdoituksen,
-          kuitenkin niin, että viimeinen lause 62 &amp;:n ensimmäisestä momentista
-          olisi pois jätettävä;
+          kuitenkin niin, että viimeinen lause 62 &amp;:n ensimmäisestä
+          momentista olisi pois jätettävä;
         </note>
         <note xml:id="i-7SjKTeBQXzonqbtYYJgjE3">
           3) on pöytäkirjan-otteen kautta antanut tiedon yleiselle valitusvaliokunnalle
