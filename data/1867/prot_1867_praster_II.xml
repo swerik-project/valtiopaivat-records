@@ -1,5 +1,5 @@
-<?xml version='1.0' encoding='utf-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="prot_1867_praster_II">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -25,8 +25,12 @@
   <text>
     <front>
       <div type="preface">
-        <head>prot_1867_praster_II</head>
-        <docDate when="1867-01-01">1867-01-01</docDate>
+        <head>
+          prot_1867_praster_II
+        </head>
+        <docDate when="1867-01-01">
+          1867-01-01
+        </docDate>
       </div>
     </front>
     <body>
@@ -93,8 +97,8 @@
           motsätta sig doktor Helléns förslag att sista meningen skulle
           utgå, enär förhållandet i vårt land ej vore så sorgligt, att barndopet
           förkastades. Talaren hade blifvit styrkt i sin åsigt af några
-          bönders för honom uttalade djupa bekymmer, att &amp; möjligen komme
-          att gifva anledniug till förakt för barndopet.
+          bönders för honom uttalade djupa bekymmer, att &amp; möjligen
+          komme att gifva anledniug till förakt för barndopet.
         </note>
         <note xml:id="i-WVTFt8uCYKGGKcLXEJD3Ps">
           Vicepastorn Putkonen förenade sig i allo med doktor Bergh. Då
@@ -152,9 +156,9 @@
           värd talare åberopade 9:de art. i confessio augustana syftade
           pä barndopets giltighet i allmänhet, men stadgade icke att kyrkan
           skulle läta döpa alla barn, som hon finge tag i. När lutherska
-          kyrkan säledes icke tilläte tväng i afseende &amp; nädemedlen, sä
-          borde sådant icke heller här komma i fråga. Om man kallade det
-          andligt mord, att en fader afhölle sitt barn frän dopet, hvad
+          kyrkan säledes icke tilläte tväng i afseende &amp; nädemedlen,
+          sä borde sådant icke heller här komma i fråga. Om man kallade
+          det andligt mord, att en fader afhölle sitt barn frän dopet, hvad
           skulle man dä kalla det, att ett barn först döptes och sedan öfverlemnades
           att uppfostras ät en person, som ej alls erkände kyrkans lära.
           Om man äterginge till tvängsdopet, sä skulle man frångå hela principen
@@ -318,7 +322,7 @@
         <note xml:id="i-Ln4pXeSoHDhSFAKQZtgwLR" type="speaker">
           Kyrkoherden Castrén yttrade:
         </note>
-        <u who="i-EWF5w6W7mNczUrPXBtTG1i" xml:id="i-KHDbL1oadfwtnHVFYhcUjh">
+        <u xml:id="i-KHDbL1oadfwtnHVFYhcUjh" who="i-EWF5w6W7mNczUrPXBtTG1i">
           <seg xml:id="i-QLEM93VPxBfF91xPVA9MD9">
             Denna 45 $ i kyrkolagsförslaget förpligtar hvarje församling
             att bereda beständigt tillfälle till undervisning och inhemtande
@@ -430,8 +434,8 @@
           till regel. Här ifrågavarande personer vore dock barn till förståndet.
         </note>
         <note xml:id="i-UHYgxhPT4E32mk4ZqSUX6K">
-          På framställning af herr talemannen godkändes denna &amp; med obestridd
-          pluralitet.
+          På framställning af herr talemannen godkändes denna &amp; med
+          obestridd pluralitet.
         </note>
         <note xml:id="i-AdRZ5iRjHrbZzkFvmxm3TH">
           &amp; 49 godkändes enhälligt. 8 50.
@@ -441,25 +445,25 @@
           reservation beträffande denna $. Talaren hade genom erfarenhet
           kommit till den slutsats att gängförhören vore antiguerade och
           förlorat all betydelse. Man kunde ej med bästa vilja i verlden
-          bringa nägot samtal &amp; bane, utan spatserade pä gängen och finge
-          svara sjelf, dä ej andra gäfve svar. Gängförhören vore ock af
-          den anledning öfverflödiga, att ur dem utvecklat sig läsförhören,
+          bringa nägot samtal &amp; bane, utan spatserade pä gängen och
+          finge svara sjelf, dä ej andra gäfve svar. Gängförhören vore ock
+          af den anledning öfverflödiga, att ur dem utvecklat sig läsförhören,
           hvilka bättre motsvarade sitt ändamäl. Deremot hade talaren velat
-          i en ny &amp; införa bestämning derom, att de tre senaste ärens skriftskoleungdom
-          skulle en eller flere gänger om äret kallas till särskildt samtal,
-          emedan vid läsförhöret det myckna arbetet ej medgäfve att särskildt
-          afse ungdomen.
+          i en ny &amp; införa bestämning derom, att de tre senaste ärens
+          skriftskoleungdom skulle en eller flere gänger om äret kallas
+          till särskildt samtal, emedan vid läsförhöret det myckna arbetet
+          ej medgäfve att särskildt afse ungdomen.
         </note>
         <note xml:id="i-UWwcWU1CBPhofeJWTgKkuj">
-          Prosten Hackzell förordade &amp; i motsats till doktor Bergh, helst
-          de senast förflutna årens skriftskoleungdom der särskildt nämndes.
-          Gängförhören hade äfven den fördel, att ungdomen derigenom lärde
-          sig följa med predikan.
+          Prosten Hackzell förordade &amp; i motsats till doktor Bergh,
+          helst de senast förflutna årens skriftskoleungdom der särskildt
+          nämndes. Gängförhören hade äfven den fördel, att ungdomen derigenom
+          lärde sig följa med predikan.
         </note>
         <note xml:id="i-Jphkc7tkoBM4VQd2AzQ7ea" type="speaker">
           Kyrkoherden Castrén:
         </note>
-        <u who="i-EWF5w6W7mNczUrPXBtTG1i" xml:id="i-QTM8oXCbpfntYRw7KpP83F">
+        <u xml:id="i-QTM8oXCbpfntYRw7KpP83F" who="i-EWF5w6W7mNczUrPXBtTG1i">
           <seg xml:id="i-FWwuCs5cDifpnFZKf9zA1v">
             Beträffande den del af Doktor Berghs andragande, som rör skriftskoleungdomens,
             som blifvit admitterad, fortgäende undervisning, godkänner äfven
@@ -633,8 +637,8 @@
           påkalla någon åtgärd, svara nej."
         </note>
         <note xml:id="i-DGndKZbGVs92Kc77ac6Xhy">
-          Besvarades med 11 ja mot 10 nej; i följd hvaraf således &amp; oförändrad
-          godkändes.
+          Besvarades med 11 ja mot 10 nej; i följd hvaraf således &amp;
+          oförändrad godkändes.
         </note>
         <pb facs="https://swerik-project.github.io/valtiopaivat-records-pdf/1867/prot_1867_praster_II/prot_1867_praster_II-0013"/>
         <note xml:id="i-XetYMbBXAcARGqnShec4h4">
@@ -769,11 +773,11 @@
         <note xml:id="i-jqT1mnPobWcKchw3NCoVQ">
           Prosten Grönberg yttrade det domprosten Borg sjelf bragt proselytmakeri
           på tapeten. Prosten hade hvarken talat om greker eller proselytmakeri.
-          I &amp; stod det tydligt att den, som önskade öfvergä, skulle med
-          fri vilja gifva sin önskan tillkänna. Det kunde ju hända, att
-          i hela Finland ej funnes en enda prest af den bekännelse, hvartill
-          den, som önskade öfvergä, hörde. Presterskapet vore dessutom anbefaldt
-          att göra proselyter bland zigenarne.
+          I &amp; stod det tydligt att den, som önskade öfvergä, skulle
+          med fri vilja gifva sin önskan tillkänna. Det kunde ju hända,
+          att i hela Finland ej funnes en enda prest af den bekännelse,
+          hvartill den, som önskade öfvergä, hörde. Presterskapet vore dessutom
+          anbefaldt att göra proselyter bland zigenarne.
         </note>
         <note xml:id="i-T7JfhXeqb7DwRHnBtUVzPy">
           Lektorn doktorn Lampön hade intet emot att domkapitlet underrättades,
@@ -911,9 +915,9 @@
           ,derest fullmäktigs utevaro ej af laga förfall föranledes*, i
           hvilken händelse det synts Borgareståndet obilligt, att fullmäktigen
           äläge att aflöna suppleanten. Jemte det Borgareständet vidare
-          godkänt Utskottets &amp; pag. 6 af betänkandet intagna förslag angäende
-          ärlig revision af amortissementsfonden och dess förvaltning samt
-          hvad Utskottet &amp; pag. 12 af betänkandet yttrat och föreslagit
+          godkänt Utskottets &amp; pag. 6 af betänkandet intagna förslag
+          angäende ärlig revision af amortissementsfonden och dess förvaltning
+          samt hvad Utskottet &amp; pag. 12 af betänkandet yttrat och föreslagit
           rörande samtidig inventering
         </note>
         <pb facs="https://swerik-project.github.io/valtiopaivat-records-pdf/1867/prot_1867_praster_II/prot_1867_praster_II-0018"/>
@@ -959,7 +963,7 @@
         <note xml:id="i-FhuQiX2Wf5rTZ6HWfG9sPy" type="speaker">
           Domprosten Borg yttrade:
         </note>
-        <u who="i-4QdpXawiN5ExRxSEBRW6BN" xml:id="i-qjEiNkkwTmZ9PUgrnL4NY">
+        <u xml:id="i-qjEiNkkwTmZ9PUgrnL4NY" who="i-4QdpXawiN5ExRxSEBRW6BN">
           <seg xml:id="i-VPec9Kf3WGA2fsNEjDsc15">
             Med nägra ord önskade jag framhälla de skäl, som hos kyrkolagsutskottet
             verkat derhän, att doktor Berghs nu för ståndet framhällna reservation
@@ -1101,47 +1105,48 @@
         <note xml:id="i-BVfNL3jdpK2m5QWP2KpFDC" type="speaker">
           Prosten doktor Bergh yttrade:
         </note>
-        <u who="unknown" xml:id="i-2f3aKygKThWanCnu16UE5V">
+        <u xml:id="i-2f3aKygKThWanCnu16UE5V" who="unknown">
           <seg xml:id="i-HSV3X4Etu4cvdZyEo4xvXX">
             Domprosten doktor Borg har genom relationen om Andreas Osianders
             brefvexling med Luther erinrat mig, att allmänt skriftermål redan
             den tiden åtminstone i Närnberg var i bruk. Mä så vara, må ock
-            sådant varit fallet &amp; någon annan ort, som jag ej kan erinra mig.
-            Det är och förblir dock ett faktum, att bikt och aflösning under
-            Reformationstiden och långt derefter allra allmännast och i de
-            allra flesta församlingar och orter var en enskild kultakt; hvarvid
-            aflösningen naturligtvis var och kunde vara ovillkorlig. Men Herr
-            Domprosten har icke sjelf aktat derpå, att Luther på tvänne väsendtligen
-            olika sätt talar om aflösningen i det han, utan att i egentlig
-            mening handla derom ofta och kraftfullt förklarar, att aflösningen
-            ,ej är annat än evangelii-predikan*, d. ä. förkunnelse af evangelii
-            nädelöften i Christo ät botfärdiga syndare och uppmuntran till
-            tro pä dessa nädelöften. Att någon annan slags absolution än denna
-            icke kunde komma i fråga ens vid den tidens allmänna bikt, är
-            likaså sjelffallet, som det följer bäde af nämnde äsigt, äfvensom
-            deraf, att jemväl den allmänna tillönskan af Guds nåd och barmhertighet,
-            hvilken vid den offentliga Gudstjensten af presten uttalades efter
-            den gemensamma syndabekännelsen äfven uttryckligen kallades absolution.
-            Och just en sädan allmän förkunnelse af evangelium och Guds nädelöften,
-            har jag jemte föregäende undervisning och syndabekännelse i min
-            reservation förordat i stället för den ännu päyrkade aflösningen
-            i egentlig mening. Att Luther emot Osianders yrkande ville låta
-            Nirnbergarena behålla sin allmänna bikt och aflösning före nattvarden,
-            bevisar säledes sä mycket mindre nägot i saken, som Luther uttryckligen
-            stöder sig derpä, att denna form för beredelsehandling var för
-            folket i Närnberg sä synnerligen kär och omtyckt. — För sitt pästäende,
-            att den egentliga absolutionens utelemnande, hvarmed ifrågavarande
-            handling skulle förlora betydelsen af skriftermäl (= bikt och
-            aflösning) vore farligt, har Domprosten Borg ej anfört något skäl.
-            Annu mindre har Domprosten frägat efter nägon skriftgrund för
-            detta skriftermål såsom förberedelse till Herrans nattvard. Domprosten
-            Borg vet nog att någon sådan alldeles icke finnes till. Mest förundrar
-            mig dock, att Domprosten förkastar mitt förslag af skäl, att det
-            skulle förorda blott syndabekännelse, d. v. s. ,blott lagens sida,
-            men ej tröst, hugnad och uppmuntran”. Detta inkast förstår jag
-            sannerligen icke. Jag har ju uttryckeligen sagt, att förberedelsetalet
-            borde innehälla undervisning om nattvardens betydelse och ändamål,
-            som ingalunda är lagpredikan, samt uppmuntran till både
+            sådant varit fallet &amp; någon annan ort, som jag ej kan erinra
+            mig. Det är och förblir dock ett faktum, att bikt och aflösning
+            under Reformationstiden och långt derefter allra allmännast och
+            i de allra flesta församlingar och orter var en enskild kultakt;
+            hvarvid aflösningen naturligtvis var och kunde vara ovillkorlig.
+            Men Herr Domprosten har icke sjelf aktat derpå, att Luther på
+            tvänne väsendtligen olika sätt talar om aflösningen i det han,
+            utan att i egentlig mening handla derom ofta och kraftfullt förklarar,
+            att aflösningen ,ej är annat än evangelii-predikan*, d. ä. förkunnelse
+            af evangelii nädelöften i Christo ät botfärdiga syndare och uppmuntran
+            till tro pä dessa nädelöften. Att någon annan slags absolution
+            än denna icke kunde komma i fråga ens vid den tidens allmänna
+            bikt, är likaså sjelffallet, som det följer bäde af nämnde äsigt,
+            äfvensom deraf, att jemväl den allmänna tillönskan af Guds nåd
+            och barmhertighet, hvilken vid den offentliga Gudstjensten af
+            presten uttalades efter den gemensamma syndabekännelsen äfven
+            uttryckligen kallades absolution. Och just en sädan allmän förkunnelse
+            af evangelium och Guds nädelöften, har jag jemte föregäende undervisning
+            och syndabekännelse i min reservation förordat i stället för den
+            ännu päyrkade aflösningen i egentlig mening. Att Luther emot Osianders
+            yrkande ville låta Nirnbergarena behålla sin allmänna bikt och
+            aflösning före nattvarden, bevisar säledes sä mycket mindre nägot
+            i saken, som Luther uttryckligen stöder sig derpä, att denna form
+            för beredelsehandling var för folket i Närnberg sä synnerligen
+            kär och omtyckt. — För sitt pästäende, att den egentliga absolutionens
+            utelemnande, hvarmed ifrågavarande handling skulle förlora betydelsen
+            af skriftermäl (= bikt och aflösning) vore farligt, har Domprosten
+            Borg ej anfört något skäl. Annu mindre har Domprosten frägat efter
+            nägon skriftgrund för detta skriftermål såsom förberedelse till
+            Herrans nattvard. Domprosten Borg vet nog att någon sådan alldeles
+            icke finnes till. Mest förundrar mig dock, att Domprosten förkastar
+            mitt förslag af skäl, att det skulle förorda blott syndabekännelse,
+            d. v. s. ,blott lagens sida, men ej tröst, hugnad och uppmuntran”.
+            Detta inkast förstår jag sannerligen icke. Jag har ju uttryckeligen
+            sagt, att förberedelsetalet borde innehälla undervisning om nattvardens
+            betydelse och ändamål, som ingalunda är lagpredikan, samt uppmuntran
+            till både
           </seg>
         </u>
         <pb facs="https://swerik-project.github.io/valtiopaivat-records-pdf/1867/prot_1867_praster_II/prot_1867_praster_II-0022"/>
@@ -1179,7 +1184,7 @@
         <note xml:id="i-2rPhzG1da9ocFf8tQjYFAe" type="speaker">
           Vicepastorn Putkonen yttrade:
         </note>
-        <u who="i-CisiTZA8jBe6U9YcQPijf8" xml:id="i-AiJqzDgMfiiXbhszyf3b91">
+        <u xml:id="i-AiJqzDgMfiiXbhszyf3b91" who="i-CisiTZA8jBe6U9YcQPijf8">
           <seg xml:id="i-XxBswVuC9kCcBkBDcbkeGD">
             Dä jag af min öfvertygelse nödgas att dela samma äsigt, som Prosten
             Doktor Bergh uti förevarande fräga yttrat, fär jag säledes understöda
@@ -1223,15 +1228,15 @@
           Luthers ord, ej mina); ty ju ömare en menniskas samvete är, desto
           mer söker hon hos sig eller fordrar af sig uppfyllelsen af de
           vilkor, hvaraf förlätelsen göres beroende. Tillsäger man äter
-          alla en ovilkorlig aflösning, sä kommer man att i afseende &amp; de
-          flesta tillsäga dem lif, hvilka död borde tillsägas. Af dessa
+          alla en ovilkorlig aflösning, sä kommer man att i afseende &amp;
+          de flesta tillsäga dem lif, hvilka död borde tillsägas. Af dessa
           skäl understöder jag prosten doktor Berghs reservation i detta
           syfte.
         </note>
         <note xml:id="i-A5MsMyBpuuqJ1cpaZiE1Fn" type="speaker">
           Kyrkoherden Roos:
         </note>
-        <u who="i-AeYQdyFLwTn8ciBYDRNroB" xml:id="i-EnMAhg6DbZ4xg3NKFyGTBe">
+        <u xml:id="i-EnMAhg6DbZ4xg3NKFyGTBe" who="i-AeYQdyFLwTn8ciBYDRNroB">
           <seg xml:id="i-QmLSpuCuLjuaWuW3iBRyM7">
             Herr pastor Putkonen har redan pämint om att skriftermälet bestär
             af tvenne stycken, bekännelse och absolution. Herr doktor Bergh
@@ -1282,8 +1287,8 @@
           hvad honom i bikt är anförtrodt.
         </note>
         <note xml:id="i-4rP1uf8htv3DtFjHkAvJxR">
-          Pä framställning af herr talemannen godkändes denna &amp; med obestridd
-          pluralitet.
+          Pä framställning af herr talemannen godkändes denna &amp; med
+          obestridd pluralitet.
         </note>
         <note xml:id="i-Fnbx8UPhanBC8PKt3FbzwA">
           Åttonde Kapitlet.
@@ -1696,9 +1701,9 @@
           folket en sä djup afsky vore inrotad mot sädana, att man i mänga
           församlingar fordrade det de äfven efter döden borde hvila skildt
           frän andra. I mänga af de norra församlingarna vore äfven nu för
-          detta ändamål en skild vrå &amp; begrafningsplatsen för sådana personer.
-          I och för sig vore saken af ringa vigt, men folkmedvetandet fordrade
-          det.
+          detta ändamål en skild vrå &amp; begrafningsplatsen för sådana
+          personer. I och för sig vore saken af ringa vigt, men folkmedvetandet
+          fordrade det.
         </note>
         <note xml:id="i-GQDu2WH9ZRtkhvhPDzx1Gj">
           Vicepastorn Helander förenade sig om det af doktor Hellön föreslagna
@@ -1989,7 +1994,7 @@
         <note xml:id="i-H9whCCZ4hy5GZgpadPtFBg" type="speaker">
           Kyrkoherden Castr6n yttrade:
         </note>
-        <u who="unknown" xml:id="i-YUYfDVrfGxk6F3XE8oj7Z6">
+        <u xml:id="i-YUYfDVrfGxk6F3XE8oj7Z6" who="unknown">
           <seg xml:id="i-9bEwyWATh2W6wdgMUkSndy">
             Tvänne olika äsigter hafva uttalat sig i ståndet beträffande
             ifrågavarande 9 S i tolfte kapitlet uti kyrkolagsförslaget af
@@ -2265,8 +2270,8 @@
           Bondeståndet vid följande beslut:
         </note>
         <note xml:id="i-MMMeurUA5QjJjCgzP7KSSv">
-          Att 1 &amp; antogs i enlighet med utskottets betänkande jemte tillägg
-          i slutet af orden: ,intill dess nytt vägaskifte sker.*
+          Att 1 &amp; antogs i enlighet med utskottets betänkande jemte
+          tillägg i slutet af orden: ,intill dess nytt vägaskifte sker.*
         </note>
         <note xml:id="i-GNgTLap6avHLfpeJ6LCZnJ">
           Att $$ 2 och 3 i Nädiga propositionen antogos oförändrade.
@@ -2286,11 +2291,11 @@
           Att $$ 8—10 antogos i enlighet med den nådiga propositionen.
         </note>
         <note xml:id="i-HYQeACqzBsEYNBe2S8LQ2h">
-          Att vid 11 &amp;, som i öfrigt borde erhälla samma lydelse, som motsvarande
-          $ i Nädiga propositionen, skulle i slutet tilläggas: med undantag
-          af sådana elfvar, strömmar eller åar, om hvilka antingen genom
-          laga kraft vunnet utslag, eller eljest i vederbörlig ordning blifvit
-          annorlunda bestämdt."
+          Att vid 11 &amp;, som i öfrigt borde erhälla samma lydelse, som
+          motsvarande $ i Nädiga propositionen, skulle i slutet tilläggas:
+          med undantag af sådana elfvar, strömmar eller åar, om hvilka antingen
+          genom laga kraft vunnet utslag, eller eljest i vederbörlig ordning
+          blifvit annorlunda bestämdt."
         </note>
         <note xml:id="i-VcK8aJUCZin5wYRN4DhxTU">
           Att 12 &amp; antogs sådan densamma innefattas i den Nädiga propositionen.
@@ -2838,8 +2843,8 @@
         <note xml:id="i-LEKNpiZ5F7otPzVhteSrcL">
           Kyrkoherden Roos hänvisade till nu gällande kyrkolags stadgande
           om bann. Talaren hade ej velat yrka pä bann i detta skick, utan
-          endast i afseende &amp; den evangelisk-lutherska kyrkans princip citerat
-          en aktad författare.
+          endast i afseende &amp; den evangelisk-lutherska kyrkans princip
+          citerat en aktad författare.
         </note>
         <note xml:id="i-HA2kzz1ZM8AYXTW8iVHSgW">
           Domprosten Borg yttrade det bäde Valters af kyrkoherden Roos
@@ -3344,37 +3349,38 @@
         </note>
         <note xml:id="i-Q79na484P9CXPLAChHGjVi">
           Biskopen doktor Schauman ville yttra sig endast i korthet. Med
-          afseende &amp; prestexamen var biskopen af alldeles samma tanke som
-          domprosten Borg, och hade ändrat äsigt hvad 1863 ärs förslag beträflar,
-          emedan biskopen numera funnit det vara fullkomligt onödigt, att
-          tvänne examina skulle anställas omedelbart efter hvarandra. Hvad
-          åter anginge den &amp; som stadgade att man borde hafva två är tjenstgjort
-          innan examen pro munere atlägges, sä medgaf biskopen att densamma
-          verkligen, såsom doktor Bergh sagt, innebure någon motsägelse;
-          biskopen hade ej heller närvarit i kyrkolagsutskottet då den ifrågavarande
-          $:en behandlades. Biskopen kunde likväl ej annat än gilla den
-          förändring paragrafen i utskottet undergått, helst den derigenom
-          uppkomna motsägelsen i sjelfva verket var alldeles oväsentlig;
-          ty om någon ordinandus kallades af församlingen och förordnades
-          att derstädes tjenstgöra, under förutsättning af efter två års
-          förlopp genom examen pro munere legitimera sig till fullmakt å
-          tjensten, men försummade att nämnda examen aflägga, så skulle,
-          derest han oförvitligen bestridt tjensten, domkapitlet, tvifvelsutan
-          icke bortförordna honom, utan tillåta honom att dermed fortfara
-          tills han komme i tillfälle att aflägga examen. Doktor Bergh hade
-          såsom behjertansvärdast framställt dem, som ej hade examensgåfvor,
-          men ändå välsignelserikt verkade i kyrkans tjenst, härvid borde
-          man dock ihågkomma att examen pro munere var af så praktisk natur,
-          att den för ingen som redan i församlingen tjenstgjort borde blifva
-          någonting svårt; och då domkapitlet erfarit att en man verkat
-          välsignelserikt i prestembetets utöfning två år, skulle det äfven
-          veta lämpa sina fordringar efter examinandens naturgäfvor. Hvad
-          doktor Alopaeus nämnt, att den som blifvit prest, borde hafva
-          rättighet att kunna vinna hvilken lägenhet som helst, så ville
-          biskopen häremot anmärka, att den praktiska skickligheten icke
-          kan vinnas förrän man någon tid tjenstgjort i församlingen, samt
-          att. om en sådan skicklighet under arbetets utöfning vunnits,
-          man äfven otvifvelaktigt kunde genom prof ådagalägga densamma.
+          afseende &amp; prestexamen var biskopen af alldeles samma tanke
+          som domprosten Borg, och hade ändrat äsigt hvad 1863 ärs förslag
+          beträflar, emedan biskopen numera funnit det vara fullkomligt
+          onödigt, att tvänne examina skulle anställas omedelbart efter
+          hvarandra. Hvad åter anginge den &amp; som stadgade att man borde
+          hafva två är tjenstgjort innan examen pro munere atlägges, sä
+          medgaf biskopen att densamma verkligen, såsom doktor Bergh sagt,
+          innebure någon motsägelse; biskopen hade ej heller närvarit i
+          kyrkolagsutskottet då den ifrågavarande $:en behandlades. Biskopen
+          kunde likväl ej annat än gilla den förändring paragrafen i utskottet
+          undergått, helst den derigenom uppkomna motsägelsen i sjelfva
+          verket var alldeles oväsentlig; ty om någon ordinandus kallades
+          af församlingen och förordnades att derstädes tjenstgöra, under
+          förutsättning af efter två års förlopp genom examen pro munere
+          legitimera sig till fullmakt å tjensten, men försummade att nämnda
+          examen aflägga, så skulle, derest han oförvitligen bestridt tjensten,
+          domkapitlet, tvifvelsutan icke bortförordna honom, utan tillåta
+          honom att dermed fortfara tills han komme i tillfälle att aflägga
+          examen. Doktor Bergh hade såsom behjertansvärdast framställt dem,
+          som ej hade examensgåfvor, men ändå välsignelserikt verkade i
+          kyrkans tjenst, härvid borde man dock ihågkomma att examen pro
+          munere var af så praktisk natur, att den för ingen som redan i
+          församlingen tjenstgjort borde blifva någonting svårt; och då
+          domkapitlet erfarit att en man verkat välsignelserikt i prestembetets
+          utöfning två år, skulle det äfven veta lämpa sina fordringar efter
+          examinandens naturgäfvor. Hvad doktor Alopaeus nämnt, att den
+          som blifvit prest, borde hafva rättighet att kunna vinna hvilken
+          lägenhet som helst, så ville biskopen häremot anmärka, att den
+          praktiska skickligheten icke kan vinnas förrän man någon tid tjenstgjort
+          i församlingen, samt att. om en sådan skicklighet under arbetets
+          utöfning vunnits, man äfven otvifvelaktigt kunde genom prof ådagalägga
+          densamma.
         </note>
         <pb facs="https://swerik-project.github.io/valtiopaivat-records-pdf/1867/prot_1867_praster_II/prot_1867_praster_II-0060"/>
         <note xml:id="i-45hcj1dZ6RZfSA8fM6sCby">
@@ -3620,7 +3626,8 @@
           pastoralexamen — jag kallar den sä rätt och slätt, ty namnet gör
           intet till saken, — för att vinna befordran till högre tjenster.
           På alla dessa skäl förenar jag mig med doktorerne Bergh och Alopaeus,
-          och anser &amp; 162 med de tvä examina inom 2 är vara alldeles obehöflig.
+          och anser &amp; 162 med de tvä examina inom 2 är vara alldeles
+          obehöflig.
         </note>
         <note xml:id="i-Eac6eH6zYuYwkiFYn53qKj">
           Prosten doktor Bergh medgaf i allo riktigheten af vicepastor
@@ -3738,8 +3745,8 @@
         <note xml:id="i-Mq9FYT9KnhYpTVE2SjWhEg">
           Professor Geitlin förenade sig med prosten Grönberg isynnerhet
           som paragrafen kunde afskrämma unga män frän studier för prestakallet,
-          och redan i &amp; 112 stadgades att ingen får blifva prest, utan att
-          han kallas, samt det ofta vore svärt att skilja mellan verkligt
+          och redan i &amp; 112 stadgades att ingen får blifva prest, utan
+          att han kallas, samt det ofta vore svärt att skilja mellan verkligt
           och icke verkligt behof.
         </note>
         <note xml:id="i-GBciA6YKdoPHkycTubJwju">
@@ -3838,26 +3845,26 @@
           likväl icke att den under nuvarande förhållanden skulle utgä.
           Det enda som härvid borde iakttagas var, att föreskrifterna om
           eden och bekännelsen borde stä i öfverensstämmelse med hvarandra,
-          hvarföre, dä &amp; 1 redan var antagen, äfven &amp; 118 borde modifieras
-          derefter.
+          hvarföre, dä &amp; 1 redan var antagen, äfven &amp; 118 borde
+          modifieras derefter.
         </note>
         <note xml:id="i-Bc4W119rxyuu5aPrFNBDPS">
           Domprosten Borg önskade i några få ord anföra skälen till den
           förändring, som paragrafen undergätt i kyrkolagsutskottet. Domprosten
-          förenade sig i allo med dem som, i öfverenstämmelse med 1 &amp;, deri
-          den evangelisk-lutherska kyrkans bekännelse uppfattas säsom ett
-          vittnesbörd om dess tro, betraktade presteden säsom en upprepning
+          förenade sig i allo med dem som, i öfverenstämmelse med 1 &amp;,
+          deri den evangelisk-lutherska kyrkans bekännelse uppfattas säsom
+          ett vittnesbörd om dess tro, betraktade presteden säsom en upprepning
           af bekännelsen. Pä samma sätt, — yttrade talaren — äro de symboliska
           böckerna bekännelse och ej lag; sä hafva alla uppfattat dem ända
           från Melanchton till Osiander. Jag nödgas derföre motsäga dem,
           som tro att denna bekännelse eller edgång i den kejserliga propositionen
-          är affattad i öfverensstämmelse med &amp; 1; ty senare delen är bortlemnad,
-          hvarföre utskottet nödvändigt hit önskat tillbaka orden ,Guds
-          heliga ord*. Prosten Rosengrens hela yttrande visar hans uppfattning
-          af de symboliska böckerna såsom en lag för tron, någonting som
-          de icke äro; ty kyrkan bekänner icke sin tro säsom en lag. Om
-          presten mäste till punkt och pricka lära säsom de symboliska böckerna,
-          sä fär han ingenting annat göra än upprepa dessas bestämningar
+          är affattad i öfverensstämmelse med &amp; 1; ty senare delen är
+          bortlemnad, hvarföre utskottet nödvändigt hit önskat tillbaka
+          orden ,Guds heliga ord*. Prosten Rosengrens hela yttrande visar
+          hans uppfattning af de symboliska böckerna såsom en lag för tron,
+          någonting som de icke äro; ty kyrkan bekänner icke sin tro säsom
+          en lag. Om presten mäste till punkt och pricka lära säsom de symboliska
+          böckerna, sä fär han ingenting annat göra än upprepa dessas bestämningar
           och blir blott en maschin; dä inträffar äfven, såsom prosten Borenius
           anmärkt, att han blir bunden till hvarje jota. Men intet domkapitel
           kan i vär lutherska kyrka fördömma den, som med Guds ord bevisar
@@ -3872,10 +3879,11 @@
           efter 1686 ärs kyrkolag eller den kejserliga propositionen.
         </note>
         <note xml:id="i-LrwcYskcrZg41nbJ6mJYRw">
-          Professor Geitlin äterhemtade sitt yttrande vid $&amp; 1, dä han
-          föreslog att ständet genom att taga ett steg tillbaka skulle göra
-          ett stort steg framät. Det formulär som nu begagnas hade tillkommit
-          utom grundlagsenlig väg, endast genom ett cirkulär af
+          Professor Geitlin äterhemtade sitt yttrande vid $&amp; 1, dä
+          han föreslog att ständet genom att taga ett steg tillbaka skulle
+          göra ett stort steg framät. Det formulär som nu begagnas hade
+          tillkommit utom grundlagsenlig väg, endast genom ett cirkulär
+          af
         </note>
         <pb facs="https://swerik-project.github.io/valtiopaivat-records-pdf/1867/prot_1867_praster_II/prot_1867_praster_II-0069"/>
         <note xml:id="i-PsctbiVoFPb2978bEeRULs">
@@ -4144,7 +4152,7 @@
         <note xml:id="i-QwbgNkvHAEEhoeegv36kCy" type="speaker">
           Professor Granfelt yttrade sig som följer:
         </note>
-        <u who="i-Lk8xzvhSG9RJUN6BeTB6mi" xml:id="i-KnM3wGHNHeihNTXBNrnuS5">
+        <u xml:id="i-KnM3wGHNHeihNTXBNrnuS5" who="i-Lk8xzvhSG9RJUN6BeTB6mi">
           <seg xml:id="i-DqowR4pDrLFCWKkAR9P6oS">
             Ehuru de olika åsigter, som rörande vårt närvarande ämne inom
             ståndet förefinnas, allaredan blifvit med tillräcklig omständighet
@@ -4396,10 +4404,10 @@
           säger, annars kan han ej försvara sina afvikande meningar, utan
           bör en sådan utträda ur kyrkan. Kyrkans tro bör derföre beedigas
           af den som blir ordinerad, alltså måste eden vara öfverensstämmande
-          med 1 &amp;. — Mot dem som trott en hemlig afsigt ligga under utskottets
-          förslag måste påminnas om hvad enhvar känner, att nemligen symbolerna
-          icke omfatta skriftens totalinnehåll, utan endast gifva ord åt
-          de sanningar och erfarenheter som kyrkans medvetande upptagit
+          med 1 &amp;. — Mot dem som trott en hemlig afsigt ligga under
+          utskottets förslag måste påminnas om hvad enhvar känner, att nemligen
+          symbolerna icke omfatta skriftens totalinnehåll, utan endast gifva
+          ord åt de sanningar och erfarenheter som kyrkans medvetande upptagit
           och som i striden emot det okyrkliga fått sitt uttryck. Symbolerna
           uttala hvad kyrkan nu vet, de äro vida fattigare än skriften.
           som är ett haf af sanning och ljus. Sä betraktas saken äfven af
@@ -4443,13 +4451,13 @@
         <note xml:id="i-KokqT7V3pw3GdSKMBva4r9" type="speaker">
           Doktor Bergh fortsatte:
         </note>
-        <u who="i-Vta7BDiM8BB6Zkf1iBczRE" xml:id="i-Fe2EkxX4UdEbUqtFd1PGsv">
+        <u xml:id="i-Fe2EkxX4UdEbUqtFd1PGsv" who="i-Vta7BDiM8BB6Zkf1iBczRE">
           <seg xml:id="i-9DLyz68ckoc1s8DhjhGdaj">
-            Enligt min öfvertygelse gär det ej an att afvika från &amp; 1, och
-            jag anser att den föreslagna formuleringen vill inrymma ät presten
-            rättighet att i sitt embete förkunna en huru mycket som helst
-            frän bekännelsen afvikande lära. Alla äro öfverens derom, att
-            bekännelseskrifterna ej i alla delar öfverensstämmä med någon
+            Enligt min öfvertygelse gär det ej an att afvika från &amp; 1,
+            och jag anser att den föreslagna formuleringen vill inrymma ät
+            presten rättighet att i sitt embete förkunna en huru mycket som
+            helst frän bekännelsen afvikande lära. Alla äro öfverens derom,
+            att bekännelseskrifterna ej i alla delar öfverensstämmä med någon
             theologs öfvertygelse, men man tycktes vilja gä ända derhän, att
             presten vid utöfningen af sitt embete finge efter behag förkunna
             sin enskilda öfvertygelse. Det heter dock: , vid utöfningen af
@@ -4678,16 +4686,17 @@
           borde ingå i en dissenterlag.
         </note>
         <note xml:id="i-AyqMSS6LBBjRdFfuHD7sVs">
-          Biskopen Schauman anmärkte att redan förut en &amp; förekommit hvari
-          samma förhållande beröres. Saken hörde dock icke till en dissenterlag,
-          emedan då äfven $ 4 i en sådan borde upptagas. Men då saken förekommer
-          i vår kyrkas handbok, bör den äfven förekomma i kyrkolagen. Den
-          senare delen af denna paragraf måste åter utgå, emedan redan förut
-          är stadgadt om grekiskryska trosbekännares förhållande till evangelisk-lutherska
-          kyrkan i Finland, och denna i sin kyrkolag icke kan lagstifta
-          för andra. Här visade sig i biskopens tanke huru oegentligt det
-          var, att regent och ständer stifta kyrkolag; allt sådant skulle
-          försvinna om kyrkomötet ägde lagstiftningsrätt för kyrkan.
+          Biskopen Schauman anmärkte att redan förut en &amp; förekommit
+          hvari samma förhållande beröres. Saken hörde dock icke till en
+          dissenterlag, emedan då äfven $ 4 i en sådan borde upptagas. Men
+          då saken förekommer i vår kyrkas handbok, bör den äfven förekomma
+          i kyrkolagen. Den senare delen af denna paragraf måste åter utgå,
+          emedan redan förut är stadgadt om grekiskryska trosbekännares
+          förhållande till evangelisk-lutherska kyrkan i Finland, och denna
+          i sin kyrkolag icke kan lagstifta för andra. Här visade sig i
+          biskopens tanke huru oegentligt det var, att regent och ständer
+          stifta kyrkolag; allt sådant skulle försvinna om kyrkomötet ägde
+          lagstiftningsrätt för kyrkan.
         </note>
         <note xml:id="i-FgB7SJ6VYv7byiFVzwX2DF">
           Domprosten Borg framhöll, att det var en negativ bestämning att
@@ -4744,8 +4753,8 @@
           Kyrkoherden Juselius förenade sig med biskop Schauman derom,
           att första mom. bibehölles, dock med den ändring att ordet skall
           utbyttes mot må. Hvad senare mom. anginge, så måste ståndet förfara
-          konseqvent, dä det redan vid &amp; 53 beslutit derom. Talaren sade
-          sig icke fatta domprosten Borgs mening, att i en dissenterlag
+          konseqvent, dä det redan vid &amp; 53 beslutit derom. Talaren
+          sade sig icke fatta domprosten Borgs mening, att i en dissenterlag
           kunde annorlunda bestämmas; det kunde hända att många andra paragrafer
           äfven blifva aunorlunda bestämda, men detta borde icke nu kunna
           hindra fattandet af beslut i saken.
@@ -4898,14 +4907,14 @@
           Presteständet. 1867. 9 April. 571
         </note>
         <note xml:id="i-7A9AGnH2axKQenL8Q4StMG">
-          uppfyller sina skyldigheter. Den 122 &amp; stadgade att presten mäste
-          betjena fremmande trosförvandter, och dä den ställdes i sammanhang
-          med den 126, kunde det hända att han af misstag betjenade äfven
-          en grek; i hvilken händelse derpä följde embetets förlust. Hvad
-          lysning beträffade, var utskottets formulering bättre, ty erfarenheten
-          visade det vara nära nog omöjligt att undvika misstag vid fråga
-          om utfärdandet af lysning åt sådana, som ej äro berättigade att
-          gifta sig. Man hade från 25 år tillbaka ett exempel från Joutsa,
+          uppfyller sina skyldigheter. Den 122 &amp; stadgade att presten
+          mäste betjena fremmande trosförvandter, och dä den ställdes i
+          sammanhang med den 126, kunde det hända att han af misstag betjenade
+          äfven en grek; i hvilken händelse derpä följde embetets förlust.
+          Hvad lysning beträffade, var utskottets formulering bättre, ty
+          erfarenheten visade det vara nära nog omöjligt att undvika misstag
+          vid fråga om utfärdandet af lysning åt sådana, som ej äro berättigade
+          att gifta sig. Man hade från 25 år tillbaka ett exempel från Joutsa,
           der tvänne syskonbarn blefvo förelysta och vigda, emedan presten
           icke kunde ur kyrkboken utreda deras slägtskapsförhållande. Flera
           andra exempel kunde ännu anföras; hvarföre ansvaret af embetets
@@ -4922,9 +4931,9 @@
         </note>
         <note xml:id="i-2sZRavkFxQoGVMTm8Uc2xm">
           Kyrkoherden Castrén kunde icke förena sig i det som anförts mot
-          1 momentet af &amp; 126, emedan han ansåg bestämningarne deri fullt
-          berättigade. Hvarje samvetsgrann själasörjare — sade talaren —
-          kan ej så inskränkt fatta sin uppgift, att han bör betjena endast
+          1 momentet af &amp; 126, emedan han ansåg bestämningarne deri
+          fullt berättigade. Hvarje samvetsgrann själasörjare — sade talaren
+          — kan ej så inskränkt fatta sin uppgift, att han bör betjena endast
           sin egen hjord, ty han bör så långt förmågan räcker betjena enhvar
           som anlitar hans biträde. Hvad andra mom. beträffade, så förenade
           sig talaren med de föregående deri, att straffbestämningarna borde
@@ -4970,7 +4979,7 @@
         <note xml:id="i-Tvy4HrbqeqyzUV26tueuzv" type="speaker">
           Professor Geitlin yttrade:
         </note>
-        <u who="i-BGmnCwGAP9Zt7Yd8H5Wx92" xml:id="i-AzCrLNCpoVwpxviW1STi5H">
+        <u xml:id="i-AzCrLNCpoVwpxviW1STi5H" who="i-BGmnCwGAP9Zt7Yd8H5Wx92">
           <seg xml:id="i-XdPkmzgX1KthdVV2QaXQ3F">
             Äfven jag finner det 2 mom. vara alltför strängt. Det kan inträffa
             att en lysning sker som visar sig vara orätt. Skulle doktor Hellön
@@ -5041,7 +5050,7 @@
         <note xml:id="i-8URH93F7unB7YnVxgWMyhF" type="speaker">
           Prosten Rosengren yttrade:
         </note>
-        <u who="i-UUFQ5w6CUWXPKeDW8gRVf7" xml:id="i-SxG2upBpZPZJdBCR1RYn41">
+        <u xml:id="i-SxG2upBpZPZJdBCR1RYn41" who="i-UUFQ5w6CUWXPKeDW8gRVf7">
           <seg xml:id="i-6JpvhAvKkyyZgMfF9Y1M6E">
             I 2 mom. af denna &amp; ingår en bestämning diametralt stridande
             mot allt rättsbegrepp i värt land. å en som redan utstätt sitt
@@ -5270,8 +5279,8 @@
           om den föreslagna bestämningen borttages.
         </note>
         <note xml:id="i-WsiZRdvSxBYHryRJvwnBqV">
-          Prosten doktor Andelin ansåg &amp; så nära sammanhänga med &amp; 144,
-          att denna äfven borde gå ut, om $ 141 bortfölle.
+          Prosten doktor Andelin ansåg &amp; så nära sammanhänga med &amp;
+          144, att denna äfven borde gå ut, om $ 141 bortfölle.
         </note>
         <note xml:id="i-D2ygcHKFq3Jnsmii1qep9A">
           Pä af herr talemannen framställd fräga förklarade likväl ståndet
@@ -5342,7 +5351,7 @@
         <note xml:id="i-HCrXBgBopGTJUe969D1NG5" type="speaker">
           Prosten Grönberg yttrade:
         </note>
-        <u who="i-MejDXzf7f7w3bWanLQKrgB" xml:id="i-5sV6R7BsLyLFoxCAT2juGU">
+        <u xml:id="i-5sV6R7BsLyLFoxCAT2juGU" who="i-MejDXzf7f7w3bWanLQKrgB">
           <seg xml:id="i-8kH7xvk61GyKsXJcawitBn">
             Genom lagen om fattigvården och den om kommunalstyrelsen har
             ett annat förhållande inträdt i församlingen; der kommunalnämnder
@@ -5630,7 +5639,7 @@
         <note xml:id="i-5wLtEeZaWkXK9CNGK8bsxS" type="speaker">
           Herr Montgomery begärde ordet och yttrade:
         </note>
-        <u who="unknown" xml:id="i-FLc8Pd7T6Q8N4L2Tq6zjmF">
+        <u xml:id="i-FLc8Pd7T6Q8N4L2Tq6zjmF" who="unknown">
           <seg xml:id="i-28Si4usH3YdJKJ4vSCLCYf">
             === == yDen lag som ät den 8 November 1865 skänkte glansen af
             en af de vigtigaste och mest fruktbärande reformer i vår ekonomiska
@@ -5683,8 +5692,8 @@
         </note>
         <note xml:id="i-7mAemurQJTERbHh8BweGKj">
           Förstnämnde aktier skulle utställas till Finska Statsverket och
-          rösträtten för de samma &amp; Bankens bolagsstämma utöfvas af ett
-          eller flere Ständernas ombud, men den pä desamma vid bokslutet
+          rösträtten för de samma &amp; Bankens bolagsstämma utöfvas af
+          ett eller flere Ständernas ombud, men den pä desamma vid bokslutet
           belöpande vinst, efter afdrag af förvaltningskostnader och anslag
           till reservfond, tillfalla Statsbudgeten. Ordföranden för Bankens
           Direktion skulle tillsättas af Hans Kejserliga Majestät,
@@ -5930,8 +5939,8 @@
         </note>
         <note xml:id="i-VU8uRTZ397Aqm8JQLB42F9">
           Prosten Grönberg yttrade, att änskönt många anmärkningar ännu
-          kunde mot &amp; 147 göras, förutom dem, som allaredan med mer eller
-          mindre skäl framställts, så ville talaren nu blott
+          kunde mot &amp; 147 göras, förutom dem, som allaredan med mer
+          eller mindre skäl framställts, så ville talaren nu blott
         </note>
         <pb facs="https://swerik-project.github.io/valtiopaivat-records-pdf/1867/prot_1867_praster_II/prot_1867_praster_II-0105"/>
         <note xml:id="i-PG8SDX3iBBfGFKogmcFjWu">
@@ -6073,7 +6082,7 @@
         <note xml:id="i-9mvnUQ5yNriGRwNPFXyyMG" type="speaker">
           Kyrkoherden Castrén yttrade:
         </note>
-        <u who="i-EWF5w6W7mNczUrPXBtTG1i" xml:id="i-5dGyQyTaxVEsUFM4mCx14a">
+        <u xml:id="i-5dGyQyTaxVEsUFM4mCx14a" who="i-EWF5w6W7mNczUrPXBtTG1i">
           <seg xml:id="i-FR71U9q9LLKNUkDKHPpWv8">
             ,i motsats mot hvad den föregående talaren anfört, finner jag
             denna paragraf vara riktig och böra utan ändring antagas. I brottmål
@@ -6190,8 +6199,8 @@
         <note xml:id="i-5u6gTvLjWMR6818zNg59pq">
           Domprosten Borg ville med några ord upplysa hvarföre de öfriga
           ledamöterne i utskottet icke understödt den åberopade reservationen.
-          Det stadgas nemligen i &amp; 144: ,Kyrkoherdarne skola, hvar i sin
-          församling, ansvara för den offentliga gudstjenstens, de heliga
+          Det stadgas nemligen i &amp; 144: ,Kyrkoherdarne skola, hvar i
+          sin församling, ansvara för den offentliga gudstjenstens, de heliga
           sakramenternas och andra kyrkliga handlingars värdiga och ordentliga
           förrättande" etc.; hvilket stadgande, jemfördt med $ 150 tydligen
           innebure, att äfven kapellanen och adjunkten voro ansvarige för
@@ -6211,8 +6220,8 @@
           står &amp; 145 i stället för 3 146.
         </note>
         <note xml:id="i-JqJRVLzQPmjqkjFy8e8hFz">
-          Härå antogs &amp; 150 med obestridd pluralitet. $ 151 godkändes utan
-          omröstning.
+          Härå antogs &amp; 150 med obestridd pluralitet. $ 151 godkändes
+          utan omröstning.
         </note>
         <note xml:id="i-6GYHBWwKajsvEfvMejAjWA">
           Rörande $ 152 yttrade kyrkoherden Juselius: här förekomma ord,
@@ -6474,8 +6483,8 @@
         </note>
         <note xml:id="i-Uq3TKNSJHue9yQdGRNMnN3">
           Doktor Hellén förordade likaledes samma förändring samt erinrade
-          att, ifall denna paragraf skall anses stå i sammanhang med &amp; 370,
-          så hade sådant bordt åberopas.
+          att, ifall denna paragraf skall anses stå i sammanhang med &amp;
+          370, så hade sådant bordt åberopas.
         </note>
         <note xml:id="i-5t3MoxNJpsCU96x9Rd7WnH">
           Kyrkoherden Castrén vidhöll sin förut uttalade mening.
@@ -6500,10 +6509,10 @@
         </note>
         <note xml:id="i-FiKhD5QTFqAzFCxAUSmj5t">
           Herr talemannen yttrade, med anledning af doktor Berghs i ofvanstående
-          måtto gjorda anmärkning, att ifall &amp; 164 ansåges återverka på
-          momentet a) i &amp; 161, så vore det doktorn obetaget att vid diskussionen
-          af förstsagde paragraf framkomma eller förnya sin anmärkning;
-          hvarjemte herr talemannen framställde följande proposition:
+          måtto gjorda anmärkning, att ifall &amp; 164 ansåges återverka
+          på momentet a) i &amp; 161, så vore det doktorn obetaget att vid
+          diskussionen af förstsagde paragraf framkomma eller förnya sin
+          anmärkning; hvarjemte herr talemannen framställde följande proposition:
         </note>
         <note xml:id="i-AhCcPGxvQPJK6foSqPnvmQ">
           Godkänner högvördiga ståndet mom. d uti $ 161 utan förändring,
@@ -6526,8 +6535,8 @@
           suspension ej kunna inbegripas under uttrycket varning.
         </note>
         <note xml:id="i-GzbijPZALWVBxLiA5Ps9t6">
-          Vid &amp; 162 begärdes ordet af doktor Alopaeus, hvilken ansäg de
-          härintills gällande föreskrifter uti fall, som denna paragraf
+          Vid &amp; 162 begärdes ordet af doktor Alopaeus, hvilken ansäg
+          de härintills gällande föreskrifter uti fall, som denna paragraf
           afsäge, vara att föredraga framför stadgandet i $ 162, hvilket,
           derest detsamma godkändes, borde förklaras gälla endast kyrkoherdeplatser.
         </note>
@@ -6619,7 +6628,7 @@
         <note xml:id="i-KRfoN9EeyGHsxpDz2W9HMY" type="speaker">
           Prosten Borenius yttrade:
         </note>
-        <u who="i-KM5zW4VUqMnFTF1EiyLAR9" xml:id="i-DmSofT3BdojizDh79v74qG">
+        <u xml:id="i-DmSofT3BdojizDh79v74qG" who="i-KM5zW4VUqMnFTF1EiyLAR9">
           <seg xml:id="i-PhGih8dCg6sf6ceuQPUshj">
             ,äfven jag för min del finner det alldeles naturligt att bibelkunskap
             ådagalägges af ordinanderne, men anser det ej vara nödvändigt
@@ -6649,8 +6658,8 @@
           den af utskottet föreslagna redaktionsförbättring.
         </note>
         <note xml:id="i-8Vc4hGqmjGoaFWcUXsxSvZ">
-          Likaså antogos $$ 165—173, de öfriga enhälligt men &amp; 168 med
-          obestridd pluralitet.
+          Likaså antogos $$ 165—173, de öfriga enhälligt men &amp; 168
+          med obestridd pluralitet.
         </note>
         <note xml:id="i-Dvarir3Un3mTp59pZMuQJ4">
           Vid $ 174 begärdes ordet af prosten Grönberg, som ansåg deri
@@ -6680,7 +6689,8 @@
           förfarande öfverensstämde med lag och att, derest stadgandet antoges,
           derjemte föreskrifvas borde att vallängd skall af vederbörande
           häradsskrifvare bestyrkas, på sätt härintills skett. Anmärkningen
-          lemnades dock utan afseende och &amp; 197 godkändes med afgjord pluralitet.
+          lemnades dock utan afseende och &amp; 197 godkändes med afgjord
+          pluralitet.
         </note>
         <note xml:id="i-JQVzcDgs9DNNbrCeffRXhZ">
           $ 198 godkändes enhälligt.
@@ -7037,11 +7047,12 @@
         </note>
         <note xml:id="i-SsqPFLT3Gn1krvNYPqkZSu">
           Kyrkoherden Juselius ansåg sig böra i allo biträda doktor Berghs
-          reservation rörande denna &amp; och angående klockareposten, det senare
-          så mycket mer som ganska få klockare ägde tjugu tunnors aflöning
-          och brefföringen för dem blefve ej allenast betungande utan ofta
-          äfven hinderlig för deras tjensteutöfning vid läsförhör m. fl.
-          förrättningar, hvilken kunde genom postföringsskyldigheten afbrytas.
+          reservation rörande denna &amp; och angående klockareposten, det
+          senare så mycket mer som ganska få klockare ägde tjugu tunnors
+          aflöning och brefföringen för dem blefve ej allenast betungande
+          utan ofta äfven hinderlig för deras tjensteutöfning vid läsförhör
+          m. fl. förrättningar, hvilken kunde genom postföringsskyldigheten
+          afbrytas.
         </note>
         <note xml:id="i-UNBqhzue3adTB5FEhm9VVR">
           Kontraktsprosten doktor Hellön sade sig hafva i förevarande kyrkolag
@@ -7168,10 +7179,10 @@
           SS 273—278 blefvo oförändrade antagne.
         </note>
         <note xml:id="i-28KzJzR9QSgADE7FDvW9EH">
-          Vid fråga om &amp; 279 gaf kontraktsprosten Ehrström tillkänna att
-          olika grunder för orgelnistval i Vasa stadsförsamling och Mustasaari
-          landsförsamling blifvit fastställde och ansåg derföre valsättet
-          böra bestämmas endast ,der ej annorlunda stadgadt funnes."
+          Vid fråga om &amp; 279 gaf kontraktsprosten Ehrström tillkänna
+          att olika grunder för orgelnistval i Vasa stadsförsamling och
+          Mustasaari landsförsamling blifvit fastställde och ansåg derföre
+          valsättet böra bestämmas endast ,der ej annorlunda stadgadt funnes."
         </note>
         <note xml:id="i-WCLxEtjn7imnZHPx6xjhAo">
           Professorn doktor Geitlin förordade antagandet af utskottsbetänkandets
@@ -7358,8 +7369,9 @@
           bestämda antal.
         </note>
         <note xml:id="i-3MAUkvGPJvGbvpajcGj8GX">
-          Uppä härå af herr talemannen framställd proposition blef &amp; med
-          obestridd röstpluralitet antagen i enlighet med utskottets betänkande.
+          Uppä härå af herr talemannen framställd proposition blef &amp;
+          med obestridd röstpluralitet antagen i enlighet med utskottets
+          betänkande.
         </note>
         <note xml:id="i-NTytkHU87MZFhbR5TYzuwD">
           $ 336 godkändes enhälligt i enlighet med utskottets betänkande.
@@ -7907,13 +7919,13 @@
         </note>
         <note xml:id="i-UYvG5CDH6qsAuQj9mgHeoX">
           Att betänkandet skulle återremitteras till grundlagsutskottet
-          i afseende &amp; omredigering 1:0 af 73 $:s 2 mom. sålunda att efter
-          första meningens slutord: skiljaktiga, skulle inskjutas följande
-          mening: ,,Hafva 5/; af rösterna utfallit för bevillningens eller
-          anslagets åtagande vare detta ständernas beslut", hvaremot de
-          tvänne sista meningarne af momentet, börjande med orden: Vid omröstningen
-          etc. skulle helt och hållet från momentet bortfalla. 2:o af S
-          75, som borde erhålla sådan ändring, att de uti nästföregäende
+          i afseende &amp; omredigering 1:0 af 73 $:s 2 mom. sålunda att
+          efter första meningens slutord: skiljaktiga, skulle inskjutas
+          följande mening: ,,Hafva 5/; af rösterna utfallit för bevillningens
+          eller anslagets åtagande vare detta ständernas beslut", hvaremot
+          de tvänne sista meningarne af momentet, börjande med orden: Vid
+          omröstningen etc. skulle helt och hållet från momentet bortfalla.
+          2:o af S 75, som borde erhålla sådan ändring, att de uti nästföregäende
           S 74 omnämnda frågor skulle vid omröstning afgöras genom enkel
           pluralitet, hvarföre de två från $ 73 uteslutna meningarne skulle
           i $ 75 införas i stället för orden: ,,genom omröstning i den ordning
@@ -7985,13 +7997,13 @@
           inom stiftet innehade.
         </note>
         <note xml:id="i-2UwRq1HG3qiHq4z7NRbBcD">
-          Doktor Alopaeus tyckte åter att dä &amp; 38 blifvit af ständet godkänd,
-          kunde nägon förändring ej mera göras rörande ifrägavarande paragraf,
-          som vore en följd af den förra, helst den, som invaldes, mäste
-          hällas skadeslös för ekonomisk förlust. Dock hörde denna sak icke
-          till kyrkolagen. För öfrigt följde af den kända principen att
-          det enskilda skall vika för det allmänna, att vid inträffadt val
-          rättighet till afsägelse första gången ej kunde komma i fräga.
+          Doktor Alopaeus tyckte åter att dä &amp; 38 blifvit af ständet
+          godkänd, kunde nägon förändring ej mera göras rörande ifrägavarande
+          paragraf, som vore en följd af den förra, helst den, som invaldes,
+          mäste hällas skadeslös för ekonomisk förlust. Dock hörde denna
+          sak icke till kyrkolagen. För öfrigt följde af den kända principen
+          att det enskilda skall vika för det allmänna, att vid inträffadt
+          val rättighet till afsägelse första gången ej kunde komma i fräga.
         </note>
         <note xml:id="i-CY3DNa2ARVfBTfQaYgiKmm">
           Kyrkoherden Juselius var ense med prosten Borenius.
@@ -8060,8 +8072,8 @@
         </note>
         <note xml:id="i-Jskw2bWcekKAPwRogPBoTe">
           Prosten Rosengren ansäg i motsats mot doktor Lampön och domprosten
-          Borg, att dä &amp; 387 blifvit af ståndet antagen utan ändring, sä
-          skulle ständet nu förneka sin dervid uttalade äsigt, i händelse
+          Borg, att dä &amp; 387 blifvit af ståndet antagen utan ändring,
+          sä skulle ständet nu förneka sin dervid uttalade äsigt, i händelse
           doktor Lampéns amendement godkändes; med afseende hvarå prosten
           för sin del ansåg den valde böra skyldigkännas att emottaga förtroendet,
           derest giltiga skäl för vägran icke kunde
@@ -8144,11 +8156,11 @@
         </note>
         <note xml:id="i-ApGzf5gTCvCksjmW22wUSz">
           Professorn Geitlin var ense med prosten Borenius och doktor Bergh.
-          Man hade väl sagt att &amp; 388 vore en följd af &amp; 387, men just derföre
-          ville professorn, på de skäl som anförts föreslå sådan formulering
-          af förstnämnde paragraf, att bland skollärare endast de theologiskt
-          bildade vore valbare. TI allt öfrigt förordade professorn antagande
-          af ifrågavarande paragraf.
+          Man hade väl sagt att &amp; 388 vore en följd af &amp; 387, men
+          just derföre ville professorn, på de skäl som anförts föreslå
+          sådan formulering af förstnämnde paragraf, att bland skollärare
+          endast de theologiskt bildade vore valbare. TI allt öfrigt förordade
+          professorn antagande af ifrågavarande paragraf.
         </note>
         <note xml:id="i-3ZM7zK1KRz2r5yGmkmcDwm">
           Kyrkoherden Juselius delade i öfrigt den af biskopen Schauman
@@ -8326,7 +8338,7 @@
         <note xml:id="i-LyKafgozzaisotyPPCybSP" type="speaker">
           Domprosten Borg yttrade:
         </note>
-        <u who="i-4QdpXawiN5ExRxSEBRW6BN" xml:id="i-2akhWLVixXnWVQo9ppUJRq">
+        <u xml:id="i-2akhWLVixXnWVQo9ppUJRq" who="i-4QdpXawiN5ExRxSEBRW6BN">
           <seg xml:id="i-5yxJpEeJQtDZR94manRvPa">
             ,jag åter måste erkänna, att jag i utskottet ej hade så ömtåliga
             öron som prosten Grönberg; också delar jag i allo den af doktor
@@ -8393,11 +8405,11 @@
           $ 421 godkändes enhälligt.
         </note>
         <note xml:id="i-RXJehEbpZshSWaB5kSVDZ7">
-          $ 422 antogs med den enligt ständets beslut rörande &amp; 142 påkallade
-          ändring af orden: ,då skall den skyldige till viss dag inför domkapitlet
-          inkallas, utslaget uppläsas och prestembetet honom afsägas på
-          sätt i S 142 sagdt är* till ,dä skall med den skyldige förfaras
-          pä sätt i $ 142 sagdt är".
+          $ 422 antogs med den enligt ständets beslut rörande &amp; 142
+          påkallade ändring af orden: ,då skall den skyldige till viss dag
+          inför domkapitlet inkallas, utslaget uppläsas och prestembetet
+          honom afsägas på sätt i S 142 sagdt är* till ,dä skall med den
+          skyldige förfaras pä sätt i $ 142 sagdt är".
         </note>
         <note xml:id="i-F2K6TVQFyLckvnzNYgjHit">
           $$ 423—426 godkändes utan votering, med uteslutning af sista
@@ -8461,7 +8473,7 @@
         <note xml:id="i-MKTgK1mMZMsVvfP7Cj4AU1" type="speaker">
           Doktor Bergh yttrade:
         </note>
-        <u who="i-Vta7BDiM8BB6Zkf1iBczRE" xml:id="i-AXfcqAnaKhqYCig6kb47NY">
+        <u xml:id="i-AXfcqAnaKhqYCig6kb47NY" who="i-Vta7BDiM8BB6Zkf1iBczRE">
           <seg xml:id="i-FB7KwCynhE6sVMoj9Tbfed">
             ,jag vill endast i korthet beröra de af föregående talare gjorda
             anmärkningar. Den första blir lättast tillgodosedd sålunda, att
@@ -8617,7 +8629,7 @@
         <note xml:id="i-Zbi7hkjxh1PKKdcrJRR4z" type="speaker">
           Prosten Grönberg yttrade:
         </note>
-        <u who="i-MejDXzf7f7w3bWanLQKrgB" xml:id="i-W2JiHBTJcEhYEsUstbqB1h">
+        <u xml:id="i-W2JiHBTJcEhYEsUstbqB1h" who="i-MejDXzf7f7w3bWanLQKrgB">
           <seg xml:id="i-GegAWWTiCbSMqPHskErKGi">
             ,i likhet med hvad jag redan i början af detta kyrkolagsförslags
             granskning uttalade, ber jag att nu få upprepa att jag anser kyrkomöte,
@@ -8677,7 +8689,7 @@
         <note xml:id="i-UAqk61gHAYLEnPs3JmhjQF" type="speaker">
           Prosten Hackzell anhöll om ordet samt yttrade:
         </note>
-        <u who="i-DWiyp39c5DMfpZq6cMdmVh" xml:id="i-UAYP7H3Ksi96CVuq1KGZn9">
+        <u xml:id="i-UAYP7H3Ksi96CVuq1KGZn9" who="i-DWiyp39c5DMfpZq6cMdmVh">
           <seg xml:id="i-AGKrxP5Fv3KDgR93222mMT">
             ,pä de grunder jag allaredan under diskussionen af $ 14 af detta
             förslag anfört, fär jag nu föreslä att $ 457 mätte erhälla den
@@ -8725,7 +8737,7 @@
         <note xml:id="i-J12WKzDcYGNZtJbYCDSw2T" type="speaker">
           Kyrkoherden Castrén yttrade:
         </note>
-        <u who="i-EWF5w6W7mNczUrPXBtTG1i" xml:id="i-VXZoH1oUCQaYKkbUfpyFci">
+        <u xml:id="i-VXZoH1oUCQaYKkbUfpyFci" who="i-EWF5w6W7mNczUrPXBtTG1i">
           <seg xml:id="i-DYhPaVoe5wGKAi41V4dnLr">
             ,jag ber att få äterhemta hvad jag allaredan under diskussionen
             af $ 14 anförde till förmån för biskopen Schaumans reservation,
@@ -8846,8 +8858,8 @@
         </note>
         <note xml:id="i-CYyTnToRWxVEav6Dj1pMXp">
           Doktor Alopaeus tillade att hade medstånden under diskussionen
-          af &amp; 14 blifvit inbjudne för det angifna ändamålet, skulle man
-          ägt större sannolikhet att viona dem för sig; men numera vore
+          af &amp; 14 blifvit inbjudne för det angifna ändamålet, skulle
+          man ägt större sannolikhet att viona dem för sig; men numera vore
           detta ej så säkert, hvarföre också talaren icke kunde annat än
           beklaga, att de öfriga stånden icke hade egnat mera uppmärksamhet
           åt 1863 års förslag.
@@ -8967,8 +8979,8 @@
         <note xml:id="i-VeCErL5L8PfqMLNwYbNG7y">
           Doktor Hellén ansåg sagde tillägg icke vara påkalladt, enär 8
           8 af 1863 års förslag blefve i sin helhet införd i ställe för
-          utskottets &amp; 14, derä ståndet ansåg doktor Berghs amendement ej
-          föranleda till någon åtgärd.
+          utskottets &amp; 14, derä ståndet ansåg doktor Berghs amendement
+          ej föranleda till någon åtgärd.
         </note>
         <note xml:id="i-VsUxEyyDsiKyX2QkUhxsJo">
           $$ 458—460 godkändes enhälligt. $ 461.
@@ -9245,7 +9257,7 @@
         <note xml:id="i-QWtyibLW1chXX3P53MDctk" type="speaker">
           Doktor Bergh yttrade:
         </note>
-        <u who="i-Vta7BDiM8BB6Zkf1iBczRE" xml:id="i-ExzjA6mkotb3giDVojhXmS">
+        <u xml:id="i-ExzjA6mkotb3giDVojhXmS" who="i-Vta7BDiM8BB6Zkf1iBczRE">
           <seg xml:id="i-ScXmQUGjJ5XS8GKa5Sj8Vj">
             ,först och främst har doktor Alopaeus ansett religionsfriheten
             vara helt annat än hvad här omordats, och att densamma skulle
@@ -9405,9 +9417,9 @@
         </note>
         <note xml:id="i-89q2UFDx18i6vUMtdxx81m">
           Samtliga $$ 18—33 antogos, $&amp; 30 med den af utskottet föreslagna
-          förändrade redaktion och &amp; 33 enligt utskottets förra, af presteståndets
-          och bondeståndets deputerade omfattade och med ordalydelsen i
-          kyrkolagsförslaget öfverensstämmande alternativ.
+          förändrade redaktion och &amp; 33 enligt utskottets förra, af
+          presteståndets och bondeståndets deputerade omfattade och med
+          ordalydelsen i kyrkolagsförslaget öfverensstämmande alternativ.
         </note>
         <note xml:id="i-WZyxwPWqHfab6JKFCdkQMP">
           V kap. Om döpelsen.
@@ -9519,8 +9531,8 @@
           8 107 antogs med den af utskottet deri föreslagna redaktionsförändring.
         </note>
         <note xml:id="i-D1qgzjpvUXbVZ41HSdj1SJ">
-          &amp; 108—111 godkändes oförändrade. $ 112 antogs sådan den af utskottet
-          föreslagits. $$ 113 och 114 godkändes oförändrade.
+          &amp; 108—111 godkändes oförändrade. $ 112 antogs sådan den af
+          utskottet föreslagits. $$ 113 och 114 godkändes oförändrade.
         </note>
         <note xml:id="i-5jNfJNnZCQ2WscebsurP3b">
           S 115 autogs med den af utskottet föreslagna redaktionsförändringen.
@@ -9620,9 +9632,9 @@
           $$ 157—160 godkändes utan förändring.
         </note>
         <note xml:id="i-XRjaJdjewWFCzcWuDK7hEX">
-          &amp; 161 antogs med den förändring, att mom. d) borde lyda: yS0M
-          under utöfningen af sin tjenst visat försumlighet och efter i
-          behörig ordning skedd varning icke sig förbättrat.”
+          &amp; 161 antogs med den förändring, att mom. d) borde lyda:
+          yS0M under utöfningen af sin tjenst visat försumlighet och efter
+          i behörig ordning skedd varning icke sig förbättrat.”
         </note>
         <note xml:id="i-9KfZcWGoL2E2AAYS5w5kHi">
           $$ 162—241 antogos oförändrade i allt öfrigt, utom att vid 88
@@ -9637,8 +9649,8 @@
           lydelse.
         </note>
         <note xml:id="i-9dih5y29M79NAa1cXVW7NQ">
-          &amp; 243—263 antogos med de af utskottet vid $$ 244 och 256 föreslagna
-          förbättringar i formelt hänseende.
+          &amp; 243—263 antogos med de af utskottet vid $$ 244 och 256
+          föreslagna förbättringar i formelt hänseende.
         </note>
         <note xml:id="i-N4US28dkjP4sEsQmYmjf5j">
           XVI kap. Om klockare, orgelnister och öfrig kyrkobetjening.
@@ -9672,9 +9684,9 @@
         <note xml:id="i-StwR1vK1s8NHqwDARg6y7Z">
           8 285 utmönstrades jemlikt utskottets tillstyrkan; och skulle
           de efterföljande paragrafernas nummerföljd i enlighet härmed rättas;
-          med anledning hvaraf, och dä här ofvan &amp; 66 äfven utgäit, $ 286
-          komme att i kyrkolagen blifva 284, &amp; 287 att tecknas 285 0. s.
-          v.
+          med anledning hvaraf, och dä här ofvan &amp; 66 äfven utgäit,
+          $ 286 komme att i kyrkolagen blifva 284, &amp; 287 att tecknas
+          285 0. s. v.
         </note>
         <note xml:id="i-CFuPuAd8JTBUMHetQpreVd">
           Öfriga till detta kapitel hörande $$ 286—291 godkändes.
@@ -9697,8 +9709,8 @@
         </note>
         <note xml:id="i-G5a9rCLpat5m18R3vTKMSv">
           Hithörande $$ 308—331 godkändes alla; $ 317 dock med den af utskottet
-          dervid gjorda rättelse samt &amp; 329 i enlighet med det förra alternativet
-          i utskottsbetänkandet.
+          dervid gjorda rättelse samt &amp; 329 i enlighet med det förra
+          alternativet i utskottsbetänkandet.
         </note>
         <pb facs="https://swerik-project.github.io/valtiopaivat-records-pdf/1867/prot_1867_praster_II/prot_1867_praster_II-0170"/>
         <note xml:id="i-6NaktS6HyPbWr2CcaL45mn">
@@ -10190,8 +10202,8 @@
           kand $$ 12 och 13 godkändes enhälligt enligt utskottets betänkande.
         </note>
         <note xml:id="i-61zj1Cbs117tUco4zw2DCY">
-          Kyrkoherden Roos anmärkte i afseende å &amp; 14 att orden en för
-          hvarje fullt tal af 2,000 personer" gjorde det mindre tydligt
+          Kyrkoherden Roos anmärkte i afseende å &amp; 14 att orden en
+          för hvarje fullt tal af 2,000 personer" gjorde det mindre tydligt
           huruvida en kommun, hvars folkmängd icke uppgick till detta antal,
           ägde utse elektor eller icke.
         </note>
@@ -10596,8 +10608,8 @@
           till Hans Majestät ingå. Jyväskylä folkskolelärareseminarium vore
           utan inrättande af bitjenster för klockareelevers bildning för
           ändamålet tillfyllestgörande; och hvad beträffade den föreslagna
-          petitionens form, så var denna olämplig såväl i afseende &amp; en
-          del uttryckssätt, som beträffande inrymmandet deri af direktören
+          petitionens form, så var denna olämplig såväl i afseende &amp;
+          en del uttryckssätt, som beträffande inrymmandet deri af direktören
           Lagi's vidlyftiga utlåtande. För öfrigt kunde kontraktsprosten
           icke förstå hvartill en så invecklad klassificering af klockaretjenster,
           som här skett, kunde tjena. Hufvudsaken vore, att klockaren ägde
@@ -10774,13 +10786,13 @@
           domprosten Borg och doktor Bergh uti deras gemensamt afgifna och
           utskottsbetänkandet vidfogade reservation framställt, till följd
           hvaraf jemväl 8 65 borde modifieras i angifvet syfte och $ 66
-          utgå, samt att kap. XXV &amp; 457 skulle, i öfverenstämmelse med biskop
-          Schaumans i utskottet afgifna reservation, blifva i allo likalydande
-          med kap. XXV &amp; 6 uti kyrkolagsförslaget af är 1863, hvarigenom
-          kyrkan tillkomme rätt att sjelf vid kyrkomöte stifta lag i sina
-          inre angelägenheter, med sanktion af regenten, till följd hvaraf
-          äfven kap. III $ 14 blefve likalydande med kap. III $ 8 i kyrkolagsförslaget
-          af är 1863.
+          utgå, samt att kap. XXV &amp; 457 skulle, i öfverenstämmelse med
+          biskop Schaumans i utskottet afgifna reservation, blifva i allo
+          likalydande med kap. XXV &amp; 6 uti kyrkolagsförslaget af är
+          1863, hvarigenom kyrkan tillkomme rätt att sjelf vid kyrkomöte
+          stifta lag i sina inre angelägenheter, med sanktion af regenten,
+          till följd hvaraf äfven kap. III $ 14 blefve likalydande med kap.
+          III $ 8 i kyrkolagsförslaget af är 1863.
         </note>
         <note xml:id="i-Q5jF8AJpTKdKvTXcxP8N2p">
           Kyrkoherden Castrén tillstyrkte det af föregående talaren framställda
@@ -11530,8 +11542,8 @@
           g 23.
         </note>
         <note xml:id="i-6XhyrzBSFWJZwV3NfMNsrc">
-          Ritaris- ja Aatelis-säädyn (i början af &amp;:en). Sille, jonka se
-          annetaan pääsy-poletti (i slutet af mom. 1).
+          Ritaris- ja Aatelis-säädyn (i början af &amp;:en). Sille, jonka
+          se annetaan pääsy-poletti (i slutet af mom. 1).
         </note>
         <note xml:id="i-QBtS5YTP46gEzJbr8gqkR5">
           s 24.
@@ -11896,8 +11908,8 @@
           anlitad; det mä ej gillas" bortfalla.
         </note>
         <note xml:id="i-LH92PyJMtAE5KPjN4sNE1U">
-          Till &amp; 279 antogs af ståndet det af utskottet framställda senare
-          alternativet.
+          Till &amp; 279 antogs af ståndet det af utskottet framställda
+          senare alternativet.
         </note>
         <note xml:id="i-6CqFLqn6tUtDJaH52Wgkwx">
           Likaledes gillades utskottets senare alternativ till $$ 329 och
@@ -12357,9 +12369,10 @@
           jemväl öfverenstämmande alternativ;
         </note>
         <note xml:id="i-DRvCkFTDJKMZSZWJRAc2mL">
-          &amp; 72 enligt herr Linders reservation, intagen &amp; pag. 37 af betänkandet
-          sä att början af paragrafen komme att heta: ,De, hvilka kyrkligt
-          äktenskap med hvarandra ingå vilja, = = = etc.;
+          &amp; 72 enligt herr Linders reservation, intagen &amp; pag.
+          37 af betänkandet sä att början af paragrafen komme att heta:
+          ,De, hvilka kyrkligt äktenskap med hvarandra ingå vilja, = = =
+          etc.;
         </note>
         <note xml:id="i-PhYsdU6XwxUoQiSYVhMxm3">
           88 79 och 80 i öfverenstämmelse med det alternativ, enligt hvilket
@@ -12389,8 +12402,8 @@
           af de afgifna rösterna;
         </note>
         <note xml:id="i-YCNQBPLxL8vSba8uNTyR9h">
-          &amp; 329 enligt det senare, af borgareståndets deputerade i utskottet
-          biträda alternativet;
+          &amp; 329 enligt det senare, af borgareståndets deputerade i
+          utskottet biträda alternativet;
         </note>
         <note xml:id="i-EWbDgL2aTVvRRb9cNmCeH5">
           8 344 enligt det senare, från den nådiga propositionen afvikande
@@ -12454,20 +12467,20 @@
           vid dess rättighet till betalning ur statsmedlen jemväl för sina
           öfriga kansliutgifter.* Utskottets betänkande gillades beträffande
           $$ 30—47 samt senare alternativet angående $ 48, i följd hvaraf
-          3 mom. af sistberörde &amp; skulle helt och hållet utgå. 49—72 $$
-          borde erhålla den af utskottet föreslagna lydelse. Deremot har
-          bondeståndet, i likhet med höglofliga ridderskapet och adeln samt
-          vällofliga borgareståndet, funnit sig icke kunna gilla den bestämning
-          i $ 73, enligt hvilken enkel röstpluralitet kunde afgöra det förstärkta
-          utskottets beslut och sålunda bestämma jemväl ständernes beslut,
-          utan stannade bondeståndet, efter omröstning, vid den åsigt, att
-          för ett så beskaffadt beslut skulle erfordras minst två tredjedelar
-          af utskottsmedlemmarnes röster; och jemte det bondeståndet i öfrigt
-          godkände 8$ 73, 74, och 75 enligt utskottets betänkande, borde
-          nästnämnde 8$ underkastas sådan omredigering, som päkallades af
-          omförmälde ändring af $ 73, i hvilket afseende ärendet till grundlagsutskottet
-          äterförvisades. I öfrigt eller angäende SS 76—84 godkändes utskottets
-          betänkande i alla delar.
+          3 mom. af sistberörde &amp; skulle helt och hållet utgå. 49—72
+          $$ borde erhålla den af utskottet föreslagna lydelse. Deremot
+          har bondeståndet, i likhet med höglofliga ridderskapet och adeln
+          samt vällofliga borgareståndet, funnit sig icke kunna gilla den
+          bestämning i $ 73, enligt hvilken enkel röstpluralitet kunde afgöra
+          det förstärkta utskottets beslut och sålunda bestämma jemväl ständernes
+          beslut, utan stannade bondeståndet, efter omröstning, vid den
+          åsigt, att för ett så beskaffadt beslut skulle erfordras minst
+          två tredjedelar af utskottsmedlemmarnes röster; och jemte det
+          bondeståndet i öfrigt godkände 8$ 73, 74, och 75 enligt utskottets
+          betänkande, borde nästnämnde 8$ underkastas sådan omredigering,
+          som päkallades af omförmälde ändring af $ 73, i hvilket afseende
+          ärendet till grundlagsutskottet äterförvisades. I öfrigt eller
+          angäende SS 76—84 godkändes utskottets betänkande i alla delar.
         </note>
         <note xml:id="i-SMMKCet3BxxFJUNbPJM5Sm">
           Härom skulle protokollsutdrag såväl till meäständen som till
@@ -12491,8 +12504,8 @@
           bibehållas, men deremot intagas uti det andra mom. bland de inkomster,
           för hvilka tjensteinnehafvare ej tillkomme godtgörelse. För öfrigt
           godkändes utskottets betänkande till alla delar, dock med följande
-          tillägg i slutet af 8 &amp;, nemligen ,,lika litet som samtlige till
-          forststaten hörande tjenstemän och betjente.'*
+          tillägg i slutet af 8 &amp;, nemligen ,,lika litet som samtlige
+          till forststaten hörande tjenstemän och betjente.'*
         </note>
         <pb facs="https://swerik-project.github.io/valtiopaivat-records-pdf/1867/prot_1867_praster_II/prot_1867_praster_II-0217"/>
         <note xml:id="i-5jTLaxyAeC8X9MQRGMgwSq">
@@ -12559,17 +12572,17 @@
         </note>
         <note xml:id="i-6nLYCR14r8TRKZQQUaXK3P">
           Gärden ätogs af presterskapet genom riksdasbeslutet den 16 oktober
-          1617 &amp; 3 att utgöras med sexton daler för hvarje sextiofyra ,fullsätes
-          bönder* eller hela mantal. Pä kyrkoherdarnes ansökan att befrias
-          frän gärdepenningars erläggande för kapellansbol, emedan de derifrän
-          intet njuta, är genom kongl. resolutionen för Åbo stift den 4
-          Mars 1735 $ 12 förklaradt, att Kongl. Majestät funnit betänkligt
-          den sökta befrielsen bifalla. Till följd häraf, säsom ock i grund
-          af andra föregäende stadganden, utgöres ännu ifrägavarande gärd
-          säsom en ständig ränta med tretton och en half kopek silfver för
-          hvarje mantal. Skulle presterskapet befrias frän prestgärden,
-          borde de öfriga ständen äfven befrias frän landtägsgärden, hvilken
-          desse vid samma tillfälle ätogo sig att utgöra.
+          1617 &amp; 3 att utgöras med sexton daler för hvarje sextiofyra
+          ,fullsätes bönder* eller hela mantal. Pä kyrkoherdarnes ansökan
+          att befrias frän gärdepenningars erläggande för kapellansbol,
+          emedan de derifrän intet njuta, är genom kongl. resolutionen för
+          Åbo stift den 4 Mars 1735 $ 12 förklaradt, att Kongl. Majestät
+          funnit betänkligt den sökta befrielsen bifalla. Till följd häraf,
+          säsom ock i grund af andra föregäende stadganden, utgöres ännu
+          ifrägavarande gärd säsom en ständig ränta med tretton och en half
+          kopek silfver för hvarje mantal. Skulle presterskapet befrias
+          frän prestgärden, borde de öfriga ständen äfven befrias frän landtägsgärden,
+          hvilken desse vid samma tillfälle ätogo sig att utgöra.
         </note>
         <note xml:id="i-GnVFFqkqL3A2ch9wx1fbDY">
           Genom punkten 3 uti riksdagsbeslutet den 15 Januari 1627 åtog
@@ -12736,7 +12749,7 @@
         <note xml:id="i-AYq6ZaejR45uN5MuKTPwH" type="speaker">
           Doktor Bergh yttrade:
         </note>
-        <u who="i-Vta7BDiM8BB6Zkf1iBczRE" xml:id="i-YJMMoZpT6KgLfbCMbmjRK">
+        <u xml:id="i-YJMMoZpT6KgLfbCMbmjRK" who="i-Vta7BDiM8BB6Zkf1iBczRE">
           <seg xml:id="i-VWyefF7U6tDjy4uJNFwmBX">
             Vid senaste landtdag yrkade en minoritet i alla stånd under lifliga
             debatter på dödsstraffets bibehållande såsom en i Guds heliga
@@ -12828,7 +12841,7 @@
         <note xml:id="i-HxgFEdGUhJAReoimyEKpRM" type="speaker">
           Doktor Andelin yttrade:
         </note>
-        <u who="i-LYpQPnAEvBHwxddcikgnNW" xml:id="i-6kym2vM1RUpigDmbufVaWw">
+        <u xml:id="i-6kym2vM1RUpigDmbufVaWw" who="i-LYpQPnAEvBHwxddcikgnNW">
           <seg xml:id="i-Knpfy9HTaiG5WdrgjcMnND">
             De värda talare, som nu yttrat sig, hafva pä grund af Guds uppenbarade
             ord, utmärkta rättslärares auktoritet och det finska folkets rättsmedvetande
@@ -13105,7 +13118,7 @@
         <note xml:id="i-AfDqLFfKL2CBsoFUym6H5B" type="speaker">
           Doktor Hell&amp;n yttrade:
         </note>
-        <u who="unknown" xml:id="i-TonJ9xz1jVY37EmCRyXxKA">
+        <u xml:id="i-TonJ9xz1jVY37EmCRyXxKA" who="unknown">
           <seg xml:id="i-U7wkByCcQDJudE8R6yWZzQ">
             hvad här i dag ordats om dödsstraffets befogenhet, innebär intet
             nytt, utan har allt detta och ännu mera till blifvit anfördt vid
@@ -13166,12 +13179,12 @@
           också nu röster höjt sig både för och emot dödsstraffets afskaffande,
           hvarföre äfven jag vill uttala min äsigt derom. Anskönt å ena
           sidan intet är sä fasaväckande för den menskliga naturen som dödsstraffet,
-          ega vi likväl &amp; andra sidan för dess befogenhet stöd i det uppenbarade
-          gudomliga ordet. Dä den nädiga propositionen innehäller, att detta
-          straff skall bibehällas endast för riksförräderi, våld mot regenten
-          och hans familj samt för uppsätligt mord och dråp, sä och enär
-          regentens benädningsrätt ännu fortfarande är gällande, anser jag
-          de skäl utskottet för sin äsigt anfört icke vara tillräckligt
+          ega vi likväl &amp; andra sidan för dess befogenhet stöd i det
+          uppenbarade gudomliga ordet. Dä den nädiga propositionen innehäller,
+          att detta straff skall bibehällas endast för riksförräderi, våld
+          mot regenten och hans familj samt för uppsätligt mord och dråp,
+          sä och enär regentens benädningsrätt ännu fortfarande är gällande,
+          anser jag de skäl utskottet för sin äsigt anfört icke vara tillräckligt
           talande och hafva desamma ej heller rubbat min öfvertygelse i
           saken. Man har väl anmärkt mot döds-
         </note>
@@ -13700,8 +13713,8 @@
         </note>
         <note xml:id="i-UGzV5L9843epWK1N9d2Cpb">
           Prosten Grönberg sade att han och prosten Rosengren i deras reservation
-          icke, såsom Helsingfors Dagblad &amp; konsortes velat påbörda dem,
-          yrkat på blod och dödsstraff, utan endast yttrat det ständerna
+          icke, såsom Helsingfors Dagblad &amp; konsortes velat påbörda
+          dem, yrkat på blod och dödsstraff, utan endast yttrat det ständerna
           ,ville anse brottet för ett det svåraste och bestämma straffet
           i enlighet härmed”. Sex månaders tukthus vore dock för ringa och
           borde derföre minimum vara åtminstone ett års tukthusstraff.
@@ -13954,8 +13967,8 @@
         </note>
         <note xml:id="i-EG5WrtR7dXRECA96pZdm7i">
           8 16 i utskottsbetänkandet skulle, till följd af ständets i afseende
-          &amp; de föregående $&amp; vidtagne beslut, i nummerföljd blifva 8 14
-          och erhålla lika lydelse med 14 8 1 mom. i den nådiga propositionen.
+          &amp; de föregående $&amp; vidtagne beslut, i nummerföljd blifva
+          8 14 och erhålla lika lydelse med 14 8 1 mom. i den nådiga propositionen.
         </note>
         <note xml:id="i-5RxnbQM5ys8KVud6QLsMzD">
           8 17 i betänkandet, likalydande med 8 14 mom. 2 af den nädiga
@@ -14091,9 +14104,9 @@
         </note>
         <note xml:id="i-29Fe1BaiPLzp7XtFTpy2hi">
           Besvarades med obestridd pluralitet nekande; och blef säledes
-          &amp; 10 antagen enligt den kejserliga propositionen, men med uteslutande
-          af deri befintliga orden: ,och sker det i afsigt att dermed bedraga
-          eller förleda annan".
+          &amp; 10 antagen enligt den kejserliga propositionen, men med
+          uteslutande af deri befintliga orden: ,och sker det i afsigt att
+          dermed bedraga eller förleda annan".
         </note>
         <note xml:id="i-JEHznwuX4QUXNa7LZCgY8n">
           8 11 godkändes enhälligt.
@@ -14503,31 +14516,31 @@
           lemnat bidrag i sitt arbete om den presterliga tjenstgöringen
           och aflöningen i Äbo stift, anser jag utgöra en sä vigtig utgängspunkt
           för föreliggande fräga att i saknad deraf föga eller intet är
-          ett vinna eller förvänta. Då det i &amp; 1 af förslaget heter" presterskapet
-          i hvarje församling vare för framtiden tryggadt vid ätnjutande
-          af aflöning frän församlingen till belopp fullt motsvarande hvad
-          härintills i sädant afseende erlagts*, sä är detta en sä tvetydig
-          bestämning att i Österbotten och å många andra orter dessa grundförfattningar
-          skjutas åt sidan; i Österbotten blifva personela konventioner
-          och annorstädes olyckliga och olagliga tiondesättningar normen
-          äfven för prestationden. De prekära föreningarne äro af sådan
-          beskaffenhet att inkomsterne just genom dem blifvit bortfuskade.
-          Om man nu skulle bestämma, att prestaaflöningen skall utgå efter
-          samma grund som den härförinnan, så är det naturligt att församlingarne
-          skola hålla sig till dessa tillfälliga föreningar, huru otillräckliga
-          desamma än må vara. För den skull anser jag det vara högst vådligt
-          för presterskapet att öfvergifva den historiska, traditionela
-          och juridiska grunden för presterskapets egen nöjaktiga och tarfliga
-          bergning; och ville jag, med afseende härpå, föreslå att ordet
-          erlagts måtte utbytas mot uttrycket författningsenligt bordt erläggas,
-          ty annars går det, såsom några reservanter i utskottet föreslagit,
-          nemligen att äfven den obetydliga tertialen anses för dryg och
-          afprutas der det ske kan. Hvad skall man då säga om föreningsspanmålen?
-          Ifall man besinnar, att våra församlingar i östra Finland äro
-          oerhördt stora, så skulle, om dessa styckades till så små församlingar
-          att de kunde efter pligt och samvete skötas, den närvarande aflöningen
-          enligt tiondesättningen blifva så oändligen lumpen att presten
-          omöjligen hade sin tarfliga utkomst.
+          ett vinna eller förvänta. Då det i &amp; 1 af förslaget heter"
+          presterskapet i hvarje församling vare för framtiden tryggadt
+          vid ätnjutande af aflöning frän församlingen till belopp fullt
+          motsvarande hvad härintills i sädant afseende erlagts*, sä är
+          detta en sä tvetydig bestämning att i Österbotten och å många
+          andra orter dessa grundförfattningar skjutas åt sidan; i Österbotten
+          blifva personela konventioner och annorstädes olyckliga och olagliga
+          tiondesättningar normen äfven för prestationden. De prekära föreningarne
+          äro af sådan beskaffenhet att inkomsterne just genom dem blifvit
+          bortfuskade. Om man nu skulle bestämma, att prestaaflöningen skall
+          utgå efter samma grund som den härförinnan, så är det naturligt
+          att församlingarne skola hålla sig till dessa tillfälliga föreningar,
+          huru otillräckliga desamma än må vara. För den skull anser jag
+          det vara högst vådligt för presterskapet att öfvergifva den historiska,
+          traditionela och juridiska grunden för presterskapets egen nöjaktiga
+          och tarfliga bergning; och ville jag, med afseende härpå, föreslå
+          att ordet erlagts måtte utbytas mot uttrycket författningsenligt
+          bordt erläggas, ty annars går det, såsom några reservanter i utskottet
+          föreslagit, nemligen att äfven den obetydliga tertialen anses
+          för dryg och afprutas der det ske kan. Hvad skall man då säga
+          om föreningsspanmålen? Ifall man besinnar, att våra församlingar
+          i östra Finland äro oerhördt stora, så skulle, om dessa styckades
+          till så små församlingar att de kunde efter pligt och samvete
+          skötas, den närvarande aflöningen enligt tiondesättningen blifva
+          så oändligen lumpen att presten omöjligen hade sin tarfliga utkomst.
         </note>
         <note xml:id="i-6FeFNyutxJfWhr7Ui6bvbC">
           Talaren afbröts här genom ankomsten af en deputation från höglofliga
@@ -14550,7 +14563,7 @@
         <note xml:id="i-Tgakswt6zQdyc5J8wB1M2m" type="speaker">
           Doktor Berg:
         </note>
-        <u who="unknown" xml:id="i-Lag6hRAVQrLntLJ36N2x3F">
+        <u xml:id="i-Lag6hRAVQrLntLJ36N2x3F" who="unknown">
           <seg xml:id="i-9rUMMbTVny3yR4D4SnZuZN">
             Jag anser det för min pligt att tillägga det jag visserligen
             inser huru obilliga och ändamålsvidriga de åberopade för Österbotten
@@ -14607,7 +14620,7 @@
         <note xml:id="i-X85ZR4X8n34TssnHZqThGi" type="speaker">
           Prosten Rosengren:
         </note>
-        <u who="i-UUFQ5w6CUWXPKeDW8gRVf7" xml:id="i-6JAKcTST8MWneLkiaDbPz1">
+        <u xml:id="i-6JAKcTST8MWneLkiaDbPz1" who="i-UUFQ5w6CUWXPKeDW8gRVf7">
           <seg xml:id="i-6kyFjmLkbMHit9y7G6PKbC">
             Ehuru jag ej i likhet med doktor Bergh af mina kommittenter fätt
             i uppdrag ätt i fräga om presterskapets lönereglering yttra mig
@@ -14687,7 +14700,7 @@
         <note xml:id="i-93ahBf6JHAkBVMEZf122Je" type="speaker">
           Kontraktsprosten Sirén:
         </note>
-        <u who="i-EKkrnXvuHxMMnTwjDb4imw" xml:id="i-GoYwkBsVhZHHm72r1QYQGU">
+        <u xml:id="i-GoYwkBsVhZHHm72r1QYQGU" who="i-EKkrnXvuHxMMnTwjDb4imw">
           <seg xml:id="i-Jan6ss6NukWU7bPafZWtMw">
             Den, som liksom jag haft den tunga bördan att från början höra
             denna fråga diskuteras, vet huru svårt det är att deltaga uti
@@ -14746,7 +14759,7 @@
         <note xml:id="i-AGsfqRLKnkZp4Cy9QGu94y" type="speaker">
           Kyrkoherden Castrén:
         </note>
-        <u who="i-EWF5w6W7mNczUrPXBtTG1i" xml:id="i-RizgZrKZsYfupDmKSCcCYe">
+        <u xml:id="i-RizgZrKZsYfupDmKSCcCYe" who="i-EWF5w6W7mNczUrPXBtTG1i">
           <seg xml:id="i-VtnyjXD7TgFmGjo6So45T9">
             Så önskvärdt det vore att likformighet i afseende å prestaflöningens
             utgörande kunde åvägabringas, vågar jag dock icke hoppas utförbarbeten
@@ -14860,7 +14873,7 @@
         <note xml:id="i-Fi49t6uvW5ZExtNrMNjRYP" type="speaker">
           Prosten Hjelt:
         </note>
-        <u who="i-FfVRGMNn5KRqwAWb2KstnH" xml:id="i-L1v4K4HdpX5gsoDhQATL5P">
+        <u xml:id="i-L1v4K4HdpX5gsoDhQATL5P" who="i-FfVRGMNn5KRqwAWb2KstnH">
           <seg xml:id="i-55rS2wQvatSsAamttNCAap">
             Jag vill visserligen icke försvara ingressen till betänkandet
             såsom ett specimen stili, men är dock ense med kontraktsprosten
@@ -14980,7 +14993,7 @@
         <note xml:id="i-AuGk72FCyGLDxfu6c6T4A9" type="speaker">
           Domprosten Borg:
         </note>
-        <u who="i-4QdpXawiN5ExRxSEBRW6BN" xml:id="i-7dA3GoGCK21tvQW7eMXrWA">
+        <u xml:id="i-7dA3GoGCK21tvQW7eMXrWA" who="i-4QdpXawiN5ExRxSEBRW6BN">
           <seg xml:id="i-LBuL3kdz2e536rdujzC9Sw">
             jag kan ej hysa någon annan öfvertygelse, än att den nådiga propositionen
             och utskottsbetänkandet äro så affattade, att ståndet icke borde
@@ -15097,7 +15110,7 @@
         <note xml:id="i-KwQHZJXXEDrqPyyqTC6hT5" type="speaker">
           Doktor Hellén:
         </note>
-        <u who="i-59ANsridheA6559gfvqb6H" xml:id="i-AE8YgL3SRxuh4B1ZX59fw6">
+        <u xml:id="i-AE8YgL3SRxuh4B1ZX59fw6" who="i-59ANsridheA6559gfvqb6H">
           <seg xml:id="i-22Eyqzh9tXBWo99CVoRrNn">
             Den föregående värde talaren hade såsom grund för frågans lösning
             önskat hafva en juridisk princip; men en sådan hade ju utskottet
@@ -15117,7 +15130,7 @@
         <note xml:id="i-uJe5kuz4S14GdXGhYfwFH" type="speaker">
           Kyrkoherden Roos:
         </note>
-        <u who="i-AeYQdyFLwTn8ciBYDRNroB" xml:id="i-QjYXgxxkYv1YCbab6tTKHw">
+        <u xml:id="i-QjYXgxxkYv1YCbab6tTKHw" who="i-AeYQdyFLwTn8ciBYDRNroB">
           <seg xml:id="i-2icxoxfLfMec9urTT15Z8R">
             Herr doktor Hellén har yttrat, att vi här icke äro bundna af
             fullmakt eller ståndsprivilegier, jag vill derföre för tillfället
@@ -15417,7 +15430,7 @@
         <note xml:id="i-SEo5bLZvZ4Sh8fevTZpcaX" type="speaker">
           Doktor Bergh yttrade:
         </note>
-        <u who="i-Vta7BDiM8BB6Zkf1iBczRE" xml:id="i-ATKRKKyPfzao698RFwun1v">
+        <u xml:id="i-ATKRKKyPfzao698RFwun1v" who="i-Vta7BDiM8BB6Zkf1iBczRE">
           <seg xml:id="i-YZCJ1YxN6b67Frz91Lzags">
             dä etthundra tunnor spanmäl utgör det högsta belopp som uti förslaget
             till skolverkets reorganisation är bestämdt för en skollärare,
@@ -15715,7 +15728,8 @@
           hemställde talaren att ingenting skulle talas om afdrag frän bolet,
           emedan bostället ofta vore till börda och tunga men ingen fördel.
           Talaren förenade sig derjemte med prosten Grönberg derom, att
-          sista meningen i &amp; 2 af kejserliga propositionen mätte äter upptagas.
+          sista meningen i &amp; 2 af kejserliga propositionen mätte äter
+          upptagas.
         </note>
         <note xml:id="i-5A2PrwwxEr4WcFb7EnEhhr">
           Vicepastor Johnsson önskade blott göra en anmärkning till prosten
@@ -15775,9 +15789,10 @@
           bibehålla bolet under eget bruk.
         </note>
         <note xml:id="i-6nKcrzDw6BXyaYFmpeytDE">
-          Domprosten Borg åter ansåg &amp; böra bibehållas sådan som i propositionen,
-          emedan fall kunde förekomma då prest vårdslösade bostället, och
-          rättvisan fordrade att hvardera finge väcka fråga derom.
+          Domprosten Borg åter ansåg &amp; böra bibehållas sådan som i
+          propositionen, emedan fall kunde förekomma då prest vårdslösade
+          bostället, och rättvisan fordrade att hvardera finge väcka fråga
+          derom.
         </note>
         <note xml:id="i-BVq2LZn4VdjfzRBhUSgQNC">
           Prosten Rosengren föreslog hela $ bortfallande och sade sig icke
@@ -16033,8 +16048,8 @@
         </note>
         <note xml:id="i-8e5xJ7sWXFcmBdJ2Rfh85K">
           Prosten doktor Bergh hemställde huruvida det icke borde heta:
-          , enligt den i &amp; 8 bestämda grund”, emedan ingen sådan grund funnes
-          i $ 7.
+          , enligt den i &amp; 8 bestämda grund”, emedan ingen sådan grund
+          funnes i $ 7.
         </note>
         <note xml:id="i-L4dBEdudHzSjq87vfA7Emh">
           Kontraktsprosten Hellén hoppades anmärkningen skulle förfalla,
@@ -16553,7 +16568,7 @@
         <note xml:id="i-JHUK1jx6AcuH29gavZrgyg" type="speaker">
           Kontraktsprosten Sirén begärde ordet, samt yttrade:
         </note>
-        <u who="i-EKkrnXvuHxMMnTwjDb4imw" xml:id="i-N8DWiJmACsDNGZFMnkyvv8">
+        <u xml:id="i-N8DWiJmACsDNGZFMnkyvv8" who="i-EKkrnXvuHxMMnTwjDb4imw">
           <seg xml:id="i-2dLb21cHhGDw2GfjwzwR5P">
             Då den nådiga propositionen angående reglering af presterskapets
             aflöning inom prestaståndet numera är genomgången och diskuterad,
@@ -16799,9 +16814,9 @@
           m. m.
         </note>
         <note xml:id="i-K2ko6xQs6d2rxoxSy2vrVu">
-          Till 1 &amp; 1 mom. antogs en sälydande redaktion: Dödsstraff skall
-          hädanefter ädömas endast dä nägon förer afvog sköld emot riket
-          eller, i uppsät att döda, föröfvar väldsgerning mot Kejsaren,
+          Till 1 &amp; 1 mom. antogs en sälydande redaktion: Dödsstraff
+          skall hädanefter ädömas endast dä nägon förer afvog sköld emot
+          riket eller, i uppsät att döda, föröfvar väldsgerning mot Kejsaren,
           Kejsarinnan eller deras barn (M. B. 4 kap. 1 &amp; 1 och 2 mom.)
         </note>
         <note xml:id="i-MiPxwbAdit9eWBTKHa1nnh">
@@ -16900,8 +16915,8 @@
         <note xml:id="i-VE1Frji6nTpn3NxRFzKnU2">
           Protokollsutdrag öfver ständets i ärendet fattade beslut skulle
           meddelas ej mindre medständen till kännedom, än lagutskottet i
-          afseende &amp; den pä bemälde utskott jemlikt ständens beslut ankommande
-          åtgärd i ärendet".
+          afseende &amp; den pä bemälde utskott jemlikt ständens beslut
+          ankommande åtgärd i ärendet".
         </note>
         <pb facs="https://swerik-project.github.io/valtiopaivat-records-pdf/1867/prot_1867_praster_II/prot_1867_praster_II-0295"/>
         <note xml:id="i-GTCYKdw76RG5xs4La7gKBD">
@@ -16953,7 +16968,8 @@
           upptagande af hvarjehanda mäl rörande frälsemän; Och blef betänkandet
           af ständet enhälligt godkändt med den ändring likväl att, pä sätt
           uti den nädiga propositionen föresläs, nägon närmare bestämning
-          om tiden för förordningens tillämpning icke skulle uti &amp; 5 intagas.
+          om tiden för förordningens tillämpning icke skulle uti &amp; 5
+          intagas.
         </note>
         <note xml:id="i-X7wLnQWo6pR53YWtFamMGx">
           Protokollsutdrag i ärendet skulle meddelas såväl grundlagsutskottet
@@ -17024,8 +17040,8 @@
           Presteständet. 1867. 30 April. 781
         </note>
         <note xml:id="i-388wxxjyVR1XJaskJtK4po">
-          » Vill ridderskapet och adeln uti det underdäniga svaret &amp; ifrägavarande
-          nädiga proposition endast afstyrka densamma?
+          » Vill ridderskapet och adeln uti det underdäniga svaret &amp;
+          ifrägavarande nädiga proposition endast afstyrka densamma?
         </note>
         <note xml:id="i-9dnP6RbqoaDniCeANS1d1g">
           Vinner nej anhälles jemväl i det underdäniga svaret att ny proposition
@@ -17047,12 +17063,12 @@
         </note>
         <note xml:id="i-UtQvJeuQbi9H3FYNWANqeX">
           1:o för den 24 April: ,Föredrogs expeditionsutskottets förslag
-          till ständernas underdäniga svar &amp; nädiga propositionerna angäende
-          ändrad grund för jordlägenheters deltagande i kyrko- och prestgärdsbyggnad
-          samt angäende finska militiefondens ersättande för minskningen
-          af dess inkomster genom bränvinsförpaktningens upphörande uti
-          fästningarne i Finland. Och som berörde skrifvelseförslag blefvo
-          af borgareständet godkända, sä skulle sädant genom protokollsutdrag
+          till ständernas underdäniga svar &amp; nädiga propositionerna
+          angäende ändrad grund för jordlägenheters deltagande i kyrko-
+          och prestgärdsbyggnad samt angäende finska militiefondens ersättande
+          för minskningen af dess inkomster genom bränvinsförpaktningens
+          upphörande uti fästningarne i Finland. Och som berörde skrifvelseförslag
+          blefvo af borgareständet godkända, sä skulle sädant genom protokollsutdrag
           säväl medständen som förbemälda utskott tillkännagifvas*.
         </note>
         <note xml:id="i-AgU99rzPtjKuXgzLPMg3np">
@@ -17099,10 +17115,10 @@
           stanna kronan till last vid bristande tillgång hos den betalningsskyldige,
           pä det sälunda genom ett generelt stadgande i ämnet enahanda förmon
           mätte tillgodokomma alla de i omförmälde egenskaper i brottmälen
-          indragna personer, utan afseende &amp; brottens mer eller mindre grofva
-          beskaffenhet. Och har borgareständet tillika förordnat att dess
-          förenämnda beslut skulle genom protokollsutdrag meddelas de öfrige
-          respektive stånden samt lagutskottet".
+          indragna personer, utan afseende &amp; brottens mer eller mindre
+          grofva beskaffenhet. Och har borgareständet tillika förordnat
+          att dess förenämnda beslut skulle genom protokollsutdrag meddelas
+          de öfrige respektive stånden samt lagutskottet".
         </note>
         <note xml:id="i-JX7tLAgy812h5y8rkoMgEr">
           C) från hedervärda bondeståndet för den 25 April derom, att ståndet
@@ -17208,11 +17224,12 @@
           Mars 1787, hvari vore föreskrifvet att advokatfiskalen i Hofrätt
           borde underrätta riddarhusdirektionen om sädane omständigheter
           mot nägon medlem af ridderskapet och adeln förekommit att säte
-          och stämma i afseende &amp; ständets angelägenheter var honom förvägrad.
-          Då forum i brottmål numera icke var hofrätten kunde följaktligen
-          icke heller detta stadgande gvarstä. I betänkandet omnämndes icke
-          heller huruvida adelns rätt att till bouppteckningars förrättande
-          utse hvem de för godt funne, vore bibehällen eller icke.
+          och stämma i afseende &amp; ständets angelägenheter var honom
+          förvägrad. Då forum i brottmål numera icke var hofrätten kunde
+          följaktligen icke heller detta stadgande gvarstä. I betänkandet
+          omnämndes icke heller huruvida adelns rätt att till bouppteckningars
+          förrättande utse hvem de för godt funne, vore bibehällen eller
+          icke.
         </note>
         <note xml:id="i-A5bh5meF2Y6by4YWzpGDZJ">
           Prosten Rosengren upplyste derom, att alla mål som rörde en persons
@@ -17361,10 +17378,10 @@
           till en fri näring. Nyttan af den höga skatten hade visat sig
           deri, att äfven de som mest varit begifna pä bränvin blifvit nyktra
           sedan varan för dem blifvit svärare ätkomlig, och dä afseende
-          fortfarande borde fästas &amp; bränvinsflodens hämmande kunde talaren
-          icke tillstyrka skattens nedsättande under en mark för kannan,
-          helst man i Sverige, der denna skatt var lika hög om icke högre,
-          hade för afsigt att än mer höja densamma.
+          fortfarande borde fästas &amp; bränvinsflodens hämmande kunde
+          talaren icke tillstyrka skattens nedsättande under en mark för
+          kannan, helst man i Sverige, der denna skatt var lika hög om icke
+          högre, hade för afsigt att än mer höja densamma.
         </note>
         <note xml:id="i-KuyRsdiyTBqyKM96timJrk">
           Talaren afbröts här genom ankomsten af en deputation från bondeståndet
@@ -17516,12 +17533,12 @@
         <note xml:id="i-761unt1PMiJ1tCqSo9cznH">
           ämnet icke utsatt, utan bestämdes deri endast att medel dertill
           skulle utgå ur influten bränvinstillverkningsafgift. Ett stort
-          fel var dock att i kyrkorna först kungjorts &amp; hvad tid denna inlösen
-          skulle ske, men sedermera åter nya kungörelser publicerats derom,
-          att löftet icke kunde hållas. Talaren trodde dessutom att ett
-          utländskt lån icke hunne uppnegocieras förr än nödiga medel enligt
-          förslaget blefve för ändamålet disponibla, och mera kunde i detta
-          afseende icke göras än förslaget innehöll.
+          fel var dock att i kyrkorna först kungjorts &amp; hvad tid denna
+          inlösen skulle ske, men sedermera åter nya kungörelser publicerats
+          derom, att löftet icke kunde hållas. Talaren trodde dessutom att
+          ett utländskt lån icke hunne uppnegocieras förr än nödiga medel
+          enligt förslaget blefve för ändamålet disponibla, och mera kunde
+          i detta afseende icke göras än förslaget innehöll.
         </note>
         <note xml:id="i-LwszKrkRwWYPakNdPtRke4">
           Kyrkoherden Castrén yrkade i likhet med doktor Bergh på skyndsam
@@ -17601,17 +17618,17 @@
         </note>
         <note xml:id="i-3qcHTtHcncww71i3HniUzi">
           Kontraktsprosten doktor Hellän som, i betraktande deraf att,
-          enligt $ 6, bränvinstillverkning &amp; lägenhet pä landet icke finge
-          ske utan ägarens af lägenheten dertill lemnade uttryckliga begifvande,
-          samt att guvernören ägde de skedda anbuden å slik tillverkningsrätt
-          pröfva, i likhet med hvad landtbruksrådet von Daehn i reservation
-          emot utskottets betänkande anfört, fann all ytterligare kontroll
-          från kommunens sida onödig och motverkande de med nu ifrågavarande
-          lagförändringar afsedda ändamål, yrkade förty att slutstadgandet
-          i denna $: ,Bränneri må ej inrättas inom någon kommun å landet,
-          der kommunen ej dertill lemnat sitt bifall", måtte utelemnas,
-          helst genom ett sådant stadgande brännerier sannolikt komme att
-          inrättas endast uti städerna.
+          enligt $ 6, bränvinstillverkning &amp; lägenhet pä landet icke
+          finge ske utan ägarens af lägenheten dertill lemnade uttryckliga
+          begifvande, samt att guvernören ägde de skedda anbuden å slik
+          tillverkningsrätt pröfva, i likhet med hvad landtbruksrådet von
+          Daehn i reservation emot utskottets betänkande anfört, fann all
+          ytterligare kontroll från kommunens sida onödig och motverkande
+          de med nu ifrågavarande lagförändringar afsedda ändamål, yrkade
+          förty att slutstadgandet i denna $: ,Bränneri må ej inrättas inom
+          någon kommun å landet, der kommunen ej dertill lemnat sitt bifall",
+          måtte utelemnas, helst genom ett sådant stadgande brännerier sannolikt
+          komme att inrättas endast uti städerna.
         </note>
         <note xml:id="i-WDCs2avCmpFUpS9xwbmGkV">
           Prosten doktor Bergh afstyrkte icke allenast på det högsta antagandet
@@ -17710,15 +17727,15 @@
         <note xml:id="i-R2dXhr2pAAuahyCybsnG68">
           Prosten doktor Bergh anhöll att, dä i denna artikel fräga var
           om tillsyn vid bränvinstillverkning och distillering, få fästa
-          ständets uppmärksamhet &amp; en i gärdagens bihang till Finlands Allmännä
-          tidning förekommande insänd artikel, deri insändaren, som tecknat
-          sig F. v. B., framhällit och pä ett öfvertygande sätt bevisat
-          att kontrollen öfver nämnde tillverkning, efter preussiskt mönster,
-          endast genom utrönande af tillmäskningskarens kubika innehäll
-          kunde ske vida billigare och enklare än enligt den hos oss gällande
-          principen; hvarhos doktorn hemställde om icke nödigt vore att
-          hos regeringen framhälla säsom ett önskningsmäl sädan kontrolls
-          införande.
+          ständets uppmärksamhet &amp; en i gärdagens bihang till Finlands
+          Allmännä tidning förekommande insänd artikel, deri insändaren,
+          som tecknat sig F. v. B., framhällit och pä ett öfvertygande sätt
+          bevisat att kontrollen öfver nämnde tillverkning, efter preussiskt
+          mönster, endast genom utrönande af tillmäskningskarens kubika
+          innehäll kunde ske vida billigare och enklare än enligt den hos
+          oss gällande principen; hvarhos doktorn hemställde om icke nödigt
+          vore att hos regeringen framhälla säsom ett önskningsmäl sädan
+          kontrolls införande.
         </note>
         <note xml:id="i-9g8XEGoBGJKzju1hd8PBAN">
           Kyrkoherden Juselius fann all framställning om kontrolleringssättet
@@ -17785,8 +17802,8 @@
         </note>
         <note xml:id="i-HnKTuiWwaKuzuezKdPA9zz">
           Besvarades med obestridd pluralitet jakande; och blef således
-          &amp; 57 godkänd enligt betänkandet med utelemnande af det inom parenthes
-          intagna senare alternativet.
+          &amp; 57 godkänd enligt betänkandet med utelemnande af det inom
+          parenthes intagna senare alternativet.
         </note>
         <note xml:id="i-JyyPwQoixii4cz9JbTMBFJ">
           $$ 58 och 59 antogos enhälligt oförändrade. S 60.
@@ -18142,9 +18159,10 @@
         </note>
         <note xml:id="i-GyFkKFGbiwkcxL7RngTHeS">
           För öfrigt bestämde bondeständet, att Expeditionsutskottets förslag
-          till underdäniga svar &amp; de nädige propositionerne, efter det justeringsutskottet
-          granskat desamma, skulle innan de aflätas, hållas 24 timmar å
-          bordet i förrummet till högvördiga prestaständets sessionsrum.
+          till underdäniga svar &amp; de nädige propositionerne, efter det
+          justeringsutskottet granskat desamma, skulle innan de aflätas,
+          hållas 24 timmar å bordet i förrummet till högvördiga prestaständets
+          sessionsrum.
         </note>
         <note xml:id="i-JijdSxYDVpMq43cKH7WcP5">
           Skolande protokollsutdrag härom i afseende å kännedom och efterrättelse
@@ -18272,20 +18290,20 @@
           dä häradsrätten sälunda upprycktes till samma rang som lagmansrätten,
           hvarigenom rättegängskostnaderna för parter framdeles blefvo lika
           dryga som härförinnan vid lagmansrätten. Och dä häradsrätten öfverallt
-          i detta förslag kallades underrätt samt 1 &amp; 12 Kap. R. B. af nu
-          gällande lagbok för utevaro stadgade en dalers böter vid häradsrätt,
-          insäg talaren ej af hvad skäl man nu skulle fördubbla dessa böter.
-          Det vore visserligen &amp; ena sidan sannt, att om rädstufvurätt gällde
-          enahanda bötesbelopp och att städerne genom kämnersrätternes indragning
-          förlorade sin underrätt, som härefter skulle representeras af
-          rädstufvurätten, samt att det säledes kunde vara väl att böterne
-          vid begge underrätterna voro lika; men å andra sidan borde man
-          i Ofvervägande taga den omständigheten, att rättegängskostnaderne
-          härigenom skulle ytterligare blifva förhöjda för den fattiga allmogen,
-          dä dessa kostnader redan i följd af den högre karta, som erfordrades
-          vid hofrätten, voro drygare än tillförene. Med afseende ä allt
-          detta yrkade talaren att ifrägavarande bötesförhöjning. mätte
-          af ständet underkännas.
+          i detta förslag kallades underrätt samt 1 &amp; 12 Kap. R. B.
+          af nu gällande lagbok för utevaro stadgade en dalers böter vid
+          häradsrätt, insäg talaren ej af hvad skäl man nu skulle fördubbla
+          dessa böter. Det vore visserligen &amp; ena sidan sannt, att om
+          rädstufvurätt gällde enahanda bötesbelopp och att städerne genom
+          kämnersrätternes indragning förlorade sin underrätt, som härefter
+          skulle representeras af rädstufvurätten, samt att det säledes
+          kunde vara väl att böterne vid begge underrätterna voro lika;
+          men å andra sidan borde man i Ofvervägande taga den omständigheten,
+          att rättegängskostnaderne härigenom skulle ytterligare blifva
+          förhöjda för den fattiga allmogen, dä dessa kostnader redan i
+          följd af den högre karta, som erfordrades vid hofrätten, voro
+          drygare än tillförene. Med afseende ä allt detta yrkade talaren
+          att ifrägavarande bötesförhöjning. mätte af ständet underkännas.
         </note>
         <note xml:id="i-9nuiY3EfKmz3nbARf1ifgE">
           Prosten Grönberg ville med anledning af den nästföregäende talarens
@@ -18361,7 +18379,7 @@
         <note xml:id="i-8e4ZDfmx1XWsqKtzmngpLt" type="speaker">
           Doktor Bergh yttrade:
         </note>
-        <u who="i-Vta7BDiM8BB6Zkf1iBczRE" xml:id="i-2YSUmQvxaNkU4gB7WajzYH">
+        <u xml:id="i-2YSUmQvxaNkU4gB7WajzYH" who="i-Vta7BDiM8BB6Zkf1iBczRE">
           <seg xml:id="i-THRaR7arukxfoW9BBnnbf3">
             den vigtigaste anmärkning, som af de föregående värda talarene
             anförts, är den att böterne för utevaro böra förhöjas, då häradsrätt
@@ -18466,9 +18484,9 @@
           denna $ ej hafva riktigt genomfört dess &amp; pag 14 i betänkandet
           uttalade princip. Utskottet — fortfor talaren — säger der att
           rädstufvurätt mä i vidlyftigare mål uppskjuta med utslagets afkunnande
-          till viss annan dag, men i 2 mom. af ifrägavarande &amp; saknas all
-          närmare bestämning i detta syfte; hvarföre talaren önskade tillägga
-          här följande mening: finner rätten sig af mälets vidlyftighet
+          till viss annan dag, men i 2 mom. af ifrägavarande &amp; saknas
+          all närmare bestämning i detta syfte; hvarföre talaren önskade
+          tillägga här följande mening: finner rätten sig af mälets vidlyftighet
           hindrad att slut i saken genast fatta, uppskjutes saken till annan
           viss, för parterna strax efter afslutad förhandling tillkännagifven
           dag och timme.
@@ -19147,13 +19165,13 @@
           doktor Bergh uti deras gemensamt afgifna och utskottsbetänkandet
           vidfogade reservation framställt, till följd hvaraf jemväl S 65
           borde modifieras i angifvet syfte och $ 66 utgä, samt att kap.
-          XXV &amp; 457 skulle, i öfversstämmelse med biskopen Schaumans i utskottet
-          afgifna reservation, blifva i allo likalydande med kap. XXV. $
-          6 uti kyrkolagsförslaget af är 1863, hvarigenom kyrkan tillkomme
-          rätt att sjelf vid kyrkomöte stifta lag i sina inre angelägenheter,
-          med sanktion af regenten, till följd hvaraf äfven kap. III $ 14
-          blefve lika lydande med kap. III 8 8 i kyrkolagsförslaget af år
-          1863.
+          XXV &amp; 457 skulle, i öfversstämmelse med biskopen Schaumans
+          i utskottet afgifna reservation, blifva i allo likalydande med
+          kap. XXV. $ 6 uti kyrkolagsförslaget af är 1863, hvarigenom kyrkan
+          tillkomme rätt att sjelf vid kyrkomöte stifta lag i sina inre
+          angelägenheter, med sanktion af regenten, till följd hvaraf äfven
+          kap. III $ 14 blefve lika lydande med kap. III 8 8 i kyrkolagsförslaget
+          af år 1863.
         </note>
         <note xml:id="i-5B1tKs6Qi4ykLZNsfU14zp">
           Med anledning af hvad under den öfver ämnet förefallne diskussionen
@@ -20321,16 +20339,16 @@
           Domprosten Borg visste icke, om han öfverskred diskussionens
           gränser, men trodde det dock lända till någon reda i ämnet, att
           han erinrade derom, att man i Sverige genom kongl. förordningen
-          af den 4 Maj 1855 &amp; 23 och 24 stadgat att handelsräkning bör tillställas
-          inom tre månader efter det år, då utkrediteringen skett, samt
-          att köparen äger inom lika lång tid efter tillställandet klandra
-          räkningen. Skälen voro desamma, som man hos oss anfört, nemligen
-          att betrygga affärsställningen. För sin enskilda del skulle talaren
-          ej tveka att biträda prosten Hjelts och kyrkoherden Juselius”
-          mening, men då utskottet i senare alternativet hade tillstyrkt
-          en tid af sex månader samt utsigt ändå icke förefunnes att kunna
-          förkorta denna tid, måste talaren rösta för antagande af detta
-          senare alternativ i utskottsbetänkandet.
+          af den 4 Maj 1855 &amp; 23 och 24 stadgat att handelsräkning bör
+          tillställas inom tre månader efter det år, då utkrediteringen
+          skett, samt att köparen äger inom lika lång tid efter tillställandet
+          klandra räkningen. Skälen voro desamma, som man hos oss anfört,
+          nemligen att betrygga affärsställningen. För sin enskilda del
+          skulle talaren ej tveka att biträda prosten Hjelts och kyrkoherden
+          Juselius” mening, men då utskottet i senare alternativet hade
+          tillstyrkt en tid af sex månader samt utsigt ändå icke förefunnes
+          att kunna förkorta denna tid, måste talaren rösta för antagande
+          af detta senare alternativ i utskottsbetänkandet.
         </note>
         <note xml:id="i-MLbs8Y9p2LMeTDaX6YaTKz">
           Doktor Andelin upplyste att lagutskottet uti senare alternativet
@@ -20391,10 +20409,10 @@
         </note>
         <note xml:id="i-GwQ656vsE3fbioqtkmdT2D">
           Prosten Hjelt erinrade, i anledning häraf, att enligt $ 1 få
-          begge kontrahenterna gå ed, men enligt &amp; 4 får, i händelse motboken
-          förkommit genom köparens förvällande, endast säljaren svära. Talaren
-          ansäg derföre utskottsbetänkandet böra föredragas framför den
-          äberopade reservationen.
+          begge kontrahenterna gå ed, men enligt &amp; 4 får, i händelse
+          motboken förkommit genom köparens förvällande, endast säljaren
+          svära. Talaren ansäg derföre utskottsbetänkandet böra föredragas
+          framför den äberopade reservationen.
         </note>
         <note xml:id="i-K7LcpMUhEJZ8UfKD9h8Y5N">
           Doktor Hellän vidhöll, att bestämningarne i 4 &amp; voro besynnerliga
@@ -20591,12 +20609,12 @@
           i stad, behöfvas dagligen och stundeligen, isynnerhet vid allmänna
           arbeten, der det ej vore möjligt att genast betala dem, hvartill
           komme att handtverkare redan de fackto äga den ifrägavarande rättigheten,
-          emedan dessa hälla räkning med störr&amp; delen af sina kunder. Beträffande
-          äter fabrikanter, sä afsätta de sina produkter i större partier
-          och ofta till handlande, med hvilka de mäste föra bok. Talaren
-          trodde det vara gagneligt för landet om fabrikanter och stadshandtverkare
-          fingo oftanämnda rättighet, eller ätminstone borde de förra undfä
-          densamma.
+          emedan dessa hälla räkning med störr&amp; delen af sina kunder.
+          Beträffande äter fabrikanter, sä afsätta de sina produkter i större
+          partier och ofta till handlande, med hvilka de mäste föra bok.
+          Talaren trodde det vara gagneligt för landet om fabrikanter och
+          stadshandtverkare fingo oftanämnda rättighet, eller ätminstone
+          borde de förra undfä densamma.
         </note>
         <note xml:id="i-VL9Ry5Qs5qP3QoMBVQRoKg">
           Prosten Rosengren ansäg de af hofrättsrädet Grotenfelt anförda
@@ -20702,21 +20720,21 @@
           innehäller angäende upphäfvandet af 5 $ 12 kap. R. B. och ändring
           af sista mom. i $ 7 af samma kap. derom utskottet underlätit att
           afgifva yttrande, och likaledes i enlighet med propositionen antagit
-          der föreslagna ändring af 5 &amp; 24 kap. R. B. och uteslutning af
-          $ 7 i samma kap., samt af de utaf utskottet framställda alternativa
+          der föreslagna ändring af 5 &amp; 24 kap. R. B. och uteslutning
+          af $ 7 i samma kap., samt af de utaf utskottet framställda alternativa
           förslag antagit de som lyda, i 9 8 25 kap. R. B. ,sist pä den
           sextionde dagen före klockan tolf%, i 15 $ 25 kap. ,sist pä den
           trettionde dagen före klockan tolf* och i 10 $ 30 kap R. B. ,Sist
           ä inställelsedagen*, äfvensom borgareständet godkänt den nådiga
-          propositionen deri, att 20 &amp; 30 kap. R. B. skall upphöra att vara
-          gällande och icke bifallit till det af utskottet föreslagna mom.
-          7. Och jemte det borgareständet för öfrigt till alla delar gillat
-          utskottets betänkande, har ständet ansett att, efter der förändrade
-          lydelse 3 $ 25 kap. R. B. komme att erhälla, den hänvisning till
-          samma 8, som förekommer i derpäföljande 8 4, icke mera är tilllämplig,
-          utan sistnämnda $, som endast innehåller föreskrift om vissa civila
-          mäls fullföljande frän häradsrätt omedelbart till hofrätt, i följd
-          af lagmansrätternes upphörande böra uteslutas.
+          propositionen deri, att 20 &amp; 30 kap. R. B. skall upphöra att
+          vara gällande och icke bifallit till det af utskottet föreslagna
+          mom. 7. Och jemte det borgareständet för öfrigt till alla delar
+          gillat utskottets betänkande, har ständet ansett att, efter der
+          förändrade lydelse 3 $ 25 kap. R. B. komme att erhälla, den hänvisning
+          till samma 8, som förekommer i derpäföljande 8 4, icke mera är
+          tilllämplig, utan sistnämnda $, som endast innehåller föreskrift
+          om vissa civila mäls fullföljande frän häradsrätt omedelbart till
+          hofrätt, i följd af lagmansrätternes upphörande böra uteslutas.
         </note>
         <note xml:id="i-UWPaxiHDC9rvctUM48z3Ny">
           Om förestäende beslut skulle samtlige medständen och lagutskottet
@@ -20815,13 +20833,14 @@
           öfvertagas och handhafvas, men det likväl ansetts olämpligt att
           pä en gäng afskaffa begge ifrägakomne socknebetjente, skallfogdetjensterne,
           säsom alldeles obehöflige kunde indragas, jemte det att det i
-          46 &amp; uti kong]. resolutionen pä allmogens besvär af den 16 Mars
-          1793 intagna stadgande om socknemännens berättigande till delaktighet
-          i brofogdarnes antagande mätte, med upphäfvande af kongl. brefven
-          af den 19 November 1799 och % Augusti 1801, förklaras skola lända
-          till efterföljd. Börande till skallfogdarnes atlöning utgående
-          kappar ställas till vederbörande kommuns förfogande i afseende
-          ä organisation af folkskolor och lärares aflönande vid desamma.
+          46 &amp; uti kong]. resolutionen pä allmogens besvär af den 16
+          Mars 1793 intagna stadgande om socknemännens berättigande till
+          delaktighet i brofogdarnes antagande mätte, med upphäfvande af
+          kongl. brefven af den 19 November 1799 och % Augusti 1801, förklaras
+          skola lända till efterföljd. Börande till skallfogdarnes atlöning
+          utgående kappar ställas till vederbörande kommuns förfogande i
+          afseende ä organisation af folkskolor och lärares aflönande vid
+          desamma.
         </note>
         <note xml:id="i-4DD9HT2ctgL4NWXpDmpZPz">
           Bondeständet fann härä godt enhälligt till alla delar gilla utskottets
@@ -21208,7 +21227,7 @@
         <note xml:id="i-AkJMD1yuQThbYyTzMZJ37x" type="speaker">
           Professorn Geitlin yttrade:
         </note>
-        <u who="i-BGmnCwGAP9Zt7Yd8H5Wx92" xml:id="i-JGiDo4UZ4Z78GHvZpcddZB">
+        <u xml:id="i-JGiDo4UZ4Z78GHvZpcddZB" who="i-BGmnCwGAP9Zt7Yd8H5Wx92">
           <seg xml:id="i-MrX4q7ifAvzrYojDexruUt">
             ,När den nädiga propositionen om tryckfrihet i Finland och vilkoren
             för dess begagnande vid senast hållna landtdag föredrogs och diskuterades
@@ -21333,18 +21352,18 @@
           det i propositionen läst fagra löften, att Hans Majestät ville
           läta lagstiftningen i ämnet blifva regentens och ständernas gemensamma
           sak. Att pä propositionens klara förbehäll göra en sädan tolkning
-          och derpä grunda anspräket i &amp; 70, vore minst sagt vädligt. Talaren
-          förklarade sig i allo ense med kontraktsprosten Ehrström och professor
-          Geitlin, att det vore en olycka om pressen ånyo komme under censur,
-          men var dock liksom biskop Schauman fullt öfvertygad om, att sä
-          icke skulle ske, emedan han hyste samma undersätliga förtroende
-          till Hans Majestät. Med anledning af allt detta ansåg talaren,
-          att hvarken propositionen eller utskottets betänkande, som underkastat
-          densamma granskning, kunde upptagas till behandling, och visste
-          han för sin del ingen annan utsigt än tillstyrka ständerna att
-          besluta, att, alldenstund propositionen ej kunnat antagas, helst
-          ingen anledning förekommit till skärpande af bestämningarna i
-          den nu
+          och derpä grunda anspräket i &amp; 70, vore minst sagt vädligt.
+          Talaren förklarade sig i allo ense med kontraktsprosten Ehrström
+          och professor Geitlin, att det vore en olycka om pressen ånyo
+          komme under censur, men var dock liksom biskop Schauman fullt
+          öfvertygad om, att sä icke skulle ske, emedan han hyste samma
+          undersätliga förtroende till Hans Majestät. Med anledning af allt
+          detta ansåg talaren, att hvarken propositionen eller utskottets
+          betänkande, som underkastat densamma granskning, kunde upptagas
+          till behandling, och visste han för sin del ingen annan utsigt
+          än tillstyrka ständerna att besluta, att, alldenstund propositionen
+          ej kunnat antagas, helst ingen anledning förekommit till skärpande
+          af bestämningarna i den nu
         </note>
         <pb facs="https://swerik-project.github.io/valtiopaivat-records-pdf/1867/prot_1867_praster_II/prot_1867_praster_II-0375"/>
         <note xml:id="i-Sr5yQqdUJw8iLAddhrs77u">
@@ -21591,9 +21610,9 @@
           men framhöllo derjemte nägra önskningsmäl. Nu vore dock meningen
           ingalunda att antaga propositionen och framhålla ändringarne såsom
           önskningsmäl, utan alla vore ense om att förkasta den; endast
-          angäende 70 &amp; hade fräga varit om att uttala en önskan, men ingen
-          af ständet hade yttrat sig derhän, att man skulle fatta saken
-          i sin allmänhet såsom ett önskningsmäl.
+          angäende 70 &amp; hade fräga varit om att uttala en önskan, men
+          ingen af ständet hade yttrat sig derhän, att man skulle fatta
+          saken i sin allmänhet såsom ett önskningsmäl.
         </note>
         <note xml:id="i-R1AuxEMGPZ7dnDr76RQL7M">
           Herr talemannen förklarade sitt yttrande vara missförstädt; det
@@ -21652,7 +21671,7 @@
         <note xml:id="i-MyrP78wubKjKyeoCUJenjV" type="speaker">
           Kontraktsprosten Ehrström yttrade:
         </note>
-        <u who="i-BnZAQWKX1K6S8Qb5ikFP38" xml:id="i-NTrCwLbmm94g4Jw7TpenHY">
+        <u xml:id="i-NTrCwLbmm94g4Jw7TpenHY" who="i-BnZAQWKX1K6S8Qb5ikFP38">
           <seg xml:id="i-NNdxFt2QRUMpzXoFTRydPt">
             ,Lagutskottet har trott sig hafva betagit detta moment dess udd
             derigenom att ordet uppsåtligt blifvit ställdt i spetsen, men
@@ -22176,12 +22195,12 @@
           ej fallet, ty i denna fräga kunde prestaständet icke tillmäta
           sig större politisk vishet än de öfriga. Men äfven derföre, att
           biskopen icke fann sig fullt tillfredställd med ständets i afseende
-          &amp; $ 70 fattade beslut, ansåg biskopen, som dock ur klokhets synpunkt
-          biträdt detsamma, sig icke böra tillstyrka inbjudningen. Utskottet
-          hade äfven för sin äsigt anfört sä talande skäl, att det syntes
-          som ständet hade bordt ätminstone fästa det bestämda vilkor vid
-          förordningens antagande, att densamma skulle äga giltighet till
-          nästa landtdags slut.
+          &amp; $ 70 fattade beslut, ansåg biskopen, som dock ur klokhets
+          synpunkt biträdt detsamma, sig icke böra tillstyrka inbjudningen.
+          Utskottet hade äfven för sin äsigt anfört sä talande skäl, att
+          det syntes som ständet hade bordt ätminstone fästa det bestämda
+          vilkor vid förordningens antagande, att densamma skulle äga giltighet
+          till nästa landtdags slut.
         </note>
         <note xml:id="i-PGpWNkTi8iSRfWKFprjeQA">
           Domprosten doktor Borg yttrade, med anledning af hvad biskop
@@ -22236,7 +22255,7 @@
         <note xml:id="i-N2WjmH5eSiJGTy4aMTidCg" type="speaker">
           Biskopen Schauman:
         </note>
-        <u who="i-SYnSDfibYZd7vBXM2DWy6m" xml:id="i-AXR4nLS24NZTrmHxFsQmUy">
+        <u xml:id="i-AXR4nLS24NZTrmHxFsQmUy" who="i-SYnSDfibYZd7vBXM2DWy6m">
           <seg xml:id="i-3WuVKVWh7iq3y97eWSdFHW">
             Det hade yttrats att ständet, dä det fattat sitt beslut af full
             öfvertygelse, var bäde berättigadt och skyldigt att inbjuda de
@@ -22459,10 +22478,10 @@
           i öfrigt, utom att ståndet beslöt att $ 52 borde undergå sådan
           ändring att afgifterne för minutering och utskänkning af bränvin
           borde till en fjerdedel tillfalla kommunerne äfvensom det uti
-          &amp; 68 af förbiseende på två ställen begagnade ordet kontrakt borde
-          utbytas mot tillståndsbevis. Jemte det ärendet tillika blef till
-          utskottet återremitteradt för den ytterligare handläggning som
-          å utskottet ankomme, skulle underrättelse om förestående beslut
+          &amp; 68 af förbiseende på två ställen begagnade ordet kontrakt
+          borde utbytas mot tillståndsbevis. Jemte det ärendet tillika blef
+          till utskottet återremitteradt för den ytterligare handläggning
+          som å utskottet ankomme, skulle underrättelse om förestående beslut
           genom protokollsutdrag meddelas de respektive medstånden och förbemälda
           utskott”.
         </note>
@@ -22486,7 +22505,7 @@
         <note xml:id="i-5MLcczitkidkbiMNGQC1HQ" type="speaker">
           Prosten doktor Alopaeus yttrade:
         </note>
-        <u who="unknown" xml:id="i-Uh6HkDZ6rzY86GwL5sUynY">
+        <u xml:id="i-Uh6HkDZ6rzY86GwL5sUynY" who="unknown">
           <seg xml:id="i-Ah9CDicVNfGedeDnAu7S1A">
             Den relation som styrelsen för ständerna framlagt angäende statsverkets
             tillständ utvisar visserligen ett reserveradt anslag af 170,000
@@ -22505,7 +22524,7 @@
         <note xml:id="i-29163KSVJrN1BCHcos28PD" type="speaker">
           Kontraktsprosten Sir6n:
         </note>
-        <u who="unknown" xml:id="i-84ap7nTkBpK47uqJijBmNm">
+        <u xml:id="i-84ap7nTkBpK47uqJijBmNm" who="unknown">
           <seg xml:id="i-3nuEVGSmASLFJxv6ysNGb3">
             Likasom doktor Alopaeus önskade äfven jag motverka seminariets
             förflyttning. Här som i mänga andra fall går man brädstörtadt
@@ -22775,10 +22794,10 @@
           Kap. IV, om allmän och enskild gudstjenst.
         </note>
         <note xml:id="i-Rq9u5RMocP5cJX5Udd56Ps">
-          Samtlige $$ 18—33 antogos, &amp; 30 likväl med den af rädmannen Bergh
-          i dess reservation förordade förändrade redaktion och &amp; 33 enligt
-          utskottets senare, af ridderskapets och adelns samt borgareståndets
-          deputerade föreslagna redaktion.
+          Samtlige $$ 18—33 antogos, &amp; 30 likväl med den af rädmannen
+          Bergh i dess reservation förordade förändrade redaktion och &amp;
+          33 enligt utskottets senare, af ridderskapets och adelns samt
+          borgareståndets deputerade föreslagna redaktion.
         </note>
         <note xml:id="i-BoMKcskTGtkKfAKsyEKxHs">
           Kap. V, om döpelsen.
@@ -22796,8 +22815,8 @@
           Kap. VIII, om Herrans nattvard. 88 59—63 godkändes oförändrade.
         </note>
         <note xml:id="i-GtY7v9a6wXtx5grk1CMChA">
-          &amp; 64 godkändes i öfverensstämmelse med den formulering, som förekommer
-          i utskottets betänkandes förra alternativ.
+          &amp; 64 godkändes i öfverensstämmelse med den formulering, som
+          förekommer i utskottets betänkandes förra alternativ.
         </note>
         <note xml:id="i-7zDV7Aw4mAvwVhTmUFgTwb">
           88 65—71 godkändes sådane de i den nådiga propositionen förekomma.
@@ -23073,14 +23092,14 @@
           ställt inbjudning att förena sig med prestaständet om antagande
           af den mening, hvari prestaständet stannat beträffande kyrkolagsförslagets
           kap. XIII om kyrkotukten samt kap. XXV om kyrkomöte, nemligen
-          att kap. XIII &amp; 102 skulle redigeras i öfverensstämmelse med det
-          förslag herr domprosten Borg och herr doktorn Bergh uti deras
+          att kap. XIII &amp; 102 skulle redigeras i öfverensstämmelse med
+          det förslag herr domprosten Borg och herr doktorn Bergh uti deras
           gemensamt afgifna och utskottsbetänkandet vidfogade reservation
-          framställt, i följd hvaraf jemväl &amp; 65 borde modifieras i angifvet
-          syfte och $ 66 utgå, samt att kap. XXV 8 457 skulle, i öfverensstämmelse
-          med herr biskopen Schaumans i utskottet afgifna reservation, blifva
-          i allo likalydande med kap. XXV $ 6 uti kyrkolagsförslaget af
-          är 1863, hvarigenom kyrkan tillkomme rätt att sjelf vid kyrkomöte
+          framställt, i följd hvaraf jemväl &amp; 65 borde modifieras i
+          angifvet syfte och $ 66 utgå, samt att kap. XXV 8 457 skulle,
+          i öfverensstämmelse med herr biskopen Schaumans i utskottet afgifna
+          reservation, blifva i allo likalydande med kap. XXV $ 6 uti kyrkolagsförslaget
+          af är 1863, hvarigenom kyrkan tillkomme rätt att sjelf vid kyrkomöte
           stifta lag i sina inre angelägenheter, med sanktion af regenten,
           till följd hvaraf äfven kap. III $ 14 blefve likalydande med kap.
           III &amp; 8 i kyrkolagsförslaget af är 1863. Och har nämnde inbjudning
@@ -23283,7 +23302,7 @@
         <note xml:id="i-8Vo2HvDKzdgs63e2NS2WyL" type="speaker">
           Biskopen Schauman:
         </note>
-        <u who="i-SYnSDfibYZd7vBXM2DWy6m" xml:id="i-W8aUADAHJxXVgprK2SrpQG">
+        <u xml:id="i-W8aUADAHJxXVgprK2SrpQG" who="i-SYnSDfibYZd7vBXM2DWy6m">
           <seg xml:id="i-86HafGL5pTrRbfVf64EC7m">
             Man har anmärkt att en betydlig förlust skulle drabba statsverket,
             om Finlands bank befriades från nu ifrågavarande karteringsskyldighet.
@@ -23295,7 +23314,7 @@
         <note xml:id="i-PS4UqXC5riXRYYdcesVvQ2" type="speaker">
           Professorn doktor G eitlin:
         </note>
-        <u who="unknown" xml:id="i-7EepaXkuWGtGCUXG4JGXqP">
+        <u xml:id="i-7EepaXkuWGtGCUXG4JGXqP" who="unknown">
           <seg xml:id="i-935DQyhr46ABbDmPfeWZsQ">
             Prosten Borenius har sagt, att alla fyra stånden uppdragit åt
             utskottet att föreslå en förhöjning i stämpelpappersafgiften,
@@ -23389,8 +23408,8 @@
           med förkastande af den nädiga propositionen i denna fräga beslutit
           att hos Hans Kejserliga Majestät i underdänighet anhälla att nytt
           förslag i ämnet i nåder blefve till nästa landtdag ständerna förelagdt,
-          allt vidare tillgörande &amp; prestaständets sida borde undvikas säsom
-          ledande endast till olägenheter och ett upprepande vid hvarje
+          allt vidare tillgörande &amp; prestaständets sida borde undvikas
+          säsom ledande endast till olägenheter och ett upprepande vid hvarje
           landtdag af frägan om mitt och ditt.
         </note>
         <pb facs="https://swerik-project.github.io/valtiopaivat-records-pdf/1867/prot_1867_praster_II/prot_1867_praster_II-0411"/>
@@ -23461,41 +23480,41 @@
           om ingående af lönekonventioner, men jag vet äfven, hvad utskottet
           ej synes veta, att sädane frägor ytterst sällan väckas och ännu
           mera sällan hafva nägon framgäng dä en högre auktoritet till sädant
-          ej uppmanar. Att utskottet förordar 1743 &amp;rs författning och personliga
-          konventionerne emellan löntagare och betalare, är i sanning sä
-          förvänande att jag derpä ej kan svara annat än att det visserligen
-          öfverensstämmer med presterskapets fördel, att med en äkta hierarkisk
-          supremati vara herrar öfver sina församlingar. Hvad utskottet
-          i öfrigt framhällit säsom skäl för afslaget pä mitt förslag, vill
-          jag ej vidare bemöta, emedan jag är öfvertygad att hvarje uppmärksam
-          granskare af dessa skäl skall finna allt detsamma jag om deras
-          ringa betydelse kunde yttra. Jag har gjort förslaget af öfvertygelse,
-          grundad pä min enskilda erfarenhet och jag har ej velat ädraga
-          mig mina kamraters rättvisa tillvitelse för likgiltighet uti förevarande,
-          sä mänga personer nära rörande och vigtiga angelägenhet, samt
-          har äfven af sädan orsak ej velat aflägsna mig frän landtdagen
-          innan jag för min ringa del gjort ett försök till lösning af denna
-          fräga. Mitt förslag ingär i protokollet och mä säledes sjelf vittna
-          om sitt mer eller mindre hyfsade eller ohyfsade skick. Jag har
-          lefvat tillräekligt länge för att inse sanningen af ordspräket
-          plus vident aculi [an oculus och är ej heller nog förblindad af
-          egenkärlek, för att inna mig sårad af de anmärkningar, hvilka
-          kunna göras emot mitt andragande, emedan jag vet att dertill ej
-          fordras alltför öfverlägsna snillegäfvor att uttrycka en sak pä
-          flere olika sätt. Jag begagnar derföre tillfället att för besvärsutskottet,
-          pä hvars fina urskiljning och stilistiska skicklighet vid denna
-          landtdag utmärkta prof ej saknats, betyga min tacksamhet för det
-          smickrande vitsord jag erhällit, att äfven mitt andragande med
-          erforderlig hyfsning vore användbart, ifall en underdänig petition
-          komme i fräga, öfvertygad derom att den bepröfvade och lysande
-          talang, som utskottet i sädant fall använder pä hyfsningen af
-          mitt anspräkslösa förslag, skall öfver detsamma sprida en oförtjent
-          glans.
+          ej uppmanar. Att utskottet förordar 1743 &amp;rs författning och
+          personliga konventionerne emellan löntagare och betalare, är i
+          sanning sä förvänande att jag derpä ej kan svara annat än att
+          det visserligen öfverensstämmer med presterskapets fördel, att
+          med en äkta hierarkisk supremati vara herrar öfver sina församlingar.
+          Hvad utskottet i öfrigt framhällit säsom skäl för afslaget pä
+          mitt förslag, vill jag ej vidare bemöta, emedan jag är öfvertygad
+          att hvarje uppmärksam granskare af dessa skäl skall finna allt
+          detsamma jag om deras ringa betydelse kunde yttra. Jag har gjort
+          förslaget af öfvertygelse, grundad pä min enskilda erfarenhet
+          och jag har ej velat ädraga mig mina kamraters rättvisa tillvitelse
+          för likgiltighet uti förevarande, sä mänga personer nära rörande
+          och vigtiga angelägenhet, samt har äfven af sädan orsak ej velat
+          aflägsna mig frän landtdagen innan jag för min ringa del gjort
+          ett försök till lösning af denna fräga. Mitt förslag ingär i protokollet
+          och mä säledes sjelf vittna om sitt mer eller mindre hyfsade eller
+          ohyfsade skick. Jag har lefvat tillräekligt länge för att inse
+          sanningen af ordspräket plus vident aculi [an oculus och är ej
+          heller nog förblindad af egenkärlek, för att inna mig sårad af
+          de anmärkningar, hvilka kunna göras emot mitt andragande, emedan
+          jag vet att dertill ej fordras alltför öfverlägsna snillegäfvor
+          att uttrycka en sak pä flere olika sätt. Jag begagnar derföre
+          tillfället att för besvärsutskottet, pä hvars fina urskiljning
+          och stilistiska skicklighet vid denna landtdag utmärkta prof ej
+          saknats, betyga min tacksamhet för det smickrande vitsord jag
+          erhällit, att äfven mitt andragande med erforderlig hyfsning vore
+          användbart, ifall en underdänig petition komme i fräga, öfvertygad
+          derom att den bepröfvade och lysande talang, som utskottet i sädant
+          fall använder pä hyfsningen af mitt anspräkslösa förslag, skall
+          öfver detsamma sprida en oförtjent glans.
         </note>
         <note xml:id="i-TdAGRU2wV7H74KbM2bbUqN" type="speaker">
           Prosten doktor Alopaeus:
         </note>
-        <u who="unknown" xml:id="i-4XhodHrPHrEevm2ecU28A4">
+        <u xml:id="i-4XhodHrPHrEevm2ecU28A4" who="unknown">
           <seg xml:id="i-5gftm6YV4DgBbseegzU8b5">
             Utan att vilja ingä i närmare yttrande om utskottets betänkande
             eller kontraktsprosten Sir6ns afgifna bemötande, ber jag att inför

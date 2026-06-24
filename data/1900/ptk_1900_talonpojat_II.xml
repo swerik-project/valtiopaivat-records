@@ -1,5 +1,5 @@
-<?xml version='1.0' encoding='utf-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="ptk_1900_talonpojat_II">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -25,8 +25,12 @@
   <text>
     <front>
       <div type="preface">
-        <head>ptk_1900_talonpojat_II</head>
-        <docDate when="1900-01-01">1900-01-01</docDate>
+        <head>
+          ptk_1900_talonpojat_II
+        </head>
+        <docDate when="1900-01-01">
+          1900-01-01
+        </docDate>
       </div>
     </front>
     <body>
@@ -551,11 +555,11 @@
           että taksa on kaikissa suhteissa ehdottomasti noudatettava; erinäisillä
           keskinäisillä sopimuksilla päämiehen ja asianajajan kesken voidaan
           taksasta poiketa, mutta etteivät semmoiset sopimukset luonnottomuuksiin
-          menisi, on valiokunta asetusehdotuksen 5 &amp;:n 2 momenttiin ottanut
-          määräyksen, että tuomioistuimilla on valta ei ainoastaan tasoittaa,
-          mutta myöskin vähentää sovittua palkkiota, jos nähdään siihen
-          aihetta olevan; tämmöisenkin väärinkäytöksen tulisi siis tämä
-          laki estämään.
+          menisi, on valiokunta asetusehdotuksen 5 &amp;:n 2 momenttiin
+          ottanut määräyksen, että tuomioistuimilla on valta ei ainoastaan
+          tasoittaa, mutta myöskin vähentää sovittua palkkiota, jos nähdään
+          siihen aihetta olevan; tämmöisenkin väärinkäytöksen tulisi siis
+          tämä laki estämään.
         </note>
         <note xml:id="i-GTkzj4eBJwnouWKn9H9X8a">
           Täällä on tuotu useita erityisseikkoja esiin lakiehdotuksen kumoamiseksi.
@@ -747,10 +751,10 @@
           Sen verran kuin on tullut tunnetuksi, täytyy tunnustaa, että siinä
           säätypäätöksessä syntyi todellakin erehdys. Sen nyt jo osoittavat
           ne renkaat, joista täällä on niin paljon puhuttu. Mutta kun käsillä
-          olevassa valiokunnan mietinnössä on juuri tuo 15 luvun 2 &amp; uudestaan
-          muodostettu, niin tällaisten asianajajayhdistysten kautta nyt
-          kumottaisiin tuo erehdys, joka vuoden 1897 valtiopäivillä tapahtui.
-          Sen takia ei voi ollenkaan ihmetellä, että talonpoikaissäädyn
+          olevassa valiokunnan mietinnössä on juuri tuo 15 luvun 2 &amp;
+          uudestaan muodostettu, niin tällaisten asianajajayhdistysten kautta
+          nyt kumottaisiin tuo erehdys, joka vuoden 1897 valtiopäivillä
+          tapahtui. Sen takia ei voi ollenkaan ihmetellä, että talonpoikaissäädyn
           jäsenet valiokunnassa, eivät ole tehneet vastalausetta, koska
           asetusehdotus todellakin tulisi korjaamaan sitä, mitä laissa on
           ennen epäkohtana huomattu.
@@ -1436,8 +1440,8 @@
           539
         </note>
         <note xml:id="i-HuvXsnHnMXv83isfr2Qj3f">
-          I 2 mom. af &amp; 1 undantagas från all garanti smärre partier om
-          25 kilogram gödslingsämne och fodermedel samt 10 kg utsädesfoder.
+          I 2 mom. af &amp; 1 undantagas från all garanti smärre partier
+          om 25 kilogram gödslingsämne och fodermedel samt 10 kg utsädesfoder.
           Om en säljare också med temligen stor trygghet skulle kunna ikläda
           sig garantiskyldighet för 10 kg utsädesvara, är det däremot absolut
           omöjligt att garantera beskaffenheten hos 25 kg fodermedel eller
@@ -2684,10 +2688,10 @@
           <seg>
             Ennenkun mennään poistamaan käsillä oleva toinen momentti, pitää
             huomata, että tämä asetus käsittää kaikkea siemenkauppaa, siis
-            esim. kukkas- ja nauriin- y. m. siemeniä, joita myydään 5 &amp; 10
-            pennin annoksissa. Jos nyt jokaisesta tämmöisestä määrästä täytyy
-            antaa faktuura, niin tuottaahan se kaupassa paljon häiriötä. Tähän
-            nähden pykälässä olevat määräykset ovat minusta paikallaan.
+            esim. kukkas- ja nauriin- y. m. siemeniä, joita myydään 5 &amp;
+            10 pennin annoksissa. Jos nyt jokaisesta tämmöisestä määrästä
+            täytyy antaa faktuura, niin tuottaahan se kaupassa paljon häiriötä.
+            Tähän nähden pykälässä olevat määräykset ovat minusta paikallaan.
           </seg>
         </u>
         <pb facs="https://swerik-project.github.io/valtiopaivat-records-pdf/1900/ptk_1900_talonpojat_II/ptk_1900_talonpojat_II-0046"/>
@@ -2723,12 +2727,13 @@
             etten luule minkään kauppiaan olevan velvollisen myymään pieniä
             määriä, jos hän ei katso etunsa sitä vaativan. — Edusm. Koskelin
             on huomauttanut, että puheena olevan kohdan määräys tulisi koskemaan
-            5 &amp; 10 penninkin siemenkauppoja. Minä olen postilaitoksessa huomannut,
-            miten paljon siemenkauppiaat lähettävät monisivuisia ilmoitusluetteloita
-            henkilöille, jotka eivät koskaan ole heiltä ostaneet siemeniä.
-            Samoin voivat kauppiaat painattaa suuria määriä todistuksia myydyn
-            tavaran kelvollisuudesta, joita annetaan ostajille, tavalla, mikäli
-            käytännöllisyys antaa ohjausta. Näin ollen pysyn edelleen mielipiteessäni.
+            5 &amp; 10 penninkin siemenkauppoja. Minä olen postilaitoksessa
+            huomannut, miten paljon siemenkauppiaat lähettävät monisivuisia
+            ilmoitusluetteloita henkilöille, jotka eivät koskaan ole heiltä
+            ostaneet siemeniä. Samoin voivat kauppiaat painattaa suuria määriä
+            todistuksia myydyn tavaran kelvollisuudesta, joita annetaan ostajille,
+            tavalla, mikäli käytännöllisyys antaa ohjausta. Näin ollen pysyn
+            edelleen mielipiteessäni.
           </seg>
         </u>
         <note xml:id="i-7pYS5umhcEXuhQpP8NhdJ8" type="speaker">
@@ -3570,11 +3575,11 @@
           pitempikin.
         </note>
         <note xml:id="i-TuGY5H2SU6gD9oP3Nm1Ke7">
-          Mutta kun nykyään on käytännössä ainoastaan 3 &amp; 5 vuoden hakkuukontrahdit,
-          joka onkin tarpeeksi pitkä aika, niin miksi lainsäädäntö pyrkisi
-          tätä aikaa jatkamaan maanomistajan vahingoksi? Minä puolustan
-          periaatteellisesti arm. esitystä, sillä se on mielestäni paremmin
-          onnistunut kuin valiokunnan mietintö.
+          Mutta kun nykyään on käytännössä ainoastaan 3 &amp; 5 vuoden
+          hakkuukontrahdit, joka onkin tarpeeksi pitkä aika, niin miksi
+          lainsäädäntö pyrkisi tätä aikaa jatkamaan maanomistajan vahingoksi?
+          Minä puolustan periaatteellisesti arm. esitystä, sillä se on mielestäni
+          paremmin onnistunut kuin valiokunnan mietintö.
         </note>
         <note xml:id="i-Ua5rmz2FwURgk4a463xrrM">
           37
@@ -4966,8 +4971,8 @@
           äänestysesityksen:
         </note>
         <note xml:id="i-J8i6ex8WxeUmfBQuo7csVs">
-          Se, joka hyväksyy 1 &amp;:n sellaisena kuin valiokunta on sen ehdottanut,
-          äänestää ,jaa*;
+          Se, joka hyväksyy 1 &amp;:n sellaisena kuin valiokunta on sen
+          ehdottanut, äänestää ,jaa*;
         </note>
         <note xml:id="i-2FT7wtogHtQcpMm3DpY53P">
           se, joka tahtoo, että pykälässä mainittu kiinnityksen määräaika
@@ -5266,8 +5271,8 @@
           tarpeellinen, sillä muikut ovat todellakin tavallisesti pieniä.
         </note>
         <note xml:id="i-HDqx9Kg2Uu9Pi1AtpMfFuD">
-          2 luvun 11 &amp;:ssä ehdotetaan kaloille sunnantailepoa, siinä kun
-          kielletään sunnuntaina pyytämästä kaikilla muilla pyydyksillä
+          2 luvun 11 &amp;:ssä ehdotetaan kaloille sunnantailepoa, siinä
+          kun kielletään sunnuntaina pyytämästä kaikilla muilla pyydyksillä
           paitsi koukuilla. Sanottuna aikana tulee lakiehdotuksen mukaan
           kalatokeen ja isorysän olla avoinna sekä katiskan suljettuna,
           ja kaikkien muiden seisovien pyydysten paitsi katiskan pitää olla
@@ -5488,9 +5493,9 @@
           vesissä.
         </note>
         <note xml:id="i-CpMtfVQSCWVowQiG2tAaPy">
-          11 ja 12 &amp;:n suhteen lausuisin sen toivomuksen, että kalan rauhoitusta
-          koskevat määräykset sovitettaisiin niin, ettei kalastusta saisi
-          alottaa sunnuntai-iltoina.
+          11 ja 12 &amp;:n suhteen lausuisin sen toivomuksen, että kalan
+          rauhoitusta koskevat määräykset sovitettaisiin niin, ettei kalastusta
+          saisi alottaa sunnuntai-iltoina.
         </note>
         <note xml:id="i-BaWZg9tN745NBUCbMTYwL5">
           Minua muuten epäilyttää kielto tarpomista ja tuulastamista vastaan.
@@ -5575,24 +5580,25 @@
           kohdistaakaan arvosteluani näihin asioihin.
         </note>
         <note xml:id="i-A5D9YwhyJm2zJnHtWgnP84">
-          Mitä &amp;nsinnä tulee niihin kohtiin, jotka ovat ristiriidassa keskenään
-          sekä epäselviä, pyydän mainita niistä muutamia. Asetusehdotuksen
+          Mitä &amp;nsinnä tulee niihin kohtiin, jotka ovat ristiriidassa
+          keskenään sekä epäselviä, pyydän mainita niistä muutamia. Asetusehdotuksen
           2 S:n 3 kohdassa säädetään, että ,vitsamertaa, jota keväällä käytetään
           kalastukseen, älköön ennen kesäkuun 20 päivää otettako vedestä
           kauemmaksi ajaksi kuin mitä sen kokeminen välttämättömästi vaatii.*
-          Ja 11 &amp;:n 1 kohdan toisessa lauseessa sanotaan: ,Sanottuna aikana
-          pitää kalatokeen ja isonrysän olla avoinna, niin että kala esteettömästi
-          pääsee sen läpi ja kaiken muun seisovan pyydyksen paitsi katiskan
-          olla vedestä nostettuna.* Näin ollen täytyisi 2 &amp;:n mukaan olettaa
-          vitsamerta pakollisesti seisovaksi pyydykseksi, jota ei taas kuitenkaan
-          11 &amp;:n mukaan ole tarvis sanotun pykälän alkukohdassa mainituksi
-          ajaksi sulkea eikä lupa 2 &amp;:n 3 kohdan mukaan ottaa maalle. Sitten
-          sanotaan 11 8:n 3 kohdassa: ,Jos on erinomaisia syitä, voidaan
-          jotakin helpotusta siitä, mitä tässä ylempänä ensimmäisessä momentissa
-          on säädetty, myöntää kalastukseen nähden vississä meren osassa*.
-          Kun taas 33 &amp;:ssä sanotaan, että säännökset 1, 2 ja 3 luvussa
-          eivät koske umpinaista vettä, niin pitäisi tähän pykälään sisältyvä
-          ajatus olla otettuna myöskin 11 &amp;:n 3 kohtaan.
+          Ja 11 &amp;:n 1 kohdan toisessa lauseessa sanotaan: ,Sanottuna
+          aikana pitää kalatokeen ja isonrysän olla avoinna, niin että kala
+          esteettömästi pääsee sen läpi ja kaiken muun seisovan pyydyksen
+          paitsi katiskan olla vedestä nostettuna.* Näin ollen täytyisi
+          2 &amp;:n mukaan olettaa vitsamerta pakollisesti seisovaksi pyydykseksi,
+          jota ei taas kuitenkaan 11 &amp;:n mukaan ole tarvis sanotun pykälän
+          alkukohdassa mainituksi ajaksi sulkea eikä lupa 2 &amp;:n 3 kohdan
+          mukaan ottaa maalle. Sitten sanotaan 11 8:n 3 kohdassa: ,Jos on
+          erinomaisia syitä, voidaan jotakin helpotusta siitä, mitä tässä
+          ylempänä ensimmäisessä momentissa on säädetty, myöntää kalastukseen
+          nähden vississä meren osassa*. Kun taas 33 &amp;:ssä sanotaan,
+          että säännökset 1, 2 ja 3 luvussa eivät koske umpinaista vettä,
+          niin pitäisi tähän pykälään sisältyvä ajatus olla otettuna myöskin
+          11 &amp;:n 3 kohtaan.
         </note>
         <note xml:id="i-AdRMpYnBmSLHaDvRAzRv6W">
           Mitä sitten tulee niihin kohtiin, jotka mielestäni tässä asetusehdotuksessa
@@ -5612,8 +5618,8 @@
           yleensä kohtelisi tätä osaa asetuksesta jokseenkin ivalla.
         </note>
         <note xml:id="i-DWiqWswz5Yis6kVvkqqTgP">
-          Saman kohtalon kuin 11 &amp;:lle soisin myöskin 16 8:lle, siinä kun
-          määritellään kalain vähin mitta. Sen johdosta kuin jo aikaisemmin
+          Saman kohtalon kuin 11 &amp;:lle soisin myöskin 16 8:lle, siinä
+          kun määritellään kalain vähin mitta. Sen johdosta kuin jo aikaisemmin
           muissa pykälissä on määritelty pyydysten tiheys kullekin kalastajalle,
           luulen tarpeettomaksi, että 16 $:ssä pyydystettäväin kalojen mittaehdot
           määrätään. Voidaanhan otaksua, että joku saa pienempää kalalajia
@@ -6168,9 +6174,9 @@
         </note>
         <note xml:id="i-7CcDq8zBwzsEPZJAYgEAyG">
           Arm. esityksessä n:o 37 olevaan asetusehdotukseen sisältyvän
-          17 luvun 1 &amp;:ssä sanotaan, että jos kalaveden osakkaat eivät voi
-          järjestää kalastusta niin, että kalasuku voimassa pidetään, on
-          kuvernöörillä valta kieltää kalaveden osakkaita kalastusoikeutta
+          17 luvun 1 &amp;:ssä sanotaan, että jos kalaveden osakkaat eivät
+          voi järjestää kalastusta niin, että kalasuku voimassa pidetään,
+          on kuvernöörillä valta kieltää kalaveden osakkaita kalastusoikeutta
           käyttämästä muulla tavalla kuin osakasten yhteiseksi hyödyksi.
           Toisin sanoen kalaveden omistajilta riistetään kalastusoikeus
           tykkänään pois. Helppo on arvata, mitä tyytymättömyyttä ja nurjaa
@@ -6546,17 +6552,17 @@
         </note>
         <u who="i-M9GEjZeNs7B27BfEGmJYSN">
           <seg>
-            Minäkin puolustan 11 &amp;:lle sitä muodostusta, mikä sille on annettu
-            valiokunnan mietintöön liitetyssä vastalauseessa, koska se on
-            yhtäpitävä sen päätöksen kanssa, mikä talonpoikaissäädyssä tätä
-            asiaa käsiteltäessä tehtiin 1897 valtiopäivillä, ja koska en luule,
-            että mitään syytä muuttamaan tätä päätöstä tällä välillä olisi
-            tapähtunut. Tämän vastalauseen perusteluissa jo tuodaan ymmärrettävällä
-            tavalla esille, mitenkä haitallisesti se vaikuttaisi varsinkin
-            harvaan asuttuin maaseutujen oloihin, jos sellainen valintaoikeus
-            annettaisiin, että kihlakunnanoikeuteen kuuluvia asioita voitaisiin
-            erityisen sopimuksen kautta muuttaa myöskin raastuvanoikeuksissa
-            käsiteltäviksi.
+            Minäkin puolustan 11 &amp;:lle sitä muodostusta, mikä sille on
+            annettu valiokunnan mietintöön liitetyssä vastalauseessa, koska
+            se on yhtäpitävä sen päätöksen kanssa, mikä talonpoikaissäädyssä
+            tätä asiaa käsiteltäessä tehtiin 1897 valtiopäivillä, ja koska
+            en luule, että mitään syytä muuttamaan tätä päätöstä tällä välillä
+            olisi tapähtunut. Tämän vastalauseen perusteluissa jo tuodaan
+            ymmärrettävällä tavalla esille, mitenkä haitallisesti se vaikuttaisi
+            varsinkin harvaan asuttuin maaseutujen oloihin, jos sellainen
+            valintaoikeus annettaisiin, että kihlakunnanoikeuteen kuuluvia
+            asioita voitaisiin erityisen sopimuksen kautta muuttaa myöskin
+            raastuvanoikeuksissa käsiteltäviksi.
           </seg>
         </u>
         <note xml:id="i-QANKu8RuBjQXUvw2TTK9s" type="speaker">
@@ -7152,11 +7158,11 @@
             että valiokunnan jäsenten olisi tullut laatia vastalause käsiteltävänä
             olevaan valiokunnan ponteen nähden. Huomattava kuitenkin on, että
             tämä ponsi nimenomaan johtuu juuri valiokunnan mietinnössä olevan
-            oikeudenkäymiskaaren 10 luvun 11 &amp;:n säännöksestä, ja näin ollen,
-            niinkuin täällä edelliset puhujat, valiokunnan jäseninä, ovat
-            huomauttaneet, valiokunnan mietintöön liitetty vastalause samalla
-            itse asiassa sisälsi myös tämän ponsilauseen hylkäämisen. Tällaiset
-            aiheettomat moitteet näkyvät joskus syntyvän joko moittimishalusta
+            oikeudenkäymiskaaren 10 luvun 11 &amp;:n säännöksestä, ja näin
+            ollen, niinkuin täällä edelliset puhujat, valiokunnan jäseninä,
+            ovat huomauttaneet, valiokunnan mietintöön liitetty vastalause
+            samalla itse asiassa sisälsi myös tämän ponsilauseen hylkäämisen.
+            Tällaiset aiheettomat moitteet näkyvät joskus syntyvän joko moittimishalusta
             tahi
           </seg>
         </u>
@@ -7396,8 +7402,8 @@
           äänestysesityksen :
         </note>
         <note xml:id="i-L4FeZPJk1gaUuVUSoNYL2h">
-          Se, joka hyväksyy esillä olevan asetusehdotuksen 1 &amp;:n 1 kohdan
-          valiokunnan mietinnön mukaan, äänestää ,jaa*;
+          Se, joka hyväksyy esillä olevan asetusehdotuksen 1 &amp;:n 1
+          kohdan valiokunnan mietinnön mukaan, äänestää ,jaa*;
         </note>
         <note xml:id="i-VhaJQcLMXn6tmrfYQemzBA">
           jos ,ei" voittaa, on sääty päättänyt mainitusta kohdasta poistaa
@@ -7487,16 +7493,16 @@
         </note>
         <u who="i-7okXPeRPnEwup3QASuUY9C">
           <seg>
-            2 &amp;:ää vastaan minullakin olisi tehtävä samat huomautukset kuin
-            edusm. Collianderilla. Valiokuntakin alkuperusteluissaan huomauttaa,
-            että Suomessa luultavasti tulee tällä teollisuuden alalla, sähköteollisuudella,
-            tulevaisuudessa olemaan varsin laaja käytäntö. Mutta tällaiset
-            epämääräiset maksut ja rasitukset tulevat tietysti sitä suuresti
-            ehkäisemään. Maassamme on yritteliäisyys ennen kaikkea ylläpidettävä
-            eikä ehkäistävä tällaisilla rasituksilla. Sillä maamme on pääomista
-            siksi köyhä, että yritteliäisyyttä on sitä suuremmalla huolella
-            vaalittava eikä sellaisilla maksuilla pelotettava, jotka sitä
-            paitsi ovat kerrassaan epämääräiset.
+            2 &amp;:ää vastaan minullakin olisi tehtävä samat huomautukset
+            kuin edusm. Collianderilla. Valiokuntakin alkuperusteluissaan
+            huomauttaa, että Suomessa luultavasti tulee tällä teollisuuden
+            alalla, sähköteollisuudella, tulevaisuudessa olemaan varsin laaja
+            käytäntö. Mutta tällaiset epämääräiset maksut ja rasitukset tulevat
+            tietysti sitä suuresti ehkäisemään. Maassamme on yritteliäisyys
+            ennen kaikkea ylläpidettävä eikä ehkäistävä tällaisilla rasituksilla.
+            Sillä maamme on pääomista siksi köyhä, että yritteliäisyyttä on
+            sitä suuremmalla huolella vaalittava eikä sellaisilla maksuilla
+            pelotettava, jotka sitä paitsi ovat kerrassaan epämääräiset.
           </seg>
         </u>
         <note xml:id="i-4xn5CurncZeagHzqJNdoiq">
@@ -7642,8 +7648,8 @@
         </note>
         <note xml:id="i-TnAQsSE1CpGNBrsq31MpfH">
           Huutoäänestyksessä olivat jaa-äänet voitolla, jonka vuoksi säädyn
-          katsottiin hyväksyneen asetusehdotuksen 2 &amp;:n sellaiseksi kuin
-          valiokunta sen oli mietinnössään ehdottanut.
+          katsottiin hyväksyneen asetusehdotuksen 2 &amp;:n sellaiseksi
+          kuin valiokunta sen oli mietinnössään ehdottanut.
         </note>
         <note xml:id="i-3JETahL6F9ckMrhDWLtgCw">
           Keskustelu:
@@ -9563,7 +9569,8 @@
           Esitettiin ja pantiin pöydälle säädyn ensintulevaan täysiistuntoon
           lakivaliokunnan mietintö n:o 10 porvarissäätyyn jätetyn säätyesityskirjelmän
           johdosta, joka sisältää ehdotuksen asetukseksi Suomen Suuriruhtinaanmaan
-          19 päivänä joulukuuta 1889 annetun rikoslain 7 luvun 8 &amp;:n muuttamisesta.
+          19 päivänä joulukuuta 1889 annetun rikoslain 7 luvun 8 &amp;:n
+          muuttamisesta.
         </note>
         <note xml:id="i-7CjtM3QRtpVReLgFR6skVk">
           Niinikään esitettiin ja pantiin pöydälle ensintulevaan täysiistuntoon
@@ -10001,12 +10008,12 @@
           viimeisenkin oikeustukensa kansamme oikeuskäsitteissä.
         </note>
         <note xml:id="i-LkF5tDQsU5Jb5dEmJjX4nB">
-          Hallitusmuodon 2 &amp;:ssä sanotaan: ,Kuninkaan tulee hallita Valtakuntaansa
-          niinkuin Ruotsin laki sanoo, hänen eikä kenenkään muun oikeutta
-          ja totuutta vahvistaa, rakastaa ja varjella; mutta nurjuutta ja
-          vääryyttä kieltää, hävittää ja polkea; kenenkään henkeä ja kunniata,
-          ruumista ja onnea turmelematta, jollei hän laillisesti ole syyn-alaiseksi
-          todistettu ja tuomittu, ja kenel-
+          Hallitusmuodon 2 &amp;:ssä sanotaan: ,Kuninkaan tulee hallita
+          Valtakuntaansa niinkuin Ruotsin laki sanoo, hänen eikä kenenkään
+          muun oikeutta ja totuutta vahvistaa, rakastaa ja varjella; mutta
+          nurjuutta ja vääryyttä kieltää, hävittää ja polkea; kenenkään
+          henkeä ja kunniata, ruumista ja onnea turmelematta, jollei hän
+          laillisesti ole syyn-alaiseksi todistettu ja tuomittu, ja kenel-
         </note>
         <pb facs="https://swerik-project.github.io/valtiopaivat-records-pdf/1900/ptk_1900_talonpojat_II/ptk_1900_talonpojat_II-0166"/>
         <note xml:id="i-Rp8o5HbLnWLUwPQkD7vEaN">
@@ -10754,10 +10761,10 @@
           säädyissä käsiteltäessä Ritaristo ja Aateli sekä Porvarissääty
           ovat kaikin puolin hyväksyneet mietinnön, jota vastoin Pappissääty
           on hyväksynyt mietinnön muutoin, paitsi että sääty on tahtonut
-          O. K:n 10 luvun 11 &amp;:lle annettavaksi sen muodostuksen, joka tällä
-          lainpaikalla on mietintöön liitetyssä vastalauseessa, ja että
-          mietinnön 13 sivulla oleva ponsilause olisi sen johdosta jätettävä
-          pois, minkä ohessa Talonpoikaissääty on hyväksynyt asetusehdotuksen
+          O. K:n 10 luvun 11 &amp;:lle annettavaksi sen muodostuksen, joka
+          tällä lainpaikalla on mietintöön liitetyssä vastalauseessa, ja
+          että mietinnön 13 sivulla oleva ponsilause olisi sen johdosta
+          jätettävä pois, minkä ohessa Talonpoikaissääty on hyväksynyt asetusehdotuksen
           muuttamattomana, mutta päättänyt vastamainitun ponsilauseen poisjätettäväksi.
           Tähän nähden ja koska Pappissääty on jättänyt huomioon ottamatta
           Valiokunnan mainitulle säädylle tekemän ehdotuksen, että Pappissääty
@@ -13996,8 +14003,8 @@
         <note xml:id="i-Es6FR9txhQow6HtZUCRxRG">
           Ritaristo ja Aateli on päättänyt, hyljäten valiokunnan mietinnön,
           hyväksyä sensuuntaisen anomuksen, että edellä mainitun asetuksen
-          7 ja 8 &amp;:ssä sekä 13 8:n 3 momentissa määrätyt ikärajat 21 ja
-          12 vuotta muutettaisiin vastaaviksi 18 ja 15 vuodeksi;
+          7 ja 8 &amp;:ssä sekä 13 8:n 3 momentissa määrätyt ikärajat 21
+          ja 12 vuotta muutettaisiin vastaaviksi 18 ja 15 vuodeksi;
         </note>
         <pb facs="https://swerik-project.github.io/valtiopaivat-records-pdf/1900/ptk_1900_talonpojat_II/ptk_1900_talonpojat_II-0235"/>
         <note xml:id="i-DBSibH86NeE65bdDFyKhM5">
@@ -14502,8 +14509,8 @@
           väärentämisen estämiseksi, ja ilmoitettiin, että Itävallan hallituksella
           oli yksinomainen oikeus valmistaa semmoista paperia, joka esti
           väärennyksiä sen kautta, että paperiin oli kudottu kaikellaisia
-          karvoja, ja että toiminimellä Bradbury, Vilkinson &amp; Komp:lla oli
-          väriä, jota ei voitu fotograafisella tavalla jäljentää. Mainittu
+          karvoja, ja että toiminimellä Bradbury, Vilkinson &amp; Komp:lla
+          oli väriä, jota ei voitu fotograafisella tavalla jäljentää. Mainittu
           toiminimi toi esille kaiken maailman puoltosanoja ja myöskin kuvia
           seteliä varten. Mutta nämä kuvat eivät olleet sen värisiä kuin
           setelit nyt ovat, koska sitä väriä, jota vastedes tuli itse seteleissä
@@ -16030,11 +16037,11 @@
             että hyväksyn ensimmäisen vastalauseen siltä osalta kuin tämän
             säädyn valiokunnan jäsenet ja provasti Hellman ovat siihen yhtyneet.
             Minä nimittäin hyvällä omallatunnolla hylkään valiokunnan laatiman
-            uuden asetuksen, mikä on johtunut arm. esityksen 2 &amp;:stä. Samoin
-            hyväksyn saman vastalauseen allekirjoittajain mielipiteet 4 ja
-            7 &amp;:stä. Mitä sitten tulee valiokunnan mietinnön 1 S:ään, niin
-            en ensinkään voi katsoa asiaa siltä kannalta, minkä täällä eräs
-            arv. puhuja, edusm. Näs, esiintoi, hänen mielestään kun luterilaisen
+            uuden asetuksen, mikä on johtunut arm. esityksen 2 &amp;:stä.
+            Samoin hyväksyn saman vastalauseen allekirjoittajain mielipiteet
+            4 ja 7 &amp;:stä. Mitä sitten tulee valiokunnan mietinnön 1 S:ään,
+            niin en ensinkään voi katsoa asiaa siltä kannalta, minkä täällä
+            eräs arv. puhuja, edusm. Näs, esiintoi, hänen mielestään kun luterilaisen
             kirkon papisto hyvällä syyllä voisi ruveta siviilirekisterin pitäjäksi,
             olipa siihen sisältyvät ainekset laadultaan mitä hyvänsä. Minun
             käsitteeni mukaan luterilaisen kirkon papiston virkavelvollistoimintaa
@@ -16430,8 +16437,8 @@
         </note>
         <u who="i-yz5WqRw8dv6YYSDpDNaKH">
           <seg>
-            Minä puolestani rohkenisin 1 &amp;:n suhteen olla vähän toista mieltä
-            kuin edellinen arv. puhuja. Niinkuin jokainen näkee, rajoittaa
+            Minä puolestani rohkenisin 1 &amp;:n suhteen olla vähän toista
+            mieltä kuin edellinen arv. puhuja. Niinkuin jokainen näkee, rajoittaa
             käsillä oleva lakiehdotus suuressa määrin yksityisen omistusoikeutta.
             Mitä 1 &amp;:ään kuitenkin tulee, niin jos se, kuten edusm. Avellan
             tahtoo, tulisi poistetuksi, nähdäkseni mielivalta tai kulloinkin
@@ -16443,7 +16450,8 @@
             osottavia tauteja olisi saman arvoisiksi taudeiksi luettava. Minä,
             kuten sanottu, luulen, että, kun tätä lakiehdotusta hyväksyttäessä
             kaikkea varovaisuutta täytyy noudattaa, olisi tarpeellista, että
-            juuri tämä 1 &amp; säilytettäisiin. Ainakin minä puolestani sen hyväksyn.
+            juuri tämä 1 &amp; säilytettäisiin. Ainakin minä puolestani sen
+            hyväksyn.
           </seg>
         </u>
         <note xml:id="i-6zs5dThDfrhUWHMoiyPhCA" type="speaker">
@@ -16455,9 +16463,9 @@
             säätyasetukseen, niin valiokunta. on siinä menetellyt aivan oikein.
             Sillä se seikka todellakin on koko tämän lain pääperustus, että
             1 8:ssä luetellaan ne taudit, joita asetus koskee. Jos tämä asetus
-            alkaisi 2 &amp;:llä, olisin sitä mieltä, että lakiehdotus olisi aivan
-            vaillinainen. Semmoisena kuin se nyt ehdotuksessa on, vastaa se
-            täydelleen tarkoitustansa, jonka vuoksi minä puolestani kannatan
+            alkaisi 2 &amp;:llä, olisin sitä mieltä, että lakiehdotus olisi
+            aivan vaillinainen. Semmoisena kuin se nyt ehdotuksessa on, vastaa
+            se täydelleen tarkoitustansa, jonka vuoksi minä puolestani kannatan
             1 &amp;:ää.
           </seg>
         </u>
@@ -16506,25 +16514,25 @@
             Minä myös pyydän saada kannattaa edusm. Avellanin mielipidettä.
             On kyllä totta, että mielivaltaa tämän ehdotellun asetuksen käytäntöön
             panemisessa voidaan käyttää hyvin suuressa määrässä, mutta sitä
-            voidaan minun mielestäni käyttää yhtä hyvin, jos nämät 1 &amp;:n säädökset
-            olisivat säätylaissakin. Säätylain kautta on kuitenkin määrätty,
-            mihin toimenpiteisiin viranomaiset saavat ryhtyä, kun tarttuvia
-            eläintauteja liikkuu, ja minun mielestäni pitäisi näissä säädöksissä
-            säätyjen turvata yksityistä niin paljon, etteivät mene hyväksymään
-            sellaisia toimenpiteitä, jotka johtavat mielivaltaan. On mielestäni
-            sopimatonta, että säätylaissa luetellaan muutamia pahempia eläintauteja,
-            mutta pykälän viimeisessä momentissa kuitenkin sanotaan, että,
-            jos muitakin tarttuvia eläintauteja ilmestyy, on hallituksella
-            oikeus julistaa ne samojen sääntöjen alaisiksi; näin ollen en
-            ymmärrä, mitä turvaa siitä on, että säätylaissa pysytetään tällainen
-            pykälä. Päinvastoin säätylakia halvennetaan säädöksillä, jotka
-            käytännössä osoittautuvat sellaisiksi, ettei niitä voi seurata.
-            Sillä eihän säädyt meidän maassa ole niin usein koolla, että,
-            milloin uusi tauti on ilmestynyt, sen ehkäisemiseksi heti voitaisiin
-            ryhtyä säätämään lakia. Siitä olisi vaan tukea sille käsitteelle,
-            että säätylakisäädäntö on epäkäytännöllinen. Sen vuoksi olen valmis,
-            niinkuin edusm. Avellan, sulkemaan 1 $:n pois lakiehdotuksesta
-            ja yhdyn siis vastalauseeseen.
+            voidaan minun mielestäni käyttää yhtä hyvin, jos nämät 1 &amp;:n
+            säädökset olisivat säätylaissakin. Säätylain kautta on kuitenkin
+            määrätty, mihin toimenpiteisiin viranomaiset saavat ryhtyä, kun
+            tarttuvia eläintauteja liikkuu, ja minun mielestäni pitäisi näissä
+            säädöksissä säätyjen turvata yksityistä niin paljon, etteivät
+            mene hyväksymään sellaisia toimenpiteitä, jotka johtavat mielivaltaan.
+            On mielestäni sopimatonta, että säätylaissa luetellaan muutamia
+            pahempia eläintauteja, mutta pykälän viimeisessä momentissa kuitenkin
+            sanotaan, että, jos muitakin tarttuvia eläintauteja ilmestyy,
+            on hallituksella oikeus julistaa ne samojen sääntöjen alaisiksi;
+            näin ollen en ymmärrä, mitä turvaa siitä on, että säätylaissa
+            pysytetään tällainen pykälä. Päinvastoin säätylakia halvennetaan
+            säädöksillä, jotka käytännössä osoittautuvat sellaisiksi, ettei
+            niitä voi seurata. Sillä eihän säädyt meidän maassa ole niin usein
+            koolla, että, milloin uusi tauti on ilmestynyt, sen ehkäisemiseksi
+            heti voitaisiin ryhtyä säätämään lakia. Siitä olisi vaan tukea
+            sille käsitteelle, että säätylakisäädäntö on epäkäytännöllinen.
+            Sen vuoksi olen valmis, niinkuin edusm. Avellan, sulkemaan 1 $:n
+            pois lakiehdotuksesta ja yhdyn siis vastalauseeseen.
           </seg>
         </u>
         <note xml:id="i-P2GMUC6Xx8g4LGBVpKqLfu" type="speaker">
@@ -16541,9 +16549,9 @@
             jonka esillä oleva pykälä sisältää, olisi otettava säätylakiin.
             Saman asian on keis. senaatin talousosaston esittelijäsihteeri
             senaatille esittänyt. Muuten minun kyllä täytyy tunnustaa, että
-            1 &amp;:n viimeinen momentti kumoo kaiken sen, mitä valiokunta pykälän
-            muissa osissa on tahtonut esittää luetellessaan kaikki nuo eri
-            eläintaudit. Minä sen vuoksi tällä kertaa yhdyn vastalauseeseen,
+            1 &amp;:n viimeinen momentti kumoo kaiken sen, mitä valiokunta
+            pykälän muissa osissa on tahtonut esittää luetellessaan kaikki
+            nuo eri eläintaudit. Minä sen vuoksi tällä kertaa yhdyn vastalauseeseen,
             vaikka olenkin valiokunnassa ollut enemmistön kannalla.
           </seg>
         </u>
@@ -16556,11 +16564,11 @@
         </note>
         <u who="i-yz5WqRw8dv6YYSDpDNaKH">
           <seg>
-            Pyydän vaan saada mainituksi, mitä 1 &amp;n viimeiseen kohtaan tulee,
-            että, ennenkun keis. senaatti voi tämän nojalla minkä taudin hyvänsä
-            julistaa yhtäläiseksi kuin pykälän ensimmäisissä kohdissa luetellut
-            taudit, täytyy ne ensin olla täydellisesti konstateerattu. Jos
-            taas tämä pykälä poistetaan, niin voidaan mitä pieniä tauteja
+            Pyydän vaan saada mainituksi, mitä 1 &amp;n viimeiseen kohtaan
+            tulee, että, ennenkun keis. senaatti voi tämän nojalla minkä taudin
+            hyvänsä julistaa yhtäläiseksi kuin pykälän ensimmäisissä kohdissa
+            luetellut taudit, täytyy ne ensin olla täydellisesti konstateerattu.
+            Jos taas tämä pykälä poistetaan, niin voidaan mitä pieniä tauteja
             tahansa viranomaisten satunnaisesta innosta saada selitetyiksi
             sellaisiksi, että niiden ehkäisemiseksi ryhdytään ankariin toimenpiteisiin.
           </seg>
@@ -16630,11 +16638,12 @@
         <u who="i-43CbwtzFU9fvE1ZC4NayXe">
           <seg>
             Minä kyllä olen sitä mieltä, että säädyillä on täysi oikeus panna
-            säätylakiin ne määräykset, mitkä löytyvät 1 &amp;:ssä, enkä siis pelkää,
-            ettei lakia siitä syystä hyväksyttäisi. Mutta kun esillä olevan
-            pykälän viimeinen momentti mielestäni tavallaan purkaa sen, mitä
-            pykälässä aikaisemmin on sanottu, ja pykälästä mielestäni semmoisenaan
-            ei olisi suurtakaan turvaa, niin liityn siitä syystä vastalauseeseen.
+            säätylakiin ne määräykset, mitkä löytyvät 1 &amp;:ssä, enkä siis
+            pelkää, ettei lakia siitä syystä hyväksyttäisi. Mutta kun esillä
+            olevan pykälän viimeinen momentti mielestäni tavallaan purkaa
+            sen, mitä pykälässä aikaisemmin on sanottu, ja pykälästä mielestäni
+            semmoisenaan ei olisi suurtakaan turvaa, niin liityn siitä syystä
+            vastalauseeseen.
           </seg>
         </u>
         <note xml:id="i-92AHa2ooT6bwxEVUzKTmDq" type="speaker">
@@ -16663,18 +16672,19 @@
             vuoksi ei taida olla ollenkaan noudatettu. Minä luulen, että,
             jos asia jätetään aivan avonaiseksi säätyjen puolelta, voidaan
             saada mahdollisesti yhtä onnettomia määräyksiä myös tällä alalla.
-            Minä pidän 1 &amp;:n määräyksiä tarttuvista taudeista ikäänkuin ohjeena,
-            että juuri siinä luetellut taudit ovat sen luontoisia, joihin
-            tätä asetusta on sovitettava. Pykälän viimeinen momentti minunkin
-            mielestäni, niinkuin edellinen arv. puhuja mainitsi, on paikallaan
-            ja välttämätön; sillä eihän sen kautta jätetä mielivaltaa hallitukselle
-            muiden tautilajien määräämisen suhteen, vaan sanotaan siinä ainoastaan,
-            että jos samanluontoisia tauteja ilmestyy ja ne käyvät niin pahanlaatuisiksi,
-            että niitä voidaan pitää yllä mainittujen tautien vertaisina,
-            silloin senaatin talousosasto voi ryhtyä erityisiin toimenpiteihin.
-            Minä kannatan 1 &amp;:ää sellaisenaan huolimatta siitä, että säädyn
-            valiokunnassa olevat jäsenet ovat Fannustanest, hupaista kyllä,
-            kannattaneensa sitä auktoriteettiuskosta.
+            Minä pidän 1 &amp;:n määräyksiä tarttuvista taudeista ikäänkuin
+            ohjeena, että juuri siinä luetellut taudit ovat sen luontoisia,
+            joihin tätä asetusta on sovitettava. Pykälän viimeinen momentti
+            minunkin mielestäni, niinkuin edellinen arv. puhuja mainitsi,
+            on paikallaan ja välttämätön; sillä eihän sen kautta jätetä mielivaltaa
+            hallitukselle muiden tautilajien määräämisen suhteen, vaan sanotaan
+            siinä ainoastaan, että jos samanluontoisia tauteja ilmestyy ja
+            ne käyvät niin pahanlaatuisiksi, että niitä voidaan pitää yllä
+            mainittujen tautien vertaisina, silloin senaatin talousosasto
+            voi ryhtyä erityisiin toimenpiteihin. Minä kannatan 1 &amp;:ää
+            sellaisenaan huolimatta siitä, että säädyn valiokunnassa olevat
+            jäsenet ovat Fannustanest, hupaista kyllä, kannattaneensa sitä
+            auktoriteettiuskosta.
           </seg>
         </u>
         <note xml:id="i-Jw5vXM7GQqD4ipjxGshqgB" type="speaker">
@@ -16813,8 +16823,8 @@
           äänestysesityksen :
         </note>
         <note xml:id="i-Lfs54PfdtvHMMDfum9MNRT">
-          Se, joka hyväksyy 1 &amp;:n säätylakiesityksessä pysytettäväksi sellaisena
-          kuin valiokunta sen on ehdottanut, äänestää ,jaa*;
+          Se, joka hyväksyy 1 &amp;:n säätylakiesityksessä pysytettäväksi
+          sellaisena kuin valiokunta sen on ehdottanut, äänestää ,jaa*;
         </note>
         <note xml:id="i-EfBZvyWCTHoeiNJH235gUf">
           jos ,ei* voittaa, on sääty päättänyt asetusehdotuksesta poistaa
@@ -17354,11 +17364,11 @@
         </note>
         <note xml:id="i-QW6qyRfn7FLRNF8rQLUdpH">
           esitettyä lausui edusmies Roiha: Minä soisin jossakin paikassa
-          tässä pykälässä määrättäväksi korvausta 3 &amp;:ssä mainituista tavaroista,
-          kuten heinistä, oljista ja pehkuista, jotka viimeksimainitun 8:n
-          viimeisen momentin mukaan tulevat tarttuvien tautien tähden hukattaviksi;
-          sillä jos yksityinen joutuu kaiken tämän kärsimään, tulee hänelle
-          siitä suuri vahinko. N
+          tässä pykälässä määrättäväksi korvausta 3 &amp;:ssä mainituista
+          tavaroista, kuten heinistä, oljista ja pehkuista, jotka viimeksimainitun
+          8:n viimeisen momentin mukaan tulevat tarttuvien tautien tähden
+          hukattaviksi; sillä jos yksityinen joutuu kaiken tämän kärsimään,
+          tulee hänelle siitä suuri vahinko. N
         </note>
         <note xml:id="i-7LmE1SRgpB1KMhcFjuRMhY" type="speaker">
           Edusmies Tuomikoski:
@@ -17450,13 +17460,13 @@
         </u>
         <note xml:id="i-FYq6w1yQPn89AGWQnau7Ee">
           Edusmies Leppänen, Liperin tuomiokunnasta: Minun mielestäni 5
-          &amp; ei ensinkään pane vastaan, että tällaisissakin tapauksissa yleisistä
-          varoista maksetaan korvaus. Eläimen omistaja on velvollinen suorittamaan
-          maksut esim. desinfisioimisesta, mutta. tietysti hän jälestäpäin
-          voi pyytää siitä korvausta valtiolta. Jos. nyt tähän pykälään
-          otettaisiin määräys korvauksesta, ja sellainen määräys lakiin
-          saadaan, niin laki sen kautta ei tule niin epäselväksi, ettei
-          sitä voisi käytäntöön sovelluttaa.
+          &amp; ei ensinkään pane vastaan, että tällaisissakin tapauksissa
+          yleisistä varoista maksetaan korvaus. Eläimen omistaja on velvollinen
+          suorittamaan maksut esim. desinfisioimisesta, mutta. tietysti
+          hän jälestäpäin voi pyytää siitä korvausta valtiolta. Jos. nyt
+          tähän pykälään otettaisiin määräys korvauksesta, ja sellainen
+          määräys lakiin saadaan, niin laki sen kautta ei tule niin epäselväksi,
+          ettei sitä voisi käytäntöön sovelluttaa.
         </note>
         <note xml:id="i-2YbRppyTY8tDoyHVMo1dHi" type="speaker">
           Edusmies Starcke:
@@ -17673,12 +17683,13 @@
         </note>
         <note xml:id="i-7pr96AsvE53eUkazc7vCPJ">
           josta edusmies Fellman lausui: Esillä olevan luvun 27 S:ää en
-          tahtoisi hyväksyä sillä arm. esityksen 27 &amp;:n ensimmäisessä momentissa
-          on määrätty, että maito sellaisesta karjasta, jossa on havaittu
-          tuberkuloosia, on kuumennettava vähintäin 85 Celsiuksen asteen
-          lämpöiseksi. Tämä määräys koskee liian ankarasti sellaisia tiloja,
-          joissa valmistetaan ainoastaan juustoa, sillä juustoa ei voi valmistaa
-          maidosta, jota on kuumennettu yli 50 tai 55 Celsiuksen asteen.
+          tahtoisi hyväksyä sillä arm. esityksen 27 &amp;:n ensimmäisessä
+          momentissa on määrätty, että maito sellaisesta karjasta, jossa
+          on havaittu tuberkuloosia, on kuumennettava vähintäin 85 Celsiuksen
+          asteen lämpöiseksi. Tämä määräys koskee liian ankarasti sellaisia
+          tiloja, joissa valmistetaan ainoastaan juustoa, sillä juustoa
+          ei voi valmistaa maidosta, jota on kuumennettu yli 50 tai 55 Celsiuksen
+          asteen.
         </note>
         <note xml:id="i-2kiQwYeqUDniAN2vPLRiKP" type="speaker">
           Edusmies Perho:
@@ -18072,11 +18083,11 @@
             Viime istunnossa pyytäessäni puheenvuoroa oli kysymyksessä periaatteellinen
             keskustelu. Koska nyt on esitetty 1 &amp;, en tahdo yleiskeskustelua
             jatkaa, vaan puheenvuoro kun minulla on, tahdon lausua mielipiteeni
-            1 &amp;:n johdosta. Siinä minä olen aivan erilaisella kannalla kuin
-            viimeisen edellinen puhuja, edusm. Avellan. Hänen mielestään valiokunnan
-            perustelut ovat löyhiä ja perättömiä; minun mielestäni jotkut
-            kohdat niissä ovat hyvinkin sitovia. Kun valiokunta lausuu, että
-            luterilaisten vanhempain lasta, vaikka vanhemmat ovat jättäneetkin
+            1 &amp;:n johdosta. Siinä minä olen aivan erilaisella kannalla
+            kuin viimeisen edellinen puhuja, edusm. Avellan. Hänen mielestään
+            valiokunnan perustelut ovat löyhiä ja perättömiä; minun mielestäni
+            jotkut kohdat niissä ovat hyvinkin sitovia. Kun valiokunta lausuu,
+            että luterilaisten vanhempain lasta, vaikka vanhemmat ovat jättäneetkin
             hänet kastamatta, ei voi pitää vieraana luterilaiselle kirkolle,
             niin edusm. Avellanin katsantokannan mukaan näkyy se olevan aivan
             oikeuden ja kohtuuden mukaista, että heidät jätetään oman onnensa
@@ -18129,11 +18140,11 @@
             Käsillä oleva lakiehdotus on siksi arka asia, että minä, jos
             voisinkin, en tahdo vaikuttaa kehenkään. Pyydän ainoastaan ilmoittaa
             oman kantani ja supistan sen vuoksi lausuntoni aivan muutamaan
-            sanaan. Minä hyväksyn valiokunnan ehdottaman 1 &amp;:n. Olisin kuitenkin
-            tahtonut tehdä siihen pienen muutoksen, jos olisin uskonut, että
-            sillä olisi mitään menestystä. Ehdottaisin, että sanat , voidaan
-            antaa" vaihdettaisiin sanoiksi ,on annettava* sekä että sana ,myöskin*
-            poistettaisiin pykälästä.
+            sanaan. Minä hyväksyn valiokunnan ehdottaman 1 &amp;:n. Olisin
+            kuitenkin tahtonut tehdä siihen pienen muutoksen, jos olisin uskonut,
+            että sillä olisi mitään menestystä. Ehdottaisin, että sanat ,
+            voidaan antaa" vaihdettaisiin sanoiksi ,on annettava* sekä että
+            sana ,myöskin* poistettaisiin pykälästä.
           </seg>
         </u>
         <note xml:id="i-JDC2airK3rgULV6F8yqf2q" type="speaker">
@@ -18173,31 +18184,32 @@
             lapsia. Kun valiokunta on koettanut tehdä tätä rekisteriasetusta,
             joka sopisi näihin molempiin, niin valiokunnan ehdottaman 1 8:n
             ensimmäinen lause tarkoittaa juuri sitä, että nämä ulkomaalaiset,
-            joita asetusehdotuksen 5 &amp;:ssä mainitaan, kuuluisivat siihen rekisterinpitoon,
-            joka olisi virallisesti hallituksen määrättävä. Mutta sitten valiokunnan
-            enemmistö on katsonut velvollisuudekseen, että näiden luterilaisten
-            vanhempain lapsia, jotka itsekin vielä löytyvät luterilaisen kirkon
-            kirjoissa, pitää kirjoissa luterilainen papisto. Valiokunnan enemmistö
-            on ollut siinä toivossa, että luterilaisen kirkon papit eivät
-            vastustaisi tämmöistä aivan oikeutettua pyyntöä. Se kuitenkin
-            lienee heidän vallassaan, jos he tahtovat siihen suostua tai ei.
-            Mitä tulee siihen, että täällä on vastustettu, että luterilainen
-            papisto ei ole oikea rekisterin pitäjä, niin kyllä minun mielestäni
-            se olisi ensi kädessä oikea, sillä koska papisto pitää luetteloa
-            vanhemmista, niin luonnollista olisi, että se pitäisi sitä myös
-            lapsista, koska ne ovat yhtä ja samaa perhettä. Eihän ole lasten
-            syy, jos vanhemmat eivät ole antaneet heitä kastaa; kun lapset
-            sitten tulevat 15 vuoden vanhaksi, he saavat, niinkuin esitetään,
-            itse päättää, mihin uskontokuntaan he tahtovat mennä, mutta jos
-            itse eivät tahdo päättää, niin se tulee tapahtumaan 21 vuoden
-            ijässä, jolloin heidän tulee erota luterilaisen kirkon yhteydestä.
-            On sanottu, että pykälä on epäselvä, että siitä ei käy oikein
-            selville tämä ajatus, mutta jos lukee valiokunnan mietinnön 14,
-            15 ja 16 sivuilla olevat perustelmat, niin käypi täydellisesti
-            selville, että papisto tulisi pitämään rekisteriä ainoastaan luterilaisten
-            lapsista. Jos pykälä tarvitsee selvitystä, niin en ole sitä vastaan,
-            että pykälä lykätään takaisin valiokuntaan. Toivoisin kuitenkin,
-            että sääty hyväksyisi käsillä olevan 1 8:n semmoisenaan.
+            joita asetusehdotuksen 5 &amp;:ssä mainitaan, kuuluisivat siihen
+            rekisterinpitoon, joka olisi virallisesti hallituksen määrättävä.
+            Mutta sitten valiokunnan enemmistö on katsonut velvollisuudekseen,
+            että näiden luterilaisten vanhempain lapsia, jotka itsekin vielä
+            löytyvät luterilaisen kirkon kirjoissa, pitää kirjoissa luterilainen
+            papisto. Valiokunnan enemmistö on ollut siinä toivossa, että luterilaisen
+            kirkon papit eivät vastustaisi tämmöistä aivan oikeutettua pyyntöä.
+            Se kuitenkin lienee heidän vallassaan, jos he tahtovat siihen
+            suostua tai ei. Mitä tulee siihen, että täällä on vastustettu,
+            että luterilainen papisto ei ole oikea rekisterin pitäjä, niin
+            kyllä minun mielestäni se olisi ensi kädessä oikea, sillä koska
+            papisto pitää luetteloa vanhemmista, niin luonnollista olisi,
+            että se pitäisi sitä myös lapsista, koska ne ovat yhtä ja samaa
+            perhettä. Eihän ole lasten syy, jos vanhemmat eivät ole antaneet
+            heitä kastaa; kun lapset sitten tulevat 15 vuoden vanhaksi, he
+            saavat, niinkuin esitetään, itse päättää, mihin uskontokuntaan
+            he tahtovat mennä, mutta jos itse eivät tahdo päättää, niin se
+            tulee tapahtumaan 21 vuoden ijässä, jolloin heidän tulee erota
+            luterilaisen kirkon yhteydestä. On sanottu, että pykälä on epäselvä,
+            että siitä ei käy oikein selville tämä ajatus, mutta jos lukee
+            valiokunnan mietinnön 14, 15 ja 16 sivuilla olevat perustelmat,
+            niin käypi täydellisesti selville, että papisto tulisi pitämään
+            rekisteriä ainoastaan luterilaisten lapsista. Jos pykälä tarvitsee
+            selvitystä, niin en ole sitä vastaan, että pykälä lykätään takaisin
+            valiokuntaan. Toivoisin kuitenkin, että sääty hyväksyisi käsillä
+            olevan 1 8:n semmoisenaan.
           </seg>
         </u>
         <note xml:id="i-CmnCdWPPASyX2sxQugh7mL" type="speaker">
@@ -18205,17 +18217,18 @@
         </note>
         <u who="i-T2NvVpCbguQDo4BsdWUvRd">
           <seg>
-            Mitä tähän 1 &amp;:ään tulee, olen sitä mieltä, että se olisi uudestaan
-            muodostettava arm. esityksen 1 &amp;:n mukaiseksi. Valiokunnan lisäämä
-            määräys siitä, että rekisterinpito kastamattomista lapsista, joiden
-            vanhemmat ovat evankelisluterilaisen kirkon jäseniä, voidaan myöskin
-            antaa tämän kirkon papiston tehtäväksi siihen asti kuin sellainen
-            lapsi tulee 21 vuoden vanhaksi, on mielestäni epäonnistunut, koska
-            siten saataisiin sekä kirkollisia että yhteiskunnallisia rekisterin
-            pitäjiä kastamattomille lapsille, ja sen ohessa tämä määräys olisi
-            varsin epätäydellinen ja vaillinainen, kun ei siinä sanota, mitä
-            sitten on tehtävä, kun tämä täysi-ikäinen kastamaton ei anna kastaa
-            itseään eikä myöskään suvaitse astua ulos kirkosta. Ainakin
+            Mitä tähän 1 &amp;:ään tulee, olen sitä mieltä, että se olisi
+            uudestaan muodostettava arm. esityksen 1 &amp;:n mukaiseksi. Valiokunnan
+            lisäämä määräys siitä, että rekisterinpito kastamattomista lapsista,
+            joiden vanhemmat ovat evankelisluterilaisen kirkon jäseniä, voidaan
+            myöskin antaa tämän kirkon papiston tehtäväksi siihen asti kuin
+            sellainen lapsi tulee 21 vuoden vanhaksi, on mielestäni epäonnistunut,
+            koska siten saataisiin sekä kirkollisia että yhteiskunnallisia
+            rekisterin pitäjiä kastamattomille lapsille, ja sen ohessa tämä
+            määräys olisi varsin epätäydellinen ja vaillinainen, kun ei siinä
+            sanota, mitä sitten on tehtävä, kun tämä täysi-ikäinen kastamaton
+            ei anna kastaa itseään eikä myöskään suvaitse astua ulos kirkosta.
+            Ainakin
           </seg>
         </u>
         <pb facs="https://swerik-project.github.io/valtiopaivat-records-pdf/1900/ptk_1900_talonpojat_II/ptk_1900_talonpojat_II-0304"/>
@@ -18244,9 +18257,9 @@
         <u who="i-W94aUY8NPZQ7m8XGzCsgvN">
           <seg>
             Minunkin huomioni samaten kuin edellisten arv. puhujain on kiintynyt
-            tämän asetusehdotuksen 1 &amp;:n suhteen siihen kohtaan, jossa valiokunta
-            on tehnyt uuden, arm. esityksestä poikkeavan ehdotuksen, kun se
-            nimittäin yhden osan siviilirekisteriin pantavien henkilöiden
+            tämän asetusehdotuksen 1 &amp;:n suhteen siihen kohtaan, jossa
+            valiokunta on tehnyt uuden, arm. esityksestä poikkeavan ehdotuksen,
+            kun se nimittäin yhden osan siviilirekisteriin pantavien henkilöiden
             rekisteröimisestä jättää evankelisluterilaisen seurakunnan papeille.
             Kun maamme hallitus jätti käsillä olevaa asiaa koskevan asetusehdotuksen
             viime kirkolliskokoukselle, niin siinä ehdotuksessa ei ollut myöskään
@@ -18287,8 +18300,8 @@
           tahdo niille kirkon opetusta. Kun tunnettua on, että papisto on
           tätä vastaan, niin minun mielestäni on epäjohdonmukaista papistoa
           siihen nimenomaan pakottaa, vaan mielestäni olisi hyväksyttävä
-          täydellisesti arm. esitys 1 &amp;:ään nähden. Muuten koko tämä asia
-          on niin vastenmielistä laatua, että siihen pelvolla ja arkuudella
+          täydellisesti arm. esitys 1 &amp;:ään nähden. Muuten koko tämä
+          asia on niin vastenmielistä laatua, että siihen pelvolla ja arkuudella
           käsiksi käy. Jos sitä katselee yhteiskunnalliselta näkökannalta,
           niin onhan tosin myönnettävä, että tuommoinen luetteloiminen on
           tarpeellinen ja välttämätön, mutta jos sitä katselee uskonnolliselta
@@ -18401,16 +18414,17 @@
         </note>
         <note xml:id="i-5pDgaBajrBDJ7kNHXSUk6f">
           Minä en aluksi pannut mitään merkitystä siihen, että valiokunta
-          oli 1 &amp;:stä pyyhkinyt pois sanan , yhteiskunnallinen*, mutta ainakin
-          sen mukaan mitä sanomalehdet kertovat, on siitä annettu niin sanoakseni
-          virallinen selitys, kun valiokunnan puheenjohtaja ritaristossa
-          ja aatelissa ilmoitti, että se todellakin tarkoittaa, että hallituksella
-          olisi mahdollisuus määrätä maassa asianomaisesti perustettuun
-          kirkkoyhdyskuntaan kuulumattomienkin rekisterissä pitäminen luterilaisen
-          papiston tehtäväksi. Siis luterilainen papisto täydelliseksi rekisterivirastoksi!
-          Tämän perusteeksi mainitaankin valiokunnan mietinnössä, että kyllä
-          ne sentään ovat luotettavampia rekisterin pitäjiä nuo papit kuin
-          mikään muu viranomainen. Kelpaa ne papit sentään johonkin!
+          oli 1 &amp;:stä pyyhkinyt pois sanan , yhteiskunnallinen*, mutta
+          ainakin sen mukaan mitä sanomalehdet kertovat, on siitä annettu
+          niin sanoakseni virallinen selitys, kun valiokunnan puheenjohtaja
+          ritaristossa ja aatelissa ilmoitti, että se todellakin tarkoittaa,
+          että hallituksella olisi mahdollisuus määrätä maassa asianomaisesti
+          perustettuun kirkkoyhdyskuntaan kuulumattomienkin rekisterissä
+          pitäminen luterilaisen papiston tehtäväksi. Siis luterilainen
+          papisto täydelliseksi rekisterivirastoksi! Tämän perusteeksi mainitaankin
+          valiokunnan mietinnössä, että kyllä ne sentään ovat luotettavampia
+          rekisterin pitäjiä nuo papit kuin mikään muu viranomainen. Kelpaa
+          ne papit sentään johonkin!
         </note>
         <note xml:id="i-NqrC3PiD2obyQ8JMXrWdHd">
           Valiokunta on epäilemättä varsin vapaamielinen, mutta ei se sentään
@@ -18693,18 +18707,18 @@
             Sen johdosta kun 1 $:ssä sanotaan, että kastamattomat lapset
             tulee pitää rekisterissä siihen asti kun he tulevat yhdenkolmatta
             vuoden ikään, on edusm. Forsman kysynyt, mihin nämät lapset sitte
-            joutuvat. Tähän pyydän huomauttaa, että 11 &amp;:ssä sanotaan, että
-            senaatin asiana on antaa ne lähemmät määräykset, jotka tämän asetuksen
-            käytäntöön panemiseen tarvitaan. Siis juuri tämä 11 &amp; määrää,
-            mihin tällaiset henkilöt joutuvat. — Mitä tulee siihen mitä edusm.
-            Wärri lausui, että valiokunta ehkä sääliväisyydestä lapsia kohtaan
-            on muodostanut tällaisen pykälän, niin kyllä asianlaita niin onkin.
-            Sillä lapset ovat aivan viattomat ja voivathan heidän vanhempansa
-            kieltää heiltä koulut ja muun opetuksen. Vaan jos he olisivat
-            luterilaisen papiston rekisterissä, ehkä he kuitenkin saisivat
-            kristillistä kasvatusta, vaikka kasvatuksen antaminen ei oikeastaan
-            kuuluisikaan papiston velvollisuuteen. Kunnallisneuvos Meurman
-            lausui, että hän sanomalehdissä on huomannut, että lakivaliokunnan
+            joutuvat. Tähän pyydän huomauttaa, että 11 &amp;:ssä sanotaan,
+            että senaatin asiana on antaa ne lähemmät määräykset, jotka tämän
+            asetuksen käytäntöön panemiseen tarvitaan. Siis juuri tämä 11
+            &amp; määrää, mihin tällaiset henkilöt joutuvat. — Mitä tulee
+            siihen mitä edusm. Wärri lausui, että valiokunta ehkä sääliväisyydestä
+            lapsia kohtaan on muodostanut tällaisen pykälän, niin kyllä asianlaita
+            niin onkin. Sillä lapset ovat aivan viattomat ja voivathan heidän
+            vanhempansa kieltää heiltä koulut ja muun opetuksen. Vaan jos
+            he olisivat luterilaisen papiston rekisterissä, ehkä he kuitenkin
+            saisivat kristillistä kasvatusta, vaikka kasvatuksen antaminen
+            ei oikeastaan kuuluisikaan papiston velvollisuuteen. Kunnallisneuvos
+            Meurman lausui, että hän sanomalehdissä on huomannut, että lakivaliokunnan
             puheenjohtaja on muka selittänyt, että koko rekisterinpidon voisi
             jättää luterilaiselle papistolle. Kyllä se mahtaa olla joku sanomalehtierehdys,
             sillä ei valiokunnassa ole koskaan mitään sellaista esiintuotu
@@ -18966,10 +18980,10 @@
             joiden etsiminen -oikeastaan kuuluukin papiston virkavelvollisuuteen,
             niin minä luulisin, että moni näistä kastamattomista lapsista
             vartuttuaan ijässä ja ymmärryksessä antaisi itsensä kastaa ja
-            palaisi seurakunnan yhteyteen. Koska nyt mietinnön 1 &amp;:ssä juuri
-            ehdotetaan, että rekisterin pitäminen myöskin voitaisiin antaa
-            evankelisluterilaisen seurakunnan papistolle, hyväksyn minä 1
-            &amp;n -semmoisena kuin valiokunta sen on ehdottanut.
+            palaisi seurakunnan yhteyteen. Koska nyt mietinnön 1 &amp;:ssä
+            juuri ehdotetaan, että rekisterin pitäminen myöskin voitaisiin
+            antaa evankelisluterilaisen seurakunnan papistolle, hyväksyn minä
+            1 &amp;n -semmoisena kuin valiokunta sen on ehdottanut.
           </seg>
         </u>
         <note xml:id="i-YXYqGN1K8QP9zhTs1Z8fgP" type="speaker">
@@ -19151,14 +19165,14 @@
         <note xml:id="i-UzuAiQmGNZ6xskXgxu8DFo">
           Se, joka vastaesitykseksi valiokunnan ehdottamalle 1 8:n muodostukselle
           hyväksyy edusmies Avellanin keskustelussa esittämän sanamuodostuksen
-          1 &amp;:ksi, jonka mukaan sen pykälän ensimmäinen kohta tulisi kuulumaan:
-          ,Suomen kansalaisista, jotka eivät kuulu mihinkään maassa asianmukaisesti
-          perustettuun kirkkoyhdyskuntaan, on yhteiskunnallisen viranomaisen
-          pitäminen virallista rekisveriä", kuin myös toisen kohdan 2) ,henkilörekisteri,
-          jossa on mainittava soveltuvat kohdat niistä tiedoista, mitkä
-          evankelisluterilaisen papiston pitämän pääkirjan tulee sisältää”,
-          vaan pykälä muutoin jäisi semmoiseksi kuin valiokunta sen on laatinut,
-          äänestää ,jaa*;
+          1 &amp;:ksi, jonka mukaan sen pykälän ensimmäinen kohta tulisi
+          kuulumaan: ,Suomen kansalaisista, jotka eivät kuulu mihinkään
+          maassa asianmukaisesti perustettuun kirkkoyhdyskuntaan, on yhteiskunnallisen
+          viranomaisen pitäminen virallista rekisveriä", kuin myös toisen
+          kohdan 2) ,henkilörekisteri, jossa on mainittava soveltuvat kohdat
+          niistä tiedoista, mitkä evankelisluterilaisen papiston pitämän
+          pääkirjan tulee sisältää”, vaan pykälä muutoin jäisi semmoiseksi
+          kuin valiokunta sen on laatinut, äänestää ,jaa*;
         </note>
         <note xml:id="i-6j4kqtBVPeQnTQjLGqMuU8">
           jos wei* voittaa, on sääty kysymyksenä olevassa tarkoituk-
@@ -19231,8 +19245,8 @@
           3) äänestysesityksen :
         </note>
         <note xml:id="i-CyFqDChL8rMdoBoFTvuJAo">
-          Se, joka hyväksyy 1 &amp;:n käsiteltävänä olevassa valiokunnan laatimassa
-          asetusehdotuksessa, äänestää ,jaa*;
+          Se, joka hyväksyy 1 &amp;:n käsiteltävänä olevassa valiokunnan
+          laatimassa asetusehdotuksessa, äänestää ,jaa*;
         </note>
         <note xml:id="i-BAH62EVKdabGKYWRpD4dp">
           jos ,ei* voittaa, on sääty päättänyt hyväksyä tämän pykälän niin
@@ -19324,8 +19338,8 @@
           saatuaan
         </note>
         <note xml:id="i-7p2DftAyrNiiY6fbkq3W7f">
-          edusmies Teittinen: Tämän 4 &amp;:n toisessa lauseessa sanotaan ,
-          asianomaisen edusmiehen vaatiessa pitää viralliseen rekis-
+          edusmies Teittinen: Tämän 4 &amp;:n toisessa lauseessa sanotaan
+          , asianomaisen edusmiehen vaatiessa pitää viralliseen rekis-
         </note>
         <pb facs="https://swerik-project.github.io/valtiopaivat-records-pdf/1900/ptk_1900_talonpojat_II/ptk_1900_talonpojat_II-0322"/>
         <note xml:id="i-2FLKuHLMkBpWyB6QktJEMe">
@@ -19349,10 +19363,10 @@
           ensimmäiseen vastalauseeseen. Pyytäisin sen vuoksi kiinnittää
           talonpoikaissäädyn huomiota tähän vastalauseeseen ja ehdotan,
           että puheena oleva pykälä tulisi hyväksytyksi tämän vastalauseen
-          mukaan. Vastalauseessä olevan 4 &amp;:n toinen momentti alkaa näin:
-          ,Evankelisluterilaisten vanhempain lapsi on voimassa olevan kirkkolain
-          määräysten mukaan opetettava evankelisluterilaisessa uskonopissa*
-          j. n. e.
+          mukaan. Vastalauseessä olevan 4 &amp;:n toinen momentti alkaa
+          näin: ,Evankelisluterilaisten vanhempain lapsi on voimassa olevan
+          kirkkolain määräysten mukaan opetettava evankelisluterilaisessa
+          uskonopissa* j. n. e.
         </note>
         <note xml:id="i-Ns5dMyfW7B7392vszWkKb3" type="speaker">
           Edusmies Pitkänen:
@@ -19423,8 +19437,8 @@
           äänestysesitys :
         </note>
         <note xml:id="i-PRr4yfgkds3WwetfBGDSeM">
-          Se, joka hyväksyy 4 &amp;:n esillä olevassa valiokunnan laati-- massa
-          asetusehdotuksessa, äänestää "jaa";
+          Se, joka hyväksyy 4 &amp;:n esillä olevassa valiokunnan laati--
+          massa asetusehdotuksessa, äänestää "jaa";
         </note>
         <note xml:id="i-69CUM73CcZc9d4cfJZzr9u">
           jos ,ei* voittaa, on sääty hyväksynyt puheena olevan pykälän
@@ -20373,8 +20387,8 @@
           käsitellään.
         </note>
         <note xml:id="i-RjGyuVQ55Jmn2Xud8stynd">
-          1 &amp; olisi mielestäni muutettava täydellisesti yhtäpitäväksi kunnallisen
-          itsehallinnon vapauden periaatteen kanssa.
+          1 &amp; olisi mielestäni muutettava täydellisesti yhtäpitäväksi
+          kunnallisen itsehallinnon vapauden periaatteen kanssa.
         </note>
         <note xml:id="i-9eFxLccZupx9GwNtrPg4R3">
           Yhdenmukaisuuden saavuttamiseksi tulisi kaupungissa raastuvankokouksen
@@ -20452,8 +20466,8 @@
         <u who="i-A3iNU74qwgCMgUUvCNEK5W">
           <seg>
             Edusm. Huoponen on jo tehnyt sen ehdotuksen, minkä minäkin olin
-            aikonut esillä olevan asetusehdotuksen 1 &amp;:n ensi kohtaan tehdä.
-            Pyydän sentähden sitä täydellisesti kannattaa ja sitä suuremmalla
+            aikonut esillä olevan asetusehdotuksen 1 &amp;:n ensi kohtaan
+            tehdä. Pyydän sentähden sitä täydellisesti kannattaa ja sitä suuremmalla
             mielihyvällä, kun olen asukkaana sellaisessa kunnassa, jossa myös
             on oluttehdas, joten olen ollut tilaisuudessa näkemään sitä turmiollista
             vaikutusta, joka sillä on ympäristöönsä. i
@@ -20475,10 +20489,10 @@
         </note>
         <note xml:id="i-8SmuUCgUsmPgDFJ3wq6UfD">
           mälle kuin edusm. Huoposen nyt tekemä ehdotus, jota pyydän saada
-          kannattaa. Koska nyt on tullut puhe asetusehdotuksen 1 &amp;:n ensimmäisestä
-          momentista, tahdon siihen ehdottaa sellaisen muutoksen, että sanat
-          ,kaupunginvaltuusmiehet tahi, missä niitä ei ole", jätettäisiin
-          pois, joten momentti tulisi kuulumaan näin: » Mallasjuomatehdasta
+          kannattaa. Koska nyt on tullut puhe asetusehdotuksen 1 &amp;:n
+          ensimmäisestä momentista, tahdon siihen ehdottaa sellaisen muutoksen,
+          että sanat ,kaupunginvaltuusmiehet tahi, missä niitä ei ole",
+          jätettäisiin pois, joten momentti tulisi kuulumaan näin: » Mallasjuomatehdasta
           älköön perustettako kaupunkiin tahi maalle, jolleivät kaupungissa
           raastuvankokous ja maalla kuntakokous ole siihen suostumustansa
           antaneet.* Minä teen tällaisen muutosehdotuksen sitä suuremmalla
@@ -20615,8 +20629,8 @@
           jäseniä niissä suurissa parvissa, jotka kenties eivät ole niin
           tarkoin miettineet, mihin mielenosotukset voivat viedä. Samalla
           tahdon huomauttaa sitä, että kysymyksenä olevan asetusehdotuksen
-          2 &amp;:n viime kohta antaisi myöskin jonkinlaista turvaa sille, ettei
-          tulisi päätöksiä tehdyksi, jotka aiheuttaisivat omanvoitonpyyntiä,
+          2 &amp;:n viime kohta antaisi myöskin jonkinlaista turvaa sille,
+          ettei tulisi päätöksiä tehdyksi, jotka aiheuttaisivat omanvoitonpyyntiä,
           kun nimittäin, milloin kaupunginvaltuusmiehet tai raastuvankokous
           käsittelevät mallasjuomain myyntiä koskevia asioita, kielletään
           mallasjuomatehtaiden omistajia ja mallasjuomain myyjiä ottamasta
@@ -20776,8 +20790,8 @@
           Äänestysesitys:
         </note>
         <note xml:id="i-2vMvHVrnZxBKyrvw4gABAX">
-          Se, joka hyväksyy 1 &amp;:n 1 momentin valiokunnan laatimassa asetusehdotuksessa,
-          äänestää ,jaa*;
+          Se, joka hyväksyy 1 &amp;:n 1 momentin valiokunnan laatimassa
+          asetusehdotuksessa, äänestää ,jaa*;
         </note>
         <note xml:id="i-8VKQWNRN31iaLvvNQNBzXi">
           jos ,ei* voittaa, on sääty hyväksynyt edusmies Landgrenin ehdotuksen,
@@ -21009,21 +21023,21 @@
         <u who="i-HAkXw2e7ETu7AUjeewEWfr">
           <seg>
             Koska edusm. Meurman, jota minä suuresti kunnioitan, käsitellessään
-            mallasjuoma-asetuksen 2 &amp;:ää, on nähnyt soveliaaksi pitää sen
-            puheen, jota me äsken kaikki olemme suurella tarkkuudella kuunnelleet,
-            niin minun täytyy tunnustaa, että minä puolestani en ole varma
-            siitä, oliko se juuri tässä yhteydessä paikallaan. Sen mukaan
-            kuin minä olen jaksanut seurata tämän asian kulkua, minä en voi
-            muistaa, ovatko nämä mielenosoituskokoukset, joita on kaikkialla
-            pidetty ja joita syystä on moitittu, tähdänneet kysymyksessä olevaa
-            asiaa. Minä luulen, että ne ovat koskeneet kysymystä kunnallisesta
-            kieltooikeudesta ja yleisestä kieltolaista, jotka esitykset talousvaliokunta
-            oli päättänyt ehdottaa hyljättäviksi. Kun näitä asioita aikoinaan
-            tullaan säädyssä käsittelemään, silloin olisi minun nähdäkseni
-            enemmän paikallaan kosketella näitä mielenosoituksia ja minä puolestani
-            tahdon koettaa silloin tarkemmin esiintuoda periaatteellisen kantani
-            asiassa. En kuitenkaan voi, koska kysymys kerran on nostettu,
-            olla asiasta jo nyt lausumatta pari sanaa.
+            mallasjuoma-asetuksen 2 &amp;:ää, on nähnyt soveliaaksi pitää
+            sen puheen, jota me äsken kaikki olemme suurella tarkkuudella
+            kuunnelleet, niin minun täytyy tunnustaa, että minä puolestani
+            en ole varma siitä, oliko se juuri tässä yhteydessä paikallaan.
+            Sen mukaan kuin minä olen jaksanut seurata tämän asian kulkua,
+            minä en voi muistaa, ovatko nämä mielenosoituskokoukset, joita
+            on kaikkialla pidetty ja joita syystä on moitittu, tähdänneet
+            kysymyksessä olevaa asiaa. Minä luulen, että ne ovat koskeneet
+            kysymystä kunnallisesta kieltooikeudesta ja yleisestä kieltolaista,
+            jotka esitykset talousvaliokunta oli päättänyt ehdottaa hyljättäviksi.
+            Kun näitä asioita aikoinaan tullaan säädyssä käsittelemään, silloin
+            olisi minun nähdäkseni enemmän paikallaan kosketella näitä mielenosoituksia
+            ja minä puolestani tahdon koettaa silloin tarkemmin esiintuoda
+            periaatteellisen kantani asiassa. En kuitenkaan voi, koska kysymys
+            kerran on nostettu, olla asiasta jo nyt lausumatta pari sanaa.
           </seg>
         </u>
         <note xml:id="i-LPkRSydHzr77nGPiwrBJ9U">
@@ -21088,9 +21102,9 @@
         <u who="i-F3aUsRbXiCkZyhMHWkHLbZ">
           <seg>
             Puheenvuoroa pyysin ainoastaan huomauttaakseni, että vastalauseesta
-            äänestettäisiin kokonaisuudessaan, koska se koskee 2 &amp;:n 1, 2
-            ja 3 momenttia, mutta siitä on Puhemies jo tehnyt esityksen. Toivoisin,
-            että sääty hyväksyisi vastalauseen kokonaisuudessaan.
+            äänestettäisiin kokonaisuudessaan, koska se koskee 2 &amp;:n 1,
+            2 ja 3 momenttia, mutta siitä on Puhemies jo tehnyt esityksen.
+            Toivoisin, että sääty hyväksyisi vastalauseen kokonaisuudessaan.
           </seg>
         </u>
         <note xml:id="i-3d3knjbhw9TRJugmDukytd" type="speaker">
@@ -21876,8 +21890,8 @@
           äänestysesityksen:
         </note>
         <note xml:id="i-D6HBGW7Q5JhJnqUYvh9wLG">
-          Se, joka hyväksyy esillä olevan asetusehdotuksen 14 &amp;n 3 kohdan
-          valiokunnan mietinnön mukaan, äänestää ,jaa*;
+          Se, joka hyväksyy esillä olevan asetusehdotuksen 14 &amp;n 3
+          kohdan valiokunnan mietinnön mukaan, äänestää ,jaa*;
         </note>
         <note xml:id="i-SGHYQr5hKFXRh5TbyGjbo3">
           jos yei* voittaa, on sääty hyväksynyt edusmies Torpan ehdotuksen,
@@ -26680,9 +26694,9 @@
           kannatusta, niinkuin valiokunnan perustelmistakin näkyy. Mietinnön
           17 sivulla ensimmäisen kappaleen viimeisessä kohdassa lausuu nimittäin
           valiokunta: ,Vähemmistö valiokunnassa on kumminkin ollut sitä
-          mieltä, että mihinkään muutokseen ohjesäännön 3 &amp;:n suhteen ei
-          pitäisi ryhtyä". Koska minä kuuluin tähän vähemmistöön, en voi
-          olla lausumatta mielipidettäni tässä asiassa.
+          mieltä, että mihinkään muutokseen ohjesäännön 3 &amp;:n suhteen
+          ei pitäisi ryhtyä". Koska minä kuuluin tähän vähemmistöön, en
+          voi olla lausumatta mielipidettäni tässä asiassa.
         </note>
         <note xml:id="i-5JmRfhCZg7vucUUYci9CUc">
           Valiokunta on ymmärtääkseni tehnyt tämän muutosehdotuksen ilman
@@ -26986,17 +27000,17 @@
         <note xml:id="i-Gjv6B6X4j9KpdCPU2pkRne">
           &gt; , Edusmies Pitkänen: Minä kannatan täydellisesti niitä mielipiteitä,
           mitä edusm. Danielson on tässä asiassa lausunut. En tahtoisi kuitenkaan
-          sen pitemmälle muutoksissa mennä kuin mitä 3 &amp;:ssä pankin kantarahaston
-          suhteen on ehdotettu, ja tulen siis hyväksymään 3 $:n valiokunnan
-          ehdotuksen mukaan. Minusta on pankin toiminnalle paljon turvallisempaa,
-          että on jo ohjesäännössä sanottu, miten suuri pankin kantarahaston
-          määrä on, sillä silloin tietysti liiketutut, jotka pankin kanssa
-          ovat asioissa, varsinkin ulkomaalaiset, saavat varmemman vakuutuksen
-          siitä, miten suuri pankin vakavuus on, ja tietysti pankille on
-          tästä paljon hyötyä. — Mitä niihin varomisiin tulee, joita edusm.
-          Fellman toi esille, en luule niillä olevan niin suurta merkitystä,
-          että niiden tähden olisi valiokunnan ehdotus hylättävä. Minä puolestani
-          kannatan valiokunnan ehdotusta.
+          sen pitemmälle muutoksissa mennä kuin mitä 3 &amp;:ssä pankin
+          kantarahaston suhteen on ehdotettu, ja tulen siis hyväksymään
+          3 $:n valiokunnan ehdotuksen mukaan. Minusta on pankin toiminnalle
+          paljon turvallisempaa, että on jo ohjesäännössä sanottu, miten
+          suuri pankin kantarahaston määrä on, sillä silloin tietysti liiketutut,
+          jotka pankin kanssa ovat asioissa, varsinkin ulkomaalaiset, saavat
+          varmemman vakuutuksen siitä, miten suuri pankin vakavuus on, ja
+          tietysti pankille on tästä paljon hyötyä. — Mitä niihin varomisiin
+          tulee, joita edusm. Fellman toi esille, en luule niillä olevan
+          niin suurta merkitystä, että niiden tähden olisi valiokunnan ehdotus
+          hylättävä. Minä puolestani kannatan valiokunnan ehdotusta.
         </note>
         <note xml:id="i-EwKSzFeVrgT8EpWhGouf65" type="speaker">
           Edusmies Meurman:
@@ -27206,8 +27220,8 @@
         </note>
         <u who="i-yz5WqRw8dv6YYSDpDNaKH">
           <seg>
-            Minä kyllä myönnän, etvä 18 &amp;:n viimeisessä kohdassa sanat ,välttämättömästi*
-            ja ,väliaikaisesti* eivät
+            Minä kyllä myönnän, etvä 18 &amp;:n viimeisessä kohdassa sanat
+            ,välttämättömästi* ja ,väliaikaisesti* eivät
           </seg>
         </u>
         <pb facs="https://swerik-project.github.io/valtiopaivat-records-pdf/1900/ptk_1900_talonpojat_II/ptk_1900_talonpojat_II-0451"/>
@@ -27975,11 +27989,11 @@
           Hermansonin pyynnöstä saan ilmoittaa, että, sittenkun vesioikeusvaliokunnan
           mietintö n:o 1 on säädylle jaettu, säädyn sopii ruveta sitä käsittelemään
           koska hyvänsä, jos vaan otetaan varteen, että 1 luvun 11, 12,
-          13 ja 14 &amp;:n kuin myöskin 7 luvun 11 $:n käsittely jätetään toistaiseksi.
-          Nämä pykälät nimittäin riippuvat ehdotuksesta asetukseksi, joka
-          sisältää erinäisiä määräyksiä välirajan käymisestä vedessä ja
-          vesialueen jaosta, joka asetusehdotus ei vielä ole valmiina, vaan
-          valmistuu jonkun päivän perästä.
+          13 ja 14 &amp;:n kuin myöskin 7 luvun 11 $:n käsittely jätetään
+          toistaiseksi. Nämä pykälät nimittäin riippuvat ehdotuksesta asetukseksi,
+          joka sisältää erinäisiä määräyksiä välirajan käymisestä vedessä
+          ja vesialueen jaosta, joka asetusehdotus ei vielä ole valmiina,
+          vaan valmistuu jonkun päivän perästä.
         </note>
         <note xml:id="i-SQjQWgaG21yGiJ6DwESp9b">
           Samalla pyydän ilmoittaa, että vesioikeusvaliokunnan mietintöön
@@ -28319,11 +28333,12 @@
           Laki maanvuokrasta maalla. 993
         </note>
         <note xml:id="i-52oAfmghBz9VggSib5zZ5C">
-          Lopuksi, niinkuin aloinkin, hyväksyn 1 &amp;n ja olisin yhtä valmis
-          yhdellä vasaran iskulla hyväksymään kaikkityyni, mutta mahdollisesti
-          tulee vielä puhetta yhdestä tai toisesta pykälästä. Pääasia on
-          se, että on ihan välttämätöntä saada tällä kertaa tämmöinen laki
-          toimeen, ja sitä seikkaa onkin pääasiallisesti pidettävä silmällä.
+          Lopuksi, niinkuin aloinkin, hyväksyn 1 &amp;n ja olisin yhtä
+          valmis yhdellä vasaran iskulla hyväksymään kaikkityyni, mutta
+          mahdollisesti tulee vielä puhetta yhdestä tai toisesta pykälästä.
+          Pääasia on se, että on ihan välttämätöntä saada tällä kertaa tämmöinen
+          laki toimeen, ja sitä seikkaa onkin pääasiallisesti pidettävä
+          silmällä.
         </note>
         <note xml:id="i-ANhB6fP3DirrUAtKtVAFNP" type="speaker">
           Edusmies Kakkinen:
@@ -28823,9 +28838,9 @@
             kuin 2 &amp;:ssä sanotaan, olkoon sopimus voimassa kymmenen vuotta.
             On huomattava, että meillä on olemassa perintötorppia eri osissa
             maata. Jos 4 S:ään ei panna semmoista lisäystä kuin tässä mainitsin,
-            perintötorpat, kun niillä ei ole 2 &amp;:ssä tukea, nähtävästi lankeevat
-            takaisin taloon, ja suuri vääryys tapahtuisi, jos tilanosat, joita
-            ihmiset perintöoikeudella nauttivat, joutuisivat omistajiltaan
+            perintötorpat, kun niillä ei ole 2 &amp;:ssä tukea, nähtävästi
+            lankeevat takaisin taloon, ja suuri vääryys tapahtuisi, jos tilanosat,
+            joita ihmiset perintöoikeudella nauttivat, joutuisivat omistajiltaan
             pois. Samalla kuin minä siis kannatan ehdotusta momentin poistamisesta,
             minä tahtoisin ehdottaa, että 4 S:ään pantaisiin lisäys, joka
             turvaa niitä, joilla on perintötorppia, laillisesti saadun oikeutensa
@@ -28900,25 +28915,25 @@
             nykyisten niinkutsuttujen perintötorppien asemaa. Se on ymmärtääkseni
             aivan tarpeetonta, sillä maatilojen osittamista koskevan, vuonna
             1895 annetun, asetuksen 41 $:ssä sanotaan: ,Jos ennen joulukuun
-            19 päivää 1864 määräala sellaisesta tilasta, kuin 1 &amp;:ssä on sanottu,
-            on perintöosan vastikkeeksi tahi muuten ainaiseksi jollekin luovutettu,
-            olkoon tällä tahi hänen oikeutensa omistajalla oikeus saada se
-            ala lohkomisella tahi palstatilaksi erottamisella tämän asetuksen
-            mukaan erilleen otetuksi; hakekoon kuitenkin, jos hän sellaista
-            etua nauttia tahtoo, sitä kuvernööriltä kymmenen vuoden kuluessa
-            siitä päivästä, jona tämä asetus on voimaansa astunut.* Tällaiset
-            seikat siis kaikki selvitetään asetuksessa maan osittamisesta.
-            Perintötorppia muuten tietääkseni ei ole viime sadan vuoden aikana
-            syntynyt laisinkaan. Eräs asetus 13 päivältä kesäkuuta 1800 määräsi,
-            että pisin vuokra-aika on 50 vuotta eikä sen jälkeen ole mitään
-            tätä asiaa koskevaa asetusta julaistu. Kaikki perintötorpat, jotka
-            ovat olemassa, ovat syntyneet 17 vuosisadalla. Kyllä ehdotettu
-            lisäys siis on aivan tarpeeton. Muuten tahdon huomauttaa, että
-            ennen oli vallan luonnollista, että sallittiin perintötorppia
-            perustettaviksi, silloin kun rahanpuutteen takia oli vaikea lunastaa
-            kanssaperillisiltä heidän osuuksiaan tilaan eikä tiloja saanut
-            osittaa. Mutta nythän semmoisia syitä perinnölliseen vuokraan
-            ei enää ole olemassa.
+            19 päivää 1864 määräala sellaisesta tilasta, kuin 1 &amp;:ssä
+            on sanottu, on perintöosan vastikkeeksi tahi muuten ainaiseksi
+            jollekin luovutettu, olkoon tällä tahi hänen oikeutensa omistajalla
+            oikeus saada se ala lohkomisella tahi palstatilaksi erottamisella
+            tämän asetuksen mukaan erilleen otetuksi; hakekoon kuitenkin,
+            jos hän sellaista etua nauttia tahtoo, sitä kuvernööriltä kymmenen
+            vuoden kuluessa siitä päivästä, jona tämä asetus on voimaansa
+            astunut.* Tällaiset seikat siis kaikki selvitetään asetuksessa
+            maan osittamisesta. Perintötorppia muuten tietääkseni ei ole viime
+            sadan vuoden aikana syntynyt laisinkaan. Eräs asetus 13 päivältä
+            kesäkuuta 1800 määräsi, että pisin vuokra-aika on 50 vuotta eikä
+            sen jälkeen ole mitään tätä asiaa koskevaa asetusta julaistu.
+            Kaikki perintötorpat, jotka ovat olemassa, ovat syntyneet 17 vuosisadalla.
+            Kyllä ehdotettu lisäys siis on aivan tarpeeton. Muuten tahdon
+            huomauttaa, että ennen oli vallan luonnollista, että sallittiin
+            perintötorppia perustettaviksi, silloin kun rahanpuutteen takia
+            oli vaikea lunastaa kanssaperillisiltä heidän osuuksiaan tilaan
+            eikä tiloja saanut osittaa. Mutta nythän semmoisia syitä perinnölliseen
+            vuokraan ei enää ole olemassa.
           </seg>
         </u>
         <pb facs="https://swerik-project.github.io/valtiopaivat-records-pdf/1900/ptk_1900_talonpojat_II/ptk_1900_talonpojat_II-0479"/>
@@ -29217,8 +29232,8 @@
           jälkeen* j. n. e. Tämän mukaan siis asianosaisen tulee kuukauden
           kuluttua katselmuksesta pyytää uutta katselmusta. Mutta nyt saattaa
           tapahtua, että hän vielä kuukauden sisällä ei ole saanutkaan 22
-          &amp;:ssä mainittua katselmuskirjaa, josta syystä hän tietysti ei
-          voi täyttää käsillä olevassa pykälässä olevaa määräystä. Näin
+          &amp;:ssä mainittua katselmuskirjaa, josta syystä hän tietysti
+          ei voi täyttää käsillä olevassa pykälässä olevaa määräystä. Näin
           ollen ehdotan, että sanottaisiin , kuukauden kuluttua sen jälkeen
           kuin hän on katselmuskirjasta osaa saanut*. Jos ehdotukseni hyväksytään,
           olisi samantapainen muutos tehtävä myöskin käsillä olevan pykälän
@@ -29357,12 +29372,12 @@
           </seg>
         </u>
         <note xml:id="i-Gpo5b4ehN2CrJZEC9QsHiT">
-          Edusmies Taskinen, Rantasalmen tuomiokunnasta: 29 &amp;:n pidän epäonnistuneena.
-          Meidän paikkakunnalla ei ole vallalla semmoista tapaa, että isäntä
-          torpparille kokonaan rakentaa ja hommaa uuden rakennuksen, jos
-          vanha syystä tahi toisesta on hävinnyt. Jos isännän rakentama
-          kartano on hävinnyt, tulee torpparin pitää huoli sen uudestaan
-          rakentamisesta. Tähän nähden kannatan toisessa vastalauseessa
+          Edusmies Taskinen, Rantasalmen tuomiokunnasta: 29 &amp;:n pidän
+          epäonnistuneena. Meidän paikkakunnalla ei ole vallalla semmoista
+          tapaa, että isäntä torpparille kokonaan rakentaa ja hommaa uuden
+          rakennuksen, jos vanha syystä tahi toisesta on hävinnyt. Jos isännän
+          rakentama kartano on hävinnyt, tulee torpparin pitää huoli sen
+          uudestaan rakentamisesta. Tähän nähden kannatan toisessa vastalauseessa
           olevaa pykälän muodostusta edusm. Fieandtin tekemällä muutoksella.
           — Sen ohessa tahtoisin pykälään lisättäväksi tämäntapaisen määräyksen:
           ,tulipalon tapahtuessa, jos huone on ollut palovakuutettu, olkoon
@@ -29606,11 +29621,11 @@
             jätetään sopimukselle laajempi valta tässä suhteessa. Kun en kuitenkaan
             ole varma siitä, että yllämainittu vastalauseen tulkitseminen
             on oikea, niin pyytäisinkin valiokunnan jäseniltä selvitystä tässä
-            asiassa. 63 &amp;:ssä mainitaan ne pykälät, joista ei saa toisin sopia,
-            vaan niiden joukossa ei ole tämä pykälä. Jos siis voidaan asiaa
-            niin selittää, että vastalauseenkin mukaan on isännällä täysi
-            vapaus sopimuksen kautta järjestää asiat tässä suhteessa ilman,
-            että hänen täytyy sitoutua antamaan tilaltaan rakennusaineita,
+            asiassa. 63 &amp;:ssä mainitaan ne pykälät, joista ei saa toisin
+            sopia, vaan niiden joukossa ei ole tämä pykälä. Jos siis voidaan
+            asiaa niin selittää, että vastalauseenkin mukaan on isännällä
+            täysi vapaus sopimuksen kautta järjestää asiat tässä suhteessa
+            ilman, että hänen täytyy sitoutua antamaan tilaltaan rakennusaineita,
             olen valmis hyväksymään vastalauseen, mutta muussa tapauksessa
             olen pakotettu äänelläni kannattamaan valiokunnan mietintöä.
           </seg>
@@ -29668,15 +29683,15 @@
         <u who="i-TCwLfpuQKKUCxLk6FY1oaA">
           <seg>
             Edusm. Aulinin kysymyksen johdosta pyydän huomauttaa, että 63
-            &amp;:ssä nimenomaan luetellaan kaikki ne pykälät, joita vastaan ei
-            saa kontrahtiin panna mitään ehtoja sillä uhalla, että, jos semmoisia
-            tehdään, ne ovat mitättömiä. Kun 29 8:ää ei kuitenkaan siinä mainita,
-            on selvää, että vuokranantaja ja -ottaja saavat täydellä vapaudella
-            järjestää kysymyksessä olevan asian. Mitä muuten tulee siihen,
-            että vuokranantaja ei luovuttaisi edes rakennuspuita, niin tuntuu
-            se minusta melkein liian kovalta, mutta ovathan asianomaiset tilaisuudessa
-            siitäkin tekemään erityisen sopimuksen. Koska olen yksi vastalausujista,
-            kannatan tietysti vastalausetta.
+            &amp;:ssä nimenomaan luetellaan kaikki ne pykälät, joita vastaan
+            ei saa kontrahtiin panna mitään ehtoja sillä uhalla, että, jos
+            semmoisia tehdään, ne ovat mitättömiä. Kun 29 8:ää ei kuitenkaan
+            siinä mainita, on selvää, että vuokranantaja ja -ottaja saavat
+            täydellä vapaudella järjestää kysymyksessä olevan asian. Mitä
+            muuten tulee siihen, että vuokranantaja ei luovuttaisi edes rakennuspuita,
+            niin tuntuu se minusta melkein liian kovalta, mutta ovathan asianomaiset
+            tilaisuudessa siitäkin tekemään erityisen sopimuksen. Koska olen
+            yksi vastalausujista, kannatan tietysti vastalausetta.
           </seg>
         </u>
         <note xml:id="i-4RvCCwvBMmkbpxmE1qeGi7" type="speaker">
@@ -29927,8 +29942,8 @@
           3) äänestysesitys:
         </note>
         <note xml:id="i-KxHEjte2w6DVRuAKDczDMs">
-          Se, joka hyväksyy 29 &amp;:n semmoiseksi kuin se on mietin-- töön
-          liitetyssä toisessa vastalauseessa, äänestää ,jaa*;
+          Se, joka hyväksyy 29 &amp;:n semmoiseksi kuin se on mietin--
+          töön liitetyssä toisessa vastalauseessa, äänestää ,jaa*;
         </note>
         <note xml:id="i-8NsauMciz963dsu4vLaiLR">
           jos ,ei* voittaa, on sääty hyväksynyt edusmies Starcken: pykälälle
@@ -31444,9 +31459,9 @@
           velvollisuudekseen kaikille säädyille ehdottaa että, yhdenmukaisuuden
           aikaansaamiseksi puheenalaisten säännösten kesken, Tarkastusvaliokunta
           valtuutettaisiin tekemään sellaisen muutoksen Valtiosäätyjen oikeudenkäymiskaaren
-          11 luvun 7 &amp;:lle hyväksymään muodostukseen, että ylempänä kerrottu,
-          sanotun &amp;:n 2 ja 4 momentissa oleva määräys kumpaisessakin kohden
-          tulisi kuulumaan näin: ,niistä kerran jonkun vuosineljänneksen
+          11 luvun 7 &amp;:lle hyväksymään muodostukseen, että ylempänä
+          kerrottu, sanotun &amp;:n 2 ja 4 momentissa oleva määräys kumpaisessakin
+          kohden tulisi kuulumaan näin: ,niistä kerran jonkun vuosineljänneksen
           ensimmäisessä numerossa, ei
         </note>
         <pb facs="https://swerik-project.github.io/valtiopaivat-records-pdf/1900/ptk_1900_talonpojat_II/ptk_1900_talonpojat_II-0518"/>
@@ -32409,8 +32424,8 @@
             puolella kumminkin. Mitä nyt siihen kysymykseen tulee, jonka herra
             Meurman teki vuokranantajan ja vuokranottajan keskinäisistä sopimuksista,
             niin, jos minä oikein ymmärsin hänen kysymyksensä, siitä säädetään
-            52 &amp;:n ensimmäisen kappaleen lopussa, jossa sanotaan: , jos sen
-            ohessa on tehty kirjallinen sopimus myöskin korvauksen suuruudesta
+            52 &amp;:n ensimmäisen kappaleen lopussa, jossa sanotaan: , jos
+            sen ohessa on tehty kirjallinen sopimus myöskin korvauksen suuruudesta
             tahi sen laskemisen perusteista, noudatettakoon sitä." "Tässä
             on mielestäni selvä määräys siitä, että semmoisen vapaan sopimuksen
             voi vuokranantajan ja vuokranottajan kesken tehdä.
@@ -32429,12 +32444,12 @@
           Edusmies Leppänen, Ilomantsin tuomiokunnasta: Kunnallisneuvos
           Meurmanin kysymyksen johdosta on täällä jo edusm. Lagus antanut
           selityksen. Pyydän sen lisäksi huomauttaa, että 63 &amp;ssä tehdään
-          juuri viittaus 50 &amp;:ään ja 50 &amp;:ssä viitataan 51 8:ään. Sen johdosta,
-          mitä edusm. Lagus mainitsi, että 52 8:n ensimmäisen kappaleen
-          loppuosa antaa oikeuden kirjallisen sopimuksen tekemiseen vuokranantajan
-          ja vuokramiehen välillä, pyydän huomauttaa, että se koskee ainoastaan
-          suurempia parannuksia, jota vastoin 51 &amp;:ssä mainituista pienemmistä
-          parannuksista ei voi tehdä mitään korvaussopimusta.
+          juuri viittaus 50 &amp;:ään ja 50 &amp;:ssä viitataan 51 8:ään.
+          Sen johdosta, mitä edusm. Lagus mainitsi, että 52 8:n ensimmäisen
+          kappaleen loppuosa antaa oikeuden kirjallisen sopimuksen tekemiseen
+          vuokranantajan ja vuokramiehen välillä, pyydän huomauttaa, että
+          se koskee ainoastaan suurempia parannuksia, jota vastoin 51 &amp;:ssä
+          mainituista pienemmistä parannuksista ei voi tehdä mitään korvaussopimusta.
         </note>
         <note xml:id="i-q4cw6LCuQq24DHuEr6TR4">
           Mitä itse asiaan tulee, on 50 $ tehty sen poikkeuksen varalta,
@@ -32528,11 +32543,11 @@
           ei ole ehtinyt saada korvausta, kun hän monessakin tapauksessa
           joutuu ennen vuokra-ajan loppua pois torpasta, niin kyllä minusta
           nämä pykälät olisivat tämmöisenäänkin hyväksyttävät. Sillä jos
-          50 &amp;:ssä ehdottomasti määrätäänkin korvauksensuoritukset, niin
-          51 &amp;:ssä sitte määritellään siksi tarkasti ja lieventävästi, milloin
-          ja minkä verran näitä korvauksia on suoritettava ja mitkä seikat
-          korvausta määrättäessä ovat huomioon otettavat. Tämän vuoksi olisin
-          valmis hyväksymään nämät pykälät ilman mitään lisälievennyksiä.
+          50 &amp;:ssä ehdottomasti määrätäänkin korvauksensuoritukset,
+          niin 51 &amp;:ssä sitte määritellään siksi tarkasti ja lieventävästi,
+          milloin ja minkä verran näitä korvauksia on suoritettava ja mitkä
+          seikat korvausta määrättäessä ovat huomioon otettavat. Tämän vuoksi
+          olisin valmis hyväksymään nämät pykälät ilman mitään lisälievennyksiä.
           Kaikessa tapauksessa tulee kuitenkin asetettavaksi jonkunlainen
           tarkastuslautakunta, joka määrää nämät korvaukset, eikä ole otaksuttava,
           että se aina pitäisi enemmän vuokramiehen kuin vuokranantajankaan
@@ -32688,11 +32703,11 @@
         <note xml:id="i-PjsLm3i9vuzd9TC34mhutF">
           johdosta lausui edusmies Reuter: Pykälässä mainitaan hedelmäpuut
           ja marjapensaat semmoisiksi istutuksiksi, jotka ovat vuokranantajalle
-          tarjottavat vuokramiehen lähtiessä tilalta. Koska 50 &amp; jo säätää,
-          että vuokramies on oikeutettu saamaan korvausta maan, rakennusten
-          tai muiden laitosten parannuksista, joita hän on tehnyt tilalle,
-          niin pitäisi siihen, mielestäni, sisältymän semmoinenkin parannus,
-          jonka talo saa hedelmäpuiden ja marjapensaiden istuttamisesta.
+          tarjottavat vuokramiehen lähtiessä tilalta. Koska 50 &amp; jo
+          säätää, että vuokramies on oikeutettu saamaan korvausta maan,
+          rakennusten tai muiden laitosten parannuksista, joita hän on tehnyt
+          tilalle, niin pitäisi siihen, mielestäni, sisältymän semmoinenkin
+          parannus, jonka talo saa hedelmäpuiden ja marjapensaiden istuttamisesta.
           Tämän tähden tahtoisin sanat: ,hedelmäpuut* ja ,marjapensaat*
           poistettaviksi esillä olevasta pykälästä.
         </note>
@@ -33228,15 +33243,16 @@
           $:n 1 ja 2 momenttia, hyväksyttiin.
         </note>
         <note xml:id="i-UJer9VJ54Z34y4yEn3Ac4S">
-          2 &amp;n 3 momentista keskustelussa tehdyn ehdotuksen johdosta Puhemies
-          säädyn vastattavaksi esitti näin kuuluvan
+          2 &amp;n 3 momentista keskustelussa tehdyn ehdotuksen johdosta
+          Puhemies säädyn vastattavaksi esitti näin kuuluvan
         </note>
         <note xml:id="i-F59J1dFbrDgNDdwErrMkk6">
           äänestysesityksen :
         </note>
         <note xml:id="i-9geDNBeF4pk3cYc99gy43d">
           Se, ken hyväksyy valiokunnan yhteensovitusehdotuksen sikäli kuin
-          se koskee kysymyksessä olevaa 2 &amp;:n 3 momenttia, äänestää , jaa;
+          se koskee kysymyksessä olevaa 2 &amp;:n 3 momenttia, äänestää
+          , jaa;
         </note>
         <note xml:id="i-2iTEYmfybdi1pqVm4ms7RW">
           jos ,ei* voittaa, on sääty päättänyt pysyä tästä momentista tekemässään
@@ -33291,9 +33307,9 @@
           <seg>
             Minä olen samaa mieltä kuin edellinen puhuja niin hyvin hänen
             esiintuomillaan perusteilla kuin myös siihen nähden, että äsken
-            hyväksytyn mallasjuomia koskevan asetusehdotuksen 2 &amp;:n 3 momentin
-            mukaan tehtaiden oluen vähittäismyyntioikeutta on tuntuvalla tavalla
-            tuettu.
+            hyväksytyn mallasjuomia koskevan asetusehdotuksen 2 &amp;:n 3
+            momentin mukaan tehtaiden oluen vähittäismyyntioikeutta on tuntuvalla
+            tavalla tuettu.
           </seg>
         </u>
         <note xml:id="i-UnzAT3PgmvDbEa2SDmg4Sb">
@@ -34572,8 +34588,8 @@
           äänestysesitys:
         </note>
         <note xml:id="i-PdmZEG5E2cVq4LwPZBhKZF">
-          Se, ken hyväksyy 26 &amp;n sellaiseksi kuin valiokunta sen on ehdottanut,
-          äänestää ,jaa*:
+          Se, ken hyväksyy 26 &amp;n sellaiseksi kuin valiokunta sen on
+          ehdottanut, äänestää ,jaa*:
         </note>
         <note xml:id="i-8nQwWWC3bARFqGxoPZNBNr">
           jos ,ei* voittaa, on sääty päättänyt hyväksyä käsillä olejan

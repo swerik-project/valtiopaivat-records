@@ -1,16 +1,16 @@
-<?xml version='1.0' encoding='utf-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="ptk_1899_papisto_">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Finnish parliamentary document: ptk 1899, Papisto number </title>
+        <title>Finnish parliamentary document: ptk 1899, Papisto number</title>
       </titleStmt>
       <publicationStmt>
         <authority>SWERIK Project, 2023-2027</authority>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Finnish parliamentary document: ptk 1899, Papisto number </title>
+          <title>Finnish parliamentary document: ptk 1899, Papisto number</title>
         </bibl>
       </sourceDesc>
     </fileDesc>
@@ -25,8 +25,12 @@
   <text>
     <front>
       <div type="preface">
-        <head>ptk_1899_papisto_</head>
-        <docDate when="1899-01-01">1899-01-01</docDate>
+        <head>
+          ptk_1899_papisto_
+        </head>
+        <docDate when="1899-01-01">
+          1899-01-01
+        </docDate>
       </div>
     </front>
     <body>
@@ -1219,8 +1223,8 @@
         <note xml:id="i-N86cLivz36zE5ttXMLWimT">
           Jos Pappissääty hyväksyy nämä ehdotukset osaksi tai kokonaan,
           on niistä tieto annettava Valtiovaliokunnalle, fonka Valtiopäiväjärjestyksen
-          36 &amp; mukaan tulee määrätä palkkiot säätyjen sihteereille, virkamiehille
-          ja palvelijoille.
+          36 &amp; mukaan tulee määrätä palkkiot säätyjen sihteereille,
+          virkamiehille ja palvelijoille.
         </note>
         <note xml:id="i-KMfDkJ2ers3jZ27eGhc9Nm">
           Helsingissä 23 päiv. Tammikuuta 1899. 0. Donner. E. G. Palmén.
@@ -2329,9 +2333,9 @@
           joka noissa säännöksissä on määrätty valtakunnanlakien aikaansaamiseksi.
           Julistuskirja on siis sellaisessa erottamattomassa yhteydessä
           Valtiosäädyille näillä väliaikaisilla valtiopäivillä esitettyjen
-          asiain kanssa, kuin Valtiopäiväjärjestyksen 2 &amp; mainitsee, sekä
-          vaatii erityistä huomiota myöskin Valtiosäädyillä olevaan tehtävään
-          nähden.
+          asiain kanssa, kuin Valtiopäiväjärjestyksen 2 &amp; mainitsee,
+          sekä vaatii erityistä huomiota myöskin Valtiosäädyillä olevaan
+          tehtävään nähden.
         </note>
         <note xml:id="i-MbcnWVLiWfNamKrXKeLCrA">
           Se lainsäätämismenettely, minkä Keisarillisen julistuskirjan
@@ -4550,10 +4554,10 @@
           Mitä sitten tulee kirkkoherra Auvisen toiseen huomautukseen,
           että nimittäin olisi ristiriitaisuus 4 8:n 3 mom:in ja 28 sekä
           tietysti myös 27 &amp;:n kesken, pyydän huomauttaa että viimemainituissa
-          S:ssä puhutaan aivan toisista asioista kuin 4 &amp;:ssä. Näissä pykälissä
-          puhutaan arvan vaihettamisesta ja 4 &amp;:ssä säädetään ettei toinen
-          saa käyttää toista asevelvollisuutensa suorittajaksi sillä tavalla
-          että hän itse pääsee vapaaksi.
+          S:ssä puhutaan aivan toisista asioista kuin 4 &amp;:ssä. Näissä
+          pykälissä puhutaan arvan vaihettamisesta ja 4 &amp;:ssä säädetään
+          ettei toinen saa käyttää toista asevelvollisuutensa suorittajaksi
+          sillä tavalla että hän itse pääsee vapaaksi.
         </note>
         <note xml:id="i-3jKmumqkMArfCxFcUKbtpG" type="speaker">
           Provasti Karlsberg:
@@ -5468,10 +5472,10 @@
           prosten Karlsberg framhällit. En person bör i regeln vara mantalsskrifven,
           der han är kyrkoskrifven, och är det ocksä i de allra flesta fall.
           Men en värnepligtig, som inträdt i aktiv tjenst, kan bilda ett
-          undantag, jemlikt &amp; 15, der det uttryckligen står i 1 mom.: ,Värnepligtige,
-          som vid aktiv trupp fullgöra sin krigstjenstskyldighet, räknas
-          fortfarande till de kommuner, hvilka de vid inträdet i tjensten
-          tillhörde". På grund af detta stadgande
+          undantag, jemlikt &amp; 15, der det uttryckligen står i 1 mom.:
+          ,Värnepligtige, som vid aktiv trupp fullgöra sin krigstjenstskyldighet,
+          räknas fortfarande till de kommuner, hvilka de vid inträdet i
+          tjensten tillhörde". På grund af detta stadgande
         </note>
         <pb facs="https://swerik-project.github.io/valtiopaivat-records-pdf/1899/ptk_1899_papisto_/ptk_1899_papisto_-0095"/>
         <note xml:id="i-5SsDnu3NKiYDnXVxEGtLyD">
@@ -5487,8 +5491,8 @@
           Känestysesitys :
         </note>
         <note xml:id="i-FzzN6139reBjptRsGfiqfK">
-          Ken hyväksyy 15 &amp; mietinnön mukaan, vastaa ,jaa*, jos ,ei* voittaa,
-          on sääty päättänyt pykälän lähetettäväksi takaisin valiokuntaan
+          Ken hyväksyy 15 &amp; mietinnön mukaan, vastaa ,jaa*, jos ,ei*
+          voittaa, on sääty päättänyt pykälän lähetettäväksi takaisin valiokuntaan
           uudestaan muodostettavaksi läänin provasti Johanssonin ehdottamaan
           suuntaan.
         </note>
@@ -5534,8 +5538,8 @@
         </u>
         <pb facs="https://swerik-project.github.io/valtiopaivat-records-pdf/1899/ptk_1899_papisto_/ptk_1899_papisto_-0096"/>
         <note xml:id="i-3dd8aNyezCwAwVTdkzpC7o">
-          Toukok. 23 p. 95 17 &amp; hyväksyttiin muuttamatta. 8:t 18—25 hyväksyttiin
-          keskustelutta.
+          Toukok. 23 p. 95 17 &amp; hyväksyttiin muuttamatta. 8:t 18—25
+          hyväksyttiin keskustelutta.
         </note>
         <note xml:id="i-LGt8cGi7TNWuf9JqkEpQvi">
           26 8. Keskustelu:
@@ -5847,8 +5851,8 @@
         </note>
         <u who="i-CBdpqVDCbhmGYHAKYVJWxE">
           <seg>
-            Asevelvollisuusvaliokunta on tässä &amp;:ssä tehnyt muun muassa sen
-            muutosehdotuksen että Suomen sotaväen ylipäällikkyys voitaisiin,
+            Asevelvollisuusvaliokunta on tässä &amp;:ssä tehnyt muun muassa
+            sen muutosehdotuksen että Suomen sotaväen ylipäällikkyys voitaisiin,
             jos Keisari ja Suuriruhtinas sen hyväksi näkee, siirtää maan Kenraalikuvern.
             riltä jollekulle toiselle henkilölle. Lakivaliokunta näyttää tässä
             tärkeässä asiassa olleen eri mieltä, niinkuin näkyy lakivaliokunnan
@@ -7458,12 +7462,12 @@
           skulle anses såsom afskaffade. Dermed ville man säga, hvad som
           också vid flera tillfällen uttalades både af konungen och af ständerna,
           att Sveriges gamla lagar voro till deras väsentliga delar återstälda:
-          och i full öfverensstämmelse härmed stadgades i &amp; 5 R. F. Konungen
-          eger styra och råda frälsa och beskydda borgar och land samt all
-          sin och kronans rätt såsom lag och denna R. F. säger", alltså
-          såsom landslagen och R. F. säger. Man hade sålunda återgått till
-          det gamla samhällskicket, sedan man bortskurit de utväxter, som
-          på detsamma tillkommit i följd af de stadganden, som infördes
+          och i full öfverensstämmelse härmed stadgades i &amp; 5 R. F.
+          Konungen eger styra och råda frälsa och beskydda borgar och land
+          samt all sin och kronans rätt såsom lag och denna R. F. säger",
+          alltså såsom landslagen och R. F. säger. Man hade sålunda återgått
+          till det gamla samhällskicket, sedan man bortskurit de utväxter,
+          som på detsamma tillkommit i följd af de stadganden, som infördes
           under enväldet och genom frihetstidens lagar. Huru mycket man
           förstod innebörden utaf de orden att Sveriges gamla lagar voro
           till sina väsentligaste delar återstälda, må lemnas derhän, men
@@ -9614,15 +9618,16 @@
           10 &amp; hyväksyttiin yhteensovitusehdotuksen mukaan.
         </note>
         <note xml:id="i-7oajnVYTRYXygjUQqJRrL9">
-          20 &amp;n ja sen yhteydessä 123 &amp;:n käsittely siirrettiin kirk- TTS,
-          E. Bergrothin ja provasti Fredriksonin pyynnöstä kello
+          20 &amp;n ja sen yhteydessä 123 &amp;:n käsittely siirrettiin
+          kirk- TTS, E. Bergrothin ja provasti Fredriksonin pyynnöstä kello
         </note>
         <note xml:id="i-15apMjBbZkdsaaanwKae9r">
           212:een.
         </note>
         <note xml:id="i-4ynMuC5EX46L6Fnz88BtcD">
-          90 &amp; hyväksyttiin yhteensovitusehdotuksen mukaan, ja samoin yhteensovitusehdotuksen
-          7 sivulla oleva loppusäännös sekä 7 ja 8 sivuilla olevat ponsilauseet.
+          90 &amp; hyväksyttiin yhteensovitusehdotuksen mukaan, ja samoin
+          yhteensovitusehdotuksen 7 sivulla oleva loppusäännös sekä 7 ja
+          8 sivuilla olevat ponsilauseet.
         </note>
         <note xml:id="i-KVmjXwSXRKwvsDs4JHTiux">
           Yhteensovitusehdotuksen 9 sivulla olevan mietinnön 23 sivun alussa
@@ -9986,14 +9991,14 @@
         </note>
         <u who="i-2pD791VLsqhv5WJ2JcdDCs">
           <seg>
-            Minäkään en tahdo vastustaa 1 &amp;:n hyväksymistä valiokunnan mietinnön
-            mukaan, mutta tahtoisin huomauttaa säätyä siitä, että sanaa ,Keisarikunta*
-            ei ole ollut käytetty asevelvollisuusvaliokunnan alkuperäisessä
-            ehdotuksessa eikä myöskään säädylle annetussa armollisessa esityksessä.
-            —Viimemainituissa puhutaan vaan Venäjän valtakunnasta ja sitäpaitsi
-            tuo attribuutisana ,koko* siinä puuttuu. Ninä olen siis sitä mieltä
-            että Valtiosäätyjen tarkoitusta tuskin voitanee väärin selittää
-            Venäjän kannalta,
+            Minäkään en tahdo vastustaa 1 &amp;:n hyväksymistä valiokunnan
+            mietinnön mukaan, mutta tahtoisin huomauttaa säätyä siitä, että
+            sanaa ,Keisarikunta* ei ole ollut käytetty asevelvollisuusvaliokunnan
+            alkuperäisessä ehdotuksessa eikä myöskään säädylle annetussa armollisessa
+            esityksessä. —Viimemainituissa puhutaan vaan Venäjän valtakunnasta
+            ja sitäpaitsi tuo attribuutisana ,koko* siinä puuttuu. Ninä olen
+            siis sitä mieltä että Valtiosäätyjen tarkoitusta tuskin voitanee
+            väärin selittää Venäjän kannalta,
           </seg>
         </u>
         <pb facs="https://swerik-project.github.io/valtiopaivat-records-pdf/1899/ptk_1899_papisto_/ptk_1899_papisto_-0170"/>
@@ -10917,10 +10922,10 @@
           öfver hela Ryssland, Tsar af Polen, Storfurste till Finland, etc.,
           etc., etc. Förkunne eder, Oss älskelige, Wäre trogne undersätar
           Wärt Nädiga päbud att den nu pästäende urtima landtdagen skall
-          afslutas den 18 (30) Maj innevarande är. Att &amp; Wära vägnar upplösa
-          landtdagen och hemförlofva Ständerna uppdrage Wi i Näder ät Generalguvernören
-          öfver Finland, Wär Generaladjutant, Generalen af Infanteriet,
-          Nikolai Bobrikoff.
+          afslutas den 18 (30) Maj innevarande är. Att &amp; Wära vägnar
+          upplösa landtdagen och hemförlofva Ständerna uppdrage Wi i Näder
+          ät Generalguvernören öfver Finland, Wär Generaladjutant, Generalen
+          af Infanteriet, Nikolai Bobrikoff.
         </note>
         <note xml:id="i-TEYS6Amzn8Cb7M9eo7vEX5">
           Zarskoje Selo den 7 Maj 1899. NIKOLAI.
@@ -11228,8 +11233,8 @@
           käsitä, miksi Suomen kansa nyt on niin syvän murheen valtaamana,
           mutta sattuvasti ja tarkkaan on Suomen jalomielinen valloittaja
           Keisari Aleksanteri ensimäinen armollisessa julistuskirjassaan
-          ?/&gt;, p:ltä Helmikuuta 1816 esittänyt Suomen kansan aseman, kun
-          hän lausuu: ,Sitä valtiosääntöä ja niitä lakeja, jotka Suomen
+          ?/&gt;, p:ltä Helmikuuta 1816 esittänyt Suomen kansan aseman,
+          kun hän lausuu: ,Sitä valtiosääntöä ja niitä lakeja, jotka Suomen
           kansan luonteeseen, tapoihin ja sivistykseen soveltuvina, ovat
           pitkän vuosijakson olleet sen yhteiskunnallisen vapauden ja levollisuuden
           perustuksena, ei voi saattamatta näitä vaaraan supistaa eikä järkähyttää*.

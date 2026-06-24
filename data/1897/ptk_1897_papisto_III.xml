@@ -1,5 +1,5 @@
-<?xml version='1.0' encoding='utf-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="ptk_1897_papisto_III">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -25,8 +25,12 @@
   <text>
     <front>
       <div type="preface">
-        <head>ptk_1897_papisto_III</head>
-        <docDate when="1897-01-01">1897-01-01</docDate>
+        <head>
+          ptk_1897_papisto_III
+        </head>
+        <docDate when="1897-01-01">
+          1897-01-01
+        </docDate>
       </div>
     </front>
     <body>
@@ -85,9 +89,9 @@
         </note>
         <u who="unknown">
           <seg>
-            Aikomukseni oli huomauttaa eräästä painovirheestä 4 &amp;:ssä. Siinä
-            sanotaan: ,-— — sekä tarvittavan tien-koaineen ottamiseen*, pitää
-            olla: ,— — tientekoaineen ottamiseen*.
+            Aikomukseni oli huomauttaa eräästä painovirheestä 4 &amp;:ssä.
+            Siinä sanotaan: ,-— — sekä tarvittavan tien-koaineen ottamiseen*,
+            pitää olla: ,— — tientekoaineen ottamiseen*.
           </seg>
         </u>
         <note xml:id="i-GBDkH2kHRP1iEH8P6toEQ4">
@@ -158,13 +162,13 @@
           Toukok. 19 p. 1539
         </note>
         <note xml:id="i-QKUmbKSi7caHXC21eTXiB4">
-          doin kolmas momentti 7 &amp;:ssä sen mukaan kuin nyt tässä olen ehdottanut,
-          saisi seuraavan muodon: ,Rautatien omistaja olkoon myöskin velvollinen,
-          milloin ei toisin sovita, rautatien alueen ympärille panemaan
-          ja kunnossa pitämään aitaa mikäli ja missä sitä tarvitaan estämään
-          toisten kotieläimiä pääsemästä rautatien alueelle, niin myös rautatien
-          alitse* j. n. e., sen mukaan kuin armollisessa esityksessä loppuun
-          asti on sanottu.
+          doin kolmas momentti 7 &amp;:ssä sen mukaan kuin nyt tässä olen
+          ehdottanut, saisi seuraavan muodon: ,Rautatien omistaja olkoon
+          myöskin velvollinen, milloin ei toisin sovita, rautatien alueen
+          ympärille panemaan ja kunnossa pitämään aitaa mikäli ja missä
+          sitä tarvitaan estämään toisten kotieläimiä pääsemästä rautatien
+          alueelle, niin myös rautatien alitse* j. n. e., sen mukaan kuin
+          armollisessa esityksessä loppuun asti on sanottu.
         </note>
         <note xml:id="i-XrpQwnr9q3gDDLbx2bdepL" type="speaker">
           Professori Forsman:
@@ -503,8 +507,8 @@
           Minä en tahdo nyt ollenkaan kiistellä erra Kihlman'in muutosehdotuksen
           sopivaisuudesta, mutta mitä ähän asetukseen tulee, lienee muistutus
           jo liian myöhäinen, oska sääty on hyväksynyt sanat ,allmänna tidningar*
-          jo kahessa edellisessä pykälässä, nimittäin 24 ja 26 &amp;:ssä ja
-          ehkäpä jossakin muussakin paikassa. Sanotaan nimittäin 24 &amp;:ssä:
+          jo kahessa edellisessä pykälässä, nimittäin 24 ja 26 &amp;:ssä
+          ja ehkäpä jossakin muussakin paikassa. Sanotaan nimittäin 24 &amp;:ssä:
           , Guvernören uppmane genom kungörelse, som bör införas tre ånger
           i landets allmänna tidningar”, ja 26 &amp;:ssä sanotaan:
         </note>
@@ -1662,13 +1666,13 @@
         </note>
         <u who="i-34gigkRr2uXshwGmQ4qktb">
           <seg>
-            Jag önskar veta, när frägan om lydelsen af 18 &amp; i Finlands Banks
-            reglemente kommer att behandlas. Om föreliggande bestämning godkännes,
-            har man kanske försummat att yttra sig med anledning af den reservation,
-            som förekommer pä pag. 12—17. Dä jag ville förbehälla mig rättighet
-            att yttra mig med anledning af nämnda reservation, tilläter jag
-            mig fräga, om jag nu bör göra det eller om det kan uppskjutas
-            till längre fram.
+            Jag önskar veta, när frägan om lydelsen af 18 &amp; i Finlands
+            Banks reglemente kommer att behandlas. Om föreliggande bestämning
+            godkännes, har man kanske försummat att yttra sig med anledning
+            af den reservation, som förekommer pä pag. 12—17. Dä jag ville
+            förbehälla mig rättighet att yttra mig med anledning af nämnda
+            reservation, tilläter jag mig fräga, om jag nu bör göra det eller
+            om det kan uppskjutas till längre fram.
           </seg>
         </u>
         <note xml:id="i-QFoHrjZSZnCnC5GecfP6ma" type="speaker">
@@ -1700,13 +1704,13 @@
             tvenne delar ätskiljas, n första del, som omfattar de tvä första
             momenten, och en ndra del, som sammanfaller med det tredje momentet.
             Den första delen gäller frågan om ändring af $ 18 i det för Finands
-            Bank faststälda reglementet. Denna &amp; har följande lyelse: ,Beloppet
-            af bankens utelöpande sedlar mä med högst rettiofem miljoner mark
-            öfverstiga dess valuta för sedelutgifingsrätt, hvartill räknas
-            ej blott bankens metalliska kassa emte -silfver, utan ock bankens
-            ostridiga fordringar hos dess 'htländska ombud samt banken tillhöriga,
-            å utländskt myntslag lydande obligationer, kuponger och sedlar".
-            Reservanten föreslår, att såsom valuta för sedelutgifningsrätt
+            Bank faststälda reglementet. Denna &amp; har följande lyelse:
+            ,Beloppet af bankens utelöpande sedlar mä med högst rettiofem
+            miljoner mark öfverstiga dess valuta för sedelutgifingsrätt, hvartill
+            räknas ej blott bankens metalliska kassa emte -silfver, utan ock
+            bankens ostridiga fordringar hos dess 'htländska ombud samt banken
+            tillhöriga, å utländskt myntslag lydande obligationer, kuponger
+            och sedlar". Reservanten föreslår, att såsom valuta för sedelutgifningsrätt
             skulle räknas ,ej blott bankens metalliska kassa jemte prägladt
             finskt silfvermynt,
           </seg>
@@ -1738,9 +1742,9 @@
         </note>
         <note xml:id="i-EicTcDXxLxEqAh6xUz8vJw">
           Då frågas: hvad tänker direktionen och hvad tänka banks fullmäktige
-          beträffande denna sak? I bankfullmäktiges berättelse &amp; pag. 43
-          heter det: ,Af direktionen har nämligen framhällits, hurusom enligt
-          sagda lagrum till valutan för Finlands Banks sedelutgifningsrätt
+          beträffande denna sak? I bankfullmäktiges berättelse &amp; pag.
+          43 heter det: ,Af direktionen har nämligen framhällits, hurusom
+          enligt sagda lagrum till valutan för Finlands Banks sedelutgifningsrätt
           räknas, bland annat, Bankens ostridiga fordringar hos dess utländska
           ombud. Emedan i Bankens värjo befintliga utrikesvexlar när som
           helst kunna realiseras till guld, och deras värde, i och med deras
@@ -1961,28 +1965,29 @@
         <u who="i-34gigkRr2uXshwGmQ4qktb">
           <seg>
             Med anledning af prosten Wallins uttalande, deri han päpekade
-            möjligheten att använda den utväg, som i &amp; 15 af reglementet angifves,
-            får jag hänvisa till reservantens svar pä samma uttalande af utskottet.
-            Reservanten säger nämligen pag. 14: ,Med anledning häraf ville
-            jag äterhemta ett uttalande af den komite, som utarbetade förslaget
-            till nu gällande reglemente och dervid jemväl för sin del förordade
-            nu ifrägavarande tilläggsbestämning. Komiten säger: ,Den enda
-            utvägen för bankfullmäktige att utan åtgärd från Ständernas sida
-            ernä ifrågavarande syfte, vore emellertid att hos regeringen utvärka
-            just en sådan ändring af reglementet". Det stadgande i reglementet,
-            som tillerkänner regeringen rätt att mellan landtdagarna, pä bankfullmäktiges
-            framställning lagstifta rörande Finlands Bank, förutsätter nämligen
-            ingalunda att ätgärder, sädana som en ökning af bankens sedelutgifningsrätt,
-            skulle kunna ens för en öfvergäende tid vidtagas, utan uttrycklig
-            ändring af reglementet". Detta skäl synes mig vara ett mycket
-            vigtigt skäl för att en förändring af reglementet vidtages. Men
-            om man i likhet med professor Donner lägger hufvudvigten derpä
-            att Finlands Banks reglemente är af färsk datum, och att det derför
-            vore opassligt att efter en sä kort tid vidtaga förändringar,
-            om dessa förändringar icke äro absolut nödvändiga — och det medgifver
-            jag, att de ändringar, som af reservanten föresläs, icke äro absolut
-            nödvändiga — dä förfaller naturligtvis mitt förslag, som innebär
-            att förbättringar icke böra uppskjutas. N
+            möjligheten att använda den utväg, som i &amp; 15 af reglementet
+            angifves, får jag hänvisa till reservantens svar pä samma uttalande
+            af utskottet. Reservanten säger nämligen pag. 14: ,Med anledning
+            häraf ville jag äterhemta ett uttalande af den komite, som utarbetade
+            förslaget till nu gällande reglemente och dervid jemväl för sin
+            del förordade nu ifrägavarande tilläggsbestämning. Komiten säger:
+            ,Den enda utvägen för bankfullmäktige att utan åtgärd från Ständernas
+            sida ernä ifrågavarande syfte, vore emellertid att hos regeringen
+            utvärka just en sådan ändring af reglementet". Det stadgande i
+            reglementet, som tillerkänner regeringen rätt att mellan landtdagarna,
+            pä bankfullmäktiges framställning lagstifta rörande Finlands Bank,
+            förutsätter nämligen ingalunda att ätgärder, sädana som en ökning
+            af bankens sedelutgifningsrätt, skulle kunna ens för en öfvergäende
+            tid vidtagas, utan uttrycklig ändring af reglementet". Detta skäl
+            synes mig vara ett mycket vigtigt skäl för att en förändring af
+            reglementet vidtages. Men om man i likhet med professor Donner
+            lägger hufvudvigten derpä att Finlands Banks reglemente är af
+            färsk datum, och att det derför vore opassligt att efter en sä
+            kort tid vidtaga förändringar, om dessa förändringar icke äro
+            absolut nödvändiga — och det medgifver jag, att de ändringar,
+            som af reservanten föresläs, icke äro absolut nödvändiga — dä
+            förfaller naturligtvis mitt förslag, som innebär att förbättringar
+            icke böra uppskjutas. N
           </seg>
         </u>
         <note xml:id="i-4jzd2cYYivi9FSUbC7nAX7" type="speaker">
@@ -2162,11 +2167,11 @@
             måste besöka hvalfvet för att antingen mottaga eller utlemna någon
             sådan bankens egendom, som bör i hvalfvet förvaras. Detta sker
             nästan dagligen. Då kvarstå i direktionen endast två medlemmar,
-            hvilka hafva att handlägga de löpande ärendena. Men i &amp; 47 af
-            bankreglementet heter det: »Direktionens samtliga medlemmar böra,
-            då de icke äro af andra tjensteåligganden upptagna, vid direktionens
-            sammanträden närvara och, der laga jäf icke hindrar, i dervid
-            förefallande öfver-
+            hvilka hafva att handlägga de löpande ärendena. Men i &amp; 47
+            af bankreglementet heter det: »Direktionens samtliga medlemmar
+            böra, då de icke äro af andra tjensteåligganden upptagna, vid
+            direktionens sammanträden närvara och, der laga jäf icke hindrar,
+            i dervid förefallande öfver-
           </seg>
         </u>
         <pb facs="https://swerik-project.github.io/valtiopaivat-records-pdf/1897/ptk_1897_papisto_III/ptk_1897_papisto_III-0038"/>
@@ -2185,16 +2190,16 @@
           ändras sälunda att direktionens medlemmar blifva fem, eller ock
           borde arbetet inom banken annorlunda fördelas. En sådan fördelning
           vore också principielt riktig. Det är principielt oriktigt att
-          direktionen, som enligt &amp; 45, mom. 3 har att öfvervaka att bankens
-          samtliga embetsmän och betjente samvetsgrant fullgöra sina äligganden,
-          sjelf fullgör ett äliggande, som egentligen borde af en bankens
-          tjensteman fullgöras, hvarigenom direktionen blifver sin egen
-          öfvervakare. Värden om hvalfvet borde äligga öfverkamreraren jemte
-          öfverkassören. Detta eger redan rum beträffande det hvalf, hvari
-          bankens skuldsedlar, m. m. förvaras. Det heter i &amp; 39, mom. 4:
-          y Bankens skuldsedlar, panter och säkerhetshandlingar stä vid
-          hufvudkontoret under förste kamrerarens värd och tillsyn samt
-          förvaras i brandfria hvalf, hvartill ena nyckeln omhänderhafves
+          direktionen, som enligt &amp; 45, mom. 3 har att öfvervaka att
+          bankens samtliga embetsmän och betjente samvetsgrant fullgöra
+          sina äligganden, sjelf fullgör ett äliggande, som egentligen borde
+          af en bankens tjensteman fullgöras, hvarigenom direktionen blifver
+          sin egen öfvervakare. Värden om hvalfvet borde äligga öfverkamreraren
+          jemte öfverkassören. Detta eger redan rum beträffande det hvalf,
+          hvari bankens skuldsedlar, m. m. förvaras. Det heter i &amp; 39,
+          mom. 4: y Bankens skuldsedlar, panter och säkerhetshandlingar
+          stä vid hufvudkontoret under förste kamrerarens värd och tillsyn
+          samt förvaras i brandfria hvalf, hvartill ena nyckeln omhänderhafves
           af samma kamrerare och den andra vid hufvudkontoret af öfverkamreraren".
           Sistnämnda tjensteman har således nu redan nyckeln till detta
           hvalf och dä ät honom kan anförtros nyckeln till det hvalf, der
@@ -2695,15 +2700,15 @@
           molemmista näistä anomuksista yhteinen ponsi. Tähän positiiviseen
           ponteen, mikäli se koskee myöskin valokuvaajia, antoi aihetta
           muun muassa eräs kohta herra Holmberg'in tekemässä anomusehdotuksessa.
-          Siinä viitataan voimassa olevan asetuksen 17 &amp;:ään, jossa sanotaan
-          muun ohessa , jos joku ilman toisen tilauksetta on tehnyt fotografillisen
-          kuvauksen luonnon mukaan, taikka fotografian kautta kuvannut taideteosta,
-          jonka jäljitteleminen on jokaiselle sallittu, älköön toinen sitä
-          kuvausta fotografillisella tavalla myytäväksi jälitelkö** j. n.
-          e. Anomuksen tekijä lausuu tämän johdosta: ,Tästä käy täysin selvästi
-          esiin, että valokuvaajan työtä — hänen itsenäisesti tekemäänsä
-          kuvaa — tosin ei saa viiden vuoden kuluessa valokutelytapoja vastaan
-          on valokuvaaja tämänkin ajan kuluessa oikeudeton'*.
+          Siinä viitataan voimassa olevan asetuksen 17 &amp;:ään, jossa
+          sanotaan muun ohessa , jos joku ilman toisen tilauksetta on tehnyt
+          fotografillisen kuvauksen luonnon mukaan, taikka fotografian kautta
+          kuvannut taideteosta, jonka jäljitteleminen on jokaiselle sallittu,
+          älköön toinen sitä kuvausta fotografillisella tavalla myytäväksi
+          jälitelkö** j. n. e. Anomuksen tekijä lausuu tämän johdosta: ,Tästä
+          käy täysin selvästi esiin, että valokuvaajan työtä — hänen itsenäisesti
+          tekemäänsä kuvaa — tosin ei saa viiden vuoden kuluessa valokutelytapoja
+          vastaan on valokuvaaja tämänkin ajan kuluessa oikeudeton'*.
         </note>
         <note xml:id="i-3uDjPS8hExUZXZ899QhwUL">
           Mitä sitten tulee toiseen kohtaan, jossa vastalause eroaa valiokunnan
@@ -3717,8 +3722,8 @@
             I likhet med båda de föregående talarena mäste äfven jag anse
             att jernvägsutskottets sammanjemkningsförslag icke i alla afseenden
             är riktigt uppgjordt eller rättare att det är ofullständigt. Säväl
-            ordalagen som andemeningen i 67 &amp; L. O. kunna icke innebära annat
-            än att, der ständerna stanna i skiljaktiga beslut, en sammanjemkning
+            ordalagen som andemeningen i 67 &amp; L. O. kunna icke innebära
+            annat än att, der ständerna stanna i skiljaktiga beslut, en sammanjemkning
             bör försökas, förrän frågan kan anses förfallen. Jernvägsutskottet
             har i afseende å Kuopio—lIisalmi och Helsingfors—Karis eventuelt
             Gerknäs banan underlätit att göra nägot sädant sammanjemkningsförslag.
@@ -3870,21 +3875,21 @@
           minäkin siis toivoisin että pappissääty päättäisi lykätä tämän
           asian takaisin valiokuntaan yhteensovitusta varten. Vastalauseen
           tekijän herra Avellan'in kanssa olen yhtä mieltä siitä, etteivät
-          67 ja 73 &amp;:t V. J:ssä ole toisistaan kokonaan erotettavat, vaan
-          ovat jossain määrin sovitettavat yhteen. Kun säädyt tulevat eriäviin
-          päätöksiin, on valiokunnan koetettava mahdollisuuden mukaan toimittaa
-          yhteensovitusehdotus, ja sitten vasta, jos ei yhteensovitukseen
-          saada kolmen säädyn kannatusta, vaan kaksi säätyä jää kahta vastaan,
-          raukee asia. Että säädyt ovat tätä kantaa noudattaneet ja pitäneet
-          velvollisuutenaan esittää yhteensovitusta silloin, kun ensi käsittelyssä
-          kaksi säätyä on asettunut kahta vastaan, on herra Avellan osottanut
-          esimerkeillä juuri rautatien alalta. Milloin on valiokunnan mietintö,
-          milloin armollinen esitys, milloin joku muu asianhaara pantu sovituksen
-          perusteeksi. Tuoreimmassa muistissa on kieliasia, jota käsiteltäessä
-          myös ensi kerralla kaksi säätyä jäi kahta vastaan. Yhteensovitus
-          tehtiin kumminkin eikä tietääkseni valiokuntaa ole moitittu siitä
-          eikä syytetty laittomuudesta sentähden että se meni säädyille
-          tarjoomaan yhteensovitusehdotusta.
+          67 ja 73 &amp;:t V. J:ssä ole toisistaan kokonaan erotettavat,
+          vaan ovat jossain määrin sovitettavat yhteen. Kun säädyt tulevat
+          eriäviin päätöksiin, on valiokunnan koetettava mahdollisuuden
+          mukaan toimittaa yhteensovitusehdotus, ja sitten vasta, jos ei
+          yhteensovitukseen saada kolmen säädyn kannatusta, vaan kaksi säätyä
+          jää kahta vastaan, raukee asia. Että säädyt ovat tätä kantaa noudattaneet
+          ja pitäneet velvollisuutenaan esittää yhteensovitusta silloin,
+          kun ensi käsittelyssä kaksi säätyä on asettunut kahta vastaan,
+          on herra Avellan osottanut esimerkeillä juuri rautatien alalta.
+          Milloin on valiokunnan mietintö, milloin armollinen esitys, milloin
+          joku muu asianhaara pantu sovituksen perusteeksi. Tuoreimmassa
+          muistissa on kieliasia, jota käsiteltäessä myös ensi kerralla
+          kaksi säätyä jäi kahta vastaan. Yhteensovitus tehtiin kumminkin
+          eikä tietääkseni valiokuntaa ole moitittu siitä eikä syytetty
+          laittomuudesta sentähden että se meni säädyille tarjoomaan yhteensovitusehdotusta.
         </note>
         <note xml:id="i-8f9XN9NSdPGSASTFZdj348">
           Rohkenen sentähden vieläkin esittää asian lykkäämistä takasin
@@ -4134,9 +4139,9 @@
             Vid behandlingen af denna proposition hafva ständerna delvis stannat
             i olika meningar. Säledes kan man icke här utan vidare tilllämpa
             grundsatsen att, när tvä ständ förkastat ett förslag, det i och
-            med detsamma har fallit, utan anser jag det vara med 67 &amp; L. O.
-            öfverensstämmande att ärendet äterförvisas till utskottet, pä
-            det att utskottet mätte göra ett försök till sammanjemkning.:
+            med detsamma har fallit, utan anser jag det vara med 67 &amp;
+            L. O. öfverensstämmande att ärendet äterförvisas till utskottet,
+            pä det att utskottet mätte göra ett försök till sammanjemkning.:
           </seg>
         </u>
         <note xml:id="i-E6qdQs7cLsyKf4894BGdCY">
@@ -5906,13 +5911,13 @@
           vända sig till denna dugliga och arbetsamma befolkning, som pä
           det förskräckligaste sätt blir utsugad af en grym hord afrikaner.
           Mirabeau, som stod i förbindelse med Moses Mendelsohn i Berlin,
-          abb&amp; Gregoire med flere, nödgades anstränga sig för judarna till
-          dess Assemble Constituente onsdagen den 27 September 1791 tillerkände
-          alla judar medborgerliga rättigheter. Dröjsmälet hade sin grund
-          i de mest energiska motföreställningar frän Elsass. Vi hotas af
-          en ny landspläga, judarna begära borgerliga rättigheter i hela
-          Frankrike, men vi skola underkasta oss hvarje ansträngning för
-          att bevara värt fädernesland för denna nya olycka. Men dröjsmälet
+          abb&amp; Gregoire med flere, nödgades anstränga sig för judarna
+          till dess Assemble Constituente onsdagen den 27 September 1791
+          tillerkände alla judar medborgerliga rättigheter. Dröjsmälet hade
+          sin grund i de mest energiska motföreställningar frän Elsass.
+          Vi hotas af en ny landspläga, judarna begära borgerliga rättigheter
+          i hela Frankrike, men vi skola underkasta oss hvarje ansträngning
+          för att bevara värt fädernesland för denna nya olycka. Men dröjsmälet
           förorsakades och märkvärdigt nog genom motständ af de sedan läng
           tid tillbaka naturaliserade och högt aktade portugisiska judarna
           i södra Frankrike i Bordeaux och Bayonne, hvilka icke ville likställas
@@ -6845,9 +6850,9 @@
           Euroopan maissa. Ja yhtä vähän ovat reformijuutalaisten opit Mooseksen
           oppia. Mutta yhdessä asiassa ovat Talmud-juutalaiset ja reformijuutalaiset
           samallaisia, nimittäin siinä, että he molemmat uskovat että he
-          ovat valittu kansa, kansa xa? 2&amp;0xnC, par excellence, jonka kutsumuksena
-          on, kuten psalmissa sanotaan, ,saada pakanat perinnöksensä ja
-          maailman ääret omaksensa, saadakseen heitä särkeä rautaisella
+          ovat valittu kansa, kansa xa? 2&amp;0xnC, par excellence, jonka
+          kutsumuksena on, kuten psalmissa sanotaan, ,saada pakanat perinnöksensä
+          ja maailman ääret omaksensa, saadakseen heitä särkeä rautaisella
           valtikalla ja niinkuin saviset astiat heitä murentaa*. Tähän heitä
           auttamaan ovat yllä esiin tuodut Schulehan-Aruchin opit täydellisesti
           omiansa, ja niitä johdonmukaisesti noudattamalla ovat he jo pääsemäisillään
@@ -7969,19 +7974,19 @@
           som möjligt åt kommunerna utgifva odlingslån och efter behof bevilja
           tillskottsanslag för ändamålet". Men det synes mig att, om man
           ihägkommer att tvenne stora anslag, det ena ä 2,000,000 och det
-          andra &amp; 1,600,000 blifvit af regeringen beviljade för att genom
-          kommunernas förmedling utgifvas säsom län ät egare af smä jordlägenheter,
-          kunde man väl hafva skäl att omformulera utskottets kläm ungefärligen
-          sålunda: Då regeringen redan genom två stora anslag visat sig
-          angelägen att söka befrämja jordens uppodling genom lån åt landets
-          kommuner, så måste man kunna förutsätta att regeringen fortfarande
-          skall handla i samma riktning, hvarför någon uppmaning från ständernas
-          sida icke torde vara af behofvet påkallad. Jag för min del är
-          visserligen osäker om klämmen ovilkorligen bör förändras. Jag
-          har vid utskottets kläm endast satt ett frågetecken och öfverlemnar
-          nu åt ståndet att efter de af mig meddelade upplysningar afgöra,
-          huruvida ståndet vill godkänna klämmen såsom sådan eller anser
-          de meddelade upplysningarna böra inverka på klämmens omformulering.
+          andra &amp; 1,600,000 blifvit af regeringen beviljade för att
+          genom kommunernas förmedling utgifvas säsom län ät egare af smä
+          jordlägenheter, kunde man väl hafva skäl att omformulera utskottets
+          kläm ungefärligen sålunda: Då regeringen redan genom två stora
+          anslag visat sig angelägen att söka befrämja jordens uppodling
+          genom lån åt landets kommuner, så måste man kunna förutsätta att
+          regeringen fortfarande skall handla i samma riktning, hvarför
+          någon uppmaning från ständernas sida icke torde vara af behofvet
+          påkallad. Jag för min del är visserligen osäker om klämmen ovilkorligen
+          bör förändras. Jag har vid utskottets kläm endast satt ett frågetecken
+          och öfverlemnar nu åt ståndet att efter de af mig meddelade upplysningar
+          afgöra, huruvida ståndet vill godkänna klämmen såsom sådan eller
+          anser de meddelade upplysningarna böra inverka på klämmens omformulering.
         </note>
         <note xml:id="i-52HevMKhqVsjBDYGkEzp8f" type="speaker">
           Professori Palmén:
@@ -8239,8 +8244,8 @@
         <note xml:id="i-TbSg4Rmn7TFujy2AXsywtG">
           Yleisen anomusvaliokunnan ehdotus säätyjen eriävien päätösten
           yhteensovittamiseksi kysymyksessä, joka koskee valiokunnan mietintöä
-          n:o 19 seitsemän papppis- ja talonpoikaissä&amp;dylle annetun anomuksen
-          johdosta erinäisistä lääkäri- ja sairaanhoito-asioista.
+          n:o 19 seitsemän papppis- ja talonpoikaissä&amp;dylle annetun
+          anomuksen johdosta erinäisistä lääkäri- ja sairaanhoito-asioista.
         </note>
         <note xml:id="i-EzR9byficZmYpDEpWdswfG">
           Esitettiin pöydällä ollut yleisen anomusvaliokunnan mietintö
@@ -8978,8 +8983,8 @@
           beslut i denna del; samt
         </note>
         <note xml:id="i-FBZQXDNt7XHZaL6PWLAvSk">
-          att, vidkommande &amp; 82, förslaget godkändes med förbehåll om införande
-          af ett ytterligare moment af följande innehäll:
+          att, vidkommande &amp; 82, förslaget godkändes med förbehåll
+          om införande af ett ytterligare moment af följande innehäll:
         </note>
         <note xml:id="i-DTmM1gUUGpxeaa2Rr1Nwrs">
           Kommun vare dock obetaget att genom beslut vid kommunalstämma
@@ -11835,8 +11840,8 @@
           drabba äfven de fattigaste. Men jag anser mig dock af lydnad för
           presteständets fattade beslut böra enträget uppmana ståndet att
           vidblifva sin åsigt och godkänna 6 &amp; sådan den här föreligger,
-          emedan denna 6 &amp; är ett uttryck af den militära auktoritets vilja,
-          för hvilken presteståndet senaste gång böjde sig.
+          emedan denna 6 &amp; är ett uttryck af den militära auktoritets
+          vilja, för hvilken presteståndet senaste gång böjde sig.
         </note>
         <note xml:id="i-G6AKSNH51a9nUBwXY6j29p" type="speaker">
           Professori Hermanson:
@@ -11907,8 +11912,8 @@
           armollisen esityksen uuteen ehdotukseensa ja siitä pyyhkii pois
           ne 4 luvun pvkälät, jotka silloin päätettiin pois eroitettaviksi,
           ynnä pitää silmällä että jälelle jääneet ehdotukset eivät tulisi
-          toisiansa vastaan sotiviksi. Minä en katso 6 &amp;:n säännöksiä niin
-          vaarallisiksi niille, joilla on näitä otettavia hevosia enemmän,
+          toisiansa vastaan sotiviksi. Minä en katso 6 &amp;:n säännöksiä
+          niin vaarallisiksi niille, joilla on näitä otettavia hevosia enemmän,
           mutta minä ajattelen niitä, joilla on yksi ainoa hevonen, josta
           useasti heidän koko taloutensa riippuu, ja siitä syystä en voi
           hyväksyä valiokunnan ehdotusta tässä kohden.
@@ -12817,8 +12822,8 @@
           Keisarillisen Majesteetin armollisen esityksen johdosta, joka
           sisältää asetuksen maalla olevien taajaan asuttujen yhdyskuntain
           järjestämisestä eräissä tapauksissa, on sellainen huomaamattomuus
-          Valiokunnan puolelta tapahtunut ettei 6 &amp;:n toisen lauseen suomalainen
-          teksti ole yhtäpitävä ruotsinkielisen tekstin kanssa,
+          Valiokunnan puolelta tapahtunut ettei 6 &amp;:n toisen lauseen
+          suomalainen teksti ole yhtäpitävä ruotsinkielisen tekstin kanssa,
         </note>
         <pb facs="https://swerik-project.github.io/valtiopaivat-records-pdf/1897/ptk_1897_papisto_III/ptk_1897_papisto_III-0215"/>
         <note xml:id="i-LTX5Lz1XJFA1sFfa2Bgz1i">
@@ -13446,8 +13451,8 @@
             För min del mäste jag i sakens nuvarande skick inskränka mig
             till att pröfva, huruvida här föreligger en privilegiifräga eller
             icke. Ty här förefinnes tre ständs beslut i saken. Jag kan icke
-            förstå annat än att stadgandet i 4 &amp; af prestaprivilegierna af
-            är 1723, hvilka tillförsäkra presterskapet rätt att utan andras
+            förstå annat än att stadgandet i 4 &amp; af prestaprivilegierna
+            af är 1723, hvilka tillförsäkra presterskapet rätt att utan andras
             förfäng bruka och häfda eller häfda läta prestboställens egor,
             icke tillförsäkrat prestboställenas innehafvare jagträtt. Efteråt
             hafva prestboställenas innehafvare fätt jagträtt, men jag kan
@@ -20289,12 +20294,12 @@
         </note>
         <note xml:id="i-NQx5D72Sbp7AJynEwRTLgi">
           Toiselta puolen on sanottu, että koska 21 p:nä Elokuuta 1772
-          annetun hallitusmuodon 2 &amp; nimenomaan määrää, että kuningas älköön
-          keneltäkään riistäkö eikä riistää antako mitään omaisuutta, irtainta
-          eikä kiinteätä, ilman laillista tuomiota ja tutkintoa, ja koska
-          saman hallitusmuodon 39 &amp; vakuuttaa, että jokainen saa nauttia
-          laillisia oikeuksiansa ja laillisesti saatuja etuuksiaan, mutta
-          pakkolunastus on toimenpide, jonka kautta yksityiseltä henkilöltä
+          annetun hallitusmuodon 2 &amp; nimenomaan määrää, että kuningas
+          älköön keneltäkään riistäkö eikä riistää antako mitään omaisuutta,
+          irtainta eikä kiinteätä, ilman laillista tuomiota ja tutkintoa,
+          ja koska saman hallitusmuodon 39 &amp; vakuuttaa, että jokainen
+          saa nauttia laillisia oikeuksiansa ja laillisesti saatuja etuuksiaan,
+          mutta pakkolunastus on toimenpide, jonka kautta yksityiseltä henkilöltä
           riistetään hänen omaisuuttansa yleistä tarkoitusta varten, niin
           ei mainittuja säännöksiä voida tulkita muutoin kuin että sellainen
           oikeusmuoto, kuin pakkolunastus — joka siihen aikaan vielä oli
@@ -20328,9 +20333,9 @@
           kiinteän omaisuuden omistusoikeuteen ja Säätyjen menettely puheena
           olevilla valtiopäivillä on voinut johtua siitä, että mainittua
           asianlaitaa ei ole huomattu, jota paitsi mainitun asetuksen 1
-          &amp;, joka sisältää pakkoluovutuksen yleiset perustukset, on kaikkien
-          Säätyjen hyväksymä, ja niin muodoin kaikissa tapauksissa syntynyt
-          lain määräämässä järjestyksessä.
+          &amp;, joka sisältää pakkoluovutuksen yleiset perustukset, on
+          kaikkien Säätyjen hyväksymä, ja niin muodoin kaikissa tapauksissa
+          syntynyt lain määräämässä järjestyksessä.
         </note>
         <note xml:id="i-NkJBGjoZXUyjN1jhwXGj6L">
           Tähän vähemmistön esiintuomaan mielipiteeseen ei ole voinut yhtyä
@@ -20771,9 +20776,9 @@
         </note>
         <note xml:id="i-9gk1qndpun9QynhisWKmRj">
           Lakivaliokunnan = mietintö n:o 13 porvarissäädyssä tehdyn säätyesityksen
-          johdosta siitä, että 2 &amp;:n 1 kohta armollisessa asetuksessa yksityisistä
-          rautateistä yleistä keskusliikettä varten 15 p:ltä Huhtikuuta
-          1889 muutettaisiin toisin kuuluvaksi;
+          johdosta siitä, että 2 &amp;:n 1 kohta armollisessa asetuksessa
+          yksityisistä rautateistä yleistä keskusliikettä varten 15 p:ltä
+          Huhtikuuta 1889 muutettaisiin toisin kuuluvaksi;
         </note>
         <note xml:id="i-STibhnTXwzpNee9UPXCGWP">
           Lakivaliokunnan mietintö n:o 15 erään porvarissäädyssä tehdyn
@@ -23833,31 +23838,31 @@
             utsäges, som skulle binda äfven kommande ständer, sä kunde man:
             tycka att alla borde vara ense om att godkänna dessa klämmar.
             Den omständighet, som dock gör mig betänksam, är just den stora
-            obestämdheten i desamma, icke i afseende &amp; angifvande af, i hvilka
-            punkter en ändring borde komma i fråga, utan i afseende ä angifvandet
-            af i hvilken riktning och pä hvad sätt denna ändring skall åstadkommas.
-            Den diskussion, som nu försiggätt i ståndet, synes mig bära tydligt
-            vittnesbörd om att i denna obestämdhet dock ligger en ganska stor
-            olägenhet. När ständerna nu begära , att sådana grupper af landets
-            befolkning, som icke äroirepresentationen företrädde, sävidt möjligt
-            skulle erhälla rätt att deltaga i val och väljas till landtdagsman*,
-            sä är detta utan tvifvel en önskan, som är fullt motiverad och
-            päkallad af bestäende förhällanden. Ty det är utan tvifvel en
-            af de största olägenheter af gällande L. O., att sä stora omfattande
-            grupper af medborgare, hvilka innehafva alla kvalifikationer för
-            politisk valbefogenhet, för närvarande äro derifrän uteslutna.
-            Men när man går denna anhållan närmare in pä lifvet, sä visar
-            det sig. säsom det visat sig vid diskussionen i afton, att man
-            visserligen är ense om att man borde bereda valrätt ät dessa kategorier,
-            men att de icke kunna finna plats i nägot ständ. Det är naturligt
-            att man i detta stånd särskildt betonar, att de ingalunda kunna
-            finna plats i presteständet. Jag förmodar att man med lika eftertryck
-            i bondeständet betonar, att de icke kunna finna plais i bondeständet,
-            och det kan väl icke gerna tänkas utan en väsentlig omgestaltning
-            af vär representation, att embetsmän eller folkskollärare pä landet
-            skulle kunna vinna plats i borgareståndet. De kunna väl icke heller
-            vinna plats i ridderskapet och adeln utan för så vidt Hans Majestäts
-            särskilda nåd träffar
+            obestämdheten i desamma, icke i afseende &amp; angifvande af,
+            i hvilka punkter en ändring borde komma i fråga, utan i afseende
+            ä angifvandet af i hvilken riktning och pä hvad sätt denna ändring
+            skall åstadkommas. Den diskussion, som nu försiggätt i ståndet,
+            synes mig bära tydligt vittnesbörd om att i denna obestämdhet
+            dock ligger en ganska stor olägenhet. När ständerna nu begära
+            , att sådana grupper af landets befolkning, som icke äroirepresentationen
+            företrädde, sävidt möjligt skulle erhälla rätt att deltaga i val
+            och väljas till landtdagsman*, sä är detta utan tvifvel en önskan,
+            som är fullt motiverad och päkallad af bestäende förhällanden.
+            Ty det är utan tvifvel en af de största olägenheter af gällande
+            L. O., att sä stora omfattande grupper af medborgare, hvilka innehafva
+            alla kvalifikationer för politisk valbefogenhet, för närvarande
+            äro derifrän uteslutna. Men när man går denna anhållan närmare
+            in pä lifvet, sä visar det sig. säsom det visat sig vid diskussionen
+            i afton, att man visserligen är ense om att man borde bereda valrätt
+            ät dessa kategorier, men att de icke kunna finna plats i nägot
+            ständ. Det är naturligt att man i detta stånd särskildt betonar,
+            att de ingalunda kunna finna plats i presteständet. Jag förmodar
+            att man med lika eftertryck i bondeständet betonar, att de icke
+            kunna finna plais i bondeständet, och det kan väl icke gerna tänkas
+            utan en väsentlig omgestaltning af vär representation, att embetsmän
+            eller folkskollärare pä landet skulle kunna vinna plats i borgareståndet.
+            De kunna väl icke heller vinna plats i ridderskapet och adeln
+            utan för så vidt Hans Majestäts särskilda nåd träffar
           </seg>
         </u>
         <pb facs="https://swerik-project.github.io/valtiopaivat-records-pdf/1897/ptk_1897_papisto_III/ptk_1897_papisto_III-0402"/>
@@ -24856,8 +24861,8 @@
         </note>
         <note xml:id="i-QNLh3zjic1sjhw6ZujCsGJ">
           3) herrain Herckmanin, Idmanin ja (Genetzin tekemää, sellaisesta
-          muutoksesta Naimiskaaren 1 luvun 6 &amp;:ään, ettei nainen saisi meunä
-          naimisiin ennenkuin hän on täyttänyt kahdeksantoista vuotta;
+          muutoksesta Naimiskaaren 1 luvun 6 &amp;:ään, ettei nainen saisi
+          meunä naimisiin ennenkuin hän on täyttänyt kahdeksantoista vuotta;
         </note>
         <note xml:id="i-SpARa4tJj95gQQgc8sBer6">
           4) herra A Jusölius'en tekemää, järjestetyn notariaattilaitoksen
@@ -26384,8 +26389,8 @@
           säädyissä tehtyjen anomusehdotusten johdosta, jotka tarkoittavat
         </note>
         <note xml:id="i-R7ptR9uqNEftoVL2dpKj9G">
-          valtiopäiväjärjestyksen 11, 12, 13 ja 14 &amp;:n muuttamista. Tämän
-          jälkeen puheenvuoron saatuaan lausui
+          valtiopäiväjärjestyksen 11, 12, 13 ja 14 &amp;:n muuttamista.
+          Tämän jälkeen puheenvuoron saatuaan lausui
         </note>
         <note xml:id="i-4tcz1EYJ9C1n6L1HYbps7o" type="speaker">
           Professori Forsman:
@@ -28361,9 +28366,9 @@
           Korkein kunnioitettavalle Pappis-säädylle.
         </note>
         <note xml:id="i-44ze8JnTeTvPWcL5MJ441N">
-          Mallasjuoma asetuksen 25 &amp;:ssä on kielletty kotitekoisen oluen
-          myynti, ja valppaat kruununpalvelijat voivat sen nojalla ainakin
-          jossain määrin estää tämän päihdyttävän juomatavaran kaupittelemista
+          Mallasjuoma asetuksen 25 &amp;:ssä on kielletty kotitekoisen
+          oluen myynti, ja valppaat kruununpalvelijat voivat sen nojalla
+          ainakin jossain määrin estää tämän päihdyttävän juomatavaran kaupittelemista
           maaseuduilla ja siitä lähteviä surkuteltavia seurauksia. Mutta
           koska samassa &amp;:ssä sallitaan sellaisten mallasjuomain myymistä,
           jotka ,oman perheen avulla ja sellaisissa huoneissa, jotka eivät
@@ -28459,12 +28464,12 @@
         <note xml:id="i-BFVd1wSHEvUpitRqUDeYGg">
           Armollisessa asetuksessa paloviinan ja muiden poltettujen tahi
           tislattujen väkijuomain myymisestä, kuljetuksesta ja varastossa
-          pitämisestä Kesäkuun 9 p:ltä 1892 san 23 &amp;:ssä oleva säädös, että
-          apteekissa saadaan myydä läarinnöllisiä tarkoituksia varten paloviinaa,
-          väkiviinaa ja eetteriä, on useissa paikoissa maaseuduilla antanut
-          tilaisuutta hyvinkin ikäviin väärinkäytöksiin. Sanotun pykälän
-          toisen kohdan mukaan saa nykyään myydä näitä aineita ilman lääkärin
-          määräystäkin, jos niihin vaikka kuinkakin vähän on sekoitettu
+          pitämisestä Kesäkuun 9 p:ltä 1892 san 23 &amp;:ssä oleva säädös,
+          että apteekissa saadaan myydä läarinnöllisiä tarkoituksia varten
+          paloviinaa, väkiviinaa ja eetteriä, on useissa paikoissa maaseuduilla
+          antanut tilaisuutta hyvinkin ikäviin väärinkäytöksiin. Sanotun
+          pykälän toisen kohdan mukaan saa nykyään myydä näitä aineita ilman
+          lääkärin määräystäkin, jos niihin vaikka kuinkakin vähän on sekoitettu
           jotain toista ainetta, aina kahteen kymmenenteen osaan litraa
           yhdellä kerralla. Löytyy apteekejä, jotka tätä oikeuttaan käyttävät
           niin vapaasti, että kokonaiset kyläkunnat ympäristöllä tästä väärinkäytöksestä
@@ -29132,8 +29137,8 @@
           1896—1897 on Sortavalan lyseon oppilasmäärä:
         </note>
         <note xml:id="i-UT7sDrbSeyxvUjjuVJrAwY">
-          I luokalla . . . . 26 oppilasta, ID =; e &lt; wm x 21 IT » vs: w
-          « 16 w IV , e. 16 N V 6 aan = 8 6
+          I luokalla . . . . 26 oppilasta, ID =; e &lt; wm x 21 IT » vs:
+          w « 16 w IV , e. 16 N V 6 aan = 8 6
         </note>
         <note xml:id="i-4jPHimqsSxNbJHrVcBrCCU">
           "Yhteensä 91 oppilasta.
@@ -29722,11 +29727,11 @@
           erforderligt, och vill man på sådan grund bibehålla de nuvarande
           slutorden, så litar man till en falsk föreställning och gynnar
           denna, men följderna kunna icke uteblifva. De visa sig bland annat
-          uti förtviflan och samvetsnöd hos många samvetsömma &amp; ena sidan,
-          uti lätt, för att icke säga lättsinnig uppfattning och lättsinnigt
-          gående af ed, å den andra. Mä det tillåtas oss att till belysande
-          af det sagda åberopa några uttalanden vid senaste kyrkomöte. Den
-          man, som bragt frä-
+          uti förtviflan och samvetsnöd hos många samvetsömma &amp; ena
+          sidan, uti lätt, för att icke säga lättsinnig uppfattning och
+          lättsinnigt gående af ed, å den andra. Mä det tillåtas oss att
+          till belysande af det sagda åberopa några uttalanden vid senaste
+          kyrkomöte. Den man, som bragt frä-
         </note>
         <pb facs="https://swerik-project.github.io/valtiopaivat-records-pdf/1897/ptk_1897_papisto_III/ptk_1897_papisto_III-0521"/>
         <note xml:id="i-LDZfMBBLWtJSupZz74CmDs">
@@ -29744,10 +29749,10 @@
           blifvit i andligt afseende bortkomne, ja äfven sinnesrubbade,
           för edsformulärets skull. Om en gång alla offer på detta område
           få uttala den nöd, de lidit, nog skola vi häpna öfver den härjning,
-          som det oriktiga edsformuläret kommit &amp; stad.* — Och detta bekräftades
-          af andra talare vid mötet. — A andra sidan yttrades, att känslan
-          för edens helgd i skilda delar af landet vore ganska svag. Saken
-          är alltsä af högst allvarsam beskaffenhet.
+          som det oriktiga edsformuläret kommit &amp; stad.* — Och detta
+          bekräftades af andra talare vid mötet. — A andra sidan yttrades,
+          att känslan för edens helgd i skilda delar af landet vore ganska
+          svag. Saken är alltsä af högst allvarsam beskaffenhet.
         </note>
         <note xml:id="i-UX4tSKZfKjEDj5z2hj3Uxg">
           Man har uttalat, att bestämningarna om ed och edgäng äfven i
@@ -30094,8 +30099,8 @@
         <note xml:id="i-YZjFPXNYXwJhc2ZFVoGi74">
           alt lagstiftningen angående rättighet att drifva apotheksrörelse
           med det snaraste måtte ordnas med konsegvent tillämpning af realkoncessionssystemet
-          pä ett sådant sätt, att &amp; mindre allmänhetens intresse mä genom
-          ett tillräckligt antal apoihek tillgodoses än apothekareyrkets
+          pä ett sådant sätt, att &amp; mindre allmänhetens intresse mä
+          genom ett tillräckligt antal apoihek tillgodoses än apothekareyrkets
           idkare lagligen tryggas vid resultaten af sin arbetsverksamhet.
         </note>
         <note xml:id="i-PdpeNyBSi1rbceK1kQghw">
@@ -31401,11 +31406,11 @@
         <note xml:id="i-VAjKEfw5eW2QkYQYxLxmMe">
           Minun ei tarvitse pitemmältä todistella, kuinka välttämättömän
           tarpeellista on, että äänivaltaa Porvarisäädyssä koskevat säädökset
-          Valtiopäiväjärjestyksen 12 &amp;:ssä niin pian kuin mahdollista selviksi
-          ja tarkoiksi saatetaan sekä kohtuuttomat rajoitukset niistä poistetaan.
-          Tämä tarkoitus saavutetaan, jos sanotun &amp;:n 3:s kohta muutetaan
-          siihen suuntaan kuin yllämainitussa arm. esityksessä 1885 vuoden
-          valtiopäiville ehdotettiin ja laaditaan näin kuuluviksi:
+          Valtiopäiväjärjestyksen 12 &amp;:ssä niin pian kuin mahdollista
+          selviksi ja tarkoiksi saatetaan sekä kohtuuttomat rajoitukset
+          niistä poistetaan. Tämä tarkoitus saavutetaan, jos sanotun &amp;:n
+          3:s kohta muutetaan siihen suuntaan kuin yllämainitussa arm. esityksessä
+          1885 vuoden valtiopäiville ehdotettiin ja laaditaan näin kuuluviksi:
         </note>
         <note xml:id="i-QyEBhmhbNQft6KBarWJYH">
           vÄänivaltaa ei ole:
@@ -32187,10 +32192,10 @@
         </note>
         <note xml:id="i-JJRQr61byUJ625AkwWDeuq">
           Oleum therebintin&amp; crudum — "ranka terpetti — alle 100 grammaa
-          . . &lt;, » «+ » 4:30 Todellinen kauppahinta . « . « « &lt; + » 0:35
-          Voitto on. . . . » 1,220 %, Bicarbonas natricus — soda — alle
-          100. grammaa » 3: 25 I Todellinen kauppahinta . . . .« « &lt; &lt; »
-          0: 20 Voitto on. . . kosia a x «ay 1,600
+          . . &lt;, » «+ » 4:30 Todellinen kauppahinta . « . « « &lt; +
+          » 0:35 Voitto on. . . . » 1,220 %, Bicarbonas natricus — soda
+          — alle 100. grammaa » 3: 25 I Todellinen kauppahinta . . . .«
+          « &lt; &lt; » 0: 20 Voitto on. . . kosia a x «ay 1,600
         </note>
         <note xml:id="i-AcA3SgtfpHQJkgEAVubZ8X">
           Harvinaisemmilla lääkkeillä on vielä suurempi i prosent niinkuin
@@ -33114,9 +33119,9 @@
           gjort sig känd för ordentlighet och i öfrigt finnes lämplig.
         </note>
         <note xml:id="i-4gP7heCnXTeRWZzMtKMcEB">
-          r fråga om tjenstehjons anställning ä&amp; utrikes ort, skall emellan
-          kommissionär &amp; ena samt tjenstehjon &amp; andra sidan upprättas kontrakt,
-          enligt hvilket kommissionären bland annat
+          r fråga om tjenstehjons anställning ä&amp; utrikes ort, skall
+          emellan kommissionär &amp; ena samt tjenstehjon &amp; andra sidan
+          upprättas kontrakt, enligt hvilket kommissionären bland annat
         </note>
         <pb facs="https://swerik-project.github.io/valtiopaivat-records-pdf/1897/ptk_1897_papisto_III/ptk_1897_papisto_III-0605"/>
         <note xml:id="i-Xet8LetV5FsTeBS1n8N9NU">
@@ -34114,7 +34119,8 @@
         </note>
         <note xml:id="i-Tu2uJsApm3aaL4CVFtJuMw">
           att bestämma sin arbetsordning, utse tingets ordförande för tre
-          &amp;r i sänder, äfvensom ärligen välja sekreterare för tingets sammanträden.
+          &amp;r i sänder, äfvensom ärligen välja sekreterare för tingets
+          sammanträden.
         </note>
         <note xml:id="i-7SbHpMziZwcRodGB1gynPr">
           Häradstingets ordförande kallar representanterne tillsammans
@@ -34527,8 +34533,8 @@
           genom planering af marken eller ock genom vägens förande i bugter
           eller kurvor. Såsom regel torde af fackmän antagas att vägens
           maximi stigning på slättland ej bör vara större än 3 på 100, i
-          kuperade trakter 5 &amp; 6 på 100 och i bergstrakter kanske ännu något
-          mer.
+          kuperade trakter 5 &amp; 6 på 100 och i bergstrakter kanske ännu
+          något mer.
         </note>
         <note xml:id="i-9NPpCA6ANmJ3t4wZ7ZCoSM">
           Det behöfves ej mycken eftertanke för att inse att samma principer,
@@ -35692,9 +35698,9 @@
         </note>
         <note xml:id="i-GSo2Thmuo1N2GnXziczG6Z">
           Yllämainittu armollinen asetus 9 päivältä Kesäkuuta 1892 myöntää
-          paloviinän myymisestä &amp;:ssään 12 mom. 4 ja armollinen asetus 10
-          päivältä Huhtikuuta 1895 mallasjuomien myymisestä 12 $:ssään väki-
-          ja mallasjuomien myyntioikeuden rautatien varrelle perustetuille
+          paloviinän myymisestä &amp;:ssään 12 mom. 4 ja armollinen asetus
+          10 päivältä Huhtikuuta 1895 mallasjuomien myymisestä 12 $:ssään
+          väki- ja mallasjuomien myyntioikeuden rautatien varrelle perustetuille
           ravintoloille, jos rautatienhallitus sellaista puolustaa. Puhumatta
           tällä kertaa siitä, ovatko rautatienasemilla tavattavat konjakki-
           ja olut-pulloilla täytetyt pöydät todelliseksi hyödyksi matkustajillekaan,
@@ -36358,9 +36364,10 @@
           mukaan ;
         </note>
         <note xml:id="i-F4rytxqG95KZciUYmyDNBA">
-          että vaalisensuksen mukaan noin 2,000 å&amp; 4,000 markan tulo tuottaisi
-          korkeimman äänimäärän, perustukoon asteikko suorastaan kunnalliseen
-          veroäyriin taikka erittäin säädettyihin tulomääriin ; sekä
+          että vaalisensuksen mukaan noin 2,000 å&amp; 4,000 markan tulo
+          tuottaisi korkeimman äänimäärän, perustukoon asteikko suorastaan
+          kunnalliseen veroäyriin taikka erittäin säädettyihin tulomääriin
+          ; sekä
         </note>
         <note xml:id="i-9EjdA4ijC5MbHBay2FUYov">
           että ne kaupunkikunnat, joilla on valta lähettää valtiopäiville
@@ -39285,12 +39292,12 @@
           157; ks. Yavm. n:o 8.
         </note>
         <note xml:id="i-GUYnQrxK49pDnDmovpNPDr">
-          R. K:n 24 1. 4, 5. ja 6 &amp;:ien lakkauttamisesta, I. 133; L. Tv.
-          157; ks. Tvm. n:o 11. ,
+          R. K:n 24 1. 4, 5. ja 6 &amp;:ien lakkauttamisesta, I. 133; L.
+          Tv. 157; ks. Tvm. n:o 11. ,
         </note>
         <note xml:id="i-NaDH6vfEFeQESdZha8ZFfz">
-          naimiskaaren 12 1. 1 ja 2 &amp;:ien muuttamisesta I. 114; L. Lv.
-          157; ks. Lvk. n:o 178.
+          naimiskaaren 12 1. 1 ja 2 &amp;:ien muuttamisesta I. 114; L.
+          Lv. 157; ks. Lvk. n:o 178.
         </note>
         <note xml:id="i-AKRHGFKi3ECNXG1pBUtzGc">
           lisäyksestä säännöksiin muuttokirjan tai naimisen esteettömyystodistuksen
@@ -39401,9 +39408,9 @@
           lyseoissa, L. Yav. I. 189—190; ks. Yavm. n:o 4. — , 60) komitean
           asettamisesta, johon kuuluisi kokeneita koulumiehiä, tekemään
           ehdotusta erinäisissä kouluasioissa, I. 189; L. Yav. 221—229;
-          ks. Yavm. n:o 23. — » 61) V. J:n 11 &amp;:n muutoksesta, mitä koskee
-          koulun opettajien oikeutta valita edustajia pappissäätyyn, I.
-          189; L. Lv. 215; ks. Lvm. n:o 16. — » 62) valtioavun antamisesta
+          ks. Yavm. n:o 23. — » 61) V. J:n 11 &amp;:n muutoksesta, mitä
+          koskee koulun opettajien oikeutta valita edustajia pappissäätyyn,
+          I. 189; L. Lv. 215; ks. Lvm. n:o 16. — » 62) valtioavun antamisesta
           tyttökoulujen jatko-opistoille, I 190; L. Yav. 229; ks. Yavm,
           n:o 35. — , 63) suhteellisista vaaleista pappissäätyyn, I. 189;
           L. Lv. 215; ks. Lvm. n:o 16. — » 64) väkijuomain väärinkäytöstä
@@ -39424,23 +39431,23 @@
           ks. L-tvm. n:o 9; ” »” » 1880 Maalisk. 15 p:ltä muutoksesta, ks.
           Yavm. n:o 25; a 5 » 1883 Tammik. 15 p:ltä 6 S:n lisäyksestä ks.
           an. n:o 41); = n ” » Hubtik. 2 p:ltä 25 S:n muutoksesta, ks. es.
-          ehd. n:o HD. 5 1, 2 ja 25 &amp;:ien muutoksesta ks. es. ehd. n:o V):
-          5 ä % 5 X 2 &amp;:n 2 mom. muutoksesta ks. Tym. m:o 4. % " » 1886
-          'Toukok. 10 p:ltä, muuttamisesta ks. arm. es. n:o 10 ja komitean
-          mietintö. 5 " 5 n» Elok. 5 p:ltä muutoksesta ja selityksestä ks.
-          E-tvm. n:o 16. 5 4 » 1888 Jouluk. 20 p:ltä muutoksesta ks. L-tvm.
-          n:o 7. » jä » 1889 Huhtik. 15 p:ltä 7, 8, 10, 11 ja 12 $:n muuttamisesta,
-          III. 1546; ks. Lvm. n:o 7; gj % » 1892 Kesäk. 9 p:ltä 23 8:n muutoksesta,
-          ks. es. ehd. n:o IV); n i E » —Heinäk. 19 p:ltä 20 &amp;:n muutoksesta,
-          ks. es. ehd. n:o 1).
+          ehd. n:o HD. 5 1, 2 ja 25 &amp;:ien muutoksesta ks. es. ehd. n:o
+          V): 5 ä % 5 X 2 &amp;:n 2 mom. muutoksesta ks. Tym. m:o 4. % "
+          » 1886 'Toukok. 10 p:ltä, muuttamisesta ks. arm. es. n:o 10 ja
+          komitean mietintö. 5 " 5 n» Elok. 5 p:ltä muutoksesta ja selityksestä
+          ks. E-tvm. n:o 16. 5 4 » 1888 Jouluk. 20 p:ltä muutoksesta ks.
+          L-tvm. n:o 7. » jä » 1889 Huhtik. 15 p:ltä 7, 8, 10, 11 ja 12
+          $:n muuttamisesta, III. 1546; ks. Lvm. n:o 7; gj % » 1892 Kesäk.
+          9 p:ltä 23 8:n muutoksesta, ks. es. ehd. n:o IV); n i E » —Heinäk.
+          19 p:ltä 20 &amp;:n muutoksesta, ks. es. ehd. n:o 1).
         </note>
         <note xml:id="i-YXmWXpp4TvHVtmnSCGB26i">
           Armolliset esitykset: — n:o 1, ylempien kansakoulujen edistämisestä
           Suomen maalaiskunnissa, 1. 29, 30; L. Kv. 82—87; ks. Kym. n:o
           4. — » 2, osittaisista muutoksista oikeuden käymiskaareen, I.
           29, 30; L. Lv. 37; ks. Lvm. n:ot 5 ja 17. 3, v. 1869 annetun V.
-          J:n 11 &amp;:n muuttamisesta, I. 30; L. Lv. 37; ks. Lym. n:o 2; —
-          alamainen vastaus, III. 1592.
+          J:n 11 &amp;:n muuttamisesta, I. 30; L. Lv. 37; ks. Lym. n:o 2;
+          — alamainen vastaus, III. 1592.
         </note>
         <pb facs="https://swerik-project.github.io/valtiopaivat-records-pdf/1897/ptk_1897_papisto_III/ptk_1897_papisto_III-0737"/>
         <note xml:id="i-HCwPF8im7pBtVmzBdfTF8B">
@@ -39512,8 +39519,8 @@
         <note xml:id="i-GRUJrmMwwzFsNP2Jp75M1M">
           sisältävä ehdotuksen asetukseksi siitä että kunnallishallituksesta
           kaupungissa 8 p:nä Joulukuuta 1873 annetun Armollisen asetuksen
-          10 ja 28 &amp; muutetaan toisin kuuluviksi, I. 30; L. Kv. 51; ks.
-          Kvm. n:o 2.
+          10 ja 28 &amp; muutetaan toisin kuuluviksi, I. 30; L. Kv. 51;
+          ks. Kvm. n:o 2.
         </note>
         <note xml:id="i-9gQ3PQFikThVG2eyzyqZUC">
           oikeudesta harjoittaa panttilainausliikettä ammattina, I. 30;
@@ -39638,8 +39645,8 @@
         <note xml:id="i-2CTgwjNrWFiFEi4mEnendA">
           — n:o — D), kirkollisten virkatalojen rakennuskassain käyttämistä
           koskevan Heinäkuun 19 p:nä 1892 annetun Armollisen julistuksen
-          20 &amp;:n muuttamisesta, I. 74; L. L-tv. 77—78, 109—111; ks. L-tvk.
-          n:o 29.
+          20 &amp;:n muuttamisesta, I. 74; L. L-tv. 77—78, 109—111; ks.
+          L-tvk. n:o 29.
         </note>
         <note xml:id="i-WFtCttGYncLMkHxGoDqB6G">
           — ,» ID, pikkutilojen perustamisesta Suomen maalaiskuntiin, I.
@@ -40274,8 +40281,8 @@
           575; — 807.
         </note>
         <note xml:id="i-XZMZFhTrwWcYeseRKABSF6">
-          5 2&amp; sx w x 6 äi I. 442, 458-- 496; 501—512; — Sov. 672, 675—679;
-          — 807.
+          5 2&amp; sx w x 6 äi I. 442, 458-- 496; 501—512; — Sov. 672,
+          675—679; — 807.
         </note>
         <note xml:id="i-LSjRUGutSrmcvcNvaZFm6U">
           HH Rh ax ax 18 n I. 574; 576—590: — Sov. 806, 816— 819; — III.
@@ -40442,8 +40449,8 @@
           Maarianhaminan yksityisestä koulusta ks. Yavm. II. 1393. Maatilojen
           joutumisesta sahaliikkeiden haltuun, ks. an. n:o 5). Mallasjuomain
           myyntiä ja aniskelemista koskevan asetuksen, Huhtikuun 2 p:ltä
-          1883, 25 $:n muutoksesta ks. ehd. n:o III) 1, 2 ja 25 &amp;:n muutoksesta
-          ks. es. ehd. n:o V); 2 $ 2 mom. muuttamisesta ks.
+          1883, 25 $:n muutoksesta ks. ehd. n:o III) 1, 2 ja 25 &amp;:n
+          muutoksesta ks. es. ehd. n:o V); 2 $ 2 mom. muuttamisesta ks.
         </note>
         <pb facs="https://swerik-project.github.io/valtiopaivat-records-pdf/1897/ptk_1897_papisto_III/ptk_1897_papisto_III-0746"/>
         <note xml:id="i-VN5GSLQK5S9LsQw9AzTGcr">
@@ -40519,8 +40526,8 @@
           o.
         </note>
         <note xml:id="i-TGqGAUFMBXz3ma4wPS1kVN">
-          Oikeuden käymiskaaren 6 luvun 4 &amp;:n muuttamisesta ks. arm. es.
-          n:o 32 sekä lainvalmistelukunnan ehdotukset.
+          Oikeuden käymiskaaren 6 luvun 4 &amp;:n muuttamisesta ks. arm.
+          es. n:o 32 sekä lainvalmistelukunnan ehdotukset.
         </note>
         <note xml:id="i-TmPSACgQJmKprtqMiprXia">
           »” 2 luvun 6 ja 8 $:n muutoksesta ks. lainvalmistelu-
@@ -41001,9 +41008,9 @@
           v. 1897 pyydetyistä määrärahoista valtiopäiväkustannusten suorittamiseen,
           maan kansakoulujen voimassa pitämiseen ja Suomen sotaväelle ks.
           arm. es. n:o 31. Valtiopäiväjärjestyksen vaki viss ks. arm. es.
-          n:o 3. ja an. n:ot 50) sekä 3 äi 12 &amp;:n muuttamisesta ks. an.
-          n:o 23) ja 25). gå muiden pykälien muutoksesta ks. Lvm. n:o 16.
-          Valtiopäivät, alkaminen L. 1; tieto lopettamisesta III. 1752;
+          n:o 3. ja an. n:ot 50) sekä 3 äi 12 &amp;:n muuttamisesta ks.
+          an. n:o 23) ja 25). gå muiden pykälien muutoksesta ks. Lvm. n:o
+          16. Valtiopäivät, alkaminen L. 1; tieto lopettamisesta III. 1752;
           käskykirje lopettamisesta 1832—1833; kutsumus lopettajaisiin valta-istuinsaliin
           1965; lopettaminen 1981—182. Valtiopäivät v. 1900, kustannusten
           suorittaminen niistä ks. arm. es. n:o 7. Valtiosalaisuuksien ilmoittamisesta
@@ -41295,8 +41302,8 @@
         <note xml:id="i-KmmpRkQ3ULfEpF83V1u4fn">
           1885. — , 6, an. n:o 49) johdosta I. 543, 605—624; — III. 1885—1886.
           — » Zn » 88), =I 656, 658—697; — III. 1886. — 1» 8 » » 31) N IL
-          542—548, 554-564; — II. 1886. — hh» » 18) &gt; IL 548, 564-567; —
-          III. 1886.
+          542—548, 554-564; — II. 1886. — hh» » 18) &gt; IL 548, 564-567;
+          — III. 1886.
         </note>
         <pb facs="https://swerik-project.github.io/valtiopaivat-records-pdf/1897/ptk_1897_papisto_III/ptk_1897_papisto_III-0756"/>
         <note xml:id="i-TxUUMudRqyne7mcaDScNaK">

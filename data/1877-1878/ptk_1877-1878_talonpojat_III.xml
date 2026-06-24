@@ -1,5 +1,5 @@
-<?xml version='1.0' encoding='utf-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="ptk_1877-1878_talonpojat_III">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -25,8 +25,12 @@
   <text>
     <front>
       <div type="preface">
-        <head>ptk_1877-1878_talonpojat_III</head>
-        <docDate when="1877-01-01">1877-01-01</docDate>
+        <head>
+          ptk_1877-1878_talonpojat_III
+        </head>
+        <docDate when="1877-01-01">
+          1877-01-01
+        </docDate>
       </div>
     </front>
     <body>
@@ -2118,9 +2122,9 @@
             On ilahuttavaa kuulla, että löytyy Oulun rautatienkin puollustajia,
             vaan tahtoisin kuitenkin muutaman sanan virkkaa sen johdosta,
             kun tässä eräs edellinen puhuja, puhuessaan Oulujoen koskista,
-            sovitti niihin lauseen katkismuksesta sanoen: &gt;ei tosin vesi sitä
-            itsestänsä tee.» Tahtoisin nimittäin huomauttaa, että sillä vedellä,
-            joka Oulujoen koskissa kuohuu, ja sillä, josta katkismuksessa
+            sovitti niihin lauseen katkismuksesta sanoen: &gt;ei tosin vesi
+            sitä itsestänsä tee.» Tahtoisin nimittäin huomauttaa, että sillä
+            vedellä, joka Oulujoen koskissa kuohuu, ja sillä, josta katkismuksessa
             puhutaan, nimittäin kasteen vedellä, on sangen suuri eroitus.
             Viime mainittu on nimittäin »armon ja elämän vettä», jota vastoin
             koskien veden voi nimittää kuoleman vedeksi, sillä se joka kesä
@@ -2280,10 +2284,10 @@
           <seg>
             &gt;on vapaus pitää yksityisiä uskonnonharjoituksia, kun ei lakia
             ja siveyttä loukata», j. n. e. Puhuja kaipasi siinä varsinkin
-            sitä tietoa, harjoitetaanko noissa »uskonnonharjoituksissa»&gt; Jumalan
-            vai ihmisten sanaa ja onko seurakunta perustettu Jumalan vai ihmisten
-            sanan jälkeen. Siinä kohden siis oli suuri vajanaisuus, sillä
-            tärkein kaikesta oli se, että Jumalan sana selkeästi opetetaan,
+            sitä tietoa, harjoitetaanko noissa »uskonnonharjoituksissa»&gt;
+            Jumalan vai ihmisten sanaa ja onko seurakunta perustettu Jumalan
+            vai ihmisten sanan jälkeen. Siinä kohden siis oli suuri vajanaisuus,
+            sillä tärkein kaikesta oli se, että Jumalan sana selkeästi opetetaan,
             jota puhuja tahtoi osoittaa seuraavalla lauseella, jolla Luteerus
             selittää Jumalan nimen pyhittämisen: »koska Jumalan sana selkiästi
             ja puhiaasti opetetaan ja me sen jälkeen, niinkuin Jumalan lasten
@@ -2486,12 +2490,12 @@
         </note>
         <u who="i-UuNpejz63DNoacNWFAFjXE">
           <seg>
-            godkände äfven &amp;, anseende det vara lika fåvitskt att med bibelspråk
-            försöka bevisa något i denna fråga, som att med siffror försöka
-            bevisa att jernvägar komma att bära sig, emedan såsom det just
-            i sistnämnde sak på förmiddagen visade sig tvenne förnuftiga menniskor
-            med åberopande af samma källor kunde komma till alldeles konträra
-            slutsatser. Men då man engång vill, att ens egen öfvertygelse
+            godkände äfven &amp;, anseende det vara lika fåvitskt att med
+            bibelspråk försöka bevisa något i denna fråga, som att med siffror
+            försöka bevisa att jernvägar komma att bära sig, emedan såsom
+            det just i sistnämnde sak på förmiddagen visade sig tvenne förnuftiga
+            menniskor med åberopande af samma källor kunde komma till alldeles
+            konträra slutsatser. Men då man engång vill, att ens egen öfvertygelse
             i religionssaker skall respekteras, bör man ock respektera andras
             och följaktligen tillåta fri regilionsöfning.
           </seg>
@@ -2542,8 +2546,8 @@
         <u who="i-VnH4zjf69L3FmLnnG2A94f">
           <seg>
             Valtiopäiväjärjestyksen 14 $:n jälkipuolella sanotaan: . »valtiopäivämieheksi
-            ei saa hyväksyä sitä: l:ksi &gt;joka ei ole kristinuskoa»; joka on
-            toisin sanoen: »valtiopäivämieheksi saa valita sen, joka tunnustaa
+            ei saa hyväksyä sitä: l:ksi &gt;joka ei ole kristinuskoa»; joka
+            on toisin sanoen: »valtiopäivämieheksi saa valita sen, joka tunnustaa
             kristinuskoa; siis kaikilla muillakin kristityn uskonopin tunnustajilla,
             ei ainoastaan evankelisluterilaisilla, on tuo korkein valtiollinen
             oikeus, mitä kansalaisella voi olla, tulla valtiopäiville edustamaan
@@ -3540,9 +3544,9 @@
         <u who="i-TPLLng6ovQtEFTALxn8PZa">
           <seg>
             Minä puolestani myönnän, että 3 $ sisältää ne ehdot, joiden mukaan
-            on oikeus astua maalle. Mutta pyydän huomauttaa, että 2 &amp; ja moni
-            muu sisältävät ne ehdot, joilla voidaan vedessä kulkea; siis on
-            minun luullakseni tämä ensimäinen pykälä kokonaan tarpeeton.
+            on oikeus astua maalle. Mutta pyydän huomauttaa, että 2 &amp;
+            ja moni muu sisältävät ne ehdot, joilla voidaan vedessä kulkea;
+            siis on minun luullakseni tämä ensimäinen pykälä kokonaan tarpeeton.
           </seg>
         </u>
         <pb facs="https://swerik-project.github.io/valtiopaivat-records-pdf/1877-1878/ptk_1877-1878_talonpojat_III/ptk_1877-1878_talonpojat_III-0055"/>
@@ -3767,7 +3771,8 @@
           :
         </note>
         <note xml:id="i-2b9EaFHrMBhKLjtyCgxQBT">
-          Joka hyväksyy valiokunnan mietinnön 1 &amp; muuttamatta, vastaa »jaa»;
+          Joka hyväksyy valiokunnan mietinnön 1 &amp; muuttamatta, vastaa
+          »jaa»;
         </note>
         <note xml:id="i-PPfGxQNuFdHwSTBnbt4d7N">
           Joka ei sitä tee, vastaa »ei».
@@ -3927,13 +3932,13 @@
         </note>
         <u who="i-Pwjr6vGBf5sGMw2BtNjBMH">
           <seg>
-            Minä en voi vieläkään ymmärtää, ettei 1 8 ja 2 &amp;:n 2 mom. ole
-            ristiriitaiset toistensa suhteen. — Se on tietysti minunkin tarkoitukseni,
-            että kuvernööri määrää ne ehdot, joilla lauttausta saadaan toimittaa,
-            mutta minä en edes tehnyt mitään ehdoitusta siinä asiassa, muuta
-            kuin tahdoin vaan vastalauseen muodossa mainita tästä. — Karlstedtia
-            vastaan saan sanoa vaan, että kun minä puhun pappilasta niin hän
-            puhuu aidasta.
+            Minä en voi vieläkään ymmärtää, ettei 1 8 ja 2 &amp;:n 2 mom.
+            ole ristiriitaiset toistensa suhteen. — Se on tietysti minunkin
+            tarkoitukseni, että kuvernööri määrää ne ehdot, joilla lauttausta
+            saadaan toimittaa, mutta minä en edes tehnyt mitään ehdoitusta
+            siinä asiassa, muuta kuin tahdoin vaan vastalauseen muodossa mainita
+            tästä. — Karlstedtia vastaan saan sanoa vaan, että kun minä puhun
+            pappilasta niin hän puhuu aidasta.
           </seg>
         </u>
         <note xml:id="i-8WnJk8vEid7NNx9oNewZQn" type="speaker">
@@ -3963,8 +3968,8 @@
         <u who="i-EmqNER47i1Nu1rJadKyiQw">
           <seg>
             Ainoa eroitus tämän esityksen ja lauttausasetuksen välillä 2
-            &amp;:ssä on se, että nykyisessä asetuksessa on määrätty, että jokaisessa
-            vesistössä, jossa löytyy silta y. m. s.
+            &amp;:ssä on se, että nykyisessä asetuksessa on määrätty, että
+            jokaisessa vesistössä, jossa löytyy silta y. m. s.
           </seg>
         </u>
         <pb facs="https://swerik-project.github.io/valtiopaivat-records-pdf/1877-1878/ptk_1877-1878_talonpojat_III/ptk_1877-1878_talonpojat_III-0060"/>
@@ -4672,8 +4677,8 @@
           Keskustelu päättyi ja puhemies esitti seuraavan äänestysesityksen:
         </note>
         <note xml:id="i-P4jnbTQ5uGpDA85EoKuXMJ">
-          Joka hyväksyy valiokunnan mietinnön 9 &amp; 3 mom. muuttamatta, vastaa:
-          »jaa»; joka hyväksyy edusmies Dunckerin ehdotteleman muodostuksen,
+          Joka hyväksyy valiokunnan mietinnön 9 &amp; 3 mom. muuttamatta,
+          vastaa: »jaa»; joka hyväksyy edusmies Dunckerin ehdotteleman muodostuksen,
           vastaa »ei.»
         </note>
         <note xml:id="i-DQkiiGDoECEnkPNDouSEL6">
@@ -4750,8 +4755,8 @@
         <note xml:id="i-RRLnokVsaTEw1dUjtD7ZKX">
           . Fdusmies: Keränen arveli tämän momentin liian ankaraksi, tahtoen
           sitä lieventää edes sillä tavoin, että sanat »lauttausväylän rannoille»
-          kuuluisivat: &gt;lauttausväylän rannoilla olevilla niityillä ja viljamailla.»
-          :
+          kuuluisivat: &gt;lauttausväylän rannoilla olevilla niityillä ja
+          viljamailla.» :
         </note>
         <note xml:id="i-65bBDGx5G89fYtfoHCiyA3">
           Edusmies Kumpulainen, samassa tarkoituksessa kuin edellinen puhuja,
@@ -5600,8 +5605,8 @@
           ei sitä tee, vastaa &gt;ei».
         </note>
         <note xml:id="i-8o2CM8SXKywc7QJd2ZaAWZ">
-          Jos »ei&gt; voittaa, on sääty jäänyt siihen päätökseen, että se
-          hylkää mietinnön ja selittää, ettei puheena oleva pyyntöesitys
+          Jos »ei&gt; voittaa, on sääty jäänyt siihen päätökseen, että
+          se hylkää mietinnön ja selittää, ettei puheena oleva pyyntöesitys
           anna
         </note>
         <pb facs="https://swerik-project.github.io/valtiopaivat-records-pdf/1877-1878/ptk_1877-1878_talonpojat_III/ptk_1877-1878_talonpojat_III-0083"/>
@@ -6257,26 +6262,26 @@
           1788 Talonpoikaissääty 1877. 10 p. Jouluk.
         </note>
         <note xml:id="i-GPjbEeDBv1hekBEqKqLCrx">
-          Landtdagsmannen Hollmö&amp;rus förenade sig med landtdagsmännen Strähle
-          och Svedberg, anseende att ständet borde besluta, att frågan icke
-          skulle få förfalla vid denna landtdag samt att öfriga stånden
-          skulle inbjudas att förena isig om detta beslut. Äfven önskade
-          talaren, att ständet skulle förena sig om det beslut, hvartill
-          äfven medständen skulle inbjudas att, om en ny författning i hvilken
-          form som helst antages, den icke skulle antagas för längre tid
-          än högst tio är, med anhällan till H. M:t att efter den bestämda
-          tiden förelägga en ny proposition om hällskjutsningens ordnande,
-          bygd pä den princip, att hällskjutningsskyldigheten helt och hället
-          skulle frän jorden aflyftas. Under förenämnde tid skulle erfarenhet
-          vinnas, om icke den förhöjda skjutslegan framkallat entreprenader
-          sä allmänt, att trafiken derefter kunde bära sig sjelf. Hvad första
-          punkten beträffade, sä borde »skattlagda torp och utjordar, bruk»
-          o.s. v. icke deltaga i skjutshällningen. Utskottet hade äfven
-          i sammanjemkningsförslaget rörande författningen om vägars och
-          broars byggande inbjudit Bondeständet att frängä sitt beslut att
-          nämnda lägenheter skulle deltaga i byggandet af vägar och broar.
-          Föröfrigt ansåg talaren, att utskottet i denna sak gjort hvad
-          det kunnat.
+          Landtdagsmannen Hollmö&amp;rus förenade sig med landtdagsmännen
+          Strähle och Svedberg, anseende att ständet borde besluta, att
+          frågan icke skulle få förfalla vid denna landtdag samt att öfriga
+          stånden skulle inbjudas att förena isig om detta beslut. Äfven
+          önskade talaren, att ständet skulle förena sig om det beslut,
+          hvartill äfven medständen skulle inbjudas att, om en ny författning
+          i hvilken form som helst antages, den icke skulle antagas för
+          längre tid än högst tio är, med anhällan till H. M:t att efter
+          den bestämda tiden förelägga en ny proposition om hällskjutsningens
+          ordnande, bygd pä den princip, att hällskjutningsskyldigheten
+          helt och hället skulle frän jorden aflyftas. Under förenämnde
+          tid skulle erfarenhet vinnas, om icke den förhöjda skjutslegan
+          framkallat entreprenader sä allmänt, att trafiken derefter kunde
+          bära sig sjelf. Hvad första punkten beträffade, sä borde »skattlagda
+          torp och utjordar, bruk» o.s. v. icke deltaga i skjutshällningen.
+          Utskottet hade äfven i sammanjemkningsförslaget rörande författningen
+          om vägars och broars byggande inbjudit Bondeständet att frängä
+          sitt beslut att nämnda lägenheter skulle deltaga i byggandet af
+          vägar och broar. Föröfrigt ansåg talaren, att utskottet i denna
+          sak gjort hvad det kunnat.
         </note>
         <note xml:id="i-6JGQHhsvWVMVSzuQQJmh1n" type="speaker">
           Edusmies Riihimäki
@@ -6295,14 +6300,14 @@
         </note>
         <u who="i-UuNpejz63DNoacNWFAFjXE">
           <seg>
-            Jag har varit med om omredigeringen af &amp; 1 och vidhåller ännu
-            också mina äsigter, icke derför att derigenom nägonting i praktiskt
-            afseende vinnes om denna omredigering godkännes, utan derför att
-            pä jorden lagligen icke mä läggas ett onus, som till en del blott
-            genom godtycke nu hvilar derpä. De anmärkningar som gjorts mot
-            de öfriga punkterna äro betydelselösa, men deremot innehåller
-            lagförslaget i sin helhet flera fördelaktiga bestämningar, nämligen
-            om förhöjd skjutslega samt entreprenad, hvarigenom hållskjutsningen
+            Jag har varit med om omredigeringen af &amp; 1 och vidhåller
+            ännu också mina äsigter, icke derför att derigenom nägonting i
+            praktiskt afseende vinnes om denna omredigering godkännes, utan
+            derför att pä jorden lagligen icke mä läggas ett onus, som till
+            en del blott genom godtycke nu hvilar derpä. De anmärkningar som
+            gjorts mot de öfriga punkterna äro betydelselösa, men deremot
+            innehåller lagförslaget i sin helhet flera fördelaktiga bestämningar,
+            nämligen om förhöjd skjutslega samt entreprenad, hvarigenom hållskjutsningen
             småningom kan blifva alldeles från jorden aflyftad, hvarför man
             icke genom att hålla fast vid obetydligheter bör riskera att förslaget
             faller. Jag skulle derför föreslå, att ståndet skulle vidblifva
@@ -6559,9 +6564,9 @@
           Landtdagsmannen H 011 m 6rus förordade momentets godkännande.
         </note>
         <note xml:id="i-9szyj2hKzthWqe5cwHqMh8">
-          Edusmiehet Lang 6&amp;n, Hannikainen ja Heikkilä hyväksyivät myöskin
-          tämän kohdan, erittäinkin koska kyytirahan määrääminen oli hallinnollista
-          laatua.
+          Edusmiehet Lang 6&amp;n, Hannikainen ja Heikkilä hyväksyivät
+          myöskin tämän kohdan, erittäinkin koska kyytirahan määrääminen
+          oli hallinnollista laatua.
         </note>
         <note xml:id="i-G9E6yYucY7rwwMAzceN7ye">
           Sääty suostui tähän kohtaan.
@@ -6695,8 +6700,8 @@
         <u who="i-Pwjr6vGBf5sGMw2BtNjBMH">
           <seg>
             teki vastalauseen sitä vastaan, ettei valiokunta ollut hyväksynyt
-            sitä sanaa, »lääninkanslia&gt; vaikka sitä valtiokalenterissa käytetään,
-            vaan oli sen sijaan käyttänyt sanaa »maakanslia.»
+            sitä sanaa, »lääninkanslia&gt; vaikka sitä valtiokalenterissa
+            käytetään, vaan oli sen sijaan käyttänyt sanaa »maakanslia.»
           </seg>
         </u>
         <note xml:id="i-Cg3zdHWhdpKcH1g2CAASfY" type="speaker">
@@ -8088,8 +8093,8 @@
             Ei ole minusta liikaa, jos asia monipuolisesti tulee lausutuksi
             periaatteitten suhteen, sillä kuin nämät saadaan selviksi, niin
             johtuvat niistä helposti erityiskohdat. Asevelvollisuuden periaate
-            on jo mietinnön 1 &amp;:ssä lyhyesti, mutta selvästi lausuttu, joka
-            kuuluu: » Valtaistuimen ja isänmaan puolustukseksi on jokainen
+            on jo mietinnön 1 &amp;:ssä lyhyesti, mutta selvästi lausuttu,
+            joka kuuluu: » Valtaistuimen ja isänmaan puolustukseksi on jokainen
             Suomen kansalainen asevelvollinen.e Tämä lyhyt pykälä perustuu
             oikein raamatulliseen totuuteen. Mitä valtaistuimeen tulee, joka
             on kansan hallitus, niin sen me olemme saaneet Jumalalta. Meidän
@@ -8225,12 +8230,12 @@
           ja jättäneet. Meidän tulee kyllä huomata vähälukuisuuttamme ja
           varattomuuttamme, mutta yksimielisyys on suuri voima ja paljon
           aikaansaava varallisuus. Käyttäkäämme tätä tehokasta keinoa, niin
-          Jumala on meidän kanssamme. Sanotaan kyllä: &gt;meidän poikamme joutuvat
-          kasarmiin sotamiehiksie. Se on totta, mutta on toiselta puolen
-          huomattava, että he ovat silloin isänmaan alttarilla. Ja ajatelkaamme
-          Jumala on heidän kanssansa, Jumala on heidän johtajansa. Verratkaamme
-          nyt pieni kansamme toimelliseen mieheen. Hän harjottaa itsensä
-          kaikkiin välttämättömiin toimiin isänmaansa ja oman olemuksensa
+          Jumala on meidän kanssamme. Sanotaan kyllä: &gt;meidän poikamme
+          joutuvat kasarmiin sotamiehiksie. Se on totta, mutta on toiselta
+          puolen huomattava, että he ovat silloin isänmaan alttarilla. Ja
+          ajatelkaamme Jumala on heidän kanssansa, Jumala on heidän johtajansa.
+          Verratkaamme nyt pieni kansamme toimelliseen mieheen. Hän harjottaa
+          itsensä kaikkiin välttämättömiin toimiin isänmaansa ja oman olemuksensa
           säilyttämiseksi ja turvaksi. Miksi me nyt kammoksuisimme ryhtyä
           sota-aseitten harjottamiseen, joka tulee keveäksi kuin sitä yksimielisesti
           tekevät kaikki kansalaiset. Asevelvollisuus tulee siten olemaan
@@ -9218,18 +9223,19 @@
         </note>
         <u who="i-9ke1vqyxGLfkocb4LBaBab">
           <seg>
-            Jo 1862 vuoden niin sanotussa &gt;Tammikuun valiokunnassa» oli kysymys
-            Suomen sotaväen asettamisesta. Minäkin puolustin silloin kansallisen
-            sotaväen asettamista, koska tiesin, ettei mikään kansa voi olla
-            kansa, jollei se myös täytä velvollisuuksiaan. Kansa, joka vieraan
-            sotaväen suojaamana huolettomasti makaa, on ennen pitkää orjana.
-            Siitä asti olen toivonut esitystä ja juuri siihen suuntaan tehtyä
-            kuin valiokunta nyt ehdoittaa. Olisi voinut luulla, että Talonpoikaissääty
-            yksin tuumin olisi ilman pitkittä puheitta hyväksynyt mietinnön
-            pääasiallisesti ja ruvennut sitä pykälittäin tarkastamaan. Vastustajia
-            on kumminkin ilmestynyt montakin, mutta mielikseni olen havainnut.
-            ettei vastustusta ole saatu juuri muilta kuin siltä puolueelta,
-            joka kaikissa kansallisissa riennoissamme on asettunut vas-
+            Jo 1862 vuoden niin sanotussa &gt;Tammikuun valiokunnassa» oli
+            kysymys Suomen sotaväen asettamisesta. Minäkin puolustin silloin
+            kansallisen sotaväen asettamista, koska tiesin, ettei mikään kansa
+            voi olla kansa, jollei se myös täytä velvollisuuksiaan. Kansa,
+            joka vieraan sotaväen suojaamana huolettomasti makaa, on ennen
+            pitkää orjana. Siitä asti olen toivonut esitystä ja juuri siihen
+            suuntaan tehtyä kuin valiokunta nyt ehdoittaa. Olisi voinut luulla,
+            että Talonpoikaissääty yksin tuumin olisi ilman pitkittä puheitta
+            hyväksynyt mietinnön pääasiallisesti ja ruvennut sitä pykälittäin
+            tarkastamaan. Vastustajia on kumminkin ilmestynyt montakin, mutta
+            mielikseni olen havainnut. ettei vastustusta ole saatu juuri muilta
+            kuin siltä puolueelta, joka kaikissa kansallisissa riennoissamme
+            on asettunut vas-
           </seg>
         </u>
         <pb facs="https://swerik-project.github.io/valtiopaivat-records-pdf/1877-1878/ptk_1877-1878_talonpojat_III/ptk_1877-1878_talonpojat_III-0146"/>
@@ -10196,8 +10202,8 @@
           sapattia koskevain siviililakien tarkastuksesta.
         </note>
         <note xml:id="i-Sp4Uy5tVtAKwARBHrB1fUh">
-          Landtdagsmanen H ol11mö&amp;ru s godkände betänkandet pä deri anförda
-          motiver.
+          Landtdagsmanen H ol11mö&amp;ru s godkände betänkandet pä deri
+          anförda motiver.
         </note>
         <note xml:id="i-DgizEnaMGfdxLwXWGxoE9g">
           Edusmiehet W ärri, Pahkamaa, Grundström, Hannus ja Svedberg hyväksyivät
@@ -10466,9 +10472,9 @@
           <seg>
             katsoi, ettei kutsumuksen hyväksymisestä olisi mitään viivytystä
             asian menolle, vaan paljasta hyötyä, kun jo ennakolta saataisiin
-            tietää, mitkä &amp;&amp; olivat perustuslaillista luontoa, mitkä eivät.
-            Asian lykkääminen toisille valtiopäiville riippui tietysti eri
-            päätöksistä eikä kuulunut tähän.
+            tietää, mitkä &amp;&amp; olivat perustuslaillista luontoa, mitkä
+            eivät. Asian lykkääminen toisille valtiopäiville riippui tietysti
+            eri päätöksistä eikä kuulunut tähän.
           </seg>
         </u>
         <note xml:id="i-DKH2HXNqzQ6GQfQg8DGrK" type="speaker">
@@ -10691,16 +10697,16 @@
           hvilken i betänkandet faststälts att fortfarande ifrån rotarne
           utgå. Då emellertid rotan genom att fortfarande erlägga den fastställda
           vakansafgiften fullgör knektekontrakten och Finlands bondestånd
-          derjemte jemlikt B. st. priv. 7 &amp; är försäkradt om att vara frikalladt
-          frän all väldsam värfning, sä borde denna vakansafgift sä snart
-          en lag om värnepligts införande i landet antages försvinna. Sker
-          detta ej, ätager sig Finlands bondeständ en dubbel börda och skjuter
-          derjemte sjelf ifrän sig det enda privilegium af helst nägot värde,
-          detta ständ har sig tillerkändt. Utskottet säger väl i dess första
-          kläm, »att dä i sinom tid förslag uppgöres till ny beskattning
-          för de militära utgifternas bestridande, särskild pröfning mätte
-          egnas frägan, huruvida och i hvad män dervid borde tagas hänsyn
-          till de ifrån rusthällen och rotarne utgående vakansafgifter.&gt;
+          derjemte jemlikt B. st. priv. 7 &amp; är försäkradt om att vara
+          frikalladt frän all väldsam värfning, sä borde denna vakansafgift
+          sä snart en lag om värnepligts införande i landet antages försvinna.
+          Sker detta ej, ätager sig Finlands bondeständ en dubbel börda
+          och skjuter derjemte sjelf ifrän sig det enda privilegium af helst
+          nägot värde, detta ständ har sig tillerkändt. Utskottet säger
+          väl i dess första kläm, »att dä i sinom tid förslag uppgöres till
+          ny beskattning för de militära utgifternas bestridande, särskild
+          pröfning mätte egnas frägan, huruvida och i hvad män dervid borde
+          tagas hänsyn till de ifrån rusthällen och rotarne utgående vakansafgifter.&gt;
           Då ett kontrakt ingäs vare sig emellan kronan och undersäten eller
           enskildt, är det ju klart, att ett sädant aftal erbjuder vissa
           fördelar för bäda. Skall ett sädant kontrakt äter upphäfvas, bör
@@ -10717,10 +10723,11 @@
         </note>
         <note xml:id="i-Wk5hXkpkD2PJCPpfXzMtFL">
           ed sädana hägringar söker man tillfredsställa landets bondeständ,
-          dä man &amp; andra sidan affordrar detsamma uppofiringen af dess dyrbaraste
-          beständsdel, blomman af dess manliga ungdom. Skall bondeståndet
-          ikläda landet dessa ytterligare förpligtelser? Jag vägar ännu
-          hoppas att sä ej skall ske,ty hvad skall man svara sine
+          dä man &amp; andra sidan affordrar detsamma uppofiringen af dess
+          dyrbaraste beständsdel, blomman af dess manliga ungdom. Skall
+          bondeståndet ikläda landet dessa ytterligare förpligtelser? Jag
+          vägar ännu hoppas att sä ej skall ske,ty hvad skall man svara
+          sine
         </note>
         <pb facs="https://swerik-project.github.io/valtiopaivat-records-pdf/1877-1878/ptk_1877-1878_talonpojat_III/ptk_1877-1878_talonpojat_III-0169"/>
         <note xml:id="i-BRai73EU59yBkwsGEgqN6m">
@@ -10963,10 +10970,10 @@
           Joka sitä tahtoo, vastaa »jaa»; joka ei sitä tahdo vastaa ei.»
         </note>
         <note xml:id="i-Y47NVB85uAcMZUoJBur8Sn">
-          Jos &gt;ei» voittaa, on sääty pidättänyt itselleen avonaisen oikeuden
-          erikoistarkastuksen päätyttyä ottaa tutkiakseen, onko puheena
-          oleva asia jo näillä valtiopäivillä ratkaistava vai 71 $ mukaan
-          valtiopäiväjärjestyksessä tuleviksi valtiopäiviksi jätettävä.
+          Jos &gt;ei» voittaa, on sääty pidättänyt itselleen avonaisen
+          oikeuden erikoistarkastuksen päätyttyä ottaa tutkiakseen, onko
+          puheena oleva asia jo näillä valtiopäivillä ratkaistava vai 71
+          $ mukaan valtiopäiväjärjestyksessä tuleviksi valtiopäiviksi jätettävä.
         </note>
         <note xml:id="i-2R4jW4ugXhZ6GmspPDoEaw">
           Äänestys osoitti kolmekymmentä (30) »jaa»- ja kahdeksankolmatta
@@ -11220,29 +11227,30 @@
         </note>
         <u who="i-VnH4zjf69L3FmLnnG2A94f">
           <seg>
-            Minä pyytäisin huomauttaa niitä, jotka ovat tahtoneet &amp;:n viimeistä
-            kohtaa pois, että silloin kuin talonpojat lunastivat itsensä sotamiesotosta,
-            niin se ei tapahtunut vakanssimaksulla, vaan ruotusotamiehen panolla.
-            Asia on oikeastaan katsottava siltä kannalta, että talolliset
-            ovat velvolliset pitämään joko jalka- tai ratsumiehen. Tämä vakanssimaksu,
-            joka nyt on ollut olemassa 70 vuotta, siinä ei ole meillä ollut
-            mitään varmuutta, se on riippunut ainoastaan hallituksen hyvästä
-            tahdosta. Hallituksella on aina ollut valta peräyttää vakanssi
-            ja käskeä ruotuväkeä seisomaan. Laskuista näkyy, että ruotujen
-            luku on ylipään 12,000; maanviljelijät ovat siis velvolliset asettamaan
-            niin monta sotamiestä, ja sitten on huomattava, etteivät ne ole
-            likipitäinkään kaikki maanviljelijät, vaan joku osa niistä. Siitä
-            me huomaamme, mikä hirveä rasitus se tulisi olemaan niille maanviljelijöille,
-            jotka ovat ruotuun kuuluvat. Nykyinen järjestelmä tarjoo meille
-            jo erinomaista apua ensin muilta kansanluokilta. Ruotuisännät
-            perheineen voivat tehdä korkeintaan noin 200,000 henkeä, vaan
-            siihen tulee nyt koko väkiluku lisäksi, noin 1,600,000 henkeä.
-            Sitten on ruotu-osakkain suhteen tarkoitus, ettei heidän tarvitse
-            ottaa osaa rahamaksuihin muuta kuin vakanssimaksulla, joka ehkä
-            on noin 2 miljonan paikoilla. Mitä muita lisämaksuja tulee, niin
-            se tulee menemään kaikilta kansanluokilta. Ensitulevalla suostuntaaikakaudella
-            ei lisäveroja tarvita muuta kuin niin paljon, että se voidaan
-            täyttää entisillä suostuntaveroilla. Mutta päätös saattaa
+            Minä pyytäisin huomauttaa niitä, jotka ovat tahtoneet &amp;:n
+            viimeistä kohtaa pois, että silloin kuin talonpojat lunastivat
+            itsensä sotamiesotosta, niin se ei tapahtunut vakanssimaksulla,
+            vaan ruotusotamiehen panolla. Asia on oikeastaan katsottava siltä
+            kannalta, että talolliset ovat velvolliset pitämään joko jalka-
+            tai ratsumiehen. Tämä vakanssimaksu, joka nyt on ollut olemassa
+            70 vuotta, siinä ei ole meillä ollut mitään varmuutta, se on riippunut
+            ainoastaan hallituksen hyvästä tahdosta. Hallituksella on aina
+            ollut valta peräyttää vakanssi ja käskeä ruotuväkeä seisomaan.
+            Laskuista näkyy, että ruotujen luku on ylipään 12,000; maanviljelijät
+            ovat siis velvolliset asettamaan niin monta sotamiestä, ja sitten
+            on huomattava, etteivät ne ole likipitäinkään kaikki maanviljelijät,
+            vaan joku osa niistä. Siitä me huomaamme, mikä hirveä rasitus
+            se tulisi olemaan niille maanviljelijöille, jotka ovat ruotuun
+            kuuluvat. Nykyinen järjestelmä tarjoo meille jo erinomaista apua
+            ensin muilta kansanluokilta. Ruotuisännät perheineen voivat tehdä
+            korkeintaan noin 200,000 henkeä, vaan siihen tulee nyt koko väkiluku
+            lisäksi, noin 1,600,000 henkeä. Sitten on ruotu-osakkain suhteen
+            tarkoitus, ettei heidän tarvitse ottaa osaa rahamaksuihin muuta
+            kuin vakanssimaksulla, joka ehkä on noin 2 miljonan paikoilla.
+            Mitä muita lisämaksuja tulee, niin se tulee menemään kaikilta
+            kansanluokilta. Ensitulevalla suostuntaaikakaudella ei lisäveroja
+            tarvita muuta kuin niin paljon, että se voidaan täyttää entisillä
+            suostuntaveroilla. Mutta päätös saattaa
           </seg>
         </u>
         <pb facs="https://swerik-project.github.io/valtiopaivat-records-pdf/1877-1878/ptk_1877-1878_talonpojat_III/ptk_1877-1878_talonpojat_III-0177"/>
@@ -11256,15 +11264,15 @@
           aseman, että heiltä menevä sotavero olisi laskettava huokeammaksi.
           Minä pyytäisin vielä huomauttaa vakanssimaksun suhteen, että vuodesta
           1810 kun se julistettiin huojennukseksi, niin se oli annettu hallitsijan
-          armosta. Tässä jos tämä määräys &amp;:ssä pysytetään, niin sille tulisi
-          olemaan peruslaillinen voima. Sitä ei voisi hallitus ilman neljän
-          säädyn suostumusta kumota. Siinä olisi siis tarjona suuri vakuus
-          ruotuisännälle. Minun täytyy tunnustaa, että tässä tärkeässä asiassa
-          minä olen ennenkin tuntenut vähän näitten tilojen eri laatua ja
-          valiokunnassa oli myöskin kameraaliprofessori, vaan ei voinut
-          keksiä, kiire kun oli, millä tavalla tämä vakanssimaksu olisi
-          järjestettävä. Fdusmies Riihimäki sanoi, ettei rustholleilla ole
-          ollut mitään oikeutta huojennukseen; sama on ollut jalkaväkiruotujen
+          armosta. Tässä jos tämä määräys &amp;:ssä pysytetään, niin sille
+          tulisi olemaan peruslaillinen voima. Sitä ei voisi hallitus ilman
+          neljän säädyn suostumusta kumota. Siinä olisi siis tarjona suuri
+          vakuus ruotuisännälle. Minun täytyy tunnustaa, että tässä tärkeässä
+          asiassa minä olen ennenkin tuntenut vähän näitten tilojen eri
+          laatua ja valiokunnassa oli myöskin kameraaliprofessori, vaan
+          ei voinut keksiä, kiire kun oli, millä tavalla tämä vakanssimaksu
+          olisi järjestettävä. Fdusmies Riihimäki sanoi, ettei rustholleilla
+          ole ollut mitään oikeutta huojennukseen; sama on ollut jalkaväkiruotujen
           laita. Mutta siinä on huomattava, mitä erittäin rastholleihin
           tulee, että he ovat nauttineet tätä huojennusta lähes 70 vuotta
           ja semmoinen oikeus, vaikkei sillä ole laillista perustusta, piintyy
@@ -11656,13 +11664,13 @@
           valtiopäiville. Ne vanhat asetukset, joihin ruotujakolaitos perustuu,
           ovat todellakin niin monimutkaiset ja niin monituisella tavalla
           syntyneet, että kyllä sietävät erityistä tutkimista, ennenkuin
-          niistä voidaan päätöstä tehdä. &amp;:n viimelauseen kumoaminen olisi
-          sangen epämukaista juuri sen tähden, että sääty on kerta asevelvollisuuden
-          hyväksynyt, kosk'ei mitään asevelvollisuutta voi panna toimeen,
-          ellei sille varoja myönnytetä. Minä en puolestani hyväksy 8:n
-          suhteen minkäänlaista muutosta, vaan kernaasti suostun siihen,
-          että siihen pyyntö-esitykseen, joka on mietinnön lopulla ehdoitettu,
-          pantaisiin semmoisia toiveita kuin sääty tahtoo.
+          niistä voidaan päätöstä tehdä. &amp;:n viimelauseen kumoaminen
+          olisi sangen epämukaista juuri sen tähden, että sääty on kerta
+          asevelvollisuuden hyväksynyt, kosk'ei mitään asevelvollisuutta
+          voi panna toimeen, ellei sille varoja myönnytetä. Minä en puolestani
+          hyväksy 8:n suhteen minkäänlaista muutosta, vaan kernaasti suostun
+          siihen, että siihen pyyntö-esitykseen, joka on mietinnön lopulla
+          ehdoitettu, pantaisiin semmoisia toiveita kuin sääty tahtoo.
         </note>
         <note xml:id="i-RuwqxDA7KDuByjYBekbrBB" type="speaker">
           Edusmies H. Jaatinen
@@ -11685,8 +11693,8 @@
         <u who="i-TPLLng6ovQtEFTALxn8PZa">
           <seg>
             Hyvin kiivaasti ja miehuullisesti suostui Talonpoikaissääty esityksen
-            ensi &amp;:ään. Vähäsen tosin arvosteltiin poikia, joitten oli astuminen
-            maata puolustamaan, mutta suostuttiin ehdoitukseen kumminkin.
+            ensi &amp;:ään. Vähäsen tosin arvosteltiin poikia, joitten oli
+            astuminen maata puolustamaan, mutta suostuttiin ehdoitukseen kumminkin.
             Nyt rupee näyttämään siltä, kuin rahat olisivat kalliimmat kuin
             pojat. Kuin tulee kysymys, millä tavalla rahoja hankitaan, niin
             ainakaan tähän asti ei ole vielä tehty mitään ehdoitusta, mistä
@@ -11748,8 +11756,8 @@
           ettei vakanssi jää iäksi päiväksi. Mutta minä luulen kumminkin
           huomanneeni, että tässä ovat kaikellaiset kiihoitusaineet päässeet
           vallalleen, eikä siis voitane puheella yhtä tai toista vaikuttaa.
-          Sanokoot siis lyhykäisesti: loppulause &amp;:stä on menevä pois; mutta
-          niitä jotka sitä vaativat, pyytäisin myös tarkoin ehdoittamaan,
+          Sanokoot siis lyhykäisesti: loppulause &amp;:stä on menevä pois;
+          mutta niitä jotka sitä vaativat, pyytäisin myös tarkoin ehdoittamaan,
           millä lailla ne tahtovat nämät verot korvata. Nyt tiedetäan puuttuvan
           kuusi miljonaa kysymyksessä olevaa tarvetta varten. Jos vakanssi
           lakkautetaan kohta kuin asevelvollisuuslaki on astunut voimaan,
@@ -12076,13 +12084,13 @@
           </seg>
         </u>
         <note xml:id="i-Li9L9xYBUFH16Pd5KVsaBh">
-          &gt;että maan korkeanarvoiset säädyt lausuisivat, että säädyt, jotka
-          katsovat laamanni-käräjäkapoista syntyneitä ja vieläkin tehtäviä
-          säästöjä edespäin täytyvän pitää korkoa kasvamassa ajallansa käytettäviksi
-          niihin tarkoituksiin, joiden edistämiseksi sanotut käräjäkapat
-          jo edellisillä valtiopäivillä ovat tulleet määrätyiksi, tahtovat
-          alamaisuudessa varrota sitä ehdoitusta aineesta, joka armoll.
-          esityksen mukaan on odotettavana.»
+          &gt;että maan korkeanarvoiset säädyt lausuisivat, että säädyt,
+          jotka katsovat laamanni-käräjäkapoista syntyneitä ja vieläkin
+          tehtäviä säästöjä edespäin täytyvän pitää korkoa kasvamassa ajallansa
+          käytettäviksi niihin tarkoituksiin, joiden edistämiseksi sanotut
+          käräjäkapat jo edellisillä valtiopäivillä ovat tulleet määrätyiksi,
+          tahtovat alamaisuudessa varrota sitä ehdoitusta aineesta, joka
+          armoll. esityksen mukaan on odotettavana.»
         </note>
         <note xml:id="i-8fiSQSGM7Fst7aZbBt7RgM" type="speaker">
           Edusmies Meurman
@@ -12249,10 +12257,10 @@
         </u>
         <note xml:id="i-JuXYGVRHgCm27QAqTgvxte">
           Tehdystä esityksestä päätti sääty suostua Pappissäädyn kutsumukseen
-          puheena olevassa asiassa, mikäli se koski 2 &amp;, 20 &amp;:n 1 kohtaa
-          ja 22 8&amp;:ää, jota vastoin kutsumus 1 &amp;:län suhteen, josta Talonpoikaissääty
-          oli jäänyt yhtäläiseen päätökseen kuin Pappissääty, ei antanut
-          aihetta mihinkään päätökseen säädyn puolesta.
+          puheena olevassa asiassa, mikäli se koski 2 &amp;, 20 &amp;:n
+          1 kohtaa ja 22 8&amp;:ää, jota vastoin kutsumus 1 &amp;:län suhteen,
+          josta Talonpoikaissääty oli jäänyt yhtäläiseen päätökseen kuin
+          Pappissääty, ei antanut aihetta mihinkään päätökseen säädyn puolesta.
         </note>
         <note xml:id="i-4fZiFD34VirNs2anMrpb1q">
           Tämän ohessa ja sen johdosta, mikä ennen istunnossa 10 päivänä
@@ -12358,13 +12366,14 @@
           verot, jotka painavat maata, ovat jotenkin suuria ja että niissä
           tarvittaisiin jotakin lievitystä ja tasoitusta ja että se voi
           hyvin tulla toimeen kun tätä asiaa kehitetään. Mutta minusta se
-          ei sovi toiseen &amp;, vaan siihen klemmiin, joka on mietinnön loppulauseessa,
-          jossa suoraan olisi lausuttava, että kun varoja tarvitaan sotakulunkien
-          suorittamiseksi, kysymys vakansista myöskin tulisi puheeksi. Samoin
-          olisi seuraava klemmi muodostettava sillä lailla, että todellakin,
-          kun tämä asia tulee kysymykseen, myöskin rusthollien asema tulee
-          tarkastuksen alle. Minä luulen, jos nämä molemmat momentit muodostetaan
-          vähän jyrkemmiksi, niin on kaikki voitettu, mitä tarkoitetaan.
+          ei sovi toiseen &amp;, vaan siihen klemmiin, joka on mietinnön
+          loppulauseessa, jossa suoraan olisi lausuttava, että kun varoja
+          tarvitaan sotakulunkien suorittamiseksi, kysymys vakansista myöskin
+          tulisi puheeksi. Samoin olisi seuraava klemmi muodostettava sillä
+          lailla, että todellakin, kun tämä asia tulee kysymykseen, myöskin
+          rusthollien asema tulee tarkastuksen alle. Minä luulen, jos nämä
+          molemmat momentit muodostetaan vähän jyrkemmiksi, niin on kaikki
+          voitettu, mitä tarkoitetaan.
         </note>
         <note xml:id="i-PQSc3tH99EKP72nAxEMiPS" type="speaker">
           Landtdagsmannen Gadolin:
@@ -12389,8 +12398,8 @@
             det tillägg till S:n, att från den krigsgärd, som under de första
             fem ären kommer att utgå, jordegarena skulle vara befriade till
             vedergällning för vakansen. Landtdagsmannen Riihimäki har velat
-            godkänna sjelfva &amp;, men införa ett tillägg rörande denna sak i
-            hemställan tili H. M:t. Jag anser det äfven alldeles icke vara
+            godkänna sjelfva &amp;, men införa ett tillägg rörande denna sak
+            i hemställan tili H. M:t. Jag anser det äfven alldeles icke vara
             pä sin plats att i $ 2 orda om vakansen, ty i sjelfva lagen bör
             icke
           </seg>
@@ -12471,8 +12480,8 @@
         <u who="i-LCk7nVEL2LauAF4kV4yAdD">
           <seg>
             De stora svärigheter, som här tyckas förefinnas, att få denna
-            &amp; 2 i en sådan form, att ståndet kunde godkänna densamma, hafva
-            bragt mig pä den tanken, att deri måste vara något väsendtligt
+            &amp; 2 i en sådan form, att ståndet kunde godkänna densamma,
+            hafva bragt mig pä den tanken, att deri måste vara något väsendtligt
             fel och jag tror, att denna $ alls icke hade bort vara här intagen,
             enär den berör en helt annan armöorganisation än värnepligten,
             utan borde derför alldeles utstrykas. Utskottet har i klämmen
@@ -12482,11 +12491,11 @@
           </seg>
         </u>
         <note xml:id="i-4jYx7f2tSo1DB4SAmcwiJA">
-          * sädan proposition hafva vi i &amp; 2, som bör af oss säsom sädan
-          behandlas. Vi göra det också, om vir bortlemna &amp; 2 från lagförslaget
-          och i stället låta ingå i ingressen såsom ett vilkor för värnepligtens
-          införande, att en proposition om grundlagsförändring af indelningsverket
-          förelägges nästkommande landtdag. Dä skulle
+          * sädan proposition hafva vi i &amp; 2, som bör af oss säsom
+          sädan behandlas. Vi göra det också, om vir bortlemna &amp; 2 från
+          lagförslaget och i stället låta ingå i ingressen såsom ett vilkor
+          för värnepligtens införande, att en proposition om grundlagsförändring
+          af indelningsverket förelägges nästkommande landtdag. Dä skulle
         </note>
         <note xml:id="i-7XmCxWRVu7d9t1pbUyoRRd">
           119
@@ -12542,13 +12551,14 @@
           öfriga lägenheter befriade från vakansens erläggande». Om detta
           vilkor åter införes i klämmen, så kan det blifva blott ett stånds
           beslut och då förfaller det alldeles. Man har sagt att hela författningsförslaget
-          skulle förfalla ifall &amp; 2 icke godkändes, men detta kan jag icke
-          tro. Om vi kunna få ihop öfriga miljoner, så kunna vi väl också
-          få ihop dessa 1,200,000 mark, blott de rättvist fördelas. Landtdagsmannen
-          Malms förslag kan jag åter icke godkänna, såvida H. M:t sagt,
-          att han icke kan framställa proposition om indelningsverkets upphäfvande,
-          och då kunde det hvilken dag som helst föreskrifvas, att indelningsverket
-          bör uppställas, ifall intet blefve stadgadt om denna sak.
+          skulle förfalla ifall &amp; 2 icke godkändes, men detta kan jag
+          icke tro. Om vi kunna få ihop öfriga miljoner, så kunna vi väl
+          också få ihop dessa 1,200,000 mark, blott de rättvist fördelas.
+          Landtdagsmannen Malms förslag kan jag åter icke godkänna, såvida
+          H. M:t sagt, att han icke kan framställa proposition om indelningsverkets
+          upphäfvande, och då kunde det hvilken dag som helst föreskrifvas,
+          att indelningsverket bör uppställas, ifall intet blefve stadgadt
+          om denna sak.
         </note>
         <pb facs="https://swerik-project.github.io/valtiopaivat-records-pdf/1877-1878/ptk_1877-1878_talonpojat_III/ptk_1877-1878_talonpojat_III-0197"/>
         <note xml:id="i-W4T27gNv6uN5SZsoggTNZ3">
@@ -12623,9 +12633,9 @@
         <u who="i-VethMAkStv2TxN6zR2A8eZ">
           <seg>
             s stilisering med landtdagsmannen Svedberg. Landtdagsmannen Keränens
-            förslag kundo talaren icke godkänna, emedan &amp; och klämmen hafva
-            en alldeles skild betydelse samt den senare stadnar vid författningens
-            utgifvande uti arkiverna.
+            förslag kundo talaren icke godkänna, emedan &amp; och klämmen
+            hafva en alldeles skild betydelse samt den senare stadnar vid
+            författningens utgifvande uti arkiverna.
           </seg>
         </u>
         <note xml:id="i-VY5zkv58yvhpZ1emm3R2Y1" type="speaker">
@@ -12984,9 +12994,10 @@
           4 s
         </note>
         <note xml:id="i-6k5Gyf7Kkf67nGvudonkHC" type="speaker">
-          Edusmies Pahkamaa ei voinut hyväksyä &amp;, koska arvanheitto loukkasi
-          vapaan kansan tuntoa, mutta koska 1 ja 3 $ oli hyväksytty, niin
-          oli arvanheitto välttämätön, jonka vuoksi puhuja ehdoitti S:ä
+          Edusmies Pahkamaa ei voinut hyväksyä &amp;, koska arvanheitto
+          loukkasi vapaan kansan tuntoa, mutta koska 1 ja 3 $ oli hyväksytty,
+          niin oli arvanheitto välttämätön, jonka vuoksi puhuja ehdoitti
+          S:ä
         </note>
         <u who="i-HCzKggNUcwH4QKEnXcArFk">
           <seg>
@@ -13121,9 +13132,9 @@
         <u who="i-4VKJZeErGTDM8EF8mkdp7N">
           <seg>
             katsoi että edusmies Pahkamaan ehdoitus paremmin sopisi 10 lukuun,
-            jossa arvanheitosta likemmin puhutaan kuin 4 &amp; — Edusmies Hannuksen
-            ehdoitus taas jo löytyi mietinnössä ja arvanheitto oli vaan sitä
-            tapausta varten, ettei vapaa-
+            jossa arvanheitosta likemmin puhutaan kuin 4 &amp; — Edusmies
+            Hannuksen ehdoitus taas jo löytyi mietinnössä ja arvanheitto oli
+            vaan sitä tapausta varten, ettei vapaa-
           </seg>
         </u>
         <pb facs="https://swerik-project.github.io/valtiopaivat-records-pdf/1877-1878/ptk_1877-1878_talonpojat_III/ptk_1877-1878_talonpojat_III-0205"/>
@@ -13165,21 +13176,22 @@
             herra Silfversvanin vastalauseen mukaan? Värväys silloin hyljättiin
             ja minä panen vastalauseen sitä vastaan, että sitä enään saa edes
             puheeksi ottaa, koska se riitelee entistä päätöstä vastaan. Mutta
-            mihin määrin muutoin saatetaan tätä &amp; muuttaa, se on toinen asia.
-            Tässä on sanottu, että vapaaehtoiset olisivat paremmat kuin arvanheiton
-            kautta koottu sotavoima, mutta siihen on jo edusmies Värri vastannut
-            täydellisesti. Tässä ehdoituksessa löytyy kaikki mahdolliset keinot,
-            millä saataisiin sotajoukkoon nuo urhooliset vapaaehtoiset. Tämä
-            asetus menee niinkin loitos, että se sallii ottaa vapaaehtoisia,myöskin
-            ulkopuolella ikäluokkaa. Mutta jos ei tällä lailla saada vapaaehtoisia
-            tarpeeksi, mitä sitten on tehtävä? Shen on minun ymmärtääkseni
-            sääty vastannut: silloin käytetään arpaa. Mitä arvan pelkoon tulee,
-            niin riippuu se suuressa määrässä siitä kasvatuksesta, minkä kansa
-            on saanut. Jos kansa yhtä mittaa pääsee veltostumaan, niin ei
-            ole mikään mahdollisempi kuin että, niinkuin Puhakka sanoi, pyyn
-            pyrähtäminen saattaa sen jo kuolemaan. Jos menisimme noille Montenegrinilaisille
-            sanomaan, että on semmoisia luontoja, jotka eivät kykene sotaan,
-            niin aivan varmaan ne vastaisivat: saattaa olla monenlaisia kykenemättömiä
+            mihin määrin muutoin saatetaan tätä &amp; muuttaa, se on toinen
+            asia. Tässä on sanottu, että vapaaehtoiset olisivat paremmat kuin
+            arvanheiton kautta koottu sotavoima, mutta siihen on jo edusmies
+            Värri vastannut täydellisesti. Tässä ehdoituksessa löytyy kaikki
+            mahdolliset keinot, millä saataisiin sotajoukkoon nuo urhooliset
+            vapaaehtoiset. Tämä asetus menee niinkin loitos, että se sallii
+            ottaa vapaaehtoisia,myöskin ulkopuolella ikäluokkaa. Mutta jos
+            ei tällä lailla saada vapaaehtoisia tarpeeksi, mitä sitten on
+            tehtävä? Shen on minun ymmärtääkseni sääty vastannut: silloin
+            käytetään arpaa. Mitä arvan pelkoon tulee, niin riippuu se suuressa
+            määrässä siitä kasvatuksesta, minkä kansa on saanut. Jos kansa
+            yhtä mittaa pääsee veltostumaan, niin ei ole mikään mahdollisempi
+            kuin että, niinkuin Puhakka sanoi, pyyn pyrähtäminen saattaa sen
+            jo kuolemaan. Jos menisimme noille Montenegrinilaisille sanomaan,
+            että on semmoisia luontoja, jotka eivät kykene sotaan, niin aivan
+            varmaan ne vastaisivat: saattaa olla monenlaisia kykenemättömiä
             luonteita, mutta sotaan kykenemättömiä luonteita ei löydy laisinkaan.
             Välttääksemme semmoista kelvottomuutta kansassamme, täytyy meidän
             vähän luontoa karaista. Jos teräs siinä karaistuksessa halkeisi,
@@ -13336,9 +13348,9 @@
         </note>
         <note xml:id="i-QZWPMFvvRcQkbTWJEfBj3j">
           tarkastettaessa joutavaa vastustusta tehneet. Meidän säädyssämme
-          on asia aivan päin vastoin, niinkuin edusmies Meurm&amp;n jo on maininnut.
-          Täällä yhä vaan puhutaan vastalauseesta ja sen kohdista, mutta
-          näillä puhujilla ei näytä olevan muu tarkoitus kuin viivyttää
+          on asia aivan päin vastoin, niinkuin edusmies Meurm&amp;n jo on
+          maininnut. Täällä yhä vaan puhutaan vastalauseesta ja sen kohdista,
+          mutta näillä puhujilla ei näytä olevan muu tarkoitus kuin viivyttää
           säädyn aikaa ja hämmentää päätöksiä. Tässä on nyt vaan päätettävä,
           onko ero vakinaisen väen ja reservin välillä määrättävä arvalla
           vai jollakin muulla tavalla. Årpaa on vastustettu, vaan kukaan
@@ -13489,8 +13501,8 @@
           hafva blifvit godkändt och någon detaljeranskaing derför icke
           mera bort ega rum. Talaren ansåg det derföre vara ständet obetaget
           att ur reservationen godkänna hvad den för godt fann. För sin
-          del kunde talaren icke godkänna &amp; 4, utan förenade han sig med
-          landtdagsmannen Svedberg.
+          del kunde talaren icke godkänna &amp; 4, utan förenade han sig
+          med landtdagsmannen Svedberg.
         </note>
         <note xml:id="i-95nahgaqqV3jkAdD5dsL2u">
           Tässä muistutti säädyn puheenjohtaja edusmies Hollmerusta että
@@ -13649,17 +13661,18 @@
         </note>
         <note xml:id="i-QCdMhQPm5qT2YwkKd4Chrb">
           Tahtooko sääty vastaesitykseksi valiokunnan mietintöä vastaan
-          »&gt;jaa»-esitykseksi hyväksyä edusmies Pahkamaan ehdoituksen siitä,
-          että 4 &amp; lähetetään takaisin valiokuntaan uudestaan muodostettavaksi
-          siihen suuntaan, että sattuvissa tiloissa olisi sallittu 24 tunnin
-          kuluessa vaihtaa semmoinen arpa, joka on sattunut vakinaista palvelusta
-          varten, semmoiseen arpaan, joka on tullut palvelusta varten reservissä,
-          joka sen tahtoo, vastaa »jaa», joka ei sitä tahdo, vastaa vein;
-          jos vei» voittaa, asetetaan vastaesitykseksi edusmies Hannuksen
-          ehdoitus siitä, että 4 &amp; lykätään takaisin valiokuntaan muodostettavaksi
-          siihen suuntaan, että 8:ssä määrätty arvanheitto tulkoon kysymykseen
-          ainoastaan siinä tapauksessa, ettei tarpeellista lukumäärää vapaaehtoisia,
-          niinkuin 73 $ myöntää, ilmoita itseänsä vakinaiseen palvelukseen.
+          »&gt;jaa»-esitykseksi hyväksyä edusmies Pahkamaan ehdoituksen
+          siitä, että 4 &amp; lähetetään takaisin valiokuntaan uudestaan
+          muodostettavaksi siihen suuntaan, että sattuvissa tiloissa olisi
+          sallittu 24 tunnin kuluessa vaihtaa semmoinen arpa, joka on sattunut
+          vakinaista palvelusta varten, semmoiseen arpaan, joka on tullut
+          palvelusta varten reservissä, joka sen tahtoo, vastaa »jaa», joka
+          ei sitä tahdo, vastaa vein; jos vei» voittaa, asetetaan vastaesitykseksi
+          edusmies Hannuksen ehdoitus siitä, että 4 &amp; lykätään takaisin
+          valiokuntaan muodostettavaksi siihen suuntaan, että 8:ssä määrätty
+          arvanheitto tulkoon kysymykseen ainoastaan siinä tapauksessa,
+          ettei tarpeellista lukumäärää vapaaehtoisia, niinkuin 73 $ myöntää,
+          ilmoita itseänsä vakinaiseen palvelukseen.
         </note>
         <note xml:id="i-Uh8k3W1R26gNfxBuJsY7VW">
           Sääty hyväksyi esityksen ja vastaesityksen ja päätti tapahtuneessä
@@ -13831,8 +13844,8 @@
             vastaan, että nuorukaisella ei ole valtaa muuttaa maasta ennen
             21 vuotta täytettyään, sillä hän on holhonalainen. Suuri haitta
             olisi esim. jos taiteilija 21 vuoden ijässä tahtoisi vuoden tai
-            pari harjoitella itseään ulkomailla, mutta tämän &amp; mukaan olisi
-            estetty sitä tekemästä.
+            pari harjoitella itseään ulkomailla, mutta tämän &amp; mukaan
+            olisi estetty sitä tekemästä.
           </seg>
         </u>
         <note xml:id="i-LFeos9nfyNykcxz4xWNZ9L" type="speaker">
@@ -14456,8 +14469,8 @@
         </note>
         <u who="i-VnH4zjf69L3FmLnnG2A94f">
           <seg>
-            Alkupuoleen $ ehdoitetut muutokset eivät tee &amp; paremmaksi, vaan
-            lienee paras hyväksyä se muuttamatta. Edusmies Duncker epäili,
+            Alkupuoleen $ ehdoitetut muutokset eivät tee &amp; paremmaksi,
+            vaan lienee paras hyväksyä se muuttamatta. Edusmies Duncker epäili,
             saavuttaisiko $ vahvistusta nykyisessä muodossa. Sitä on vaikea
             tietää, vaan toivottava olisi että se saavuttaisi. Tällä määräyksellä
             on koetettu panna jonkunlainen suojelus ja turva väelle siten,
@@ -14519,12 +14532,12 @@
         </note>
         <u who="i-TPLLng6ovQtEFTALxn8PZa">
           <seg>
-            Ensimmäiset sanat &amp;:ssä ovat täydellisesti hyväksyttävät, sillä
-            ei ole mitään maata mailmassa, missä ei hallitsija olisi oikeutettu
-            punnitsemaan ja päättämään, koska tarve vaatii panna sotaväkeä
-            sotajalalle. Kummallinen vaatimus olisi, että tässä sanottaisiin
-            »kun varotaan vihollisen karkaamista maahan». Rupeisimmeko siis,
-            kun sota uhkaa, käräjänkäyntiin siitä, syntyykö tästä vihollisen
+            Ensimmäiset sanat &amp;:ssä ovat täydellisesti hyväksyttävät,
+            sillä ei ole mitään maata mailmassa, missä ei hallitsija olisi
+            oikeutettu punnitsemaan ja päättämään, koska tarve vaatii panna
+            sotaväkeä sotajalalle. Kummallinen vaatimus olisi, että tässä
+            sanottaisiin »kun varotaan vihollisen karkaamista maahan». Rupeisimmeko
+            siis, kun sota uhkaa, käräjänkäyntiin siitä, syntyykö tästä vihollisen
             karkaus maahan vai ei Asia on siis kaikkea käytännöllistä merkitystä
             vailla, mutta osoittaisi jotakin taipumusta säätyjen puolelta
             ryhtymään niihin oikeuksiin, joita hallitsijalla kaikkein luonnollisimmalla
@@ -14693,8 +14706,8 @@
           säätyjä luopumaan päätöksistään.
         </note>
         <note xml:id="i-LBxH68ie8cL1JTmR2Q1pTR">
-          Landtdagsmannen Hollm&amp;rus anmärkte mot föregäende talare, att
-          ständet godkänt utskottets betänkande med tilläggandet endast
+          Landtdagsmannen Hollm&amp;rus anmärkte mot föregäende talare,
+          att ständet godkänt utskottets betänkande med tilläggandet endast
           af ordet »kreatursbete» och att ståndet i afseende ä detta beslut
           stod ensamt.
         </note>
@@ -14927,9 +14940,9 @@
           </seg>
         </u>
         <note xml:id="i-CxW2z12jcySkKM9iLo1ac3">
-          Landtdagsmannen Hollm&amp;6rus ansåg, att om längdbestämningen skulle
-          borttagas, man kunde få dvergar i krigshären, hvilket väl kunde
-          gä an i reserven, men icke i aktiva truppen.
+          Landtdagsmannen Hollm&amp;6rus ansåg, att om längdbestämningen
+          skulle borttagas, man kunde få dvergar i krigshären, hvilket väl
+          kunde gä an i reserven, men icke i aktiva truppen.
         </note>
         <note xml:id="i-NywDJFtHZZvzJEqtqFXasw" type="speaker">
           Edusmies Karvosenoja
@@ -15890,13 +15903,14 @@
           den i 4 af värnepliktsförslaget införda lottningen en väldsam
           värfning sätillvida införes, att personer mot sin vilja tvingas
           till en flerårig tjensti aktiva armén, under fredstid, och denna
-          &amp; säledes upphäfver en del af &amp; 7 uti Kongl. Maj:ts öppna nädiga
-          försäkran och Stadfästelse å Svenska och Finska allmogens fri-
-          och rättigheter af den 16 juni 1789, sä hade, enligt vär tanke,
-          en framställning af Kejsaren och Storfursten för upphäfvande af
-          sistnämnde grundlags helgd tillerkända författnings 7 &amp; bort föreläggas
-          ständerna förrän allmogen, Bondeständet, haft anledning frångå
-          de allmogen i detta afseende tillförsäkrade fri- och rättigheter.
+          &amp; säledes upphäfver en del af &amp; 7 uti Kongl. Maj:ts öppna
+          nädiga försäkran och Stadfästelse å Svenska och Finska allmogens
+          fri- och rättigheter af den 16 juni 1789, sä hade, enligt vär
+          tanke, en framställning af Kejsaren och Storfursten för upphäfvande
+          af sistnämnde grundlags helgd tillerkända författnings 7 &amp;
+          bort föreläggas ständerna förrän allmogen, Bondeständet, haft
+          anledning frångå de allmogen i detta afseende tillförsäkrade fri-
+          och rättigheter.
         </note>
         <note xml:id="i-GyfuRXiwuacRc15wr3wHTt">
           Det är således emot hedervärda Bondeståndets beslut att antaga
@@ -16046,13 +16060,13 @@
             Minä tunnustan, että olen aivan hämärässä, kuinka tämän pykälän
             jälkimmäinen lause voi käytännössä tulla varteen otetuksi. Jos
             katsomme, kuinka nämät luettelot ovat tehtävät, niin näkyy 43
-            $:stä, että se on oleva kutsuntatoimiston asiana. 56 &amp;:ssä sanotaan
-            sitten, että kutsuntatoimiston on tehtävä nämä luettelot niiden
-            luettelojen johdolla, jotka papisto ja henkikirjuri antaa. Mutta
-            niissä luetteloissa on annettu ylös vaan ne henkilöt, jotka edellisenä
-            vuonna ovat täyttäneet 21 vuotta. Minun on siis mahdoton tietää,
-            kuinka tämä pysyvä kutsuntatoimisto voi saada mitään tietoa, jos
-            semmoisia henkilöitä kuin $ tarkoittaa löytyy ja vielä vähemmän,
+            $:stä, että se on oleva kutsuntatoimiston asiana. 56 &amp;:ssä
+            sanotaan sitten, että kutsuntatoimiston on tehtävä nämä luettelot
+            niiden luettelojen johdolla, jotka papisto ja henkikirjuri antaa.
+            Mutta niissä luetteloissa on annettu ylös vaan ne henkilöt, jotka
+            edellisenä vuonna ovat täyttäneet 21 vuotta. Minun on siis mahdoton
+            tietää, kuinka tämä pysyvä kutsuntatoimisto voi saada mitään tietoa,
+            jos semmoisia henkilöitä kuin $ tarkoittaa löytyy ja vielä vähemmän,
             onko ne ruumiin puolesta niin vaurastuneet, että ne kelpaavat
             sotaan. Jonka vuoksi minun täy-
           </seg>
@@ -16137,8 +16151,8 @@
             tietää sen olevan muka silloin 21 vuoden vanha, kun, niinkuin
             edusmies Puhakka sanoi, parta alkaa kasvaa, niin se minun mielestäni
             ei ole mahdollista kutsuntatoimistolle, sillä eivät ne tule sille
-            partaansa näyttämään. Katson siis, että tämän &amp; määräys on järjetön
-            tässä olemaan ja olisi se muutettava 60 S:ään.
+            partaansa näyttämään. Katson siis, että tämän &amp; määräys on
+            järjetön tässä olemaan ja olisi se muutettava 60 S:ään.
           </seg>
         </u>
         <note xml:id="i-PzoA2ygsUctsvZyRLmGzCo" type="speaker">
@@ -16334,8 +16348,8 @@
         </note>
         <u who="i-2M9Q96JhxJvPjW2FZPFTCY">
           <seg>
-            anmärkte, att enligt ständets beslut, beträffande &amp; 9 borde ur
-            denna S orden »eller tukthus-
+            anmärkte, att enligt ständets beslut, beträffande &amp; 9 borde
+            ur denna S orden »eller tukthus-
           </seg>
         </u>
         <note xml:id="i-K4tqhrukMn93LZKfhwtwag">
@@ -16462,10 +16476,10 @@
         </note>
         <u who="unknown">
           <seg>
-            Min önskan vore, att till denna &amp; skulle göras ett sädant tillägg,
-            att om inom nägot lottningsomräde skullo anmäla sig flera frivilliga,
-            än frän detta omräde enligt fördelning behöfde utgä, de öfriga
-            skulle inskrifvas i reserven.
+            Min önskan vore, att till denna &amp; skulle göras ett sädant
+            tillägg, att om inom nägot lottningsomräde skullo anmäla sig flera
+            frivilliga, än frän detta omräde enligt fördelning behöfde utgä,
+            de öfriga skulle inskrifvas i reserven.
           </seg>
         </u>
         <note xml:id="i-2xW3B4ZPfTCbyLjsNdNG1c" type="speaker">
@@ -16487,10 +16501,10 @@
           74—83 88
         </note>
         <note xml:id="i-J4yTmJRFAcBARUJAMkhQ84">
-          hyväksyttiin, vaarin ottamalla, että 76 &amp;:ssä suomalaisessa tekstissä
-          viittaus »56&gt; oikaistiin olemaan »55» sekä että 81 &amp;:stä entisen
-          päätöksen johdosta sanat »kuritushuone-rangaistukseen tahi» jätetään
-          pois.
+          hyväksyttiin, vaarin ottamalla, että 76 &amp;:ssä suomalaisessa
+          tekstissä viittaus »56&gt; oikaistiin olemaan »55» sekä että 81
+          &amp;:stä entisen päätöksen johdosta sanat »kuritushuone-rangaistukseen
+          tahi» jätetään pois.
         </note>
         <note xml:id="i-C2cTPTjqmSxx1mdZxDbV3W">
           Puhemies ilmoitti, että Ritaristosta ja Aatelista oli tullut
@@ -16727,10 +16741,10 @@
         <u who="i-TPLLng6ovQtEFTALxn8PZa">
           <seg>
             Minä luulen, ettei tätä pykälettä tarvitse enää muuttaa. Sittenkuin
-            valiokunta on selittänyt 14 &amp;:ssä, missä järjestyksessä ne arpaluettelon
-            mukaan otetaan sisään, niin tässä &amp;:ssä voidaan aivan hyvin sanoa,
-            että »sen järjestyksen mukaan kuin arpeluettelo osoittaa», siis
-            niinkuin 14 &amp;ssä selitetty on.
+            valiokunta on selittänyt 14 &amp;:ssä, missä järjestyksessä ne
+            arpaluettelon mukaan otetaan sisään, niin tässä &amp;:ssä voidaan
+            aivan hyvin sanoa, että »sen järjestyksen mukaan kuin arpeluettelo
+            osoittaa», siis niinkuin 14 &amp;ssä selitetty on.
           </seg>
         </u>
         <note xml:id="i-Rowa3GNhq5516kCKHX95WE" type="speaker">
@@ -16808,8 +16822,8 @@
             Tässä on nyt toinen kohta, josta minä —vastalauseessani olen
             ilmoittanut eriäväisen mielipiteeni. Minä kyllä tiedän, että tätä
             kohtaa samallainen vastus, kuin ehdoitustani arm. esityksen 40
-            &amp;:n suhteen, josta edusmies Meurman piti aika läksyn, joka jo
-            liikutti edusmies Mattilaa, että hän olisi
+            &amp;:n suhteen, josta edusmies Meurman piti aika läksyn, joka
+            jo liikutti edusmies Mattilaa, että hän olisi
           </seg>
         </u>
         <pb facs="https://swerik-project.github.io/valtiopaivat-records-pdf/1877-1878/ptk_1877-1878_talonpojat_III/ptk_1877-1878_talonpojat_III-0253"/>
@@ -17016,8 +17030,8 @@
         <note xml:id="i-JtzotHhX26BwWiHQ9j2Hnb">
           Keskustelu päättyi ja esityksen tehtyä sääty sen perästä tapahtuneessa
           äänestyksessä yhdelläkolmatta (21) äänellä yhdeksäntoista (19)
-          ääntä vastaan tämän &amp;:n sijaan hyväksyi armollisen esityksen sananmuodon
-          sitä vastaavassa 104 $:ssä.
+          ääntä vastaan tämän &amp;:n sijaan hyväksyi armollisen esityksen
+          sananmuodon sitä vastaavassa 104 $:ssä.
         </note>
         <note xml:id="i-VJngJenz4iA9CqTuqyVxFd">
           Keskustelu tässä asiassa piti jatkettaman jälkeen puolisen ja
@@ -17781,9 +17795,9 @@
         </note>
         <u who="i-6suuzHSQU6bgefM53wxoHs">
           <seg>
-            Tämän &amp; mukaan tulee sekin rangaistuksen alaiseksi, joka ei ole
-            kelvollinenkaan sotapalvelukseen, kun sanotaan: »ennenkuin hän
-            asevelvollisuutensa vakinaisessa palveluksessa tahi kokousvelvollisuutensa
+            Tämän &amp; mukaan tulee sekin rangaistuksen alaiseksi, joka
+            ei ole kelvollinenkaan sotapalvelukseen, kun sanotaan: »ennenkuin
+            hän asevelvollisuutensa vakinaisessa palveluksessa tahi kokousvelvollisuutensa
             on täyttänyt taikka siitä on tullut vapautetuksis. Hän juuri sen
             tähden on voinut mennä ulkomaille, että hän on tiennyt olevansa
             kelpaamaton sotapalvelukseen, ja sittekin hän saisi rangaistuksen
@@ -18216,9 +18230,9 @@
           mukaan varastojoukkoja, joiden tarkoitus on, osittain täyttää
           niitä aukkoja, joita sotaliikkeen kestäessä syntyy vakinaisen
           väen riveissä, osittain luoda uusia joukkoja kannaksi nostoväelle
-          millä tämä 21 &amp; mukaan kutsutaan aseisin. Viimemainitussa tapauksessa
-          noudatetaan kustannusehdotuksen ja sijoitusjaon suhteen mitä 14
-          ja 122 $$ säätää.
+          millä tämä 21 &amp; mukaan kutsutaan aseisin. Viimemainitussa
+          tapauksessa noudatetaan kustannusehdotuksen ja sijoitusjaon suhteen
+          mitä 14 ja 122 $$ säätää.
         </note>
         <note xml:id="i-TZbtYbtHEJyedDbzZXTTan" type="speaker">
           Edusmies Liukkonen
@@ -18234,10 +18248,10 @@
         <u who="i-X9eEjh4Va2BNBd1gCaYmjx">
           <seg>
             ansåg Jandtdagsmannen Eklunds omredigering icke vara berättigad,
-            dä 1 &amp; en gäng godkänts och dessa $$ böra stä i konformitö med
-            hvarandra. Senare mom. ville talaren formulera i öfverenstämmelse
-            med Presteständets beslut, eller också kunde hela &amp; alldeles bortlemnas,
-            dä dess innehåll redan var uttryckt i $$ 1 och 14.
+            dä 1 &amp; en gäng godkänts och dessa $$ böra stä i konformitö
+            med hvarandra. Senare mom. ville talaren formulera i öfverenstämmelse
+            med Presteständets beslut, eller också kunde hela &amp; alldeles
+            bortlemnas, dä dess innehåll redan var uttryckt i $$ 1 och 14.
           </seg>
         </u>
         <note xml:id="i-KXaeYXwPreYuRkRiB8S7XV" type="speaker">
@@ -18298,8 +18312,8 @@
           »jaa»; joka ei sitä hyväksy, vastaa vei».
         </note>
         <note xml:id="i-6H1f1Gjd4MnA43CqYt6AGX">
-          Sääty hyväksyi äänestyksessä valiokunnan mietinnön 124 &amp;:n 1
-          mom. muuttamatta.
+          Sääty hyväksyi äänestyksessä valiokunnan mietinnön 124 &amp;:n
+          1 mom. muuttamatta.
         </note>
         <note xml:id="i-G5hVcWFa9FLSwfhu2JyXVV">
           Sen perästä esiteltiin vielä seuraava äänestys:
@@ -18450,9 +18464,9 @@
           <seg>
             vidhöll sitt första förslag samt ansäg, att klämmen icke ens
             borde komma under omröstning, dä det skulle strida mot ständets
-            beslut i afseende &amp; 2 &amp;. H. Majestät skulle för öfrigt utan dessa
-            önskningsmäl också finna räd för, pä hvad sätt medel för värnepliktens
-            genomförande skola anskaffas.
+            beslut i afseende &amp; 2 &amp;. H. Majestät skulle för öfrigt
+            utan dessa önskningsmäl också finna räd för, pä hvad sätt medel
+            för värnepliktens genomförande skola anskaffas.
           </seg>
         </u>
         <note xml:id="i-8wEsFdXuvjwVUKHkPdFo1J" type="speaker">
@@ -18566,8 +18580,8 @@
         <note xml:id="i-4vkzBeC3A6fwS12Cmq8NDT">
           Puhemies huomautti, että sääty kyllä saattaa tämän kohdan hyljätä
           nyt, ja jos vast'edes tullaan pyytämään säädyä luopumaan päätöksestään
-          2 &amp; suhteen, voipi sääty siihen suostua sillä ehdolla, että saa
-          uudestaan ottaa esiin tämän nyt puheena olevan kohdan.
+          2 &amp; suhteen, voipi sääty siihen suostua sillä ehdolla, että
+          saa uudestaan ottaa esiin tämän nyt puheena olevan kohdan.
         </note>
         <note xml:id="i-TXyg8bEwv11hC8ATbKp8aQ" type="speaker">
           Edusmies Mäkelä piti keskustelun tästä ensimäisestä kohdasta
@@ -18596,9 +18610,9 @@
           <seg>
             Edusmies Eklund koitti tässä selittää, että itse asiassa olisi
             säädylle annettu armoll. esitys vakanssiveron lakkauttamisesta.
-            Mutta se selitys ei ollenkaan pidä paikkaansa, sillä 2 &amp;:ssä kyllä
-            puhutaan, että vakanssi-maksu on suoritettava, vaan ei, että se
-            on lakkautettava.
+            Mutta se selitys ei ollenkaan pidä paikkaansa, sillä 2 &amp;:ssä
+            kyllä puhutaan, että vakanssi-maksu on suoritettava, vaan ei,
+            että se on lakkautettava.
           </seg>
         </u>
         <note xml:id="i-TG34RY5AH4q9hGDaQ1Xo2z" type="speaker">
@@ -18658,10 +18672,11 @@
             vakuutettu, että se suomenkielen taito, joka heiltä vaaditaan,
             olisi sellainen, ettei se olisi minkään arvoinen, mutta päin vastoin
             kun tulisi kysymykseen suomalaisen korottaminen upseeriksi tai
-            aliupseeriksi, niin pidettäisiin kaiketi täydellinen &gt;examen rigurosum&gt;
-            ja vähinkin murtaminen sitä vastaan vaikuttaisi hylkäämisen. Ennen
-            pantakoon päälliköiksi sellaisiakin, jotka eivät osaa suomea,
-            kuin tehdään sellainen este suomalaisen edistymiselle sotatiellä.
+            aliupseeriksi, niin pidettäisiin kaiketi täydellinen &gt;examen
+            rigurosum&gt; ja vähinkin murtaminen sitä vastaan vaikuttaisi
+            hylkäämisen. Ennen pantakoon päälliköiksi sellaisiakin, jotka
+            eivät osaa suomea, kuin tehdään sellainen este suomalaisen edistymiselle
+            sotatiellä.
           </seg>
         </u>
         <note xml:id="i-MMC6rcJA2TAofQX65LkRRd">
@@ -19005,8 +19020,8 @@
         </note>
         <u who="unknown">
           <seg>
-            16 armollisesta esityksestä, joka on tehty siitä, että 55 &amp; 9:nä
-            p. Kesäkuuta v. 1873 annetussa armollisessa asetuksessa paloviinan
+            16 armollisesta esityksestä, joka on tehty siitä, että 55 &amp;
+            9:nä p. Kesäkuuta v. 1873 annetussa armollisessa asetuksessa paloviinan
             valmistuksesta, myy- - varastossapidosta, ja kuljeuksesta muutettaisiin
             toisin kuuuvaksi.
           </seg>
@@ -19110,9 +19125,9 @@
         </note>
         <u who="i-6suuzHSQU6bgefM53wxoHs">
           <seg>
-            katsoi, ettei tästä lähetyksestä nyt enää, kuin itse $&amp; jo olivat
-            keskustellut, ollut mitään hyötyä ja tuskinpa valiokunta sitä
-            voisi tehdäkään, koska näiden S$ perustuslaillisesta luonnosta
+            katsoi, ettei tästä lähetyksestä nyt enää, kuin itse $&amp; jo
+            olivat keskustellut, ollut mitään hyötyä ja tuskinpa valiokunta
+            sitä voisi tehdäkään, koska näiden S$ perustuslaillisesta luonnosta
             oli hyvinkin paljo epäilyksiä.
           </seg>
         </u>
@@ -19252,8 +19267,8 @@
           1 kohta -hyväksyttiin. 2 kohdan
         </note>
         <note xml:id="i-6rYHMJSpwkw7CCCfYGaFCT">
-          esitti edusmies Avellan, jonka kanssa edusmies Hollm&amp;rus yhdistyi,
-          hyväksyttäväksi, koska sen suhteen jo oli 3 säädyn enemmistö.
+          esitti edusmies Avellan, jonka kanssa edusmies Hollm&amp;rus
+          yhdistyi, hyväksyttäväksi, koska sen suhteen jo oli 3 säädyn enemmistö.
         </note>
         <note xml:id="i-C9UMSB1zvgXNnw2XQSmbt2" type="speaker">
           Edusmiehet Hartonen
@@ -20550,11 +20565,11 @@
           viljalajia saisi yhteinen kansa vähemmissä osissa myydä tarvitsevalle»,
           joka olisi niin tarpeen katovuosien maata kohdatessa, vaan koska
           valiokunta ei näy Talonpoikaissäädyn mielipiteitä ottaneen mihinkään
-          huomioon, niin nojaten valtiopäiväjärjestyksen 51 &amp;:lään, pyydän
-          kunnioituksella esitellä, että arvoisa Talonpoikaissääty yhdistyisi
-          tähän pyyntöön: »Että Keisarillinen Majesteetti tahtoisi armossa
-          antaa tuleville valtiopäiville mainittuun lakiehdoitukseen sen
-          lisäyksen siihen suuntaan, että jokaisella Suomen kansalaisella
+          huomioon, niin nojaten valtiopäiväjärjestyksen 51 &amp;:lään,
+          pyydän kunnioituksella esitellä, että arvoisa Talonpoikaissääty
+          yhdistyisi tähän pyyntöön: »Että Keisarillinen Majesteetti tahtoisi
+          armossa antaa tuleville valtiopäiville mainittuun lakiehdoitukseen
+          sen lisäyksen siihen suuntaan, että jokaisella Suomen kansalaisella
           olisi oikeus ulkomaalta tuotuin rukiiden, ohrain ja niistä tehtyin
           jauhoin kuin myös suolain myyntiin, kuin ne ovat laillisesti maahan
           tuotuina; sekä mainitun kaupan edestä olisi kunnalla oikeus vuosittain
@@ -20705,8 +20720,8 @@
         <note xml:id="i-Brh79iyCYAQurTD7nEG4yy">
           Otettiin käyteltäväksi Talousvaliokunnan ennen pöydälle pantu
           mietintö n:o 16 Keisarillisen Majesteetin arm. esityksestä, joka
-          on tehty siitä, että 55 &amp; 9 pinä kesäkuuta v. 1873 annetussa arm.
-          asetuksessa paloviinan valmistuksesta, myymisestä, varastossa-pidosta
+          on tehty siitä, että 55 &amp; 9 pinä kesäkuuta v. 1873 annetussa
+          arm. asetuksessa paloviinan valmistuksesta, myymisestä, varastossa-pidosta
           ja kuljetuksesta muutettaisiin toisin kuuluvaksi.
         </note>
         <note xml:id="i-5Wv9zP5ZC8fesJ9qY9NWqP" type="speaker">
@@ -20912,8 +20927,8 @@
             Meurman nyt oli esiin tuonut, jonka tähden hän sitä suuremmalla
             syyllä puolusti edusmies Meurmanin lausuntoa. Kumminkin tahtoi
             puhuja, ettei säädyssä tehtäisi mitään sanamuodostusta, vaan lähetettäisiin
-            asia takaisin valiokuntaan, jonka sitten tulisi muuttaa &amp; siihen
-            suuntaan, ettei väkevien juomain vähittäinmyöntiä sallittaisi
+            asia takaisin valiokuntaan, jonka sitten tulisi muuttaa &amp;
+            siihen suuntaan, ettei väkevien juomain vähittäinmyöntiä sallittaisi
             yhteydessä muun kaupan kanssa.
           </seg>
         </u>
@@ -21796,8 +21811,8 @@
         </note>
         <u who="i-Pwjr6vGBf5sGMw2BtNjBMH">
           <seg>
-            ehdoitteli, että päätös tästä &amp; jätettäisiin tuonnemmaksi, koskei
-            vielä tietty tarvittavan suostuntaveron määrää.
+            ehdoitteli, että päätös tästä &amp; jätettäisiin tuonnemmaksi,
+            koskei vielä tietty tarvittavan suostuntaveron määrää.
           </seg>
         </u>
         <note xml:id="i-4mLv8gFkm2ru2Fr51gCVHN" type="speaker">
@@ -21834,8 +21849,8 @@
           Keskustelun päätyttyä esiteltiin seuraava ääntöesitys :
         </note>
         <note xml:id="i-FEGcjsJCAo1VGFUBFou9wF">
-          Joka kohta tahtoo lopullisesti päättää 1 &amp;:n, vastaa »jaa»; joka
-          tahtoo jättää sen ratkaisemisen tuonnemmaksi, vastaa vei.»
+          Joka kohta tahtoo lopullisesti päättää 1 &amp;:n, vastaa »jaa»;
+          joka tahtoo jättää sen ratkaisemisen tuonnemmaksi, vastaa vei.»
         </note>
         <note xml:id="i-T3RJo4eScnze7mMSjA6ypD">
           Sääty hyväksyi äänestysesityksen ja päätti tapahtuneessa äänestyksessä
@@ -21860,9 +21875,10 @@
           </seg>
         </u>
         <note xml:id="i-VY9ukSx5NbaNVZc23Ub6Pq">
-          Edusmies Dun cker: Kun sääty hyväksyi 3 &amp;, niin edusmies Aschanin
-          ehdoitus on sopimaton, sillä silloin osakeyhtiön jäsenet saisivat
-          maksaa kahdenkertaista suostuntaveroa. Minä siis hyväksyn &amp; muuttamatta.
+          Edusmies Dun cker: Kun sääty hyväksyi 3 &amp;, niin edusmies
+          Aschanin ehdoitus on sopimaton, sillä silloin osakeyhtiön jäsenet
+          saisivat maksaa kahdenkertaista suostuntaveroa. Minä siis hyväksyn
+          &amp; muuttamatta.
         </note>
         <note xml:id="i-G8WW2MmJwb19rZZV1hCbG2">
           Edusmiehet Olofsson, Svedberg, Häyrinen ja Heikkilä yhdistyivät
@@ -22738,8 +22754,8 @@
           <seg>
             Denna fräga har med värme omfattats bäde af utskottet och ständerna,
             som med sällsynt enighet behandlat några hufvudpunkter i frågan.
-            Likväl synes saken nu komma att förfalla, dä i afseende &amp; sista
-            mom. tvä ständ stannat mot två. När nu i det allmännas intresse
+            Likväl synes saken nu komma att förfalla, dä i afseende &amp;
+            sista mom. tvä ständ stannat mot två. När nu i det allmännas intresse
             dessa kontrakter upphäfvas, sä är det en sak, som bör med den
             störste omsorg behandlas och klart är att ständerna äfven vilja
             bevaka sitt intresse deri, hvilket regeringen icke heller bör
@@ -23382,8 +23398,8 @@
           v ov
         </note>
         <note xml:id="i-XNMejvzhgeaf2MyjYjceUy">
-          Nyrönen 26 » Keränen 25 &gt;» Heikkilä 25 a H. Jaatinen 23 » Karlstedt
-          16 &gt;»
+          Nyrönen 26 » Keränen 25 &gt;» Heikkilä 25 a H. Jaatinen 23 »
+          Karlstedt 16 &gt;»
         </note>
         <note xml:id="i-KxH6jDPNhcxEBHaAoZPMHN">
           ja varajäseniksi, jos sattuisi este joillekuille yllämainituista,
@@ -23539,8 +23555,8 @@
           säätyä ole ollenkaan tahdottu muuttamaan päätöstänsä, sillä juuri
           tässä asiassa olisi sillä tilaisuus osoittaa tuota keskinäistä
           rakkautta ja ystävyyttä, josta Pappissäädyn lähetystö tuonaan
-          niin paljon puhui. Ritariston ja Aatelin ehdoituksen 11 &amp;:n 5
-          kohdan arveli puhuja koko sovitelmaehdoituksessa ainoaksi, jonka
+          niin paljon puhui. Ritariston ja Aatelin ehdoituksen 11 &amp;:n
+          5 kohdan arveli puhuja koko sovitelmaehdoituksessa ainoaksi, jonka
           hän pitää hyväksyttävänä, mutta kuin hän kaiken muun hylkäsi,
           niin luuli hän suorimmaksi, että tämäkin kohta menisi kaupanpäälliseksi
           kumoon.
@@ -23554,11 +23570,11 @@
             sä var utskottet nödtvunget att inbjuda tre ständ att förena sig
             med presteständets beslut. Jag för mig del hoppas ocksä, att icke
             allenast Bondeständet, utan äfven de tvänne andra skola förkasta
-            detta förslag. Då i &amp; 7 bestämmes, att smörtionden skall der erläggas
-            in natura, hvarest lokala förbållanden så fordra, sä anser jag
-            detta utgöra en hämsko för allt rationelt jordbruk. Man ser, att
-            presterna synnerligen älska smör framför bröd. — Då regleringskommissionen
-            bestämmer tion-
+            detta förslag. Då i &amp; 7 bestämmes, att smörtionden skall der
+            erläggas in natura, hvarest lokala förbållanden så fordra, sä
+            anser jag detta utgöra en hämsko för allt rationelt jordbruk.
+            Man ser, att presterna synnerligen älska smör framför bröd. —
+            Då regleringskommissionen bestämmer tion-
           </seg>
         </u>
         <pb facs="https://swerik-project.github.io/valtiopaivat-records-pdf/1877-1878/ptk_1877-1878_talonpojat_III/ptk_1877-1878_talonpojat_III-0351"/>
@@ -23591,18 +23607,18 @@
             on — sen luulen varmasti — pysyvä ja mitä Pappissäädyn lähetystö
             tuonaan tästä mainitsi, se ei ollut mitään ilman pieksämistä,
             vaan täyttä totta. — En liioin voi hyväksyä edusmies Hollmöruksen
-            väitettä, että papit saattaisivat puheena olevaa &amp; käyttää tulojensa
-            enentämiseksi. Tällaista epäluuloa papistoamme kohtaan ei minulla
-            ainakaan ole; ja jospa joku yksityinen palkan saaja näin tahtoisikin
-            palkkaetujansa lisätyksi, niin ei se ole hänen vallassaan, koska
-            asia on järjestyskomitean tutkittava ja vihdoin senaatin ratkaistava.
-            Koska siis tällaista luuttua ahneutta vastaan löytyy tävdellinen
-            turva, niin en voi ymrärtää, miksi niin suuresti pelättäisiin
-            tähän &amp;:ään ottaa tuota »voi»- sanaa. Tässä on vaan kysymys määräyksestä,
-            joka koskee poikkeustiloja. Minä hyväksyn siis S:n, enkä soisi
-            tämmöisen vähäpätöisen muutoksen tähden pantavan alttiiksi koko
-            esitystä papiston palkkauksen järjestämisestä, joka todellakin
-            on tarpeen vaatima.
+            väitettä, että papit saattaisivat puheena olevaa &amp; käyttää
+            tulojensa enentämiseksi. Tällaista epäluuloa papistoamme kohtaan
+            ei minulla ainakaan ole; ja jospa joku yksityinen palkan saaja
+            näin tahtoisikin palkkaetujansa lisätyksi, niin ei se ole hänen
+            vallassaan, koska asia on järjestyskomitean tutkittava ja vihdoin
+            senaatin ratkaistava. Koska siis tällaista luuttua ahneutta vastaan
+            löytyy tävdellinen turva, niin en voi ymrärtää, miksi niin suuresti
+            pelättäisiin tähän &amp;:ään ottaa tuota »voi»- sanaa. Tässä on
+            vaan kysymys määräyksestä, joka koskee poikkeustiloja. Minä hyväksyn
+            siis S:n, enkä soisi tämmöisen vähäpätöisen muutoksen tähden pantavan
+            alttiiksi koko esitystä papiston palkkauksen järjestämisestä,
+            joka todellakin on tarpeen vaatima.
           </seg>
         </u>
         <note xml:id="i-CSz13Zy465kHiEaSF43GRX" type="speaker">
@@ -23751,9 +23767,9 @@
         <u who="i-RtZYJRUio7AUd7ime4k5jZ">
           <seg>
             ehdoitti lähetystön kautta pyydettäväksi Pappissäätyä luopumaan
-            päätöksestään joka &amp;n suhteen; ja luuli puhuja Pappissäädyn suostuvankin
-            ehdoitukseen, koska se yleensä näyttää rakastavan sovintoa ja
-            suosiota.
+            päätöksestään joka &amp;n suhteen; ja luuli puhuja Pappissäädyn
+            suostuvankin ehdoitukseen, koska se yleensä näyttää rakastavan
+            sovintoa ja suosiota.
           </seg>
         </u>
         <note xml:id="i-QoPjBTdt984GkxSXse2xv2" type="speaker">
@@ -23784,13 +23800,13 @@
             mutta semmoisissa tiloissa harvoin hyviä päätöksiä tehdään. —
             Jos tämä $ hyljätään, niin koko pappien palkkaus-asia jää vanhalleen,
             ja silloin ne tietysti saavat tuon voitihunnin kaikessa tapauksessa,
-            jos tämä &amp; taas hyväksytään, niin minä luulen, etteivät ne missään
-            tapauksessa saa voitihuntia, mutta olkoon niinkin, kuin on väitetty,
-            että ne saisivatkin sen jossakin poikkeustilassa, niin sittenkin
-            palkkausasiat monissa kohden tulisivat paremmalle kannalle. —
-            Mitä Pappissäädyn lampaanhoitoon tulee, niin pitää muistaman,
-            että pappien on hoitaminen semmoisiakin lampaita, joilta jo villa
-            on pudonnut.
+            jos tämä &amp; taas hyväksytään, niin minä luulen, etteivät ne
+            missään tapauksessa saa voitihuntia, mutta olkoon niinkin, kuin
+            on väitetty, että ne saisivatkin sen jossakin poikkeustilassa,
+            niin sittenkin palkkausasiat monissa kohden tulisivat paremmalle
+            kannalle. — Mitä Pappissäädyn lampaanhoitoon tulee, niin pitää
+            muistaman, että pappien on hoitaminen semmoisiakin lampaita, joilta
+            jo villa on pudonnut.
           </seg>
         </u>
         <note xml:id="i-EWMZxaVVMkzBXW9RvHfeyJ" type="speaker">
@@ -24090,14 +24106,14 @@
           </seg>
         </u>
         <note xml:id="i-9sZqBwwYSvq29v8vRzf4v5">
-          Landtdagsmannen Hollm6&amp;rus ville med ett exempel visa, huru opraktiskt
-          i frägavarande förslag är. Församlingen får en prest, som ej vill
-          uppbära sjelf sin lön; dä mäste församlingen verkställa uppbörden,
-          bygga uppbördsmagasin m. m. Men presten dör, och dä fär församlingen
-          andra prester, som vilja sjelfva uppbära lönen. Efter 30 ä 40
-          är heter det igen, att församlingen skall verkställa uppbörden.
-          Då måste man pä nytt reparera uppbördsmagasinet, som under tiden
-          blifvit ett gammalt ruckel.
+          Landtdagsmannen Hollm6&amp;rus ville med ett exempel visa, huru
+          opraktiskt i frägavarande förslag är. Församlingen får en prest,
+          som ej vill uppbära sjelf sin lön; dä mäste församlingen verkställa
+          uppbörden, bygga uppbördsmagasin m. m. Men presten dör, och dä
+          fär församlingen andra prester, som vilja sjelfva uppbära lönen.
+          Efter 30 ä 40 är heter det igen, att församlingen skall verkställa
+          uppbörden. Då måste man pä nytt reparera uppbördsmagasinet, som
+          under tiden blifvit ett gammalt ruckel.
         </note>
         <note xml:id="i-HDvfY3yKikRLrwU1GvpSvQ" type="speaker">
           Edusmies Hannuksela
@@ -24362,10 +24378,10 @@
           </seg>
         </u>
         <note xml:id="i-AttJpchpHcPG1HUzuFwHjv">
-          Siitä syntyneessä keskustelussa edusmiehet Lang 6&amp;n, Mut tilainen,
-          Avellan ja Riihimäki hyväksyivät ehdoituksen, jota vastoin edusm.
-          Värri, Meurman, Heikkilä, Muttilainen, H. Jaatinen ja Eklund sen
-          hylkäsivät.
+          Siitä syntyneessä keskustelussa edusmiehet Lang 6&amp;n, Mut
+          tilainen, Avellan ja Riihimäki hyväksyivät ehdoituksen, jota vastoin
+          edusm. Värri, Meurman, Heikkilä, Muttilainen, H. Jaatinen ja Eklund
+          sen hylkäsivät.
         </note>
         <note xml:id="i-EdVKh5DiKX3EEU3xmvneXv">
           Keskustelun päätyttyä tapahtuneessa äänestyksessä sääty yhdelläneljättä
@@ -24973,9 +24989,9 @@
         </note>
         <note xml:id="i-7Gdvs9LWmptR3WgNetCdNB">
           Esiteltiin talousvaliokunnan kirjoitus, jossa säätyä kehoitetaan
-          luopumaan päätöksestään koskeva 55 &amp; viina-asetuksessa ja yhtymään
-          Ritariston ja Aatelin sekä Porvarissäädyn päätökseen asiassa.
-          Tämän johdosta lausui:
+          luopumaan päätöksestään koskeva 55 &amp; viina-asetuksessa ja
+          yhtymään Ritariston ja Aatelin sekä Porvarissäädyn päätökseen
+          asiassa. Tämän johdosta lausui:
         </note>
         <note xml:id="i-De4b4F4fD9gSxV8XS9Kv4P" type="speaker">
           Edusmies Värri:
@@ -25096,12 +25112,12 @@
           värnepligt, äro samtlige rusthäll och rotar frikallade frän uppställandet
           af krigsfolk enligt indelningsverket, men de från dem för närvarande
           utgående vakansafgifter skola tillsvidare erläggas», hvarjemte
-          Utskottet föreslog, att ifrågavarande &amp; skulle anses vara grundlag.
-          Denna &amp; antogs oförändrad af tre stånd och af Bondeständet till
-          dess förra del, samt med sädan förändring af dess sednare del,
-          att »sä länge landets härväsende är ordnadt pä grundvalen af allmän
-          värnepligt, äro samtliga rusthäll och rotar frikallade från skyldigheten
-          att erlägga de från dem för närvarande ut-
+          Utskottet föreslog, att ifrågavarande &amp; skulle anses vara
+          grundlag. Denna &amp; antogs oförändrad af tre stånd och af Bondeständet
+          till dess förra del, samt med sädan förändring af dess sednare
+          del, att »sä länge landets härväsende är ordnadt pä grundvalen
+          af allmän värnepligt, äro samtliga rusthäll och rotar frikallade
+          från skyldigheten att erlägga de från dem för närvarande ut-
         </note>
         <pb facs="https://swerik-project.github.io/valtiopaivat-records-pdf/1877-1878/ptk_1877-1878_talonpojat_III/ptk_1877-1878_talonpojat_III-0376"/>
         <note xml:id="i-BCHu2ZLR3sX76XBhTzt75a">
@@ -25208,8 +25224,8 @@
         <u who="i-CoMYVcvAbrFUkcyuiLmjQG">
           <seg>
             Minä puolestani hyväksyn Asevelvollisuusvaliokunnan yhteensovitus-mietinnön
-            2 &amp;:n, kumminkin sillä ehdolla, että saman mietinnön 43, 44 ja
-            45 sivuilla olevat lemmit yhdistetään ja ensimäinen lemmi tulisi
+            2 &amp;:n, kumminkin sillä ehdolla, että saman mietinnön 43, 44
+            ja 45 sivuilla olevat lemmit yhdistetään ja ensimäinen lemmi tulisi
             kuulumaan seuraavalla tavalla: että Säädyt, sen johdosta, mitä
             armollisen esityksen 2 $:ssä on armollisemmasti esiintuotu, ovat
             suostuneet siihen, että rustholleista ja ruotujaollisista taloista
@@ -25268,9 +25284,9 @@
         <u who="i-2M9Q96JhxJvPjW2FZPFTCY">
           <seg>
             Jag anser frågan vara af stor vigt, emedan det gäller för Bondeständet
-            att bibehälla sina grundlagsenliga privilegier. I R. F. 18 &amp; betraktas
-            knektekontrakten säsom grundlag och allmogen tillförsäkras pä
-            grund af dem frihet från all utskriining. Sälänge således indelningsverket
+            att bibehälla sina grundlagsenliga privilegier. I R. F. 18 &amp;
+            betraktas knektekontrakten säsom grundlag och allmogen tillförsäkras
+            pä grund af dem frihet från all utskriining. Sälänge således indelningsverket
             icke är upphäfvet, utan blott suspenderadt, sä är allmogen befriad
             frän alla andra krigsgärder. Genom värnepligten ätages en alldeles
             ny kostnad: och derför böra alla vid indelningsverket fästade
@@ -25780,15 +25796,16 @@
             varsin kiivaasti puolustivat erästä vastalausetta, jolla oli tarkoitus
             antaa jonkunmoista kieltävää vastausta arm. esitykseen. Sen vastalauseen
             nojassa jaettiin täällä säädyille cräs ehdoitus asevelvollisuuslaiksi
-            Suomenmaalle, jonka 2 &amp;:ssä on mainittu aivan samalla lailla kuin
-            valiokuntakin on muodostanut, vakanssiverosta, että muka ruotujakolaitoksesta
-            maksettavat vakanssimaksut ovat toistaiseksi suoritettavat. Tämän
-            johdosta minä pyytäisin huomauttaa, että niiden syytöksessä ei
-            ole perustusta, että valiokunta muka olisi tahtonut asiaa hämmentää.
-            Valiokunnalla on ollut koko keskustelun ja mietinnön perustuksena
-            arm. esitys ja sen on täytynyt seurata sitä ja koittaa jollakin
-            tavalla muodostaa ja saada jonkumoinen vastaus hallituksen esitykselle.
-            Nämät, jotka tekivät vastalauseen, he laativat aivan
+            Suomenmaalle, jonka 2 &amp;:ssä on mainittu aivan samalla lailla
+            kuin valiokuntakin on muodostanut, vakanssiverosta, että muka
+            ruotujakolaitoksesta maksettavat vakanssimaksut ovat toistaiseksi
+            suoritettavat. Tämän johdosta minä pyytäisin huomauttaa, että
+            niiden syytöksessä ei ole perustusta, että valiokunta muka olisi
+            tahtonut asiaa hämmentää. Valiokunnalla on ollut koko keskustelun
+            ja mietinnön perustuksena arm. esitys ja sen on täytynyt seurata
+            sitä ja koittaa jollakin tavalla muodostaa ja saada jonkumoinen
+            vastaus hallituksen esitykselle. Nämät, jotka tekivät vastalauseen,
+            he laativat aivan
           </seg>
         </u>
         <note xml:id="i-BPZfPaySWQd8uYPPWS87id">
@@ -25983,12 +26000,13 @@
         </u>
         <note xml:id="i-N7rW7Csffa5Rr5fUeppQRs">
           änen käytöksensä sitä. Ollen jäsenenä valiokunnassa on hän ensin
-          jalistanut koko toisen &amp;:n perustuslaiksi, mutta sitten on hän
-          vastalauseessa sanonut, ettei näistä ole yksikään perustuslakia.
+          jalistanut koko toisen &amp;:n perustuslaiksi, mutta sitten on
+          hän vastalauseessa sanonut, ettei näistä ole yksikään perustuslakia.
           Jos sellaista käytäntötapaa seurattaisiin, että perustuslaki lakkautettaisiin,
           mutta sääntöä, joka pannaan sen sijaan, ei pidettäisi perustuslakina,
           niin siten me muutamien valtiopäivien kuluttua olisimme tykkänään
-          perustuslaitta. 2 &amp;:ssä tosin sanotaan »toistaiseksi», mutta tämän
+          perustuslaitta. 2 &amp;:ssä tosin sanotaan »toistaiseksi», mutta
+          tämän
         </note>
         <pb facs="https://swerik-project.github.io/valtiopaivat-records-pdf/1877-1878/ptk_1877-1878_talonpojat_III/ptk_1877-1878_talonpojat_III-0391"/>
         <note xml:id="i-J8BUe2RvUgT5PL4FeLzUMu">
@@ -26193,8 +26211,9 @@
             edusmies Duncker on myöskin ollut epävakainen, silloin kuin asiasta
             ensi kerta keskusteltiin, niin oli herta Silfversvanin vastalauseen
             mukaan toinen ehdoitus asevelvollisauslakiin Suomelle ja sen 2
-            &amp;:ssä oli myöskin mainittu vakanssista, että se toistaiseksi suoritettaisiin,
-            vaan nyt on edusmies Duncker muuttanut mielensä ja tahtoo sen
+            &amp;:ssä oli myöskin mainittu vakanssista, että se toistaiseksi
+            suoritettaisiin, vaan nyt on edusmies Duncker muuttanut mielensä
+            ja tahtoo sen
           </seg>
         </u>
         <pb facs="https://swerik-project.github.io/valtiopaivat-records-pdf/1877-1878/ptk_1877-1878_talonpojat_III/ptk_1877-1878_talonpojat_III-0395"/>
@@ -26526,8 +26545,8 @@
             vaan sitten kun olin vakuutuksen saanut, niin suostuin asevelvollisuuteen.
             Mutta kun kerran suostuin uhraamaan poikani, joka oli kaikkein
             vaikein tehtävä, niin samalla olin lukenut koko esityksen ja nähnyt
-            mitä 2 &amp;:ssä vaaditaan, vaan kun 1 &amp;:ssä olin jaksanut suostua
-            siihen mitä siinä vaadittiin, niin toinen ei tullut kysymykseenkään,
+            mitä 2 &amp;:ssä vaaditaan, vaan kun 1 &amp;:ssä olin jaksanut
+            suostua siihen mitä siinä vaadittiin, niin toinen ei tullut kysymykseenkään,
             vaan hyväksyin sen mietinnön mukaan. Nyt on tässä noussut monenlaisia
             mutkia, joita en voi hyväksyä, sillä Suomen kansalla ja kaikilla
             ihmisillä taivaan kannen alla on ensimmäinen ehto rehellisyys
@@ -26783,12 +26802,12 @@
         </note>
         <u who="i-TPLLng6ovQtEFTALxn8PZa">
           <seg>
-            Kun Ritaristo ja Aateli sekä Porvarissääty ehdottelivat 8 &amp; poistamista,
-            niin ne samassa myöskin tahtoivat poistaa 113 &amp; ja Porvarissääty
-            muodostaa sen yhtäpitäväksi tämän päätöksen kanssa. Kumminkaan
-            ei tässä yhteensovituksessa valiokunta ehdoittele 113 8:n muuttamista
-            eikä poistamista ja sen kautta tulee 8 8:n poistaminen olemaan
-            kaikkea merkitystä vailla.
+            Kun Ritaristo ja Aateli sekä Porvarissääty ehdottelivat 8 &amp;
+            poistamista, niin ne samassa myöskin tahtoivat poistaa 113 &amp;
+            ja Porvarissääty muodostaa sen yhtäpitäväksi tämän päätöksen kanssa.
+            Kumminkaan ei tässä yhteensovituksessa valiokunta ehdoittele 113
+            8:n muuttamista eikä poistamista ja sen kautta tulee 8 8:n poistaminen
+            olemaan kaikkea merkitystä vailla.
           </seg>
         </u>
         <note xml:id="i-N8hv5pKgcQE5xtx3uoKCsV" type="speaker">
@@ -27727,8 +27746,8 @@
         <note xml:id="i-3qS6WmhZ68bGhihnAEgApo">
           Esiteltiin yhdistetyn Laki- ja Talousvaliokunnan kirjoitus tämän
           kuun 7 päivältä, jossa ilmoitetaan, miten enennetty valiokunta
-          oli ratkaissut 1 ja 2 $$, 19 8:n 5 kohdan, 20 &amp;n 1 kohdan ja 22
-          &amp;n 1 kohdan valiokunnan ehdotuksessa asetukseksi kyydinpidosta
+          oli ratkaissut 1 ja 2 $$, 19 8:n 5 kohdan, 20 &amp;n 1 kohdan
+          ja 22 &amp;n 1 kohdan valiokunnan ehdotuksessa asetukseksi kyydinpidosta
           ja kestikievareista.
         </note>
         <note xml:id="i-8yx3xzAcJXoZSGu4TXSgT8">
@@ -27792,23 +27811,23 @@
           sijaa tässä lutherilaisessa maassa. Itse kristinopin perustaja,
           ihmissuvun vapahtaja, oli fariseain silmissä eriuskolainen, joka
           muun muassa paransi sairaita sapattina. Puheena olevan lakiehdoituksen
-          19 &amp; on ollut suuresti riidan alainen meidänkin säädyssämme. Mutta
-          asian laita ei huonone, jos tuo &amp; hyväksytään, sillä jo nytkin
-          on uuden Kirkkolain mukaan lutherilaisilla oikeus ruveta kreikan
-          uskoon, vaikka kreikan kirkko toisaalta estää uskolaisiansa muuttamasta
-          lutherin uskoon. 19 S:n poisheittäminen taas joutuisi erittäin
-          kreikan kirkon eriuskolaisten hyväksi, joilla ei ole tunnustusvapautta
-          omassa maassaan ja jotka sen tähden pian keksisivät, että Suomenmaa
-          olisi heille paras turvapaikka. Näin ollen on porvaristo, paitsi
-          yllämainittua päätöstään, myös tahtonut kehoittaa muita säätyjä
-          suostumaan siihen, ettei asia saisi raueta, vaan olisi lisätyssä
-          valiokunnassa ratkaistava. Esitetyn eriuskolaislain kautta voitettaisiin
-          ainakin se, että ne lutheriset eriuskolaiset, jotka jo maassamme
-          löytyvät, etenkin Talonpoikaissäädyssä, saisivat laillisen asetuksen.
-          Tämän ystävällisen kehoituksen saamme me Porvarissäädyn puolesta
-          arvoisalle Talonpoikaissäädylle nöyrimmästi esittää, ja pyytää
-          Porvarissääty muutenkin pysyä suljettuna Talonpoikaissäädyn ystävyyteen
-          ja suosioon.
+          19 &amp; on ollut suuresti riidan alainen meidänkin säädyssämme.
+          Mutta asian laita ei huonone, jos tuo &amp; hyväksytään, sillä
+          jo nytkin on uuden Kirkkolain mukaan lutherilaisilla oikeus ruveta
+          kreikan uskoon, vaikka kreikan kirkko toisaalta estää uskolaisiansa
+          muuttamasta lutherin uskoon. 19 S:n poisheittäminen taas joutuisi
+          erittäin kreikan kirkon eriuskolaisten hyväksi, joilla ei ole
+          tunnustusvapautta omassa maassaan ja jotka sen tähden pian keksisivät,
+          että Suomenmaa olisi heille paras turvapaikka. Näin ollen on porvaristo,
+          paitsi yllämainittua päätöstään, myös tahtonut kehoittaa muita
+          säätyjä suostumaan siihen, ettei asia saisi raueta, vaan olisi
+          lisätyssä valiokunnassa ratkaistava. Esitetyn eriuskolaislain
+          kautta voitettaisiin ainakin se, että ne lutheriset eriuskolaiset,
+          jotka jo maassamme löytyvät, etenkin Talonpoikaissäädyssä, saisivat
+          laillisen asetuksen. Tämän ystävällisen kehoituksen saamme me
+          Porvarissäädyn puolesta arvoisalle Talonpoikaissäädylle nöyrimmästi
+          esittää, ja pyytää Porvarissääty muutenkin pysyä suljettuna Talonpoikaissäädyn
+          ystävyyteen ja suosioon.
         </note>
         <pb facs="https://swerik-project.github.io/valtiopaivat-records-pdf/1877-1878/ptk_1877-1878_talonpojat_III/ptk_1877-1878_talonpojat_III-0423"/>
         <note xml:id="i-AUbm9YmsCwUgwRHyBqyALw">
@@ -28258,7 +28277,8 @@
             skulle framföra till H. Majestät, att vakansen skulle upphöra
             mot slutet af år 1882, borde godkänna densamma. Talaren.godkände
             sammanjemkningen, fästande uppmärksamheten vid tryckfelet uti
-            näst sista ordet af; andra klämmen »varallisuuden»&gt; och ej »vaarallisuuden»
+            näst sista ordet af; andra klämmen »varallisuuden»&gt; och ej
+            »vaarallisuuden»
           </seg>
         </u>
         <note xml:id="i-3kpmBEFHw3BrfyC2YaQwXJ" type="speaker">
@@ -28437,15 +28457,15 @@
           niin vakanssimakso on lakkautettava samassa kuin asevelvollisuus
           pannaan toimeen. Se on aivan selvä siitä, että hallitus on käsittänyt
           asian siten, että samassa kuin asevelvollisuus pannaan toimeen,
-          niin on vakanssi lakkautettu. Kosk'ei se tule samaan &amp;, on nähty
-          tarpeelliseksi määräys siitä, että vakanssimaksu on kumminkin
+          niin on vakanssi lakkautettu. Kosk'ei se tule samaan &amp;, on
+          nähty tarpeelliseksi määräys siitä, että vakanssimaksu on kumminkin
           suoritettava. Samoin on valiokunta ensimmäisessä mietinnössään
           nähnyt tarpeelliseksi määrätä, että vakanssimakso on suoritettava.
           Ellei näillä olisi ollut sama katsantotapa, niin ei 2 S:ään olisi
           tarvittu mitään semmoista määräystä. Mutta nyt on selvä itsestään,
           ellei mitään määräyksiä tule, kuinka kauan vakanssimakso on suoritettava,
-          että se on samassa lakkautettu kuin 2 &amp; astuu voimaan. Minä siis
-          puolustan sitä mielipidettä kuin edusmies Eklund on esiintuonut.
+          että se on samassa lakkautettu kuin 2 &amp; astuu voimaan. Minä
+          siis puolustan sitä mielipidettä kuin edusmies Eklund on esiintuonut.
         </note>
         <note xml:id="i-2kCAK3bUcPyjgFJnvUEecW" type="speaker">
           Landtdagsmannen Keto
@@ -28699,9 +28719,9 @@
         </note>
         <u who="unknown">
           <seg>
-            49, joka on tehty siitä, että 55 &amp; 9 päivänä kesäkuuta 1873 annetussa
-            armollisessa asetuksessa paloviinan valmistuksesta y. m. muutettaisiin
-            toisin kuuluvaksi, nyt on olemassa.
+            49, joka on tehty siitä, että 55 &amp; 9 päivänä kesäkuuta 1873
+            annetussa armollisessa asetuksessa paloviinan valmistuksesta y.
+            m. muutettaisiin toisin kuuluvaksi, nyt on olemassa.
           </seg>
         </u>
         <note xml:id="i-C4brdmhwMs7HK9exRTgCHz">
@@ -28734,9 +28754,9 @@
           Torstaina 17 p. Tammikuuta klo 12 päivällä.
         </note>
         <note xml:id="i-6tfJdeaz3zJVzhiPSFynRv">
-          Landtgagsmannen S vedberg anmälde &amp; Justeringsutskottets vägnar,
-          att landtdagsbeslutet vore färdigt till 8 38 och bordiagdt till
-          justering.
+          Landtgagsmannen S vedberg anmälde &amp; Justeringsutskottets
+          vägnar, att landtdagsbeslutet vore färdigt till 8 38 och bordiagdt
+          till justering.
         </note>
         <note xml:id="i-PvQ79KGKDDCWJ3YGqstrDy">
           Säädylle ilmoitettiin eräitä muista säädyistä tulleita pöytäkirjanotteita,
@@ -29507,11 +29527,11 @@
             Edusmies Avellan on lausunut, että valiokunta on menetellyt ristiriitaisesti
             19 8:n suhteen. Sen johdosta pyydän huomauttaa, että ristiriitaisuus
             ei ole muussa kuin Säätyjen päätöksissä. 3 Säätyä ovat hyväksyneet
-            johdannon, mutta jättäneet 19 &amp; pois. Jos 19 &amp; jätettäisiin asetuksesta,
-            (ulisi asetus koskemaan myös kreikkalais-venäläisiä. Mikä syy
-            silloin olisi tehdä sellaista anomusta, joka johdannossa on tehty?
-            Se on juuri semmoisen ristiriitaisuuden välttämiseksi, kuin valiokunta
-            on ottanut 19 &amp;:n myöskin äänestykseen.
+            johdannon, mutta jättäneet 19 &amp; pois. Jos 19 &amp; jätettäisiin
+            asetuksesta, (ulisi asetus koskemaan myös kreikkalais-venäläisiä.
+            Mikä syy silloin olisi tehdä sellaista anomusta, joka johdannossa
+            on tehty? Se on juuri semmoisen ristiriitaisuuden välttämiseksi,
+            kuin valiokunta on ottanut 19 &amp;:n myöskin äänestykseen.
           </seg>
         </u>
         <note xml:id="i-7JyVHP4sXD1SETEoMPrPk5">
@@ -30061,12 +30081,12 @@
             se iän määräys, johon äänestyksen kautta 7 &amp; suhteen yhdytään,
             jonka johdosta kolmas ja yhdeksäs äänestysesitys tulisivat lankeamaan,
             tämän johdosta ja kun kaksi säätyä on hyljännyt Valiokunnan ehdoituksen
-            19 &amp;:n suhteen ja tämä $ siitä syystä ei voi tulla enennetyn valiokunnan
-            ratkaistavaksi, on pitänyt velvollisuutensa olevan Ritaristolle
-            ja Aatelille sekä Porvarissäädylle esitellä, josko eivät mainitut
-            säädyt tahtoisi ryhtyä sellaiseen muutokseen edellisen päätöksensä
-            suhteen, että 19 $ tulisi asetuksesta poissuljetuksi ja kahdeksas
-            äänestysesitys siis lankeamaan, jota vastoin Talonpoikaissäädyn
+            19 &amp;:n suhteen ja tämä $ siitä syystä ei voi tulla enennetyn
+            valiokunnan ratkaistavaksi, on pitänyt velvollisuutensa olevan
+            Ritaristolle ja Aatelille sekä Porvarissäädylle esitellä, josko
+            eivät mainitut säädyt tahtoisi ryhtyä sellaiseen muutokseen edellisen
+            päätöksensä suhteen, että 19 $ tulisi asetuksesta poissuljetuksi
+            ja kahdeksas äänestysesitys siis lankeamaan, jota vastoin Talonpoikaissäädyn
             muutamissa osissa päättämä takaisinlähettäminen, koska kolme säätyä
             jo ovat hyväksyneet kaikki muut äänestysesitykset, on katsottu
             ei antavan aihetta mihinkään toimeen.
@@ -33236,8 +33256,8 @@
           Lakivkn miet. n:o 22.
         </note>
         <note xml:id="i-Avvj4XNHh8vb5abidcb8Gb">
-          Olofssonin, majakkalaivan asettamisesta » Märket-&gt;nimiselle karille
-          Ahvenanmeressä: 132. h. 133.
+          Olofssonin, majakkalaivan asettamisesta » Märket-&gt;nimiselle
+          karille Ahvenanmeressä: 132. h. 133.
         </note>
         <note xml:id="i-LYvUAFJpL2L2Dr9JkFMoEm">
           Mäkelän, piirilääkäri-kuntain pienentämis litusvkn miet. n:o
@@ -33600,8 +33620,8 @@
           e. 29— 30. 1. 49—51. Kts. lakivakn miet. n:o 16.
         </note>
         <note xml:id="i-SkP6MpLK6GsbzXaBzxPjgk">
-          N:o 10. Oikeudenkäymiskaaren 17 luvun 7 &amp;n muuttamisesta, joka
-          $ koskee yksityisten palkollisten jäävinalaisuutta todistamisen
+          N:o 10. Oikeudenkäymiskaaren 17 luvun 7 &amp;n muuttamisesta,
+          joka $ koskee yksityisten palkollisten jäävinalaisuutta todistamisen
           suhteen. 13. e. ja 1. 30. kts. lakivkn miet. n:o 3.
         </note>
         <note xml:id="i-QWEuvpwbqniKdCKa5ydPvp">
@@ -33787,10 +33807,10 @@
           miet. n:o 15.
         </note>
         <note xml:id="i-T6ySUY4UsMQfwCu2xwuWX">
-          — N:o 49 siitä, että &amp; 9 p:nä kesäkuuta 1873 annetussa arm. asetuksessä
-          paloviinan valmistuksesta, myymisestä, varastossa pidosta ja kuljetuksesta
-          muutettaisiin toisin kuuluvaksi. 1533. 1. 1549. 1558 —1559. kts.
-          talousvkn miet. n:o 16.
+          — N:o 49 siitä, että &amp; 9 p:nä kesäkuuta 1873 annetussa arm.
+          asetuksessä paloviinan valmistuksesta, myymisestä, varastossa
+          pidosta ja kuljetuksesta muutettaisiin toisin kuuluvaksi. 1533.
+          1. 1549. 1558 —1559. kts. talousvkn miet. n:o 16.
         </note>
         <note xml:id="i-V7voUBkReg9Maq56XM7Myf">
           Juhlamenojen johtaja, todellinen valtioneuvos kreivi Mauritz
@@ -33851,9 +33871,9 @@
           — sen mietinnöt:
         </note>
         <note xml:id="i-HXJm5AYJwdtKdnnpHYYR4u">
-          — nio 1 armoll. esit. n:o 2 että naimiskaaren 7 luvun 3 &amp;, koskeva
-          avioliiton estämisestä, muutettaisiin toisin kuuluvaksi. e. ja
-          pp. 262. k. 273 —274. p. 277—285.
+          — nio 1 armoll. esit. n:o 2 että naimiskaaren 7 luvun 3 &amp;,
+          koskeva avioliiton estämisestä, muutettaisiin toisin kuuluvaksi.
+          e. ja pp. 262. k. 273 —274. p. 277—285.
         </note>
         <note xml:id="i-5i25JgErjSNyBhxJr6xSKv">
           — mo 2 arm. esit. n:o 7 kiinnityksestä yksityisiin rautateihin.

@@ -1,5 +1,5 @@
-<?xml version='1.0' encoding='utf-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="ptk_1872_talonpojat_I">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -25,8 +25,12 @@
   <text>
     <front>
       <div type="preface">
-        <head>ptk_1872_talonpojat_I</head>
-        <docDate when="1872-01-01">1872-01-01</docDate>
+        <head>
+          ptk_1872_talonpojat_I
+        </head>
+        <docDate when="1872-01-01">
+          1872-01-01
+        </docDate>
       </div>
     </front>
     <body>
@@ -1988,10 +1992,10 @@
         </note>
         <u who="unknown">
           <seg>
-            4 16 &amp;:n 10 luk. O. K. muutoksesta, merilakivaliokuntaan Armollisen
-            ehdoituksen N:o 3 uudesta merilaista Suuriruhtinaskunnalle Suomelle
-            ja yhdistettyyn valtio- ja talousvaliokuntaan Armollisen ehdoituksen
-            N:o 1 Saimaan ja Mikkelin välisen kulkuväylän parantamisesta.
+            4 16 &amp;:n 10 luk. O. K. muutoksesta, merilakivaliokuntaan
+            Armollisen ehdoituksen N:o 3 uudesta merilaista Suuriruhtinaskunnalle
+            Suomelle ja yhdistettyyn valtio- ja talousvaliokuntaan Armollisen
+            ehdoituksen N:o 1 Saimaan ja Mikkelin välisen kulkuväylän parantamisesta.
           </seg>
         </u>
         <note xml:id="i-MqSKHTEdNwqGBf6cvM84Nd" type="speaker">
@@ -4114,9 +4118,9 @@
         </note>
         <note xml:id="i-Gnc7dbhdbCwPiJXR4QQaUH">
           että Hänen Keisarillinen Majesteettinsa Armossa käyttäin hänelle
-          voimassa olevan Valtiopäiväjärjestyksen 71 &amp;:ssä pidätettyä valtaa
-          ottaisi ratkaistaaksensa edellämainittua painavaa kysymystä ja
-          sitä varten, maamme ensiksi kokoontuville Säädyille tutkittavaksi
+          voimassa olevan Valtiopäiväjärjestyksen 71 &amp;:ssä pidätettyä
+          valtaa ottaisi ratkaistaaksensa edellämainittua painavaa kysymystä
+          ja sitä varten, maamme ensiksi kokoontuville Säädyille tutkittavaksi
           valmistuttaisi Armollisen esityksen, koskeva maamme Hallituksessa
           tykkönään eroitetun, virastansa eroittamattomilla, iainoppineilla
           jäsenillä varustetun korkeimman oikeuston asettamista, joka oikeus
@@ -5566,8 +5570,8 @@
         <note xml:id="i-BRuth2wiFF3GewDhZnZUSj">
           Kun 6:ssa $:ssä armollista asetusta Kunnallishallituksesta maalla
           6 p:ltä Helmik. 1865 säädään, että kuntakokous tutkikoon ja päättäköön
-          sanotussa &amp;:ssä nimitetyt asiat, mutta saman asetuksen 7:s 8 määrää,
-          että kunta antakoon ainoastaan lauseensa esim. lumireinvedosta,
+          sanotussa &amp;:ssä nimitetyt asiat, mutta saman asetuksen 7:s
+          8 määrää, että kunta antakoon ainoastaan lauseensa esim. lumireinvedosta,
           hollikyydin teosta y. m., saan minä nöyrimmästi kehoittaa arvoisaa
           Säätyä sopimaan alamaisesta pyyntö-esityksestä Shen Mitata: että
           määräykset viimemainitussa $:ssä ulotettaisiin siksi
@@ -5863,9 +5867,9 @@
           n Vördsamt memorial till hedervärda bondeståndet.
         </note>
         <note xml:id="i-Q9TPPQYT5MeiSijxxp51sg">
-          Pä de fiesta orter i värt land torde säväl presterskapet &amp; ena
-          sidan som ock folket ä den andra vara missbelätna med både grunderna
-          för erläggandet och sättet för uppbärandet af prestaf-
+          Pä de fiesta orter i värt land torde säväl presterskapet &amp;
+          ena sidan som ock folket ä den andra vara missbelätna med både
+          grunderna för erläggandet och sättet för uppbärandet af prestaf-
         </note>
         <pb facs="https://swerik-project.github.io/valtiopaivat-records-pdf/1872/ptk_1872_talonpojat_I/ptk_1872_talonpojat_I-0094"/>
         <note xml:id="i-MG5B12BzM4qaA27JCq36n1">
@@ -9470,13 +9474,13 @@
           ruotsiksi.
         </note>
         <note xml:id="i-DUEVem1nFyEfGTPcrquiiD">
-          3:ksi) 1865 vuoden Asetuksen 3 &amp; sääti: että ennen tuomari ja
-          kameraali tutkinnon suorittamista Suomenkielen puhumisen ja kirjoittamisen
-          taito oli näytettävä. Tämä määräys on sittemmin muutettu niin,
-          että myös yliopistosta erottua saapi suorittaa Suomenkielen tutkinnon,
-          joka kumminkaan ei ole välttämätön pääsemisen ehto muutamiin virkoihin
-          kaikkein korkeimmissa virkapaikoissa, semmoisiin muka, joissa
-          suomea ei tarvita.
+          3:ksi) 1865 vuoden Asetuksen 3 &amp; sääti: että ennen tuomari
+          ja kameraali tutkinnon suorittamista Suomenkielen puhumisen ja
+          kirjoittamisen taito oli näytettävä. Tämä määräys on sittemmin
+          muutettu niin, että myös yliopistosta erottua saapi suorittaa
+          Suomenkielen tutkinnon, joka kumminkaan ei ole välttämätön pääsemisen
+          ehto muutamiin virkoihin kaikkein korkeimmissa virkapaikoissa,
+          semmoisiin muka, joissa suomea ei tarvita.
         </note>
         <note xml:id="i-8v2ETaFJciPAddTCGHJJu3">
           Sanotun muutoksen peruuttaminen olisi suuresti toivottava. Yhdellä
@@ -11328,10 +11332,10 @@
           vakauttamiseksi pankissa löytyvän metallivaraston puolesta, hyvin
           suuresta arvosta; niin ei olisi se ylimääräisten sääntöjen kautta
           jo ensi alussaan kokonaan tukahdutettava, jonka tähden olisi tarpeellinen
-          että, edellä nimitetyn kultahuuhtamo asetuksen 36 &amp; määrätty vuosivero
-          kokonaan poistettaisiin sekä huuhdotun kullan kuletus makso kullan
-          huuhtajoilta lakkautettasiin; kuin myös heille annettaisiin lupa
-          sitä etempääkin:
+          että, edellä nimitetyn kultahuuhtamo asetuksen 36 &amp; määrätty
+          vuosivero kokonaan poistettaisiin sekä huuhdotun kullan kuletus
+          makso kullan huuhtajoilta lakkautettasiin; kuin myös heille annettaisiin
+          lupa sitä etempääkin:
         </note>
         <u who="unknown">
           <seg>
@@ -13790,11 +13794,11 @@
         <note xml:id="i-GzDTq2rJwpAk2E4NLgQ5ys">
           Yhdessä tämän kanssa mainittakoon, että 1856 vuoden arvaushinta
           luotsivapauksille vaikka se olisi pitänyt Senatin Talousosaston,
-          jo 80 &amp;:n mukaan 1857 vuoden Armollisessa Asetuksessa, joka kymmenes
-          vuosi undelleen määrätä, vielä edelleen on voimassa ja löytyy
-          Luotsihallituksella eräässä Joulukuun 31 p:nä 1862, 1783 ja 1857
-          (ja 1870) vuosien Asetusten sääntöjen mukaan, laaditussa maakirjassa
-          luotsitaloista ja tiluksista.
+          jo 80 &amp;:n mukaan 1857 vuoden Armollisessa Asetuksessa, joka
+          kymmenes vuosi undelleen määrätä, vielä edelleen on voimassa ja
+          löytyy Luotsihallituksella eräässä Joulukuun 31 p:nä 1862, 1783
+          ja 1857 (ja 1870) vuosien Asetusten sääntöjen mukaan, laaditussa
+          maakirjassa luotsitaloista ja tiluksista.
         </note>
         <note xml:id="i-USA7vhJm8ciWqfwVNupaeZ">
           Kaikki nämät säännökset osoittavat: että luotsivapaudet vanhimpina
@@ -13923,8 +13927,8 @@
           mikä korvaus tavallisesti on suoritettu neljälläkymmenellä markalla
           vuoteensa, vastaava sitä määrää, jonka luotsilaitos maksaa tilattomille
           luotseille hyyryrahassa, 80 8:n 3 kohdan mukaan 1857 vuoden Armollisessa
-          Asetuksessa sekä 13 &amp;:n 5 ja 6 kohtain mukaan 1870 vuoden Armollisessa
-          Ohjesäännössä.
+          Asetuksessa sekä 13 &amp;:n 5 ja 6 kohtain mukaan 1870 vuoden
+          Armollisessa Ohjesäännössä.
         </note>
         <note xml:id="i-2bUMXscdoyJR1MorAptK3c">
           Vuoden 1857 jälkeen tulivat niin muodoin ne luotsitalot, joiden
@@ -13967,10 +13971,10 @@
           markkaa. Tämänlaista luotsitaloa veroitetaan siis, paitsi vapauksien
           arvolla, äskenmainituilla hyyryrahoilla, mikä sitä vähemmin on
           voinut olla tarkoituksena mainitulla määräyksellä 1870 vuoden
-          Ohjesäännössä taikka tähän kuuluvalla säännöksellä 80 &amp;:n 3 kohdassa
-          1857 vuoden Asetuksessa, kuin talonomistajat tai haltijat sillä
-          tavoin tulisivat kruunulle maksamaan hyyryä omista, tiloille rakennetuista
-          asuinhuoneistaan! !
+          Ohjesäännössä taikka tähän kuuluvalla säännöksellä 80 &amp;:n
+          3 kohdassa 1857 vuoden Asetuksessa, kuin talonomistajat tai haltijat
+          sillä tavoin tulisivat kruunulle maksamaan hyyryä omista, tiloille
+          rakennetuista asuinhuoneistaan! !
         </note>
         <note xml:id="i-JcfpLu7oFEtyEc964cf7nB">
           1862 vuoden maakirjan mukaan Suomenmaan luotsitaloista, nousee
@@ -13982,8 +13986,9 @@
           Viipurin lääni:
         </note>
         <note xml:id="i-V7UEYSRG8TJBv2dEiLakvN">
-          Pitäjä: Virolahti . &lt; &lt; &lt; &lt; 0.0. L »” Vehkalahti . so soc cc
-          vv 1 ä Kymi = &lt; so e a + a a » 17 n Pyhtää. . &lt; L 7
+          Pitäjä: Virolahti . &lt; &lt; &lt; &lt; 0.0. L »” Vehkalahti
+          . so soc cc vv 1 ä Kymi = &lt; so e a + a a » 17 n Pyhtää. . &lt;
+          L 7
         </note>
         <note xml:id="i-XX3LxVzYZtAFKcJR7Wd4Q8">
           26.
@@ -14018,7 +14023,8 @@
           Turun ja Porin lääni:
         </note>
         <note xml:id="i-RWsBHU9bBhEy1ht2c36tkK">
-          Pitäjä: Kemiö . . so so &lt; 0. 11. s ;NäVöo &lt; wmoa moa wo HH: D
+          Pitäjä: Kemiö . . so so &lt; 0. 11. s ;NäVöo &lt; wmoa moa wo
+          HH: D
         </note>
         <note xml:id="i-VP5Gb5GkDDUHy11oMRB6C2">
           n» Rymättylä. . . . . . . . 2
@@ -15213,8 +15219,8 @@
         <note xml:id="i-4Pk27QVyVY4RcSU5PyJQNA">
           En och hvar af landskommunernes medlemmar och isynnerhet den
           som i likhet med undertecknad haft befattning med kommunalförvaltningen
-          &amp; landet, har utan tvifvel mer än engäng blifvit pämint om de
-          mänga och stora olägenheter nuvarande ordning för fattigvården
+          &amp; landet, har utan tvifvel mer än engäng blifvit pämint om
+          de mänga och stora olägenheter nuvarande ordning för fattigvården
           i kommunerne medför. Den princip hvarä denna legala fattigförsörjning
           hvilar, den nemligen som berättigar en och hvar som icke kan eller
           icke vill försörja sig och de sina att lefva pä kommunernas bekostnad,
@@ -15282,10 +15288,10 @@
         <u who="unknown">
           <seg>
             förmälte sig hafva efter petitionens inlemnande, förnummit, att
-            en komit&amp; utarbetat förslag till författning i ämnet, men som
-            talaren förmodade att man icke ernade framlägga detta till ständernes
-            granskning, sä vore skäl att ständerne just nu uttalade sin äsigt
-            i saken.
+            en komit&amp; utarbetat förslag till författning i ämnet, men
+            som talaren förmodade att man icke ernade framlägga detta till
+            ständernes granskning, sä vore skäl att ständerne just nu uttalade
+            sin äsigt i saken.
           </seg>
         </u>
         <note xml:id="i-WsGkw2L4ZDeGA36zhV3jB2" type="speaker">
@@ -18566,8 +18572,8 @@
         <note xml:id="i-PRyW2esYEucCU9bztG6NHo">
           Esiin otettiin viime istunnossa pöydälle pantu talousvaliokunnan
           mietintö Keisarillisen Majesteetin armollisen esityksen johdosta,
-          20 &amp;:n muuttamisesta armollisessa asetuksessa kaupasta ja elinkeinoista
-          Suomessa, annettu 24 päivänä Helmikuuta 1868.
+          20 &amp;:n muuttamisesta armollisessa asetuksessa kaupasta ja
+          elinkeinoista Suomessa, annettu 24 päivänä Helmikuuta 1868.
         </note>
         <pb facs="https://swerik-project.github.io/valtiopaivat-records-pdf/1872/ptk_1872_talonpojat_I/ptk_1872_talonpojat_I-0290"/>
         <note xml:id="i-AQoi5RysZnPcJe2GwEhUFF">
@@ -19283,10 +19289,10 @@
         </note>
         <note xml:id="i-BXfgB1fb5xn1A4C7XFhd1S">
           Lakivaliokunnan mietintö N:o 4 Keisarillisen Majesteetin armollisesta
-          esityksestä N:o 6 Oikeudenkäymiskaaren 15 luvun 2 ja 3 S&amp;:n muuttamisesta
-          siltä osalta kuin niissä on eräitä rajoituksia kruunun palveliain
-          sekä ylioikeutten käskyläisten vapautta valtamiehenä olla oikeutta
-          hakeville apuna.
+          esityksestä N:o 6 Oikeudenkäymiskaaren 15 luvun 2 ja 3 S&amp;:n
+          muuttamisesta siltä osalta kuin niissä on eräitä rajoituksia kruunun
+          palveliain sekä ylioikeutten käskyläisten vapautta valtamiehenä
+          olla oikeutta hakeville apuna.
         </note>
         <pb facs="https://swerik-project.github.io/valtiopaivat-records-pdf/1872/ptk_1872_talonpojat_I/ptk_1872_talonpojat_I-0299"/>
         <note xml:id="i-JEBy6JZBn8BrF4ENGEJ8kQ">
@@ -20163,9 +20169,9 @@
         </note>
         <note xml:id="i-WsWsH8V3DG4zvD7i1rZPhW">
           Esiin otettiin yleisen valitusvaliokunnan mietintö N:o 4 tehdyistä
-          anomuksista (N:rot 46 &amp; 74) että sanomalehtien jakamisesta postinhoitajille
-          tuleva palkkio lakkautettaisiin, tahi alennettaisiin ja tasaisemmin
-          jaettaisiin.
+          anomuksista (N:rot 46 &amp; 74) että sanomalehtien jakamisesta
+          postinhoitajille tuleva palkkio lakkautettaisiin, tahi alennettaisiin
+          ja tasaisemmin jaettaisiin.
         </note>
         <note xml:id="i-wcwivTdx5wFDokMjhNs4b" type="speaker">
           Edusmies Meurman
@@ -22169,10 +22175,10 @@
             yksityisten vesijohdotkin yhtä mukaisesti tulisi lakisäännöllä
             rauhoitetuiksi, koska, puhujan mielestä, se joka tahallansa vahingoittaa
             yksityistä tarvetta varten tehtyä vesijohtoa, ansaitsisi ainakin
-            vähimmän siitä rangaistus-määrästä, jonka puheena oleva &amp; sisältää.
-            Puhuja siis hyväksyi $:n sellaisena kuin se on luettavana armollisessa
-            esityksessä, kuitenkin pois sulkemalla sanat: nyleistä tarvetta
-            varten tehtyä*.
+            vähimmän siitä rangaistus-määrästä, jonka puheena oleva &amp;
+            sisältää. Puhuja siis hyväksyi $:n sellaisena kuin se on luettavana
+            armollisessa esityksessä, kuitenkin pois sulkemalla sanat: nyleistä
+            tarvetta varten tehtyä*.
           </seg>
         </u>
         <note xml:id="i-LxTi5nDhMy8tEG26hw8Zu9" type="speaker">
@@ -22318,8 +22324,8 @@
             herr Ehrströms reservation böra läggas till grund för en nytt
             betänkande i ämnet. Hade landtdagsmannen Andersin pästätt att
             samma grunder mäste följas vid bedömande af skadegörelse likaväl
-            &amp; en enskild som ä allmän vattenledning, sä tillhörde dock utskottet
-            att gifva principen en närmare tillämpning
+            &amp; en enskild som ä allmän vattenledning, sä tillhörde dock
+            utskottet att gifva principen en närmare tillämpning
           </seg>
         </u>
         <note xml:id="i-2ghacyM3q68cDCy5zAM5fb" type="speaker">
@@ -22705,18 +22711,18 @@
           dä densamma allaredan blifvit af 1863 ärs Ständer besluten och
           i hvarje händelse, säsom fortsättning af stambanan, främst mäste
           komma i fräga. — Hvad Heikura anfört om kanalernes företräde framför
-          jernvägar, vederlades äfven deraf att de förra under 7 &amp; 8 mänader
-          af äret vore oanvändbara. — Rothberg äter förrädde en stor obekantskap
-          med landets geografi, dä han förlagt Kivijärvi socken till Uleäborgs
-          län och ordat om kanaler i Keitele vattensystem, hvilket dock
-          ganska länge enligt talarens förmodan torde komma att vara i saknad
-          af dylika. — Hahl hade väl framdragit Sveriges och Amerikas exempel,
-          men dessa egde dock ej nägon tillämpning &amp; vära förhällanden,
-          dä hvardera af dessa länder äro mycket tätare befolkade än Finland.
-          — Talaren tillade slutligen, att Äbo banans byggnad borde lemnas
-          att af koncessionshafvaren fullbordas, emedan antagligt vore att
-          man lättare mäktade med denna del af Tavastehus-Tammerfors—Äbo
-          bana, än med hela sträckningen deraf.
+          jernvägar, vederlades äfven deraf att de förra under 7 &amp; 8
+          mänader af äret vore oanvändbara. — Rothberg äter förrädde en
+          stor obekantskap med landets geografi, dä han förlagt Kivijärvi
+          socken till Uleäborgs län och ordat om kanaler i Keitele vattensystem,
+          hvilket dock ganska länge enligt talarens förmodan torde komma
+          att vara i saknad af dylika. — Hahl hade väl framdragit Sveriges
+          och Amerikas exempel, men dessa egde dock ej nägon tillämpning
+          &amp; vära förhällanden, dä hvardera af dessa länder äro mycket
+          tätare befolkade än Finland. — Talaren tillade slutligen, att
+          Äbo banans byggnad borde lemnas att af koncessionshafvaren fullbordas,
+          emedan antagligt vore att man lättare mäktade med denna del af
+          Tavastehus-Tammerfors—Äbo bana, än med hela sträckningen deraf.
         </note>
         <note xml:id="i-VaMTDJuYRFKpsdEYxe9jib">
           Sääty erosi kello 2 j. p. p.
@@ -24351,8 +24357,8 @@
           </seg>
         </u>
         <note xml:id="i-BGAPkN7drs1Xj5AVa8WbSC">
-          &gt; Edusmies Mikkola sanoi olevansa samasta ajatuksesta kuin Duncker,
-          ja hyväksyi valiokunnan mietinnön.
+          &gt; Edusmies Mikkola sanoi olevansa samasta ajatuksesta kuin
+          Duncker, ja hyväksyi valiokunnan mietinnön.
         </note>
         <pb facs="https://swerik-project.github.io/valtiopaivat-records-pdf/1872/ptk_1872_talonpojat_I/ptk_1872_talonpojat_I-0371"/>
         <note xml:id="i-JgjC2ZfyQRtYSyp9hSYG5B">
@@ -24631,9 +24637,9 @@
             auttaa; vaikka kukkaro oli tyhjä tahtoi puhuja hyväksyä hankkeen
             ja esitteli valiokunnan mietinnön perusteeksi; kuitenki muistutti
             puhuja että mietinnössä ei puhuta mitään niistä varoista joita
-            mainitaan 54 &amp; 55 $$ armollisessa julist. 17 p. Marraskuuta 1870.
-            Näillä rahoilla olisivat asetettavat eri kassat, jotka ajan mukaan
-            olisivat suureksi avuksi; muutoin puolusti puhuja valiokunnan
+            mainitaan 54 &amp; 55 $$ armollisessa julist. 17 p. Marraskuuta
+            1870. Näillä rahoilla olisivat asetettavat eri kassat, jotka ajan
+            mukaan olisivat suureksi avuksi; muutoin puolusti puhuja valiokunnan
             mietinnön.
           </seg>
         </u>
@@ -25962,8 +25968,8 @@
           pikakirjoitustaito ensituleviksi valtiopäiviksi voisi olla valmiina.
         </note>
         <note xml:id="i-CWeo6rc6R1wMUgGQyTBFwb">
-          Esiteltiin Valtiopäiväjärjestyksen 51 &amp;:n nojassa seuraava edusmies
-          Meurmanin nyt sisään antama pyyntö-esitys N:o 101:
+          Esiteltiin Valtiopäiväjärjestyksen 51 &amp;:n nojassa seuraava
+          edusmies Meurmanin nyt sisään antama pyyntö-esitys N:o 101:
         </note>
         <note xml:id="i-WvfMPHiYVio2EWgwP71ssE">
           »Kunnianarvoisalle Talollissäädylle!
@@ -28737,9 +28743,9 @@
           <seg>
             godkände 8 i öfrigt, utom att han ville istället för orden ,i
             det mynt, som i köpebrefvet står”, insätta uttrycket ,i det mynt
-            som i landet gäller”. Ifall 8&amp;s ordalydelse icke ändrades, kunde
-            inträffa, att domstol vägrade att emottaga finska mark och penni
-            då köpeskillingen fanns upptagen t. ex. i rubel och kopek.
+            som i landet gäller”. Ifall 8&amp;s ordalydelse icke ändrades,
+            kunde inträffa, att domstol vägrade att emottaga finska mark och
+            penni då köpeskillingen fanns upptagen t. ex. i rubel och kopek.
           </seg>
         </u>
         <note xml:id="i-ELHxaD5c8o65VsvA21agL7">
@@ -28789,9 +28795,10 @@
         <u who="unknown">
           <seg>
             ansäg den af Rosenberg föreslagna lagförändring af behofvet päkallad,
-            emedan flere hundradetal köpeafhandlingar ännu lyda &amp; rubel silfver
-            och sådant gifvit anledning till förvecklingar och olika lagtolkning.
-            Dessutom vore en möjlighet att landets mynt ännu underginge förändring.
+            emedan flere hundradetal köpeafhandlingar ännu lyda &amp; rubel
+            silfver och sådant gifvit anledning till förvecklingar och olika
+            lagtolkning. Dessutom vore en möjlighet att landets mynt ännu
+            underginge förändring.
           </seg>
         </u>
         <note xml:id="i-NYyLZiuEEKqyRAJjEuzJVM" type="speaker">
@@ -28868,8 +28875,8 @@
         <note xml:id="i-5St1eLNNaEsrYbXvtbt8nN">
           Säädyn päätöksen mukaan 1:sen kohdan suhteen, hyväksyttiin $
           niinkuuluvana kuin herra Rosengren'in vastalauseessa ehdotellaan.
-          &amp; tulisi siis kuulumaan: ,Sukulunastajia ovat myyjän lapset, sitten
-          vanhemmat sekä veljet ja sisaret" j. n. e.
+          &amp; tulisi siis kuulumaan: ,Sukulunastajia ovat myyjän lapset,
+          sitten vanhemmat sekä veljet ja sisaret" j. n. e.
         </note>
         <note xml:id="i-UHYAXdkB9JRfSYc3FUrQr7">
           3 $.
@@ -29205,13 +29212,14 @@
         <u who="unknown">
           <seg>
             förmälte att han under en mängärig seglation ä Ostersjön kommit
-            till insigt icke allenast deraf, att en bäk &amp; Bogskär vore högeligen
-            af nöden, utan ock att densamma, plaserad å en mindre undervattens
-            klippa uti öppna hafvet borde med synnerlig omsorg uppföras, för
-            att ega beständ emot vågor och drifis. Och dä kändt vore, att
-            den finska befolkningen omkring Ladoga lefde i mörker, ansäg talaren
-            att upplysning ätminstone till sjöss icke borde densamma förmenas.
-            Fyrarne &amp; denna sjö borde innehafva en höjd af minst 100 fot.
+            till insigt icke allenast deraf, att en bäk &amp; Bogskär vore
+            högeligen af nöden, utan ock att densamma, plaserad å en mindre
+            undervattens klippa uti öppna hafvet borde med synnerlig omsorg
+            uppföras, för att ega beständ emot vågor och drifis. Och dä kändt
+            vore, att den finska befolkningen omkring Ladoga lefde i mörker,
+            ansäg talaren att upplysning ätminstone till sjöss icke borde
+            densamma förmenas. Fyrarne &amp; denna sjö borde innehafva en
+            höjd af minst 100 fot.
           </seg>
         </u>
         <note xml:id="i-C27iQe8ht95i67meyjKjn9">
@@ -29381,11 +29389,11 @@
             Ständerne vore hugade att ätaga sig nya bevillningar, tiilfälle
             till dessas användande funnes bland annat äfven för sistberörda
             ändamäl. — Ehuru talaren, med erkännande af sin bristande sakkännedom,
-            uttalat den förmodan att &amp; den finska kusten funnes ungefär lika
-            många bäkar som &amp; motsvarande svenska, hvilken uppgift grundade
-            sig pä iakttagelser under en för femton är sedan företagen sjöresa
-            till Stockholm, sä ville han icke numera bestämdt vidhålla sitt
-            påstående, sedan landtdagsmannen Klami upplyst honom om ohällbarheten
+            uttalat den förmodan att &amp; den finska kusten funnes ungefär
+            lika många bäkar som &amp; motsvarande svenska, hvilken uppgift
+            grundade sig pä iakttagelser under en för femton är sedan företagen
+            sjöresa till Stockholm, sä ville han icke numera bestämdt vidhålla
+            sitt påstående, sedan landtdagsmannen Klami upplyst honom om ohällbarheten
             deraf. Talaren hade dock önskat att Klami styrkt sin uppgift med
             statistiska siffror. — Med anledning af landtdagsmannen Lindbergs
             senaste yttrande anmärkte talaren att, dä enhvar vore i behof

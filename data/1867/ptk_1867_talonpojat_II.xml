@@ -1,5 +1,5 @@
-<?xml version='1.0' encoding='utf-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="ptk_1867_talonpojat_II">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -25,8 +25,12 @@
   <text>
     <front>
       <div type="preface">
-        <head>ptk_1867_talonpojat_II</head>
-        <docDate when="1867-01-01">1867-01-01</docDate>
+        <head>
+          ptk_1867_talonpojat_II
+        </head>
+        <docDate when="1867-01-01">
+          1867-01-01
+        </docDate>
       </div>
     </front>
     <body>
@@ -152,11 +156,11 @@
           Yhtä painavista syistä, jotka tarkemmin ovat selitetyt tohtori
           BergWin erityisessä vastalauseessa (siv. 66—68) valiokunnan mietintöä
           vastaan 65 S:n kohdalla, ilmoitamme vastalauseemme säädyn päätöstä
-          vastaan tässä &amp;:ssä, katsoen aivan välttämättömäksi, että aikaisia,
-          niin hyvin kuin lapsiakin tarvitsee ensin neuvoa ja opettaa, ennenkuin
-          heitä Herran ehtoolliselle lasketaan, ja että siis ehtoolliselle
-          laskettuinkin ehtoollisella käynti on myöhistettävä siksi kuin
-          he neuvotuiksi tulevat, jos he havaitaan varsin taitamattomiksi
+          vastaan tässä &amp;:ssä, katsoen aivan välttämättömäksi, että
+          aikaisia, niin hyvin kuin lapsiakin tarvitsee ensin neuvoa ja
+          opettaa, ennenkuin heitä Herran ehtoolliselle lasketaan, ja että
+          siis ehtoolliselle laskettuinkin ehtoollisella käynti on myöhistettävä
+          siksi kuin he neuvotuiksi tulevat, jos he havaitaan varsin taitamattomiksi
           uskon perustustotuuksissa ja Herran ehtoollisen merkinnössä; joka
           myöhistys ei ollenkaan ole luettava miksikään ulos sulkemiseksi
           eikä pannaan panoksi.
@@ -206,9 +210,9 @@
           vakaisista omantunnon syistä ilmoitettua tahtoa saatettako kasteesen.
         </note>
         <note xml:id="i-DiQT6Z32KmYSKDNBa12FPA">
-          2:ksi että 102 &amp; kirkkokurista olisi kuuluva, niin kuin se tuomioprovasti
-          Borgin ja tohtori Berghin yhteisessä vastalauseessa (valiok. miet.
-          siv. 65) on esitelty:
+          2:ksi että 102 &amp; kirkkokurista olisi kuuluva, niin kuin se
+          tuomioprovasti Borgin ja tohtori Berghin yhteisessä vastalauseessa
+          (valiok. miet. siv. 65) on esitelty:
         </note>
         <note xml:id="i-WgqzLfAdqBGNoErChoQSz1">
           3:ksi että Herran ehtoollisen kiellosta 65 S:ään lisäyskohdiksi
@@ -1342,14 +1346,14 @@
         </note>
         <u who="i-EeTFbyDUFF9QtjjBFNtDQF">
           <seg>
-            ville blott hemställa huruvida det i &amp; stadgade ansvaret stode
-            i något förhållande till det brott, hvarföre detsamma vore utsatt,
-            och påpekade talaren i detta afseende $ 36 i den till antagande
-            föreslagna förordningen angående afskaffande af åtskilliga i lag
-            utsatta straffarter m. m., deri samma straff är stadgadt för den,
-            som antänder bland annat hö- eller halmstack, hvilket brott enligt
-            talarens tanke vore ringa, jemfördt med det, hvarom i nu ifrågavarande
-            $ ordades.
+            ville blott hemställa huruvida det i &amp; stadgade ansvaret
+            stode i något förhållande till det brott, hvarföre detsamma vore
+            utsatt, och påpekade talaren i detta afseende $ 36 i den till
+            antagande föreslagna förordningen angående afskaffande af åtskilliga
+            i lag utsatta straffarter m. m., deri samma straff är stadgadt
+            för den, som antänder bland annat hö- eller halmstack, hvilket
+            brott enligt talarens tanke vore ringa, jemfördt med det, hvarom
+            i nu ifrågavarande $ ordades.
           </seg>
         </u>
         <note xml:id="i-QZ9cbrJC6KpdD2rTrrn94s" type="speaker">
@@ -1901,11 +1905,11 @@
         </note>
         <u who="unknown">
           <seg>
-            ja kirkkolainesityksen 6 &amp;:n välillä, koska viimemainittu sisältää
-            sääntöjä, kuinka meneteltävä on sen kanssa, jossa havaitaan erehtyväistä
-            oppia, mitä vastoin puheena oleva $ määrää rangaistusta sille,
-            joka, aikomuksessa toista vietellä, levittää erehtyväisiä uskonoppeja.
-            9 8 voisi sitä vastoin tulla poistetuksi.
+            ja kirkkolainesityksen 6 &amp;:n välillä, koska viimemainittu
+            sisältää sääntöjä, kuinka meneteltävä on sen kanssa, jossa havaitaan
+            erehtyväistä oppia, mitä vastoin puheena oleva $ määrää rangaistusta
+            sille, joka, aikomuksessa toista vietellä, levittää erehtyväisiä
+            uskonoppeja. 9 8 voisi sitä vastoin tulla poistetuksi.
           </seg>
         </u>
         <note xml:id="i-QtDBj5QUhN3qzfFZVesSjG" type="speaker">
@@ -1914,9 +1918,9 @@
         </note>
         <u who="i-3nP1SqRS5aPNvyXZiEeovy">
           <seg>
-            en välillä, sillä 9 &amp; koski asiata, joka ei ketään loukkaa, mitä
-            vastoin 10 $ puhuu rikoksesta, joka loukkaa toisen uskoa ja kirkkoa.
-            Puhuja puolusti siis armollista esitystä.
+            en välillä, sillä 9 &amp; koski asiata, joka ei ketään loukkaa,
+            mitä vastoin 10 $ puhuu rikoksesta, joka loukkaa toisen uskoa
+            ja kirkkoa. Puhuja puolusti siis armollista esitystä.
           </seg>
         </u>
         <note xml:id="i-9dLQ687SD7xU7DUptDAgfF" type="speaker">
@@ -3717,12 +3721,12 @@
             frän tingsstaden, nämndemännen fä i uppdrag att underrätta de
             rättssökande hvilken dag under tinget deras mäl till ätgärd förekomma,
             emedan det blefve för parterne sjelfva alltför kostsamt att tvenne
-            gånger för samma sak sig &amp; tingsstaden inställa. Ofta kan derföre
-            inträffa att den, som af nämndemannen anmodas att underrätta parterne
-            om terminen för behandlingen af deras mäl, misstager sig om rätta
-            dagen och då kan sakegaren utan sitt förvällande dömas till böter
-            för utevaro, hvarföre talaren ansåg det obilligt att dessa böter
-            göras alltför höga. ,
+            gånger för samma sak sig &amp; tingsstaden inställa. Ofta kan
+            derföre inträffa att den, som af nämndemannen anmodas att underrätta
+            parterne om terminen för behandlingen af deras mäl, misstager
+            sig om rätta dagen och då kan sakegaren utan sitt förvällande
+            dömas till böter för utevaro, hvarföre talaren ansåg det obilligt
+            att dessa böter göras alltför höga. ,
           </seg>
         </u>
         <note xml:id="i-B2MnpJsX4sx1te61NZwKiD" type="speaker">
@@ -5194,8 +5198,8 @@
           30 p. Huhtik. 531
         </note>
         <note xml:id="i-JoiLUCB123heB6qhZaFvpa">
-          esityksen 457 &amp;:n muutettavaksi niinkuin se kuuluu v. 1864 painetun
-          kirkkolainehdotuksen 25 luvun 6:nessa &amp;:ssä.
+          esityksen 457 &amp;:n muutettavaksi niinkuin se kuuluu v. 1864
+          painetun kirkkolainehdotuksen 25 luvun 6:nessa &amp;:ssä.
         </note>
         <note xml:id="i-AzDjmV691iod47Yyx1Vcia" type="speaker">
           Edusmies Määttä
@@ -5934,8 +5938,8 @@
         </note>
         <note xml:id="i-AJzJNVd4mo6LQsCV1ZGkbv">
           $ i kyrkolagsförslaget och 50 $ i landtdagsordningen medger,
-          hvilka 88 jemte hela 251 &amp; i kyrkolagsförslaget blifvit af ståndet
-          antagna.
+          hvilka 88 jemte hela 251 &amp; i kyrkolagsförslaget blifvit af
+          ståndet antagna.
         </note>
         <note xml:id="i-G38BiikJam8sEbsL5WN7Uz">
           De af ständets ärade ledamöter, hvilka vilja införa en strängare
@@ -5963,8 +5967,8 @@
           </seg>
         </u>
         <note xml:id="i-KohRSCRyXoiTsk8hq2siJP">
-          Dä 457 &amp; sednast förehades, var det endast tvä ledamöter, hvilka
-          höjde sina röster till förmän för kyrkomötenas lagstiftningsrätt.
+          Dä 457 &amp; sednast förehades, var det endast tvä ledamöter,
+          hvilka höjde sina röster till förmän för kyrkomötenas lagstiftningsrätt.
           Hvarifrän hade denna förändrade anda inblåst i ståndet? Talaren
           trodde att den hade kommit pä orätta vägar och genom främmande
           inflytanden. Hvad sjelfva saken beträffade, sä skulle, om Bondeständet
@@ -6554,9 +6558,9 @@
           Puhuja lisäsi suullisesti maallissäätyjen päätöksen ei sopivan
           yhteen 1 8:n kanssa, joka hyväksyy kirkkomme tunnustuskirjat.
           Tämä $ olisi siis muutettava yhtäpitäväksi keskustelunalaisen
-          &amp;:n kanssa, koska ensimmäinen Schmalkaldin pääkappaleista hyväksyy
-          kirkkokurin. Muutoin olisi lain nimi muutettava seuraavaksi: v
-          Kirkkolaki järkeisopilliselle seurakunnalle Suomessa". Juutaan
+          &amp;:n kanssa, koska ensimmäinen Schmalkaldin pääkappaleista
+          hyväksyy kirkkokurin. Muutoin olisi lain nimi muutettava seuraavaksi:
+          v Kirkkolaki järkeisopilliselle seurakunnalle Suomessa". Juutaan
           ehtoollista nauttiminen oli tässä kohdin aivan sopimaton esimerkiksi,
           koska se ainoastaan oli Vapahtajan armonosoitus. Yhtä sopimaton
           oli puhe rakkaudesta, koska rangaistus ja anteeksiantaminen olivat
@@ -6575,7 +6579,8 @@
           Talonpoikaissääty yhdistyisi Papissäädyn päätökseen, piti puhuja
           peloituksena, jolla ei ollut mitään perää. Fi mikään asia ole
           vielä semmoisesta syystä rauennut. Kyllä kirkkolakiesityskin pääsee
-          laiksi, vaikka keskustelunalainen &amp; suljetaan pois ja jääpi entisellensä.
+          laiksi, vaikka keskustelunalainen &amp; suljetaan pois ja jääpi
+          entisellensä.
         </note>
         <note xml:id="i-HQudp9abVX1rm1H4kQdQJz" type="speaker">
           Landtdagsmannen Slotte
@@ -7349,15 +7354,15 @@
         </note>
         <u who="unknown">
           <seg>
-            a) kohtaan liitettäisiin valiokunnan mietinnön saman &amp;n b) kohta,
-            sekä Vitikkalan ehdottama määräys otettaisiin esityksen 2 S:ään.
-            Sitä vastoin olisi b) kohta esityksen ensinmainittua $:ää puhujan
-            mielestä tykkänänsä suljettava pois, sillä sen verran kuin puhuja
-            tunsi asiaa omalla paikkakunnallaan, niin siinä kohdassa luetellut
-            henki- 1öt eivät jaksaisi maksaa käräjäkappoja, vaan ne olisivat
-            ulosotettavat kruununmiesten kautta, mikä ainoastansa synnyttäisi
-            enemmän köyhyyttä. Slotten kanssa puhuja oli samaa ajatusta, että
-            muut säädyt olisivat pyydettävät yhdistymään Talonpoikaissäädyn
+            a) kohtaan liitettäisiin valiokunnan mietinnön saman &amp;n b)
+            kohta, sekä Vitikkalan ehdottama määräys otettaisiin esityksen
+            2 S:ään. Sitä vastoin olisi b) kohta esityksen ensinmainittua
+            $:ää puhujan mielestä tykkänänsä suljettava pois, sillä sen verran
+            kuin puhuja tunsi asiaa omalla paikkakunnallaan, niin siinä kohdassa
+            luetellut henki- 1öt eivät jaksaisi maksaa käräjäkappoja, vaan
+            ne olisivat ulosotettavat kruununmiesten kautta, mikä ainoastansa
+            synnyttäisi enemmän köyhyyttä. Slotten kanssa puhuja oli samaa
+            ajatusta, että muut säädyt olisivat pyydettävät yhdistymään Talonpoikaissäädyn
             päätökseen.
           </seg>
         </u>
@@ -7410,8 +7415,8 @@
             tästä maksusta. Vaan puhuja tahtoi että jos etuoikeuksellinen
             maa pantaisiin maksamaan, johon puhuja ei kuitenkaan luullut syytä
             olevan, niin pitäisi siitä syntyvä tulo pikemmin annettaman kunnille.
-            Puhuja sentähden pysyi väitöksessään että &amp; hyväksyttäisiin valiokunnan
-            mietinnön mukaan.
+            Puhuja sentähden pysyi väitöksessään että &amp; hyväksyttäisiin
+            valiokunnan mietinnön mukaan.
           </seg>
         </u>
         <note xml:id="i-GQCmjfdETibQgvS9yvMeDm" type="speaker">
@@ -7532,9 +7537,9 @@
         </note>
         <u who="i-rhHTJ52pXmZ9omCrcdBeB">
           <seg>
-            pelkäsi että kun 2 &amp;n a) kohta vapauttaa ne, joilla ei ole omaa
-            kattilakuntaa, käräjäkappain maksusta, tämä määräys tulee vaikuttamaan
-            rettelöitä, minkä vuoksi puhuja tahtoi että se vaihdettaisiin
+            pelkäsi että kun 2 &amp;n a) kohta vapauttaa ne, joilla ei ole
+            omaa kattilakuntaa, käräjäkappain maksusta, tämä määräys tulee
+            vaikuttamaan rettelöitä, minkä vuoksi puhuja tahtoi että se vaihdettaisiin
             sanoiksi ,joilla ei ole vakinaista maanviljelystä vähintäänkin
             kaksi tynnyrinalaa; jota paitsi puhuja tahtoi että köyhemmät yleensä
             pantaisiin maksamaan tuomareille ainoastaan kaksi kappaa.
@@ -7623,14 +7628,14 @@
           sig sina privilegier i afseende &amp; tingsgästningen, om detsamma,
           pä sätt talaren yrkat, dertill inbjödes, ehuru detsamma ej bifallit
           till Bondeständets ofta berörda hemställan, som afsett likställighet
-          i afseende &amp; alla kommunala onera. I motsats emot Riihimäki godkände
-          talaren det af Värri framställda redaktionsförslag, med uteslutande
-          af ordet ,bruk'* ur mom. a). Koponens uppfattning af mom. a) i
-          betänkandet ansäg talaren för ett sä ögonskenligt misstag, att
-          detsamma ej behöfde bemötas. Med frängäende af sin förut i detta
-          afseende uttalade mening förenade sig talaren slutligen med Aschan
-          att ett tunnland borde bestämmas som minsta vidd för ett jordbruk,
-          hvars innehafvare vore skyldig att erlägga tingsgästning.
+          i afseende &amp; alla kommunala onera. I motsats emot Riihimäki
+          godkände talaren det af Värri framställda redaktionsförslag, med
+          uteslutande af ordet ,bruk'* ur mom. a). Koponens uppfattning
+          af mom. a) i betänkandet ansäg talaren för ett sä ögonskenligt
+          misstag, att detsamma ej behöfde bemötas. Med frängäende af sin
+          förut i detta afseende uttalade mening förenade sig talaren slutligen
+          med Aschan att ett tunnland borde bestämmas som minsta vidd för
+          ett jordbruk, hvars innehafvare vore skyldig att erlägga tingsgästning.
         </note>
         <note xml:id="i-DfAknepQN3TF9tc1UAAVvf" type="speaker">
           Edusmies Kumpulainen
@@ -9897,8 +9902,8 @@
         </note>
         <u who="i-Jpuf6uwWSfZ9YPNHDMSrMt">
           <seg>
-            ansåg ifrågavarande &amp; böra bringas i öfverensstämmelse med hvad
-            ståndet förut beslutit i frägan om lagmansrätternes indragning.
+            ansåg ifrågavarande &amp; böra bringas i öfverensstämmelse med
+            hvad ståndet förut beslutit i frägan om lagmansrätternes indragning.
           </seg>
         </u>
         <note xml:id="i-QPdTWMZZFrEnwbjUNAempa">
@@ -12191,8 +12196,8 @@
         <u who="i-Ev9rwChsySU6VMfbevkpjp">
           <seg>
             deremot yrkade att utskottets förslag, hvilket af samtliga utskottets
-            medlemmar godkänts säsom Ofverensstämmande med den antagna &amp; 1
-            af kyrkolagsförslaget, borde äfven af ständet antagas.
+            medlemmar godkänts säsom Ofverensstämmande med den antagna &amp;
+            1 af kyrkolagsförslaget, borde äfven af ständet antagas.
           </seg>
         </u>
         <note xml:id="i-2YbLmNf6Xt2qqDgCBrJ4n4" type="speaker">
@@ -12608,12 +12613,12 @@
         </note>
         <u who="i-Ev9rwChsySU6VMfbevkpjp">
           <seg>
-            var i afseende &amp; bankfullmäktigs och dennes suppleanters val
-            ense med Vitikkala, emedan talaren icke trodde enhvar känna, huruvida
-            den, som han ernade utse till nägon af dessa befattningar, ville
-            ätaga sig densamma, vore valbar o. s. v., om hvilket allt elektorerne
-            kunde göra sig underrättade. Revisor samt dennes suppleanter deremot
-            kunde utses genom direkt val.
+            var i afseende &amp; bankfullmäktigs och dennes suppleanters
+            val ense med Vitikkala, emedan talaren icke trodde enhvar känna,
+            huruvida den, som han ernade utse till nägon af dessa befattningar,
+            ville ätaga sig densamma, vore valbar o. s. v., om hvilket allt
+            elektorerne kunde göra sig underrättade. Revisor samt dennes suppleanter
+            deremot kunde utses genom direkt val.
           </seg>
         </u>
         <note xml:id="i-JvxDiuevtmUqThZrx7BCCh" type="speaker">
@@ -14913,8 +14918,8 @@
           <seg>
             sä tarkoitetaan voutikuntaa, vaikka mietinnön perussyistä 9:ltä
             sivulta näkyy valiokunnan katsoneen hollinteon olevan käräjäkunnittain
-            toimitettavan. Puhuja hyväksyi &amp;:n niin ymmärrettynä, kuin perussyyt
-            osoittavat.
+            toimitettavan. Puhuja hyväksyi &amp;:n niin ymmärrettynä, kuin
+            perussyyt osoittavat.
           </seg>
         </u>
         <pb facs="https://swerik-project.github.io/valtiopaivat-records-pdf/1867/ptk_1867_talonpojat_II/ptk_1867_talonpojat_II-0202"/>
@@ -15421,9 +15426,9 @@
         <note xml:id="i-96w7P2BcZf1oS1dkkqgVqP">
           komme att i hällskjutsningen deltaga; sä och dä det vore kändt
           att Ridderskapet och Adeln samt Prestaständet icke frängätt sina
-          privilegier i afseende &amp; hällskjutsningen samt tjenstemän, hvilka
-          dock mest anlitade häradspost, icke älagts delaktighet i dess
-          underhäll, borde mom. icke desto mindre uteslutas, alldenstund
+          privilegier i afseende &amp; hällskjutsningen samt tjenstemän,
+          hvilka dock mest anlitade häradspost, icke älagts delaktighet
+          i dess underhäll, borde mom. icke desto mindre uteslutas, alldenstund
           hela tungan af häradspostföringen eljest komme att ähvälfvas bondeståndet.
           Tjenstemännen komme, om mom. uteslötes, nog att tillse det häradsposten
           underhölles och finge dä sjelfve deltaga i kostnaden för dess
@@ -16166,8 +16171,8 @@
         </note>
         <u who="i-Wm7PMNz5UBwoc7LvenHUrr">
           <seg>
-            kehoitti hyväksymään mietintöä sentähden että &amp; siinä on lyhyempi
-            ja kumminkin yhtä selvä kuin esityksessä.
+            kehoitti hyväksymään mietintöä sentähden että &amp; siinä on
+            lyhyempi ja kumminkin yhtä selvä kuin esityksessä.
           </seg>
         </u>
         <note xml:id="i-2g7W85GCQDG1xb58RkFD3B">
@@ -16799,16 +16804,17 @@
         </u>
         <note xml:id="i-CtLDARmaW51fXLX1u6RL75" type="speaker">
           Edusmies Riihimäki yhdistyi siihen mielipiteesen, jonka Laurila
-          asiassa on lausunut, ja tahtoi että &amp;, sen mielivaltaisuuden estämiseksi,
-          jonka esityksen määräykset myöntävät, tehtäisiin näin kuuluvaksi:
+          asiassa on lausunut, ja tahtoi että &amp;, sen mielivaltaisuuden
+          estämiseksi, jonka esityksen määräykset myöntävät, tehtäisiin
+          näin kuuluvaksi:
         </note>
         <u who="i-6suuzHSQU6bgefM53wxoHs">
           <seg>
             ,Asianomainen kruununpalvelija — — — (j. n. e. armollisen esityksen
             mukaan) — — — asianomaisen kruununvoudin antamaan varoituksen*,
-            Mitä muuta &amp;:ssä löytyy olisi puhujan mielestä suljettava pois
-            ja sen sijaan se määräys pantava, että huolimaton saadaan sakoittaa
-            kymmenestä kahteenkymmeneen markkaan.
+            Mitä muuta &amp;:ssä löytyy olisi puhujan mielestä suljettava
+            pois ja sen sijaan se määräys pantava, että huolimaton saadaan
+            sakoittaa kymmenestä kahteenkymmeneen markkaan.
           </seg>
         </u>
         <note xml:id="i-ELkxSQYLTpweR2XMam3U5D" type="speaker">
@@ -18850,8 +18856,8 @@
         <u who="i-2TJ9oUcw4dzh1P1QpjGfP7">
           <seg>
             utlät sig att Bondeständet icke borde såsom vid sednastelandtdag
-            afgöra denna fråga slumpvis, utan taga detsamma $ för &amp; uti noggrannt
-            öfvervägande.
+            afgöra denna fråga slumpvis, utan taga detsamma $ för &amp; uti
+            noggrannt öfvervägande.
           </seg>
         </u>
         <note xml:id="i-dGBWPYHuPmnzkMddwPz7x">
@@ -20087,10 +20093,10 @@
         </u>
         <note xml:id="i-BuuE9wKj5WWf4WTfkAp7vS">
           Puhemies esitteli sitten seuraavan, säädyn hyväksymän äänestysesityksen:
-          Ken tahtoo tämän &amp;:n hyväksyä; valiokunnan mietinnön mukaan, vastaa
-          ,jaa*; ken sitä ei tahdo, vastaa ,ei*. Jos v ei* voittaa, katsotaan
-          säädyn hyväksyneen mietinnön Vitikkalan yllä mainitulla tavalla
-          siihen tekemällä lisäyksellä.
+          Ken tahtoo tämän &amp;:n hyväksyä; valiokunnan mietinnön mukaan,
+          vastaa ,jaa*; ken sitä ei tahdo, vastaa ,ei*. Jos v ei* voittaa,
+          katsotaan säädyn hyväksyneen mietinnön Vitikkalan yllä mainitulla
+          tavalla siihen tekemällä lisäyksellä.
         </note>
         <note xml:id="i-B8aNEFFfwT1J8R5PWf1hFX">
           Äänestyksessä vastasi neljätoista jaa-ääntä ja kaksikymmentä
@@ -20249,9 +20255,9 @@
           kaikkia maksuun velvollisia tuomiokuntia myöten.
         </note>
         <note xml:id="i-MeN9meGwb2KgvkUA1pWwq2">
-          Landtdagsmannen Kavö&amp;n ansåg det af Riihimäki föreslagna arvodet
-          sexton mark om dagen vara alltför högt, men trodde detsamma lempligast
-          kunna bestämmas till fjorton mark.
+          Landtdagsmannen Kavö&amp;n ansåg det af Riihimäki föreslagna
+          arvodet sexton mark om dagen vara alltför högt, men trodde detsamma
+          lempligast kunna bestämmas till fjorton mark.
         </note>
         <note xml:id="i-V59AXmPgYGheG2NKuf1eA4" type="speaker">
           Edusmies Kumpulainen
@@ -20751,8 +20757,8 @@
         <note xml:id="i-UA9dcsQLpK8TSffTn6QPEC">
           Puhemies sitte esitti äänestettäväksi seuraavan ehdotuksen: Joka
           tahtoo että veronmaksuun tulon jälkeen suostuttaisiin ja niinmuodoin
-          hyväksyy 1:n &amp;:n ensimäisen kohdan, vastaa ,jaa*; joka sitä ei
-          tee, vastaa "ei".
+          hyväksyy 1:n &amp;:n ensimäisen kohdan, vastaa ,jaa*; joka sitä
+          ei tee, vastaa "ei".
         </note>
         <note xml:id="i-Kw1YxmQkTwRpEpmgZnD5ji">
           Vastattiin kahdeksanneljättä jaa-ääntä ja kolmetoista, ei-ääntä;
@@ -20897,11 +20903,11 @@
         </note>
         <u who="unknown">
           <seg>
-            myös hyväksyi &amp;n ja muistutti uudisviljelysten vaan olevan rahanmuuttaminen
-            toiseen, ikäänkuin kiinteämpään omaisuuteen, jota paitsi, jos
-            kustannukset sellaisista yrityksistä saataisiin lukea pois, kaikki
-            tulo voitaisiin niinä vuosina, jolloin suostuntaveroa maksetaan,
-            menettää puheenalaisen laatuisiin hankkeisin.
+            myös hyväksyi &amp;n ja muistutti uudisviljelysten vaan olevan
+            rahanmuuttaminen toiseen, ikäänkuin kiinteämpään omaisuuteen,
+            jota paitsi, jos kustannukset sellaisista yrityksistä saataisiin
+            lukea pois, kaikki tulo voitaisiin niinä vuosina, jolloin suostuntaveroa
+            maksetaan, menettää puheenalaisen laatuisiin hankkeisin.
           </seg>
         </u>
         <note xml:id="i-Y92BnGgQr1A7or28Jbw9JS" type="speaker">
@@ -21697,10 +21703,10 @@
             heder nog kan bära det förmenta svåra deri att kännedomen om dess
             åtgärder icke blifver bland allmänheten spridd; hvilket sä mycket
             lättare läter sig göra dä ständets protokoller finnas tillgängliga
-            säväl &amp; finska som svenska spräket, om ock endast i skrifna exemplar.
-            För öfrigt ansäg talaren att en hvar af ständets medlemmar dock
-            borde vara obetaget att bekosta protokollernes tryckning äfvensom
-            diskussionen härom utan vidare omgängar borde afslutas.
+            säväl &amp; finska som svenska spräket, om ock endast i skrifna
+            exemplar. För öfrigt ansäg talaren att en hvar af ständets medlemmar
+            dock borde vara obetaget att bekosta protokollernes tryckning
+            äfvensom diskussionen härom utan vidare omgängar borde afslutas.
           </seg>
         </u>
         <note xml:id="i-5jfdu36J1fGBDqUr7VKc3C">
@@ -21833,13 +21839,15 @@
         </note>
         <note xml:id="i-TNUxZ8KpstwkJmH1F114QC">
           Esille otettiin lakivaliokunnan mietintö K. Maj:n armollisesta
-          esityksestä Ulosottokaaren 2 luvun 1 ja 2 &amp;n muuttamisesta, sekä
-          velallisen velvollisuudesta maksuvarain puuttuessa suorittaa velkansa
-          työllä tahi siitä olla velkavankeudessa, niin myös maalla olevan
-          kiinteän omaisuuden myymisestä, joka velan tähden ulosotettu on.
+          esityksestä Ulosottokaaren 2 luvun 1 ja 2 &amp;n muuttamisesta,
+          sekä velallisen velvollisuudesta maksuvarain puuttuessa suorittaa
+          velkansa työllä tahi siitä olla velkavankeudessa, niin myös maalla
+          olevan kiinteän omaisuuden myymisestä, joka velan tähden ulosotettu
+          on.
         </note>
         <note xml:id="i-E77DbxhJnhdrezkEw2Ssiy">
-          A) Ehdotus asetukseksi Ulosottokaaren 2 luvun 1 ja 2 &amp;:n muuttamisesta.
+          A) Ehdotus asetukseksi Ulosottokaaren 2 luvun 1 ja 2 &amp;:n
+          muuttamisesta.
         </note>
         <note xml:id="i-FVPbcX24ateYxYkgKAoi7A">
           Alkulause hyväksyttiin.
@@ -24364,8 +24372,9 @@
         </note>
         <u who="i-3wbkcRH6vFcWFCrAj2yuYD">
           <seg>
-            luuli &amp;n olevan paikoillaan, sillä toivottava olisi että sellaiset
-            ihmiset vetäytyisivät likemmäksi kaupunkeja, joissa on poliisi.
+            luuli &amp;n olevan paikoillaan, sillä toivottava olisi että
+            sellaiset ihmiset vetäytyisivät likemmäksi kaupunkeja, joissa
+            on poliisi.
           </seg>
         </u>
         <note xml:id="i-4q4PCDFbJ5BG3ozE1jmpUR" type="speaker">
@@ -24853,13 +24862,13 @@
           johdolla, joka ilmoitti Pappissäädyn 1:ksi) lakivaliokunnan sovittelu-ehdotuksen
           suhteen luopuneen entisestä päätöksestään 1 $:ssä 12 L. Naim.
           kaar. ja saattaaksensa sääty-enemmistöä toimeen, yhdistynyt Porvaris-
-          ja Talonpoikaissäätyjen samasta &amp;:stä tekemään päätökseen; sekä
-          2:ksi) että sääty on vastaukseksi armolliseen esitykseen kuolemanrangaistuksen
-          lakkauttamisesta useista rikoksista y. m. hyväksynyt sovitusehdotuksen
-          niissä osissa, jotka papistoa koskevat, vaan ei ole katsonut tarpeelliseksi
-          antaa lausuntoa siitä kolmen säädyn enemmistön vaikuttamasta päätöksestä,
-          joka koskee kuolemanrangaistuksen lakkauttamista tahallisesta
-          murhatyöstä.
+          ja Talonpoikaissäätyjen samasta &amp;:stä tekemään päätökseen;
+          sekä 2:ksi) että sääty on vastaukseksi armolliseen esitykseen
+          kuolemanrangaistuksen lakkauttamisesta useista rikoksista y. m.
+          hyväksynyt sovitusehdotuksen niissä osissa, jotka papistoa koskevat,
+          vaan ei ole katsonut tarpeelliseksi antaa lausuntoa siitä kolmen
+          säädyn enemmistön vaikuttamasta päätöksestä, joka koskee kuolemanrangaistuksen
+          lakkauttamista tahallisesta murhatyöstä.
         </note>
         <note xml:id="i-5ZuSdiNQrzcHmDr4SoMafy">
           Puhemies kiitti lähetystöä ilmoituksesta, jolloin lähetystö astui
@@ -25352,8 +25361,8 @@
         <u who="i-VethMAkStv2TxN6zR2A8eZ">
           <seg>
             yttrade, att han, då frågan sednast förevar, förordat antagande
-            af &amp; enligt utskottets förslag och kunde talaren icke heller nu
-            annat än godkänna detsamma.
+            af &amp; enligt utskottets förslag och kunde talaren icke heller
+            nu annat än godkänna detsamma.
           </seg>
         </u>
         <note xml:id="i-MiR3xCPkDhP2XbUvucihwR" type="speaker">
@@ -25519,8 +25528,8 @@
         </u>
         <note xml:id="i-DjzRoD6FFdJLVjRS7KA4e1">
           Puhuja kehoitti säätyä järjestyksen vuoksi ensin puhumaan 102
-          &amp;:stä sekä siitä riippuvista 65 ja 66 $$:stä, jonka jälkeen 344
-          g otettaisiin tutkittavaksi.
+          &amp;:stä sekä siitä riippuvista 65 ja 66 $$:stä, jonka jälkeen
+          344 g otettaisiin tutkittavaksi.
         </note>
         <note xml:id="i-R5BuJterwcWiJ3BNiedj6K" type="speaker">
           Edusmies Määttä
@@ -29669,11 +29678,12 @@
           31
         </note>
         <note xml:id="i-4Yk1FexySqJh8VjqFkBTrc">
-          n:o 31 Ulosottokaaren 2 luvun 1 ja 2 &amp;:ien muuttamisesta, sekä
-          velallisen velvollisuudesta maksuvarain puutteessa sovittaa velkansa
-          työllä tahi siitä tulla velkavankeuteen pannuksi, niin myös sen
-          kiinteän omaisuuden myymisestä maalla, joka velasta on ulosoitoon
-          pantu: e. ja pp. I. 265; I. I. 292; kts. Lakivkn miet. n:o 11.
+          n:o 31 Ulosottokaaren 2 luvun 1 ja 2 &amp;:ien muuttamisesta,
+          sekä velallisen velvollisuudesta maksuvarain puutteessa sovittaa
+          velkansa työllä tahi siitä tulla velkavankeuteen pannuksi, niin
+          myös sen kiinteän omaisuuden myymisestä maalla, joka velasta on
+          ulosoitoon pantu: e. ja pp. I. 265; I. I. 292; kts. Lakivkn miet.
+          n:o 11.
         </note>
         <note xml:id="i-HvBq8TUbzoYkx5psj4mrWQ">
           n:o 32 edesvastauksesta omaisuuden sytyttämisestä sillä tarkoituksella,
@@ -30178,8 +30188,8 @@
         </note>
         <note xml:id="i-NhjNsGoJKfEHTQ6SecpaCb">
           n:o 11 arm. esityksestä n:o 31 ulosottokaaren 2 luvun 1 ja 2
-          &amp;:n muuttamisesta sekä velkavankeudesta e. ja pp. II. 744; k.
-          ja p. II. 750—755; sovitusehd. e. ja p. II. 813.
+          &amp;:n muuttamisesta sekä velkavankeudesta e. ja pp. II. 744;
+          k. ja p. II. 750—755; sovitusehd. e. ja p. II. 813.
         </note>
         <note xml:id="i-MaAiLmURNTQS8vWxTVHbMT">
           Lautamiehet:

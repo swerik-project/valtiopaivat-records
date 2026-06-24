@@ -1,5 +1,5 @@
-<?xml version='1.0' encoding='utf-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="ptk_1905-1906_porvaristo_II">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -25,8 +25,12 @@
   <text>
     <front>
       <div type="preface">
-        <head>ptk_1905-1906_porvaristo_II</head>
-        <docDate when="1905-01-01">1905-01-01</docDate>
+        <head>
+          ptk_1905-1906_porvaristo_II
+        </head>
+        <docDate when="1905-01-01">
+          1905-01-01
+        </docDate>
       </div>
     </front>
     <body>
@@ -823,9 +827,9 @@
           valiokunnassa nyt on tehty, ettei se ole vaatinut kovinkaan suuria
           mullistuksia. Ainoastaan parissa pykälässä on tehty muutoksia,
           jotka on katsottu kyllin riittäviksi asian nykyisellä kannalla
-          ollessa puheenalaisen verotusasian selvittämiseksi. 1 &amp;:ssä on
-          laadittu alkohooliraja, jossa mallasjuomat on jaettu kahteen osaan:
-          vähempialkohoolisiin ja väkevämpi-alkohoolisiin, ja vähempi-alkohooliset
+          ollessa puheenalaisen verotusasian selvittämiseksi. 1 &amp;:ssä
+          on laadittu alkohooliraja, jossa mallasjuomat on jaettu kahteen
+          osaan: vähempialkohoolisiin ja väkevämpi-alkohoolisiin, ja vähempi-alkohooliset
           on ehdotettu mallasverosta vapautettaviksi. 7 $:ssä sittemmin
           on lähemmin määrätty, millä tavalla tuo vapautus kävisi päinsä,
           nimittäin siten, ettei mallasveroa kaljan valmistukseen käytetyistä
@@ -1523,9 +1527,9 @@
         </note>
         <u who="unknown">
           <seg>
-            Koska 2 &amp; valiokunnan ehdotuksen mukaan koskee yksinomaan oluen
-            ja portterin veroittamista, niin minä puolestani hyväksyn tämän
-            valiokunnan ehdotuksen.
+            Koska 2 &amp; valiokunnan ehdotuksen mukaan koskee yksinomaan
+            oluen ja portterin veroittamista, niin minä puolestani hyväksyn
+            tämän valiokunnan ehdotuksen.
           </seg>
         </u>
         <note xml:id="i-H4PMtbWTarAKB3R1bo4zKZ">
@@ -2523,8 +2527,9 @@
           määrässä.
         </note>
         <note xml:id="i-5pKr665FhLuKzmsRksZViX">
-          Valtiopäiväjärjestyksen 5 &amp; sisältää joukon vaalioikeutta koskevia
-          rajoituksia, joita kaikkia en saata hyväksyä. Niinpä sen vii-
+          Valtiopäiväjärjestyksen 5 &amp; sisältää joukon vaalioikeutta
+          koskevia rajoituksia, joita kaikkia en saata hyväksyä. Niinpä
+          sen vii-
         </note>
         <pb facs="https://swerik-project.github.io/valtiopaivat-records-pdf/1905-1906/ptk_1905-1906_porvaristo_II/ptk_1905-1906_porvaristo_II-0044"/>
         <note xml:id="i-6X1TG6hzuJQfXNz975w9iS">
@@ -3324,9 +3329,9 @@
           silloin vaatimia muutoksia myös tämän ikärajan suhteen.
         </note>
         <note xml:id="i-FrZvgDmFbk47ApcghZnFJN">
-          Hra Jäms&amp;n: Tahdon mainita ensin ilahuttavana tosiasiana sen,
-          että, mikäli minä käsitän, itse pääasiasta tässä säädyssä ollaan
-          yhtä mieltä, ollaan yhtä mieltä siitä, että meidän on luovuttava
+          Hra Jäms&amp;n: Tahdon mainita ensin ilahuttavana tosiasiana
+          sen, että, mikäli minä käsitän, itse pääasiasta tässä säädyssä
+          ollaan yhtä mieltä, ollaan yhtä mieltä siitä, että meidän on luovuttava
           vanhasta nelijakoisesta eduskuntalaitoksesta ja sen sijaan luotava
           uusi, yleiselle, yhtäläiselle, molemmille sukupuolille myönnetylle
           äänioikeudelle perustuva yksikamarinen eduskunta. Tästä pääasiasta,
@@ -5159,10 +5164,10 @@
           suurempi latituudi, jonka sisällä tätä vaalipiirien lukua saadaan
           muuttaa. Omasta puolestani katsoisin, kuten jo mainitsin, oikeammaksi,
           ettei kysymyksessä olevia lukuja laisinkaan mainita valtiopäiväjerjestyksessä.
-          Mutta jos porvarissääty päättää jättää 4 &amp;:ään määräyksen vaalipiirien
-          luvusta, soisin ainakin sen korjauksen tehtäväksi, että vaalipiirien
-          suurin luku on korotettava vähintäin 4:nnen vastalauseen puoltamaan
-          rajaan.
+          Mutta jos porvarissääty päättää jättää 4 &amp;:ään määräyksen
+          vaalipiirien luvusta, soisin ainakin sen korjauksen tehtäväksi,
+          että vaalipiirien suurin luku on korotettava vähintäin 4:nnen
+          vastalauseen puoltamaan rajaan.
         </note>
         <note xml:id="i-DkYzQBcvV8Z1P8PQajRE9K" type="speaker">
           Hra Manninen:
@@ -5340,17 +5345,17 @@
         <u who="unknown">
           <seg>
             Mielestäni on aivan oikein, että perustuslaissa on vaalitavan
-            perusmääräykset. Mutta tämmöisinä perusmääräyksinä en 4 &amp;n ensimäisessä
-            momentissa voi pitää muita kuin sanoja: »Edustajat valitaan välittömillä
-            ja suhteellisilla vaaleilla». Sillä sillä seikalla, kuinka moneen
-            vaalipiiriin maa on jaettava, ei ole mitään yhteyttä suhteellisen
-            vaalitavan kanssa; vaikka näet maa olisi yhtenä vaalipiirinä,
-            niin voisivat vaalit ilman sen estämättä olla enemmistövaaleja
-            samoin kuin maan ollessa jaettuna 12 tai 18 vaalipiiriin. Kun
-            en pidä tätä vaalipiirien luvun määräystä minään perusmääräyksenä
-            vaalitavalle, niin yhdyn kannattamaan 3 vastalausetta, että 4
-            &amp;n ensimäisestä momentista jälkimäinen lause poistettaisiin ja
-            vaalipiirien luku määrättäisiin vaali-
+            perusmääräykset. Mutta tämmöisinä perusmääräyksinä en 4 &amp;n
+            ensimäisessä momentissa voi pitää muita kuin sanoja: »Edustajat
+            valitaan välittömillä ja suhteellisilla vaaleilla». Sillä sillä
+            seikalla, kuinka moneen vaalipiiriin maa on jaettava, ei ole mitään
+            yhteyttä suhteellisen vaalitavan kanssa; vaikka näet maa olisi
+            yhtenä vaalipiirinä, niin voisivat vaalit ilman sen estämättä
+            olla enemmistövaaleja samoin kuin maan ollessa jaettuna 12 tai
+            18 vaalipiiriin. Kun en pidä tätä vaalipiirien luvun määräystä
+            minään perusmääräyksenä vaalitavalle, niin yhdyn kannattamaan
+            3 vastalausetta, että 4 &amp;n ensimäisestä momentista jälkimäinen
+            lause poistettaisiin ja vaalipiirien luku määrättäisiin vaali-
           </seg>
         </u>
         <pb facs="https://swerik-project.github.io/valtiopaivat-records-pdf/1905-1906/ptk_1905-1906_porvaristo_II/ptk_1905-1906_porvaristo_II-0091"/>
@@ -5971,14 +5976,14 @@
           47 8:n johdosta lausui
         </note>
         <note xml:id="i-8aLNVSrZyrbAXY5rycuqac">
-          hra Elving: Sista momentet i 47 &amp; är i den svenska texten upptagen
-          i följande lydelse: »Vid förfall för talman träder i hans ställe
-          den främsta, eller om förfall äfven för denna inträdt, andra vicetalmannen».
-          Jag anser, att detta uttryck »främsta talman» icke är rätt och
-          ville föreslå en omformulering därhän, att sista momentet skulle
-          erhälla följande lydelse: »Vid förfall för talman träder i hans
-          ställe vicetalman eller, om förfall äfven för denna inträdt, andra
-          vicetalman».
+          hra Elving: Sista momentet i 47 &amp; är i den svenska texten
+          upptagen i följande lydelse: »Vid förfall för talman träder i
+          hans ställe den främsta, eller om förfall äfven för denna inträdt,
+          andra vicetalmannen». Jag anser, att detta uttryck »främsta talman»
+          icke är rätt och ville föreslå en omformulering därhän, att sista
+          momentet skulle erhälla följande lydelse: »Vid förfall för talman
+          träder i hans ställe vicetalman eller, om förfall äfven för denna
+          inträdt, andra vicetalman».
         </note>
         <note xml:id="i-FbWiPZkFusNowpKjoPa2FL">
           Keskustelu päättyi tähän, minkä jälkeen hra puhemies säädyn vastattavaksi
@@ -6015,8 +6020,8 @@
           lukemisessa, joka saa tapahtua aikaisintaan kolmantena päivänä
           toisen käsittelyn päätettyä. Muita muutoksia kuin sellaisia, joita
           suuri valiokunta lopullisessa lausunuossaan on ehdottanut, ei
-          silloin saa ottaa keskusteltavaksi&gt;. Minun mielestäni pykälä lain
-          tekstissä edellyttää, että kolmannessa lukemisessa käsitellään
+          silloin saa ottaa keskusteltavaksi&gt;. Minun mielestäni pykälä
+          lain tekstissä edellyttää, että kolmannessa lukemisessa käsitellään
           lain tekstin hyväksymistä tai hylkäämistä sellaisenaan ilman että
           siihen mitään muutosehdotusta voidaan tehdä, jotavastoin mietintö
           puhuu muutosehdotusten käsittelemisestä. Ehdotan sen johdosta,
@@ -6232,7 +6237,8 @@
           muutettua sanaksi »henkikirja».
         </note>
         <note xml:id="i-SLndYCZCtsES77KzUHzeK">
-          8—17 $$ hyväksyttiin muistutuksetta. 18 &amp;:n johdosta pyysi puheenvuoroa
+          8—17 $$ hyväksyttiin muistutuksetta. 18 &amp;:n johdosta pyysi
+          puheenvuoroa
         </note>
         <note xml:id="i-8szUAMHMCHMLA8cpep5L2Z">
           hra Hjelt, joka lausui: Pyydän saada lyhyesti ilmoittaa, että
@@ -6605,7 +6611,8 @@
           19 &amp;n.
         </note>
         <note xml:id="i-4t91TRF5Yg7QjZWTBHoi4Y">
-          20—44 88 hyväksyttiin keskustelutta. 45 &amp;n johdosta pyysi puheenvuoroa
+          20—44 88 hyväksyttiin keskustelutta. 45 &amp;n johdosta pyysi
+          puheenvuoroa
         </note>
         <note xml:id="i-VCQZ2JHchuiudwnBEbdyBF">
           hra Oivanen, joka lausui: Pyytäisin saada huomauttaa eräästä
@@ -6696,11 +6703,11 @@
           kandidatlista, den bör omfattas i sin helhet, således också i
           afseende å den tredje mannen, tror jag därför, att en hel mängd
           väljande icke komme att omfatta denna lista i sin helhet, utan
-          finge taga den utvägen, som i &amp; 45 hänvisas till, nämligen att,
-          om man icke är nöjd med en lista i sin helhet, kan man pä det
-          toma stället skrifva in de personer, pä hvilka man önskar välja.
-          Valmansföreningens kandidatlista skulle säledes flytta sin plats
-          till det blanka stället i valsedein och dä skulle valmansföreningen
+          finge taga den utvägen, som i &amp; 45 hänvisas till, nämligen
+          att, om man icke är nöjd med en lista i sin helhet, kan man pä
+          det toma stället skrifva in de personer, pä hvilka man önskar
+          välja. Valmansföreningens kandidatlista skulle säledes flytta
+          sin plats till det blanka stället i valsedein och dä skulle valmansföreningen
           sä i sista minuten gifva tillkänna, hvilket tredje namn valmansföreningen
           skulle önska få till kandidat i stället för den atlidna. Det vore
           det enklaste sättet att fä valmansförenings lista reorganiserad
@@ -7739,9 +7746,9 @@
           1 &amp;:ssä on kaljakin tehty veronalaiseksi, koska porvarissäädyssä
           katsottiin, että olisi vaikeata saada aikaan sitä suuremmoista
           aparaattia, jonka kautta kalja voitaisiin eroittaa muista mallasjuomista,
-          mutta 2 &amp;:ssä tämä sama vaikeus ei estänyt porvarissäätyä tekemästä
-          päätöstä siihen suuntaan, että kaljatehtaat vapautetaan muille
-          mallasjuomatehtaille määrätyistä pohjaveroista. Tästä päätöksestä
+          mutta 2 &amp;:ssä tämä sama vaikeus ei estänyt porvarissäätyä
+          tekemästä päätöstä siihen suuntaan, että kaljatehtaat vapautetaan
+          muille mallasjuomatehtaille määrätyistä pohjaveroista. Tästä päätöksestä
           olisi mielestäni voitu päästä jollei muulla, niin sillä, että
           valiokunta, jos se kerran tahtoi niin muodollisesti pysyä säädyn
           päätöksessä, kuin se on tehnyt, olisi säilyttänyt jonkunmoisen
@@ -7750,8 +7757,8 @@
           siinä asian tilassa, jossa se nyt on, ole muuta tehtävää kuin
           pysyä sillä kannalla, jolle se kerran on asettunut. Olen kuitenkin
           tahtonut, kuten sanoin, käyttää tilaisuutta hyväkseni huomauttaakseni
-          1 ja 2 S&amp;:iin tulleesta ristiriidasta, johon porvarissääty on
-          päätöksellään suureksi osaksi ollut syynä.
+          1 ja 2 S&amp;:iin tulleesta ristiriidasta, johon porvarissääty
+          on päätöksellään suureksi osaksi ollut syynä.
         </note>
         <note xml:id="i-WJAT2oJ3PQJT2tjD6H8eix" type="speaker">
           Hra Wegelius:
@@ -7916,7 +7923,8 @@
           päätti sääty hyväksyä 57 &amp;:ää koskevan ehdotuksen.
         </note>
         <note xml:id="i-BuoaZCkFve3fxxki1qcLNN">
-          Niinikään hyväksyttiin valiokunnan 15 ja 16 S&amp;istä tekemät ehdotukset.
+          Niinikään hyväksyttiin valiokunnan 15 ja 16 S&amp;istä tekemät
+          ehdotukset.
         </note>
         <pb facs="https://swerik-project.github.io/valtiopaivat-records-pdf/1905-1906/ptk_1905-1906_porvaristo_II/ptk_1905-1906_porvaristo_II-0134"/>
         <note xml:id="i-6yyYCd9G5AcmuC75V2jzq6">
@@ -7927,9 +7935,9 @@
         </note>
         <note xml:id="i-6QYPsBXsK1GNjbCbE6gmzg">
           hra Neovius: Utöfver de fel, som afses i denna kläm, finnes det
-          ett tryckfel i &amp; 60 i vallagen, sida 110 i betänkandet, där det
-          står: lag samma vore, bör vara vare. Detta fel bör be- A i samma
-          sammanhang som de öfriga, hvarom utskottet anmält.
+          ett tryckfel i &amp; 60 i vallagen, sida 110 i betänkandet, där
+          det står: lag samma vore, bör vara vare. Detta fel bör be- A i
+          samma sammanhang som de öfriga, hvarom utskottet anmält.
         </note>
         <note xml:id="i-EvrsQSfhiyL2A6GtefzCZA">
           Kun ei kukaan muu säädyn jäsenistä pyytänyt puheenvuoroa, julistettiin
@@ -8031,7 +8039,8 @@
           12 p. kesäk.
         </note>
         <note xml:id="i-8Y8vZQj8XBuo939PTYGNjk">
-          för behandling vid denna urtima landtdag. Vi hafva &amp; ena sidan
+          för behandling vid denna urtima landtdag. Vi hafva &amp; ena
+          sidan
         </note>
         <note xml:id="i-7UZRiqP94EK3kQxHJexTf7">
           O. med sin trånga begränsning i fråga om ständernas rätt att
@@ -9215,8 +9224,8 @@
           porvarissäädyn päätökseen.
         </note>
         <note xml:id="i-WGzfXLzfsohc8vGhZbUq9u">
-          Hrat Älenius ja August Jus&amp;6lius ilmoittivat, etteivät he olleet
-          ottaneet osaa äänestykseen.
+          Hrat Älenius ja August Jus&amp;6lius ilmoittivat, etteivät he
+          olleet ottaneet osaa äänestykseen.
         </note>
         <note xml:id="i-6DU4vvuuewpMKPF2q4hmQg">
           Suostuntavaliokunnalta oli saapunut näin kuuluva kirjelmä:
@@ -9693,13 +9702,13 @@
           därest en gynnsam tidpunkt för länets realiserande länge skulle
           läta vänta pä sig, gäende ut pä upptagande af ett temporärt län
           pä kort äterbetalningstid. I allmänhet synes det mig vara riktigt,
-          att ständernas bemyndigande i afseende &amp; län affattas sä, att
-          regeringen har möjlighet att begagna sig af olika sätt för uppläning
-          af medel och regeringen sälunda icke är tvungen att genast upptaga
-          ett amorteringslän pä längre tid, hvarigenom för hela denna tid
-          länevillkoren och möjligen ogynnsamma sådana blifva fastslagna.
-          Det har under de senaste ären i mänga länder praktiserats ett
-          sädant förfarande, just emedan konjunkturerna för statspapper
+          att ständernas bemyndigande i afseende &amp; län affattas sä,
+          att regeringen har möjlighet att begagna sig af olika sätt för
+          uppläning af medel och regeringen sälunda icke är tvungen att
+          genast upptaga ett amorteringslän pä längre tid, hvarigenom för
+          hela denna tid länevillkoren och möjligen ogynnsamma sådana blifva
+          fastslagna. Det har under de senaste ären i mänga länder praktiserats
+          ett sädant förfarande, just emedan konjunkturerna för statspapper
           varit i nedätgäende. Det är icke ensamt Ryssland, som under kriget
           skred till temporära län för att sedan förvandla dem till stäende
           sädana. Dylika företeelser hatva förekommit i mänga land; Tyskland
@@ -10153,10 +10162,10 @@
           ja joka tuntuu siltä, kuin siinä kohden olisi olemassa pieni ristiriita.
           Valiokunta mainitsee sivulla 2, että se on saanut valtiokonttorista
           tietoja, jotka kuuluvat 1905 vuoden tilinpäätökseen, ja ilmoittaa
-          sivulla 3, että tullitulot ovat mainittuna vuonna »nousseet&gt; vissiin
-          määrään (37 miljoonaan j. n. e.). Mutta kun sama asia on esillä
-          mietintöä seuraavassa liitteessä sivulla 19, niin valiokunta lausuu,
-          että koko vuodelta 1905 »voitanee tullitulot laskea» 37,700,000
+          sivulla 3, että tullitulot ovat mainittuna vuonna »nousseet&gt;
+          vissiin määrään (37 miljoonaan j. n. e.). Mutta kun sama asia
+          on esillä mietintöä seuraavassa liitteessä sivulla 19, niin valiokunta
+          lausuu, että koko vuodelta 1905 »voitanee tullitulot laskea» 37,700,000
           markkaan. Ken ei ole ottanut osaa valtiovaliokunnan töihin eikä
           senvuoksi ole perehtynyt näihin laskujen yksityiskohtiin saattaa
           helposti erehtyä tehdessään muistutusta mietintöä vastaan, mutta
@@ -10799,13 +10808,14 @@
           Det synes mig, att någon pietet för dylika historiska minnen bör
           man dock bevara. Därför kan jag icke förena mig om hr Sederholms
           förslag, att man nu skulle eventuellt upptaga frägan om ett helt
-          och hället nytt ständerhus &amp; annan plats. Därigenom skulle jämväl
-          alla vära arkitekters fantasi fä ett, tror jag, alltför vidsträckt
-          spelrum, och man vet sist och slutligen ej, hvilka alla projekt,
-          som skulle uppstä. Jag för min del mäste förorda, att vi hälla
-          oss till utskottets förslag. Vill den nya landtdagen icke acceptera
-          det förslag, som bankfullmäktige uppgöra, ja, dä mä de kasta det
-          gamla öfverända, men för min del vill jag icke göra det.
+          och hället nytt ständerhus &amp; annan plats. Därigenom skulle
+          jämväl alla vära arkitekters fantasi fä ett, tror jag, alltför
+          vidsträckt spelrum, och man vet sist och slutligen ej, hvilka
+          alla projekt, som skulle uppstä. Jag för min del mäste förorda,
+          att vi hälla oss till utskottets förslag. Vill den nya landtdagen
+          icke acceptera det förslag, som bankfullmäktige uppgöra, ja, dä
+          mä de kasta det gamla öfverända, men för min del vill jag icke
+          göra det.
         </note>
         <pb facs="https://swerik-project.github.io/valtiopaivat-records-pdf/1905-1906/ptk_1905-1906_porvaristo_II/ptk_1905-1906_porvaristo_II-0182"/>
         <note xml:id="i-Mv4NRVAq8io6Nf2Yc7T5xj">
@@ -11227,8 +11237,8 @@
           »tässä passituksessa täytyy olla täydellinen selvitys hakijan
           ulkomuodosta». Tämä ei kuulu kielellisiin huomautuksiin, mutta
           en minä ainakaan ymmärrä, minkälainen se »täydellinen selvitys»
-          ihmisen ulkomuodosta pitäisi olla. &gt;Riittävä selvitys» ehkä riittäisi
-          tässä kohden.
+          ihmisen ulkomuodosta pitäisi olla. &gt;Riittävä selvitys» ehkä
+          riittäisi tässä kohden.
         </note>
         <note xml:id="i-Lkrrsd1JCjoFjh5Evfph7Q">
           Toisessa kappaleessa sanotaan: &gt;Ennenkuin passitus hakijalle
@@ -11260,8 +11270,8 @@
           kirjattomana kulki. Sellaiselle ei mielestäni tarvitsisi myöskään
           antaa oikeutta kiertokaupan harjoittamiseen. Mutta tarkoitus lienee,
           että tämä määräys koskee ainoastaan ei- Suomen kansalaisia, jotenka
-          olisi sanottava: &gt;»Ellei hänellä ole sellaista Suomessa, on hänen
-          suoritettava vero sille kunnalle, jonka hän ilmoittaa päämajailupaikakseen».
+          olisi sanottava: &gt;»Ellei hänellä ole sellaista Suomessa, on
+          hänen suoritettava vero sille kunnalle, jonka hän ilmoittaa päämajailupaikakseen».
           Kun meillä Suomessa kerran on henkikirjoitusasetus, joka määrää,
           että jokaisella henkilöllä pitää olla kotipaikka, niin ei tämän
           asetuksen pitäisi saada edellyttää, että semmoinen henkilö, joka
@@ -11307,8 +11317,8 @@
           jälkeen harjoitetaan vieraita apulaisia käyttämällä. Lopuksi sanotaan:
           ilman erityisesti hankittua lupaa kaupaksi kuljettaa omia valmisteitaan».
           Ei tarvitse sanoa kuljettaa omia valmisteitaan», vaan kuljettaa
-          valmisteitaan», siihen kun jo sisältyy käsite &gt;oma», tai jos tahdotaan
-          »oma» sanaa käyttää, pitää sanoa »omia valmisteita».
+          valmisteitaan», siihen kun jo sisältyy käsite &gt;oma», tai jos
+          tahdotaan »oma» sanaa käyttää, pitää sanoa »omia valmisteita».
         </note>
         <note xml:id="i-vQLQ3AZ3ixGnYiXsc1936">
           Näillä huomautuksilla pyydän minäkin saada kannattaa mietinnön
@@ -11374,8 +11384,8 @@
           <seg>
             Minäkin pyydän huomauttaa eräästä kielivirheestä, joka on johdannossa.
             Tahtoisin pykälämerkin jälkeen kaksoispisteen ja n-kirjaimen,
-            joten kohta kuuluisi: »Kumoten kauppakaaren 6 luvun 1 &amp;:n». Muuten
-            minun täytyy myöntää, että hra Brofeldtin tekemät huomautukset
+            joten kohta kuuluisi: »Kumoten kauppakaaren 6 luvun 1 &amp;:n».
+            Muuten minun täytyy myöntää, että hra Brofeldtin tekemät huomautukset
             ovat sangen paikallaan. Mutta kun hän viimeisen edellisessä momentissa
             ehdotti lausetta: Itsensä elatukseksi harjoittaa jotakin elinkeinoa»,
             niin minusta sekään ei ole oikea muoto; oikeampi olisi sanoa:
@@ -11591,8 +11601,8 @@
           </seg>
         </u>
         <note xml:id="i-6U9KcAASiBH1X7QFEtD1h6">
-          &gt;Den, som vill pä landet i afseende å försäljning kringföra för
-          allmän handel lofgifna varor frän gärd till gärd, söke tillständ
+          &gt;Den, som vill pä landet i afseende å försäljning kringföra
+          för allmän handel lofgifna varor frän gärd till gärd, söke tillständ
           -därtill hos guvernören i det län hvarest näringen skall utöfvas.
           Eger sökanden rätt att räda öfver sig och sin egendom, är han
           -oförvitlig, och styrker han genom bevis utfärdadt af i landet
@@ -11630,13 +11640,13 @@
         <note xml:id="i-F62whCBnFvkzqsabrbTAjY">
           Bedrifves gärdfarihandel utan tillstånd eller utan iaktta-. gande
           af föreskrifterna angående kontroll öfver gärdfarihandeln, vare
-          bot som i 40 &amp; bestämmes. Af den, som beträdes med nu nämd förseelse,
-          må medförda varor såsom vedermäle och till säkerhet för böter
-          i beslag tagas. Förpassning kan af guvernören återkallas, där
-          ofven stadgad förutsättning för dess meddellande ej vidare förefinnes
-          eller innehatvare gjort sig skyldig till öfverträdelse af denna
-          förordning. Återkallelse träde dock ej i kraft, förrän förpassningens
-          innehafvare af återkallelsen erhållit del.
+          bot som i 40 &amp; bestämmes. Af den, som beträdes med nu nämd
+          förseelse, må medförda varor såsom vedermäle och till säkerhet
+          för böter i beslag tagas. Förpassning kan af guvernören återkallas,
+          där ofven stadgad förutsättning för dess meddellande ej vidare
+          förefinnes eller innehatvare gjort sig skyldig till öfverträdelse
+          af denna förordning. Återkallelse träde dock ej i kraft, förrän
+          förpassningens innehafvare af återkallelsen erhållit del.
         </note>
         <note xml:id="i-FdTuZZBwU5TVdDZnVGBDdQ">
           Med iakttagande af hvad i denna S är sagdt må tillstånd till
@@ -11658,13 +11668,13 @@
           föreslagit, bestämningen om att förpassningen skall innehålla
           fullständig beskrifning öfver innehafvarens utseende och uppgift
           om hans ålder bortlämnats. I följande moment hafva efter ordet
-          »kommun&gt; tillagts orden »inom landet». Denna ändring innebär visserligen
-          pä sätt och vis en anticipation, men en anticipation, som icke
-          torde medföra någon otydlighet. Bestäm-- ningen därom, att gärdfarihandlare
-          bör vara skyldig att, innan. han får idka försäljning inom en
-          kommun, anmäla sig hos polismyndigheten därstädes, har ansetts
-          innebära en onödig inskränkning och därför uteslutits. Stadgandet
-          i sjätte momentet af inne-
+          »kommun&gt; tillagts orden »inom landet». Denna ändring innebär
+          visserligen pä sätt och vis en anticipation, men en anticipation,
+          som icke torde medföra någon otydlighet. Bestäm-- ningen därom,
+          att gärdfarihandlare bör vara skyldig att, innan. han får idka
+          försäljning inom en kommun, anmäla sig hos polismyndigheten därstädes,
+          har ansetts innebära en onödig inskränkning och därför uteslutits.
+          Stadgandet i sjätte momentet af inne-
         </note>
         <pb facs="https://swerik-project.github.io/valtiopaivat-records-pdf/1905-1906/ptk_1905-1906_porvaristo_II/ptk_1905-1906_porvaristo_II-0197"/>
         <note xml:id="i-JoA9gJkEBLzW7DwJh7XzCt">
@@ -11677,8 +11687,8 @@
           I de flesta fall torde nämligen den förseelse, som denna bestämning
           afser att nä, vara just densamma, som afses i omordade rum uti
           strafflagen. Bötesbeloppet i strafflagen är visserligen endast
-          300 mark, dä däremot 40 &amp; näringslagen bestämmer böter ända till
-          500 mark, men föreligger icke nägon anledning att för gärdfarihandeln
+          300 mark, dä däremot 40 &amp; näringslagen bestämmer böter ända
+          till 500 mark, men föreligger icke nägon anledning att för gärdfarihandeln
           stadga strängare straff än hvad för andra är utsatt i allmän lag.
           Slutligen har sjätte momentet ändrats bland annat sålunda, att
           föreskriften därom, att förpassning kan äterkallas för gärdfarihandlare,
@@ -11818,15 +11828,15 @@
         <u who="unknown">
           <seg>
             Siihen nähden, että kulkukauppaa, vaikka kiellettynä kauppakaaren
-            6 luvun 1 &amp;:ssä, kuitenkin yleisesti harjoitetaan, tuottaen luvattomana
-            elinkeinona yhteiskunnalle sekä siveydellisiä että terveydellisiä
-            vaaroja, olen valiokunnan kanssa yhtä mieltä siinä, että sanottu
-            kauppa on vapautettava myöskin ulkomaalaisiin nähden. Mutta en
-            voi toiselta puolen hyväksyä kaikkia valiokunnan ehdottamia rajoituksia.
-            Niin olisi tuo määräys, että passituksessa tulee myös olla täydellinen
-            selvitys hakijan ulkonäöstä, aivan tarpeettomana ja käytännössä
-            mahdottomana noudattaa poistettava, ettei näyttäisi siltä, kuin
-            tahtoisimme leimata kaikki puheena olevan kaupan harjoittajat
+            6 luvun 1 &amp;:ssä, kuitenkin yleisesti harjoitetaan, tuottaen
+            luvattomana elinkeinona yhteiskunnalle sekä siveydellisiä että
+            terveydellisiä vaaroja, olen valiokunnan kanssa yhtä mieltä siinä,
+            että sanottu kauppa on vapautettava myöskin ulkomaalaisiin nähden.
+            Mutta en voi toiselta puolen hyväksyä kaikkia valiokunnan ehdottamia
+            rajoituksia. Niin olisi tuo määräys, että passituksessa tulee
+            myös olla täydellinen selvitys hakijan ulkonäöstä, aivan tarpeettomana
+            ja käytännössä mahdottomana noudattaa poistettava, ettei näyttäisi
+            siltä, kuin tahtoisimme leimata kaikki puheena olevan kaupan harjoittajat
             miltei rikoksentekijöiksi. Yhtä vähän on paikallaan määrätä, että
             kulkukauppaa ei saa sama henkilö harjoittaa useammassa kuin yhdessä
             läänissä, sillä kun tämä elinkeino kerran on laissa sallittu,
@@ -12239,8 +12249,8 @@
           att orden »innan sådan egt rum» icke böra ingå i författningen,
           och kan jag förena mig därutinnan i den redaktion, som hr Heimbärger
           föreslagit. Då uttryckligt yrkande af hr Hjelt framställts, att
-          orden &gt;»eller af ledamot i hälsovårdsnämden eller, om sådan ej
-          finnes, ledamot i kommunalnämden» böra utstrykas, ber jag att
+          orden &gt;»eller af ledamot i hälsovårdsnämden eller, om sådan
+          ej finnes, ledamot i kommunalnämden» böra utstrykas, ber jag att
           i öfverensstämmelse med hvad jag tidigare nämde få understöda
           hans förslag. Också understöder jag hr Hjelts förslag beträffande
           motiveringen å sidorna 24 och 25 uti betänkandet angående innehållet
@@ -12286,8 +12296,8 @@
         </note>
         <note xml:id="i-TBa5kGJ53qon2dGQmWqjE5">
           Hra Castrén, Arthur: Samalla kun kannatan sitä muodostelua, jonka
-          hra Heimbärger on tehnyt elinkeinolain 10 &amp;n muuttamiseksi, hra
-          Cederbergin huomauttamalla lisäyksellä mitä mietinnössä olevaan
+          hra Heimbärger on tehnyt elinkeinolain 10 &amp;n muuttamiseksi,
+          hra Cederbergin huomauttamalla lisäyksellä mitä mietinnössä olevaan
           ponteen tulee, pyytäisin puolestani tehdä huomautuksen 2:n momentin
           viimeistä kohtaa vastaan, joka hra Heimbärgerin muodosteluissa
           kuului samalla tavalla kuin valiokunnan ehdotuksessakin, nimittäin
@@ -12887,10 +12897,10 @@
           6:ssa momentissa ensimmäinen lause, jos se eri säätyjen päätösten
           nojalla pysytetään niin kuuluvana kuin se löytyy valiokunnan ehdotuksessa,
           näin kuuluvaksi: » passitusta kulkukaupan harjoittamiseen älköön
-          muu kuin siihen nimitetty henkilö käyttäkö 40 &amp;:ssä säädetyn sakon
-          uhalla», ja toinen lause näin kuuluvaksi: »Jos kulkukauppaa harjoitetaan
-          luvatta tai sen silmällä pitoa varten säädettyjä määräyksiä noudattamatta,
-          olkoon j. n. €.»
+          muu kuin siihen nimitetty henkilö käyttäkö 40 &amp;:ssä säädetyn
+          sakon uhalla», ja toinen lause näin kuuluvaksi: »Jos kulkukauppaa
+          harjoitetaan luvatta tai sen silmällä pitoa varten säädettyjä
+          määräyksiä noudattamatta, olkoon j. n. €.»
         </note>
         <pb facs="https://swerik-project.github.io/valtiopaivat-records-pdf/1905-1906/ptk_1905-1906_porvaristo_II/ptk_1905-1906_porvaristo_II-0217"/>
         <note xml:id="i-VhqLoFizymDLHUifbRnNsL">
@@ -13175,12 +13185,13 @@
         <u who="unknown">
           <seg>
             Pyydän saada tehdä muutamia yksityiskohtaisia huomautuksia tästä
-            lakiehdotuksesta. 6:ssa &amp;:ssä sanotaan, että kirjapainoa ei saisi
-            käyttää maalla kuin ainoastaan senaatin luvalla. Tämä on minusta
-            aivan ristiriidassa 1 &amp;:n kanssa, jossa sanotaan, että viranomaiset
-            eivät saa ennakolta panna minkäänlaista estettä sananvapaudelle.
-            Senvuoksi minä tahtoisin, että 6$ poistettaisiin, ja siitä poistamisesta
-            johtuisi, että 49 &amp;:stä olisi poistettava viimeinen kohta.
+            lakiehdotuksesta. 6:ssa &amp;:ssä sanotaan, että kirjapainoa ei
+            saisi käyttää maalla kuin ainoastaan senaatin luvalla. Tämä on
+            minusta aivan ristiriidassa 1 &amp;:n kanssa, jossa sanotaan,
+            että viranomaiset eivät saa ennakolta panna minkäänlaista estettä
+            sananvapaudelle. Senvuoksi minä tahtoisin, että 6$ poistettaisiin,
+            ja siitä poistamisesta johtuisi, että 49 &amp;:stä olisi poistettava
+            viimeinen kohta.
           </seg>
         </u>
         <note xml:id="i-8cE676bagpoM2VfAxMQsHS">
@@ -13212,8 +13223,8 @@
         </note>
         <note xml:id="i-C2Cmm891877oyag1Ev6Jj6">
           Samoin minä tahtoisin, että maksu suoritettaisiin niistä kirjapainotuotteista,
-          jotka 13 &amp;:n mukaan kirjanpainaja on velvollinen lähettämään Helsinkiin
-          yliopiston kirjastoon, sillä muuten tämä tulee kirjanpainajalle
+          jotka 13 &amp;:n mukaan kirjanpainaja on velvollinen lähettämään
+          Helsinkiin yliopiston kirjastoon, sillä muuten tämä tulee kirjanpainajalle
           kovin rasittavaksi.
         </note>
         <note xml:id="i-FVCGyjvY1ybnj986ubwuCF">
@@ -13264,8 +13275,8 @@
           on minusta aivan sopimaton. Jos joitakin määräyksiä näyttämöesitysten
           suhteen havaittaisiin tarpeelliseksi, niin toivon minä, että lakivaliokunta
           löytää aivan toisenlaisia säädöksiä sitä varten. Saman pykälän
-          2:ssa kohdassa on joku painovirhe; on &amp; 13, pitäisi kai olla &amp;
-          43.
+          2:ssa kohdassa on joku painovirhe; on &amp; 13, pitäisi kai olla
+          &amp; 43.
         </note>
         <note xml:id="i-SKojtbBLy2EdEEiM7UMatv">
           Mitä sitten tulee oikeudenkäyntiin painovapausjutuissa, toivoisin,
@@ -13278,9 +13289,9 @@
           <seg>
             Yhtyen siihen lausuntoon, jonka hra Mikkola täällä antoi, mitä
             tulee sekä lakiehdotuksen pääsuuntaan että hänen tekemiinsä kielellisiin
-            huomautuksiin, pyytäisin johtaa valiokunnan huomiota 24 &amp;:n ensimäisen
-            momentin loppuun. Siinä nimittäin sanotaan, että vastinetta varten
-            on sanomalehden luovutettava yhtä suuri ala kuin se kertomus,
+            huomautuksiin, pyytäisin johtaa valiokunnan huomiota 24 &amp;:n
+            ensimäisen momentin loppuun. Siinä nimittäin sanotaan, että vastinetta
+            varten on sanomalehden luovutettava yhtä suuri ala kuin se kertomus,
             jossa häntä on loukattu, tai joka on ollut oikaisun aiheena. Minusta
             nykyisen painoasetuksen määräys siinä suhteessa, että vastineelle
             olisi annettava kaksinkertainen tila, olisi mukavampi, sillä usein
@@ -13416,8 +13427,8 @@
           niinkuin myöskin kirjanpainajaa ; jos jättää sanan »myös» pois,
           saadaan tarkoitus, joka on aivan toinen; helpomman käsityksen
           saamiseksi olisi tässä käytettävä sanaa niin myöskin» kirjanpainajaa,
-          eikä »niinkuin» kirjanpainajaa. Sitte on 24 8&amp;:ssä käytetty sanaa
-          »katsoo», jota meidän maassamme on paljon ruvettu käyttämään,
+          eikä »niinkuin» kirjanpainajaa. Sitte on 24 8&amp;:ssä käytetty
+          sanaa »katsoo», jota meidän maassamme on paljon ruvettu käyttämään,
           mutta jota minä en katsoisi sopivaksi käyttää. Sanotaan »joka
           katsoo itseänsä solvatuksi». Minä voin katsoa itseni sokeaksi,
           jos aurinkoon katson, mutta en voi katsoa itseni solvatuksi. Tietysti
@@ -14101,12 +14112,12 @@
           muistutuksia.
         </note>
         <note xml:id="i-VcVxbBJrhYDqpiRyiHsFnC">
-          1 &amp;n 2 kohta olisi niin muutettava, ettei sulettua kokousta välttämättä
-          tarvitsisi aidata, sillä voisihan yksityisen kokouksen pitää esimerkiksi
-          pienessä saaressa, jonka aitaaminen olisi naurettava. Ehdottaisin
-          tämän kohdan kuulumaan: » Yleiseksi kokoukseksi ei katsota sitä,
-          joka pidetään suljetussa huoneessa tahi muussa paikassa, johon
-          vain mieskohtaisesti kutsutuilla henkilöillä on pääsy».
+          1 &amp;n 2 kohta olisi niin muutettava, ettei sulettua kokousta
+          välttämättä tarvitsisi aidata, sillä voisihan yksityisen kokouksen
+          pitää esimerkiksi pienessä saaressa, jonka aitaaminen olisi naurettava.
+          Ehdottaisin tämän kohdan kuulumaan: » Yleiseksi kokoukseksi ei
+          katsota sitä, joka pidetään suljetussa huoneessa tahi muussa paikassa,
+          johon vain mieskohtaisesti kutsutuilla henkilöillä on pääsy».
         </note>
         <note xml:id="i-Wa1g1XELfQv8xEsWMhrxBk">
           2 &amp;n 2 kohdassa oleva määräys, että yleisen kokouksen pyytäjäin
@@ -14121,8 +14132,8 @@
           kansalaisille olla tarpeen olla varustettuna aseilla itsepuolustuksekseen
           jotakin hävytöntä asestettua poliisia vastaan, vaan 7 8:ssä taas
           kielletään yleisessä kokouksessa aseet muilta paitse virkapuvussa
-          olevalta henkilöltä. Paras olisi poistaa koko pykälä. n 7 &amp; olisi
-          kokonaan poistettava ja sen mukaan muutettava
+          olevalta henkilöltä. Paras olisi poistaa koko pykälä. n 7 &amp;
+          olisi kokonaan poistettava ja sen mukaan muutettava
         </note>
         <note xml:id="i-ToEMbwEVJBPeuLZTSk9gQk">
           tää. kal Rangaistusmääräykset ovat ehdotetut ylimalkaan liika
@@ -14872,8 +14883,8 @@
           aijottuja vastalauseita.
         </note>
         <note xml:id="i-JkNhC8MvE9RRwkGR9BqsFM">
-          12 &amp;:n pidän minä painovapaudelle niin arveluttavana, että se
-          olisi kokonaan poistettava. Ehdotetut 2 lisäpykälää rikoslain
+          12 &amp;:n pidän minä painovapaudelle niin arveluttavana, että
+          se olisi kokonaan poistettava. Ehdotetut 2 lisäpykälää rikoslain
           16 lukuun olisivat niinikään poistettavat.
         </note>
         <pb facs="https://swerik-project.github.io/valtiopaivat-records-pdf/1905-1906/ptk_1905-1906_porvaristo_II/ptk_1905-1906_porvaristo_II-0252"/>
@@ -15136,8 +15147,8 @@
         </note>
         <note xml:id="i-2ggxePrbyAwsSsRLbxJeNj">
           samma benämning pä dessa yrken, som förekommer i näringslagen,
-          d. v. s. använda orden »boktryckerier» och »stentryckerier&gt; för
-          att beteckna den rörelse, som här är i fråga.
+          d. v. s. använda orden »boktryckerier» och »stentryckerier&gt;
+          för att beteckna den rörelse, som här är i fråga.
         </note>
         <note xml:id="i-UrMtWWYHiX3fxw9YMzyVJP">
           Kuin ei kukaan enää pyytänyt puheenvuoroa, julistettiin keskustelu
@@ -15295,12 +15306,12 @@
           10 ja 11 $$ hyväksyttiin muistutuksetta. 12 8:n johdosta lausui
         </note>
         <note xml:id="i-N7XpNGSFqXPfT2cgYZ33Fv">
-          hra Tuomi: Minä uudistaisin ehdotukseni, että 12 &amp; kokonaan poistettaisiin,
-          sillä tätä pykälää yhteydessä 42 &amp;:n kanssa voitaisiin käyttää
-          estävänä sensuurina painokirjoituksia vastaan tai ellei aivan
-          estävänäkään, niin ainakin se voisi antaa aihetta rette- Töihin,
-          jos hyvin virka-intoinen virallinen syyttäjä tämän määräyksen
-          nojalla joutuu tekemisiin painotuotteiden kanssa.
+          hra Tuomi: Minä uudistaisin ehdotukseni, että 12 &amp; kokonaan
+          poistettaisiin, sillä tätä pykälää yhteydessä 42 &amp;:n kanssa
+          voitaisiin käyttää estävänä sensuurina painokirjoituksia vastaan
+          tai ellei aivan estävänäkään, niin ainakin se voisi antaa aihetta
+          rette- Töihin, jos hyvin virka-intoinen virallinen syyttäjä tämän
+          määräyksen nojalla joutuu tekemisiin painotuotteiden kanssa.
         </note>
         <note xml:id="i-CJjLeX21KtmRtCZYCC1UGy" type="speaker">
           Hra Tötterman:
@@ -15506,14 +15517,14 @@
             mutta siinäkin on omat vaaransa. Pitäisi kai sitten vakuuttaa
             jokainen lähetys, jotta kirjanpainaja voi todistaa kappaleen todella
             lähettäneensä. Vuoden kuluessa tulisivat ne lähetykset maksamaan
-            koko lailla. Kun 42 &amp;:ssä säädetään ankarat rangaistukset tämän
-            lähetyksen laiminlyömisestä, niin on tarkoin mietittävä, hyväksytäänkö
-            tämmöinen määräys. Muuten pyydän hra Sundvallia vastaan huomauttaa,
-            että jos asetutaan sille kannalle kuin hän, niin on parasta hyväksyä
-            tämä laki armollisen esityksen mukaan, sillä onhan valiokuntakin
-            tähän lakiehdotukseen tehnyt kaikenmoisia muutoksia, joista kyllä
-            saattaa tulla aihetta sen hylkäämiseen, jos asianomaisessa paikassa
-            niin halutaan.
+            koko lailla. Kun 42 &amp;:ssä säädetään ankarat rangaistukset
+            tämän lähetyksen laiminlyömisestä, niin on tarkoin mietittävä,
+            hyväksytäänkö tämmöinen määräys. Muuten pyydän hra Sundvallia
+            vastaan huomauttaa, että jos asetutaan sille kannalle kuin hän,
+            niin on parasta hyväksyä tämä laki armollisen esityksen mukaan,
+            sillä onhan valiokuntakin tähän lakiehdotukseen tehnyt kaikenmoisia
+            muutoksia, joista kyllä saattaa tulla aihetta sen hylkäämiseen,
+            jos asianomaisessa paikassa niin halutaan.
           </seg>
         </u>
         <note xml:id="i-MSxgpcrGjKkEn7rjFG3Pai" type="speaker">
@@ -15548,9 +15559,9 @@
             antaa aihetta takavarikkoon panoon, poistettaisiin, pyydän saada
             kunnioittaen ehdottaa, että tämän pykälän hyväksymisen ehdoksi
             äänestettäessä pantaisiin se ehto, että takavarikkoa koskeva määräys
-            42 &amp;:stä samalla poistetaan. Minun mielestäni on rangaistus tällaisesta
-            pienestä laiminlyönnistä liian suuri, jos siitä voidaan sekä sakoittaa
-            että panna koko painos takavarikkoon.
+            42 &amp;:stä samalla poistetaan. Minun mielestäni on rangaistus
+            tällaisesta pienestä laiminlyönnistä liian suuri, jos siitä voidaan
+            sekä sakoittaa että panna koko painos takavarikkoon.
           </seg>
         </u>
         <note xml:id="i-73bsyEd3j8MkrK2UHKZLHf">
@@ -15865,9 +15876,9 @@
             esille, ei ole saanut valiokunnan enemmistön kannatusta, niin
             en minäkään uskalla enkä tahdo tehdä esitystä. tämän pykälän poistamisesta.
             Olen kuitenkin samaa mieltä kuin hra Asnas, että nämä pienet painotuotteet
-            ovat niitä, joita 10 &amp;:ssä tarkoitetaan ja että jos historia niitä
-            tarvitsee, niin pitäköön huolen siitä, että se ne saapi korvausta
-            vastaan tai korvauksetta kirjapainoista, mutta kirjanpainajaa
+            ovat niitä, joita 10 &amp;:ssä tarkoitetaan ja että jos historia
+            niitä tarvitsee, niin pitäköön huolen siitä, että se ne saapi
+            korvausta vastaan tai korvauksetta kirjapainoista, mutta kirjanpainajaa
             ei minun mielestäni pitäisi tehdä sellasoesi historiallisten ainesten
             kokoojaksi, joka sakon uhalla on velviitektu mahdollisesti jokaisen
             ruokalistankin, joka on painettu, jättämääätn yopiston kirjastoon.
@@ -16113,17 +16124,17 @@
         </note>
         <note xml:id="i-96319JD6ofSc7hhXfQ2QBQ">
           Myöskin tähän esitykseen vastattaessa oli jaa voitolla, ja sääty
-          oli siis päättänyt palauttaa 13 &amp;:n muodostettavaksi siten, että
-          myös yksi kappale n. k. pieniä painotuotteita oli kirjapainosta
+          oli siis päättänyt palauttaa 13 &amp;:n muodostettavaksi siten,
+          että myös yksi kappale n. k. pieniä painotuotteita oli kirjapainosta
           toimitettava yliopiston kirjastolle.
         </note>
         <note xml:id="i-VYYJqwXjCRYnqoE3Ci1iiU">
           14 ja 15 $$ hyväksyttiin keskustelutta. 16 S:n johdosta lausui
         </note>
         <note xml:id="i-6k6bv574u5squeoHge4dob">
-          hra Kurkela: Valiokunta on muodostanut 16 &amp;:n ensimäisen momentin
-          semmoiseksi, että kirjakaupittelija on tullut erilaiseen asemaan
-          kuin muu kulkukauppias. Minun mielestäni eivät nämä kirjakaupittelijat
+          hra Kurkela: Valiokunta on muodostanut 16 &amp;:n ensimäisen
+          momentin semmoiseksi, että kirjakaupittelija on tullut erilaiseen
+          asemaan kuin muu kulkukauppias. Minun mielestäni eivät nämä kirjakaupittelijat
           ole ensinkään toisenlaista väkeä kuin muut kulkukauppiaat, joten
           tarvitsisi asettaa niille erilaista asemaa. Molemmissa. niistä
           on sekä hyviä että huonoja. Jos nyt jonakin aikana hämärissä tarkoituksissa
@@ -16140,9 +16151,9 @@
         </note>
         <u who="unknown">
           <seg>
-            1I enlighet med bestämningen i &amp; 15, att enhvar välfräjdad person
-            är berättigad att idka bokhandelsrörelse, anser jag, att en liknande
-            rättighet bör tillerkännas äfven
+            1I enlighet med bestämningen i &amp; 15, att enhvar välfräjdad
+            person är berättigad att idka bokhandelsrörelse, anser jag, att
+            en liknande rättighet bör tillerkännas äfven
           </seg>
         </u>
         <pb facs="https://swerik-project.github.io/valtiopaivat-records-pdf/1905-1906/ptk_1905-1906_porvaristo_II/ptk_1905-1906_porvaristo_II-0271"/>
@@ -16162,17 +16173,17 @@
           <seg>
             De förändringar, som af ståndet vid denna landtdag vidtagits
             genom antagandet af nådiga propositionen n:o 10 angående ändring
-            i 10 &amp; näringslagen, afsägo främst att tillgodose fordran pä,
-            att utländingar, främst af rysk nationalitet, skulle kunna lagligt
-            bedrifva den handel, som de redan under århundraden olagligt bedrifvit
-            i landet, d. v. s. att man slutligen skulle legalisera gärdfarihandeln.
-            Men de omständigheter, som värkat för antagandet af sistnämda
-            lagförslag, finnas icke här. Utskottet har i motiveringen till
-            16 $ anfört, hvarför det ansett, att bestämningen i 10 $ näringslagen
-            icke skulle tillämpas pä sådan handel, som i 16 8 i detta lagförslag
-            omnämnes. Jag anser, att dessa skäl äro hållbara, och vill för
-            den skull yrka pä, att 16 $ skulle bibehällas i den stilisering
-            utskottet gifvit densamma.
+            i 10 &amp; näringslagen, afsägo främst att tillgodose fordran
+            pä, att utländingar, främst af rysk nationalitet, skulle kunna
+            lagligt bedrifva den handel, som de redan under århundraden olagligt
+            bedrifvit i landet, d. v. s. att man slutligen skulle legalisera
+            gärdfarihandeln. Men de omständigheter, som värkat för antagandet
+            af sistnämda lagförslag, finnas icke här. Utskottet har i motiveringen
+            till 16 $ anfört, hvarför det ansett, att bestämningen i 10 $
+            näringslagen icke skulle tillämpas pä sådan handel, som i 16 8
+            i detta lagförslag omnämnes. Jag anser, att dessa skäl äro hållbara,
+            och vill för den skull yrka pä, att 16 $ skulle bibehällas i den
+            stilisering utskottet gifvit densamma.
           </seg>
         </u>
         <note xml:id="i-LWrwVHvupJU5k5iHzoUFuf" type="speaker">
@@ -16225,16 +16236,16 @@
         </note>
         <note xml:id="i-3cTXPzD6iC5DYWMzcT1UnZ">
           ning af tryckskrifter idkas nämligen i ganska stor skala af ryska
-          gärdfarihandlande. Ty enligt &amp; 2 förstås ju med tryckskrift äfven
-          bildliga framställningar. Hvar och en, som besökt allmogens stugor
-          öfverallt i värt land, skall hafva funnit, att flertalet af de
-          bilder, som pryda (eller misspryda) väggarna, kommit dit genom
-          förmedling af ryska gärdfarihandlande, och en handel med sädana
-          kommer helt säkert att äfven framdeles idkas. Jag vill därför
-          understöda hr Kurkelas förslag, att paragrafen skulle äterremitteras
-          för att undergå sådan omändring i konformitet med &amp; 5, att kolportörsvärksamhet
-          skulle fä bedritvas pä i förordningen om gärdfarihandeln angifna
-          villkor.
+          gärdfarihandlande. Ty enligt &amp; 2 förstås ju med tryckskrift
+          äfven bildliga framställningar. Hvar och en, som besökt allmogens
+          stugor öfverallt i värt land, skall hafva funnit, att flertalet
+          af de bilder, som pryda (eller misspryda) väggarna, kommit dit
+          genom förmedling af ryska gärdfarihandlande, och en handel med
+          sädana kommer helt säkert att äfven framdeles idkas. Jag vill
+          därför understöda hr Kurkelas förslag, att paragrafen skulle äterremitteras
+          för att undergå sådan omändring i konformitet med &amp; 5, att
+          kolportörsvärksamhet skulle fä bedritvas pä i förordningen om
+          gärdfarihandeln angifna villkor.
         </note>
         <note xml:id="i-W3oh2ixsgd3B9Dq2hTkaJt">
           Hra Castr6n, Kaarlo: Minusta nähden ei painokirjoituksien kauppaileminen
@@ -16354,9 +16365,9 @@
         <note xml:id="i-TZDbDWMRcYT5JVAxQvKzS9">
           hra Kurkela: Esilläolevassa pykälässä on viitattu 9 S:ään, mutta
           siellä ei ole mitään puhetta kustantajasta eikä päätoimi jasta.
-          Minusta tämä viittaus asianmukaisesti tarkoittanee 19 &amp; Ei se
-          aivan mukavasti siihenkään sovellu, mutta jos tämä viittaus johonkin
-          pykälään soveltuu, niin tarkoittanee se 19 $:ää.
+          Minusta tämä viittaus asianmukaisesti tarkoittanee 19 &amp; Ei
+          se aivan mukavasti siihenkään sovellu, mutta jos tämä viittaus
+          johonkin pykälään soveltuu, niin tarkoittanee se 19 $:ää.
         </note>
         <note xml:id="i-SXq1RDiSPh2QKBTKXGuuoS" type="speaker">
           Hra Walldén:
@@ -16393,16 +16404,16 @@
             för periodisk skrift, som underlätit att, dä han för någon tid
             är hindrad att fullgöra sitt äliggande, ställa annan kompetent
             person för sig under tiden och därom göra sädan anmälan, som i
-            7 &amp; säges, han är ansvarig för tidningen eller tidskriften. Jag
-            vet icke, huru man skulle vidare behöfva förtydliga 20 8.
+            7 &amp; säges, han är ansvarig för tidningen eller tidskriften.
+            Jag vet icke, huru man skulle vidare behöfva förtydliga 20 8.
           </seg>
         </u>
         <note xml:id="i-MXwdPREoUtLVfbTetwShH3">
           Hra Walld6n: Huomautettu epäselvyys on johtunut siitä, että 9
-          &amp;:stä on jätetty pois toinen momentti, jossa oli selvemmin sanottu
-          ilmoitusvelvollisuudesta. Näin ollen kannattaisiu ehdotusta, että
-          valiokunnalle annettaisiin toimeksi jollain tavoin selventää tätä
-          kohtaa.
+          &amp;:stä on jätetty pois toinen momentti, jossa oli selvemmin
+          sanottu ilmoitusvelvollisuudesta. Näin ollen kannattaisiu ehdotusta,
+          että valiokunnalle annettaisiin toimeksi jollain tavoin selventää
+          tätä kohtaa.
         </note>
         <note xml:id="i-GpeD5KnurxsfiN2yBDihxD" type="speaker">
           Hra Reijonen:
@@ -16419,8 +16430,8 @@
         </note>
         <note xml:id="i-RjZeFb4KViqCHsCLVHvVCz">
           asiaa voitaisi korjata siten, että sanottaisiin: »Niinkuin 9
-          &amp;:ssä on kirjapainon haltijasta sanottu.» Joka tapauksessa asia
-          vaatinee palauttamista valiokuntaan.
+          &amp;:ssä on kirjapainon haltijasta sanottu.» Joka tapauksessa
+          asia vaatinee palauttamista valiokuntaan.
         </note>
         <note xml:id="i-SdLbMinThCeQ9dLwZVqnxh">
           Sittenkuin keskustelu oli päättynyt, tapahtui äänestys seuraavan
@@ -16618,8 +16629,8 @@
           Tämän johdosta pyydän saada ehdottaa, että pykälä palautettaisiin
           takaisin valiokuntaan muodostettavaksi yhtäpitäväksi 5 8:n kanssa,
           siis siten, että myöskin ulkomaalaisille myönnettäisiin oikeus
-          samoilla ehdoilla, kuin 5 &amp;:ssä mainitaan, olla tämmöisten painokirjoitusten
-          päätoimittajana.
+          samoilla ehdoilla, kuin 5 &amp;:ssä mainitaan, olla tämmöisten
+          painokirjoitusten päätoimittajana.
         </note>
         <note xml:id="i-B4BqbPbo5ChKpgXkroRvzU">
           Hra Heikel, Teodor: Dä det var den anmärkning som hr Lojander
@@ -16724,9 +16735,9 @@
           Men om paragrafen erhäller den lydelse, som nu föreslagits, har
           man att befara, att domstolarna komme att anse sig skyldiga att
           i de fall, som i paragrafen beröras, alltid förelägga den tredskande
-          vite. Jag föreslär därför, att 23 &amp; mätte till lagutskottet äterremitteras
-          för att lagutskottet mätte bringa paragrafen i öfverensstämmelse
-          med utsökningslagen och gällande praxis.
+          vite. Jag föreslär därför, att 23 &amp; mätte till lagutskottet
+          äterremitteras för att lagutskottet mätte bringa paragrafen i
+          öfverensstämmelse med utsökningslagen och gällande praxis.
         </note>
         <note xml:id="i-P4ZJeZykR47LrsMp3JoqG1" type="speaker">
           Hra Söderholm:
@@ -16994,9 +17005,9 @@
         <u who="unknown">
           <seg>
             Med anledning af ständets beslut beträffande sista meningen af
-            &amp; 23 torde jämväl sista delen af andra momentet utaf denna paragraf
-            böra äterremitteras till lagutskottet i samma syfte, som vid 23
-            &amp; framhållits.
+            &amp; 23 torde jämväl sista delen af andra momentet utaf denna
+            paragraf böra äterremitteras till lagutskottet i samma syfte,
+            som vid 23 &amp; framhållits.
           </seg>
         </u>
         <note xml:id="i-VVMVMVEVmu4LU1dMREDHjS">
@@ -17226,10 +17237,10 @@
           Kuitenkin pitäisi pykälän olla sellaisen, että sääntönä määrättäisiin,
           että virastojen asiakirjoja on saatava julkaista, ja ainoastaan
           poikkeuksena määrätään, missä tapauksessa niitä ei saa julkaista.
-          Ehdotukseni olisi siis, että 25 &amp; alkaisi johonkin määrin seuraavalla
-          tavalla: » Kaikkien virastojen asiakirjoja saatakoon vapaasti
-          julkaista, mutta ilman asianomaista lupaa älköön julkaistako niitä
-          senaatin, valtiosihteerinviraston j. n. e.» Tämä formuleeraus
+          Ehdotukseni olisi siis, että 25 &amp; alkaisi johonkin määrin
+          seuraavalla tavalla: » Kaikkien virastojen asiakirjoja saatakoon
+          vapaasti julkaista, mutta ilman asianomaista lupaa älköön julkaistako
+          niitä senaatin, valtiosihteerinviraston j. n. e.» Tämä formuleeraus
           ei ole lopullinen. Ehdottaisin, että pykälä palautettaisiin valiokuntaan
           muodostettavaksi siihen suuntaan, kuin olen ehdottanut.
         </note>
@@ -17602,21 +17613,21 @@
           sen, älköönkä jokaista kansalaista velvoitettako olemaan julkaisematta
           puheenalaisia virallisia asiakirjoja, jos ne kerran ovat hänen
           tietoonsa tulleet. Tosin tämä periaate ei, kuten jo on huomautettu,
-          tule toteutetuksi poistamalla 25 &amp; koska jäisi voimaan 10 &amp; kirjallista
-          omistusoikeutta koskevassa asetuksessa ja tämä 10 8 edellyttää
-          erityisiä määräyksiä, joita hallinnollista tietä voidaan antaa.
-          Näin ollen mainitsemani periaatteen toteuttaminen vaatisi sitä
-          vastaavan pykälän tässä. Mutta puolestani luulisin, ja yleisessä
-          keskustelussa on jo siitä huomautettu, ettemme voi täällä jokaista
-          hyväksymäämme periaatetta totenttaa, vaan meidän täytyy ajatella,
-          mitä mahdollisuutta asetuksen hyväksymisellä on, ja siinä suhteessa
-          on huomioni kiintynyt siihen, että sen jälkeen, kuin senaatin
-          ehdotus oli valmistettu, on tähän pykälään tullut yksi momentti
-          lisää esitysehdotusta Pietarissa hyväksyttäessä. Tämä momentti
-          koskee keisarikunnan julkisen viranomaisen käyteltävään asiaan
-          kuuluvia asiakirjoja ja tämä lisäys viittaa minusta siihen, että
-          meidän nyt täytyy hyväksyä se kanta, jonka tämä pykälä tuopi esiin,
-          emmekä voi asettua vastalausujan kannalle. Se on tämä seikka,
+          tule toteutetuksi poistamalla 25 &amp; koska jäisi voimaan 10
+          &amp; kirjallista omistusoikeutta koskevassa asetuksessa ja tämä
+          10 8 edellyttää erityisiä määräyksiä, joita hallinnollista tietä
+          voidaan antaa. Näin ollen mainitsemani periaatteen toteuttaminen
+          vaatisi sitä vastaavan pykälän tässä. Mutta puolestani luulisin,
+          ja yleisessä keskustelussa on jo siitä huomautettu, ettemme voi
+          täällä jokaista hyväksymäämme periaatetta totenttaa, vaan meidän
+          täytyy ajatella, mitä mahdollisuutta asetuksen hyväksymisellä
+          on, ja siinä suhteessa on huomioni kiintynyt siihen, että sen
+          jälkeen, kuin senaatin ehdotus oli valmistettu, on tähän pykälään
+          tullut yksi momentti lisää esitysehdotusta Pietarissa hyväksyttäessä.
+          Tämä momentti koskee keisarikunnan julkisen viranomaisen käyteltävään
+          asiaan kuuluvia asiakirjoja ja tämä lisäys viittaa minusta siihen,
+          että meidän nyt täytyy hyväksyä se kanta, jonka tämä pykälä tuopi
+          esiin, emmekä voi asettua vastalausujan kannalle. Se on tämä seikka,
           joka saattaa minut puolestani äänestämään pykälän hyväksymistä.
           Mitä tätä kantaa vastaan on tuotu esiin siinä suhteessa, että
           pykälä auttaisi viranomaisia pitämään asioita, varsinkin Keisari-
@@ -17688,14 +17699,14 @@
             och äfven lagutskottet har i sin motivering på sida 36 uttalat:
             »Tillstånd till utgifvande i tryck af här åsyftade handlingar
             bör därför utvärkas, först då deras hemlighållande är genom allmänna
-            eller för särskilda fall med gällande föreskrift påbjudet.&gt; Jag
-            tillåter mig föreslå återremiss af paragrafen i det syfte, att
-            frågavarande mellanmening blefve omformulerad i enlighet med ordalagen
-            i lagutskottets motivering, hvarigenom mellanmeningen komme att
-            lyda »såvidt de enligt allmänna eller för särskildt fall meddelade
-            föreskrifter böra hållas hemliga». I öfrigt ansluter jag mig till
-            dem, som yrkat, att tidsbestämningen 50 år måtte förändras till
-            25 år.
+            eller för särskilda fall med gällande föreskrift påbjudet.&gt;
+            Jag tillåter mig föreslå återremiss af paragrafen i det syfte,
+            att frågavarande mellanmening blefve omformulerad i enlighet med
+            ordalagen i lagutskottets motivering, hvarigenom mellanmeningen
+            komme att lyda »såvidt de enligt allmänna eller för särskildt
+            fall meddelade föreskrifter böra hållas hemliga». I öfrigt ansluter
+            jag mig till dem, som yrkat, att tidsbestämningen 50 år måtte
+            förändras till 25 år.
           </seg>
         </u>
         <note xml:id="i-5RE8yPpPBuMyWckLTCKiV9">
@@ -17887,26 +17898,27 @@
           jos 42 $:ää tahdottaisiin seurata verrattuna 26 $:ään, täytyisi
           siinä olla sanottuna, että kansaneduskunnan keskustelujen pöytäkirjoja
           saa julaista paitsi niiden, jotka ovat pidetty suljettujen ovien
-          takana. Silloin voisi käsittää myöskin 42 &amp;:n säädöksen. Vai olisiko
-          tämä seikka mahdollisesti johtunut siitä, että 26 S:stä on jätetty
-          pois armollisessä esityksessä oleva viimeinen lause: »kuitenkin
-          noudattaen sitä varten vahvistettuja säännöksiä». Muuten en käsitä,
-          mistä syystä 42 S:ssä viitataan 26 S:ään, ellei samalla huomauteta,
-          että se tarkoittaa sellaisia istuntoja, jotka on pidetty suljettujen
-          ovien takana ja joiden pöytäkirjoja siis ei luvatta saa julaista.
+          takana. Silloin voisi käsittää myöskin 42 &amp;:n säädöksen. Vai
+          olisiko tämä seikka mahdollisesti johtunut siitä, että 26 S:stä
+          on jätetty pois armollisessä esityksessä oleva viimeinen lause:
+          »kuitenkin noudattaen sitä varten vahvistettuja säännöksiä». Muuten
+          en käsitä, mistä syystä 42 S:ssä viitataan 26 S:ään, ellei samalla
+          huomauteta, että se tarkoittaa sellaisia istuntoja, jotka on pidetty
+          suljettujen ovien takana ja joiden pöytäkirjoja siis ei luvatta
+          saa julaista.
         </note>
         <note xml:id="i-LsAEagB52dfhLcr95Yiixd" type="speaker">
           Hra Söderholm:
         </note>
         <u who="unknown">
           <seg>
-            En jämförelse mellan 26 8, 29 $ 2 mom. och 42 &amp; synes mig otvifvelaktigt
-            gifva vid handen, att 42 $ hänför sig till det fall, att protokoll
-            vid landtdagarnas icke offentliga förhandlingar utan tillständ
-            utgifvits i tryck. Jag kan icke förstä, huru man kan läsa dessa
-            paragrafer annorlunda, än att endast i detta fall kvarstad kan
-            komma i fråga. Enligt min tanke borde säledes icke nägot förtydligande
-            erfordras.
+            En jämförelse mellan 26 8, 29 $ 2 mom. och 42 &amp; synes mig
+            otvifvelaktigt gifva vid handen, att 42 $ hänför sig till det
+            fall, att protokoll vid landtdagarnas icke offentliga förhandlingar
+            utan tillständ utgifvits i tryck. Jag kan icke förstä, huru man
+            kan läsa dessa paragrafer annorlunda, än att endast i detta fall
+            kvarstad kan komma i fråga. Enligt min tanke borde säledes icke
+            nägot förtydligande erfordras.
           </seg>
         </u>
         <note xml:id="i-M9B9pGAkVCy9jSuEvh59mG" type="speaker">
@@ -17946,8 +17958,8 @@
             finnes uttalad i $ 26. 29$ innehäller endast straffpäföljden för
             öfverträdelse af denna föreskrift. Men om det därför är nödigt
             att i de paragrafer, som tala om kvarstad, hänvisa till detta
-            stadgande, sä skall det vara till hufvudstadgandet i 26 &amp; och
-            icke till 29 $.
+            stadgande, sä skall det vara till hufvudstadgandet i 26 &amp;
+            och icke till 29 $.
           </seg>
         </u>
         <note xml:id="i-8vWkJmWiPczCw8REgjVu7X" type="speaker">
@@ -17976,8 +17988,8 @@
             säledes icke kan pä nägot sätt päkalla en ändring af ordalydelsen
             i 42 8. I öfrigt är jag fullkomligt ense med hr Söderholm därom,
             att det ingäende generella stadgandet i 26 $ är det, som skall
-            ligga till grund för uttalandet i 42 &amp; angäende päföljden för
-            publicering i tryckskrift af förhandlingar, som inom landtdag
+            ligga till grund för uttalandet i 42 &amp; angäende päföljden
+            för publicering i tryckskrift af förhandlingar, som inom landtdag
             ske inom slutna dörrar.
           </seg>
         </u>
@@ -17987,14 +17999,14 @@
         <u who="unknown">
           <seg>
             I likhet med hr Brofeldt mäste jag hälla före, att en inadvertens
-            föreligger frän lagutskottets sida därutinnan, att i &amp; 26 icke
-            införts bestämning därom, ått offentliggörandet af landtdagsförhandlingar
+            föreligger frän lagutskottets sida därutinnan, att i &amp; 26
+            icke införts bestämning därom, ått offentliggörandet af landtdagsförhandlingar
             inom slutna dörrar icke är medgifvet. Men däremot är jag i likhet
             med hr Söderholm ense om, att rättelse icke kan ske genom att
-            åberopa 2 mom. af 29 &amp;, utan bör detta ske genom att i $ 26 införa
-            den saknade bestämningen. Jag ber därför, att paragrafen måtte
-            återremitteras till utskottet för att rättas i det syfte hr Brofeldt
-            föreslagit.
+            åberopa 2 mom. af 29 &amp;, utan bör detta ske genom att i $ 26
+            införa den saknade bestämningen. Jag ber därför, att paragrafen
+            måtte återremitteras till utskottet för att rättas i det syfte
+            hr Brofeldt föreslagit.
           </seg>
         </u>
         <note xml:id="i-7f7ds2fQGKJuHBh9o9nkjt" type="speaker">
@@ -18103,9 +18115,9 @@
         </note>
         <note xml:id="i-KKimwzvXEC2U63UFmUAbWr">
           Esitykseen vastattaessa oli ei voitolla, ja sääty oli siis päättänyt
-          palauttaa 26 &amp;:n, jotta siihen otettaisiin määräys siitä, että
-          kansaneduskunnan keskusteluja, jotka on pidetty suljetuin ovin,
-          ei saisi julkaista saamatta siihen lupaa.
+          palauttaa 26 &amp;:n, jotta siihen otettaisiin määräys siitä,
+          että kansaneduskunnan keskusteluja, jotka on pidetty suljetuin
+          ovin, ei saisi julkaista saamatta siihen lupaa.
         </note>
         <note xml:id="i-TJJ8jesDJm3hhFDUT49vca">
           27 8 hyväksyttiin keskustelutta. 28 &amp;:n johdosta lausui :
@@ -18117,10 +18129,10 @@
           mietintöä vastaan, joihin katson syytä olevan.
         </note>
         <note xml:id="i-Xj9u6DLzqqsDkbk4MsxESY">
-          28 &amp;n ensimäisen momi:in lopussa sanotaan, että »jutuissa, jotka
-          ehdottomasti ovat käsiteltävät suljettujen ovien takana, olkoon
-          oikeudenkäyntikeskustelujen julkaiseminen kiellettys. Kun nyt
-          ajatellaan, että tämä säännös tarkoittaa sitä, ettei sellaisia
+          28 &amp;n ensimäisen momi:in lopussa sanotaan, että »jutuissa,
+          jotka ehdottomasti ovat käsiteltävät suljettujen ovien takana,
+          olkoon oikeudenkäyntikeskustelujen julkaiseminen kiellettys. Kun
+          nyt ajatellaan, että tämä säännös tarkoittaa sitä, ettei sellaisia
           asianhaaroja, jotka kenties törkeyteensä nähden tuottaisivat pahennusta,
           pitäisi saada julkaista, niin seuraa siitä, että niissä tapauksissa,
           joissa asianlaita ei ole sellainen, asiakirjat pitäisi saada julkaista.
@@ -18747,11 +18759,11 @@
           beträffande tryckskrift hänföra sig icke till innehället utan
           dels till dess tillkomst och dels till skyldigheten att afgifva
           pliktexemplar och dylikt. Jag skulle därför föreslä, att denna
-          mening i motiveringen blefve affattad sålunda: »Enligt 43 &amp; är
-          åklagare berättigad att med kvarstad belägga tryckskrift ej allenast
-          i det fall, att vid dess utgifvande särskildt i denna lag stadgade
-          ordningsföreskrifter ej iakttagits, utan ock om äklagare finner
-          skriftens innehäll vara enligt allmän lag förgripligt.»
+          mening i motiveringen blefve affattad sålunda: »Enligt 43 &amp;
+          är åklagare berättigad att med kvarstad belägga tryckskrift ej
+          allenast i det fall, att vid dess utgifvande särskildt i denna
+          lag stadgade ordningsföreskrifter ej iakttagits, utan ock om äklagare
+          finner skriftens innehäll vara enligt allmän lag förgripligt.»
         </note>
         <note xml:id="i-5VD8awV46gU6JfuYikgGZj">
           Keskustelu julistettiin päättyneeksi, minkä jälkeen porvarissääty
@@ -18921,8 +18933,8 @@
         </note>
         <note xml:id="i-A52eVBTc89pgdGUqRhRVTB">
           Kun esitykseen vastattaessa ei oli voitolla, oli porvarissääty
-          päättänyt palauttaa 50 &amp;:n, jotta siihen otettaisiin määräys siitä,
-          54
+          päättänyt palauttaa 50 &amp;:n, jotta siihen otettaisiin määräys
+          siitä, 54
         </note>
         <pb facs="https://swerik-project.github.io/valtiopaivat-records-pdf/1905-1906/ptk_1905-1906_porvaristo_II/ptk_1905-1906_porvaristo_II-0314"/>
         <note xml:id="i-WcPZWvXDwRrYpzMwahrijQ">
@@ -19258,9 +19270,9 @@
         <u who="unknown">
           <seg>
             För min del delar jag icke de betänkligheter, som hr Björkstén
-            har anfört beträffande intagandet af dessa $&amp; 24 och 25. De synas
-            mig tillräckligt tydligt affattade för att deras innebörd skall
-            vara klar. Men dessutom gifves det ett annat skäl för borgareståndet
+            har anfört beträffande intagandet af dessa $&amp; 24 och 25. De
+            synas mig tillräckligt tydligt affattade för att deras innebörd
+            skall vara klar. Men dessutom gifves det ett annat skäl för borgareståndet
             att icke vägra godkännande af detta lagförslag och det är det,
             som jag vid en tidigare paragraf anfört, nämligen att antagandet
             af dessa paragrafer enligt min tanke sammanhänger så nära med
@@ -19301,9 +19313,9 @@
           befolkning emot hvarandra. Bevarandet af den allmänna friden utgör
           ett sä nödvändigt villkor för en lugn samhällsutveckling, att
           hvarje handling, hvarigenom densamma störes, måste kunna behörigen
-          beifras.&gt; Och på grund häraf har denna betydande minoritet påyrkat,
-          att i 8 24 skulle införas en bestämning, motsvarande det af dem
-          framhållna yrkandet. Enär bristen på en dylik ansvarsbestämning
+          beifras.&gt; Och på grund häraf har denna betydande minoritet
+          påyrkat, att i 8 24 skulle införas en bestämning, motsvarande
+          det af dem framhållna yrkandet. Enär bristen på en dylik ansvarsbestämning
           kunde hafva en ytterst skadlig invärkan på samhällsförhållandena,
           måste jag för min del förena mig om denna af minoriteten uttalade
           uppfattning. En dylik upphetsning, särskildt om den sker genom
@@ -19651,19 +19663,20 @@
           <seg>
             Hr Söderholm yttrade under den allmänna diskussionen, att med
             antagandet af detta lagförslag och i all synnerhet af dess 25
-            &amp; pä det närmaste hela tryckfrihetslagens öde var förbundet. Det
-            var också anledningen, hvarför jag för min del röstade för förslaget.
-            Sedan kejserliga senaten en gäng tagit upp en paragraf sädan som
-            den 25 angäende skydd för ämbetsvärken i kejsaredömet mot sanningslösa
-            beskyllningar i den finska pressen, sä kunde det utan tvifvel
-            äfventyra förslaget, om denna paragraf blefve af landtdagen förkastad.
-            Men däremot kan jag omöjligen förstä, att uteslutningen af bestämningarna
-            om uttalanden, som kunde framkalla missämja mellan de olika nationaliteterna,
-            skulle hafva en sådan påföljd, och dä vi icke antagit det enahanda
-            förslag, som gjordes beträffande 24 &amp;, sä blir det nästan omöjligt
-            att antaga det ifråga om 8 25. Man kan vara af olika meningar,
-            när det gäller att tänka ut hvad som kan vara ödesdigert för förslaget,
-            hvad icke, men jag tror värkligen icke
+            &amp; pä det närmaste hela tryckfrihetslagens öde var förbundet.
+            Det var också anledningen, hvarför jag för min del röstade för
+            förslaget. Sedan kejserliga senaten en gäng tagit upp en paragraf
+            sädan som den 25 angäende skydd för ämbetsvärken i kejsaredömet
+            mot sanningslösa beskyllningar i den finska pressen, sä kunde
+            det utan tvifvel äfventyra förslaget, om denna paragraf blefve
+            af landtdagen förkastad. Men däremot kan jag omöjligen förstä,
+            att uteslutningen af bestämningarna om uttalanden, som kunde framkalla
+            missämja mellan de olika nationaliteterna, skulle hafva en sådan
+            påföljd, och dä vi icke antagit det enahanda förslag, som gjordes
+            beträffande 24 &amp;, sä blir det nästan omöjligt att antaga det
+            ifråga om 8 25. Man kan vara af olika meningar, när det gäller
+            att tänka ut hvad som kan vara ödesdigert för förslaget, hvad
+            icke, men jag tror värkligen icke
           </seg>
         </u>
         <pb facs="https://swerik-project.github.io/valtiopaivat-records-pdf/1905-1906/ptk_1905-1906_porvaristo_II/ptk_1905-1906_porvaristo_II-0325"/>
@@ -19818,8 +19831,8 @@
           joka koskee painovapauslakia.
         </note>
         <note xml:id="i-RfQ7TnYE5UBz3dPYJGXcQA">
-          Valiokunnan lausunto 7 &amp;:stä ei antanut aihetta mihinkään toimenpiteeseen
-          porvarissäädyn puolelta.
+          Valiokunnan lausunto 7 &amp;:stä ei antanut aihetta mihinkään
+          toimenpiteeseen porvarissäädyn puolelta.
         </note>
         <note xml:id="i-27uAwvVCXhDjtvRsm3FZY2">
           Valiokunnan 12 &amp;:ää koskeva ehdotus hyväksyttiin, minkä jälkeen
@@ -19836,25 +19849,26 @@
           17 p. heinäk. Painovapauslaki. 865
         </note>
         <note xml:id="i-6EVXjiSrvVz4uTnF1xUPwz">
-          rikoslakiin ehdotettujen lisäysten 24 ja 25 &amp;:n johdosta on huomattava,
-          että valiokunta on astunut jotenkin oudolle kannalle yhteensovitusta
-          tehdessään. Näissä kaikissa pykälissä on nimittäin seikkoja, joista
-          on olemassa kahden säädyn yhtäpitävä päätös, joka päätös myöskin
-          on yhtäpitävä esityksen kanssa, mutta siitä huolimatta on valiokunta
-          tehnyt oman mielensä mukaiset ehdotukset, hylkäämällä sekä esityksen
-          että kahden säädyn päätöksen, vieläpä erään pykälän, nimittäin
-          24 &amp;:n, suhteen omankin alkuperäisen ehdotuksensa. Mitä tulee
-          nimenomaan 13 &amp;ään, niin siinä ehdottaa esitys poikkeuksen pienten
-          painotuotteiden suhteen. Tätä samaa poikkeusta on myöskin valiokunta
-          omassa alkuperäisessä mietinnössään puoltanut ja sitä on myöskin
-          kannattanut kaksi säätyä, mutta siitä huolimatta asettuu valiokunta
-          nyt toiselle kannalle, koska muka puheenalainen muutos olisi omiaan
-          edistämään kulttuurihistoriallisia tarpeita. Sanottakoon kysymyksessäolevasta
-          asiasta mitä tahansa, on yhteensovituksen perusta ehdottomasti
-          väärä, ja pyytäisin senvuoksi, että sääty lausuisi ei voivansa
-          perustaa hyväksyä. Asia on niin, että yhteensovitus on oikeastaan
-          porvarissäädyn päätöksen kannattamista, mutta se seikka tietysti
-          ei saa estää meitä tunnustamasta perustetta, joka on oikea.
+          rikoslakiin ehdotettujen lisäysten 24 ja 25 &amp;:n johdosta
+          on huomattava, että valiokunta on astunut jotenkin oudolle kannalle
+          yhteensovitusta tehdessään. Näissä kaikissa pykälissä on nimittäin
+          seikkoja, joista on olemassa kahden säädyn yhtäpitävä päätös,
+          joka päätös myöskin on yhtäpitävä esityksen kanssa, mutta siitä
+          huolimatta on valiokunta tehnyt oman mielensä mukaiset ehdotukset,
+          hylkäämällä sekä esityksen että kahden säädyn päätöksen, vieläpä
+          erään pykälän, nimittäin 24 &amp;:n, suhteen omankin alkuperäisen
+          ehdotuksensa. Mitä tulee nimenomaan 13 &amp;ään, niin siinä ehdottaa
+          esitys poikkeuksen pienten painotuotteiden suhteen. Tätä samaa
+          poikkeusta on myöskin valiokunta omassa alkuperäisessä mietinnössään
+          puoltanut ja sitä on myöskin kannattanut kaksi säätyä, mutta siitä
+          huolimatta asettuu valiokunta nyt toiselle kannalle, koska muka
+          puheenalainen muutos olisi omiaan edistämään kulttuurihistoriallisia
+          tarpeita. Sanottakoon kysymyksessäolevasta asiasta mitä tahansa,
+          on yhteensovituksen perusta ehdottomasti väärä, ja pyytäisin senvuoksi,
+          että sääty lausuisi ei voivansa perustaa hyväksyä. Asia on niin,
+          että yhteensovitus on oikeastaan porvarissäädyn päätöksen kannattamista,
+          mutta se seikka tietysti ei saa estää meitä tunnustamasta perustetta,
+          joka on oikea.
         </note>
         <note xml:id="i-RB2ctzPFe6kc7o1eJT6QeF">
           Hra puhemies ilmoitti, että hänen oli mahdotonta esittää hra
@@ -19947,15 +19961,15 @@
         <note xml:id="i-LRJbDRdgTQpPiT5qMbkp35">
           hra Ohman: Vid sammanjämkningen af de olika besluten vidkommande
           denna paragraf har utskottet förfarit pä enahanda sätt som beträffande
-          &amp; 13 eller således enligt min uppfattning oriktigt. Endast tvänne
-          ständ, nämligen R. o. A. och bondeständet, hafva godkänt betänkandet
-          enligt utskottets formulering. Prästetändet har beslutit, att
-          genmälet skall införas i textafdelningen, och borgareständet har
-          uti p. 3 bland dess anmärkningar yrkat, att denna bestämning skulle
-          affattas i öfverensstämmelse med motsvarande bestämning i den
-          nådiga propositionen. Prästeständets och borgareständets beslut
-          öfverensstämma således med propositionen. Med hänsyn härtill hade
-          det älegat lagutskottet att inbjuda R. o. A. och bondeständet
+          &amp; 13 eller således enligt min uppfattning oriktigt. Endast
+          tvänne ständ, nämligen R. o. A. och bondeständet, hafva godkänt
+          betänkandet enligt utskottets formulering. Prästetändet har beslutit,
+          att genmälet skall införas i textafdelningen, och borgareständet
+          har uti p. 3 bland dess anmärkningar yrkat, att denna bestämning
+          skulle affattas i öfverensstämmelse med motsvarande bestämning
+          i den nådiga propositionen. Prästeständets och borgareständets
+          beslut öfverensstämma således med propositionen. Med hänsyn härtill
+          hade det älegat lagutskottet att inbjuda R. o. A. och bondeständet
           att frängä sina beslut och införa den af prästeständet och borgareständet
           yrkade förändringen uti paragrafen. Jag anser mig därför böra
           föreslä, att borgareständet, med förkastande af sammanjämkningsförslaget,
@@ -20171,10 +20185,10 @@
         </note>
         <note xml:id="i-XnFHzp5yRacgCA9DndPqXg">
           Koska minulla on puheenvuoro, pyydän vielä mainita, että yhteensovitusehdotus-mietinnön
-          24 &amp;:n perusteluissa on painovirhe, kun ensimäisellä rivillä selonteon
-          alussa sanotaan, että ritaristo ja aateli ja porvarissääty ovat
-          hyväksyneet tämän pykälän. Pitää olla: ritaristo ja aateli ja
-          talonpoikaissääty.
+          24 &amp;:n perusteluissa on painovirhe, kun ensimäisellä rivillä
+          selonteon alussa sanotaan, että ritaristo ja aateli ja porvarissääty
+          ovat hyväksyneet tämän pykälän. Pitää olla: ritaristo ja aateli
+          ja talonpoikaissääty.
         </note>
         <note xml:id="i-Kn7QA3DBti9U5PNofMrcwW" type="speaker">
           Hra Lundson:
@@ -20416,10 +20430,10 @@
           tillstånd, och beträffande $ 28 att antaga den lydelse, som föreslagits
           i den nådiga propositionen. Båda paragraferna hafva af alla öfriga
           stånd blifvit godkända. Anteckningen, som finnes under $ 26, omtalar
-          emellertid, att tre stånds beslut föreligger angående &amp; 26, men
-          bör anteckningen också gälla 8 28. Jag skulle därför be om att
-          fä uppläsa den riktiga lydelsen, som anteckningen bör hafva, d.
-          v. s. under 8 26: »Ridderskapet och adeln, präste- och bondeständen
+          emellertid, att tre stånds beslut föreligger angående &amp; 26,
+          men bör anteckningen också gälla 8 28. Jag skulle därför be om
+          att fä uppläsa den riktiga lydelsen, som anteckningen bör hafva,
+          d. v. s. under 8 26: »Ridderskapet och adeln, präste- och bondeständen
           hafva antagit paragrafen oförändrad, borgareständet har äterremitterat
           paragrafen för införande i stadgandet därom, att landtdagsförhandlingar,
           dä de ega rum inför slutna dörrar, icke fä offentliggöras utan
@@ -21276,8 +21290,8 @@
           888 * Painovapauslaki. N 3 p. elok.
         </note>
         <note xml:id="i-T6Qi6M7yeDydwjSi1sKMV3">
-          Hrain Töttermanin ja Björkst&amp;nin pyyntöön saada olla poissa huomispäivän
-          täysi-istunnosta sääty suostui.
+          Hrain Töttermanin ja Björkst&amp;nin pyyntöön saada olla poissa
+          huomispäivän täysi-istunnosta sääty suostui.
         </note>
         <note xml:id="i-63NhrCdcuytanaxYMWwgVA">
           Hra puhemies ilmoitti, että ensi täysi-istunto on huomenna kilo
@@ -21750,8 +21764,8 @@
           <seg>
             Fjärde momentet i 7 &amp; lyder: »Rätten är domför, om tolf däri
             sitta. Är ordföranden af laga orsak hindrad att närvara, företräde
-            den främsta närvarande ledamoten dess ställe.&gt; Här har ordet »dess»
-            kommit in, hvilket icke finnes i propositionen. I propositionen
+            den främsta närvarande ledamoten dess ställe.&gt; Här har ordet
+            »dess» kommit in, hvilket icke finnes i propositionen. I propositionen
             heter det »företräde hans ställe» o. s. v. För min del kan jag
             icke finna, att detta var en törbättring. Ordet dess» hade dessutom
             bort vara kursiveradt i betänkandet. Jag skulle därför föreslä,
@@ -21797,9 +21811,9 @@
             Pyydän ehdottaa, että tehdyt kielelliset huomautukset lykättäisiin
             toimitusvaliokuntaan sitä huomioonottamista varten, jonka ne mahdollisesti
             ansaitsevat. Samassa pyytäisin samalle valiokunnalle huomauttaa
-            jo ohi luisuneesta 3 &amp;:stä, jossa valiokunnan muodostuksessa ehdottomasti
-            on olemassa kielivirhe, joka ehkä myös toimitusvaliokunnassa voidaan
-            saada korjatuksi.
+            jo ohi luisuneesta 3 &amp;:stä, jossa valiokunnan muodostuksessa
+            ehdottomasti on olemassa kielivirhe, joka ehkä myös toimitusvaliokunnassa
+            voidaan saada korjatuksi.
           </seg>
         </u>
         <note xml:id="i-7TeEhsMRb3s9swXRHsouzP" type="speaker">
@@ -21930,8 +21944,8 @@
         </note>
         <note xml:id="i-AMyvXgMyFKU953DtHUXcKM">
           Esitykseen vastattaessa oli ei voitolla, ja sääty oli siis päättänyt
-          7 &amp;n 5 mom:sta ruotsalaisessa tekstissä poistaa sanan »en» viimeisellä
-          rivillä.
+          7 &amp;n 5 mom:sta ruotsalaisessa tekstissä poistaa sanan »en»
+          viimeisellä rivillä.
         </note>
         <note xml:id="i-P2h9Wx81J91iyne2KvadZU">
           8 S:ää esiteltäessä pyysi
@@ -22836,10 +22850,10 @@
           fråntagas och således är själffallen. Men i detta sammanhang,
           där det stadgas, att polisen är berättigad att upplösa sammankomst,
           om dess föreskrifter icke iakttagas, värkar det, såsom jag anförde,
-          som en öfverraskning. Jag skulle därför anse, att &amp; 6 bör bibehållas
-          för att inga missförstånd måtte uppstå. Jag skulle dock föreslå,
-          att $ 6 omformuleras på det sätt, som minoriteten, enligt redogörelsen
-          å sida 28, velat göra.
+          som en öfverraskning. Jag skulle därför anse, att &amp; 6 bör
+          bibehållas för att inga missförstånd måtte uppstå. Jag skulle
+          dock föreslå, att $ 6 omformuleras på det sätt, som minoriteten,
+          enligt redogörelsen å sida 28, velat göra.
         </note>
         <note xml:id="i-8SEJXGEsmSkjAmecRCm2kE">
           Jag anser mig böra upptaga frågan i detta sammanhang, i den allmänna
@@ -22862,8 +22876,8 @@
           <seg>
             Ehuru jag i hufvudsak kan vara ense om det uppfattningssätt,
             som gjorde sig gällande i hr Luomas andragande, är jag dock icke
-            benägen att förena mig om hans förslag, sävidt det angär &amp; 3,
-            nämligen anmälningsskyldigheten. Hufvudsaken i fräga om dessa
+            benägen att förena mig om hans förslag, sävidt det angär &amp;
+            3, nämligen anmälningsskyldigheten. Hufvudsaken i fräga om dessa
             sammankomster är, att den nödiga offentligheten iakttages och
             att särskildt den, som föranstaltar möte, uppgifves, att sälunda
             gentemot allmänheten icke mystifikation eller intriger kunna göra
@@ -23072,12 +23086,13 @@
         <note xml:id="i-2u18WFEew9duTgJJRH9u8U">
           Näistä syistä minä puolestani täydellisesti kannatan lakivaliokunnan
           ehdotusta 3 $:ssä. Mutta siitä muutoksesta, jonka lakivaliokunta
-          on tehnyt 3 &amp;ään eli armollisen esityksen 2 S:ään, seuraa minusta,
-          että myös lakivaliokunnan 4 eli esityksen 3 S joutuu kokonaan
-          tarpeettomaksi. Tässä pykälässä puhutaan, että 3 &amp;:n määräyksiä
-          ei ole sovellutettava sellaisiin kokouksiin, joita valitsijat
-          pitävät keskustellaakseen valtiopäivämies- taikka muista yleisistä
-          vaaleista tahi neuvotellakseen tällaisissa vaaleissa valittu-
+          on tehnyt 3 &amp;ään eli armollisen esityksen 2 S:ään, seuraa
+          minusta, että myös lakivaliokunnan 4 eli esityksen 3 S joutuu
+          kokonaan tarpeettomaksi. Tässä pykälässä puhutaan, että 3 &amp;:n
+          määräyksiä ei ole sovellutettava sellaisiin kokouksiin, joita
+          valitsijat pitävät keskustellaakseen valtiopäivämies- taikka muista
+          yleisistä vaaleista tahi neuvotellakseen tällaisissa vaaleissa
+          valittu-
         </note>
         <pb facs="https://swerik-project.github.io/valtiopaivat-records-pdf/1905-1906/ptk_1905-1906_porvaristo_II/ptk_1905-1906_porvaristo_II-0384"/>
         <note xml:id="i-KJ9wfMKmjbzRKnejm5nHD8">
@@ -23097,15 +23112,15 @@
           tämä on rajoitettu niin vähään määrään, kuin nyt on lakivaliokunnan
           ehdotuksen mukaan tehty, niin mielestäni tämä lakivaliokunnan
           4:s eli esityksen 3 $ on joutunut tarpeettomaksi. Esityksen 7
-          &amp;:stä, joka koskee aseissa saapumista kokoukseen, en tahdo puhua
-          pitkältä. Minä voin nimittäin aivan rauhallisesti ja hyvällä omallatunnolla
-          tässäkin kohden yhtyä lakivaliokunnan ehdotukseen. Luulen, että
-          ne paljot puheet aseitten kalskeesta, joita nyt kuulee, ovat muistoja
-          verrattain tuoreista tapahtumista, jotka vielä vaikuttavat mieliin
-          ja nostavat esiin hirmukuvioita, jommoisia tavallisissa oloissa
-          ei yleensä ole olemassa. Minä luulen, että se punainen peikko
-          on tässäkin pelättävin. Mutta tavallisissa normaalioloissa ei
-          ollenkaan tarvita määräystä siitä, että aseissa ei kokoukseen
+          &amp;:stä, joka koskee aseissa saapumista kokoukseen, en tahdo
+          puhua pitkältä. Minä voin nimittäin aivan rauhallisesti ja hyvällä
+          omallatunnolla tässäkin kohden yhtyä lakivaliokunnan ehdotukseen.
+          Luulen, että ne paljot puheet aseitten kalskeesta, joita nyt kuulee,
+          ovat muistoja verrattain tuoreista tapahtumista, jotka vielä vaikuttavat
+          mieliin ja nostavat esiin hirmukuvioita, jommoisia tavallisissa
+          oloissa ei yleensä ole olemassa. Minä luulen, että se punainen
+          peikko on tässäkin pelättävin. Mutta tavallisissa normaalioloissa
+          ei ollenkaan tarvita määräystä siitä, että aseissa ei kokoukseen
           saa tulla. Jos taas aika ei ole normaali, jos se on saranoiltaan
           poissa, silloin tämmöinen kielto ei merkitse mitään. Hra Schybergson
           kosketteli sitä seikkaa, olisiko viranomaisten ruumiintarkastuksen
@@ -23714,30 +23729,31 @@
           Joissakuissa muissa paikoissa olisi minulla muistutuksia tehtävänä
           tämän lakiehdotuksen suhteen, mutta jätän sen kumminkin pykälittäin
           toimitettavaan tarkastukseen. Pyydän vain mainita, että jos 7
-          &amp; esityksestä hyväksytään, tulee silloin myös valiokunnan mietinnön
-          12 &amp;ään määräys pantavaksi aseellisena kokoukseen saapumisesta.
+          &amp; esityksestä hyväksytään, tulee silloin myös valiokunnan
+          mietinnön 12 &amp;ään määräys pantavaksi aseellisena kokoukseen
+          saapumisesta.
         </note>
         <note xml:id="i-GVj6Y6hagXVs3GGJdRgHNW" type="speaker">
           Hra Heimbärger:
         </note>
         <u who="unknown">
           <seg>
-            Beträffande 7 &amp; i nädiga propositionen yttrar lagutskottet bland
-            annat: »Sedan gammalt har värt folk varit berättigadt att bära
-            vapen och ett förbud att ä allmän sammankomst infinna sig beväpnad
-            innebure därför en inskränkning i den personliga friheten». Detta
-            påstående är enligt min åsikt icke riktigt. Bestämningar om vapens
-            bärande höra till sädana ordningsföreskrifter, som i administrativ
-            väg utfärdas, och är det icke nägon svärighet att citera bäde
-            polisordningar och föreskrifter, som af guvernörerna meddelats
-            för landsorten, de där innehälla dylikt förbud. Vid sädant förhällande
-            har uteslutningen af 7 $ från lagförslaget icke den betydelse,
-            som man här tyckes velat tillerkänna en dylik åtgärd. Denna uteslutning
-            skulle ingalunda betaga regeringen rätt att utfärda sådant förbud,
-            som 7 &amp; innehäller, antingen för hela landet eller för nägot fall
-            särskildt. Den värkan, som man genom uteslutningen skulle vilja
-            ästadkomma, kan faktiskt endast ernäs sålunda, att man i lagen
-            uttryckligen in-
+            Beträffande 7 &amp; i nädiga propositionen yttrar lagutskottet
+            bland annat: »Sedan gammalt har värt folk varit berättigadt att
+            bära vapen och ett förbud att ä allmän sammankomst infinna sig
+            beväpnad innebure därför en inskränkning i den personliga friheten».
+            Detta påstående är enligt min åsikt icke riktigt. Bestämningar
+            om vapens bärande höra till sädana ordningsföreskrifter, som i
+            administrativ väg utfärdas, och är det icke nägon svärighet att
+            citera bäde polisordningar och föreskrifter, som af guvernörerna
+            meddelats för landsorten, de där innehälla dylikt förbud. Vid
+            sädant förhällande har uteslutningen af 7 $ från lagförslaget
+            icke den betydelse, som man här tyckes velat tillerkänna en dylik
+            åtgärd. Denna uteslutning skulle ingalunda betaga regeringen rätt
+            att utfärda sådant förbud, som 7 &amp; innehäller, antingen för
+            hela landet eller för nägot fall särskildt. Den värkan, som man
+            genom uteslutningen skulle vilja ästadkomma, kan faktiskt endast
+            ernäs sålunda, att man i lagen uttryckligen in-
           </seg>
         </u>
         <pb facs="https://swerik-project.github.io/valtiopaivat-records-pdf/1905-1906/ptk_1905-1906_porvaristo_II/ptk_1905-1906_porvaristo_II-0395"/>
@@ -24867,9 +24883,9 @@
             bringas i ötverensstämmelse med den nädiga propositionen, som
             i detta afseende hänvisar till propositionens 2 $, där alla de
             funktionärer nämnas, som här äro närmast i fråga. Visserligen
-            upptager 6 &amp; 16 kap. strafflagen också guvernör, men därpä ligger
-            icke stor vikt i förevarande afseende. Jag biträder därför syftet
-            med hr Reijonens förslag.
+            upptager 6 &amp; 16 kap. strafflagen också guvernör, men därpä
+            ligger icke stor vikt i förevarande afseende. Jag biträder därför
+            syftet med hr Reijonens förslag.
           </seg>
         </u>
         <note xml:id="i-Vkfnii1UWj9X6wXiCJAhmf" type="speaker">
@@ -24959,8 +24975,8 @@
           8 &amp;:stä lausui
         </note>
         <note xml:id="i-Y2cwua6kZ4bhHeMFNGXW9s">
-          hra Castrén, Arthur: 8 &amp;:n suhteen on valiokunta tehnyt sen muutoksen
-          armolliseen esitykseen, että se on evännyt poliisipalvelusmiehiltä
+          hra Castrén, Arthur: 8 &amp;:n suhteen on valiokunta tehnyt sen
+          muutoksen armolliseen esitykseen, että se on evännyt poliisipalvelusmiehiltä
           oikeuden hajottaa yleistä kokousta. Valiokunnan menettely on sopusoinnussa
           rikoslain 16 luvun 9 &amp;:n määräyksen kanssa ja on se mielestäni
           hyvin harkittu. Pyydän kuitenkin tehdä muutamia muistutuksia tätä
@@ -25102,8 +25118,8 @@
           rikoslain 16 luvun 9 &amp;:n kanssa ja neljäs kohta kokonaan poistetuksi.
         </note>
         <note xml:id="i-Ug5AnbJWwzvcyuhmnvf7yq">
-          Hra Castr&amp;n, Kaarlo: Rohkenen ehdottaa sellaisen lisäyksen tehtäväksi
-          esilläolevan pykälän toiseen kohtaan, että poliisiviranomainen
+          Hra Castr&amp;n, Kaarlo: Rohkenen ehdottaa sellaisen lisäyksen
+          tehtäväksi esilläolevan pykälän toiseen kohtaan, että poliisiviranomainen
           saa hajoittaa yleisessä paikassa taivasalla pidetyn kokouksen
           myös siinä tapauksessa, että annettuja määräyksiä yleisen järjestyksen
           ylläpitämiseksi ei noudateta. Valiokunta on perusteluissaan maininnut
@@ -25142,7 +25158,8 @@
             ne virkamiehet, joita tarkoitetaan ja joilla siis on valta olla
             kokouksessa saapuvilla. Kun seuraavassa pykälässä sanotaani »virkamies»,
             on itsestään selvää, ettei voida tarkoittaa mitään muuta kuin
-            niitä »virkamiehiä», jotka ovat rikoslain 16 luvun 6 &amp;:ssä mainittu.
+            niitä »virkamiehiä», jotka ovat rikoslain 16 luvun 6 &amp;:ssä
+            mainittu.
           </seg>
         </u>
         <note xml:id="i-4JuRqrcsZE22q79yJFnJCi">
@@ -25180,8 +25197,8 @@
         </note>
         <u who="unknown">
           <seg>
-            Kun 8 &amp;n toinen kohta epäilemättä valiokunnan ja vieläpä hra
-            Castr6ninkin ehdottamassa muodossa antaa rettelöivälle poliisimielivallalle
+            Kun 8 &amp;n toinen kohta epäilemättä valiokunnan ja vieläpä
+            hra Castr6ninkin ehdottamassa muodossa antaa rettelöivälle poliisimielivallalle
             tilaa, niin saan sen estämiseksi joka tapauksessa esittää tähän
             kohtaan lisättäväksi sanan »välttämättömiä», joka sana olisi pantava
             »antamia» ja »määräyksiä» sanojen väliin. Kohta tulisi siis kuulumaan
@@ -25359,9 +25376,9 @@
           hra Heikel, Teodor, puheenvuoroa ja lausui: I början af paragrafen
           heter det »allmän sammankomst». Jag tänker i alla fall, att de
           strafibestämningar, som finnas utsatta för brott mot3 $, också
-          gälla öfverträdelse af bestämningen i &amp; 9, och därför borde väl
-          paragrafen förtydligas så, att detta skulle tydligt framgå af
-          dess innehåll.
+          gälla öfverträdelse af bestämningen i &amp; 9, och därför borde
+          väl paragrafen förtydligas så, att detta skulle tydligt framgå
+          af dess innehåll.
         </note>
         <note xml:id="i-E1GdwKY75McXavdYD5FZar">
           Keskustelu päättyi tähän, minkä jälkeen hra puhemies säädyn vastattavaksi
@@ -25395,8 +25412,8 @@
         </note>
         <note xml:id="i-7N7o84FFqLbFWEnDFxq2vX">
           Esitykseen vastattaessa oli ei voitolla, ja sääty oli siis päättänyt
-          hyväksyä 12 &amp;:n semmoisena, kuin se kuuluu vastaavassa 14 8:ssä
-          armollisessa esityksessä.
+          hyväksyä 12 &amp;:n semmoisena, kuin se kuuluu vastaavassa 14
+          8:ssä armollisessa esityksessä.
         </note>
         <note xml:id="i-NhNE75tWLZ1HdeoGWH5bTe">
           Hra Schybergson pyysi puheenvuoroa ja lausui: För fullständighetens
@@ -26005,7 +26022,8 @@
           voidaan perustaa ainoastaan senaatin luvalla».
         </note>
         <note xml:id="i-PVQeae51E7LdzzxmaHozTU">
-          4 &amp; hyväksyttiin keskustelutta. 5 &amp;:n johdosta pyysi puheenvuoroa
+          4 &amp; hyväksyttiin keskustelutta. 5 &amp;:n johdosta pyysi
+          puheenvuoroa
         </note>
         <note xml:id="i-YXrYDVZpCSrfYJvj7UWVzi">
           hra Jusölius, August, ja lausui: Hra Björkstén och nägra andra
@@ -26040,19 +26058,19 @@
         <u who="unknown">
           <seg>
             Pyydän myös saada lyhyesti kannattaa sitä vastalausetta, joka
-            esittää kysymyksessä olevan 5 &amp;n muutettavaksi, sekä niitä lausuntoja,
-            jotka siinä suhteessa ovat annetut. Minunkin mielestäni on valtiollisesti
-            epäviisasta pysyttää pykälä senlaisena, että valtiollisiin asioihin
-            vaikuttavissa yhdistyksissä ei saisi olla jäsen 21 vuotta nuorempi.
-            On mainittu, että määräyksellä on tarkoitettu ainoastaan sellaisia
-            yhdistyksiä, joiden tarkoituksena on valtiollisiin asioihin vaikuttaminen.
-            Mutta jokainen, joka on ollut tekemisissä yhdistysten kanssa ja
-            sen vaikutuksen kanssa, mikä niillä on yleisiin asioihin, tietää
-            hyvin, että mitään rajaviivaa tällaisten yhdistysten ja yksinomaan
-            valtiollisiin asioihin vaikuttavien yhdistysten välillä ei voi
-            käytännössä vetää. Niinkuin sanoin, pidän siis jo tältäkin kannalta
-            mitä vähimmin valtioviisaana pysyttää tämä pykälä tällaisena ja
-            siistä syystä kannatan toista vastalausetta.
+            esittää kysymyksessä olevan 5 &amp;n muutettavaksi, sekä niitä
+            lausuntoja, jotka siinä suhteessa ovat annetut. Minunkin mielestäni
+            on valtiollisesti epäviisasta pysyttää pykälä senlaisena, että
+            valtiollisiin asioihin vaikuttavissa yhdistyksissä ei saisi olla
+            jäsen 21 vuotta nuorempi. On mainittu, että määräyksellä on tarkoitettu
+            ainoastaan sellaisia yhdistyksiä, joiden tarkoituksena on valtiollisiin
+            asioihin vaikuttaminen. Mutta jokainen, joka on ollut tekemisissä
+            yhdistysten kanssa ja sen vaikutuksen kanssa, mikä niillä on yleisiin
+            asioihin, tietää hyvin, että mitään rajaviivaa tällaisten yhdistysten
+            ja yksinomaan valtiollisiin asioihin vaikuttavien yhdistysten
+            välillä ei voi käytännössä vetää. Niinkuin sanoin, pidän siis
+            jo tältäkin kannalta mitä vähimmin valtioviisaana pysyttää tämä
+            pykälä tällaisena ja siistä syystä kannatan toista vastalausetta.
           </seg>
         </u>
         <note xml:id="i-57JSffVEU9YnyyCRFtKfma" type="speaker">
@@ -26261,24 +26279,24 @@
           kuin suomalainen. Suomalaisessa tekstissä on sanottu: »yhdistyksiä,
           joiden erityisenä tarkoituksena on valtiollisiin asioihin vaikuttaminen
           j. n. e.» Ruotsalaisessa taas: »i förening, som väsentligen fullföljer
-          politiskt syfte.» Jos sitäpaitsi vertaa 5 S:lää 7 &amp;n 3:een momenttiin,
-          jossa sanotaan, että säännöissä on mainittava tarkoitus, jota
-          yhdistys pyrkii toteuttamaan, niin supistuu se ala, johon 5 &amp;
-          koskee, vielä ahtaammalle. Mielestäni olisi valtiolliselle toiminnalle
-          hyödyksi, ettei vallan nuoria henkilöitä vedettäisi siihen osallisiksi,
-          ja heille itselleenkin olisi siitä siinä suhteessa hyötyä, etteivät
-          liian epäkypsinä tulisi sitoutumaan jonkun määräty ohjelman kannattajiksi.
-          Siitä syystä siis puolustaisin 5 $:n pysyttämistä esilläolevassa
-          laissa enkä, kuten täällä muutamat puhujat ovat lausuneet, pelkää,
-          että se tulisi vaikuttamaan ei nuorisoseuroihin eikä raittiusyhdistyksiin,
-          joiden tarkoitus toki on vallan toinen. Sillä lailla ei myöskään
-          riistettäisi yhdistysten antamaa ohjausta nuoremmille heidän kansakoulusta
-          lähteissään, eikä juuri maalle hyödyksi liene, että kansakoulusta
-          joudutaan valtiollisiin yhdistyksiin. Sitäpaitsi näillä nuoremmilla
-          tulisi olemaan laajoja aloja, joissa he voivat vaikuttaa, niinkuin
-          esimerkiksi ammattikunnallisissa ynnä muissa semmoisissa, jotenka
-          he myöhemmin paremmin kypsyneinä ottaisivat valtiolliseen elämään
-          osaa.
+          politiskt syfte.» Jos sitäpaitsi vertaa 5 S:lää 7 &amp;n 3:een
+          momenttiin, jossa sanotaan, että säännöissä on mainittava tarkoitus,
+          jota yhdistys pyrkii toteuttamaan, niin supistuu se ala, johon
+          5 &amp; koskee, vielä ahtaammalle. Mielestäni olisi valtiolliselle
+          toiminnalle hyödyksi, ettei vallan nuoria henkilöitä vedettäisi
+          siihen osallisiksi, ja heille itselleenkin olisi siitä siinä suhteessa
+          hyötyä, etteivät liian epäkypsinä tulisi sitoutumaan jonkun määräty
+          ohjelman kannattajiksi. Siitä syystä siis puolustaisin 5 $:n pysyttämistä
+          esilläolevassa laissa enkä, kuten täällä muutamat puhujat ovat
+          lausuneet, pelkää, että se tulisi vaikuttamaan ei nuorisoseuroihin
+          eikä raittiusyhdistyksiin, joiden tarkoitus toki on vallan toinen.
+          Sillä lailla ei myöskään riistettäisi yhdistysten antamaa ohjausta
+          nuoremmille heidän kansakoulusta lähteissään, eikä juuri maalle
+          hyödyksi liene, että kansakoulusta joudutaan valtiollisiin yhdistyksiin.
+          Sitäpaitsi näillä nuoremmilla tulisi olemaan laajoja aloja, joissa
+          he voivat vaikuttaa, niinkuin esimerkiksi ammattikunnallisissa
+          ynnä muissa semmoisissa, jotenka he myöhemmin paremmin kypsyneinä
+          ottaisivat valtiolliseen elämään osaa.
         </note>
         <pb facs="https://swerik-project.github.io/valtiopaivat-records-pdf/1905-1906/ptk_1905-1906_porvaristo_II/ptk_1905-1906_porvaristo_II-0436"/>
         <note xml:id="i-DJGkg4kPJjQYiFe7k5v45G">
@@ -26347,11 +26365,11 @@
         <note xml:id="i-HmsgsV8M3DfjKCjqiyQ3Dx">
           Toinen perusteellinen erehdys on se, että tämä pykälä jollain
           tavalla pakoittaisi nyt jo olevia yhdistyksiä tekemään toiminnassaan
-          muutoksia. Lakiehdotuksen 34 &amp; säätää nimenomaan, mitkä ne pykälät
-          ovat, joita olemassa olevien yhdistysten täytyy noudattaa, ja
-          5 &amp; ei ole niiden joukossa. 34 &amp;:n lopussa sanotaan: »Muuten on
-          tätä lakia noudatettava nyt mainittuihin yhdistyksiin nähden,
-          mikäli sen säännöissä ei ole asiasta määräystä». Perusteluissa
+          muutoksia. Lakiehdotuksen 34 &amp; säätää nimenomaan, mitkä ne
+          pykälät ovat, joita olemassa olevien yhdistysten täytyy noudattaa,
+          ja 5 &amp; ei ole niiden joukossa. 34 &amp;:n lopussa sanotaan:
+          »Muuten on tätä lakia noudatettava nyt mainittuihin yhdistyksiin
+          nähden, mikäli sen säännöissä ei ole asiasta määräystä». Perusteluissa
           on niinikään nimenomaan esiintuotu, että tällä kohdalla tarkoitetaan,
           ettei kajottaisi niihin oikeuksiin, joita nykyisillä yhdistyksillä
           jo on. Tosin saattaa 34 $:n viimeisen kohdan sanamuodosta joutua
@@ -26681,8 +26699,8 @@
           sitä mieltä, että tämä laki välttämättä vaatisi vanhat yhdistykset
           muuttamaan sääntönsä. Minä kyllä olen huomannut, mitä täällä niistä
           sanotaan, mutta olisin halunnut huomauttaa, että tämä uusi laki
-          kumminkin joissakuissa kohdin, esimerkiksi 21 &amp;:n suhteen, koskee
-          vanhempiakin yhdistyksiä, joilla jo on sääntönsä.
+          kumminkin joissakuissa kohdin, esimerkiksi 21 &amp;:n suhteen,
+          koskee vanhempiakin yhdistyksiä, joilla jo on sääntönsä.
         </note>
         <note xml:id="i-EtUD9XRVgdprmfPe8QEV1q" type="speaker">
           Hra Ansas:
@@ -27106,8 +27124,8 @@
         </note>
         <u who="unknown">
           <seg>
-            Jag ber att få påpeka, att första punkten i 7 &amp; beröres i andra
-            reservationens sista kläm, hvarför densamma
+            Jag ber att få påpeka, att första punkten i 7 &amp; beröres i
+            andra reservationens sista kläm, hvarför densamma
           </seg>
         </u>
         <note xml:id="i-YAoaYFCcKWUic1NQuZ5bH7">
@@ -27125,8 +27143,8 @@
         </note>
         <u who="unknown">
           <seg>
-            Minä pyydän kannattaa hra Reijosen tekemää ehdotusta 7 &amp;:n 8
-            kohtaan. Suomalainen muoto siinä on huonosti kokoonpantu. Sen
+            Minä pyydän kannattaa hra Reijosen tekemää ehdotusta 7 &amp;:n
+            8 kohtaan. Suomalainen muoto siinä on huonosti kokoonpantu. Sen
             voisi m. m. sanoa kahdella sanalla: »vuosikokouksen aika».
           </seg>
         </u>
@@ -27694,8 +27712,8 @@
         <note xml:id="i-J1UB7gN6DABLjQbB5neDq5">
           Toimitetussa lippuäänestyksessä annettiin esitykseen vastaukseksi
           22 jaa ja 40 ei, joten porvarissääty oli päättänyt hyväksyä 14
-          &amp;:n muuten paitsi mikäli koskee viimeistä momenttia, jolle sääty
-          hyväksyi toisessa vastalauseessa ehdotetun sanamuodon.
+          &amp;:n muuten paitsi mikäli koskee viimeistä momenttia, jolle
+          sääty hyväksyi toisessa vastalauseessa ehdotetun sanamuodon.
         </note>
         <note xml:id="i-3uytL68sqm7XYbkYnwKMW1">
           15 $ hyväksyttiin keskustelutta. 16 8:stä lausui
@@ -28145,8 +28163,8 @@
           värksamhet innebär fara för allmänna säkerheten, eller där förening
           öfverträdt stadgandena i 3 eller 5 $$». Sistnämda två paragrafer
           innehålla, $ 3 förbud mot väpnade föreningar, som icke erhållit
-          öfverhetligt tillstånd, och &amp; 5 förbud mot utländingar och minderåriga
-          att tillhöra politiska föreningar.
+          öfverhetligt tillstånd, och &amp; 5 förbud mot utländingar och
+          minderåriga att tillhöra politiska föreningar.
         </note>
         <note xml:id="i-6ZyByJVCsLit7fjB6NVb1y">
           Hra Jusélius, August: Äfven jag finner paragrafens formulering,
@@ -28167,12 +28185,12 @@
           Hra Castr6n, Arthur: Minärohkenisin olla, samoin kuin valiokunnassakin,
           pykälän suhteen eri mieltä ja katson, että säädös tässä kohden
           on täysin riittävä. Lainlaatija on tässä nimenomaisesti tahtonut
-          kosketella 3 ja 5 &amp;:ää, jotka sisältävät julkisoikeudellista laatua
-          olevia säännöksiä. Ensimäisessä kohdassa olevat sanat: »Jos yhdistys
-          harjoittaa toimintaa, joka on vastoin lakia ja hyviä tapoja taikka
-          yhdistyksen säännöissä määrättyä tarkoitusta» kohdistuvat minun
-          ymmärtääkseni juuri 3 ja 5 &amp;iin. Samaten toinen kappale: »jos
-          sellaisten henkilöitten. jotka eivät olisi oikeutettuja olemaan
+          kosketella 3 ja 5 &amp;:ää, jotka sisältävät julkisoikeudellista
+          laatua olevia säännöksiä. Ensimäisessä kohdassa olevat sanat:
+          »Jos yhdistys harjoittaa toimintaa, joka on vastoin lakia ja hyviä
+          tapoja taikka yhdistyksen säännöissä määrättyä tarkoitusta» kohdistuvat
+          minun ymmärtääkseni juuri 3 ja 5 &amp;iin. Samaten toinen kappale:
+          »jos sellaisten henkilöitten. jotka eivät olisi oikeutettuja olemaan
           yhdistyksen jäseninä, sallitaan siihen kuulua» kohdistuu taas
           yksinomaan 5 &amp;ään. Hra Heimbiirgerin ehdotuksen mukaan tulisi
           pykälässä erittäin mainita 3 ja 5 $ ja syy, minkä nojalla ne voitaisiin
@@ -28331,8 +28349,8 @@
           kohta tulisi kuulumaan lyhyesti: »yhdistyksen nimi». Sen sijaan
           otettiin 28 8:ään määräys siitä, että, kun yhdistys kirjoitetaan
           rekisteriin, olisi siihen merkittävä sana »rekisteröity yhdistys»,
-          »registrerad förening», tai lyhennettynä »r. y.» tai »r. f&gt; Siitä
-          katsottiin olevan se hyöty, että kolmas mies voisi yhdistyksen
+          »registrerad förening», tai lyhennettynä »r. y.» tai »r. f&gt;
+          Siitä katsottiin olevan se hyöty, että kolmas mies voisi yhdistyksen
           virallisesta nimikirjoituksesta heti nähdä, onko se rekisteröity
           vai ei. Sitä vastaan on väitetty, että voisi syntyä erehdystä,
           kun eivät kaikki yhdistykset, joilla on oikeuskelpoisuus, tulisi
@@ -28433,7 +28451,8 @@
           sanottu lainkohta siinä muuttamatta.
         </note>
         <note xml:id="i-GCKRBwk6CFJ4XzGA2PJ793">
-          29 ja 30 88 hyväksyttiin muistutuksetta. 31 &amp;:n johdosta pyysi
+          29 ja 30 88 hyväksyttiin muistutuksetta. 31 &amp;:n johdosta
+          pyysi
         </note>
         <note xml:id="i-Hn6VBantpWDa7T8GfTeWRL">
           hra Castrén, Arthur puheenvuoroa ja lausui: Pyydän lausua muutaman
@@ -29292,21 +29311,21 @@
         </note>
         <note xml:id="i-QSMV48y9s7BBYdbWGysE4a">
           Valtioneuvos Danielson-Kalmari sanoo sitten, että senaatinkin
-          ehdotus on epäselvä ja se on epäselvä sentähden, ettei &gt;ole nimittäin
-          olemassa sitä ehdottomasti varmaa »perustuslain mukaista järjestystä»
-          virkanimityksissä, jota senaatin ehdotus edellyttää». Siis siihen
-          että, niinkuin on myönnettävä, perustuslait monessa kohden ovat
-          epäselvät, mikäli koskevat virkamiesten nimitystä ja hallitsijan
-          oikeutta nimittää virkamiehiä, siihen perustuslakiemme epäselvyyteen
-          tai vaillinaisuuteen vedoten tahtoo hra Danielson- Kalmari ylläpitää
-          sitä huutavaa epäkohtaa, mikä maassamme on vallitsemassa ja mikä
-          on saamaisillaan aikaan mitä suurinta oikeusvaraa. Ettei valiokunta
-          ole voinut tähän tosiasiaan perustuen tulla samanlaiseen tulokseen,
-          johtuu ilmeisesti siitä, että valiokunta tässä asiassa on asettanut
-          ensimmäiseksi tehtäväkseen myötävaikuttaa ilmeisen epäkohdan poistamiseksi
-          ja sen sijäan aivan pieneksi asiaksi arvannut sen seikan, missä
-          määrin yksityinen virkamies voisi rauhassa harjoittaa uppiniskaisuutta,
-          jota hra Danielson- Kalmarikin selittää laittomuudeksi.
+          ehdotus on epäselvä ja se on epäselvä sentähden, ettei &gt;ole
+          nimittäin olemassa sitä ehdottomasti varmaa »perustuslain mukaista
+          järjestystä» virkanimityksissä, jota senaatin ehdotus edellyttää».
+          Siis siihen että, niinkuin on myönnettävä, perustuslait monessa
+          kohden ovat epäselvät, mikäli koskevat virkamiesten nimitystä
+          ja hallitsijan oikeutta nimittää virkamiehiä, siihen perustuslakiemme
+          epäselvyyteen tai vaillinaisuuteen vedoten tahtoo hra Danielson-
+          Kalmari ylläpitää sitä huutavaa epäkohtaa, mikä maassamme on vallitsemassa
+          ja mikä on saamaisillaan aikaan mitä suurinta oikeusvaraa. Ettei
+          valiokunta ole voinut tähän tosiasiaan perustuen tulla samanlaiseen
+          tulokseen, johtuu ilmeisesti siitä, että valiokunta tässä asiassa
+          on asettanut ensimmäiseksi tehtäväkseen myötävaikuttaa ilmeisen
+          epäkohdan poistamiseksi ja sen sijäan aivan pieneksi asiaksi arvannut
+          sen seikan, missä määrin yksityinen virkamies voisi rauhassa harjoittaa
+          uppiniskaisuutta, jota hra Danielson- Kalmarikin selittää laittomuudeksi.
         </note>
         <note xml:id="i-9qLKjMjUywe2mAwRiRo3Mj">
           Perustuslakiemme sisällyksestä ei ole tarpeen tässä tehdä pitempiä
@@ -29335,8 +29354,8 @@
         </note>
         <note xml:id="i-35kADoguZ1vxLEuip8JbwS">
           tästä asiasta niin varovin sanoin, että niistä päättäen vastakkainenkin
-          ajatus olisi puolustettavissa.&gt; Tämä professori Hermansonin lausunto,
-          johon hra Danielson-Kalmari tässä viittaa, oli valiokunnassakin
+          ajatus olisi puolustettavissa.&gt; Tämä professori Hermansonin
+          lausunto, johon hra Danielson-Kalmari tässä viittaa, oli valiokunnassakin
           keskustelun alaisena, hra Danielson kun vetosi valiokunnassakin
           tähän. Lausunnossa, joka esiintyy professori Hermansonin luennoissa
           Suomen valtiooikeudesta ja jossa hän luetellessaan niitä varmoja
@@ -30368,8 +30387,8 @@
           gentemot det förhållande, som jag ofvan antydde. Orden »äfvensom
           tjänsteman, som utnämts i kraft af de genom nådiga manifestet
           af den 4 november (22 oktober) 1905 upphäfda förordningarna med
-          afvikelse från grundlagsenlig ordning&gt; i p. II af utskottets förslag
-          borde alltså enligt min mening utgå.
+          afvikelse från grundlagsenlig ordning&gt; i p. II af utskottets
+          förslag borde alltså enligt min mening utgå.
         </note>
         <note xml:id="i-FnMNk1ECp11gUcT1GN1WUq">
           Hvad sedan vidkommer det af hr Kaarlo Castrén väckta förslaget
@@ -31653,10 +31672,10 @@
             niiden, jotka ovat suorastaan sen alaiset; mutta siinä ehdotuksessa,
             jonka hra Heikel on tehnyt, ei sanota. kenen asia olisi alistaa
             muut virkanimitykset sen tutkittaviksi. Tämän puutteen on hra
-            Kaarlo Castr&amp;nin* ehdotus poistanut sen kautta, että tämä alistaminen
-            tulisi kysymykseen ainoastaan silloin, kun asianomainen virkamies
-            tahtoisi panna riidanalaiseksi eroamisvaatimuksen. Mutta sitä
-            vastaan minun ymmärtääkseni voi tehdä vielä useampia muistutuksia.
+            Kaarlo Castr&amp;nin* ehdotus poistanut sen kautta, että tämä
+            alistaminen tulisi kysymykseen ainoastaan silloin, kun asianomainen
+            virkamies tahtoisi panna riidanalaiseksi eroamisvaatimuksen. Mutta
+            sitä vastaan minun ymmärtääkseni voi tehdä vielä useampia muistutuksia.
             Ensin sen seikan, että laki sen kautta tulee monimutkaiseksi,
             siihen hän tulee prosessuaalinen menettelytapa yhdistetyksi sen
             lisäksi, mitä se muuten sisältää — sehän nimittäin sisältää ensiksi
@@ -31912,8 +31931,8 @@
           skulle utskottet icke finna nägon lagstridighet ligga däri, att
           skäliga anslag beviljades till aflönande af sädana ryska män säsom
           biträden ät generalguvernören, af hvilka generalguvernören kunde
-          varai behof med afseende &amp; deras kännnedom af ryska spräket och
-          rysk lagstiftning ; och om denna utväg valdes, skulle i praktiskt
+          varai behof med afseende &amp; deras kännnedom af ryska spräket
+          och rysk lagstiftning ; och om denna utväg valdes, skulle i praktiskt
           afseende det vara ärnädt, som man torde önskat». Utskottet har
           icke förebragt nägon närmare utredning till bevisande af riktigheten
           af det medgifvande, som detta uttryck innehäller. Jag för min
@@ -34584,14 +34603,15 @@
           You vv vu vu v W v U vv vv wow vv N WIN
         </note>
         <note xml:id="i-XbzfA7c433qPqmyQXATFVw">
-          » » &gt; , , » » » &gt; » &gt; &gt; » &gt; helmik. kl:o » » &gt; , » » &gt; &gt; a »
-          maalisk. &gt;» » &gt; &gt; , &gt; » , &gt; &gt; &gt; &gt; &gt; &gt; &gt; huhtik. » N » &gt; » » »
-          » a » » , » , » » »
+          » » &gt; , , » » » &gt; » &gt; &gt; » &gt; helmik. kl:o » » &gt;
+          , » » &gt; &gt; a » maalisk. &gt;» » &gt; &gt; , &gt; » , &gt;
+          &gt; &gt; &gt; &gt; &gt; &gt; huhtik. » N » &gt; » » » » a » »
+          , » , » » »
         </note>
         <note xml:id="i-83ibwWKiuiUg1K9MR4kGXr">
-          1905. kl:o 9.80 a. p. — 9.45 a. p. » — 1.30 &gt; ip — 9.28i. p.
-          p:llä — 1.55 pillä » — 250 i. p. i. p — 119 &gt; &gt; — 6.35 » pillä
-          — 12 pillä
+          1905. kl:o 9.80 a. p. — 9.45 a. p. » — 1.30 &gt; ip — 9.28i.
+          p. p:llä — 1.55 pillä » — 250 i. p. i. p — 119 &gt; &gt; — 6.35
+          » pillä — 12 pillä
         </note>
         <note xml:id="i-XxMSebYNR8H6MboyPMDrWM">
           10.45
@@ -34759,12 +34779,14 @@
         <pb facs="https://swerik-project.github.io/valtiopaivat-records-pdf/1905-1906/ptk_1905-1906_porvaristo_II/ptk_1905-1906_porvaristo_II-0578"/>
         <note xml:id="i-3hUYZTsiqcra1mKE3yPntB">
           30 p. huhtik. klo 7 ip —1lwi p. I siv. 408— 441. 3 » toukok.
-          &gt; 7 &gt; — 920 » &gt; » 442— 461. 4&gt; &gt; &gt; 7 » — 725 &gt; &gt; » 462— 463. 9,
-          &gt;» » 6 &gt; — 11.20 &gt; &gt; » 464— 499.
+          &gt; 7 &gt; — 920 » &gt; » 442— 461. 4&gt; &gt; &gt; 7 » — 725
+          &gt; &gt; » 462— 463. 9, &gt;» » 6 &gt; — 11.20 &gt; &gt; » 464—
+          499.
         </note>
         <note xml:id="i-XxWakGdbViW75xUj3t7QBW">
-          11 &gt;» » » 7 , — 7.50 » &gt; » 500— 503. 16 » &gt; » 7 » — 9,50 » &gt;
-          » 504— 527. 18 » &gt; » 7 &gt; — 850 &gt; &gt; » 527— 538.
+          11 &gt;» » » 7 , — 7.50 » &gt; » 500— 503. 16 » &gt; » 7 » —
+          9,50 » &gt; » 504— 527. 18 » &gt; » 7 &gt; — 850 &gt; &gt; » 527—
+          538.
         </note>
         <note xml:id="i-CirAE3Ua5aRMkKjkb22nVd">
           2» » &gt; 7 » — 830 &gt; II » 539— 549.
@@ -34773,8 +34795,8 @@
           25 » » » 7 » — 9.5 &gt; » » 549— 569.
         </note>
         <note xml:id="i-XDyyjYU6ZZLw1V7TVTAyiC">
-          28 » » &gt;» 11 ap — 42 &gt; » » 570— 621. b OM » » 6 ip — 80 &gt; &gt;»
-          &gt; 622— 638.
+          28 » » &gt;» 11 ap — 42 &gt; » » 570— 621. b OM » » 6 ip — 80
+          &gt; &gt;» &gt; 622— 638.
         </note>
         <note xml:id="i-Qi425kWmcSFbEJRT1Wfdh9">
           29» » &gt; 11 ap — 130pilä &gt; » 639— 663.
@@ -34796,8 +34818,8 @@
           2: &gt; &gt;» 7 ip —10890&gt; &gt; &gt; 729— 755.
         </note>
         <note xml:id="i-EGw3a8HMkeWvrYXhi6RUQk">
-          28 » a » 1 pillä — 2.15 pillä &gt; » 756— 766. s s 5 &gt; 6 ip — Zip
-          » » 766— 771.
+          28 » a » 1 pillä — 2.15 pillä &gt; » 756— 766. s s 5 &gt; 6 ip
+          — Zip » » 766— 771.
         </note>
         <note xml:id="i-9uUedAcRsfhmUJ2Fof5DgU">
           12 » heinäk, » 7 &gt;» — 7.85 &gt; » &gt; 772— 774.
@@ -34809,17 +34831,17 @@
           14» » &gt; 1] ap — 2.80 pillä &gt; + 783— 813.
         </note>
         <note xml:id="i-CCzSNXkSAQuY6fc2kWr94U">
-          16 » &gt;» » 11 &gt; — 46ip &gt; &gt; 814— 861. » s » * 7 ip — 735 &gt; » »
-          862— 862.
+          16 » &gt;» » 11 &gt; — 46ip &gt; &gt; 814— 861. » s » * 7 ip
+          — 735 &gt; » » 862— 862.
         </note>
         <note xml:id="i-G31nz3WkQwPwCDobPk9LA4">
-          17 &gt;» &gt; » 7 &gt; — 95 &gt; &gt; » 863— 864. &gt;» a » 930 » —— 11.10 &gt; &gt;
-          » 864— 878.
+          17 &gt;» &gt; » 7 &gt; — 95 &gt; &gt; » 863— 864. &gt;» a » 930
+          » —— 11.10 &gt; &gt; » 864— 878.
         </note>
         <note xml:id="i-4QkwbHp5HVMAxAUReEt6P7">
-          31 &gt; &gt; » 7 &gt; — 10.55 » &gt; » 879— 883. 1 » elok. &gt; 7 , — 755 »
-          » » 884— 886. 3 &gt;» » » 7 &gt; — 915 » » » 887— 891. 4» » » 1015 &gt;
-          — 10.20 &gt; » &gt; 892— 893.
+          31 &gt; &gt; » 7 &gt; — 10.55 » &gt; » 879— 883. 1 » elok. &gt;
+          7 , — 755 » » » 884— 886. 3 &gt;» » » 7 &gt; — 915 » » » 887—
+          891. 4» » » 1015 &gt; — 10.20 &gt; » &gt; 892— 893.
         </note>
         <note xml:id="i-ELuyS8eYBLdBM6ha6d3oqh">
           27 » » » 7 » — 7,5 » » » 894— 895.
@@ -34828,16 +34850,17 @@
           30 &gt; » » 7 , -— 9.20 &gt; » » 896— 911.
         </note>
         <note xml:id="i-4wqcgo5k6vLgqMAkUyMDqm">
-          31» &gt; » 7 . — 12.45 yöllä &gt;» » 912— 957. 3 » syysk. &gt;» 7 »&gt; —
-          120 &gt; &gt; » 958—1006. 5» » » 7 &gt; — 780ip &gt; &gt; 1007—1007. 7 » » »
-          7 &gt; — 7.40 » » » 1008—1010. 8» &gt; &gt; 12 pä — 12.45 pillä &gt; » 1011—1013.
+          31» &gt; » 7 . — 12.45 yöllä &gt;» » 912— 957. 3 » syysk. &gt;»
+          7 »&gt; — 120 &gt; &gt; » 958—1006. 5» » » 7 &gt; — 780ip &gt;
+          &gt; 1007—1007. 7 » » » 7 &gt; — 7.40 » » » 1008—1010. 8» &gt;
+          &gt; 12 pä — 12.45 pillä &gt; » 1011—1013.
         </note>
         <note xml:id="i-XoPF2krq5Khd9u1Gn2hYJj">
-          10 » » &gt; 12 » — 48ip » » 1014—1057. &gt;» a » 7 ip — 1105 &gt; &gt; »
-          1058—1085. 12» » &gt; 2 pllä — 2.3 pillä &gt; » 1086—1087. &gt; &gt;: » &gt;
-          7 ip — 750ip &gt; » 1088—1091. 14 » » » 7 » — 830 » » » 1092—1099.
-          17 » » &gt; 2 pillä — 2.20 p:llä &gt; » 1100—1101. 18 » &gt;» &gt; 11 ap —
-          385ip » =» 1102—1111.
+          10 » » &gt; 12 » — 48ip » » 1014—1057. &gt;» a » 7 ip — 1105
+          &gt; &gt; » 1058—1085. 12» » &gt; 2 pllä — 2.3 pillä &gt; » 1086—1087.
+          &gt; &gt;: » &gt; 7 ip — 750ip &gt; » 1088—1091. 14 » » » 7 »
+          — 830 » » » 1092—1099. 17 » » &gt; 2 pillä — 2.20 p:llä &gt; »
+          1100—1101. 18 » &gt;» &gt; 11 ap — 385ip » =» 1102—1111.
         </note>
         <pb facs="https://swerik-project.github.io/valtiopaivat-records-pdf/1905-1906/ptk_1905-1906_porvaristo_II/ptk_1905-1906_porvaristo_II-0579"/>
         <note xml:id="i-2iPYTKNuoGJSZmRnDiFDyK">
@@ -34887,8 +34910,8 @@
         </note>
         <note xml:id="i-HiK38Aw5tSAFGVL7QypJWi">
           S. V. » suostuntavaliokunta. Tark. V. &gt; tarkastusvaliokunta.
-          TI. V. &gt; talousvaliokunta. Toim. V. &gt; toimitusvaliokunta. Tps.
-          , talonpoikaissääty.
+          TI. V. &gt; talousvaliokunta. Toim. V. &gt; toimitusvaliokunta.
+          Tps. , talonpoikaissääty.
         </note>
         <note xml:id="i-SNKzqgmBJaRfyBzN53UQug">
           v. &gt; valiokunta.
@@ -35583,8 +35606,8 @@
           valittu valitsijamieheksi. I. 24.
         </note>
         <note xml:id="i-QVM3PXHJzjZuffKxTfamaU">
-          &gt; — jäseneksi TI. V. I. 79. hänen lausuntonsa: I. 178, 193, 237—239,
-          403. IL. 612-613, 738, 784, 1012.
+          &gt; — jäseneksi TI. V. I. 79. hänen lausuntonsa: I. 178, 193,
+          237—239, 403. IL. 612-613, 738, 784, 1012.
         </note>
         <note xml:id="i-Y2GSPdU7HVAzu49NXNmCxw">
           ||]
@@ -35649,18 +35672,18 @@
         </note>
         <note xml:id="i-ECgoE1TsRcoxx2eQd7mgL1">
           Siklo, Aleksander, pankinjohtaja; Savonlinnan kaupungin edustaja.
-          valittu varam. S. V. I. 37. — &gt;» — jäseneksi R. V. I. 115. — hänen
-          lausuntonsa: I. 148, 149, 265—267, 304—307 317, 326—327, 384—387,
-          388, 401 —402, 505—507, 518, 519—520. II. 767—768. Sundvall, Fredrik
-          Wilhelm, johtaja; Tammisaaren kaupungin edustaja. hänen terv.
-          puheensa säädylle. I. 4—5. valittu valitsijamieheksi. I. 24. —
-          — &gt;» — jäseneksi Tark. V. I. 43. —" &gt; —varam. lis. S. V. I. 222.
-          hänen lausuntonsa: I. 5 (3), 6, 31, 37, 42, 97, 136, 138 (2),
-          139, 140 —141, 142, 145, 197, 406, 462, 463, 471—479. II. 599—600,
-          727, 728, 784—785, 795, 797, 800, 886, 892, 901, 1110 —I1111.
-          Söderholm, Karl Gustaf, hovioikeudenasessori; Helsingin kaupungin
-          edustaja. valittu varam. Per. V. I. 52. — &gt;» — jäseneksi L. V.
-          I. 503. hänen lausuntonsa: I. 23, 151—152, 153, 160, 170—171,
+          valittu varam. S. V. I. 37. — &gt;» — jäseneksi R. V. I. 115.
+          — hänen lausuntonsa: I. 148, 149, 265—267, 304—307 317, 326—327,
+          384—387, 388, 401 —402, 505—507, 518, 519—520. II. 767—768. Sundvall,
+          Fredrik Wilhelm, johtaja; Tammisaaren kaupungin edustaja. hänen
+          terv. puheensa säädylle. I. 4—5. valittu valitsijamieheksi. I.
+          24. — — &gt;» — jäseneksi Tark. V. I. 43. —" &gt; —varam. lis.
+          S. V. I. 222. hänen lausuntonsa: I. 5 (3), 6, 31, 37, 42, 97,
+          136, 138 (2), 139, 140 —141, 142, 145, 197, 406, 462, 463, 471—479.
+          II. 599—600, 727, 728, 784—785, 795, 797, 800, 886, 892, 901,
+          1110 —I1111. Söderholm, Karl Gustaf, hovioikeudenasessori; Helsingin
+          kaupungin edustaja. valittu varam. Per. V. I. 52. — &gt;» — jäseneksi
+          L. V. I. 503. hänen lausuntonsa: I. 23, 151—152, 153, 160, 170—171,
           513, 537. II. 568, 665, 671—672, 686—687, 767, 768, 770—771, 789—790,
           791 (2), 794, 795, 797, 800, 809, 810, 812, 816, 820, 821-822,
           826—827, 828— 829, 834, 835, 836, 840 (2), 842, 845, 847, 849,
@@ -35713,22 +35736,22 @@
           836, 858, 896—897, 898, 901, 945, 965, 985, 1002. Wegelius, Karl
           Theodor Alexander, pankinjohtaja; Helsingin kaupungin edustaja,
           — valittu valitsijamieheksi. I. 24. » — jäseneksi S. U. I. 37.
-          tata &gt; , terv. lähet. II. 1085. —— hänen jäähyv. puh. R. ja A:lle,
-          II. 1095—1096. — hänen lausuntonsa: I. 83—84, 156, 166, 169-170,
-          388, 446—448, 490, 494. II. 561, 563, 567 (2), 638, 666—667, 698—699,
-          764—765, 998. Wiljakainen, Kaarle, toimittaja; Tampereen kaupungin
-          edustaja. valittu jäseneksi lis. S. V. I. 222. hänen lausuntonsa:
-          I. 72—73, 93, 139, 181—182, 453—454, 469— 471, 481—489, 487—488,
-          490, 525. II. 554,817—818, 822, 865—869, 872, 873, 876—877,932—933,
+          tata &gt; , terv. lähet. II. 1085. —— hänen jäähyv. puh. R. ja
+          A:lle, II. 1095—1096. — hänen lausuntonsa: I. 83—84, 156, 166,
+          169-170, 388, 446—448, 490, 494. II. 561, 563, 567 (2), 638, 666—667,
+          698—699, 764—765, 998. Wiljakainen, Kaarle, toimittaja; Tampereen
+          kaupungin edustaja. valittu jäseneksi lis. S. V. I. 222. hänen
+          lausuntonsa: I. 72—73, 93, 139, 181—182, 453—454, 469— 471, 481—489,
+          487—488, 490, 525. II. 554,817—818, 822, 865—869, 872, 873, 876—877,932—933,
           970—971. Winter, Gustaf Johannes, kaupunginlääkäri; Sortavalan
           kaupungin edustaja. —— valittu jäseneksi R. V. I. 115. in = »
           lis. S. V. 1 222 — — hänen lausuntonsa: I. 22, 30—31, 45— 46,
           99—100, 284—285, 300— 301, 316, 319—320, 332—335, 375—877, 397—398,
           398, 404, 468, 501. Wolff, Eugen, kauppias; Viipurin kaupungin
           edustaja. valittu jäseneksi suureen lähet. I. 5. oo » » puh. neuv.
-          I. 23. —n" &gt; valitsijamieheksi. I. 24. —=" &gt; —varam. V. V. I.
-          37. -— hänen lausuntonsa: I. 22, 213—214, 269—271, 315—316. II.
-          614—615, 688—689, 1054—1056.
+          I. 23. —n" &gt; valitsijamieheksi. I. 24. —=" &gt; —varam. V.
+          V. I. 37. -— hänen lausuntonsa: I. 22, 213—214, 269—271, 315—316.
+          II. 614—615, 688—689, 1054—1056.
         </note>
         <note xml:id="i-9Z2QxaS6R7fZR154hWw1dX">
           Z.
@@ -35860,8 +35883,8 @@
           n:o 4 A ja B.
         </note>
         <note xml:id="i-SAhwz2nqjgWSy1t4ageM89">
-          &gt; 8 uusista rautatierakennuksista. I. 89 pp. 98-—114 läh.; kts
-          R. V. miet. n:o 1.
+          &gt; 8 uusista rautatierakennuksista. I. 89 pp. 98-—114 läh.;
+          kts R. V. miet. n:o 1.
         </note>
         <pb facs="https://swerik-project.github.io/valtiopaivat-records-pdf/1905-1906/ptk_1905-1906_porvaristo_II/ptk_1905-1906_porvaristo_II-0594"/>
         <note xml:id="i-8f3wUcnnvVhmxDvoXxfGAw">
@@ -35873,8 +35896,9 @@
           n:o 6.
         </note>
         <note xml:id="i-2gD5xQDvAFxpyB8t6rVnmQ">
-          » 10 maaliskuun 31 p:nä 1879 elinkeinoista annetun 10 &amp;:än muuttamisesta.
-          I. 466; 499 pp.; 500—503 läh.; kts TI. V. miet. n:02.
+          » 10 maaliskuun 31 p:nä 1879 elinkeinoista annetun 10 &amp;:än
+          muuttamisesta. I. 466; 499 pp.; 500—503 läh.; kts TI. V. miet.
+          n:02.
         </note>
         <note xml:id="i-KRcggfWN2ehTnnSwTdB6Jc">
           » 11 uudesta valtiopäiväjärjestyksestä sekä vaalilaista Suomen
@@ -35895,8 +35919,8 @@
           756 —764 läh, kts L. V. miet. n:o 2.
         </note>
         <note xml:id="i-ED2Eq7bpF1fhsVsmhqfhvE">
-          &gt; 15 joka koskee lakia yleisistä kokouksista. II. 772 pp.; 774—780
-          läh.; kts L. V. miet. n:o 3.
+          &gt; 15 joka koskee lakia yleisistä kokouksista. II. 772 pp.;
+          774—780 läh.; kts L. V. miet. n:o 3.
         </note>
         <note xml:id="i-QxeYCcgMNFXMTzXwXWeriu">
           » 16 joka koskee lakia Suomen suuriruhtinanmaan eduskunnan oikeudesta
@@ -36287,9 +36311,9 @@
           31 p:nä 1879 elinkeinoista
         </note>
         <note xml:id="i-SbY1Cf8cnu56vC2Qi1WyGq">
-          annetun 10 &amp;:än muuttamisesta. II. 719—720 pp. 723—727 pp.; 729—752
-          p.; yht. ehd. II. 764 pp.; 767—771 p.; kts V. kirj. I. 523 ja
-          II. 773.
+          annetun 10 &amp;:än muuttamisesta. II. 719—720 pp. 723—727 pp.;
+          729—752 p.; yht. ehd. II. 764 pp.; 767—771 p.; kts V. kirj. I.
+          523 ja II. 773.
         </note>
         <note xml:id="i-Ex2TJPMG4WFwUUXbFVN6WV">
           Tarkastus, prvs:n jäsenten valtakirjain. I. 12.

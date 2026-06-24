@@ -1,5 +1,5 @@
-<?xml version='1.0' encoding='utf-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="ptk_1904-1905_porvaristo_II">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -25,8 +25,12 @@
   <text>
     <front>
       <div type="preface">
-        <head>ptk_1904-1905_porvaristo_II</head>
-        <docDate when="1904-01-01">1904-01-01</docDate>
+        <head>
+          ptk_1904-1905_porvaristo_II
+        </head>
+        <docDate when="1904-01-01">
+          1904-01-01
+        </docDate>
       </div>
     </front>
     <body>
@@ -558,15 +562,15 @@
           edesvastuulleen, mitenkä tällainen uhkaretki päättyy? Sillä maantunnukset,
           joita meillä on olemassa, viittaavat siihen, että tällaiseen uhkarohkeaan
           yritykseen ei olisi ryhtyminen. Sellaisia maantunnuksia ovat perustuslakimme.
-          Minä mainitsen tässä vaan 1772-vuoden hallitasmuodon 38 &amp;:n ja
-          semmoisia ovat vielä V. J:n pykälät 5, 17 ja 39. Onko näitä lojaalisesti
-          noudatettu? Edellinen menettelymme on myös sellainen maantunnus.
-          = Olemme ryhtyneet V. J:n 22--32 pykälissä mainittuihin toimiin.
-          Olemme pyytäneet säädyille puhemiehet ja avauttaneet valtiopäivät,
-          olemme valinneet valitsijamiehet ja asettaneet valiokunnat, olemme
-          pitäneet kolme valiokuntaa työssä, joiden lausuntoja olemme käsitelleet,
-          olemme toimituttaneet kirjoituksen Suuriruhtinaallemme, olemme
-          lähettäneet tuon yhä näykityn kotimaisen hallituksen esitykset
+          Minä mainitsen tässä vaan 1772-vuoden hallitasmuodon 38 &amp;:n
+          ja semmoisia ovat vielä V. J:n pykälät 5, 17 ja 39. Onko näitä
+          lojaalisesti noudatettu? Edellinen menettelymme on myös sellainen
+          maantunnus. = Olemme ryhtyneet V. J:n 22--32 pykälissä mainittuihin
+          toimiin. Olemme pyytäneet säädyille puhemiehet ja avauttaneet
+          valtiopäivät, olemme valinneet valitsijamiehet ja asettaneet valiokunnat,
+          olemme pitäneet kolme valiokuntaa työssä, joiden lausuntoja olemme
+          käsitelleet, olemme toimituttaneet kirjoituksen Suuriruhtinaallemme,
+          olemme lähettäneet tuon yhä näykityn kotimaisen hallituksen esitykset
           valiokuntiin. Ja nyt tahdomme viivytellä niiden anomusten lähettämistä
           valiokuntaan, jotka sisältävät kansan edustajainsa kautta lausumat
           toivomukset. Semmoisia tärkeitä toivomuksia on esitykset elinkeinolaista,
@@ -662,18 +666,19 @@
           Oikeus on jokaisella valtiopäivämiehellä tietää mitä tapahtuu.
           Sen nojassa uskallan nöyrimmästi interpelleerata meidän hyvin
           arvoisan säätymme valiokuntiin kuuluvia jäseniä. Kysyn siis: mitä
-          on tehty V. J:n 39 &amp;n noudattamiseksi ja kuinka paljon työtä valiokunnissa
-          on ennätetty tehdä? Sillä minä puolestani näkisin tehtävän työtä
-          tarmokkaasti, ei vain näennäisesti. Ken tietää millainen tuo odotettu
-          vastaus tulee olemaan? Tuleeko se ensinkään yhtaikaa, vai vähitellenkö.
-          Ajan merkit viittaavat tuollaiseen vähitellen tulemiseen. Rohkenen
-          muistuttaa ministerivaltiosihteerin nimityksestä, karkoitetuille
-          suodusta oikeudesta palata kotimaahan. Eikö ole mahdollista, että
-          tuo tärkeä vastaus tulee tällä tavoin vähitellen? Mutta jos ei
-          tule vastausta tahi ei tule semmoista, että se tyydyttää meitä,
-          silloin on aika kaikkien säätyjen yksimielisesti ryhtyä sellaisiin
-          täysin perustuslaillisiin ja lojaalisiin toimenpiteisiin valtiopäivien
-          lopettamiseksi, jota edellyttää V. J:n 5 $:n viimeinen lause.
+          on tehty V. J:n 39 &amp;n noudattamiseksi ja kuinka paljon työtä
+          valiokunnissa on ennätetty tehdä? Sillä minä puolestani näkisin
+          tehtävän työtä tarmokkaasti, ei vain näennäisesti. Ken tietää
+          millainen tuo odotettu vastaus tulee olemaan? Tuleeko se ensinkään
+          yhtaikaa, vai vähitellenkö. Ajan merkit viittaavat tuollaiseen
+          vähitellen tulemiseen. Rohkenen muistuttaa ministerivaltiosihteerin
+          nimityksestä, karkoitetuille suodusta oikeudesta palata kotimaahan.
+          Eikö ole mahdollista, että tuo tärkeä vastaus tulee tällä tavoin
+          vähitellen? Mutta jos ei tule vastausta tahi ei tule semmoista,
+          että se tyydyttää meitä, silloin on aika kaikkien säätyjen yksimielisesti
+          ryhtyä sellaisiin täysin perustuslaillisiin ja lojaalisiin toimenpiteisiin
+          valtiopäivien lopettamiseksi, jota edellyttää V. J:n 5 $:n viimeinen
+          lause.
         </note>
         <note xml:id="i-9SU6CkFcbciPRP4sNw33fx">
           Hävettää todellakin valitsijain edessä päivä päivältä istua täällä
@@ -2069,9 +2074,9 @@
           </seg>
         </u>
         <note xml:id="i-2m4hMg7DTcBeoTgn5AbQMJ">
-          Hra Hom&amp;n: Äfven jag anhåller, att denna fråga, som just gäller
-          äterställandet af den lagliga ordningen i landet, skulle genast
-          remitteras till utskotts behandling.
+          Hra Hom&amp;n: Äfven jag anhåller, att denna fråga, som just
+          gäller äterställandet af den lagliga ordningen i landet, skulle
+          genast remitteras till utskotts behandling.
         </note>
         <note xml:id="i-AU8hJo414Z7tciPTDKUYRX">
           Sittenkuin keskustelu oli tähän päättyneeksi julistettu, päätti
@@ -2488,24 +2493,24 @@
           tekemästä työtä valtiopäivillä elikkä ainakin tahtovat luopua
           ajaksi mandaatistansa. Minuun teki tämä ilmoitus ikävän vaikutuksen.
           Minä nimittäin katson, että se on aivan ristiriidassa katsoen
-          siihen, mitä V. J:n 17 &amp;, sen viimeinen kohta, säätää. Siinä sanotaan:
-          »valtiopäiväin aikana älköön valtiopäivämies poissanouko toimestansa,
-          ellei hän näytä sellaista estettä, jonka se sääty hyväksyy, johon
-          hän kuuluu.» Olen odottanut, että säädylle annettaisiin tilaisuus
-          lausua, ovatko nämät herrat tuoneet esiin semmoisen esteen, että
-          heidän voitaisiin sallia olla poissa ei ainoastaan säädyn, vaan
-          myös valiokuntien kokouksista. Minä tiedän nimittäin, että; ainakin
-          muutamat näistä viidestä säädyn jäsenestä ovat valitut myös valiokuntiin
-          ja V. J:n 39 $ sanoo: »jos valiokunnan jäsen on kolme kertaa ilman
-          laillisetta esteettä tai erinäisettä luvatta jäänyt valiokunnan
-          kokouksista pois, on se ilmoitettava asianomaiselle säädylle,
-          jonka tulee tämän johdosta pitää semmoista tointa, kuin asianhaarat
-          vaativat.» Minun täytyy sanoa, että tämä poisjääminen säädystä
-          ja valiokuntien kokouksista on herättänyt minussa varsin ikävän
-          vaikutuksen. Olen tosin huomannut, että tämä poisjääminen tapahtuu
-          jonkunlaisella perustuslaillisella syyllä, että nämät herrat tahtovat
-          maan edessä osoittaa olevansa meistä kaikista eniten perustuslailliset.
-          Mutta joka kerta,
+          siihen, mitä V. J:n 17 &amp;, sen viimeinen kohta, säätää. Siinä
+          sanotaan: »valtiopäiväin aikana älköön valtiopäivämies poissanouko
+          toimestansa, ellei hän näytä sellaista estettä, jonka se sääty
+          hyväksyy, johon hän kuuluu.» Olen odottanut, että säädylle annettaisiin
+          tilaisuus lausua, ovatko nämät herrat tuoneet esiin semmoisen
+          esteen, että heidän voitaisiin sallia olla poissa ei ainoastaan
+          säädyn, vaan myös valiokuntien kokouksista. Minä tiedän nimittäin,
+          että; ainakin muutamat näistä viidestä säädyn jäsenestä ovat valitut
+          myös valiokuntiin ja V. J:n 39 $ sanoo: »jos valiokunnan jäsen
+          on kolme kertaa ilman laillisetta esteettä tai erinäisettä luvatta
+          jäänyt valiokunnan kokouksista pois, on se ilmoitettava asianomaiselle
+          säädylle, jonka tulee tämän johdosta pitää semmoista tointa, kuin
+          asianhaarat vaativat.» Minun täytyy sanoa, että tämä poisjääminen
+          säädystä ja valiokuntien kokouksista on herättänyt minussa varsin
+          ikävän vaikutuksen. Olen tosin huomannut, että tämä poisjääminen
+          tapahtuu jonkunlaisella perustuslaillisella syyllä, että nämät
+          herrat tahtovat maan edessä osoittaa olevansa meistä kaikista
+          eniten perustuslailliset. Mutta joka kerta,
         </note>
         <pb facs="https://swerik-project.github.io/valtiopaivat-records-pdf/1904-1905/ptk_1904-1905_porvaristo_II/ptk_1904-1905_porvaristo_II-0046"/>
         <note xml:id="i-AzupkoYsc7atvr5j8YwQtP">
@@ -3444,9 +3449,9 @@
           täysi-istunnossa joulukuun 29 p:nä 1904 pöydällepantuja;
         </note>
         <note xml:id="i-AoLXTU24K6HSpuNhf3uyQv">
-          &gt; bra Renvallin, että Savonlinnan reaalilyseoon saataisiin ottaa
-          myöskin naisoppilaita sekä että vaalivapaus latinankieleen nähden
-          ulotettaisiin lyseon kaikille luokille;
+          &gt; bra Renvallin, että Savonlinnan reaalilyseoon saataisiin
+          ottaa myöskin naisoppilaita sekä että vaalivapaus latinankieleen
+          nähden ulotettaisiin lyseon kaikille luokille;
         </note>
         <note xml:id="i-6WA1bKm36uYMHCp9MigBhw">
           hra Hyn6nin, toimenpiteistä kotimaisen merenkulun edistämiseksi;
@@ -3626,8 +3631,8 @@
           nämligen:
         </note>
         <note xml:id="i-YEhKhLgx6hBn6CgaK2tTpT">
-          för sekreteraren. . . &lt; «= s R 1,000 mark för notarien « . so
-          os LL 300 för tvänne vaktmästare, hvardera ä 100 mark, till-
+          för sekreteraren. . . &lt; «= s R 1,000 mark för notarien « .
+          so os LL 300 för tvänne vaktmästare, hvardera ä 100 mark, till-
         </note>
         <note xml:id="i-V6q4vfR2DBTyPWAyjFvroc">
           sammans KL R
@@ -4655,18 +4660,18 @@
           suureen kysymykseen on saapunut. Ja vasta viikkokausien kuluttua
           olisivat säädyt tilaisuudessa saada mietintöjä valiokunnista.
           Mitään muuta ohjausta meillä ei ole kuin omat perustuslakimme.
-          V. J:n 39 &amp; velvoittaa ehdottomasti ryhtymään työhön. Se ei mistäään
-          viivytyksestä tiedä. Mutta vielä yksi näkökanta. Sitä, mitä yhdellä
-          kynänvedolla hajotettiin, ei toisella kynänvedolla voida rakentaa.
-          Siihen vaaditaan ainakin jonkun verran aikaa ja tarkkaa miettimistä
-          ja näin ollen olemme sitten tulleet valtiopäivätyön loppuun. Muistan,
-          että istunnossa tammikuun 27 päivänä eräs arvoisa puhuja suvaitsi
-          mainita viivyttelyä jarrutukseksi. Siitä pahastuttiin, mutta minä
-          en tietä, miksi tällaista menettelyä nyt kutsutaan. V. J:tä on
-          ehdottomasti noudatettava, ja jos yleensä kansa asettuisi sellaiselle
-          kannalle, kuin muutamat puhujat ovat esittäneet, että on noudatettava
-          vain tervettä järkeä, niin tullaan sitten subjektiivisen järjen
-          laittomuuteen. Minusta tuntuu mahdottomalta, että valiokunnat
+          V. J:n 39 &amp; velvoittaa ehdottomasti ryhtymään työhön. Se ei
+          mistäään viivytyksestä tiedä. Mutta vielä yksi näkökanta. Sitä,
+          mitä yhdellä kynänvedolla hajotettiin, ei toisella kynänvedolla
+          voida rakentaa. Siihen vaaditaan ainakin jonkun verran aikaa ja
+          tarkkaa miettimistä ja näin ollen olemme sitten tulleet valtiopäivätyön
+          loppuun. Muistan, että istunnossa tammikuun 27 päivänä eräs arvoisa
+          puhuja suvaitsi mainita viivyttelyä jarrutukseksi. Siitä pahastuttiin,
+          mutta minä en tietä, miksi tällaista menettelyä nyt kutsutaan.
+          V. J:tä on ehdottomasti noudatettava, ja jos yleensä kansa asettuisi
+          sellaiselle kannalle, kuin muutamat puhujat ovat esittäneet, että
+          on noudatettava vain tervettä järkeä, niin tullaan sitten subjektiivisen
+          järjen laittomuuteen. Minusta tuntuu mahdottomalta, että valiokunnat
           ovat oikeutetut ehdottamaan tällaista, kuin nyt nämä kysymyksessä
           olevat valiokunnat ovat ehdottaneet, ja vielä mahdottomalta minusta
           tuntuu, että sääty voisi sellaista menettelyä hyväksyä. — Aivan
@@ -4748,9 +4753,9 @@
           voisi sisältyä siihen töiden järjestämisvapauteen, josta vasta
           mainitsin, jos ennakolta mentäisiin sitomaan työtapaa niin, että
           se mahdollisesti tulisi ristiriitaan ja soveltumattomaksi V.J:n
-          39 &amp;:n ynnä muiden määräysten kanssa. Nyt puheenalaisella yhteensovituksella
-          saataisiin kuitenkin asia ratkaistuksi ja yhtymistä aikaan siinä
-          kohden, joka tällä hetkellä on tärkein ja välttämätön
+          39 &amp;:n ynnä muiden määräysten kanssa. Nyt puheenalaisella
+          yhteensovituksella saataisiin kuitenkin asia ratkaistuksi ja yhtymistä
+          aikaan siinä kohden, joka tällä hetkellä on tärkein ja välttämätön
         </note>
         <pb facs="https://swerik-project.github.io/valtiopaivat-records-pdf/1904-1905/ptk_1904-1905_porvaristo_II/ptk_1904-1905_porvaristo_II-0083"/>
         <note xml:id="i-VQRDbRaWKkJCbFqzYKvNzd">
@@ -5284,8 +5289,8 @@
           ollut sen laatuinen, että se liittyi edellämainitussa anomuksessa
           käsiteltyihin kysymyksiin tai kuului valtiosäätyjen yksityisiin
           asioihin, jonka ohessa yllämainittua menettelyä ei ollut sovellettava
-          V. J:n 36 &amp;:n 2 momentissa ja 38 :ssä mainittuihin, valtio- ja
-          pankkivaliokuntain ratkaistavina ja käsiteltävinä oleviin asioihin.
+          V. J:n 36 &amp;:n 2 momentissa ja 38 :ssä mainittuihin, valtio-
+          ja pankkivaliokuntain ratkaistavina ja käsiteltävinä oleviin asioihin.
         </note>
         <note xml:id="i-NhsnnhCHq6cP7E65qmFFA9">
           Äänestyksen tulokseen katsoen raukesi sen enemmän lausunnon antaminen
@@ -7147,8 +7152,8 @@
         <note xml:id="i-Xaj5cLMcH6G7hkG83zNPec">
           ständigheten, att en sådan framställning tillställts senaten,
           bör enligt vår uppfattning kunna betraktas som en sådan under
-          landtdagstiden inträffad händelse, hvilken enligt &amp; 51 i L. O.
-          berättigar till väckande af petition äfven efter det den lagstadgade
+          landtdagstiden inträffad händelse, hvilken enligt &amp; 51 i L.
+          O. berättigar till väckande af petition äfven efter det den lagstadgade
           tiden härför utgått. Vi våga därför hos vällofliga borgareståndet
           göra följande vördsamma hemställan.
         </note>
@@ -7718,8 +7723,8 @@
         <note xml:id="i-FXEtGci8n82KGbjW7PkFZ9">
           n:o 15 sisältävä ehdotuksen armolliseksi asetukseksi 10/3; p:nä
           heinäkuuta 1902 annetun, rakennuskaaren 17 ja 18 luvun toisin
-          kuuluviksi säätävän lain 17 luvun 12 &amp;n ja 18 luvun 3 &amp;:n muuttamisesta;
-          ja
+          kuuluviksi säätävän lain 17 luvun 12 &amp;n ja 18 luvun 3 &amp;:n
+          muuttamisesta; ja
         </note>
         <note xml:id="i-dur4yKxU6CLzszvhjdLTh">
           n:o 16 työaikaa leipomoissa koskevan asetuksen antamisesta.
@@ -8446,7 +8451,8 @@
           Esiteltiin viime täysi-istunnossa pöydällepantu K. M:n armollinen
           esitys n:o 15, sisältävä ehdotuksen armolliseksi asetukseksi 10/0,
           p:nä heinäkuuta 1902 annetun, rakennuskaaren 17 ja 18 luvun toisin
-          kuuluviksi säätävän lain 17 luvun 12 $:n ja 18 luvun 3 &amp;n muuttamisesta.
+          kuuluviksi säätävän lain 17 luvun 12 $:n ja 18 luvun 3 &amp;n
+          muuttamisesta.
         </note>
         <note xml:id="i-Q8hHJf8gmKc6rFZ98C5otG">
           Puhemiesneuvoston ehdotuksen mukaisesti lähetettiin esitys laki-
@@ -8635,8 +8641,8 @@
           joka siinä mainittuine asiakirjoineen oli näin kuuluva:
         </note>
         <note xml:id="i-LwYiU3E288HRh9P5USinYk">
-          Hyvin arvoisan porvarissäädyn puhemiehelle herra &gt; asessori Hugo
-          Liliuselle.
+          Hyvin arvoisan porvarissäädyn puhemiehelle herra &gt; asessori
+          Hugo Liliuselle.
         </note>
         <note xml:id="i-KBmqXh9qcPhUZ5X2qWyG2Q">
           Täten on minulla kunnia lähettää teille, herra asessori, suomennoksena
@@ -9446,8 +9452,8 @@
         </note>
         <note xml:id="i-U6teaUMiPTQeXCvgQ6wncT">
           Hrt Kari, Stenström, Parviainen, Johannes Castrén, Snellman,
-          Renvali, August Jusö&amp;lius ja Felix Heikel olivat pyytäneet, että
-          yksityisten asiain tähden saisivat olla poissa ensi täysi-istunnosta,
+          Renvali, August Jusö&amp;lius ja Felix Heikel olivat pyytäneet,
+          että yksityisten asiain tähden saisivat olla poissa ensi täysi-istunnosta,
           hrt Heikel ja Castrén kuitenkin ainoastaan tarvittaessa, ja sääty
           suostui heidän pyyntöönsä.
         </note>
@@ -10045,19 +10051,19 @@
           till behandling upptages af ständet, ville jag fä anmäla några
           mindre inadvertenser, hvilka tyvärr befunnits hafva insmugit sig
           i betänkandet. I den finska texten sida 4 heter: det »Verrattain
-          hyvien viljavuosien 1900 ja 1901.&gt; Detta uttryck, som också i
-          saken värkar förvillande, har tillkommit genom en något för fri
-          öfversättning af det motsvarande svenska uttrycket, hvilket däremot
-          är riktigt. Det borde icke heta: efter dessa två år», utan: »efter
-          skördarna under dessa två år». I det svenska betänkandet har å
-          sida 10 insmugit sig ett olämpligt uttryck. I första raden af
-          andra stycket heter det: »Finlands bank, som under den tid tabellerna
-          omfatta&gt;. Såsom man redan vid ett ytligt genomögande af betänkandet
-          finner, är denna tid ingen tid alls, enär tabellerna omfatta olika
-          perioder. Meningen är: den tid öfversikten omfattar. Hvad åter
-          beträffar den på samma sida befintliga tabellen, så är den, såsom
-          också af texten med all tydlighet framgår, afsedd endast för ett
-          enda ändamål, nämligen att åskåd-
+          hyvien viljavuosien 1900 ja 1901.&gt; Detta uttryck, som också
+          i saken värkar förvillande, har tillkommit genom en något för
+          fri öfversättning af det motsvarande svenska uttrycket, hvilket
+          däremot är riktigt. Det borde icke heta: efter dessa två år»,
+          utan: »efter skördarna under dessa två år». I det svenska betänkandet
+          har å sida 10 insmugit sig ett olämpligt uttryck. I första raden
+          af andra stycket heter det: »Finlands bank, som under den tid
+          tabellerna omfatta&gt;. Såsom man redan vid ett ytligt genomögande
+          af betänkandet finner, är denna tid ingen tid alls, enär tabellerna
+          omfatta olika perioder. Meningen är: den tid öfversikten omfattar.
+          Hvad åter beträffar den på samma sida befintliga tabellen, så
+          är den, såsom också af texten med all tydlighet framgår, afsedd
+          endast för ett enda ändamål, nämligen att åskåd-
         </note>
         <pb facs="https://swerik-project.github.io/valtiopaivat-records-pdf/1904-1905/ptk_1904-1905_porvaristo_II/ptk_1904-1905_porvaristo_II-0179"/>
         <note xml:id="i-7hEe9eNhBeGGBpKNRE8sVF">
@@ -10549,8 +10555,8 @@
           Majestäts och ständernas sammanstämmande beslut utfärdas till
           vederbörandes efterrättelse.s Sedan det sålunda stadgats, hvilka
           ämnen skulle utgöra föremäl för gemensam lagstiftning af regent
-          och ständer, bestämmes rörande bankfullmäktige i 15 &amp; »att dessa
-          egde efter behof och omständigheterna meddela sädana föreskrifter,
+          och ständer, bestämmes rörande bankfullmäktige i 15 &amp; »att
+          dessa egde efter behof och omständigheterna meddela sädana föreskrifter,
           som för bankens ordning, säkerhet, beständ och förkofran kunde
           finnas nödiga och tjänliga samt icke angä de frägor, om hvilka
           här ofvanför i &amp; 11 är stadgadt», d. v. s. särskildt frågorna
@@ -10562,10 +10568,10 @@
           anslag af bankens medel erfordras, äligger det direktionen att
           öfverlämna ärendet till bankfullmäktiges afgörande», hvaremot
           i $ 23 säges: &gt;Om sedlarnas valör, lydelse, form och utseende
-          är särskildt stadgadt.&gt; Sistnämda frågor höra nämligen till sådana,
-          om hvilka bankförvaltningen enligt det tidigare anförda icke kan
-          allena afgöra. 1 öfverensstämmelse härmed mäste säledes själfva
-          tryckningen af sedlarna vara en angelägenhet, som uteslutande
+          är särskildt stadgadt.&gt; Sistnämda frågor höra nämligen till
+          sådana, om hvilka bankförvaltningen enligt det tidigare anförda
+          icke kan allena afgöra. 1 öfverensstämmelse härmed mäste säledes
+          själfva tryckningen af sedlarna vara en angelägenhet, som uteslutande
           tillhör ständerna, eller man kan, för att vidsträktare formulera
           satsen, säga: ständerna hafva uteslutande rätt att räda öfver
           banken och bestämma ordningen för dess värksamhet inom gränserna
@@ -10598,8 +10604,8 @@
           uteslutande bestämningsrätt rörande värden af Finlands bank endast
           med iakttagande af de gränser, hvilka af mig tidigare framhöllos,
           och skulle jag säledes föreslä äterremiss till utskottet för omformulering
-          af klämmen &amp; sida 13 därhän, att den skulle komma att lyda: att
-          ständerna ville besluta hos Hans Kejserliga Majestät i undergänighet
+          af klämmen &amp; sida 13 därhän, att den skulle komma att lyda:
+          att ständerna ville besluta hos Hans Kejserliga Majestät i undergänighet
           anmäla, att ständerna finna ordningen för tryckandet af Finlands
           Banks sedlar vara en angelägenhet, hvars bestämmande enligt lag
           ankommer uteslutande &amp; ständerna.
@@ -11304,10 +11310,10 @@
         </note>
         <note xml:id="i-9UnFtwBfqbsUPtowdfGG7u">
           En annan anmärkning kan riktas mot tab. 5, där rubriken är »Bankens
-          kassabestånd vid utgången af åren 1899—1903&gt;. Enligt denna tabell
-          skulle nämligen t. ex. kassabeståndet ultimo 1903 varit öfver
-          230 miljoner, hvilket icke kan undgå att värka förbryllande, då
-          bankens reglementsenligt angifna kassa för nämda dag i själfva
+          kassabestånd vid utgången af åren 1899—1903&gt;. Enligt denna
+          tabell skulle nämligen t. ex. kassabeståndet ultimo 1903 varit
+          öfver 230 miljoner, hvilket icke kan undgå att värka förbryllande,
+          då bankens reglementsenligt angifna kassa för nämda dag i själfva
           värket var blott något öfver 21 miljoner. Det vore således skäl
           att beträffande denna tabell för framtiden uppfinna någon mindre
           förvillande rubrik.
@@ -11943,10 +11949,10 @@
             Minä myös kannatan hyväksyttäväksi hra Sehvindtin tekemät huomautukset.
             Suomalaisen mietinnön 7 sivulla on lisäksi lause, joka ei ole
             hyvää suomenkieltä ja jota siis olisi korjattava, jos mietintö
-            kerran lähetetään takaisin valiokuntaan. Siinä sanotaan &gt;— — —
-            havaitsee valiokunta olevan puoltaminen määrärahaa tulevaksi rahainhoitokaudeksi»
-            — —. Luonnollisesti pitäisi olla »havaitsee valiokunta tarpeelliseksi
-            puoltaa..
+            kerran lähetetään takaisin valiokuntaan. Siinä sanotaan &gt;—
+            — — havaitsee valiokunta olevan puoltaminen määrärahaa tulevaksi
+            rahainhoitokaudeksi» — —. Luonnollisesti pitäisi olla »havaitsee
+            valiokunta tarpeelliseksi puoltaa..
           </seg>
         </u>
         <note xml:id="i-2NtPAqjJAHiHMTXQYUC39q">
@@ -15258,21 +15264,22 @@
           792 Virkavallan väärinkäytökset Viipurin läänissä. 7 p. huhtik.
         </note>
         <note xml:id="i-3NgBDeZg9EKumZhDuqukrv">
-          heterna &amp; den andra sidan råder fullt förtroende och fullt samförständ.
-          Folket mäste vara öfvertygadt om, att de styrande värkligen vilja
-          inom samfundslifvets alla omräden frängä godtycket och läta Jagen
-          och endast lagen räda, läta lag gä öfver allas hufvud och läta
-          laglighetens anda genomtränga alla sina handlingar. Folkets rättskänsla
-          kan ej vara tillfreds med, att det styres af personer, som tillskyndat
-          ej mindre samhället i dess helhet än enskilda kommuner, enskilda
-          familjer och enskilda personer såväl ekonomiska som fysiska och
-          psykiska lidanden samt moraliska marter, ej därför att de skulle
-          brutit mot lag, utan därför att de hållit fast vid lag och ej
-          fogat sig i ett system, som hade nationens förintelse till mäl.
-          Man kommer, kanske ofta med orätt, att misstro myndigheternas
-          afsikter, och nydaningsarbetet försväras, ofrid och misstro komma
-          att fortlefva, sä länge en mängd personer, högre och lägre, som
-          stått i denationaliseringssystemets tjänst, kvarstä vid sina befattningar.
+          heterna &amp; den andra sidan råder fullt förtroende och fullt
+          samförständ. Folket mäste vara öfvertygadt om, att de styrande
+          värkligen vilja inom samfundslifvets alla omräden frängä godtycket
+          och läta Jagen och endast lagen räda, läta lag gä öfver allas
+          hufvud och läta laglighetens anda genomtränga alla sina handlingar.
+          Folkets rättskänsla kan ej vara tillfreds med, att det styres
+          af personer, som tillskyndat ej mindre samhället i dess helhet
+          än enskilda kommuner, enskilda familjer och enskilda personer
+          såväl ekonomiska som fysiska och psykiska lidanden samt moraliska
+          marter, ej därför att de skulle brutit mot lag, utan därför att
+          de hållit fast vid lag och ej fogat sig i ett system, som hade
+          nationens förintelse till mäl. Man kommer, kanske ofta med orätt,
+          att misstro myndigheternas afsikter, och nydaningsarbetet försväras,
+          ofrid och misstro komma att fortlefva, sä länge en mängd personer,
+          högre och lägre, som stått i denationaliseringssystemets tjänst,
+          kvarstä vid sina befattningar.
         </note>
         <note xml:id="i-Gmzmji26CeQDH2VoBMicWG">
           Om folket skall lugnas och samförständ skall ävägabringas mellan
@@ -16106,9 +16113,9 @@
             mietinnön 19 sivulla puhutaan kerran toisensa perästä kotitutkinnosta,
             mutta sitte sivun lopussa toisella rivillä alhaalta lukien esiintyy
             lause: &gt;— — minkä Savonlinnan hiippakunnan tuomiokapituli edellä
-            mainittujen kotitarkastuksien johdosta oli lähettänyt — —&gt;. Minusta
-            tuntuu kuin sana »kotitarkastus» ei vastaisi sitä mitä edellä
-            on tarkoitettu; pitäisi kai siinäkin olla puhe »kotitutkinnosta».
+            mainittujen kotitarkastuksien johdosta oli lähettänyt — —&gt;.
+            Minusta tuntuu kuin sana »kotitarkastus» ei vastaisi sitä mitä
+            edellä on tarkoitettu; pitäisi kai siinäkin olla puhe »kotitutkinnosta».
           </seg>
         </u>
         <pb facs="https://swerik-project.github.io/valtiopaivat-records-pdf/1904-1905/ptk_1904-1905_porvaristo_II/ptk_1904-1905_porvaristo_II-0286"/>
@@ -18094,9 +18101,9 @@
           <seg>
             Med anledning af Hr Hynöns andra kläm vill jag endast hemställa
             till ständet, huruvida ständet anser tiden vara sådan, att någon
-            skolkomitt&amp; skulle kunna nedsättas. För min del tror jag, att
-            vi kunna vara nöjda, om skolan nu fär draga andan ifrän alla de
-            omstörtningar, som den varit utsatt för. Och vi ätervända hälst
+            skolkomitt&amp; skulle kunna nedsättas. För min del tror jag,
+            att vi kunna vara nöjda, om skolan nu fär draga andan ifrän alla
+            de omstörtningar, som den varit utsatt för. Och vi ätervända hälst
             till 1901 ärs skolplan, som äfven omnämnes i petitionen från prästeståndet.
             Något »tilisvidare» i denna kläm tror jag icke behöfves. Det är
             alldeles själffallet, att skolan icke kan komma att i evighet
@@ -18779,8 +18786,8 @@
         </note>
         <note xml:id="i-MxYEiGwxoCY7GKQLLrJcjh">
           ställa Cygnus pä samma linje som den nuvarande skolstyrelsen
-          är något för starkt. (Bra). Att Cygn&amp;us förde korrespondens, och
-          en ytterst liflig korrespondens, det känner jag väl, men denna
+          är något för starkt. (Bra). Att Cygn&amp;us förde korrespondens,
+          och en ytterst liflig korrespondens, det känner jag väl, men denna
           korrespondens gällde icke gendarmanvisningar, den gällde uppfostrans
           lifsfrågor och folkskolans innersta angelägenheter samt lärarekårens
           sedliga uppfostran, men aldrig någonting sådant, som här är fråga
@@ -20149,8 +20156,8 @@
           osaa Senaatin istuntoihin kenraalikuvernöörin johtaessa puhetta».
           — Siv. 15: »Joka tapauksessa näyttää aiheettomalta pysyttää kenraalikuvernöörin
           apulaisella nykyisiä runsaita palkkaetuja». Vähän myöhemmin samalla
-          sivulla: &gt;Laitoksen ylläpitäminen sen laatuisia tarkoituksia varten
-          ei enää saa tulla kysymykseen, olipa määräraha kuinka vähäpätöinen
+          sivulla: &gt;Laitoksen ylläpitäminen sen laatuisia tarkoituksia
+          varten ei enää saa tulla kysymykseen, olipa määräraha kuinka vähäpätöinen
           tahansa». Lopuksi viimeinen paikka tässä mietinnön osassa siv.
           17: »Edellä oleva esitys näyttää oikeuttavan lausumaan, etteivät
           ne varat, joita edellä mainituissa olosuhteissa on käytetty valtiosihteerinviraston
@@ -20320,8 +20327,8 @@
           Mutta muullakin tavoin on vielä samassa poliisilaitoksessa harjoitettu
           valtiovarain väärinkäyttöä. Minulla on takanani koko joukko ololippuja,
           joihin on merkitty lunastukseksi 1 mk. 10 penniä. Toimituspalkkoja
-          koskevan asetuksen 2 &amp;:ssä mainitaan, että poliisilaitoksen antamasta
-          todistuksesta on otettava 60 penniä, ja suostuntaveroasetuksessa
+          koskevan asetuksen 2 &amp;:ssä mainitaan, että poliisilaitoksen
+          antamasta todistuksesta on otettava 60 penniä, ja suostuntaveroasetuksessa
           määrätään, että virastojen antamat todistukset ovat varustettavatmw
           50 pennin karttamerkillä. Tähän asti on ollut tavallista, että
           poliisilaitos on sellaisista ololipuista, joita tänne muualta
@@ -20845,8 +20852,8 @@
             affattad. Där heter det vutan någon olägenhet för de postala relationerna
             mellan kejsaredömet och storfurstendömet borde de frän den lagliga
             ordningen afvikande förfogandena, för hvilka det finska postvärket
-            varit föremäl, kunna aflägsnas.&gt; Sä snart dessa förfoganden en
-            gång afvika från den lagliga ordningen, sä böra de aflägsnas.
+            varit föremäl, kunna aflägsnas.&gt; Sä snart dessa förfoganden
+            en gång afvika från den lagliga ordningen, sä böra de aflägsnas.
             Det kan icke vara fräga, om de kunna aflägsnas eller ej, de mäste
             aflägsnas utan afseende pä. om det medför olägenhet för de postala
             relationerna eller icke. Sä snart de äro olagliga mäste de aflägsnas.
@@ -20955,8 +20962,8 @@
           hos friherre von Born och andra personer i Pärnä socken, anser
           jag mig böra upplysa, att det är samma person och att den gratifikation
           han erhöll af 1,200 mark, pä sätt statsutskottet ocksä framhäller
-          &amp; sida 37, meddelats honom samtidigt, dä hos honom yppats ett
-          oredovisadt belopp af kronorester och saköresmedel, uppgäende
+          &amp; sida 37, meddelats honom samtidigt, dä hos honom yppats
+          ett oredovisadt belopp af kronorester och saköresmedel, uppgäende
           till 1,211 mark 82 penni.
         </note>
         <note xml:id="i-KqfG4xVjpesWHW2ePXFumQ">
@@ -20994,10 +21001,10 @@
         </note>
         <u who="unknown">
           <seg>
-            På sätt af anmärkningen &amp; pag. 37 framgår, uppgifves icke uti
-            statsräkenskaperna ändamälet eller orsaken, hvarför förra prokuratorn
-            erhöll denna gratifikation. Jag är därför icke i tillfälle att
-            härom lämna någon närmare upplysning. Men att denna gratifikation
+            På sätt af anmärkningen &amp; pag. 37 framgår, uppgifves icke
+            uti statsräkenskaperna ändamälet eller orsaken, hvarför förra
+            prokuratorn erhöll denna gratifikation. Jag är därför icke i tillfälle
+            att härom lämna någon närmare upplysning. Men att denna gratifikation
             till sitt belopp ungefärligen motsvarar de kostnader, som adelskap
             medför, anser jag mig böra på grund af interpellationen meddela.
           </seg>
@@ -21397,25 +21404,25 @@
           myndighet», Det citerade uttrycket är ju en mystifikation, men
           då man tager hänsyn till den i slika myndigheter rådande halfbildningen,
           kunde man dock tolka det så, att afsikten var att angifva såsom
-          utgångspunkt för åtgärden i fråga en »judiciell myndighet&gt;, uppenbarligen
-          Åbo hofrätt. Denna episod har varit ett godt exempel på den utomordentliga
-          inkonsekvens, som vid censurens handhafvande är rådande, men dess
-          värre också på en annan omständighet utaf mycket mera nedstämmande
-          art, nämligen på oviljan hos en högtställd person eller myndighet,
-          som ansett sin rätt kränkt, att skaffa sig upprättelse på det
-          uti våra lagar föreskrifna sättet — och på ifvern att skaffa sig
-          denna upprättelse, eller rättare sagdt hämd, på ett sådant sätt,
-          som nu beskrifvits. För den, som känner till denna och likartade
-          affärer, måste det värka såsom en äfven i våra förhållanden upprörande
-          cynism, då man ser, att en utaf den nämda hofrättens ledamöter
-          utpekats såsom en sannolik kandidat till den lediga posten såsom
-          främsta man i vår inhemska styrelse. Det förefaller ju visserligen
-          helt naturligt och konsekvent, att denna chefspost besättes med
-          en person, som icke står regeringspartiet främmande. Men detta
-          parti har ju dock ännu uti sina leder personligheter, hvilka,
-          hurudan deras politiska uppfattning för öfrigt än må vara, dock
-          icke låtit sina namn makuleras genom handlingar, som stå i uppenbar
-          strid mot gällande lag.
+          utgångspunkt för åtgärden i fråga en »judiciell myndighet&gt;,
+          uppenbarligen Åbo hofrätt. Denna episod har varit ett godt exempel
+          på den utomordentliga inkonsekvens, som vid censurens handhafvande
+          är rådande, men dess värre också på en annan omständighet utaf
+          mycket mera nedstämmande art, nämligen på oviljan hos en högtställd
+          person eller myndighet, som ansett sin rätt kränkt, att skaffa
+          sig upprättelse på det uti våra lagar föreskrifna sättet — och
+          på ifvern att skaffa sig denna upprättelse, eller rättare sagdt
+          hämd, på ett sådant sätt, som nu beskrifvits. För den, som känner
+          till denna och likartade affärer, måste det värka såsom en äfven
+          i våra förhållanden upprörande cynism, då man ser, att en utaf
+          den nämda hofrättens ledamöter utpekats såsom en sannolik kandidat
+          till den lediga posten såsom främsta man i vår inhemska styrelse.
+          Det förefaller ju visserligen helt naturligt och konsekvent, att
+          denna chefspost besättes med en person, som icke står regeringspartiet
+          främmande. Men detta parti har ju dock ännu uti sina leder personligheter,
+          hvilka, hurudan deras politiska uppfattning för öfrigt än må vara,
+          dock icke låtit sina namn makuleras genom handlingar, som stå
+          i uppenbar strid mot gällande lag.
         </note>
         <note xml:id="i-SSCUWCVo6fR9dFVweoHkWC">
           På tal om utnämningsfrågor måste jag såsom en angelägenhet, hvilken
@@ -23619,8 +23626,8 @@
           jonka mukaan mietintöjä ei pitäisi lähettää valiokunnista eikä
           valiokuntien ryhtyä minkäänlaiseen työhön, pyytäisin ehdottaa,
           että säädyt hyväksyisivät esitysmietinnön viimeisen vastalauseen
-          ponnen, joka kuuluu: &gt;että säädyt tätä nykyä eivät ottaisi kysymyksessä
-          olevaa esitysehdotusta asiallisen käsittelyn alaiseksi.»
+          ponnen, joka kuuluu: &gt;että säädyt tätä nykyä eivät ottaisi
+          kysymyksessä olevaa esitysehdotusta asiallisen käsittelyn alaiseksi.»
         </note>
         <note xml:id="i-Xsv9vaGcTW3NSJk35c641G" type="speaker">
           Hra Hammarström:
@@ -24220,7 +24227,8 @@
           förvaltningssystem framkallade missförhällanden pä skolväsendets
           omräde, enligt utskottet tillhandakomna protokolisutdrag, blifvit
           af samtliga stånd i sin helhet godkändt; och har utskottet förty,
-          jämlikt L. O. &amp; 67, öfverlämnat handlingarna i ärendet ät expeditionsutskottet.
+          jämlikt L. O. &amp; 67, öfverlämnat handlingarna i ärendet ät
+          expeditionsutskottet.
         </note>
         <note xml:id="i-6ZfPXpSUbUz8CDWfP44PE1">
           Pä utskottets vägnar: A. Wallensköld.
@@ -24703,17 +24711,17 @@
           </seg>
         </u>
         <note xml:id="i-M8ANLS7xVpd9rRhRUoc981">
-          Hra Hom&amp;n: Jag ber att pä det varmaste få understöda det af hr
-          Sundvall gjorda förslaget angäende ökning af beloppet för fortsättningskurser
-          vid folkskolorna. Jag kan af egen erfarenhet intyga, huru viktiga
-          dessa fortsättningskurser äro och huru mycket godt de hafva gjort
-          i östra Finland. Jag vet,atti Viborgs län dessa fortsättningskurser
-          bedrifvits med stor energi och pä många orter, men att deras antal
-          i hög grad gått nedåt till följd af brist pä materiellt understöd,
-          oaktadt desamma genom privata bidrag och hjälp af enskilda föreningar
-          försökts upprätthällas. Jag anhåller därför att pä det varmaste
-          få understöda hr Sundvalis förslag om, att anslaget mätte höjas
-          till 60,000 mark.
+          Hra Hom&amp;n: Jag ber att pä det varmaste få understöda det
+          af hr Sundvall gjorda förslaget angäende ökning af beloppet för
+          fortsättningskurser vid folkskolorna. Jag kan af egen erfarenhet
+          intyga, huru viktiga dessa fortsättningskurser äro och huru mycket
+          godt de hafva gjort i östra Finland. Jag vet,atti Viborgs län
+          dessa fortsättningskurser bedrifvits med stor energi och pä många
+          orter, men att deras antal i hög grad gått nedåt till följd af
+          brist pä materiellt understöd, oaktadt desamma genom privata bidrag
+          och hjälp af enskilda föreningar försökts upprätthällas. Jag anhåller
+          därför att pä det varmaste få understöda hr Sundvalis förslag
+          om, att anslaget mätte höjas till 60,000 mark.
         </note>
         <note xml:id="i-Gdm5dWCupQmDQ76mkZBt3a" type="speaker">
           Hra Stenström:
@@ -26872,20 +26880,20 @@
           äänioikeudenreformin kannalla, ainoastaan yksi tie säilyttääkseen
           asian niinkin eheänä, kuin nyt on mahdollista, ja se on se, että,
           niinkuin minulla oli kunnia jo ennen esittää, säädyt yhtyvät siihen
-          menettelytapaan, joka on lausuttu V. J:n 71 8&amp;:ssä. Minä en tahdo
-          kauemmin vaivata hyvinarvoisaa porvarissäätyä tuomalla esiin mielipiteitä
-          itse asiasta; tahdon ainoastaan lyhyesti lausua, että kannatan
-          ensimmäistä vastalausetta, kuitenkin lausumaani suuntaan käyvällä
-          lisäyksellä, jonka takia ehdottaisin, että porvarissääty hyväksyisi
-          ensimmäisen vastalauseen muutettuna seuraavalla tavalla: »että
-          valtiosäädyt, viittaamalla siihen, mitä valtiosäätyjen alamaisessa
+          menettelytapaan, joka on lausuttu V. J:n 71 8&amp;:ssä. Minä en
+          tahdo kauemmin vaivata hyvinarvoisaa porvarissäätyä tuomalla esiin
+          mielipiteitä itse asiasta; tahdon ainoastaan lyhyesti lausua,
+          että kannatan ensimmäistä vastalausetta, kuitenkin lausumaani
+          suuntaan käyvällä lisäyksellä, jonka takia ehdottaisin, että porvarissääty
+          hyväksyisi ensimmäisen vastalauseen muutettuna seuraavalla tavalla:
+          »että valtiosäädyt, viittaamalla siihen, mitä valtiosäätyjen alamaisessa
           kirjelmässä joulukuun 31 päivältä 1904 on lausuttu, tahtoisivat
           H. M:lleen alamaisesti ilmoittaa, että, koska maan laillinen järjestys
           ei ole palautettu eikä säännöllisiä valtiopäivätyön edellytyksiä
           ole olemassa, valtiosäädyt eivät ole ryhtyneet esillä olevaa asiaa
-          lopullisesti käsittelemään, vaan ovat V. J:n 71 &amp;:n mukaan jättäneet
-          armollisen esityksen ensituleviksi valtiopäiviksi, silloin — sillä
-          edellytyksellä, että laillinen järjestys on maahan palautettu
+          lopullisesti käsittelemään, vaan ovat V. J:n 71 &amp;:n mukaan
+          jättäneet armollisen esityksen ensituleviksi valtiopäiviksi, silloin
+          — sillä edellytyksellä, että laillinen järjestys on maahan palautettu
           — laillisesti tutkittavaksi.»
         </note>
         <note xml:id="i-CYSfTYHLKRSypuQwkBcdWr">
@@ -28286,8 +28294,8 @@
           ehdotuksien välillä. Hra Alin tuopi esiin, että tämä asia voidaan
           kyllä lykätä seuraaville valtiopäiville, mutta että ei ole mitään
           takeita siitä, että se silloinkaan tulee ratkaistuksi. Täydellisen
-          selvityksen antaa V.J:n 71 &amp;, jossa muun muassa sanotaan: ställaista
-          asiaa koskeva esitys joko päätettäköön niillä valtiopäivillä,
+          selvityksen antaa V.J:n 71 &amp;, jossa muun muassa sanotaan:
+          ställaista asiaa koskeva esitys joko päätettäköön niillä valtiopäivillä,
           joina se on tehty, taikka jätetään, jos vähintänkin kaksi säätyä
           sitä vaatii, — —— ——-—— — ensituleviksi valtiopäiviksi, jolloin
           se on lopullisesti tutkittava». Ei siis asiaa enää ensi valtiopäivillä
@@ -30594,8 +30602,8 @@
         <u who="unknown">
           <seg>
             Jag ber att fä förena mig om hr Stählbergs förslag, att man mätte
-            ätergifva de svenska orden »förment brottslig handling&gt; sä, som
-            han föreslagit.
+            ätergifva de svenska orden »förment brottslig handling&gt; sä,
+            som han föreslagit.
           </seg>
         </u>
         <note xml:id="i-R82LV1GYd9PHPBgjyWDJF3" type="speaker">
@@ -30955,8 +30963,8 @@
           Keskustelu julistettiin nyt päättyneeksi, jonka jälkeen sääty
           huutoäänestyksessä yksimielisesti valitsi jäseniksi lisättyyn
           suostuntavaliokuntaan hrt Boisman, Arthur Castrén, Ernst Dahlström,
-          Durchman, Ignatius, AugustJus&amp;lius, Tun Nybergh, von Pfaler, Polön,
-          Renvall ja
+          Durchman, Ignatius, AugustJus&amp;lius, Tun Nybergh, von Pfaler,
+          Polön, Renvall ja
         </note>
         <note xml:id="i-JBfYtefBjHFQZLwu3ugGj5">
           Vinter.
@@ -31624,9 +31632,11 @@
           valtiopäivillä 1904—1905.
         </note>
         <note xml:id="i-6xDDpHWJmR9Hin5YtzJfy4">
-          P &gt; » &gt; » » &gt; &gt; » » &gt; » , » » » » » &gt; » » » &gt; » » &gt; » N &gt; &gt; »
-          » » » » » » &gt; » N &gt; » » &gt; » » » a &gt; &gt; » &gt; &gt; » » &gt; » » » » » tammik.
-          k:lo &gt; , &gt; &gt; helmik. &gt; &gt; &gt; » » &gt; a » &gt; , » &gt; &gt; , ES
+          P &gt; » &gt; » » &gt; &gt; » » &gt; » , » » » » » &gt; » » »
+          &gt; » » &gt; » N &gt; &gt; » » » » » » » &gt; » N &gt; » » &gt;
+          » » » a &gt; &gt; » &gt; &gt; » » &gt; » » » » » tammik. k:lo
+          &gt; , &gt; &gt; helmik. &gt; &gt; &gt; » » &gt; a » &gt; , »
+          &gt; &gt; , ES
         </note>
         <note xml:id="i-DArzUafaHcccbL2BfJd2cr">
           1904.
@@ -31656,10 +31666,10 @@
           siv. 1— 6
         </note>
         <note xml:id="i-PAvMALzZ3yYWsSxAz3SXDH">
-          &gt; 2— 12. » 12— 20. » 20— 24. a 25— 27. » 27—31. &gt; 31— 39. » 40—
-          48 &gt; 48— 54. » 55—108. » 108—225. » 226—281. » 281—317. » 317—343.
-          &gt; 344—371. &gt; 372—445. &gt; 446—466. » 467— 486. &gt; 487—511. » 512—515.
-          » 515—523.
+          &gt; 2— 12. » 12— 20. » 20— 24. a 25— 27. » 27—31. &gt; 31— 39.
+          » 40— 48 &gt; 48— 54. » 55—108. » 108—225. » 226—281. » 281—317.
+          » 317—343. &gt; 344—371. &gt; 372—445. &gt; 446—466. » 467— 486.
+          &gt; 487—511. » 512—515. » 515—523.
         </note>
         <note xml:id="i-EdV7ERfXPgds7tyf8ckF9E">
           siv. 524—529. 530—562. 562—583.
@@ -31930,8 +31940,9 @@
           — "&gt; = neljänneksi pankinvaltuusmiehen varamieheksi II. 765.
         </note>
         <note xml:id="i-QayVYXGUUWmeuy1X16SU2G">
-          &gt; — jäsen. lisättyyn S. V. II. 1050. hänen y. m. anom. 1) I.
-          42—48, läh.; 2) IL 616—620, läh. — hänen lausuntonsa: I. 32, 369.
+          &gt; — jäsen. lisättyyn S. V. II. 1050. hänen y. m. anom. 1)
+          I. 42—48, läh.; 2) IL 616—620, läh. — hänen lausuntonsa: I. 32,
+          369.
         </note>
         <pb facs="https://swerik-project.github.io/valtiopaivat-records-pdf/1904-1905/ptk_1904-1905_porvaristo_II/ptk_1904-1905_porvaristo_II-0547"/>
         <note xml:id="i-SBr4XJ8sfzrXB1DY6n9ZYz">
@@ -31961,16 +31972,16 @@
           612, 745, 795—798, 1043. Castrén, Edvin, sihteeri; Kemin kaupungin
           edustaja. valittu jäsen. tervehdyslähet. I. 6. hänen tervehdyspuh.
           tps:lle I. 11—12. valittu valitsijamieheksi 1. 30. » — jäsen.
-          E. V. V. I. 39. &gt; 2 varam. Toim. V. I. 42. » jäsen. Y. A. V. I.
-          51. » — toiseksi pankintarkastajan varam. II. 766. hänen y. m.
-          anom. 1) I. 42—4$, läh.; 2) I. 220-—223, pp.; II. 558, pPp:; 3)
-          I. 260—262, pp.; II. 555—556, pp.; 4) II. 616—620, läh. —— hänen
-          lausuntonsa: I. 223, 262, 356. II. 570, 753—754, 998—999. Castrén,
-          Johannes, oikeusneuvosmies; Mikkelin kaupungin edustaja. valittu
-          1 varam. R. V. I. 51. — hänen y. m. anom. 1) I. 42—48, läh.; 2)
-          I. 220—223, pp.; II. 558, pp.; 3) I. 250—255, pp.; IL. 555—556,
-          pp.; 4) II. 616—620, läh.; 5) II. 680—687, läh. —— hänen lausuntonsa:
-          I. 32, 73, 255, 294, 353—354, 480.
+          E. V. V. I. 39. &gt; 2 varam. Toim. V. I. 42. » jäsen. Y. A. V.
+          I. 51. » — toiseksi pankintarkastajan varam. II. 766. hänen y.
+          m. anom. 1) I. 42—4$, läh.; 2) I. 220-—223, pp.; II. 558, pPp:;
+          3) I. 260—262, pp.; II. 555—556, pp.; 4) II. 616—620, läh. ——
+          hänen lausuntonsa: I. 223, 262, 356. II. 570, 753—754, 998—999.
+          Castrén, Johannes, oikeusneuvosmies; Mikkelin kaupungin edustaja.
+          valittu 1 varam. R. V. I. 51. — hänen y. m. anom. 1) I. 42—48,
+          läh.; 2) I. 220—223, pp.; II. 558, pp.; 3) I. 250—255, pp.; IL.
+          555—556, pp.; 4) II. 616—620, läh.; 5) II. 680—687, läh. —— hänen
+          lausuntonsa: I. 32, 73, 255, 294, 353—354, 480.
         </note>
         <note xml:id="i-EAB7bsDeLJu12SYdoVufxe">
           11]
@@ -32057,12 +32068,12 @@
           699—700, 709— 710, 715—716, 720—721, 730, 740—742, 755, 799—801,
           818, 841—843, 855, 884, 893—895, 931, 1001, 1008. Heikel, Karl
           Felix, pankinjohtaja; Viipurin kaupungin edustaja. valittu jäsen.
-          puhemiesneuvostoon I. 9. — &gt;» — valitsijamieheksi I. 30. — &gt;»
-          —jäsen. E. V. V. I. 39; vapautettu toimesta II. 575. — &gt; &gt;» V.V.L
-          50. — hänen y. m. anom. 1) I. 42—48, läh.; 2) I. 227—236, pp.;
-          II. 558 —559, läh.; 3) I. 286—988, läh.; 4) II. 646—648, läh.
-          — hänen lausuntonsa: I. 23, 33, 61 (2), 62—63, 64, 360—362, 368—369,
-          476—478, 491—492 501—-502, 503, 504.
+          puhemiesneuvostoon I. 9. — &gt;» — valitsijamieheksi I. 30. —
+          &gt;» —jäsen. E. V. V. I. 39; vapautettu toimesta II. 575. — &gt;
+          &gt;» V.V.L 50. — hänen y. m. anom. 1) I. 42—48, läh.; 2) I. 227—236,
+          pp.; II. 558 —559, läh.; 3) I. 286—988, läh.; 4) II. 646—648,
+          läh. — hänen lausuntonsa: I. 23, 33, 61 (2), 62—63, 64, 360—362,
+          368—369, 476—478, 491—492 501—-502, 503, 504.
         </note>
         <pb facs="https://swerik-project.github.io/valtiopaivat-records-pdf/1904-1905/ptk_1904-1905_porvaristo_II/ptk_1904-1905_porvaristo_II-0550"/>
         <note xml:id="i-FH9QkiHLXrL1As2TF7LQnJ">
@@ -32167,8 +32178,8 @@
         </note>
         <note xml:id="i-84E3aScwGNdM6Z3xs5dUT4">
           Idman, Gustaf Rudolf, kaupunginlääkäri; Tampereen kaupungin edustaja.
-          valittu jäsen. säädyn vähemp. lähet. I. 5. » » &gt;» — suureen »
-          1. 6.
+          valittu jäsen. säädyn vähemp. lähet. I. 5. » » &gt;» — suureen
+          » 1. 6.
         </note>
         <note xml:id="i-KvYpcfrjHAqg9ewPTsTCeW">
           varam. puhemiesneuvostoon 1. 9.
@@ -32221,8 +32232,8 @@
           Rekisteri.
         </note>
         <note xml:id="i-3dThDTPcSzzHkNCPZttULW">
-          valittu valitsijamieheksi 1. 30. jäsen. E. V. V. I. 39. &gt; L ja
-          T. V.1 42. puheenjohtajaksi L. ja T. V. II. 622. pankintilintarkastajaksi
+          valittu valitsijamieheksi 1. 30. jäsen. E. V. V. I. 39. &gt;
+          L ja T. V.1 42. puheenjohtajaksi L. ja T. V. II. 622. pankintilintarkastajaksi
           II. 766. jäsen. lis. S. V. II. 1050. hänen anom. 1) I. 195—197,
           pp.; II. 557, pp.; 2) I. 200—201, pp:; IL. 557—558, läh. —— hänen
           y. m. anom. 1) I. 42—48, läh.; 2) I. 286—288, läh.; 3) II. 616—620,
@@ -32232,11 +32243,11 @@
           644—645, 651, 691, 694, 706— 707, 714, 727—728, 734—736, 771,
           809—810, 833—834, 937, 959, 1005— 1006, 1037, 1042, 1060—1061.
           Ingman, Santeri, filosofian tohtori, toimittaja; Iisalmen kaupungin
-          edustaja. valittu valitsijamieheksi I. 30. — &gt;» 1 varam. TI. V.
-          I. 42. — hänen s. esit. ehd. I. 157—158, pp.; IL. 556, pp. — hänen
-          anom. 1) I. 66—68, pp.; II. 552, pp.; 2) I. 109—110, pp.; IL.
-          557, pp. — hänen y. m. anom. 1) I. 42—48, läh.; 2) I. 69—71, pp.;
-          IL. 552, pp.; 3) I. 114—117, pp.; IL. 557, pp.; 4) I. 214—216,
+          edustaja. valittu valitsijamieheksi I. 30. — &gt;» 1 varam. TI.
+          V. I. 42. — hänen s. esit. ehd. I. 157—158, pp.; IL. 556, pp.
+          — hänen anom. 1) I. 66—68, pp.; II. 552, pp.; 2) I. 109—110, pp.;
+          IL. 557, pp. — hänen y. m. anom. 1) I. 42—48, läh.; 2) I. 69—71,
+          pp.; IL. 552, pp.; 3) I. 114—117, pp.; IL. 557, pp.; 4) I. 214—216,
           pp.; II. 555— 556, pp.; 5) I. 290—295, pp.; II. 578—579, läh.;
           6) I. 399—405, pp.; II. 581, pp.; 7) IL. 616—620, läh. — hänen
           lausuntonsa: I. 37, 71, 110, 158, 338—339. II. 538—539, 560, 561,
@@ -32293,8 +32304,8 @@
           578—579, läh.; 3) II. 616—620, läh. — hänen ilmoituksensa venäläisten
           santarmien rettelöistä I. 512—514; II. 526—528. — hänen lausuntonsa:
           I. 32, 390, 397. IL. 1041, 1042. Jusölius, August Arthur, hovioikeudenasessori;
-          Turun kaupungin edustaja. valittu valitsijamieheksi I. 30. &gt; —
-          jäsen. L. V. I. 41. &gt; &gt; —prvs:n yksityiseen valitusvaliokuntaan
+          Turun kaupungin edustaja. valittu valitsijamieheksi I. 30. &gt;
+          — jäsen. L. V. I. 41. &gt; &gt; —prvs:n yksityiseen valitusvaliokuntaan
           II. 614. » » lis. S. V. II. 1050. hänen y. m. anom. 1) I. 42—48,
           läh.; 2) I. 239—245, pp.; IL. 555 —556, pp.; 3) I. 290—295, pp.;
           II. 578—579, läh.; 4) I. 440—441, pp.; II. 583, pp.; 5) II. 616—620,
@@ -32458,13 +32469,13 @@
         </note>
         <note xml:id="i-T46p5yrji97HLRe7ZU3gwQ">
           Kumlin, Ferdinand Alexander, hovioikeudenasessori; Turun kaupungin
-          edustaja. — valittu jäsen. säädyn vähemp. lähet. I. 5. N &gt; &gt; —
-          suureen lähet. I. 5. &gt; — valitsijamieheksi I. 30. &gt; jäsen. Per.
-          V. I. 41. &gt; &gt;» — lis. 8. V. IL 1050. hänen y. m.j anom. 1) I.
-          42—48, läh.; 2) I. 239—245, pp.; II. 555-— 556, pp.; 3) I. 290—291,
-          pp.; II. 578—579, läh.; 4) I. 440—441, pp.; II. 583, pp.; 5) II.
-          616—620, läh. — hänen lausuntonsa: 1. 33. IL. 698, 723, 854, 1043,
-          1044—1045, 1045.
+          edustaja. — valittu jäsen. säädyn vähemp. lähet. I. 5. N &gt;
+          &gt; — suureen lähet. I. 5. &gt; — valitsijamieheksi I. 30. &gt;
+          jäsen. Per. V. I. 41. &gt; &gt;» — lis. 8. V. IL 1050. hänen y.
+          m.j anom. 1) I. 42—48, läh.; 2) I. 239—245, pp.; II. 555-— 556,
+          pp.; 3) I. 290—291, pp.; II. 578—579, läh.; 4) I. 440—441, pp.;
+          II. 583, pp.; 5) II. 616—620, läh. — hänen lausuntonsa: 1. 33.
+          IL. 698, 723, 854, 1043, 1044—1045, 1045.
         </note>
         <note xml:id="i-4TGCqhpcFkJ6Lwr5sT5mcq">
           ANNE
@@ -32548,19 +32559,19 @@
         </note>
         <note xml:id="i-GMFnPxrbPvHFnJv5xy376U">
           Lundenlus, Johan Fredrik, hovioikeudenasessori; Loviisan kaupungin
-          edustaja. valittu jäsen. tervehdyslähet. I. 6. &gt; &gt; — säädyn suureen
-          lähet. I. 6. hänen tervehdyspuheensa pps:lle I. 10—11. valittu
-          valitsijamieheksi I. 30. &gt; —1 varam. E. V. V. I. 39; jäsen. samaan
-          valiok. II. 614. &gt; — jäsen. L. V. I. 41. &gt; » —Tark. V. I. 282;
-          hänen vapauttamisensa sanotusta toimesta II. 859—860. valittu
-          kolmanneksi pankintilintarkastajan varam. II. 766. hänen anom.
-          I. 274—275, pp.; II. 560, pp. — hänen y. m. anom. 1) I. 42—48,
-          läh.; 2) I. 239—245, pp.; II. 555— 556, pp.; 3) I. 286—988, läh.;
-          4) II. 616—620, läh.; 5) II. 680— 687, läh. — hänen lausuntonsa:
-          I. 32, 61—62, 239, 275, 280, 288, 293, 313, 354—356, 409 (2),
-          487— 489, 499—500, 510 (2), 513—514. II. 545—547, 552, 553, 560,
-          567, 578, 633—634, 697—698, 723, 743— 744, 752—753, 868, 885,
-          922, 923, 969, 1024, 1039 (2), 1040, 1042, 1052.
+          edustaja. valittu jäsen. tervehdyslähet. I. 6. &gt; &gt; — säädyn
+          suureen lähet. I. 6. hänen tervehdyspuheensa pps:lle I. 10—11.
+          valittu valitsijamieheksi I. 30. &gt; —1 varam. E. V. V. I. 39;
+          jäsen. samaan valiok. II. 614. &gt; — jäsen. L. V. I. 41. &gt;
+          » —Tark. V. I. 282; hänen vapauttamisensa sanotusta toimesta II.
+          859—860. valittu kolmanneksi pankintilintarkastajan varam. II.
+          766. hänen anom. I. 274—275, pp.; II. 560, pp. — hänen y. m. anom.
+          1) I. 42—48, läh.; 2) I. 239—245, pp.; II. 555— 556, pp.; 3) I.
+          286—988, läh.; 4) II. 616—620, läh.; 5) II. 680— 687, läh. — hänen
+          lausuntonsa: I. 32, 61—62, 239, 275, 280, 288, 293, 313, 354—356,
+          409 (2), 487— 489, 499—500, 510 (2), 513—514. II. 545—547, 552,
+          553, 560, 567, 578, 633—634, 697—698, 723, 743— 744, 752—753,
+          868, 885, 922, 923, 969, 1024, 1039 (2), 1040, 1042, 1052.
         </note>
         <note xml:id="i-QF7Ubqiw1uAtnPXJ7eda6t">
           1 1111]
@@ -32737,8 +32748,8 @@
           &gt; &gt; — prvs:n tervehdyslähet. II. 946.
         </note>
         <note xml:id="i-2vLxGfqKni63n1kzvda7Kj">
-          &gt; &gt; — lis. S. V. II. 1050. hänen y. m. anom. II. 616—620, läh.
-          — hänen lausuntonsa:
+          &gt; &gt; — lis. S. V. II. 1050. hänen y. m. anom. II. 616—620,
+          läh. — hänen lausuntonsa:
         </note>
         <note xml:id="i-ERNYPrLWNivyhqNNknaUax">
           IL. 606—607, 662, 707—709, 715, 782—785, 1032—1033.
@@ -33127,11 +33138,11 @@
           837, 841, 847—848, 851—852, 947—948, 949—950, 956, 1004—1005,
           1015, 1043. Söderholm, Karl Gustaf, hovioikeudenasessori; Helsingin
           kaupungin edustaja. valittu 2 varam. Per. V. I. 41. PAIN , 1 »
-          L. V. I. 41; hänen vapauttamisensa toimesta II. 566. —n &gt; — jäsen.
-          prvs:n yks. valit. valiok. II. 614. — hänen s. esit. ehd. I. 295—300,
-          pp.; II. 576—578, pp. — hänen y. m. anom. I. 42-48, läh. — hänen
-          lausuntonsa: 1. 33, 293, 300, 507. II. 553, 554 (2), 566, 576,
-          614, 665, 938—939, 956, 974—975, 1002.
+          L. V. I. 41; hänen vapauttamisensa toimesta II. 566. —n &gt; —
+          jäsen. prvs:n yks. valit. valiok. II. 614. — hänen s. esit. ehd.
+          I. 295—300, pp.; II. 576—578, pp. — hänen y. m. anom. I. 42-48,
+          läh. — hänen lausuntonsa: 1. 33, 293, 300, 507. II. 553, 554 (2),
+          566, 576, 614, 665, 938—939, 956, 974—975, 1002.
         </note>
         <note xml:id="i-RsnrdGEwTFspdP5mHzu9gK">
           W.
@@ -33390,10 +33401,11 @@
           pp: II. 555—556 pp.
         </note>
         <note xml:id="i-D52EciwyayrR1Ej29Nh2w5">
-          &gt; 28 hra Edvin Castrén y. m., eräänlaisten yksityiskoulujen ottamisesta
-          valtion huostaan, korkeamman valtioavun vakuuttamisesta oppilaitoksille
-          sekä muutettujen määräyksien antamisesta valtioavun nauttimiseen
-          ja koulujen toimintaan nähden I. 220—223 pp; II. 558 pp.
+          &gt; 28 hra Edvin Castrén y. m., eräänlaisten yksityiskoulujen
+          ottamisesta valtion huostaan, korkeamman valtioavun vakuuttamisesta
+          oppilaitoksille sekä muutettujen määräyksien antamisesta valtioavun
+          nauttimiseen ja koulujen toimintaan nähden I. 220—223 pp; II.
+          558 pp.
         </note>
         <note xml:id="i-TkjdoTengpYRK2WdKq7MKT">
           » 29 hra Luoma, Raahen alkeiskoulun muuttamisesta viisiluokkaiseksi
@@ -33441,8 +33453,8 @@
           I. 257—258 pp.; II. 555—556 pp.
         </note>
         <note xml:id="i-QXKTQ8QjEP3PKJn1W3qM5i">
-          &gt; 38 hra Liljeroos y. m., määrärahan myöntämisestä maamme yksityiskoulujen
-          eläkerahastolle I. 258—260 pp.; II. 560 pp.
+          &gt; 38 hra Liljeroos y. m., määrärahan myöntämisestä maamme
+          yksityiskoulujen eläkerahastolle I. 258—260 pp.; II. 560 pp.
         </note>
         <note xml:id="i-VWfMjg4bh1v9mEaKafWPU6">
           » 39 hra Edvin Castrén y. m. rautatien rakentamisesta Laurilan
@@ -33625,8 +33637,8 @@
           yötyöstä leipomoissa I. 421—432 pp.; II. 582 pp.
         </note>
         <note xml:id="i-35gd3mt5NLhDwgp1v88H4Y">
-          &gt; 72 hra Winter y. m., senlaisesta muutoksesta erinäisiin V.
-          J:n pykäliin, että nainen saisi saman valtiollisen äänioikeuden
+          &gt; 72 hra Winter y. m., senlaisesta muutoksesta erinäisiin
+          V. J:n pykäliin, että nainen saisi saman valtiollisen äänioikeuden
           kuin mieskin I. 432—434 pp. II. 582 pp.
         </note>
         <pb facs="https://swerik-project.github.io/valtiopaivat-records-pdf/1904-1905/ptk_1904-1905_porvaristo_II/ptk_1904-1905_porvaristo_II-0570"/>
@@ -33967,8 +33979,8 @@
           pp.; 35—36 läh. kts. L. V. miet. n:o 1.
         </note>
         <note xml:id="i-64KEcuPgEtWK4PpXKpxxa4">
-          9 oikeudenkäymiskaaren 17 luvun 4 &amp;:än muuttamisesta toisin kuuluvaksi
-          I. 29 pp.; 36 läh.; kts. L. V. miet. n:o 2.
+          9 oikeudenkäymiskaaren 17 luvun 4 &amp;:än muuttamisesta toisin
+          kuuluvaksi I. 29 pp.; 36 läh.; kts. L. V. miet. n:o 2.
         </note>
         <note xml:id="i-6nuKHevHv8sG4JwdYhMVfn">
           10 oikeudenkäyntivaltuusmiehistä ja asianajajayhdistyksistä I,
@@ -33999,8 +34011,9 @@
         <note xml:id="i-WrdrbLJVTdC5H7MoPsrePj">
           15 sisältävä ehdotuksen armolliseksi asetukseksi 10 (23) p:nä
           heinäkuuta 1902 annetun rakennuskaaren 17 ja 18 luvun toisin kuu-
-          Juviksi säätävän lain 17 luvun 12 &amp;:än ja 18 luvun 3 $:än muuttamisesta
-          II. 657; 667 pp.; 669 läh.; kts. L. ja T. V. miet. n:o 2.
+          Juviksi säätävän lain 17 luvun 12 &amp;:än ja 18 luvun 3 $:än
+          muuttamisesta II. 657; 667 pp.; 669 läh.; kts. L. ja T. V. miet.
+          n:o 2.
         </note>
         <note xml:id="i-XRPPmFKPYiWCT5YBTv9BLx">
           16 työaikaa leipomoissa koskevan asetuksen antamisesta II. 657;
@@ -34035,19 +34048,20 @@
           II. 702—703; 725 pp.; 726 läh.; kts. Tl. V. miet. n:o 3. » 24
           koskeva määrärahoja suostuntavaroista kansakoululaitosta varten
           vuosina 1905—1907 II. 702—703; 757 pp.; 759—763 läh.; kts. - V.
-          V. miet. n:o 6. &gt; 25 leimasuostunnasta II. 702—703; 725 pp.; 726
-          läh.; kts. S. V. miet. n:o 2. &gt; 26 koskeva 1904—1905 vuoden valtiopäivillä
-          pyydettyjä määrärahoja valtiopäiväkustannusten suorittamiseksi,
-          maan kansakoulujen ylläpitoa varten ja tientekorasituksen huojentamiseksi
-          sekä keinoja, joilla nämät määrärahat olisivat hankittavat II.
-          702— 703; 757 pp.; 763 läh.; kts. V. V. kirj. II. 1047. » 27 koskeva
-          kulkulaitosrahastoa II. 702—703; 725 pp.; 727 läh.; kts. V. V.
-          miet. n:o 7. » 28 valtiontakauksen myöntämisestä Suomen hypoteekkiyhdistyksen
-          ulkomaisista lainoista II. 702—703; 763 läh.; kts. V. V. kirj.
-          II. 1047. &gt; 29 Suomen valtiovaroista valtakunnanrahastoon =sotilastarpeisiin
-          suoritettavasta apulisästä 11. 777 pp.; 778—779 läh.; kts. V.
-          V. miet. n:o 10. Etuoikeus, velkojain, sitä koskevan asetuksen
-          muuttaminen ; kts. s. esit. ehd. n:o 4.
+          V. miet. n:o 6. &gt; 25 leimasuostunnasta II. 702—703; 725 pp.;
+          726 läh.; kts. S. V. miet. n:o 2. &gt; 26 koskeva 1904—1905 vuoden
+          valtiopäivillä pyydettyjä määrärahoja valtiopäiväkustannusten
+          suorittamiseksi, maan kansakoulujen ylläpitoa varten ja tientekorasituksen
+          huojentamiseksi sekä keinoja, joilla nämät määrärahat olisivat
+          hankittavat II. 702— 703; 757 pp.; 763 läh.; kts. V. V. kirj.
+          II. 1047. » 27 koskeva kulkulaitosrahastoa II. 702—703; 725 pp.;
+          727 läh.; kts. V. V. miet. n:o 7. » 28 valtiontakauksen myöntämisestä
+          Suomen hypoteekkiyhdistyksen ulkomaisista lainoista II. 702—703;
+          763 läh.; kts. V. V. kirj. II. 1047. &gt; 29 Suomen valtiovaroista
+          valtakunnanrahastoon =sotilastarpeisiin suoritettavasta apulisästä
+          11. 777 pp.; 778—779 läh.; kts. V. V. miet. n:o 10. Etuoikeus,
+          velkojain, sitä koskevan asetuksen muuttaminen ; kts. s. esit.
+          ehd. n:o 4.
         </note>
         <note xml:id="i-MfQbGbgawfv3zXxZf8hWU2">
           H.
@@ -34400,9 +34414,10 @@
           pp.; 1036 p.
         </note>
         <note xml:id="i-Wt5mPbqqrXBobZp9fEz5xK">
-          &gt; 4 Keisarillisen, Majesteetin armollisen esityksen n:o 13 johdosta,
-          joka koskee joulukuun 6 p:nä 1869 annetun, voimassa olevan kirkkolain
-          uuden suomenkielisen tekstin hyväksymistä II, 1019 pp.; 1037 p.
+          &gt; 4 Keisarillisen, Majesteetin armollisen esityksen n:o 13
+          johdosta, joka koskee joulukuun 6 p:nä 1869 annetun, voimassa
+          olevan kirkkolain uuden suomenkielisen tekstin hyväksymistä II,
+          1019 pp.; 1037 p.
         </note>
         <note xml:id="i-UKm9HBh1d8NB8dH8j24MCW">
           sen kirj. ilmoitus, että v. on saanut keisarillisesta senaatista
@@ -34829,9 +34844,9 @@
           puheenjohtajan vaalista I. 226. sen mietinnöt: N:o 1 Suomen pankin
           hallinnosta ja tilasta vuosina 1900—1904 toimitetun tarkastusten
           johdosta II. 692 pp.; 699—724 p.; yht. ehd. IL. 807 pp.; 811—812
-          p.; kts. V. kirj. II. 962. &gt; 2 Längmanin rahastojen hoidosta ja
-          käytettävinä olevien korkorahojen käyttämisestä II. 807 pp.; 812—818
-          p.; kts. V. kirj. IL. 962. » 3 pankkivaltuusmiesten ehdotuksen
+          p.; kts. V. kirj. II. 962. &gt; 2 Längmanin rahastojen hoidosta
+          ja käytettävinä olevien korkorahojen käyttämisestä II. 807 pp.;
+          812—818 p.; kts. V. kirj. IL. 962. » 3 pankkivaltuusmiesten ehdotuksen
           johdosta, joka koskee erinäisiä. muutoksia Suomen pankin ohjesäännössä
           ja vuosirahasäännössä II. 964 pp.; 971—972 p.; kts. V. ilm. II.
           1050. » 4 Keisarillisen Majesteetin armollisen esityksen n:o 3
@@ -34879,9 +34894,9 @@
           978—1009 p.; kts. Per. V. kirj. II. 1045—1046.
         </note>
         <note xml:id="i-BzBiA2w5Dm3xnoyTWYBHS2">
-          &gt;» 2 Keisarillisen Majesteetin armollisen esityksen n:o 2 johdosta
-          Suomen — suuriruhtinanmaan — valtiopäiväjärjestyksen 81 $:än muuttamisesta.
-          II. 1019 pp.; 1038 p.
+          &gt;» 2 Keisarillisen Majesteetin armollisen esityksen n:o 2
+          johdosta Suomen — suuriruhtinanmaan — valtiopäiväjärjestyksen
+          81 $:än muuttamisesta. II. 1019 pp.; 1038 p.
         </note>
         <note xml:id="i-MBUnfjZ1CeejRBgV1FhQ7m">
           sen kirj. koskeva kysymystä, voitaisiinko ja tulisiko sekä missä
@@ -34988,8 +35003,9 @@
           SSE
         </note>
         <note xml:id="i-HUgaGiPhj1ghsbTDr1QsVq">
-          — Vaasasta Kuopioon; » &gt; » 15. — Ylivieskasta Kurkimäelle; »
-          » &gt; 19 — Lapista Iisalmen Kajaanin radalle; kts. anom. n:o 23.
+          — Vaasasta Kuopioon; » &gt; » 15. — Ylivieskasta Kurkimäelle;
+          » » &gt; 19 — Lapista Iisalmen Kajaanin radalle; kts. anom. n:o
+          23.
         </note>
         <note xml:id="i-8wP7opP4yYTUofN4AV3cCc">
           Porista Kankaanpä.
@@ -35174,8 +35190,8 @@
         </note>
         <note xml:id="i-ScGV9MWDaBhpactjrpAcFy">
           » 9 hra Teodor Heikel y. m., ehdotus asetukseksi 3 p:nä syyskuuta
-          1886 annetun metsälain 13 ja 40 &amp;8:ien muuttamisesta I. 454— 459
-          pp. II. 615 pp.
+          1886 annetun metsälain 13 ja 40 &amp;8:ien muuttamisesta I. 454—
+          459 pp. II. 615 pp.
         </note>
         <note xml:id="i-4ujkqqcPWGywVeBbAKqDqG">
           Säätyjäsenten poissaolo prvs:n istunnoista II. 525—526; 566—576;
@@ -35446,8 +35462,8 @@
           niiden päättyminen II. 933—934; 946; 1053—1061.
         </note>
         <note xml:id="i-7cceP8MKfQYZFih328uVJV">
-          Valtiopäiväjärjestys, 12, 13, 14 ja 15 &amp;ien muuttaminen; kts.
-          esit. n:o 1; anom.
+          Valtiopäiväjärjestys, 12, 13, 14 ja 15 &amp;ien muuttaminen;
+          kts. esit. n:o 1; anom.
         </note>
         <note xml:id="i-BCK4CLnJxWL3MsmiUyoBPq">
           n:o 6, 59 ja 72 sekä Per. V. miet. n:o 1.
