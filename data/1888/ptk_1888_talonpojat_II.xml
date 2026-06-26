@@ -2732,7 +2732,7 @@
         <note xml:id="i-7rwXecYoSdLiUCVbhLmmXK" xml:lang="fi">
           Valtiovaliokunnalta:
         </note>
-        <note xml:id="i-21WYC5iwqt2iB22ruqKD7k" xml:lang="fi">
+        <note xml:id="i-21WYC5iwqt2iB22ruqKD7k" xml:lang="fi" type="speaker">
           Arvoisalle Talonpoikaissäädylle
         </note>
         <note xml:id="i-D77zQUpASiZDnLnQsiFYCG" xml:lang="fi">
@@ -6315,7 +6315,7 @@
           Julkiluettiin ja pantiin asiakirjojen joukkoon Yleisestä valitusvaliokunnasta
           tullut näin kuuluva kirjoitus:
         </note>
-        <note xml:id="i-Jx5TmFaFncQLaJiNCRex9Q" xml:lang="fi">
+        <note xml:id="i-Jx5TmFaFncQLaJiNCRex9Q" xml:lang="fi" type="speaker">
           Arvoisalle Talollissäädylle.
         </note>
         <note xml:id="i-UD2qp2s3bQ1nnMvinne5Lm" xml:lang="fi">
@@ -6337,7 +6337,7 @@
           Julkiluettiin toinen Yleisestä valitusvaliokunnasta tullut näin
           kuuluva kirjoitus:
         </note>
-        <note xml:id="i-UagDFede51qGH5LF4ea9fh" xml:lang="fi">
+        <note xml:id="i-UagDFede51qGH5LF4ea9fh" xml:lang="fi" type="speaker">
           Arvoisalle Talonpoikaissäädylle
         </note>
         <note xml:id="i-3J6cVZEuuQFQaiAouNu1M4" xml:lang="fi">
@@ -9533,14 +9533,19 @@
         <note xml:id="i-2oKu5S6Gcmry55SReL9qHW" xml:lang="fi">
           Tämän johdosta pyydettyään puheenvuoroa lausui
         </note>
-        <note xml:id="i-GQNz8QxRKzwFQzkWwQpt86" xml:lang="fi">
-          edusmies Svedberg: Jag begärde ordet för att för min del inlägga
-          reservation mot den, säsom det förefaller mig, osed, som allt
-          mera tyckes göra sig gällande inom ståndet, att näml. allt flere
-          af dess medlemmar anhälla om hemlof pä längre eller kortare tid.
-          Vid föregående landtdagar har detta aldrig inträffat i sä stor
-          grad som nu, dä ständet till undvikande af afbrott i ut-
+        <note xml:id="i-GQNz8QxRKzwFQzkWwQpt86" xml:lang="fi" type="speaker">
+          edusmies Svedberg:
         </note>
+        <u who="unknown">
+          <seg>
+            Jag begärde ordet för att för min del inlägga reservation mot
+            den, säsom det förefaller mig, osed, som allt mera tyckes göra
+            sig gällande inom ståndet, att näml. allt flere af dess medlemmar
+            anhälla om hemlof pä längre eller kortare tid. Vid föregående
+            landtdagar har detta aldrig inträffat i sä stor grad som nu, dä
+            ständet till undvikande af afbrott i ut-
+          </seg>
+        </u>
         <pb facs="https://swerik-project.github.io/valtiopaivat-records-pdf/1888/ptk_1888_talonpojat_II/ptk_1888_talonpojat_II-0151"/>
         <note xml:id="i-L6XwGHXZVavmqHpCE97qjp" xml:lang="fi">
           17 p. Maalisk. 679
@@ -9907,7 +9912,7 @@
         <note xml:id="i-7TUJJG3phC3wiCa9aPkcoY" xml:lang="fi">
           684 21 p. Maalisk.
         </note>
-        <note xml:id="i-PFz6bonXNJxBeRfT4Mk7rQ" xml:lang="fi">
+        <note xml:id="i-PFz6bonXNJxBeRfT4Mk7rQ" xml:lang="fi" type="speaker">
           Arvoisalle Talollissäädylle.
         </note>
         <note xml:id="i-5KCn1azbAxs8J2bPhDkMHM" xml:lang="fi">
@@ -9927,7 +9932,7 @@
         <note xml:id="i-74hTrs4uaUShkNg7fN3Dbw" xml:lang="sv">
           M. W. af Schulten.
         </note>
-        <note xml:id="i-J8xdYN4bsygkju4VDtMfaE" xml:lang="fi">
+        <note xml:id="i-J8xdYN4bsygkju4VDtMfaE" xml:lang="fi" type="speaker">
           Arvoisalle Talonpoikaissäädylle.
         </note>
         <note xml:id="i-HkrAjpF8wmY9yneVby2iYZ" xml:lang="fi">
@@ -11498,7 +11503,7 @@
           Luettiin ja pantiin asiakirjojen joukkoon Valtiovaliokunnasta
           tullut näin kuuluva kirje:
         </note>
-        <note xml:id="i-CDwt6u6tTghXhVrQwcHTNd" xml:lang="fi">
+        <note xml:id="i-CDwt6u6tTghXhVrQwcHTNd" xml:lang="fi" type="speaker">
           Arvoisalle Talonpoikaissäädylle.
         </note>
         <note xml:id="i-NjaF2exj3uaEFprR7GLBKy" xml:lang="fi">
@@ -11525,7 +11530,7 @@
         <note xml:id="i-FkNHRzV8JisVbNRN8YjY5W" xml:lang="fi">
           Kirje oli näin kuuluva:
         </note>
-        <note xml:id="i-7vLNV6EzQgQcmWPp7hTFXa" xml:lang="fi">
+        <note xml:id="i-7vLNV6EzQgQcmWPp7hTFXa" xml:lang="fi" type="speaker">
           Arvoisalle Talonpoikaissäädylle.
         </note>
         <note xml:id="i-UgYW8EbDZ4QGeVHS9tVER1" xml:lang="fi">
@@ -11751,11 +11756,16 @@
           Puhemies kiitti Säädyn puolesta lähetystöä, joka sen jälkeen
           poistui, ja keskustelua jatkettiin. Puheenvuoron sai
         </note>
-        <note xml:id="i-HoqZtHimoVbMFPCsTun4T1" xml:lang="fi">
-          Edusmies Castrén, joka lausui: Niin kernaasti kun olisin toivonutkin
-          että edusmies Hartonen, jos nim. sääty päättää ehdoitetun lähetystön
-          lähetettäväksi, olisi vastaan ottanut jäsenyyden
+        <note xml:id="i-HoqZtHimoVbMFPCsTun4T1" xml:lang="fi" type="speaker">
+          Edusmies Castrén, joka lausui:
         </note>
+        <u who="unknown">
+          <seg>
+            Niin kernaasti kun olisin toivonutkin että edusmies Hartonen,
+            jos nim. sääty päättää ehdoitetun lähetystön lähetettäväksi, olisi
+            vastaan ottanut jäsenyyden
+          </seg>
+        </u>
         <pb facs="https://swerik-project.github.io/valtiopaivat-records-pdf/1888/ptk_1888_talonpojat_II/ptk_1888_talonpojat_II-0186"/>
         <note xml:id="i-MU9pMBjatTmXkTXhSmE3w" xml:lang="fi">
           714 23 p. Maalisk.
@@ -12803,23 +12813,28 @@
         <note xml:id="i-6CJoruUJ3MxkiCYWYi4wZU" xml:lang="fi">
           Pöydälle panon johdosta pyysi puheenvuoroa
         </note>
-        <note xml:id="i-MCGbcN9HBGBU1yi4QGrQ4s" xml:lang="fi">
-          edusmies Svedberg, joka lausui: Med anledning af denna bordläggning
-          ser jag mig nödsakad att inlägga min protest emot ett sädant tillvägagäende,
-          att bordläggning anhälles i en fräga, der diskussionen redan afstannat,
-          och som sälunda kunnat utan vidare afgöras. Att i en fråga, der
-          meninesskiljaktigheter yppat sig och der man sälunda behöft tid
-          för att vidlyftigare motivera sina äsigter, anhålla om bordläggning
-          är pä sin plats, medgifver jag gerna, men i en fräga som denna,
-          i afseende hvarä ständet är alldeles enhälligt och hvari dessutom
-          hvar och en ständsmedlem redan haft sedan senaste plenum tillräckligt
-          läng tid pä sig för att sätta sig in i saken, anser jag en begäran
-          om bordläggning mindre lämplig. Om vi pä detta sätt utan anledning
-          gäng pä gäng bordlägga en fräga kunna vi knappast säsom Hans Majestät
-          i sitt trontal uttryckt sin önskan vara inom den bestämda tiden
-          slutbehandla de ärender, som blifvit oss förelagda. Jag ber derför
-          att emot ett sädant tillvägagäende fä inlägga en kraftig protest.
+        <note xml:id="i-MCGbcN9HBGBU1yi4QGrQ4s" xml:lang="fi" type="speaker">
+          edusmies Svedberg, joka lausui:
         </note>
+        <u who="unknown">
+          <seg>
+            Med anledning af denna bordläggning ser jag mig nödsakad att
+            inlägga min protest emot ett sädant tillvägagäende, att bordläggning
+            anhälles i en fräga, der diskussionen redan afstannat, och som
+            sälunda kunnat utan vidare afgöras. Att i en fråga, der meninesskiljaktigheter
+            yppat sig och der man sälunda behöft tid för att vidlyftigare
+            motivera sina äsigter, anhålla om bordläggning är pä sin plats,
+            medgifver jag gerna, men i en fräga som denna, i afseende hvarä
+            ständet är alldeles enhälligt och hvari dessutom hvar och en ständsmedlem
+            redan haft sedan senaste plenum tillräckligt läng tid pä sig för
+            att sätta sig in i saken, anser jag en begäran om bordläggning
+            mindre lämplig. Om vi pä detta sätt utan anledning gäng pä gäng
+            bordlägga en fräga kunna vi knappast säsom Hans Majestät i sitt
+            trontal uttryckt sin önskan vara inom den bestämda tiden slutbehandla
+            de ärender, som blifvit oss förelagda. Jag ber derför att emot
+            ett sädant tillvägagäende fä inlägga en kraftig protest.
+          </seg>
+        </u>
         <note xml:id="i-HSGz5LZAck6QfNd5sHcaLX" xml:lang="fi">
           Tämän johdosta ilmoitti Säädyn puhemies, että, vaikka hänkin
           katsoi pöydälle-panon tässä asiassa olevan pelkkää ajan tuhlaamista,
@@ -13348,26 +13363,26 @@
         <note xml:id="i-7NTr93GE9AByEDc65ewCMy" xml:lang="fi" type="speaker">
           Edusmies Avellan:
         </note>
-        <u xml:id="i-R5NUhZsAvzjtUDJKoc1JEp" who="i-Pwjr6vGBf5sGMw2BtNjBMH">
-          <seg xml:id="i-YRG6Pchm5dpky1sK9NFLXX" xml:lang="fi">
-            Pyysin puheenvuoroa kehoittaakseni säätyä, yhtymällä edusmies
-            Lindbergin kanssa, kannattamaan valiokunnan mietintöä. Kun minulla
-            kerran on puheenvuoro, tahdon sitä kuitenkin käyttää eräässä toisessakin
-            katsannossa. Edusmies Castrén lausui vastikään paheksumistansa
-            siitä, että edusmies Lindbergin lausuntoa säädyssä ei tahdottu
-            käännetyksi. Minä puolestani en ole käsittänyt kääntämisen kieltoa
-            mistään edusmies Lindbergin taikka hänen Jlausuntonsta halveksimisesta
-            valuneeksi, vaan ainoastaan ilmaukseksi siitä, että säädyssä yleisesti
-            on sama mielipide, kuin minkä edusmies Lindberg lausunnossaan
-            esiin toi. Muutoin pyydän huomauttaa siitä, että tämä ei ole ensimäinen
-            kerta, kuin lausunnon kääntäminen on saanut jäädä sikseen. Sekä
-            näillä että edellisillä valtiopäivillä on varsinkin ruotsia puhuvien
-            puolelta aivan monesti ilmoitettu, että jossakin erityisessä tapauksessa
-            käännöstä ei vaadita. Minun mielestäni se muistutus, jonka edusmies
-            Castrén tässä suhteessa teki, ei sentähden ollenkaan iskenyt oikeaan
-            maaliinsa.
-          </seg>
-        </u>
+        <u xml:id="i-R5NUhZsAvzjtUDJKoc1JEp" who="i-Pwjr6vGBf5sGMw2BtNjBMH"/>
+        <note xml:id="i-YRG6Pchm5dpky1sK9NFLXX" xml:lang="fi" type="speaker">
+          Pyysin puheenvuoroa kehoittaakseni säätyä, yhtymällä edusmies
+          Lindbergin kanssa, kannattamaan valiokunnan mietintöä. Kun minulla
+          kerran on puheenvuoro, tahdon sitä kuitenkin käyttää eräässä toisessakin
+          katsannossa. Edusmies Castrén lausui vastikään paheksumistansa
+          siitä, että edusmies Lindbergin lausuntoa säädyssä ei tahdottu
+          käännetyksi. Minä puolestani en ole käsittänyt kääntämisen kieltoa
+          mistään edusmies Lindbergin taikka hänen Jlausuntonsta halveksimisesta
+          valuneeksi, vaan ainoastaan ilmaukseksi siitä, että säädyssä yleisesti
+          on sama mielipide, kuin minkä edusmies Lindberg lausunnossaan
+          esiin toi. Muutoin pyydän huomauttaa siitä, että tämä ei ole ensimäinen
+          kerta, kuin lausunnon kääntäminen on saanut jäädä sikseen. Sekä
+          näillä että edellisillä valtiopäivillä on varsinkin ruotsia puhuvien
+          puolelta aivan monesti ilmoitettu, että jossakin erityisessä tapauksessa
+          käännöstä ei vaadita. Minun mielestäni se muistutus, jonka edusmies
+          Castrén tässä suhteessa teki, ei sentähden ollenkaan iskenyt oikeaan
+          maaliinsa.
+        </note>
+        <u who="unknown"/>
         <note xml:id="i-DPzrbm4Hjy8FAx5rsSYVXK" xml:lang="sv" type="speaker">
           Landtdagsmannen Lindberg:
         </note>
@@ -20171,7 +20186,7 @@
         <note xml:id="i-6r4YMBcXxV5o1jir1zwaGx" xml:lang="fi">
           Luettiin Lakivaliokunnalta tullut näin kuuluva kirje:
         </note>
-        <note xml:id="i-ngU9ycQ6yv7seLaTcEEtx" xml:lang="fi">
+        <note xml:id="i-ngU9ycQ6yv7seLaTcEEtx" xml:lang="fi" type="speaker">
           Arvoisalle Talonpoikaissäädylle.
         </note>
         <note xml:id="i-X8nxMP2ifKsc9k9BFeUYnV" xml:lang="fi">
@@ -20234,7 +20249,7 @@
         <note xml:id="i-NgY2JFuQkz8WsL5iaD4qh7" xml:lang="fi">
           Samoin Talousvaliokunnalta tullut kirje:
         </note>
-        <note xml:id="i-FzYUCtKuDUXABgA2gD9bJ" xml:lang="fi">
+        <note xml:id="i-FzYUCtKuDUXABgA2gD9bJ" xml:lang="fi" type="speaker">
           Suomen Valtioin TALOUSVALIOKUNTA. Arvoisalle Talonpoikaissäädylle.
         </note>
         <note xml:id="i-CVKkGkGtQAjfMNzmRS7p2f" xml:lang="sv">
@@ -22934,7 +22949,7 @@
           Luettiin ja pantiin asiakirjojen joukkoon Lakivaliokunnasta tullut
           näin kuuluva kirje:
         </note>
-        <note xml:id="i-7MLUhhcDE6AmjdPdzd2yCG" xml:lang="fi">
+        <note xml:id="i-7MLUhhcDE6AmjdPdzd2yCG" xml:lang="fi" type="speaker">
           Arvoisalle Talonpoikaissäädylle.
         </note>
         <note xml:id="i-GgnpC1rjcYZg4NMMs8ZBBv" xml:lang="fi">
@@ -22965,7 +22980,7 @@
         <note xml:id="i-KkPVCMH1kBdcmkCsqp4xxu" xml:lang="fi">
           Luettiin Yleiseltä valitusvaliokunnalta tullut näin kuuluva kirje:
         </note>
-        <note xml:id="i-4PEDjaDq71o9v1T39wfpuq" xml:lang="fi">
+        <note xml:id="i-4PEDjaDq71o9v1T39wfpuq" xml:lang="fi" type="speaker">
           Arvoisalle Talollissäädylle!
         </note>
         <note xml:id="i-Ft5LJLHDJR5ybKjGGDnqSD" xml:lang="fi">
@@ -24340,7 +24355,7 @@
           Luettiin ja pantiin asiakirjoihin Valtiovaliokunnasta tullut,
           näin kuuluva kirjoitus:
         </note>
-        <note xml:id="i-4oeAYQ3HKd4Ax2tTcS3MNc" xml:lang="fi">
+        <note xml:id="i-4oeAYQ3HKd4Ax2tTcS3MNc" xml:lang="fi" type="speaker">
           Arvoisalle Talonpoikaissäädylle.
         </note>
         <note xml:id="i-Hc9PruP3UEJ6kgNivPgYm3" xml:lang="fi">
@@ -24371,7 +24386,7 @@
           Luettiin Säädyn tiedoksi Lakivaliokunnasta tullut kirjoitus,
           joka oli näin kuuluva:
         </note>
-        <note xml:id="i-3HE24rqVcQRgc1KnPkHEUy" xml:lang="fi">
+        <note xml:id="i-3HE24rqVcQRgc1KnPkHEUy" xml:lang="fi" type="speaker">
           Arvoisalle Talonpoikaissäädylle.
         </note>
         <note xml:id="i-WbP3ZZnA1Vf6rW3weUbQi5" xml:lang="fi">
@@ -28395,10 +28410,15 @@
           , Valiokunnan ehdoittama ponsilause mietinnön siv. 40 hyväksyttiin
           edusmies Ojasen ehdotuksesta. Vielä pyysi asiassa puheenvuoroa
         </note>
-        <note xml:id="i-A6Jdk2uonmbytdqj5RScks" xml:lang="fi">
-          edusmies Hedberg, joka lausui: Jag ber fä anmäla till protokollet,
-          att jag icke bidragit till de beslut, som blifvit fattade i dissenterlagsfrägan.
+        <note xml:id="i-A6Jdk2uonmbytdqj5RScks" xml:lang="fi" type="speaker">
+          edusmies Hedberg, joka lausui:
         </note>
+        <u who="unknown">
+          <seg>
+            Jag ber fä anmäla till protokollet, att jag icke bidragit till
+            de beslut, som blifvit fattade i dissenterlagsfrägan.
+          </seg>
+        </u>
         <note xml:id="i-vczse4JXU97rmsFPjACoj" xml:lang="fi">
           Esitettiin pöydälle pantavaksi Valtiovaliokunnan mietintö n:o
           8, joka koskee Keisarillisen Senaatin Valtiovarain-Toimituskunnan
@@ -28445,7 +28465,7 @@
         <note xml:id="i-FReCFhTd6fp9fLa3YGAgQH" xml:lang="fi">
           Luettiin Valtiovaliokunnasta tullut näin kuuluva kirje:
         </note>
-        <note xml:id="i-LCMweWqxoNHvrWesicTGzd" xml:lang="fi">
+        <note xml:id="i-LCMweWqxoNHvrWesicTGzd" xml:lang="fi" type="speaker">
           Arvoisalle Talonpoikaissäädylle.
         </note>
         <note xml:id="i-EQtYCG1yRg5VCs3fBSR2zx" xml:lang="fi">
@@ -28526,7 +28546,7 @@
           Luettiin ja pantiin asiakirjoihin kaksi Yleisen valitusvaliokuunan
           Säädylle lähettämää näin kuuluvaa kirjettä:
         </note>
-        <note xml:id="i-6eEy5H3iTDcU88oLAj9KKk" xml:lang="fi">
+        <note xml:id="i-6eEy5H3iTDcU88oLAj9KKk" xml:lang="fi" type="speaker">
           Arvoisalle Talonpoikaissäädylle.
         </note>
         <note xml:id="i-T8zgJyH1NH5bziMtLKBdvg" xml:lang="fi">
@@ -28557,7 +28577,7 @@
         <note xml:id="i-QGGXRaMXcKjj1hubsRP41h" xml:lang="sv">
           M. W. af Schulten.
         </note>
-        <note xml:id="i-6e62DouV2H8pf9MZ7j5Di7" xml:lang="fi">
+        <note xml:id="i-6e62DouV2H8pf9MZ7j5Di7" xml:lang="fi" type="speaker">
           Arvoisalle Talonpoikaissäädylle.
         </note>
         <note xml:id="i-BFqQRMQnY9HwagXiDpVoDx" xml:lang="fi">
@@ -29991,10 +30011,10 @@
           johdosta, jotka koskevat Turun, Tampereen ja Joensuun kaupunkien
           naiskoulujen ottamista valtion haltuun.
         </note>
-        <note xml:id="i-XyHKRjLE47HtD9BLxsdCxE" xml:lang="fi">
+        <note xml:id="i-XyHKRjLE47HtD9BLxsdCxE" xml:lang="fi" type="speaker">
           Luettiin Talousvaliokunnan Säädylle lähettämä näin kuuluva kirjoitus:
         </note>
-        <note xml:id="i-HvNQwnbSrwGY7VawwsvpVn" xml:lang="fi">
+        <note xml:id="i-HvNQwnbSrwGY7VawwsvpVn" xml:lang="fi" type="speaker">
           Suomen Valtioin TALOUSVALIOKUNTA. Arvoisalle Talonpoikaissäädylle.
         </note>
         <note xml:id="i-W5KrEypWnaM7Q9Tmrz93y5" xml:lang="unknown">
@@ -31362,7 +31382,7 @@
         <note xml:id="i-TU9LdhwFQsQDg6DGEwXwvo" xml:lang="fi">
           Sääty hyväksynyt 8:n edusmies Räberghin ehdoittamalla muutoksella.
         </note>
-        <note xml:id="i-Mbxp6m1oeRoaCwQAqNzoTN" xml:lang="fi">
+        <note xml:id="i-Mbxp6m1oeRoaCwQAqNzoTN" xml:lang="fi" type="speaker">
           Esitettiin Taideyhdistyksen Säädylle lähettämä näin kuuluva ruotsinkielinen
           kirjoitus:
         </note>
@@ -34398,7 +34418,7 @@
           Luettiin Säädyn tiedoksi Yleisestä valitusvaliokunnasta tullut
           näin kuuluva kirje:
         </note>
-        <note xml:id="i-8nQKj8Ri18kqH915Xyngis" xml:lang="fi">
+        <note xml:id="i-8nQKj8Ri18kqH915Xyngis" xml:lang="fi" type="speaker">
           Arvoisalle Talonpoikaissäädylle.
         </note>
         <note xml:id="i-ja3yj8jsFYygdmpuuDuHG" xml:lang="fi">

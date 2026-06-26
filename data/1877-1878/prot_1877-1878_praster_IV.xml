@@ -82,7 +82,7 @@
         <note xml:id="i-AFC5muYD8BtpAtkQpc2mkk" xml:lang="sv">
           Messier +
         </note>
-        <note xml:id="i-58JDB9Ten7LobKhjkbS7hT" xml:lang="sv ">
+        <note xml:id="i-58JDB9Ten7LobKhjkbS7hT" xml:lang="sv">
           HELSINGFORS, HELSINGFORS CENTRALTRYCKERI, 1898.
         </note>
         <pb facs="https://swerik-project.github.io/valtiopaivat-records-pdf/1877-1878/prot_1877-1878_praster_IV/prot_1877-1878_praster_IV-0003"/>
@@ -27663,11 +27663,13 @@
         <note xml:id="i-X1yyjNocb2XHUhTVvdmJyc" xml:lang="sv" type="speaker">
           2:
         </note>
-        <u xml:id="i-BC4TwC7bgU5k1p8MhZeX7J" who="unknown">
-          <seg xml:id="i-No8hjSNUxMStBJByNrFoQ8" xml:lang="sv">
-            0 af en deputation från vällofliga borgareståndet anförd af herr
-            E. Bergh som yttrade:
-          </seg>
+        <u xml:id="i-BC4TwC7bgU5k1p8MhZeX7J" who="unknown"/>
+        <note xml:id="i-No8hjSNUxMStBJByNrFoQ8" xml:lang="sv" type="speaker">
+          0 af en deputation från vällofliga borgareståndet anförd af herr
+          E. Bergh som yttrade:
+        </note>
+        <u who="unknown">
+          <seg/>
         </u>
         <note xml:id="i-ATuenm7qSdtn3dXwuE111J" xml:lang="sv">
           Borgareståndet har uppdragit oss, dess deputerade, att till högvördiga

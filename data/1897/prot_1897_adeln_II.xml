@@ -63,7 +63,7 @@
         <note xml:id="i-FmauvBqcYDT7AC3Yof8D6Y" xml:lang="sv">
           N köra 2
         </note>
-        <note xml:id="i-YPirs9LUFFNYwCzXAruttU" xml:lang="sv ">
+        <note xml:id="i-YPirs9LUFFNYwCzXAruttU" xml:lang="sv">
           HELSINGFORS, i | HELSINGFORS CENTRALTRYCKERI, 1897.
         </note>
         <pb facs="https://swerik-project.github.io/valtiopaivat-records-pdf/1897/prot_1897_adeln_II/prot_1897_adeln_II-0002"/>
@@ -88,7 +88,7 @@
         <note xml:id="i-3KL2L8R53hPr5MwC7H2NUs" xml:lang="sv">
           ANDRA HÄFTET.
         </note>
-        <note xml:id="i-A5qUiCNDms5HPz845BB66H" xml:lang="sv ">
+        <note xml:id="i-A5qUiCNDms5HPz845BB66H" xml:lang="sv">
           HELSINGFORS CENTRALTRYCKERI. 1897.
         </note>
         <pb facs="https://swerik-project.github.io/valtiopaivat-records-pdf/1897/prot_1897_adeln_II/prot_1897_adeln_II-0003"/>
@@ -10420,7 +10420,7 @@
         <note xml:id="i-BZQdYULEN3JMCwNesSCzFa" xml:lang="sv">
           668 R. o. A. 1897. 23 April.
         </note>
-        <note xml:id="i-NpX9rS99iwgLuUmEYCT7wW" xml:lang="sv">
+        <note xml:id="i-NpX9rS99iwgLuUmEYCT7wW" xml:lang="sv" type="speaker">
           dessa reparationer utgifna medel för restaureringen af de skilda
           rummen belöpa sig pä:
         </note>
@@ -11892,10 +11892,14 @@
             icke täl något vidare uppskof.
           </seg>
         </u>
-        <note xml:id="i-ARnsDtAEmaXhogrwLN57AQ" xml:lang="fi">
-          Hr G. Grotenfelt: Minä pyydän saada kannattaa Hra Schildt'in
-          ehdotusta.
+        <note xml:id="i-ARnsDtAEmaXhogrwLN57AQ" xml:lang="fi" type="speaker">
+          Hr G. Grotenfelt:
         </note>
+        <u who="unknown">
+          <seg>
+            Minä pyydän saada kannattaa Hra Schildt'in ehdotusta.
+          </seg>
+        </u>
         <note xml:id="i-XVZjaSDL5cd9ydpEqPX9i9" xml:lang="sv">
           Sedan diskussionen härmed afstannat, framstälde Hr Landtmarskalken
           till Ständets besvarande följande

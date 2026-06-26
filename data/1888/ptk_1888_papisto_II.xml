@@ -628,15 +628,20 @@
             tarkat laskut kuin suinkin mahdollista.
           </seg>
         </u>
-        <note xml:id="i-4cD6oGn37GG9jNBpJmohix" xml:lang="sv">
-          .Provasti Sahlberg: Med anledning af den sista talarens. yrkande
-          att betänkandet skulle äterremitteras till utskottet för införskaffandet
-          af närmare utredning, huruvida de päräknade ättatusen mark, som
-          utskottet har antagit kunna blifva ett tillskott till militiekassan,
-          verkligen äro att päräkna, fär jag svara att en sädan beräkning
-          ju alltid måste vara approximativ. Man här ju icke" någon egentlig
-          grund för att veta huru. många utlänningar
+        <note xml:id="i-4cD6oGn37GG9jNBpJmohix" xml:lang="sv" type="speaker">
+          .Provasti Sahlberg:
         </note>
+        <u who="unknown">
+          <seg>
+            Med anledning af den sista talarens. yrkande att betänkandet
+            skulle äterremitteras till utskottet för införskaffandet af närmare
+            utredning, huruvida de päräknade ättatusen mark, som utskottet
+            har antagit kunna blifva ett tillskott till militiekassan, verkligen
+            äro att päräkna, fär jag svara att en sädan beräkning ju alltid
+            måste vara approximativ. Man här ju icke" någon egentlig grund
+            för att veta huru. många utlänningar
+          </seg>
+        </u>
         <pb facs="https://swerik-project.github.io/valtiopaivat-records-pdf/1888/ptk_1888_papisto_II/ptk_1888_papisto_II-0012"/>
         <note xml:id="i-8HKmz85uQXeCuwK4bLn5Na" xml:lang="fi">
           940 Huhtik. 28 p;
@@ -3159,7 +3164,7 @@
           Mietinnön 13 ja *seuraavilla sivuilla olevan lausunnon johdosta,
           joka koskee koron alentamista, pyysi
         </note>
-        <note xml:id="i-MHhvMsijeMKj6ckKm3Fyzs" xml:lang="fi">
+        <note xml:id="i-MHhvMsijeMKj6ckKm3Fyzs" xml:lang="fi" type="speaker">
           Ylioppettaja Kihlman sananvuoroa ja lausui:
         </note>
         <note xml:id="i-Vv8xQUevyAkpsVBxT6uxBK" xml:lang="fi" type="speaker">
@@ -15269,29 +15274,32 @@
         <note xml:id="i-64G8RUtCoXEEP1C3xpuniB" xml:lang="fi" type="speaker">
           Provasti Westerlund:
         </note>
-        <u xml:id="i-wPbQLuUFY1Hfr6CZ2fTkB" who="unknown">
-          <seg xml:id="i-dN6ZudZnX8NjWnoe2q8Gt" xml:lang="fi">
-            Kirkkoherra Schroderuksen selitykset ja puolustukset eivät ole
-            voineet kumota minun vakuutustani, että maanomistaja kyllä voi
-            lain mukaan saada täydellisen korvauksen niistä hankaluuksista,
-            jotka syntyvät sen kautta, että rautatie johdetaan hänen viljelystensä
-            läpi. Minä: olen hyvin kiitollinen, että hra Törnudd, vaikka hän
-            ei suorastaan olekaan kannattanut minua, kuitenkin riensi minulle
-            avuksi, tehden ehdotuksensa, että rahassa suoritettasiin korvaus
-            aidan ylläpitämisestä jo maan luovutuksessa, ja minä olen tyytyväinen
-            joskin senkaltainen vähäinen muutos tässä kohden saadaan toimeen.
-            Kirkkoherra Schroderus arveli, että vastaiset yksityiset rautatiet
-            tulisivat kulkemaan ainoastaan viljeltyjen maitten läpi ja että
-            siis olisi tarpeen joka vuosi korvata mitä tämän kautta vahinkoa
-            maan omistajalle syntyy. Mutta jos rautatiestä on maan omistajalle
-            vahinkoa, niin on siitä hyötyäkin, jolle myös jotakin arvoa pitäisi
-            antaa, nimittäin hyötyä sitä, että rautatie menee hänen nurkitsensa.
-            Muutoin minä en pidä meidän maatamme niin viljeltynä ja vastaisia
-            yksityisiä rautateitä niin lyhyiksi rakennettavina, että ne tulisivat
-            sattumaan ainoastaan viljeltyihin maihin. Minä pelkään, että on
-            olemassa vielä kankaita, hedelmättömiä kankaita, joissa elukat
-            eivät "voi käydä ruokamailla, ja soita, joihin elukat hukkuvat.
-            Ai-
+        <u xml:id="i-wPbQLuUFY1Hfr6CZ2fTkB" who="unknown"/>
+        <note xml:id="i-dN6ZudZnX8NjWnoe2q8Gt" xml:lang="fi" type="speaker">
+          Kirkkoherra Schroderuksen selitykset ja puolustukset eivät ole
+          voineet kumota minun vakuutustani, että maanomistaja kyllä voi
+          lain mukaan saada täydellisen korvauksen niistä hankaluuksista,
+          jotka syntyvät sen kautta, että rautatie johdetaan hänen viljelystensä
+          läpi. Minä:
+        </note>
+        <u who="unknown">
+          <seg>
+            olen hyvin kiitollinen, että hra Törnudd, vaikka hän ei suorastaan
+            olekaan kannattanut minua, kuitenkin riensi minulle avuksi, tehden
+            ehdotuksensa, että rahassa suoritettasiin korvaus aidan ylläpitämisestä
+            jo maan luovutuksessa, ja minä olen tyytyväinen joskin senkaltainen
+            vähäinen muutos tässä kohden saadaan toimeen. Kirkkoherra Schroderus
+            arveli, että vastaiset yksityiset rautatiet tulisivat kulkemaan
+            ainoastaan viljeltyjen maitten läpi ja että siis olisi tarpeen
+            joka vuosi korvata mitä tämän kautta vahinkoa maan omistajalle
+            syntyy. Mutta jos rautatiestä on maan omistajalle vahinkoa, niin
+            on siitä hyötyäkin, jolle myös jotakin arvoa pitäisi antaa, nimittäin
+            hyötyä sitä, että rautatie menee hänen nurkitsensa. Muutoin minä
+            en pidä meidän maatamme niin viljeltynä ja vastaisia yksityisiä
+            rautateitä niin lyhyiksi rakennettavina, että ne tulisivat sattumaan
+            ainoastaan viljeltyihin maihin. Minä pelkään, että on olemassa
+            vielä kankaita, hedelmättömiä kankaita, joissa elukat eivät "voi
+            käydä ruokamailla, ja soita, joihin elukat hukkuvat. Ai-
           </seg>
         </u>
         <note xml:id="i-XKRak7TV7PVqsSpnbMMbyR" xml:lang="sv">
@@ -15473,7 +15481,7 @@
             nödvändigt, att 17 $ uteslutes.
           </seg>
         </u>
-        <note xml:id="i-5vWiitmac49z5g8q2BQQaR" xml:lang="fi">
+        <note xml:id="i-5vWiitmac49z5g8q2BQQaR" xml:lang="fi" type="speaker">
           Lehtori Hällfors yhdistyi edellisen puhujan ehdotukseen:
         </note>
         <note xml:id="i-UzDp4P7oBCkTEaK5P7whFz" xml:lang="fi">
@@ -15544,11 +15552,16 @@
             valtio ottaa.
           </seg>
         </u>
-        <note xml:id="i-CKSaHdBFhhFCg4g6EqLidd" xml:lang="sv">
-          Kirkkoherra Torckell : Jag beder att få understöda professor
-          Donners förslag att i den sista meningen i första momentet skulle
-          tilläggas: ,dock fär föreslagen afgift af senaten icke höjas*.
+        <note xml:id="i-CKSaHdBFhhFCg4g6EqLidd" xml:lang="sv" type="speaker">
+          Kirkkoherra Torckell :
         </note>
+        <u who="unknown">
+          <seg>
+            Jag beder att få understöda professor Donners förslag att i den
+            sista meningen i första momentet skulle tilläggas: ,dock fär föreslagen
+            afgift af senaten icke höjas*.
+          </seg>
+        </u>
         <note xml:id="i-N1eConRYpjXC8E9KgPeVDu" xml:lang="sv" type="speaker">
           Professori Donner:
         </note>
@@ -23167,19 +23180,23 @@
         <note xml:id="i-4PUR4ERT4yiFb1pPJ6QDuX" xml:lang="fi">
           4—6 $$ hyväksyttiin keskustelutta.
         </note>
-        <note xml:id="i-kntQAzg5pJudnQFKJrkFA" xml:lang="fi">
-          Tämän jälkeen pyysi Piispa Alopaeus sananvuoroa ja lausui: Jag
-          saknar i detta lagförslag straffbestämning för ett brott, som
-          nära sammanhänger med mened, och som är ganska vanligt i Finland
-          samt har sin straftbestämning i den gamla lagen och stämplas äfven
-          såsom ett brott i våra religiösa läroböcker, nämligen svordom.
-          Jag har icke ansett mig kunna elier böra formulera någon lagparagraf
-          eller lagbestämning i detta syfte, viljande öfverlemna detta åt
-          lagkunniga, rnen har dock icke kunnat underlåta att uttrycka den
-          önskan, att en paragraf i detta syfte skulle tilläggas till de
-          paragrafer, som finnas i detta kapitel, och att kapitlet skulle
-          hafva till öfverskrift: Om mened och svordom.
+        <note xml:id="i-kntQAzg5pJudnQFKJrkFA" xml:lang="fi" type="speaker">
+          Tämän jälkeen pyysi Piispa Alopaeus sananvuoroa ja lausui:
         </note>
+        <u who="unknown">
+          <seg>
+            Jag saknar i detta lagförslag straffbestämning för ett brott,
+            som nära sammanhänger med mened, och som är ganska vanligt i Finland
+            samt har sin straftbestämning i den gamla lagen och stämplas äfven
+            såsom ett brott i våra religiösa läroböcker, nämligen svordom.
+            Jag har icke ansett mig kunna elier böra formulera någon lagparagraf
+            eller lagbestämning i detta syfte, viljande öfverlemna detta åt
+            lagkunniga, rnen har dock icke kunnat underlåta att uttrycka den
+            önskan, att en paragraf i detta syfte skulle tilläggas till de
+            paragrafer, som finnas i detta kapitel, och att kapitlet skulle
+            hafva till öfverskrift: Om mened och svordom.
+          </seg>
+        </u>
         <note xml:id="i-HEmAiWACvfL5FTgrgunGse" xml:lang="fi" type="speaker">
           Piispa Johansson:
         </note>
@@ -25034,17 +25051,22 @@
           johdosta olisi koko luku lähetettävä valiokunnan muodostettavaksi,
           pyysi
         </note>
-        <note xml:id="i-A7sSxqZ41sZvrcp2fCvZC2" xml:lang="fi">
-          Kirkkoherra Wallin sananvuoron ja lausui: Jag önskar i sädant
-          fall fä tillägga, att jag anser det tredje paragrafen borde ställas
-          i konformitet med gällande författning om envig af 26 november
-          1866, der det i 3 $ heter: ,De, som biträdt vid envig, varde,
-          efter enhvars delaktighet i brottet och deri ädagalagda skuld,
-          dömde till sådant ansvar, som i 61 kapitlet Missgerningsbalken
-          för olika fall af delaktighet i missgerningar föreskrifves*, och
-          säledes nu ställas i öfverensstämmelse med 5 kapitlet i strafflagsförslaget,
-          som handlar om delaktighet i brott.
+        <note xml:id="i-A7sSxqZ41sZvrcp2fCvZC2" xml:lang="fi" type="speaker">
+          Kirkkoherra Wallin sananvuoron ja lausui:
         </note>
+        <u who="unknown">
+          <seg>
+            Jag önskar i sädant fall fä tillägga, att jag anser det tredje
+            paragrafen borde ställas i konformitet med gällande författning
+            om envig af 26 november 1866, der det i 3 $ heter: ,De, som biträdt
+            vid envig, varde, efter enhvars delaktighet i brottet och deri
+            ädagalagda skuld, dömde till sådant ansvar, som i 61 kapitlet
+            Missgerningsbalken för olika fall af delaktighet i missgerningar
+            föreskrifves*, och säledes nu ställas i öfverensstämmelse med
+            5 kapitlet i strafflagsförslaget, som handlar om delaktighet i
+            brott.
+          </seg>
+        </u>
         <note xml:id="i-KymsM3RKoK4jNThY2MubXe" xml:lang="fi">
           Hra Puhemiehen esityksestä päätettiin, ryhtymättä luvun muitten
           pykälien yksityistarkastukseen, lähettää koko luku takaisin valiokuntaan
@@ -27075,10 +27097,15 @@
         <note xml:id="i-TNeyjnninhUjpCG1YLUFj6" xml:lang="fi">
           42 Luvun 1—6 $$ hyväksyttiin keskustelutta.
         </note>
-        <note xml:id="i-FZU7ZZJmqnoF2mZn4NVapN" xml:lang="sv">
-          78 Piispa Alopaeus: Vid diskussionen i går angående svordom.
-          beslöt högvördiga ståndet att frågan härom skulle upptagas, dä
+        <note xml:id="i-FZU7ZZJmqnoF2mZn4NVapN" xml:lang="sv" type="speaker">
+          78 Piispa Alopaeus:
         </note>
+        <u who="unknown">
+          <seg>
+            Vid diskussionen i går angående svordom. beslöt högvördiga ståndet
+            att frågan härom skulle upptagas, dä
+          </seg>
+        </u>
         <pb facs="https://swerik-project.github.io/valtiopaivat-records-pdf/1888/ptk_1888_papisto_II/ptk_1888_papisto_II-0424"/>
         <note xml:id="i-Y6gCHxvGLFDMmKD98FnXaJ" xml:lang="fi">
           1352 Toukok. 16 p.
@@ -43516,7 +43543,7 @@
         <note xml:id="i-TBuwXmtGQVT5XaWNuAgrN4" xml:lang="fi">
           Tarkastettiin pöytäkirjan-otteita.
         </note>
-        <note xml:id="i-HUgUR7htjXvEWibS1xErwC" xml:lang="fi">
+        <note xml:id="i-HUgUR7htjXvEWibS1xErwC" xml:lang="fi" type="speaker">
           Tavanmukaisesti vastaanotettuna astui sisään porvarissäädystä
           tullut lähetystö tohtori Wallen johdolla, joka lausui:
         </note>
@@ -44849,10 +44876,15 @@
           niistä anomusehdotuksista, joita ei valiokunta ollut ennättänyt
           käsitellä.
         </note>
-        <note xml:id="i-TZYj69ciRNZm38RdoqcLcn" xml:lang="fi">
+        <note xml:id="i-TZYj69ciRNZm38RdoqcLcn" xml:lang="fi" type="speaker">
           Kirjoituksen johdosta pyysi provasti Westerlund sananvuoroa ja
-          lausui: :
+          lausui:
         </note>
+        <u who="unknown">
+          <seg>
+            :
+          </seg>
+        </u>
         <note xml:id="i-WKtRfCt6X9tbhhc54CiAjf" xml:lang="fi">
           Esillä oleva valtiovaliokunnan ilmoitus sisältää muun muassa
           että valiokunta ei ole 'ennättänyt käsitellä minun anomustani
@@ -44874,7 +44906,7 @@
           on oikeutta vaatia säädyiltä ja valiokunnalta lausuntoa, ovatko
           he oikeassa, kun nyt vaativat tuon asetuksen poistamista.
         </note>
-        <note xml:id="i-3BNKLNeAQMoboNZJprXR9C" xml:lang="fi">
+        <note xml:id="i-3BNKLNeAQMoboNZJprXR9C" xml:lang="fi" type="speaker">
           Herra Puhemies lausui puhujan lausunnon johdosta, ettei puhujalla
           ole oikeutta panna epäilyksen alaiseksi sitä ilmoitusta ajan puutteesta,
           jonka valtiovaliokunta kirjoituksessaan virallisesti on antanut.
@@ -44968,7 +45000,7 @@
           säädyissä huomenna ovat lausuvat pappissäädyn jäähyväiset, sitä
           varten tekemänsä seuraavat jäähyväis-puheet:
         </note>
-        <note xml:id="i-RaFRFhqr7dYiE5CMbeqdQQ" xml:lang="fi">
+        <note xml:id="i-RaFRFhqr7dYiE5CMbeqdQQ" xml:lang="fi" type="speaker">
           a) Professori Danielson ritaristolle ja aatelille :
         </note>
         <note xml:id="i-YQ4aboc5ZMVy5ooG4WoHn4" xml:lang="sv">
@@ -45026,10 +45058,14 @@
           i Eder, Välborne Herr Landtmarskalk, ochi hela det höglofliga
           ständets välvilja och vänskap.
         </note>
-        <note xml:id="i-VPLcz1SV6NW5wJXR4EKkva" xml:lang="fi">
-          b) Kirkkoherra Schroderns porvarissäädylle : Kunnioitettava hra
-          Puhemies, hyvinarvoisa porvarissääty.
+        <note xml:id="i-VPLcz1SV6NW5wJXR4EKkva" xml:lang="fi" type="speaker">
+          b) Kirkkoherra Schroderns porvarissäädylle :
         </note>
+        <u who="unknown">
+          <seg>
+            Kunnioitettava hra Puhemies, hyvinarvoisa porvarissääty.
+          </seg>
+        </u>
         <note xml:id="i-R49AzMJeoxUvoWWDL8HAdv" xml:lang="fi">
           Pappissääty on antanut meille toimeksi tämän säätykokouksen lopussa
           lausua hyvin arvoisalle porvarissäädylle sydämellisen jäähyväistervehdyksensä.
@@ -45078,7 +45114,7 @@
           porvarissäädyn arvokasta myötävaikutusta näitten suuriarvoisten
           y. m. tärkeitten lakiehdotusten ratkaisuun.
         </note>
-        <note xml:id="i-SuMbXxhPUvb26rjRtHCDH8" xml:lang="fi">
+        <note xml:id="i-SuMbXxhPUvb26rjRtHCDH8" xml:lang="fi" type="speaker">
           Jumala kaikkivaltias johtakoon Suomen kansaa kaikissa vaiheissa
           ja varjelkoon rakasta isäimme maata:
         </note>
@@ -45086,10 +45122,10 @@
           Toivottaen Korkeimman Jumalan armoa ja siunausta, pyytää pappissääty
           saada sulkeutua hyvinarvoisan -porvarissäädyn ystävyyteen ja suosioon.
         </note>
-        <note xml:id="i-RZiYdyju4H6cjLRXiGKdRu" xml:lang="fi">
+        <note xml:id="i-RZiYdyju4H6cjLRXiGKdRu" xml:lang="fi" type="speaker">
           ec) Provasti Forsman talonpoikaissäädylle:
         </note>
-        <note xml:id="i-R3gQXF1YKMLWCTkp6HCXUn" xml:lang="fi">
+        <note xml:id="i-R3gQXF1YKMLWCTkp6HCXUn" xml:lang="fi" type="speaker">
           Hyvin ymmärtäväinen herra Puhemies, arvoisa Talonpoikaissääty
           !
         </note>
@@ -45173,7 +45209,7 @@
           viimeiseen kokoukseensa ottamaan vastaan muiden säätyjen jäähyväislähetystöt;
           ja saapui ensin
         </note>
-        <note xml:id="i-AGvkZP3zwyCK3BimbQGcbs" xml:lang="fi">
+        <note xml:id="i-AGvkZP3zwyCK3BimbQGcbs" xml:lang="fi" type="speaker">
           Lähetystö Talonpoikaissäädystä hra Pöystin johdolla, joka lausui:
         </note>
         <note xml:id="i-KW2ufmigyFuX4NKVo9hZYh" xml:lang="sv">
@@ -45251,7 +45287,7 @@
           tahtoo edelleenki sulkeentua korkiasti kunnioitettavan Herra Tohtorin
           ja Arkkipiispan ja kunnian arvoisen pappissäädyn suosioon.
         </note>
-        <note xml:id="i-NVnP2qyAPzz7HeZXastP2h" xml:lang="fi">
+        <note xml:id="i-NVnP2qyAPzz7HeZXastP2h" xml:lang="fi" type="speaker">
           Hra Puhemies vastasi:
         </note>
         <note xml:id="i-B9Vj1GQQKAW33zpUarACsw" xml:lang="fi">
@@ -45270,7 +45306,7 @@
           arvoisalle säädyllenne pappissäädyn hartaimmat ja ystävällisimmät
           jäähyväiset.
         </note>
-        <note xml:id="i-SSywwVuaKfSRBxKKk5eSz1" xml:lang="fi">
+        <note xml:id="i-SSywwVuaKfSRBxKKk5eSz1" xml:lang="fi" type="speaker">
           Porvarissäädyn lähetystön johtaja hra Juselius lausui:
         </note>
         <note xml:id="i-QuNN6KA4sKSc5PkZ6Xj34V" xml:lang="sv">
@@ -45349,7 +45385,7 @@
           folkens öden. Vi anhälla att fä vara inneslutna i vällofliga borgareständets
           vänskap och bevägenhet.
         </note>
-        <note xml:id="i-3ybnhBcbAEknwubkSaeDEv" xml:lang="fi">
+        <note xml:id="i-3ybnhBcbAEknwubkSaeDEv" xml:lang="fi" type="speaker">
           Ritariston ja aatelin lähetystön johtajana oli vapaaherra von
           Born, joka lausui:
         </note>
@@ -45394,7 +45430,7 @@
         <note xml:id="i-5o7Y4Zm3f7MzLucqbhdHPG" xml:lang="fi">
           "1636 Toukok. 31 p.
         </note>
-        <note xml:id="i-W9rNCM9LWqFnPJsFi3sojH" xml:lang="fi">
+        <note xml:id="i-W9rNCM9LWqFnPJsFi3sojH" xml:lang="fi" type="speaker">
           Säädyn puolesta lausui herra Arkkipiispa vastaukseksi:
         </note>
         <note xml:id="i-C6Es3eFxoKdVaSKAwfkf4M" xml:lang="sv">
@@ -45431,7 +45467,7 @@
           här hafva blifvit uttalade, och bedja derjemte att fä vara inneslutna
           i det höglofliga ständets välvilja och vänskap.
         </note>
-        <note xml:id="i-DMCdadvwo3BGrLikHtg12f" xml:lang="fi">
+        <note xml:id="i-DMCdadvwo3BGrLikHtg12f" xml:lang="fi" type="speaker">
           Kun tämän jälkeen säädyn oman lähetystön jäsenet olivat ilmoittaneet,
           että he olivat tehneet tehtävänsä sekä saaneet toimekseen tuoda
           pappissäädylle muiden säätyjen vastatervehdykset, piti herra Puhemies
@@ -45599,7 +45635,7 @@
           näd bevara vära hem och värt fädernesland! mätte Furste och medborgare
           i Honom allena söka sitt fastaste värn i alla tidens skiften!
         </note>
-        <note xml:id="i-UEhdQUkE3Ww5xdmM47HZz7" xml:lang="fi">
+        <note xml:id="i-UEhdQUkE3Ww5xdmM47HZz7" xml:lang="fi" type="speaker">
           Säädyn puolesta vastasi piispa Johansson:
         </note>
         <note xml:id="i-2XvgQdkwDVEVVMztoL8YmF" xml:lang="sv">
@@ -45719,7 +45755,7 @@
           Puhemies: Renvall, Torsten Thure, arkkipiispa; — ks. sisällysluetteloa
           (Puhemies).
         </note>
-        <note xml:id="i-BYHMgFyYqftzx5fgazzha4" xml:lang="fi">
+        <note xml:id="i-BYHMgFyYqftzx5fgazzha4" xml:lang="fi" type="speaker">
           Vara-puhemies:
         </note>
         <note xml:id="i-2VzhGSf6pK6oHy2SdMHj21" xml:lang="fi">
@@ -46089,7 +46125,7 @@
         <note xml:id="i-Lt9ytKR7nPfKy4LQoAhFw5" xml:lang="sv">
           Hällfors, Petter Gustaf, lehtori,
         </note>
-        <note xml:id="i-8eBXetxCQieXrtWp6y1Bia" xml:lang="sv">
+        <note xml:id="i-8eBXetxCQieXrtWp6y1Bia" xml:lang="sv" type="speaker">
           UK KKNNN!
         </note>
         <note xml:id="i-Fb3mpFjwNixs6oKSVJX2ed" xml:lang="fi">
@@ -48169,7 +48205,7 @@
         <note xml:id="i-C9Ho2MUe22599hj7Exokhd" xml:lang="sv">
           1110 1
         </note>
-        <note xml:id="i-AiYsGDVxrH6tZHP4eS6kMP" xml:lang="sv">
+        <note xml:id="i-AiYsGDVxrH6tZHP4eS6kMP" xml:lang="sv" type="speaker">
           Oriva:
         </note>
         <note xml:id="i-QMqkUs74KJcargR8kGuJgR" xml:lang="fi">

@@ -58,10 +58,10 @@
         <note xml:id="i-79qGMqQ5xbEJ5VSHMoj7SL" xml:lang="sv">
           FRÅN DEN 5 APRIL TILL OCH MED DEN 8 MAJ.
         </note>
-        <note xml:id="i-EJhzdy81yfmefmf8k7cfa3" xml:lang="sv ">
+        <note xml:id="i-EJhzdy81yfmefmf8k7cfa3" xml:lang="sv">
           HELSINGFORS,
         </note>
-        <note xml:id="i-6vgSNK7BKTonMFzLxFwVFE" xml:lang="sv ">
+        <note xml:id="i-6vgSNK7BKTonMFzLxFwVFE" xml:lang="sv">
           HELSINGFORS CENTRAL-TRYCKERI,
         </note>
         <pb facs="https://swerik-project.github.io/valtiopaivat-records-pdf/1867/prot_1867_praster_II/prot_1867_praster_II-0003"/>
@@ -805,7 +805,7 @@
           Prosten doktor Alopaeus ansåg frågan nog diskuterad och yrkade
           på proposition.
         </note>
-        <note xml:id="i-7zsU8EJm89uoDu7WnsRDzn" xml:lang="sv">
+        <note xml:id="i-7zsU8EJm89uoDu7WnsRDzn" xml:lang="sv" type="speaker">
           Sedan diskussionen förklarats afslutad, framställde herr talemannen
           följande omröstningsproposition:
         </note>
@@ -817,7 +817,7 @@
         <note xml:id="i-5pEvV9GAEsXzieBpZTX4zf" xml:lang="sv">
           500 Presteståndet. 1867. 5 April
         </note>
-        <note xml:id="i-C1kFWST9LPWjzk8VjASSFs" xml:lang="sv">
+        <note xml:id="i-C1kFWST9LPWjzk8VjASSFs" xml:lang="sv" type="speaker">
           Besvarades enhälligt jakande. Härå framställde herr talemannen
           följande proposition:
         </note>
@@ -842,7 +842,7 @@
           yrkade, att detta amendement skulle uppställas såsom proposition
           och doktor Berghs ändringsförslag såsom kontraproposition. i
         </note>
-        <note xml:id="i-Gqkaa6hKTwM3N7SyUZQLAs" xml:lang="sv">
+        <note xml:id="i-Gqkaa6hKTwM3N7SyUZQLAs" xml:lang="sv" type="speaker">
           Herr talemannen framställde med anledning häraf följande omröstningsproposition
           :
         </note>
@@ -1409,7 +1409,7 @@
           talare yrkade tillägg, med undantag af hvad gällde oskriftade,
           emedan lagen för detta fall bestämde skildt ansvar.
         </note>
-        <note xml:id="i-171WWv1aacV2euEkfmDVCJ" xml:lang="sv">
+        <note xml:id="i-171WWv1aacV2euEkfmDVCJ" xml:lang="sv" type="speaker">
           Herr talemannen framställde härä följande omröstningsproposition:
         </note>
         <note xml:id="i-QXNXsMNYuvc422f61yua7Y" xml:lang="sv">
@@ -1419,7 +1419,7 @@
         <note xml:id="i-3LuvzGUQHzVnJM6AqkhogX" xml:lang="sv">
           Besvarades med obestridd pluralitet nekande.
         </note>
-        <note xml:id="i-7a4YrM7aphQLSuapVinHu1" xml:lang="sv">
+        <note xml:id="i-7a4YrM7aphQLSuapVinHu1" xml:lang="sv" type="speaker">
           Ytterligare framställdes af herr talemannen följande proposition
           :
         </note>
@@ -1522,7 +1522,7 @@
           Prosten Rosengren önskade bibehållandet af tidsbestämningen,
           emedan den vore djupt rotad i folkets sed.
         </note>
-        <note xml:id="i-L6GSvphxoZiCjoK372eVZZ" xml:lang="sv">
+        <note xml:id="i-L6GSvphxoZiCjoK372eVZZ" xml:lang="sv" type="speaker">
           Herr talemannen framställde härå följande omröstningsproposition:
         </note>
         <note xml:id="i-GGSRNBQmNQEFxZmG2LVu4R" xml:lang="sv">
@@ -2248,7 +2248,7 @@
           Af ståndets medlemmar vore professoren Geitlin, prosten Borenius
           och vicepastorn Snellman fortfarande frånvarande.
         </note>
-        <note xml:id="i-P7fb4J7Qjsx21XyPTaTrnT" xml:lang="sv">
+        <note xml:id="i-P7fb4J7Qjsx21XyPTaTrnT" xml:lang="sv" type="speaker">
           Föredrogos tvenne från bondeståndet inkomna protokollsutdrag,
           hvilka efter hvarandra här intogos så lydande:
         </note>
@@ -2265,7 +2265,7 @@
           proposition till Finlands Ständer angående vattenledningar och
           vattenverk.
         </note>
-        <note xml:id="i-6AhyYcFfZcFcCUBzCFYRji" xml:lang="sv">
+        <note xml:id="i-6AhyYcFfZcFcCUBzCFYRji" xml:lang="sv" type="speaker">
           Sedan diskussion och särskilda omröstningar ägt rum, stannade
           Bondeståndet vid följande beslut:
         </note>
@@ -2290,13 +2290,17 @@
         <note xml:id="i-FAqLGivUBxdNvbZeEeeKqT" xml:lang="sv">
           Att $$ 8—10 antogos i enlighet med den nådiga propositionen.
         </note>
-        <note xml:id="i-HYQeACqzBsEYNBe2S8LQ2h" xml:lang="sv">
+        <note xml:id="i-HYQeACqzBsEYNBe2S8LQ2h" xml:lang="sv" type="speaker">
           Att vid 11 &amp;, som i öfrigt borde erhälla samma lydelse, som
           motsvarande $ i Nädiga propositionen, skulle i slutet tilläggas:
-          med undantag af sådana elfvar, strömmar eller åar, om hvilka antingen
-          genom laga kraft vunnet utslag, eller eljest i vederbörlig ordning
-          blifvit annorlunda bestämdt."
         </note>
+        <u who="unknown">
+          <seg>
+            med undantag af sådana elfvar, strömmar eller åar, om hvilka
+            antingen genom laga kraft vunnet utslag, eller eljest i vederbörlig
+            ordning blifvit annorlunda bestämdt."
+          </seg>
+        </u>
         <note xml:id="i-VcK8aJUCZin5wYRN4DhxTU" xml:lang="sv">
           Att 12 &amp; antogs sådan densamma innefattas i den Nädiga propositionen.
         </note>
@@ -2907,7 +2911,7 @@
           $ äfven borde erhålla ett moment d) enligt prosten doktor Berghs
           reservation.
         </note>
-        <note xml:id="i-WjpNMDwcPkBYArRetTc7ar" xml:lang="sv">
+        <note xml:id="i-WjpNMDwcPkBYArRetTc7ar" xml:lang="sv" type="speaker">
           I anledning häraf framställde herr talemannen följande omröstningsproposition
           :
         </note>
@@ -3663,7 +3667,7 @@
           att proposition skulle uppställas, huruvida examen bör vara offentlig
           och huruvida bedömmandet bör ske med olika vitsord.
         </note>
-        <note xml:id="i-KJ7VCVeEc1LBZ3hFcSNbFm" xml:lang="sv">
+        <note xml:id="i-KJ7VCVeEc1LBZ3hFcSNbFm" xml:lang="sv" type="speaker">
           Härefter förklarades diskussionen afslutad, och herr talemannen
           framställde följande proposition:
         </note>
@@ -3701,7 +3705,7 @@
           Prosten Grönberg anmärkte mot prosten Hackzell, att förslaget
           medgifver den, som det önskar, att afsäga sig prestembetet.
         </note>
-        <note xml:id="i-Rpd9hTXBFFf9jUmqmevchw" xml:lang="sv">
+        <note xml:id="i-Rpd9hTXBFFf9jUmqmevchw" xml:lang="sv" type="speaker">
           Härefter framställdes följande proposition:
         </note>
         <note xml:id="i-FjEsmyGpYz3zGDtf1atQPp" xml:lang="sv">
@@ -3761,7 +3765,7 @@
           På härefter framställd proposition godkändes paragrafen med obestridd
           pluralitet.
         </note>
-        <note xml:id="i-MDh7kZMHUH3naQGs1nhDVE" xml:lang="sv">
+        <note xml:id="i-MDh7kZMHUH3naQGs1nhDVE" xml:lang="sv" type="speaker">
           88 115, 116 och 117 godkändes enhälligt. Angående $ 118 ansåg:
         </note>
         <note xml:id="i-RUv6gtUKs1wo455u4SE6bT" xml:lang="sv">
@@ -3928,7 +3932,7 @@
         <note xml:id="i-QhpyUUXJeW3dZJ4MCqEgAH" xml:lang="sv">
           Fränvarande var endast vicepastor Snellman för tjensteangelägenheter.
         </note>
-        <note xml:id="i-2wq6NZpoBZXAKzaxCAroWC" xml:lang="sv">
+        <note xml:id="i-2wq6NZpoBZXAKzaxCAroWC" xml:lang="sv" type="speaker">
           Föredrogs följande protokollsutdrag frän borgareständet:
         </note>
         <pb facs="https://swerik-project.github.io/valtiopaivat-records-pdf/1867/prot_1867_praster_II/prot_1867_praster_II-0070"/>
@@ -6109,7 +6113,7 @@
           Professorn Geitlin sade sig vara förekommen af den nästföregäende
           talaren, med hvilken professorn alltsä förenade sig.
         </note>
-        <note xml:id="i-E1WxJB8aF3FkBbtvY88bjo" xml:lang="sv">
+        <note xml:id="i-E1WxJB8aF3FkBbtvY88bjo" xml:lang="sv" type="speaker">
           Emedan frågan ansågs vara tillräckligt diskuterad, framställde
           herr talemannen följande proposition:
         </note>
@@ -6399,7 +6403,7 @@
           fordrade negativa bevisningen kunde hvarken företes eller godkännas,
           hvarföre prosten röstade för omformalering af detta moment.
         </note>
-        <note xml:id="i-8jcdgNWsqYDQnHD4WF6TNN" xml:lang="sv">
+        <note xml:id="i-8jcdgNWsqYDQnHD4WF6TNN" xml:lang="sv" type="speaker">
           Doktor Hcellön gillade för sin del den framställda anmärkningen,
           anseende sagde moment böra erhälla följande lydelse:
         </note>
@@ -7226,7 +7230,7 @@
           frågor ej hade att göra, blef paragrafen med obestridd röstpluralitet
           godkänd.
         </note>
-        <note xml:id="i-Be55yeoBkJGXnG2gaFqSxi" xml:lang="sv">
+        <note xml:id="i-Be55yeoBkJGXnG2gaFqSxi" xml:lang="sv" type="speaker">
           88 295—302 godkändes enhälligt. Beträffande $ 303 uppkom diskussion,
           dervid sig yttrade:
         </note>
@@ -7347,7 +7351,7 @@
         <note xml:id="i-3wJKMAK4qedRXCJTQX1ZXF" xml:lang="sv">
           8S 330—331 godkändes enhälligt.
         </note>
-        <note xml:id="i-H677iLSjD3w4TCgcTECC1i" xml:lang="sv">
+        <note xml:id="i-H677iLSjD3w4TCgcTECC1i" xml:lang="sv" type="speaker">
           XIX kap. Om kyrkoråd. $$ 332—334 godkändes enhälligt. Angående
           $ 335 yttrade sig:
         </note>
@@ -7399,7 +7403,7 @@
           88 350—357 godkändes enhälligt, dock med ändring af det utaf
           utskottet vid $ 353 anmärkta tryckfel.
         </note>
-        <note xml:id="i-ArjtCZx43JyYUgR8pkdMav" xml:lang="sv">
+        <note xml:id="i-ArjtCZx43JyYUgR8pkdMav" xml:lang="sv" type="speaker">
           XXI kap. Om biskopsembete. 83 358 och 359 godkändes enhälligt.
           Rörande &amp; 360 uppkom diskussion, hvarvid sig yttrade:
         </note>
@@ -7470,7 +7474,7 @@
           ordande i frågan till intet, helst i alla händelser de tre öfriga
           stånden komme att antaga utskottets förslag.
         </note>
-        <note xml:id="i-EpgFQVqG965RucT6DfUnai" xml:lang="sv">
+        <note xml:id="i-EpgFQVqG965RucT6DfUnai" xml:lang="sv" type="speaker">
           Härå framställdes af herr talemannen följande proposition:
         </note>
         <note xml:id="i-QBwHYQV3PoqqZWsjDztuKc" xml:lang="sv">
@@ -7855,7 +7859,7 @@
         <note xml:id="i-WaHVBeBgKsgZmHLywHF7JN" xml:lang="sv">
           622 Presteståndet. 1867. 12 April.
         </note>
-        <note xml:id="i-8P3iWSFijDeHa3mxQ9ab9w" xml:lang="sv">
+        <note xml:id="i-8P3iWSFijDeHa3mxQ9ab9w" xml:lang="sv" type="speaker">
           Sedan diskussionen härå förklarats afslutad, framställdes af
           herr talemannen följande propositioner:
         </note>
@@ -7892,7 +7896,7 @@
           vara tillstädes, med undandag af doktorn Hellén och vicepastorn
           Snellman, för hvilka sjukdomsförfall anmäldes.
         </note>
-        <note xml:id="i-NpRZkPUkTZzKCGB8qVwXb1" xml:lang="sv">
+        <note xml:id="i-NpRZkPUkTZzKCGB8qVwXb1" xml:lang="sv" type="speaker">
           Föredrogs följande från höglofliga ridderskapet och adeln inkomna
           protokollsutdrag:
         </note>
@@ -9499,11 +9503,15 @@
           deputerade frän preste- och bondeständen i utskottet biträdda
           alternativ (det mellersta af de i utskottsbetänkandet förekommande).
         </note>
-        <note xml:id="i-PZ1vaMEhaDwdTpB2KmfWG" xml:lang="sv">
+        <note xml:id="i-PZ1vaMEhaDwdTpB2KmfWG" xml:lang="sv" type="speaker">
           XI kap. Om hegrafning och jordfästning. Hithörande $$ 81—89 godkändes,
-          den sistnämnda dock med tillägg af orden: ,med berädt mod", hvarföre
-          slutet af paragra-
+          den sistnämnda dock med tillägg af orden:
         </note>
+        <u who="unknown">
+          <seg>
+            ,med berädt mod", hvarföre slutet af paragra-
+          </seg>
+        </u>
         <note xml:id="i-55U1S1HVNkFzSJNdrtX1nE" xml:lang="sv">
           fens förra moment borde lyda: ,samt den som med berädt mod sig
           sjelf lifvet afhändt.*
@@ -9891,7 +9899,7 @@
           tid: med hvad mera protokollsutdraget för sakens belysning och
           utredning innehåller.
         </note>
-        <note xml:id="i-HSdNnfLBrE4YS3AQxFwkXL" xml:lang="sv">
+        <note xml:id="i-HSdNnfLBrE4YS3AQxFwkXL" xml:lang="sv" type="speaker">
           Vid härom uppkommen diskussion yttrade:
         </note>
         <note xml:id="i-PfnX3SprPjqyzkbbgvnWNb" xml:lang="sv">
@@ -10095,7 +10103,7 @@
           och ansåg det vara för sent att då sammanjemkning af ståndens
           beslut var i fråga vidtaga språkgranskningen.
         </note>
-        <note xml:id="i-EXnYfKE7ub4xS4A8ydijqJ" xml:lang="sv">
+        <note xml:id="i-EXnYfKE7ub4xS4A8ydijqJ" xml:lang="sv" type="speaker">
           Af herr talemannen framställdes härå till ståndet följande proposition:
         </note>
         <note xml:id="i-NNdgom6R7G7mHgT42btAz3" xml:lang="sv">
@@ -10330,7 +10338,7 @@
           stiftvis om de två andra ofrälse stånden ägde välja inom hela
           landet.
         </note>
-        <note xml:id="i-SwxPfDL9mQv6gwaGWmzo6u" xml:lang="sv">
+        <note xml:id="i-SwxPfDL9mQv6gwaGWmzo6u" xml:lang="sv" type="speaker">
           Som någon talare numera icke anmälde sig, framställdes af herr
           talemannen följande proposition:
         </note>
@@ -10495,7 +10503,7 @@
           skulle af det förstärkta utskottet afgöras, dessa frågors lösning
           icke borde göras beroende af minoritetens inom utskottet bifall.
         </note>
-        <note xml:id="i-JYDHBcgerwv5SBujP54CQU" xml:lang="sv">
+        <note xml:id="i-JYDHBcgerwv5SBujP54CQU" xml:lang="sv" type="speaker">
           Af herr talemannen framställdes härå följande proposition:
         </note>
         <note xml:id="i-FjztCztqmRTCARyQWyboNy" xml:lang="sv">
@@ -10979,7 +10987,7 @@
           Kyrkoherden Juselius biträdde denna mening. Kontraktsprosten
           Sirén likaså.
         </note>
-        <note xml:id="i-GmhZeBJkFMH4JtnNoJgS9t" xml:lang="sv">
+        <note xml:id="i-GmhZeBJkFMH4JtnNoJgS9t" xml:lang="sv" type="speaker">
           Herr talemannen framställde derefter följande omröstningspropositioner:
         </note>
         <note xml:id="i-K5PpbxP5X5s2avw7xhsM5g" xml:lang="sv">
@@ -11354,7 +11362,7 @@
           bråket 5/; i parenthes utsättes, äfvensom orden ,läsnä olevista
           jäsenistä'* böra ändras till läsnä olevia jäseniä.
         </note>
-        <note xml:id="i-99JWEvhsoKi65cE3bHUotE" xml:lang="sv">
+        <note xml:id="i-99JWEvhsoKi65cE3bHUotE" xml:lang="sv" type="speaker">
           Andra momentet eller satsen blir mera finsk sälunda:
         </note>
         <pb facs="https://swerik-project.github.io/valtiopaivat-records-pdf/1867/prot_1867_praster_II/prot_1867_praster_II-0199"/>
@@ -11823,10 +11831,10 @@
         <note xml:id="i-QygiPFjp3iRpE55EBUZnh" xml:lang="sv">
           690 Presteståndet. 1867. 24 April.
         </note>
-        <note xml:id="i-L9iEAfzQVJfacuqrGp9JyD" xml:lang="sv">
+        <note xml:id="i-L9iEAfzQVJfacuqrGp9JyD" xml:lang="sv" type="speaker">
           Föredrogos följande protokollsutdrag:
         </note>
-        <note xml:id="i-FQRmcKyYQB2esQW1VKD9LM" xml:lang="sv">
+        <note xml:id="i-FQRmcKyYQB2esQW1VKD9LM" xml:lang="sv" type="speaker">
           a) från höglofliga ridderskapet och adeln:
         </note>
         <note xml:id="i-JuMbv1tCJJkgA1TDBqt2R9" xml:lang="sv">
@@ -11867,11 +11875,15 @@
           88 79 och 80 borde helt och hållet från författningsförslaget
           utgä.
         </note>
-        <note xml:id="i-S7bay4fhQLc1oezrTQBq6Y" xml:lang="sv">
+        <note xml:id="i-S7bay4fhQLc1oezrTQBq6Y" xml:lang="sv" type="speaker">
           Uti sista meningen af första stycket till $ 89 skulle orden:
-          med berädt mod" insättas, till följd hvaraf meningen komme att
-          lyda: ,samt den som med berådt mod sig sjelf lifvet afhändt*.
         </note>
+        <u who="unknown">
+          <seg>
+            med berädt mod" insättas, till följd hvaraf meningen komme att
+            lyda: ,samt den som med berådt mod sig sjelf lifvet afhändt*.
+          </seg>
+        </u>
         <note xml:id="i-GsWY6SKtGL2HLXh9D2k1E1" xml:lang="sv">
           Sedan genom omröstning blifvit bestämdt att $ 118 skulle i författningsförslaget
           bibehållas erhöll den i paragrafen upptagna ed följande lydelse:
@@ -12255,7 +12267,7 @@
           ett uttryck af detta medvetande är föreliggande petitionsförslag
           att betrakta.
         </note>
-        <note xml:id="i-7UqRF7gqav3cNSiWFRGmJQ" xml:lang="sv">
+        <note xml:id="i-7UqRF7gqav3cNSiWFRGmJQ" xml:lang="sv" type="speaker">
           Utskottet anser derföre, att, i enlighet med hvad i petitionen
           yrkats, en författning borde uttärdas, innehållande:
         </note>
@@ -12332,10 +12344,15 @@
         <note xml:id="i-Rm6rvT2myWSAkwUrZAe8Po" xml:lang="sv">
           698 Presteständet. 1867. 24 April.
         </note>
-        <note xml:id="i-CHApbNdWwmEKfnCjuerkDP" xml:lang="sv">
-          Föredrogs vidare protokollsutdrag: b) från vällofliga borgareständet:
-          1) af den 12 innevarande april, sä lydande:
+        <note xml:id="i-CHApbNdWwmEKfnCjuerkDP" xml:lang="sv" type="speaker">
+          Föredrogs vidare protokollsutdrag:
         </note>
+        <u who="unknown">
+          <seg>
+            b) från vällofliga borgareständet: 1) af den 12 innevarande april,
+            sä lydande:
+          </seg>
+        </u>
         <note xml:id="i-7itkuTdttWoJLxpvuchyhc" xml:lang="sv">
           Vid det borgareständet den 9, 10 och 11 innevarande april samt
           denne dag till granskning förehaft kyrkolagsutskottets betänkande
@@ -13601,7 +13618,7 @@
           De, hvilka antaga inbjudningen oförändrad, svara ja; de, som deri
           önska någon modifikation svara nej.
         </note>
-        <note xml:id="i-NbyWYgANHRU3Az89YwVBcx" xml:lang="sv">
+        <note xml:id="i-NbyWYgANHRU3Az89YwVBcx" xml:lang="sv" type="speaker">
           Besvarades med öfvervägande röstpluralitet nekande, iföljd hvaraf
           herr talemannen proponerade:
         </note>
@@ -13904,7 +13921,7 @@
           med ett halft års tillägg till tukthustiden samt att af en högre
           straffbestämning vänta restitution af Guds namns ära.
         </note>
-        <note xml:id="i-PCq9QnMDarAJGUCNfwiW1L" xml:lang="sv">
+        <note xml:id="i-PCq9QnMDarAJGUCNfwiW1L" xml:lang="sv" type="speaker">
           Sedan diskussionen härå förklarats slutad, framställdes af herr
           talemannen följande proposition:
         </note>
@@ -14079,7 +14096,7 @@
           införda sluttillägget, der det dessutom förekom missskrifning
           af M. B. 4 kap. 1 $ i stället för M. B. 1 kap. 4 $.
         </note>
-        <note xml:id="i-CvDpHWzeyJMr7bk9n824rR" xml:lang="sv">
+        <note xml:id="i-CvDpHWzeyJMr7bk9n824rR" xml:lang="sv" type="speaker">
           Med anledning af hvad sälunda yttrats framställdes af herr talemannen
           följande propositioner:
         </note>
@@ -15744,7 +15761,7 @@
         <note xml:id="i-YW6UMmZHacMqaAYDAHF5NV" xml:lang="sv">
           Presteståndet. 1867. 27 April. 759
         </note>
-        <note xml:id="i-BmPsBYjxai4xXXszweHue1" xml:lang="sv">
+        <note xml:id="i-BmPsBYjxai4xXXszweHue1" xml:lang="sv" type="speaker">
           Sedan diskussionen afslutats och öfverläggning om propositionens
           lydelse ägt rum, framställdes följande proposition:
         </note>
@@ -15755,7 +15772,7 @@
           tagas i betraktande", eller icke? De, som önska detta tillägg
           svara ja; de, som icke önska det, svara nej.
         </note>
-        <note xml:id="i-USKcNTDFCFg9bEoDLsXS8K" xml:lang="sv">
+        <note xml:id="i-USKcNTDFCFg9bEoDLsXS8K" xml:lang="sv" type="speaker">
           Besvarades enhälligt jakande. Härefter framställdes ytterligare
           följande proposition:
         </note>
@@ -16216,7 +16233,7 @@
           Borg redan så grundligt och väl motiverat den åsigt talaren sjelf
           omfattat.
         </note>
-        <note xml:id="i-MN5pctutY7wba3rZ9ygkEC" xml:lang="sv">
+        <note xml:id="i-MN5pctutY7wba3rZ9ygkEC" xml:lang="sv" type="speaker">
           Sedan diskussionen afslutats, framställdes följande godkända
           proposition:
         </note>
@@ -16234,7 +16251,7 @@
           Snellman, domprosten Borg, doktor Hellén, professor Geitlin, kyrkoherden
           Juselius samt prostarne Grönberg, Rosengren och Hackzell.
         </note>
-        <note xml:id="i-Fybk8wQf6afUzqq6W2raPc" xml:lang="sv">
+        <note xml:id="i-Fybk8wQf6afUzqq6W2raPc" xml:lang="sv" type="speaker">
           Härefter föreslogs och godkändes såsom kontraproposition beträffande
           återstoden af paragrafen följande formulering:
         </note>
@@ -16246,7 +16263,7 @@
           utom hans hemvist samt vid socknebud, bör bestås fri skjuts fram
           och åter".
         </note>
-        <note xml:id="i-SzPgUTuN3u4TycDbGn2yAA" xml:lang="sv">
+        <note xml:id="i-SzPgUTuN3u4TycDbGn2yAA" xml:lang="sv" type="speaker">
           Hvarpå följande proposition framställdes:
         </note>
         <note xml:id="i-2t4GU94mfm72k2QfkGFGYd" xml:lang="sv">
@@ -16388,7 +16405,7 @@
           för fattiga; först derefter borde restlängden genom kommunainämnden
           öfverlemnas till exekutor.
         </note>
-        <note xml:id="i-JjkjbwK9yFtwUskzuPv9Uw" xml:lang="sv">
+        <note xml:id="i-JjkjbwK9yFtwUskzuPv9Uw" xml:lang="sv" type="speaker">
           Sedan diskussionen afslutats, framställdes följande proposition:
         </note>
         <note xml:id="i-XHgd8MyNrqF6rnMi3GpFKA" xml:lang="sv">
@@ -16407,7 +16424,7 @@
           Kontraktsprosten Sirén fäste uppmärksamheten vid sin reservation
           och understöddes deri af kontraktsprosten doktor Hellen.
         </note>
-        <note xml:id="i-Xf49jrdxaRNCXqesqBnMxj" xml:lang="sv">
+        <note xml:id="i-Xf49jrdxaRNCXqesqBnMxj" xml:lang="sv" type="speaker">
           Dä nägra medlemmar af ständet yrkade pä votering, framställdes
           följande proposition:
         </note>
@@ -16438,7 +16455,7 @@
         <note xml:id="i-4Xtnm9WsPp5V2AKrkj6Fv2" xml:lang="sv">
           Presteståndet. 1867. 27 April. 771
         </note>
-        <note xml:id="i-Bmr9JiuASJYBBJ4mesFQ93" xml:lang="sv">
+        <note xml:id="i-Bmr9JiuASJYBBJ4mesFQ93" xml:lang="sv" type="speaker">
           Härpä framställdes följande proposition:
         </note>
         <note xml:id="i-A49Gyc6wZbHaBP341unoZz" xml:lang="sv">
@@ -16986,21 +17003,36 @@
         <note xml:id="i-G85TZ6nZi4HTWhXpgiEqg7" xml:lang="sv">
           780 Presteståndet. 1867. 30 April
         </note>
-        <note xml:id="i-MGH8rDiw9iTKu3P3FxmTWT" xml:lang="sv">
-          Ledamöter: af 1:sta klassen:
+        <note xml:id="i-MGH8rDiw9iTKu3P3FxmTWT" xml:lang="sv" type="speaker">
+          Ledamöter:
         </note>
+        <u who="unknown">
+          <seg>
+            af 1:sta klassen:
+          </seg>
+        </u>
         <note xml:id="i-X3LnXDkTRDC6jJSfh15LD2" xml:lang="sv">
           N:o 38. Friherre Walleen. N:o 39. n de la Chapelle.
         </note>
-        <note xml:id="i-kiB3uJwon7SAjyzVUaG3p" xml:lang="sv">
-          af 2:dra klassen:
+        <note xml:id="i-kiB3uJwon7SAjyzVUaG3p" xml:lang="sv" type="speaker">
+          af 2:
         </note>
+        <u who="unknown">
+          <seg>
+            dra klassen:
+          </seg>
+        </u>
         <note xml:id="i-Tw6Sr3pqyqwHx3ioQVc8uC" xml:lang="sv">
           N:o 5. Herr Jägerhorn, C. J. N:o 222 , Bläfjeld, B. G. E.
         </note>
-        <note xml:id="i-FjBUYTuXCZUskQ3c2qoNuW" xml:lang="sv">
-          af 3:dje klassen:
+        <note xml:id="i-FjBUYTuXCZUskQ3c2qoNuW" xml:lang="sv" type="speaker">
+          af 3:
         </note>
+        <u who="unknown">
+          <seg>
+            dje klassen:
+          </seg>
+        </u>
         <note xml:id="i-FJgRUgG8VRNnNG5hj7ffYz" xml:lang="sv">
           N:o 162. Wasastjerna, E. G. N:o 232. Rein, G
         </note>
@@ -17058,7 +17090,7 @@
           Om ståndets sålunda fattade beslut skulle genom protokollsutdrag
           meddelas Jag- och ekonomiutskottet samt de respektive medständen*.
         </note>
-        <note xml:id="i-YbcJG63ou4c68ChoqycRaR" xml:lang="sv">
+        <note xml:id="i-YbcJG63ou4c68ChoqycRaR" xml:lang="sv" type="speaker">
           B) frän vällofliga borgareständet:
         </note>
         <note xml:id="i-UtQvJeuQbi9H3FYNWANqeX" xml:lang="sv">
@@ -17476,7 +17508,7 @@
           sig till nu gällande författning, men det senare till föreliggande
           nädiga proposition.
         </note>
-        <note xml:id="i-Bb4FtdccFXNe7AzLsCHBPM" xml:lang="sv">
+        <note xml:id="i-Bb4FtdccFXNe7AzLsCHBPM" xml:lang="sv" type="speaker">
           Dä flere talare icke anmälde sig framställdes af herr talemannen
           följande proposition:
         </note>
@@ -17860,7 +17892,7 @@
           eller den önskan uttalades att lösen måtte bestämmas så låg som
           omständigheterna medgåfve.
         </note>
-        <note xml:id="i-752FL7JhkYNf6QswMD5dmb" xml:lang="sv">
+        <note xml:id="i-752FL7JhkYNf6QswMD5dmb" xml:lang="sv" type="speaker">
           Af herr talemannen framställdes härå följande proposition:
         </note>
         <note xml:id="i-Fg6SritFHHkbVCEGk3N2pB" xml:lang="sv">
@@ -17970,7 +18002,7 @@
           Vidare företogs till handläggning de frägor utskottet &amp; pag.
           31 af betänkandet till ständernas bepröfvande öfverlemnat.
         </note>
-        <note xml:id="i-J5FhB97joZfdbnucojhoa1" xml:lang="sv">
+        <note xml:id="i-J5FhB97joZfdbnucojhoa1" xml:lang="sv" type="speaker">
           I afseende ä första momentet yttrade sig:
         </note>
         <note xml:id="i-AQyXcRM4uCCDkCzixVMhBW" xml:lang="sv">
@@ -18524,7 +18556,7 @@
           stadgandet blifvit förtydligadt genom förordningen af den 18 April
           1849.
         </note>
-        <note xml:id="i-WPntdVys4SWsD75eqrHKaz" xml:lang="sv">
+        <note xml:id="i-WPntdVys4SWsD75eqrHKaz" xml:lang="sv" type="speaker">
           Af herr talemannen framställdes härå följande omröstningspropositioner:
         </note>
         <note xml:id="i-5pcPY3MhXC8pWFhUnpVhnW" xml:lang="sv">
@@ -18917,7 +18949,7 @@
           Kyrkoherden Juselius yrkade, i likhet med domprosten Borg, förkastande
           af utskottsbetänkandet samt antagande af den kejserliga propositionen.
         </note>
-        <note xml:id="i-6nhLhP5u7grdkbVCQssRx9" xml:lang="sv">
+        <note xml:id="i-6nhLhP5u7grdkbVCQssRx9" xml:lang="sv" type="speaker">
           Emedan diskussionen förklarats afslutad, framställde herr talemannen
           följande proposition:
         </note>
@@ -19055,7 +19087,7 @@
           eller permanenta domstolar, ansåg talaren ståndet böra hålla sig
           blott till den förevarande frågan.
         </note>
-        <note xml:id="i-8ZUT4kHZE7cicZbNMPeP66" xml:lang="sv">
+        <note xml:id="i-8ZUT4kHZE7cicZbNMPeP66" xml:lang="sv" type="speaker">
           Sedan diskussionen förklarats afslutad, framställde herr talemannen
           följande proposition:
         </note>
@@ -19144,10 +19176,10 @@
           resp, medståndens samt lagutskottets kännedom förmedelst transsumt
           af protokollet.
         </note>
-        <note xml:id="i-RT4KkvAY91bQSgXyVYT3oA" xml:lang="sv">
+        <note xml:id="i-RT4KkvAY91bQSgXyVYT3oA" xml:lang="sv" type="speaker">
           Härefter föredrogos och lades till handlingarne följande protokollsutdrag:
         </note>
-        <note xml:id="i-JDSwQ9W8o1y9CbsNksQEYg" xml:lang="sv">
+        <note xml:id="i-JDSwQ9W8o1y9CbsNksQEYg" xml:lang="sv" type="speaker">
           A) från höglofliga ridderskapet och adeln för den 27 nästvikne
           April sä lydande:
         </note>
@@ -19293,7 +19325,7 @@
           förestående beslut genom protokollsutdrag meddelas såväl de öfrige
           respektive stånden som förbemälda utskott.
         </note>
-        <note xml:id="i-3M5GZcSwjgC8ygTK926mKq" xml:lang="sv">
+        <note xml:id="i-3M5GZcSwjgC8ygTK926mKq" xml:lang="sv" type="speaker">
           Föredrogs och bordlades:
         </note>
         <note xml:id="i-Uuuvyi6ar3GHT1LK3M3ZFQ" xml:lang="sv">
@@ -19421,7 +19453,7 @@
           Härom skulle transsumt af protokollet såväl respektive medstånden
           som bankutskottet till kännedom meddelas.
         </note>
-        <note xml:id="i-16951R42jFZXv3SHYAqrgn" xml:lang="sv">
+        <note xml:id="i-16951R42jFZXv3SHYAqrgn" xml:lang="sv" type="speaker">
           Föredrogos och lades till handlingarne följande tvenne protokollsutdrag
           från vällofliga borgareståndet af den 30 dennes:
         </note>
@@ -20047,7 +20079,7 @@
           Doktor Bergh anhöll härå att för enskilda angelägenheter få aflägsna
           sig från dagens plenum. Bifölls.
         </note>
-        <note xml:id="i-8j3pME7z4FNA9pzYCyD38V" xml:lang="sv">
+        <note xml:id="i-8j3pME7z4FNA9pzYCyD38V" xml:lang="sv" type="speaker">
           Föredrogos och lades till handlingarne följande från hedervärda
           bondeståndet inkomna protokollsutdrag, nemligen:
         </note>
@@ -20197,7 +20229,7 @@
           kan äga partiel beviskraft, men enligt andra momentet medförde
           full bevisning.
         </note>
-        <note xml:id="i-4PyD83nLh8nLfED35uEu6H" xml:lang="sv">
+        <note xml:id="i-4PyD83nLh8nLfED35uEu6H" xml:lang="sv" type="speaker">
           Härefter framställde herr talemannen följande proposition:
         </note>
         <note xml:id="i-44ZyFEcombaBbCCga44Pup" xml:lang="sv">
@@ -20375,7 +20407,7 @@
           de skäl domprosten Borg anfört frängä sin mening samt fororda
           det senare alternativet i utskottsbetänkandet.
         </note>
-        <note xml:id="i-U3jbP87REhdARP57jkwMr6" xml:lang="sv">
+        <note xml:id="i-U3jbP87REhdARP57jkwMr6" xml:lang="sv" type="speaker">
           Emedan diskussionen förklarats afslutad, framställde herr talemannen
           följande propositioner:
         </note>
@@ -20633,7 +20665,7 @@
           i allmänhet; nämnde paragraf medförde tillräckligt skydd, hvarföre
           talaren voterade uteslutning af $ 6.
         </note>
-        <note xml:id="i-UwTfizxbA1qz6CCUuxABbU" xml:lang="sv">
+        <note xml:id="i-UwTfizxbA1qz6CCUuxABbU" xml:lang="sv" type="speaker">
           Härefter framställde herr talemannen denna proposition:
         </note>
         <note xml:id="i-23vvGbh7d6hfyq1EAWkdyd" xml:lang="sv">
@@ -20707,7 +20739,7 @@
           angäende masugnarnes och stängjernverkens i landet befriande frän
           erläggande af tiondejern och hammarskott.
         </note>
-        <note xml:id="i-EEKekpNXXHTfRvrKuC8ufL" xml:lang="sv">
+        <note xml:id="i-EEKekpNXXHTfRvrKuC8ufL" xml:lang="sv" type="speaker">
           Föredrogs följande utdrag af borgareständets protokoll för den
           1 Maj 1867 sä lydande:
         </note>
@@ -20747,7 +20779,7 @@
         <note xml:id="i-NBin6NUGEaLP4G2pA426eD" xml:lang="sv">
           848 Presteständet. 1867. 6 Maj.
         </note>
-        <note xml:id="i-9TM7JzVvtzGoJyTC6AzERX" xml:lang="sv">
+        <note xml:id="i-9TM7JzVvtzGoJyTC6AzERX" xml:lang="sv" type="speaker">
           Föredrogs ett protokollsutdrag frän bondeständet för den 1 Maj
           1867, sä lydande:
         </note>
@@ -20877,7 +20909,7 @@
           1:a, 2:a, 3:e och 4:e punkterne antogos sålunda att 2:a punkten
           skulle erhålla den af utskottet förordade lydelse.
         </note>
-        <note xml:id="i-A5VngteXvnFP1XGamJSUY8" xml:lang="sv">
+        <note xml:id="i-A5VngteXvnFP1XGamJSUY8" xml:lang="sv" type="speaker">
           De föreslagna lagförändringarna godkändes jemväl sålunda:
         </note>
         <note xml:id="i-GbLym4CCcL4wRQ2TQehYfy" xml:lang="sv">
@@ -22622,7 +22654,7 @@
           samtlige medstånden skulle förmedelst transsumt af protokollet
           kännedom meddelas.
         </note>
-        <note xml:id="i-4YsQhii5Nn4AKJGM9mPSrQ" xml:lang="sv">
+        <note xml:id="i-4YsQhii5Nn4AKJGM9mPSrQ" xml:lang="sv" type="speaker">
           Föredrogs följande protokollsutdrag från hedervärda bondeståndet,
           nemligen:
         </note>
@@ -22662,7 +22694,7 @@
         <note xml:id="i-SDRoiAUk1MXEJYkMsETzhR" xml:lang="sv">
           882 Presteståndet. 1867. 8 Maj.
         </note>
-        <note xml:id="i-JCsKq7go1hhBRgmFYfrBSD" xml:lang="sv">
+        <note xml:id="i-JCsKq7go1hhBRgmFYfrBSD" xml:lang="sv" type="speaker">
           Det till bondeståndet inlemnade petitionsmemorialet befanns vara
           af följande lydelse:
         </note>
@@ -22751,7 +22783,7 @@
           angående ny kyrkolag för de evangelisk-lutherska församlingarne
           i landet.
         </note>
-        <note xml:id="i-PoMmc5SYTW9Bki7pt55TL8" xml:lang="sv">
+        <note xml:id="i-PoMmc5SYTW9Bki7pt55TL8" xml:lang="sv" type="speaker">
           Sedan diskussion i ämnet ägt rum, stannade bondeståndet, efter
           särskida omröstningar, vid följande beslut:
         </note>

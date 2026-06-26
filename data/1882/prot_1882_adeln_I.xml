@@ -60,7 +60,7 @@
         <note xml:id="i-FdHxLoxmi61YfEkTn1cv7q" xml:lang="unknown">
           — cows."
         </note>
-        <note xml:id="i-WW3BnvJtQQQTUeuu2S9Td" xml:lang="sv ">
+        <note xml:id="i-WW3BnvJtQQQTUeuu2S9Td" xml:lang="sv">
           HELSINGFORS,
         </note>
         <note xml:id="i-5peREoC3UAgvMLXLUrYFmQ" xml:lang="sv">
@@ -94,11 +94,15 @@
         <note xml:id="i-Dsc8Dd7uncP6zpwNPpJaxn" xml:lang="sv">
           — Måndagen den 23 Januari kl. !/, H f. m.
         </note>
-        <note xml:id="i-N5egJ7CHxYcysgYWuLEYxh" xml:lang="sv">
+        <note xml:id="i-N5egJ7CHxYcysgYWuLEYxh" xml:lang="sv" type="speaker">
           Sedan här antecknats att polletter vid de anstälda anteckningarna
-          utfärdats för följande ständsmedlemmar, nemligen: för Grefliga
-          ätten
+          utfärdats för följande ständsmedlemmar, nemligen:
         </note>
+        <u who="unknown">
+          <seg>
+            för Grefliga ätten
+          </seg>
+        </u>
         <note xml:id="i-PvwBforcB2TYsxTSB5jWRE" xml:lang="sv">
           N:o 5. Aminoff, Adolf, generaladjutant, , 7. Steven Steinheil,
           Alexis Fredrik, godsegare.
@@ -322,7 +326,7 @@
           R. 0. A:s helsning. Sedan denna hemställan af R. o. A. bifallits,
           utsäg herr Landtmarskalken till ledamöter,
         </note>
-        <note xml:id="i-VgojH63am7dCq4pBkhqswu" xml:lang="sv">
+        <note xml:id="i-VgojH63am7dCq4pBkhqswu" xml:lang="sv" type="speaker">
           i den stora deputationen:
         </note>
         <note xml:id="i-HLv7VXnm6gPJ4VfCUFc4tu" xml:lang="unknown">
@@ -1749,11 +1753,13 @@
         <note xml:id="i-PpPj8VM2CfYYT7gZ7JNHc3" xml:lang="sv" type="speaker">
           Vid föredragning af Nåd. pr. n:
         </note>
-        <u xml:id="i-9VVaPXrGUX4heRYj99s7ap" who="unknown">
-          <seg xml:id="i-cbYYLNVEN491DEZRfq4Kb" xml:lang="sv">
-            o 29, angående ordnandet af skjutshållningen och gästgifverierna,
-            anhöll herr von Alfthan om ordet och yttrade:
-          </seg>
+        <u xml:id="i-9VVaPXrGUX4heRYj99s7ap" who="unknown"/>
+        <note xml:id="i-cbYYLNVEN491DEZRfq4Kb" xml:lang="sv" type="speaker">
+          o 29, angående ordnandet af skjutshållningen och gästgifverierna,
+          anhöll herr von Alfthan om ordet och yttrade:
+        </note>
+        <u who="unknown">
+          <seg/>
         </u>
         <note xml:id="i-5FrmV5tXP6rezzDnZhYfqn" xml:lang="sv">
           Såsom ordförande i den komit6, hvilken senast af styrelsen varit
@@ -2936,7 +2942,7 @@
           en temporär komitö, som enligt faststäldt program egde arbeta
           pä det finska spräkets utbildning för rättsväsendets omräde.
         </note>
-        <note xml:id="i-DATCVgRFj8g6vX1n2jQax8" xml:lang="sv">
+        <note xml:id="i-DATCVgRFj8g6vX1n2jQax8" xml:lang="sv" type="speaker">
           Komitens uppdrag borde omfatta följande tre moment:
         </note>
         <note xml:id="i-WkkKKorYEFXDBrxVxy9dQP" xml:lang="sv">
@@ -3086,9 +3092,14 @@
           Hyvilket memorial, pä förslag af herr Molander, bordlades till
           första plenum i nästa vecka g
         </note>
-        <note xml:id="i-Jmji9syF6vhEphSERudFDh" xml:lang="sv">
-          6:0) jemväl af herr Alfred Rosenbröijer, sä lydande:
+        <note xml:id="i-Jmji9syF6vhEphSERudFDh" xml:lang="sv" type="speaker">
+          6:
         </note>
+        <u who="unknown">
+          <seg>
+            0) jemväl af herr Alfred Rosenbröijer, sä lydande:
+          </seg>
+        </u>
         <note xml:id="i-W3P5Dw4vWTDUrEwptwNNn5" xml:lang="sv">
           Till Höglofliga Ridderskapet och Adeln.
         </note>
@@ -3254,9 +3265,14 @@
           Detta petitionsförslag bordlades likaledes till R. o. A:s plenum
           den 10 Februari.
         </note>
-        <note xml:id="i-MiK2Z4vwEnD6WNePePT7sK" xml:lang="sv">
-          8:0) Af herr Nordenskiöld, Carl Adolf, af följande lydelse:
+        <note xml:id="i-MiK2Z4vwEnD6WNePePT7sK" xml:lang="sv" type="speaker">
+          8:
         </note>
+        <u who="unknown">
+          <seg>
+            0) Af herr Nordenskiöld, Carl Adolf, af följande lydelse:
+          </seg>
+        </u>
         <note xml:id="i-VjoEyZkZbDqj7wK1vu2auT" xml:lang="sv">
           Enligt senare tidens äsigter; har man ansett det mer eller mindre
           oegentligt, att staten är innehafvare eller egare till industriella
@@ -24422,18 +24438,22 @@
         <note xml:id="i-6u3gCcrY64utZvYzD3fndx" xml:lang="sv" type="speaker">
           :
         </note>
-        <u xml:id="i-89kRKALT1Dp8GkmA8nuEip" who="unknown">
-          <seg xml:id="i-VtMWLZ33F5Q9ZtZa1y9V5n" xml:lang="sv">
-            Herr Pippingsköld: Sedan obligatorisk vaccination blifvit antagen;
-            förekommer det mig egendomligt, att i detta reglemente, söm kän
-            af styrelsen när som helst ändras, ingår ,ej må i skola eller
-            uppfostringsanstakt, som antingen helt och hållet eller till någon
-            del med allmänna medel underhålles, någon intagas, som ej kan
-            förete' behörigt vaccinationsbetyg.* Mig synes att detta moment
-            helt: enkelt borde lyda: ,ej mä'i skola eller uppfostringsanstalt
-            någon intagas, som icke kan förete behörigt vaccinationsbetyg".
-            Den af mig till uteslutning föreslagna mellanmeningen är icke
-            endast fullkomligt öfverflödig; den: ll: och med kan'skada. :
+        <u xml:id="i-89kRKALT1Dp8GkmA8nuEip" who="unknown"/>
+        <note xml:id="i-VtMWLZ33F5Q9ZtZa1y9V5n" xml:lang="sv" type="speaker">
+          Herr Pippingsköld:
+        </note>
+        <u who="unknown">
+          <seg>
+            Sedan obligatorisk vaccination blifvit antagen; förekommer det
+            mig egendomligt, att i detta reglemente, söm kän af styrelsen
+            när som helst ändras, ingår ,ej må i skola eller uppfostringsanstakt,
+            som antingen helt och hållet eller till någon del med allmänna
+            medel underhålles, någon intagas, som ej kan förete' behörigt
+            vaccinationsbetyg.* Mig synes att detta moment helt: enkelt borde
+            lyda: ,ej mä'i skola eller uppfostringsanstalt någon intagas,
+            som icke kan förete behörigt vaccinationsbetyg". Den af mig till
+            uteslutning föreslagna mellanmeningen är icke endast fullkomligt
+            öfverflödig; den: ll: och med kan'skada. :
           </seg>
         </u>
         <note xml:id="i-A57bh8J4E6z1dBuRKwnM4T" xml:lang="sv">
@@ -24973,10 +24993,14 @@
         <note xml:id="i-8dzuNSG2ay9MazYwyK1kRX" xml:lang="sv" type="speaker">
           Herr:
         </note>
-        <u xml:id="i-PoqWQ9PHLebkCEVfqEj5Za" who="unknown">
-          <seg xml:id="i-UtjaKzbzVznZ4m5SJAhHdu" xml:lang="sv">
-            Järnefelt, Gustaf: Jag bar begärt ordet endast för att understöda
-            herr Pippings framställning.
+        <u xml:id="i-PoqWQ9PHLebkCEVfqEj5Za" who="unknown"/>
+        <note xml:id="i-UtjaKzbzVznZ4m5SJAhHdu" xml:lang="sv" type="speaker">
+          Järnefelt, Gustaf:
+        </note>
+        <u who="unknown">
+          <seg>
+            Jag bar begärt ordet endast för att understöda herr Pippings
+            framställning.
           </seg>
         </u>
         <note xml:id="i-EeCPkAGJp6Em8kv74HHhH1" xml:lang="sv" type="speaker">
@@ -25067,19 +25091,23 @@
         <note xml:id="i-GMNtvY6a5xVpx24t2de1mu" xml:lang="sv" type="speaker">
           ; Herr:
         </note>
-        <u xml:id="i-KybNzooXiJJ5Joa8LGLsGC" who="unknown">
-          <seg xml:id="i-Nj7G5aaTBDNm7AamvmDRUA" xml:lang="sv">
-            Pippingsköld: Frän min ständpunkt utber jag mig få understöda:
-            herr Pippings förslag. Mig synes att deri ligger uppslaget till
-            en ny ordning, väl berättigad med afseende &amp; minoriteten:
-            och "minoritetens rätt. För respekterandet af denna rätt hafva
-            äfven inom andra och moderna representativa:församlingar, t. ex.
-            Italiens, forslag väckts och: beslut blifvit fattäde, hvilka utan
-            tvifvel varit: vigtiga och väckt vidsträekt uppmärksamhet; och
-            dä herr Pipping, Fredrik, med afseende å denna vigtiga lag härom
-            väckt fråga, sä betyder den ärade talarens förslag väl icke annat
-            än att i en framtid samma förfarande äfven månde antagas af Ständerna,
-            der skiljaktighet skulle förefinnas, icke blott i-afseende a enskilät
+        <u xml:id="i-KybNzooXiJJ5Joa8LGLsGC" who="unknown"/>
+        <note xml:id="i-Nj7G5aaTBDNm7AamvmDRUA" xml:lang="sv" type="speaker">
+          Pippingsköld:
+        </note>
+        <u who="unknown">
+          <seg>
+            Frän min ständpunkt utber jag mig få understöda: herr Pippings
+            förslag. Mig synes att deri ligger uppslaget till en ny ordning,
+            väl berättigad med afseende &amp; minoriteten: och "minoritetens
+            rätt. För respekterandet af denna rätt hafva äfven inom andra
+            och moderna representativa:församlingar, t. ex. Italiens, forslag
+            väckts och: beslut blifvit fattäde, hvilka utan tvifvel varit:
+            vigtiga och väckt vidsträekt uppmärksamhet; och dä herr Pipping,
+            Fredrik, med afseende å denna vigtiga lag härom väckt fråga, sä
+            betyder den ärade talarens förslag väl icke annat än att i en
+            framtid samma förfarande äfven månde antagas af Ständerna, der
+            skiljaktighet skulle förefinnas, icke blott i-afseende a enskilät
             väckta lagtörslag utan äfven petitioner och svar pä propositioner.
             Jag ber att fä biträda herr Pipping.
           </seg>
@@ -27048,7 +27076,7 @@
           för att biblioteket mer än härintills komme att motsvara karakteren
           af ett verkligt nationalbibliotek; samt
         </note>
-        <note xml:id="i-Wia9oKvGaERnPXX6rFK1S1" xml:lang="sv">
+        <note xml:id="i-Wia9oKvGaERnPXX6rFK1S1" xml:lang="sv" type="speaker">
           att ståndet vid behandling af ekonomiutskottets betänkande angående
           vaccinationen stannat i följande beslut:
         </note>
@@ -27089,7 +27117,7 @@
           1 i reglementet jemväl skulle uppmärksammas, antogs ej mindre
           ingressen till förordningsförslaget är äfven betänkandets slutkläm;
         </note>
-        <note xml:id="i-8Pg4wu7oQCzmwK3pnyxSsp" xml:lang="sv">
+        <note xml:id="i-8Pg4wu7oQCzmwK3pnyxSsp" xml:lang="sv" type="speaker">
           frän bondeständet, af följande lydelse:
         </note>
         <note xml:id="i-HwekVGMN8cyHpyp4Actwio" xml:lang="sv">
@@ -27249,7 +27277,7 @@
           Sedan herr Landtmarskalken och R. o. A. betackat deputationen,
           afträdde densamma.
         </note>
-        <note xml:id="i-53y8iztyNtjandVs79r7aa" xml:lang="sv">
+        <note xml:id="i-53y8iztyNtjandVs79r7aa" xml:lang="sv" type="speaker">
           Från sammansatta lag- och ekonomiutskottet hade inkommit och
           föredrogs nu en så lydande skrifvelse:
         </note>
@@ -27277,7 +27305,7 @@
           pä tvenne afdelningar, dock utan att utskottet ansett nägon förstärkning
           af dess ledamöters antal behöfva ifrägakomma.
         </note>
-        <note xml:id="i-ThFwNKmjTuBZNsFh7vqkcA" xml:lang="sv">
+        <note xml:id="i-ThFwNKmjTuBZNsFh7vqkcA" xml:lang="sv" type="speaker">
           Pä utskottets vägnar:
         </note>
         <note xml:id="i-C7xo1pYQJ7Ecg6E23nYeTL" xml:lang="unknown">
@@ -27289,7 +27317,7 @@
           pä det att protokollsutdrag angående detsamma omedelbart kunde
           till vederbörande expedieras.
         </note>
-        <note xml:id="i-3Ax719ySKm39mWCLcXmtHs" xml:lang="sv">
+        <note xml:id="i-3Ax719ySKm39mWCLcXmtHs" xml:lang="sv" type="speaker">
           Föredrogs och bordlades till nästa sammanträde:
         </note>
         <note xml:id="i-HzS7nZSj5Z7ZkZ6L5wjyWe" xml:lang="sv">

@@ -51,13 +51,13 @@
         <note xml:id="i-NnGEhtMRA3M6NfJSLDwTUT" xml:lang="sv">
           Landtdagen i Helsingfors 1872.
         </note>
-        <note xml:id="i-K62RCCrbk6acrWQRwgRTMd" xml:lang="sv">
+        <note xml:id="i-K62RCCrbk6acrWQRwgRTMd" xml:lang="sv" type="speaker">
           Första Bandet:
         </note>
         <note xml:id="i-Dh2nH4fhnHCmFLcd9yhGK1" xml:lang="sv">
           från den 3 Februari till och med den 11 April 1872.
         </note>
-        <note xml:id="i-Lw7q9rLdXon1N1wdqSvfzD" xml:lang="sv ">
+        <note xml:id="i-Lw7q9rLdXon1N1wdqSvfzD" xml:lang="sv">
           HELSINGFORS,
         </note>
         <note xml:id="i-Vxg32reuZhnL4FboyRLQ7v" xml:lang="sv">
@@ -1101,7 +1101,7 @@
           innevarande landtdag af den under 1867 års landtdag för Ståndet
           gällande ordningsstadga, hvilken nu upplästes.
         </note>
-        <note xml:id="i-CVkjiQKBD71DcryAXKCw14" xml:lang="sv">
+        <note xml:id="i-CVkjiQKBD71DcryAXKCw14" xml:lang="sv" type="speaker">
           Härvid begärdes ordet af:
         </note>
         <note xml:id="i-AQhaSQ8DNKLyuuMas4mmeb" xml:lang="sv">
@@ -1510,7 +1510,7 @@
         <note xml:id="i-5fjsyDs2uBs1ghY7kk1CHA" xml:lang="sv">
           4 Sämmanträdet slöts kl. UN |
         </note>
-        <note xml:id="i-E63WMMCbbgAkxa8AeUgcB1" xml:lang="sv">
+        <note xml:id="i-E63WMMCbbgAkxa8AeUgcB1" xml:lang="sv" type="speaker">
           Ka i In fidem:
         </note>
         <note xml:id="i-EZDxeZ3FPnSRtNVuz5sbWK" xml:lang="sv">
@@ -1607,7 +1607,7 @@
         <note xml:id="i-Ehb4frBft6egSRme8jceHP" xml:lang="sv">
           och derefter suppleanter; och utföllo valen, som härefter vid-
         </note>
-        <note xml:id="i-CswVWx1vXtC7WppJUvLNY4" xml:lang="sv">
+        <note xml:id="i-CswVWx1vXtC7WppJUvLNY4" xml:lang="sv" type="speaker">
           togo, på sätt som följer:
         </note>
         <note xml:id="i-4YXyZ2VYtMj8c9zBXeff1v" xml:lang="sv">
@@ -15040,9 +15040,13 @@
         <note xml:id="i-4TYYJaSSuPCJwjd7BNmp6D" xml:lang="sv" type="speaker">
           Ordet begärdes härä af:
         </note>
-        <u xml:id="i-BuqDwSjaxsS6Xy8B9zeft5" who="unknown">
-          <seg xml:id="i-QrXU1oZgq4RFmg4KDTsKhr" xml:lang="sv">
-            Herr Nylander, som yttrade: Det ärende, som nu
+        <u xml:id="i-BuqDwSjaxsS6Xy8B9zeft5" who="unknown"/>
+        <note xml:id="i-QrXU1oZgq4RFmg4KDTsKhr" xml:lang="sv" type="speaker">
+          Herr Nylander, som yttrade:
+        </note>
+        <u who="unknown">
+          <seg>
+            Det ärende, som nu
           </seg>
         </u>
         <pb facs="https://swerik-project.github.io/valtiopaivat-records-pdf/1872/prot_1872_borgare_I/prot_1872_borgare_I-0279"/>
@@ -15129,10 +15133,14 @@
         <note xml:id="i-JNn2zDxcNSRhpzXej4VBab" xml:lang="sv" type="speaker">
           I frågan uppstod följande diskussion:
         </note>
-        <u xml:id="i-5tum4V84TRfaE1LswM8GXq" who="unknown">
-          <seg xml:id="i-Dp6gva2G3ZiTEJbGqG2HKf" xml:lang="sv">
-            Herr Wallgren: Ehuru de understödjande ord, hvilka .jag vid ett
-            föregående tillfälle, då d:r Nylanders petition om
+        <u xml:id="i-5tum4V84TRfaE1LswM8GXq" who="unknown"/>
+        <note xml:id="i-Dp6gva2G3ZiTEJbGqG2HKf" xml:lang="sv" type="speaker">
+          Herr Wallgren:
+        </note>
+        <u who="unknown">
+          <seg>
+            Ehuru de understödjande ord, hvilka .jag vid ett föregående tillfälle,
+            då d:r Nylanders petition om
           </seg>
         </u>
         <note xml:id="i-JZNH6x9UWUmVVh55uSkaSD" xml:lang="sv">

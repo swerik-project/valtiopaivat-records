@@ -51,10 +51,10 @@
         <note xml:id="i-6dZ2wK1JRtwLzkaXnLDib4" xml:lang="sv">
           FRÄN DEN 23 MARS TILL OCH MED 13 MAJ.
         </note>
-        <note xml:id="i-9VKNBfVVsAipsx7Eqxrze8" xml:lang="sv " type="speaker">
+        <note xml:id="i-9VKNBfVVsAipsx7Eqxrze8" xml:lang="sv" type="speaker">
           HELSINGFORS 1905
         </note>
-        <note xml:id="i-JCD5ZCcZM7NsvKoykXVbuu" xml:lang="sv ">
+        <note xml:id="i-JCD5ZCcZM7NsvKoykXVbuu" xml:lang="sv">
           HELSINGFORS CENTRALTRYCKERI,
         </note>
         <pb facs="https://swerik-project.github.io/valtiopaivat-records-pdf/1882/prot_1882_praster_II/prot_1882_praster_II-0002"/>
@@ -3400,7 +3400,7 @@
           Sedan alla pä dagens föredragningslista upptagna frägor voro
           slutbehandlade, uppläste vicepastor Lindstedt följande andragande:
         </note>
-        <note xml:id="i-DCUrH78eYxZmWN1g7j1aLo" xml:lang="fi">
+        <note xml:id="i-DCUrH78eYxZmWN1g7j1aLo" xml:lang="fi" type="speaker">
           yKunnianarvoisalle Pappissäädylle!
         </note>
         <note xml:id="i-R4AAi3xHrwQuoQ6ma45FrX" xml:lang="fi">
@@ -7560,7 +7560,7 @@
           sälunda godkänt allmänna besvärsutskottets ifrägavarande betänkande
           oförändradt.
         </note>
-        <note xml:id="i-655NBxdY84ZCgERR3wxjU3" xml:lang="sv">
+        <note xml:id="i-655NBxdY84ZCgERR3wxjU3" xml:lang="sv" type="speaker">
           Sedan herr Talmannen tillkännagifvit, att alla ärender pä dagens
           föredragningslista voro slutbehandlade, anhöllo om ledighet:
         </note>
@@ -7644,11 +7644,11 @@
           Ständets enskilda petition om finska skolors öfvertagande af staten
           frän och med hösten 1882.
         </note>
-        <note xml:id="i-AmBrjphaTHU6uCtrTfFH2k" xml:lang="sv">
+        <note xml:id="i-AmBrjphaTHU6uCtrTfFH2k" xml:lang="sv" type="speaker">
           Föredrogs och säsom föranledande till ingen ätgärd lades till
           Ständets handlingar följande protokollsutdrag:
         </note>
-        <note xml:id="i-MNPDZhUqGSzJY4K6QvZ8SV" xml:lang="sv">
+        <note xml:id="i-MNPDZhUqGSzJY4K6QvZ8SV" xml:lang="sv" type="speaker">
           frän Ridderskapet och adeln med underrättelse:
         </note>
         <note xml:id="i-WoNV4Uv7awskuRq27UYDEF" xml:lang="sv">
@@ -7662,7 +7662,7 @@
           och ekonomiutskottet delegeras, friherre de la Chapelle, Claes
           samt till suppleant i lagutskottet friherre Langenskjöld, Gustaf;
         </note>
-        <note xml:id="i-GgSUQ4QqomZ6bBh6Nba21q" xml:lang="sv">
+        <note xml:id="i-GgSUQ4QqomZ6bBh6Nba21q" xml:lang="sv" type="speaker">
           från Borgareståndet med underrättelse:
         </note>
         <note xml:id="i-B6gnzTy5LxQDrve2NmCeK7" xml:lang="sv">
@@ -7828,7 +7828,7 @@
         <note xml:id="i-PQzj4nuPuWqLGGvW9T26jn" xml:lang="sv">
           Onsdagen den 12 April kl. 11 f. m.
         </note>
-        <note xml:id="i-5iNCropdAvdmKy9UHF2FfG" xml:lang="sv">
+        <note xml:id="i-5iNCropdAvdmKy9UHF2FfG" xml:lang="sv" type="speaker">
           Sammanträdet öppnades med af vice pastor Lilius pä sven-:
         </note>
         <note xml:id="i-dnjqqgaMzz3DvHAZnexSw" xml:lang="sv">
@@ -7871,7 +7871,7 @@
         <note xml:id="i-Q1A5ThuLS3Sou4UXoXcCTG" xml:lang="sv">
           754: Presteständet 1882. 12 april.
         </note>
-        <note xml:id="i-CdGoMY6dN7J8UGEuEjcSq5" xml:lang="sv">
+        <note xml:id="i-CdGoMY6dN7J8UGEuEjcSq5" xml:lang="sv" type="speaker">
           Mom. a) af $ 2 skulle erhålla följande af Herr Pipping, Fridolf,
           förordade lydelse:
         </note>
@@ -21185,10 +21185,15 @@
           tullut laiminlyödyksi, se saa sakkoa ja jos toisen vuoro tulee
           samoin laiminlyödyksi, niin hän saa myöskin sakkoa j. n. e.
         </note>
-        <note xml:id="i-DfcvFrQsxLyDnaJRYUaA1B" xml:lang="fi">
-          V. pastori Westerlund: Minä vaan tahdon kiittää niistä vastauksista,
-          joita olen saanut ja olen niihin hyvin tyytyväinen.
+        <note xml:id="i-DfcvFrQsxLyDnaJRYUaA1B" xml:lang="fi" type="speaker">
+          V. pastori Westerlund:
         </note>
+        <u who="unknown">
+          <seg>
+            Minä vaan tahdon kiittää niistä vastauksista, joita olen saanut
+            ja olen niihin hyvin tyytyväinen.
+          </seg>
+        </u>
         <note xml:id="i-3nwxAzs2Ze1wMDCfP3Zrij" xml:lang="sv">
           Härä godkändes &amp; 17 utan ändring enligt betänkandet.
         </note>
@@ -25231,13 +25236,18 @@
           ät de tvänne delegerade tilldela ett deras arbete motsvarande
           arvode.
         </note>
-        <note xml:id="i-EmCqKzUFHB2BRnVKJsP7AH" xml:lang="fi">
-          Professor Forsman, J.: Olen pyytänyt sananvuoroa vastustaakseni
-          pankkivaliokunnan ehdotusta siinä kohden, mitä se ehdottelee pankkivaltuusmiesten
-          luvun lisäämistä kahdeksaksi. Herra Renvall on jo ehtinyt tästä
-          asiasta lausua mitä minäkin aioin sanoa, voin siitä syystä aivan
-          lyhyesti tuoda esiin mielipiteeni. Minun
+        <note xml:id="i-EmCqKzUFHB2BRnVKJsP7AH" xml:lang="fi" type="speaker">
+          Professor Forsman, J.:
         </note>
+        <u who="unknown">
+          <seg>
+            Olen pyytänyt sananvuoroa vastustaakseni pankkivaliokunnan ehdotusta
+            siinä kohden, mitä se ehdottelee pankkivaltuusmiesten luvun lisäämistä
+            kahdeksaksi. Herra Renvall on jo ehtinyt tästä asiasta lausua
+            mitä minäkin aioin sanoa, voin siitä syystä aivan lyhyesti tuoda
+            esiin mielipiteeni. Minun
+          </seg>
+        </u>
         <pb facs="https://swerik-project.github.io/valtiopaivat-records-pdf/1882/prot_1882_praster_II/prot_1882_praster_II-0446"/>
         <note xml:id="i-GWBa2nUdR1ST8zFvW8iFHM" xml:lang="sv">
           Presteståndet 1882. 4 maj. 1057

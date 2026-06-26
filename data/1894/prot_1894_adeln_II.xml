@@ -60,7 +60,7 @@
         <note xml:id="i-6freLNC3ngaxB8GBv3xnMp" xml:lang="sv">
           Från April månads början till den 15 Maj. :
         </note>
-        <note xml:id="i-VxkEZMk2duTebipdzqUVRg" xml:lang="sv ">
+        <note xml:id="i-VxkEZMk2duTebipdzqUVRg" xml:lang="sv">
           HELSINGFORS, HELSINGFORS CENTRAL-TRYCKERI, 1894.
         </note>
         <pb facs="https://swerik-project.github.io/valtiopaivat-records-pdf/1894/prot_1894_adeln_II/prot_1894_adeln_II-0002"/>
@@ -3576,9 +3576,13 @@
         <note xml:id="i-JVMgJbSDD6Q8g5s2c4rRJq" xml:lang="sv" type="speaker">
           Diskussion:
         </note>
-        <u xml:id="i-YMB4oBD5F31xE3WEasNtat" who="unknown">
-          <seg xml:id="i-EJ7WNyJU5K3TJ8X5friDTE" xml:lang="sv">
-            Hr A. Ramsay: Till först ber jag att fä understöda
+        <u xml:id="i-YMB4oBD5F31xE3WEasNtat" who="unknown"/>
+        <note xml:id="i-EJ7WNyJU5K3TJ8X5friDTE" xml:lang="sv" type="speaker">
+          Hr A. Ramsay:
+        </note>
+        <u who="unknown">
+          <seg>
+            Till först ber jag att fä understöda
           </seg>
         </u>
         <note xml:id="i-4c1hSyn8dHKa3YphmrmNed" xml:lang="sv">
@@ -18727,10 +18731,14 @@
         <note xml:id="i-Sebc4JE7foukW9QLKjG68E" xml:lang="sv" type="speaker">
           Angäende $ 2 yttrade:
         </note>
-        <u xml:id="i-9NaJhUxiynVo5dvNGWMWLq" who="unknown">
-          <seg xml:id="i-EdwB8Z595xff2aREHGGFTn" xml:lang="sv">
-            Hr Axel Björkenheim: Då $ 2 och &amp; 3 beröra hvarandra ätminstone
-            i reservationen N:o 2, skulle jag vördsamt föreslä, att
+        <u xml:id="i-9NaJhUxiynVo5dvNGWMWLq" who="unknown"/>
+        <note xml:id="i-EdwB8Z595xff2aREHGGFTn" xml:lang="sv" type="speaker">
+          Hr Axel Björkenheim:
+        </note>
+        <u who="unknown">
+          <seg>
+            Då $ 2 och &amp; 3 beröra hvarandra ätminstone i reservationen
+            N:o 2, skulle jag vördsamt föreslä, att
           </seg>
         </u>
         <note xml:id="i-EuQyHN2YtmVngSBxC7dqFx" xml:lang="sv">

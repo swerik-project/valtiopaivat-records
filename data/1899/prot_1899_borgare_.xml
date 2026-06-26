@@ -51,7 +51,7 @@
         <note xml:id="i-Uv1qo4eK5nkPTFQecx32X3" xml:lang="fi">
           "CO O
         </note>
-        <note xml:id="i-C7x2TJ2bULiLs9eADn7kx9" xml:lang="sv ">
+        <note xml:id="i-C7x2TJ2bULiLs9eADn7kx9" xml:lang="sv">
           : HELSINGFORS 1899, | N D
         </note>
         <pb facs="https://swerik-project.github.io/valtiopaivat-records-pdf/1899/prot_1899_borgare_/prot_1899_borgare_-0002"/>
@@ -64,10 +64,10 @@
         <note xml:id="i-TQe6rUDbYYTvPmq5HEvTpD" xml:lang="unknown">
           ÄR 1899.
         </note>
-        <note xml:id="i-r3jzARSxuvqdcKNF8KoPU" xml:lang="sv ">
+        <note xml:id="i-r3jzARSxuvqdcKNF8KoPU" xml:lang="sv">
           HELSINGFORS 1899,
         </note>
-        <note xml:id="i-KVPxfYZbJUcz73sSgrTpQU" xml:lang="sv ">
+        <note xml:id="i-KVPxfYZbJUcz73sSgrTpQU" xml:lang="sv">
           HELSINGFORS CENTRALTRYCKERI.
         </note>
         <pb facs="https://swerik-project.github.io/valtiopaivat-records-pdf/1899/prot_1899_borgare_/prot_1899_borgare_-0003"/>
@@ -680,7 +680,7 @@
           Hälsningsdeputationen från bondeståndet anlände nu, företrädd
           af landtdagsmannen Tuomikoski, som yttrade:
         </note>
-        <note xml:id="i-VDzJ1gAUjGqsBaHc9tgRTV" xml:lang="fi">
+        <note xml:id="i-VDzJ1gAUjGqsBaHc9tgRTV" xml:lang="fi" type="speaker">
           Hyvin kunnioitettava herra puhemies, hyvinarvoisa porvarissääty!
           Talonpoikaissääty pyytää meidän kauttamme saada lausutuksi hyvinarvoisalle
           porvarissäädylle kunnioittavan, ystävällisen tervehedyksensi.
@@ -850,7 +850,7 @@
           Frän prästeständet anlände härä en hälsningsdeputation, anförd
           af rektor Melander, som yttrade:
         </note>
-        <note xml:id="i-Q2dD7cZiweLws26bnLc7gE" xml:lang="fi">
+        <note xml:id="i-Q2dD7cZiweLws26bnLc7gE" xml:lang="fi" type="speaker">
           Korkeastikunnioitettu puhemies ja hyvinarvoisa porvarissääty
           ' Pappissääty pyytää meidän lähettiläittensä kautta saada lausua
           hyvinarvoisalle porvarissäädylle kunnioittavan ja sydämmellisen
@@ -930,24 +930,30 @@
         <note xml:id="i-Eyi8cSsb9ih83qN1RVntHS" xml:lang="sv" type="speaker">
           Ordet:
         </note>
-        <u xml:id="i-2xhftEJJpaTQBdF8wPdCn6" who="unknown">
-          <seg xml:id="i-KDXLPGV7z789EX2DwiAeQ7" xml:lang="sv">
-            begärdes härä af hr Elving, som yttrade: Borgareständets hälsningsdeputation
-            har framfört ständets hälsning till samtliga medständ och har
-            glädjen att tillbaka öfverbringa ständens hjärtliga och aktningsfulla
-            hälsningar, jämte anmälan att i svaren a borgareständets hälsningar
-            städse uttalats samma uppfattning beträffande den fräga, för hvilken
-            landtdagen sammankallats, som den, hvilken genomgär hälsningsandragandena.
+        <u xml:id="i-2xhftEJJpaTQBdF8wPdCn6" who="unknown"/>
+        <note xml:id="i-KDXLPGV7z789EX2DwiAeQ7" xml:lang="sv" type="speaker">
+          begärdes härä af hr Elving, som yttrade:
+        </note>
+        <u who="unknown">
+          <seg>
+            Borgareständets hälsningsdeputation har framfört ständets hälsning
+            till samtliga medständ och har glädjen att tillbaka öfverbringa
+            ständens hjärtliga och aktningsfulla hälsningar, jämte anmälan
+            att i svaren a borgareständets hälsningar städse uttalats samma
+            uppfattning beträffande den fräga, för hvilken landtdagen sammankallats,
+            som den, hvilken genomgär hälsningsandragandena.
           </seg>
         </u>
         <note xml:id="i-A79Q1EZM1whatvFv3dNjjE" xml:lang="sv" type="speaker">
           R. o. A:
         </note>
-        <u xml:id="i-KCo2JoGrDEcgUAP1uESuVN" who="unknown">
-          <seg xml:id="i-NsPJmfMUosWtsCjmkgp6VL" xml:lang="sv">
-            s hälsningsdeputation inträdde härä, anförd af grefve C. Mannerheim,
-            som yttrade:
-          </seg>
+        <u xml:id="i-KCo2JoGrDEcgUAP1uESuVN" who="unknown"/>
+        <note xml:id="i-NsPJmfMUosWtsCjmkgp6VL" xml:lang="sv" type="speaker">
+          s hälsningsdeputation inträdde härä, anförd af grefve C. Mannerheim,
+          som yttrade:
+        </note>
+        <u who="unknown">
+          <seg/>
         </u>
         <note xml:id="i-B4yx2nqQRXiBmoP7B6h9MV" xml:lang="sv">
           Högtärade herr talman. Vällofliga borgareständ.
@@ -3112,13 +3118,17 @@
           synpunkten, anser jag mig böra päyrka att borgareständet omedelbart
           vidtager med detaljgranskningen af sagda betänkanden.
         </note>
-        <note xml:id="i-3Z6MYK8WyQSAkQAu7zknQh" xml:lang="fi">
-          Hr Levonius: Koska kysymys siitä, onko asevelvollisuuslakia koskeva
-          armollinen esitys otettava asiallisen tutkinnon alaiseksi vai
-          ei, jonka kysymyksen hra Jansson on täällä nostanut, on tärkeätä
-          periaatteellista laatua, niin tahdon minä aivan lyhykäisesti ilmoittaa
-          mielipiteeni asiassa.
+        <note xml:id="i-3Z6MYK8WyQSAkQAu7zknQh" xml:lang="fi" type="speaker">
+          Hr Levonius:
         </note>
+        <u who="unknown">
+          <seg>
+            Koska kysymys siitä, onko asevelvollisuuslakia koskeva armollinen
+            esitys otettava asiallisen tutkinnon alaiseksi vai ei, jonka kysymyksen
+            hra Jansson on täällä nostanut, on tärkeätä periaatteellista laatua,
+            niin tahdon minä aivan lyhykäisesti ilmoittaa mielipiteeni asiassa.
+          </seg>
+        </u>
         <note xml:id="i-XuC5iAFVmCK32LwpAq83PB" xml:lang="fi">
           Minä voin täydellisesti yhtyä siihen, mitä edellinen puhuja hra
           Öhman on lausunut, mutta tahdon sen lisäksi vielä huomauttaa että
@@ -4384,10 +4394,15 @@
           jäsenten vastalausetta ja toivoisin että korkein miesluku rauhan
           aikana määrättäisiin enintäin vain 10,000 mieheksi.
         </note>
-        <note xml:id="i-BPuDR5tWvVX22HdXaL5DC4" xml:lang="fi">
-          Hr J. A. Pelkonen: Minä pyydän myös yhdistyä vastalauseen tekijäin
-          ja siihen käsitykseen, jonka edelliset puhujat ovat esittäneet.
+        <note xml:id="i-BPuDR5tWvVX22HdXaL5DC4" xml:lang="fi" type="speaker">
+          Hr J. A. Pelkonen:
         </note>
+        <u who="unknown">
+          <seg>
+            Minä pyydän myös yhdistyä vastalauseen tekijäin ja siihen käsitykseen,
+            jonka edelliset puhujat ovat esittäneet.
+          </seg>
+        </u>
         <note xml:id="i-CqV41KuWmX7TLZ6g2Fk5vV" xml:lang="sv">
           Hr Nyberg: Ocksä jag vill förena mig om reservationen och fär
           sälunda föreslä att borgareständet skulle ändra beloppet af 12,000
@@ -5296,7 +5311,7 @@
         <note xml:id="i-EJunz2Fm1wACitHozRAfEu" xml:lang="sv">
           Upplästes särskilda frän R. o. A. anlända protokollsutdrag.
         </note>
-        <note xml:id="i-CxDN4PwSfqJNh9igpQSo1c" xml:lang="sv">
+        <note xml:id="i-CxDN4PwSfqJNh9igpQSo1c" xml:lang="sv" type="speaker">
           Föredrogs en frän statsutskottet anländ skrifvelse, sälydande:
         </note>
         <note xml:id="i-5HZ5cQr8esTnwfJeAqE16h" xml:lang="sv">
@@ -5316,7 +5331,7 @@
           tillika, pä sätt som förut, inbegripas ersättning för renskrifning
           af vid ständet förefallande expeditioner.
         </note>
-        <note xml:id="i-PTpLs2C7MkbZbgwieZoQ5e" xml:lang="sv">
+        <note xml:id="i-PTpLs2C7MkbZbgwieZoQ5e" xml:lang="sv" type="speaker">
           Pä statsutskottets vägnar:
         </note>
         <note xml:id="i-TaybGrA4wQm5z3pSdJTpAo" xml:lang="sv">
@@ -5332,7 +5347,7 @@
         <note xml:id="i-WdHqntg42ajVuHjV5QFqCV" xml:lang="sv">
           Föredrogs en från statsutskottet inkommen skrifvelse af föl-
         </note>
-        <note xml:id="i-YJdkfJ9RZBkZJc6GiFkC8b" xml:lang="sv">
+        <note xml:id="i-YJdkfJ9RZBkZJc6GiFkC8b" xml:lang="sv" type="speaker">
           jande lydelse:
         </note>
         <note xml:id="i-84xuTz1242JqgY88AB2BMj" xml:lang="sv">
@@ -5378,7 +5393,7 @@
         <note xml:id="i-6ZpRsmhqMeJ8JtRdKFhqFf" xml:lang="sv">
           100
         </note>
-        <note xml:id="i-KCYbsD6derMLdq268prcje" xml:lang="sv">
+        <note xml:id="i-KCYbsD6derMLdq268prcje" xml:lang="sv" type="speaker">
           Ekonomiska angelägenheter. 25 maj:
         </note>
         <note xml:id="i-SRAsanYQhM7nytyaM3MGWr" xml:lang="sv">
@@ -5406,7 +5421,7 @@
           af de förskott expeditionsutskottet kommer att i förenämdt afseende
           rekvirera.
         </note>
-        <note xml:id="i-9Z46Cxwy11bagjeMXarbJP" xml:lang="sv">
+        <note xml:id="i-9Z46Cxwy11bagjeMXarbJP" xml:lang="sv" type="speaker">
           På statsutskottets vägnar:
         </note>
         <note xml:id="i-JyMnPjpPDSEe3nJtf2KrCW" xml:lang="sv">
@@ -5422,7 +5437,7 @@
         <note xml:id="i-53FUv9Uzu7CRPUC1tJqiJD" xml:lang="sv">
           Föredrogs yttermera en från statsutskottet aflåten skrifvelse,
         </note>
-        <note xml:id="i-3U5fqS2mr2x3S93nsCruqR" xml:lang="sv">
+        <note xml:id="i-3U5fqS2mr2x3S93nsCruqR" xml:lang="sv" type="speaker">
           lydande såsom följer:
         </note>
         <pb facs="https://swerik-project.github.io/valtiopaivat-records-pdf/1899/prot_1899_borgare_/prot_1899_borgare_-0103"/>
@@ -5881,7 +5896,7 @@
         <note xml:id="i-VNrzgCeDsqj4Uz92zovLgM" xml:lang="sv">
           Hr Killinen till bondeståndet:
         </note>
-        <note xml:id="i-Mgp7SiAmqHGwQawBQiWpaj" xml:lang="fi">
+        <note xml:id="i-Mgp7SiAmqHGwQawBQiWpaj" xml:lang="fi" type="speaker">
           Kunnioitettava puhemies. Arvoisa talonpoikaissääty!
         </note>
         <note xml:id="i-FzRGdaSMNzS5cNPjFzFW4T" xml:lang="fi">

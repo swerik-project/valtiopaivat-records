@@ -95,7 +95,7 @@
           27 päivänä tehdyt päätökset, olematta Säädyllä niiden suhteen
           mitään muistuttamista.
         </note>
-        <note xml:id="i-CgvwnoAiSVeET6GFisFue1" xml:lang="fi">
+        <note xml:id="i-CgvwnoAiSVeET6GFisFue1" xml:lang="fi" type="speaker">
           Luettiin seuraava valtiovaliokunnan Säädylle lähettämä kirje
           :
         </note>
@@ -298,7 +298,7 @@
         <note xml:id="i-X13ar9ENGYspEWdman2dRW" xml:lang="fi">
           Keskustelu oli nyt keskeytettävä, kun tavanmukaisesti
         </note>
-        <note xml:id="i-NRYQnmW2wBWMwJZAgbdRAD" xml:lang="fi">
+        <note xml:id="i-NRYQnmW2wBWMwJZAgbdRAD" xml:lang="fi" type="speaker">
           vastaanotettuna Säätyyn saapui Senaatin lähetystö, jonka johtaja
           senaattori Eneberg lausui:
         </note>
@@ -306,7 +306,7 @@
         <note xml:id="i-EvNQ798rSdcBHYu5TMUwLs" xml:lang="fi">
           Talonpoikaissääty 2 p. Maalisk. 1894. 585
         </note>
-        <note xml:id="i-Kd8sXwvg8RP4DJB5vfQ26U" xml:lang="fi">
+        <note xml:id="i-Kd8sXwvg8RP4DJB5vfQ26U" xml:lang="fi" type="speaker">
           Kunnioitettava Puhemies! Arvoisa Talonpoikaissääty !
         </note>
         <note xml:id="i-zSfSqw1NrtaREFQtHmf67" xml:lang="fi">
@@ -880,7 +880,7 @@
           och lefnadskostnaderna vid landtdagen kunna enligt min åsigt väl
           betäckas med ett mindre arvode än 16 mark.
         </note>
-        <note xml:id="i-6vuWnb143TE4brYm8r4T5x" xml:lang="fi">
+        <note xml:id="i-6vuWnb143TE4brYm8r4T5x" xml:lang="fi" type="speaker">
           Sittenkuin edusmies Ehrströmin lausunto oli tähän saakka suomeksi
           tulkittu, jatkoi edusmies Ehrström:
         </note>
@@ -951,16 +951,21 @@
             säästöön ainakaan siltä, jolla on suuri talouden hoito kotona.
           </seg>
         </u>
-        <note xml:id="i-Pq8pFEQqjfqvuXttc75FQD" xml:lang="fi">
-          Edusmies Näs: Jag är mycket nöjd med den dagspenning som mina
-          valmän hafva bestämt, ehuru jag icke för tillfället med säkerhet
-          kan konstatera huru stor den är, emedan jag saknar protokoll öfver
-          valförrättningen. Skulle ståndet likväl önska få detta protokoll
-          så kan det anskaffas. För öfrigt anser jag att det arbete som
-          här uträttas bör vara ett arbete för fosterlandet, ja, för hela
-          menskligheten, samt att vi derför icke böra sträfva att för detta
-          arbete erhålla största möjliga lön.
+        <note xml:id="i-Pq8pFEQqjfqvuXttc75FQD" xml:lang="fi" type="speaker">
+          Edusmies Näs:
         </note>
+        <u who="unknown">
+          <seg>
+            Jag är mycket nöjd med den dagspenning som mina valmän hafva
+            bestämt, ehuru jag icke för tillfället med säkerhet kan konstatera
+            huru stor den är, emedan jag saknar protokoll öfver valförrättningen.
+            Skulle ståndet likväl önska få detta protokoll så kan det anskaffas.
+            För öfrigt anser jag att det arbete som här uträttas bör vara
+            ett arbete för fosterlandet, ja, för hela menskligheten, samt
+            att vi derför icke böra sträfva att för detta arbete erhålla största
+            möjliga lön.
+          </seg>
+        </u>
         <note xml:id="i-DvW3FjgbwXNQhi76CBoqmg" xml:lang="fi" type="speaker">
           Edusmies Heikura:
         </note>
@@ -3377,17 +3382,22 @@
         <note xml:id="i-QsaPgrtJstpG8gZpvDaRRz" xml:lang="fi">
           Mietinnössä luettavan toisen ponsilauseen johdosta lausui
         </note>
-        <note xml:id="i-PCDZ547CTnS9YPSLgHhncf" xml:lang="fi">
-          edusmies Aulin: Minä olen kiitollinen siitä, että valiokunta
-          on tunnustanut asian, josta minä olen anomuksen tehnyt, oikeaksi,
-          mutta kummallista on, että se on kumminkin tullut semmoiseen loppuponteen,
-          mikä mietinnössä on. Valiokunta sanoo: ,jälkimmäistä anomusehdotusta
-          käsitellessään on valiokunta saanut tietoonsa, että siinä lausunnossa,
-          jonka lääkärihoidon uudestaan järjestämistä varten maalla asetettu
-          komitea on antanut, on tehty ehdotus anomuksentekijän pyytämään
-          suuntaan. Kun lääkintöhallitus on tätä ehdotusta puoltanut ja
-          kun hallitus
+        <note xml:id="i-PCDZ547CTnS9YPSLgHhncf" xml:lang="fi" type="speaker">
+          edusmies Aulin:
         </note>
+        <u who="unknown">
+          <seg>
+            Minä olen kiitollinen siitä, että valiokunta on tunnustanut asian,
+            josta minä olen anomuksen tehnyt, oikeaksi, mutta kummallista
+            on, että se on kumminkin tullut semmoiseen loppuponteen, mikä
+            mietinnössä on. Valiokunta sanoo: ,jälkimmäistä anomusehdotusta
+            käsitellessään on valiokunta saanut tietoonsa, että siinä lausunnossa,
+            jonka lääkärihoidon uudestaan järjestämistä varten maalla asetettu
+            komitea on antanut, on tehty ehdotus anomuksentekijän pyytämään
+            suuntaan. Kun lääkintöhallitus on tätä ehdotusta puoltanut ja
+            kun hallitus
+          </seg>
+        </u>
         <pb facs="https://swerik-project.github.io/valtiopaivat-records-pdf/1894/ptk_1894_talonpojat_II/ptk_1894_talonpojat_II-0057"/>
         <note xml:id="i-WFGh2APRDoAabtbfmumgpB" xml:lang="fi">
           Talonpoikaissääty 5 p. Maalisk. 1894. 685
@@ -3888,7 +3898,7 @@
           pöytäkirjasta oli tiedoksi toimitettava Säädyssä mainitun kirjeen
           johdosta tapahtunut keskustelu.
         </note>
-        <note xml:id="i-XqA4swNKw2CGyZvFy1vLGn" xml:lang="fi">
+        <note xml:id="i-XqA4swNKw2CGyZvFy1vLGn" xml:lang="fi" type="speaker">
           Esitettiin talousvaliokunnalta Säädylle saapunut näin kuuluva
           kirjelmä:
         </note>
@@ -4000,7 +4010,7 @@
         <note xml:id="i-GfPfaEbEhJfd6LXdZigmTE" xml:lang="fi">
           'Talonpoikaissääty 5 p. Maalisk. 1894. 648
         </note>
-        <note xml:id="i-BGt5ip1KkioXnxTtoDXRpL" xml:lang="fi">
+        <note xml:id="i-BGt5ip1KkioXnxTtoDXRpL" xml:lang="fi" type="speaker">
           Säädylle esitettiin talousvaliokunnalta tullut näin kuuluva kirjoitus:
         </note>
         <note xml:id="i-3hqo6DTve7g487nPfZrvLw" xml:lang="fi">
@@ -4070,7 +4080,7 @@
         <note xml:id="i-3yerKWmHHSuxXSqFspPwKa" xml:lang="fi">
           Puhemies lausui: Sen Johdostar. S
         </note>
-        <note xml:id="i-LcCwPnnYmUg2eE4qVwkAMn" xml:lang="fi">
+        <note xml:id="i-LcCwPnnYmUg2eE4qVwkAMn" xml:lang="fi" type="speaker">
           vänä on Hänen Majesteettinsa Kei:
         </note>
         <note xml:id="i-D1rTsdsah7avc9iemiwJAU" xml:lang="fi">
@@ -5783,7 +5793,7 @@
         <note xml:id="i-AwaXL9H3bHBgZp7HywAcFR" xml:lang="fi">
           Tiistaina 13 p:nä Maaliskuuta 1894, klo 6 i. p.
         </note>
-        <note xml:id="i-5PqKuUpLNE3hxvXqUnTDZ4" xml:lang="fi">
+        <note xml:id="i-5PqKuUpLNE3hxvXqUnTDZ4" xml:lang="fi" type="speaker">
           Puhemies, seisoen puhemiespöytänsä ääressä, antoi Säädylle seuraavan
           tiedonannon, jota Säädyn jäsenet niinikään seisoen kuuntelivat:
         </note>
@@ -5832,10 +5842,15 @@
           Ilmoitettiin että edusmiehet Zitting ja Avellan olivat sairauden
           tähden estetyt saapumasta tähän Säädyn täysi-istuntoon.
         </note>
-        <note xml:id="i-T6NGvoeCinw2dpQgF7fnfc" xml:lang="fi">
+        <note xml:id="i-T6NGvoeCinw2dpQgF7fnfc" xml:lang="fi" type="speaker">
           Luettiin julki yleiseltä valitusvaliokunnalta tullut näin kuuluva
-          kirje: Arvoisalle Talonpoikaissäädylle.
+          kirje:
         </note>
+        <u who="unknown">
+          <seg>
+            Arvoisalle Talonpoikaissäädylle.
+          </seg>
+        </u>
         <note xml:id="i-94SAuDNLp2QFd9gEcM98GK" xml:lang="fi">
           Kun Yleinen valitusvaliokunta käsitellessään erästä Talonpoikaissäädystä
           valiokuntaan lähetettyä anomusehdotusta, joka koskee tutkijakunnan
@@ -6091,7 +6106,7 @@
           tässä antamieni selitysten nojalla antaisi mietinnölleen kauniimman
           muodon.
         </note>
-        <note xml:id="i-9TrhM8sDq52ZQvfx1rNcED" xml:lang="fi">
+        <note xml:id="i-9TrhM8sDq52ZQvfx1rNcED" xml:lang="fi" type="speaker">
           Keskustelu oli nyt keskeytettävä kun tavanmukaisesti vastaanotettuna
           Säätyyn saapui Senaatin lähetystö, jonka johtaja, senaattori Sohlman
           lausui:
@@ -6100,7 +6115,7 @@
         <note xml:id="i-WjwvmcYjmhFtcJxFKjmEyX" xml:lang="fi">
           674 Talonpoikaissääty 13 p. Maalisk. 1894.
         </note>
-        <note xml:id="i-L6gJG7qD7tSVpk85rSCmf" xml:lang="fi">
+        <note xml:id="i-L6gJG7qD7tSVpk85rSCmf" xml:lang="fi" type="speaker">
           Kunnioitettava Puhemies, Arvoisa Talonpoikaissääty!
         </note>
         <note xml:id="i-VLLD449vvXHCv5P1vGBmdp" xml:lang="fi">
@@ -6145,10 +6160,14 @@
           että alkuperäiset esitykset ovat tänä päivänä Ritaristossa ja
           Aatelissa annetut Maamarsalkalle.
         </note>
-        <note xml:id="i-ndZux6BU4izvoUuSZdLmf" xml:lang="fi">
-          Puhemies vastasi: Säädyn puolesta saan kiittää lähetystöä jätetyistä
-          arm. esityksistä.
+        <note xml:id="i-ndZux6BU4izvoUuSZdLmf" xml:lang="fi" type="speaker">
+          Puhemies vastasi:
         </note>
+        <u who="unknown">
+          <seg>
+            Säädyn puolesta saan kiittää lähetystöä jätetyistä arm. esityksistä.
+          </seg>
+        </u>
         <note xml:id="i-5Es4YTpU1pqa7YmakNHTv8" xml:lang="fi">
           Tämän jälkeen lähetystö tavanmukaisesti saatettuna poistui Säädystä.
         </note>
@@ -7342,7 +7361,7 @@
           hyväksyi sen ehdotuksen, että ,Turva'-laitokselle myönnetään korkeintaan
           5,000 markkaa vuosittain.
         </note>
-        <note xml:id="i-M7XCKXFfmYvYbdReacc3bP" xml:lang="fi">
+        <note xml:id="i-M7XCKXFfmYvYbdReacc3bP" xml:lang="fi" type="speaker">
           Viimeksi Puhemies esitti Säädylle näin kuuluvan
         </note>
         <note xml:id="i-Y6XhxfSL5KSKhaDPp3k94W" xml:lang="fi">
@@ -8633,7 +8652,7 @@
             asiassa selville.
           </seg>
         </u>
-        <note xml:id="i-SFxLsjANUXFanxqk1tzZyJ" xml:lang="fi">
+        <note xml:id="i-SFxLsjANUXFanxqk1tzZyJ" xml:lang="fi" type="speaker">
           Keskustelu lopetetuksi julistettua Puhemies esitti ja Sääty hyväksyi
           näin kuuluvan
         </note>
@@ -8771,11 +8790,11 @@
           Maaliskuun 13 päivänä tehdyt päätökset olematta Säädyllä mitään
           niiden suhteen muistuttamista.
         </note>
-        <note xml:id="i-DDKfX8g54cPbfXBd1yt9Ec" xml:lang="fi">
+        <note xml:id="i-DDKfX8g54cPbfXBd1yt9Ec" xml:lang="fi" type="speaker">
           Esitettiin tarkastusvaliokunnalta Säädylle saapunut näin kuuluva
           kirje:
         </note>
-        <note xml:id="i-8eaMXdtCxqyXRVaA9vyDw1" xml:lang="fi">
+        <note xml:id="i-8eaMXdtCxqyXRVaA9vyDw1" xml:lang="fi" type="speaker">
           Arvoisalle Talonpoikaissäädylle.
         </note>
         <note xml:id="i-WxFDpcusAzMcyqan3UMS2E" xml:lang="fi">
@@ -10005,7 +10024,7 @@
           oli mainittu toimikunta Säädylle nyt lähettänyt näin kuuluvan
           kirjeen:
         </note>
-        <note xml:id="i-HKdLmoaPoSpKkcwhM7W9AC" xml:lang="fi">
+        <note xml:id="i-HKdLmoaPoSpKkcwhM7W9AC" xml:lang="fi" type="speaker">
           Arvoisalle Talonpoikaissäädylle.
         </note>
         <note xml:id="i-RH8HbREphibja3SkJe7rcP" xml:lang="fi">
@@ -10306,7 +10325,7 @@
           Porvarissääty, sekä Talonpoikaissääty ovat mietinnön muuttamatta
           hyväksyneet; jota vastoin
         </note>
-        <note xml:id="i-WwntAhBCpDcw4M6hbgb4Aq" xml:lang="fi">
+        <note xml:id="i-WwntAhBCpDcw4M6hbgb4Aq" xml:lang="fi" type="speaker">
           Pappissääty on tehnyt senraavan anomuksen:
         </note>
         <note xml:id="i-4aJnzTxquA9s4L7pHx87NR" xml:lang="fi">
@@ -11092,10 +11111,15 @@
           loukkaavina ja pyydän, että puhuja jatkaisi sievemmällä tavalla
           lausuntoansa.
         </note>
-        <note xml:id="i-NLzUnzU7x2ELnd1n9Hjeok" xml:lang="fi">
-          Edusmies Lagerström jatkoi: Af ständets äläste man hafva vi vid
-          förra sammanträdet hört huru vi i denna fräga böra för-
+        <note xml:id="i-NLzUnzU7x2ELnd1n9Hjeok" xml:lang="fi" type="speaker">
+          Edusmies Lagerström jatkoi:
         </note>
+        <u who="unknown">
+          <seg>
+            Af ständets äläste man hafva vi vid förra sammanträdet hört huru
+            vi i denna fräga böra för-
+          </seg>
+        </u>
         <pb facs="https://swerik-project.github.io/valtiopaivat-records-pdf/1894/ptk_1894_talonpojat_II/ptk_1894_talonpojat_II-0179"/>
         <note xml:id="i-7VY1ms6ipEHTfWaUf6At3P" xml:lang="fi">
           Talonpoikaissääty 20 p. Maalisk. 1894. 757
@@ -12050,9 +12074,14 @@
             lausuntoon.
           </seg>
         </u>
-        <note xml:id="i-C75WHs9VzTkphH2nGiP5q2" xml:lang="fi">
-          Edusmies Näs: Äfven jag är af samma mening som landtdagsm. Slotte.
+        <note xml:id="i-C75WHs9VzTkphH2nGiP5q2" xml:lang="fi" type="speaker">
+          Edusmies Näs:
         </note>
+        <u who="unknown">
+          <seg>
+            Äfven jag är af samma mening som landtdagsm. Slotte.
+          </seg>
+        </u>
         <note xml:id="i-KrzTE4o17UaZ8RR4oe6JYi" xml:lang="fi" type="speaker">
           Edusmies Poutiainen:
         </note>
@@ -12102,7 +12131,7 @@
           Puhemies ilmoitti edusmies Dunckerin olevan sairauden tähden
           estetyn olemasta saapuvilla Säädyn täysi-istunnossa.
         </note>
-        <note xml:id="i-Fzt8vuqWrPNQDe8hYHRGZK" xml:lang="fi">
+        <note xml:id="i-Fzt8vuqWrPNQDe8hYHRGZK" xml:lang="fi" type="speaker">
           Säädylle tiedoksi luettiin valtiovaliokunnalta saapunut näin
           kuuluva kirje:
         </note>
@@ -12414,12 +12443,12 @@
             2 &amp;:n.
           </seg>
         </u>
-        <note xml:id="i-VP1Hrt5XyPmkiP8wWfbYv" xml:lang="fi">
+        <note xml:id="i-VP1Hrt5XyPmkiP8wWfbYv" xml:lang="fi" type="speaker">
           Keskustelu oli nyt keskeytettävä, kun tapahtuneen ilmoituksen
           jälkeen tavanmukaisesti vastaanotettuna Säätyyn saapui Senaattori
           Ignatius, joka lausui:
         </note>
-        <note xml:id="i-GvNvyHsak7EoKZSwi6CFmw" xml:lang="fi">
+        <note xml:id="i-GvNvyHsak7EoKZSwi6CFmw" xml:lang="fi" type="speaker">
           Kunnioitettava herra Puhemies, arvoisa Talonpoikaissääty !
         </note>
         <note xml:id="i-GukPjQCR62gAqaaVZ9YtfX" xml:lang="fi">
@@ -13978,16 +14007,21 @@
           Sittenkun mietinnön 3 sivulla oleva asetusehdotuksen teksti oli
           Säädylle esitetty, otti asiasta lausuakseen ensin
         </note>
-        <note xml:id="i-8omS4bSAzLbdqZXEd8teBa" xml:lang="fi">
-          edusmies Strähle: Uti detta betänkande har utskottet framhällit
-          hurusom import af spelkort frän Ryssland, hvilka spelkort försäljas
-          till förmån för hittebarnshuset i S:t Petersburg, är tilläten
-          pä grund af nädiga förordningen af den 22 juni 1859 mot erläggandet
-          af en stämpelafgift utgörande endast 10 kopek eller 40 penni per
-          lek. Denna stämpelafgift af 40 penni drabbar enligt samma kungörelse
-          ocksä kort af finskt fabrikat, men dessutom äro dessa enligt den
-          nädiga propositionen föreslagna
+        <note xml:id="i-8omS4bSAzLbdqZXEd8teBa" xml:lang="fi" type="speaker">
+          edusmies Strähle:
         </note>
+        <u who="unknown">
+          <seg>
+            Uti detta betänkande har utskottet framhällit hurusom import
+            af spelkort frän Ryssland, hvilka spelkort försäljas till förmån
+            för hittebarnshuset i S:t Petersburg, är tilläten pä grund af
+            nädiga förordningen af den 22 juni 1859 mot erläggandet af en
+            stämpelafgift utgörande endast 10 kopek eller 40 penni per lek.
+            Denna stämpelafgift af 40 penni drabbar enligt samma kungörelse
+            ocksä kort af finskt fabrikat, men dessutom äro dessa enligt den
+            nädiga propositionen föreslagna
+          </seg>
+        </u>
         <pb facs="https://swerik-project.github.io/valtiopaivat-records-pdf/1894/ptk_1894_talonpojat_II/ptk_1894_talonpojat_II-0223"/>
         <note xml:id="i-CTAWoY1tforbuErMWzQWei" xml:lang="fi">
           Talonpoikaissääty 29 p. Maalisk. 1894. 801
@@ -16833,11 +16867,11 @@
           anomusehdotuksen, jonka mukaan muodostettavaksi asia oli lykättävä
           takaisin valiokuntaan.
         </note>
-        <note xml:id="i-8WoZ5x8xPfx7qdKooNihAQ" xml:lang="fi">
+        <note xml:id="i-8WoZ5x8xPfx7qdKooNihAQ" xml:lang="fi" type="speaker">
           Puhemies ilmoitti että Säädyn sihteeri oli hänelle jättänyt näin
           kuuluvan muistineen ja siihen kuuluvan selvityksen:
         </note>
-        <note xml:id="i-CYDVwTki1tMoJX71D2pP5C" xml:lang="fi">
+        <note xml:id="i-CYDVwTki1tMoJX71D2pP5C" xml:lang="fi" type="speaker">
           Kunnioitettava Herra Puhemies!
         </note>
         <note xml:id="i-F8ZoyWHNxzKYVfNBSrFgeK" xml:lang="fi">
@@ -19400,7 +19434,7 @@
           Yleisen Valitusvaliokunnan puolesta: R. F. v. Willebrand. Georg
           Schauman.
         </note>
-        <note xml:id="i-BZ4cbU9KapSg2ZkZBAUsmz" xml:lang="fi">
+        <note xml:id="i-BZ4cbU9KapSg2ZkZBAUsmz" xml:lang="fi" type="speaker">
           Samoin julkiluettiin talousvaliokunnalta Säädylle saapunut näin
           kuuluva kirje:
         </note>
@@ -19851,11 +19885,11 @@
             poliisit saisivat ottaa koiria kiinni.
           </seg>
         </u>
-        <note xml:id="i-A9J5nxSDmZLdXPqYv2MrY1" xml:lang="fi">
+        <note xml:id="i-A9J5nxSDmZLdXPqYv2MrY1" xml:lang="fi" type="speaker">
           Tavanmukaisesti vastaanotettuna saapui nyt Säätyyn Senaatin lähetystö,
           jonka johtaja senaattori von Troil lausui:
         </note>
-        <note xml:id="i-UQKArMTjcKXWJPyTFZXo1N" xml:lang="fi">
+        <note xml:id="i-UQKArMTjcKXWJPyTFZXo1N" xml:lang="fi" type="speaker">
           Kunnioitettu Herra Puhemies! Arvoisa Talonpoikaissääty!
         </note>
         <note xml:id="i-C6HGnnxGuqeyX3QeyW2qGj" xml:lang="fi">
@@ -21329,7 +21363,7 @@
           enkä minä puolestani voi sentähden hyväksyä, että näitä tarkotuksia
           varten eri kouluja perustettaisiin.
         </note>
-        <note xml:id="i-GcJ4a4HTb3arZSEVhMLpEt" xml:lang="fi">
+        <note xml:id="i-GcJ4a4HTb3arZSEVhMLpEt" xml:lang="fi" type="speaker">
           Kun ei kukaan enää pyytänyt puheenvuoroa asiasta, julistettiin
           keskustelu siitä päättyneeksi, jonka jälkeen Puhemies esitti ja
           Sääty hyväksyi näin kuuluvan
@@ -23572,11 +23606,11 @@
         <note xml:id="i-YcBCiyrtQL4Xy8dEas3adf" xml:lang="fi">
           960 Talonpoikaissääty 13 p. Huhtik. 1894.
         </note>
-        <note xml:id="i-7FnTSnEApf8UxWwgcW62ap" xml:lang="fi">
+        <note xml:id="i-7FnTSnEApf8UxWwgcW62ap" xml:lang="fi" type="speaker">
           lähetystö, johon kuuluivat hrat L. Mechelin, R. A. Wrede ja R.
           Montgomery. Lähetystön johtaja hra Mechelin lausui:
         </note>
-        <note xml:id="i-RRBj95AmNzj6m6ePqmVHEt" xml:lang="fi">
+        <note xml:id="i-RRBj95AmNzj6m6ePqmVHEt" xml:lang="fi" type="speaker">
           Kunnioitettava Puhemies, arvoisa Talonpoikaissääty!
         </note>
         <note xml:id="i-LGhbCxCGmWwgALqp8HHSmH" xml:lang="fi">
@@ -24025,7 +24059,7 @@
           den inbjudning som gjorts af ridderskapet och adeln, att frågan
           skulle behandlas af ett särskildt utskott.
         </note>
-        <note xml:id="i-XZ9VCBPbjKMnLMqvTjBxQs" xml:lang="fi">
+        <note xml:id="i-XZ9VCBPbjKMnLMqvTjBxQs" xml:lang="fi" type="speaker">
           Sittenkuin edusm. Strählen edellä oleva lausunto oli tulkittu
           suomeksi, lisäsi mainittu puhuja:
         </note>
@@ -25976,14 +26010,14 @@
           Kertomus pantiin pöydälle siihen Säädyn täysi-istuntoon, joka
           pidetään lauvantaina tämän Huhtikuun 21 p:nä.
         </note>
-        <note xml:id="i-LkKk725ixKBoa47pjuGetp" xml:lang="fi">
+        <note xml:id="i-LkKk725ixKBoa47pjuGetp" xml:lang="fi" type="speaker">
           Luettiin Säädylle tiedoksi talousvaliokunnalta tullut näin kuuluva
           kirje:
         </note>
         <note xml:id="i-HANhvFwX7FNwftWya5TALz" xml:lang="fi">
           SUOMEN SÄÄTYJEN
         </note>
-        <note xml:id="i-9jHrTR1YLJQahh7Ex4SaPN" xml:lang="fi">
+        <note xml:id="i-9jHrTR1YLJQahh7Ex4SaPN" xml:lang="fi" type="speaker">
           TALOUSVALIOKUNTA. Arvoisalle Talonpoikaissäädylle.
         </note>
         <note xml:id="i-DjYbEoSc1WHcLboDTyGXWz" xml:lang="fi">
@@ -26021,7 +26055,7 @@
         <note xml:id="i-5quBaFRa7eC8iJp3PAcaEW" xml:lang="fi">
           SUOMEN SÄÄTYJEN TALOUSVALIOKUNTA.
         </note>
-        <note xml:id="i-W9655tGjNqqEQd7gDLy9QS" xml:lang="fi">
+        <note xml:id="i-W9655tGjNqqEQd7gDLy9QS" xml:lang="fi" type="speaker">
           Arvoisalle Talonpoikaissäädylle.
         </note>
         <note xml:id="i-XbVQ11LJ5VjZmvZd7kNUf5" xml:lang="fi">
@@ -28184,7 +28218,7 @@
           11 jaa-ääntä vastaan hyväksyi äänestysesityksen eipuoleen sisältyvän
           ehdotuksen.
         </note>
-        <note xml:id="i-3EcU61dbkkcaycEunsVEhS" xml:lang="fi">
+        <note xml:id="i-3EcU61dbkkcaycEunsVEhS" xml:lang="fi" type="speaker">
           Tämän jälkeen esitti Puhemies Säädyn vastattavaksi näin kuuluvan
         </note>
         <note xml:id="i-Ej2PgTFdrLjCQBkk2roa7g" xml:lang="fi">
@@ -29526,7 +29560,7 @@
         <note xml:id="i-9fPwVseC32yFbjdSVpGtZy" xml:lang="fi">
           SUOMEN SÄÄTYJEN TALOUSVALIOKUNTA.
         </note>
-        <note xml:id="i-6DY72sEUMsZ6dFiyCkEaTu" xml:lang="fi">
+        <note xml:id="i-6DY72sEUMsZ6dFiyCkEaTu" xml:lang="fi" type="speaker">
           Arvoisalle Talonpoikaissäädylle.
         </note>
         <note xml:id="i-HCUUAB899AqVHJpfuvjQkx" xml:lang="fi">
@@ -30955,7 +30989,7 @@
             herroja ole auktoriteetteinaan pitänyt.
           </seg>
         </u>
-        <note xml:id="i-4WHsHknjMoHyWydEWwsAEP" xml:lang="fi">
+        <note xml:id="i-4WHsHknjMoHyWydEWwsAEP" xml:lang="fi" type="speaker">
           Keskustelun tähän päätyttyä puhemies esitti Säädyn vastattavaksi
           näin kuuluvan
         </note>
@@ -31057,7 +31091,7 @@
           19 päivänä tehdyt päätökset, olematta Säädyllä niiden suhteen
           mitään muistuttamista.
         </note>
-        <note xml:id="i-Xr2JTBSDQb2GJvMJc1HTY2" xml:lang="fi">
+        <note xml:id="i-Xr2JTBSDQb2GJvMJc1HTY2" xml:lang="fi" type="speaker">
           Säädylle tiedoksi luettiin seuraava Kenraalikuvernöörinvirastolta
           saapunut suomeksi käännetty kirje:
         </note>
@@ -31080,12 +31114,17 @@
         <note xml:id="i-7z91FLhc9e69i181WQucC6" xml:lang="fi">
           1082 Talonpoikaissääty 21 p. Huhtik. 1894.
         </note>
-        <note xml:id="i-ANuxDQFYzz93FfMchUYv9t" xml:lang="fi">
+        <note xml:id="i-ANuxDQFYzz93FfMchUYv9t" xml:lang="fi" type="speaker">
           tusta Juhlamenojen ohjeesta sitä muistopatsasta juhlallisesti
           paljastettaissa '7/2 pnä tätä Huhtikuuta, jonka Suomen känsa on
           pystyttänyt Korkean autuaalle Keisarille ja Suuriruhtinaalle Aleksander
-          II:lle.
+          II:
         </note>
+        <u who="unknown">
+          <seg>
+            lle.
+          </seg>
+        </u>
         <note xml:id="i-67j4KMJ6VZrWMbniaj6qyi" xml:lang="fi">
           Allekirj.: Kenraaliajutantti Kreivi Heiden. Varment.: Kanslian
           Tirehtori Bläfjeld.
@@ -35637,7 +35676,7 @@
         <note xml:id="i-9jRgvM7He9qvU5Fbjk61sM" xml:lang="fi">
           YLEINEN VALITUSVALIOKUNTA.
         </note>
-        <note xml:id="i-5aZSjF7yWGbNJqgwa7zFYy" xml:lang="fi">
+        <note xml:id="i-5aZSjF7yWGbNJqgwa7zFYy" xml:lang="fi" type="speaker">
           Arvoisalle Talonpoikaissäädylle.
         </note>
         <note xml:id="i-5GsynBBhtM9uxejzqdy6F4" xml:lang="fi">
@@ -36230,16 +36269,20 @@
           esityksen johdosta siitä suostuntaverosta, joka on Suomenmaassa
           kauppaa tai muuta elinkeinoa harjoittavien ulkomaalaisten suoritettava.
         </note>
-        <note xml:id="i-Uo6r3Mob9JsgpE7bu6sXV6" xml:lang="fi">
-          Luettiin julki Säätyjen Keisari Aleksanteri II:lle nostettavaa
-          muistopatsasta varten asettamalta valtuuskunnalta saapunut näin
-          kuuluva kirjoitus:
+        <note xml:id="i-Uo6r3Mob9JsgpE7bu6sXV6" xml:lang="fi" type="speaker">
+          Luettiin julki Säätyjen Keisari Aleksanteri II:
         </note>
+        <u who="unknown">
+          <seg>
+            lle nostettavaa muistopatsasta varten asettamalta valtuuskunnalta
+            saapunut näin kuuluva kirjoitus:
+          </seg>
+        </u>
         <note xml:id="i-TvhCjfX3HfqKdcy3Ad7dP2" xml:lang="fi">
           Säätyjen Keisari Aleksanteri II:lle nostettavaa muistopatsasta
           varten asettamalta valtuuskunnalta
         </note>
-        <note xml:id="i-G9Z3ZGnvpwdNuPs9NZkzir" xml:lang="fi">
+        <note xml:id="i-G9Z3ZGnvpwdNuPs9NZkzir" xml:lang="fi" type="speaker">
           Arvoisalle Talonpoikaissäädylle.
         </note>
         <note xml:id="i-6Sn2novGqjVqxu5WNuYJED" xml:lang="fi">
@@ -36380,11 +36423,11 @@
         <note xml:id="i-BRNvkqhDXaWuG6fupvDsKa" xml:lang="sv">
           ALEKSANDER.
         </note>
-        <note xml:id="i-723kYjamfhvngT3ZvK5XX4" xml:lang="fi">
+        <note xml:id="i-723kYjamfhvngT3ZvK5XX4" xml:lang="fi" type="speaker">
           Maamarsalkka, presidentti von Hellens astui nyt, kädessään maamarsalkan
           sauva, puhujalavalle ja lausui suomeksi ja ruotsiksi:
         </note>
-        <note xml:id="i-NU33UXi11tTpd18zasBhPQ" xml:lang="sv">
+        <note xml:id="i-NU33UXi11tTpd18zasBhPQ" xml:lang="sv" type="speaker">
           » Herra Kreivi, Suomen Kenraalikuvernööri!
         </note>
         <note xml:id="i-FdHRc47et3rd6KgqaT4pvN" xml:lang="fi">
@@ -36410,7 +36453,7 @@
           vilkkaiden sävelten kanssa, monin kerroin valtavasti kohosivat
           muistopatsaan ympäriltä.
         </note>
-        <note xml:id="i-BeBu2Am8yb7CAEHKg81CaV" xml:lang="fi">
+        <note xml:id="i-BeBu2Am8yb7CAEHKg81CaV" xml:lang="fi" type="speaker">
           Nyt nousi puhujalavalle Porvarissäädyn puhemies, kauppaneuvos
           J. Kurten ja piti ruotsinkielellä, suomennettuna näin kuuluvan
           puheen:
@@ -36552,7 +36595,7 @@
           hänen muistonsa ja selvemmin kertovat, miksi tämä muistopatsas
           on pystytetty".
         </note>
-        <note xml:id="i-LUkNBr5bhMV1jzSeftYTqy" xml:lang="fi">
+        <note xml:id="i-LUkNBr5bhMV1jzSeftYTqy" xml:lang="fi" type="speaker">
           Tämän jälkeen piti Talonpoikaissäädyn puhemies K. Wärri näin
           kuuluvan juhlapuheen:
         </note>
@@ -36705,7 +36748,7 @@
           Sitten kaikuivat Keisarihymnin ja Maamme-laulun säveleet juhlallisesti
           esitettyinä.
         </note>
-        <note xml:id="i-Jhk9wtvQNr1c5Rz9VhQMKF" xml:lang="fi">
+        <note xml:id="i-Jhk9wtvQNr1c5Rz9VhQMKF" xml:lang="fi" type="speaker">
           Hetkisen kuluttua nousi puhujalavalle Maamarsalkka, presidentti
           von Hellens ja lausui:
         </note>
@@ -36729,12 +36772,12 @@
           Sinä Suomen pääkaupunki, ole aina sellaisen luottamuksen arvoinen!
           Älä unohda että Suomen katse on sinuun kiihtynyt!*
         </note>
-        <note xml:id="i-KnSATPLKZ4oKrJSs1BQczD" xml:lang="fi">
+        <note xml:id="i-KnSATPLKZ4oKrJSs1BQczD" xml:lang="fi" type="speaker">
           Tähän vastasi Helsingin kaupungin puolesta kaupungin valtuuston
           puheenjohtaja, senaattori L. Mechelin ruotsin- ja suomenkielellä
           seuraavaisesti:
         </note>
-        <note xml:id="i-W3xpqQPeVywNrVYbZ65BAJ" xml:lang="sv">
+        <note xml:id="i-W3xpqQPeVywNrVYbZ65BAJ" xml:lang="sv" type="speaker">
           » Herra Maamarsalkka.
         </note>
         <note xml:id="i-HMPYtos9LreeorQdCNnTEQ" xml:lang="fi">
@@ -36860,7 +36903,7 @@
           sotilasmarssin kaikuessa muistopatsaan ohitse, jonka jälkeen muut
           saapuvilla olleet asianomaiset poistuivat.
         </note>
-        <note xml:id="i-5eFNAN8Z5mhzgri71Ldv9V" xml:lang="fi">
+        <note xml:id="i-5eFNAN8Z5mhzgri71Ldv9V" xml:lang="fi" type="speaker">
           Sittemmin myöhemmällä lähettivät Valtiosäädyt Hänen Majestilleen
           Keisarille ja Suuriruhtinaalle näin kuuluvan sähkösanoman:
         </note>

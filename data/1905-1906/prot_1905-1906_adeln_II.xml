@@ -46,7 +46,7 @@
         <note xml:id="i-7ckyV1RQ1uLBqth5UaaLf1" xml:lang="sv">
           LANDTDAGEN
         </note>
-        <note xml:id="i-CLgWLWu8yQZKW8M5weAYKC" xml:lang="fi ">
+        <note xml:id="i-CLgWLWu8yQZKW8M5weAYKC" xml:lang="fi">
           ÅR 1905—06.
         </note>
         <note xml:id="i-VqpcWo2ydDJot8xWJeb6aL" xml:lang="sv">
@@ -58,10 +58,10 @@
         <note xml:id="i-PCQVGmfJcvBrRoeiQmLA2V" xml:lang="sv">
           — sv
         </note>
-        <note xml:id="i-J8CW7j9Rz7L6RzQNnAPpCi" xml:lang="sv ">
+        <note xml:id="i-J8CW7j9Rz7L6RzQNnAPpCi" xml:lang="sv">
           HELSINGFORS 1907,
         </note>
-        <note xml:id="i-Jibc2jJyKZj19HbUadJPeh" xml:lang="sv ">
+        <note xml:id="i-Jibc2jJyKZj19HbUadJPeh" xml:lang="sv">
           HELSINGFORS CENTRALTRYCKERI.
         </note>
         <pb facs="https://swerik-project.github.io/valtiopaivat-records-pdf/1905-1906/prot_1905-1906_adeln_II/prot_1905-1906_adeln_II-0003"/>
@@ -2718,7 +2718,7 @@
           kvittenser öfver erlagda nedannämnda introduktionsafgifter, nämligen
           :
         </note>
-        <note xml:id="i-HzEFNtiTUj5VfKW9MobP4N" xml:lang="sv">
+        <note xml:id="i-HzEFNtiTUj5VfKW9MobP4N" xml:lang="sv" type="speaker">
           till Riddarhuskassan:
         </note>
         <note xml:id="i-PUwXx5xiFtcRq3XRjp3pWL" xml:lang="sv">
@@ -2729,7 +2729,7 @@
         <note xml:id="i-6ojRe5eW5Nt1zNFYHZ76dt" xml:lang="sv">
           Ny Riddarhusordning. * 519
         </note>
-        <note xml:id="i-Q2UqSA8h9LHDN4AqVoVBQi" xml:lang="sv">
+        <note xml:id="i-Q2UqSA8h9LHDN4AqVoVBQi" xml:lang="sv" type="speaker">
           till Jungfrustiftskassan:
         </note>
         <note xml:id="i-NbgYPn3kUoAWqivPAn78v8" xml:lang="sv">
@@ -3108,7 +3108,7 @@
           30. Utom frägor, som angä adelsmötes sammansättning och arbetssätt,
           mä till öfverläggning och beslut förekomma,
         </note>
-        <note xml:id="i-8pD3go5EBJYJbEuowNPgZk" xml:lang="sv">
+        <note xml:id="i-8pD3go5EBJYJbEuowNPgZk" xml:lang="sv" type="speaker">
           vid lagtima adelsmöte:
         </note>
         <note xml:id="i-TrwNR8rzbXBAKgkiRQmgKe" xml:lang="sv">
@@ -3129,7 +3129,7 @@
           4) motioner, som vid mötet väckas angäende ändring af denna Riddarhusordning;
           samt
         </note>
-        <note xml:id="i-UufvhtM36CGHLuzr216Ggf" xml:lang="sv">
+        <note xml:id="i-UufvhtM36CGHLuzr216Ggf" xml:lang="sv" type="speaker">
           vid urtima adelsmöte:
         </note>
         <note xml:id="i-9LJhrG53ZsKJcEiaQkzrVY" xml:lang="sv">
@@ -11222,7 +11222,7 @@
         <note xml:id="i-RoDzub4EDDxxqFCnyL5zkx" xml:lang="sv">
           att polletter uttagits för
         </note>
-        <note xml:id="i-MLeHJXmZTGG5s85AwGRwBs" xml:lang="sv">
+        <note xml:id="i-MLeHJXmZTGG5s85AwGRwBs" xml:lang="sv" type="speaker">
           Adliga ätterna:
         </note>
         <note xml:id="i-CEJ9sSYAprebshrjKmym3L" xml:lang="sv">
@@ -16606,11 +16606,15 @@
           med undantag af frägan om tidsbestämningen, der man kan anse,
           att tre ständ omfattat en annan &amp;sigt.
         </note>
-        <note xml:id="i-QoWV3x3nQqGxuCUg8RF1yR" xml:lang="fi">
-          Hr Svinhufvud: Mitä tulee niihin periaatteisiin, joita Lakivaliokunta
-          yhteensovitusta tehdessään on noudattanut, pyydän saada lausua
-          muutaman sanan.
+        <note xml:id="i-QoWV3x3nQqGxuCUg8RF1yR" xml:lang="fi" type="speaker">
+          Hr Svinhufvud:
         </note>
+        <u who="unknown">
+          <seg>
+            Mitä tulee niihin periaatteisiin, joita Lakivaliokunta yhteensovitusta
+            tehdessään on noudattanut, pyydän saada lausua muutaman sanan.
+          </seg>
+        </u>
         <note xml:id="i-JLACzARKxMBpUhL3vGcGMT" xml:lang="fi">
           Lakivaliokunta on asettunut koko yhteensovitusta laatiessaan,
           niin tässä kohden kuin etempänäkin parissa muussa kohdassa, sille
@@ -16742,19 +16746,23 @@
         <note xml:id="i-QZm6pjp6hfT8or9DGjQ5JH" xml:lang="sv" type="speaker">
           Frih:
         </note>
-        <u xml:id="i-X7Lnm98XcS3LF7uYMHgQ5r" who="unknown">
-          <seg xml:id="i-9FibnZcSapMKJe2Kmn3HSi" xml:lang="sv">
-            R. A. Wrede: I anledning af Hr Schaumans yttrande ber jag endast
-            fä nämna, att hvad jag anfört angäende tidigare praxis hänför
-            sig till föregäende landtdagar och icke till denna landtdag och
-            allra minst till detta betänkande af Lagutskottet, hvars sätt
-            att sammanjemka jag just angripit säsom oriktigt. Det kan således
-            icke anföras till förmån för sammanjemkningen af 25 8 Hvad åter
-            beträffar Hr Estlanders anförande, gick äfven det, sävidt jag
-            kunde finna, i hufvudsak ut pä att Utskottets förslag vore sakligt
-            bättre än propositionens och derför borde föredragas säsom grund
-            för sammanjemkningen. Detta är emellertid icke nägon laglig sammanjemkningsgrund
-            och kan sä mycket mindre här åberopas, som R. 0. A., dä det ankom
+        <u xml:id="i-X7Lnm98XcS3LF7uYMHgQ5r" who="unknown"/>
+        <note xml:id="i-9FibnZcSapMKJe2Kmn3HSi" xml:lang="sv" type="speaker">
+          R. A. Wrede:
+        </note>
+        <u who="unknown">
+          <seg>
+            I anledning af Hr Schaumans yttrande ber jag endast fä nämna,
+            att hvad jag anfört angäende tidigare praxis hänför sig till föregäende
+            landtdagar och icke till denna landtdag och allra minst till detta
+            betänkande af Lagutskottet, hvars sätt att sammanjemka jag just
+            angripit säsom oriktigt. Det kan således icke anföras till förmån
+            för sammanjemkningen af 25 8 Hvad åter beträffar Hr Estlanders
+            anförande, gick äfven det, sävidt jag kunde finna, i hufvudsak
+            ut pä att Utskottets förslag vore sakligt bättre än propositionens
+            och derför borde föredragas säsom grund för sammanjemkningen.
+            Detta är emellertid icke nägon laglig sammanjemkningsgrund och
+            kan sä mycket mindre här åberopas, som R. 0. A., dä det ankom
             pä Ständet att fatta beslut i saken, stält sig pä en annan ständpunkt
             och omfattat propositionen. R. o. A. kan icke, utan att frängä
             sin ständpunkt, nu omfatta sammanjemkningsförslaget.
@@ -17738,10 +17746,15 @@
         <note xml:id="i-QkPmboKiSuLLLnAQLWz4Ee" xml:lang="sv">
           Jag förordar remiss till Lagutskottet.
         </note>
-        <note xml:id="i-WYPEaegZ9bK43CzLHmrK4C" xml:lang="fi">
-          Hr Svinhufvud: Siinä asiassa, jonka Hra Fraser tässä on esittänyt,
-          on minun mielipiteeni seuraava.
+        <note xml:id="i-WYPEaegZ9bK43CzLHmrK4C" xml:lang="fi" type="speaker">
+          Hr Svinhufvud:
         </note>
+        <u who="unknown">
+          <seg>
+            Siinä asiassa, jonka Hra Fraser tässä on esittänyt, on minun
+            mielipiteeni seuraava.
+          </seg>
+        </u>
         <note xml:id="i-WqStUN22ycTVD3gHjyJGsG" xml:lang="fi">
           Meidän sotilasasiamme on jo lain kautta järjestetty, meillä on
           asevelvollisuuslaki vuodelta 1878. Se on pääperusteiltaan voimassa
@@ -18250,11 +18263,14 @@
         <note xml:id="i-FAgy3V2zHU8YhaDwK4i4WY" xml:lang="sv" type="speaker">
           Hr Fraser:
         </note>
-        <u xml:id="i-GWf5MuMNkLCUByXF4KgAaz" who="i-MEoY3ZYgtDsM2D23r4yfXX">
-          <seg xml:id="i-N6Lee81HPhmbN27qZ6XWFw" xml:lang="sv">
-            Hr Furuhjelm frägar: Hvad hafva icke ofärdsåren lärt oss? Jag
-            vill fråga honom: Hafva de lärt vårt röda garde att akta lag och
-            författningar?
+        <u xml:id="i-GWf5MuMNkLCUByXF4KgAaz" who="i-MEoY3ZYgtDsM2D23r4yfXX"/>
+        <note xml:id="i-N6Lee81HPhmbN27qZ6XWFw" xml:lang="sv" type="speaker">
+          Hr Furuhjelm frägar:
+        </note>
+        <u who="unknown">
+          <seg>
+            Hvad hafva icke ofärdsåren lärt oss? Jag vill fråga honom: Hafva
+            de lärt vårt röda garde att akta lag och författningar?
           </seg>
         </u>
         <note xml:id="i-Tw7LfqMctiDM5YwxCcZYLj" xml:lang="unknown" type="speaker">
@@ -24271,11 +24287,15 @@
           fråga framför allt bör hålla på rättsprincipen, ber jag vördsamt
           få tillstyrka antagandet af sammanjemkningsförslaget i denna del.
         </note>
-        <note xml:id="i-CV7c21KKR1TcxjbY8iFfsX" xml:lang="fi">
-          Hr af Hällström: Se käsityskanta, jolle viimeinen arvoisa uhuja
-          on antanut julkisen muodon, pakoittaa minua edusmiehenä ausumaan
-          muutaman sanan.
+        <note xml:id="i-CV7c21KKR1TcxjbY8iFfsX" xml:lang="fi" type="speaker">
+          Hr af Hällström:
         </note>
+        <u who="unknown">
+          <seg>
+            Se käsityskanta, jolle viimeinen arvoisa uhuja on antanut julkisen
+            muodon, pakoittaa minua edusmiehenä ausumaan muutaman sanan.
+          </seg>
+        </u>
         <note xml:id="i-N3MkVSKSLfTwkqhy2YMG2F" xml:lang="fi">
           Se lakiehdotus, jonka yhteensovitus meillä on tällä hetkellä
           käsiteltävänä, on tärkeämpiä mitä näillä valtiopäivillä on ollut
@@ -27274,10 +27294,10 @@
         <note xml:id="i-TtNvHuvMmusbX9v5Nog2Es" xml:lang="sv">
           Hr Oker-Blom uppläste slutligen talet till Bondeständet, sä lydande:
         </note>
-        <note xml:id="i-72poLLvELExWH3dqe5rsNj" xml:lang="fi">
+        <note xml:id="i-72poLLvELExWH3dqe5rsNj" xml:lang="fi" type="speaker">
           Kunnioitettava Puhemies! Arvoisa Talonpoikaissääty !
         </note>
-        <note xml:id="i-RLqWk8tEmEE5uqCaYwgqZM" xml:lang="fi">
+        <note xml:id="i-RLqWk8tEmEE5uqCaYwgqZM" xml:lang="fi" type="speaker">
           Suomen Ritaristo ja Aateli pyytää meidän, lähetystönsä, kautta
           lausua arvoisalle Talonpoikaissäädylle kunnioitettavan, sydämellisen
           tervehdyksensä.
@@ -27366,7 +27386,7 @@
           vuosikymmeninä oikeuttavat meitä toivomaan, että Suomen talonpoikaisluokka
           on kykenevä tämän isänmaallisen tehtävän suorittamaan.
         </note>
-        <note xml:id="i-6xumbzFdMyDpjYM7g2R9T5" xml:lang="fi">
+        <note xml:id="i-6xumbzFdMyDpjYM7g2R9T5" xml:lang="fi" type="speaker">
           Arvoisa Talonpoikaissääty!
         </note>
         <note xml:id="i-GBeWa4ggxpD5Bvdy2JkJNt" xml:lang="fi">
@@ -28936,7 +28956,7 @@
         <note xml:id="i-8d39dvhjwr9WYqsVkA8hpj" xml:lang="sv">
           Förklaring
         </note>
-        <note xml:id="i-Ni4TX8G2qiijGXukap576W" xml:lang="sv">
+        <note xml:id="i-Ni4TX8G2qiijGXukap576W" xml:lang="sv" type="speaker">
           af några i registret och äfven i protokollet använda förkortningar:
         </note>
         <note xml:id="i-7Fy9eztv3FgBczRAvLUXKg" xml:lang="sv">
@@ -29080,7 +29100,7 @@
         <note xml:id="i-UZxy2ETyAr8qG9j8fUvcCR" xml:lang="sv">
           val af ledamöter i "förstärkta Bev. U. I. 168, 169.
         </note>
-        <note xml:id="i-7G4h1djaJYHu8xo82shqu7" xml:lang="sv">
+        <note xml:id="i-7G4h1djaJYHu8xo82shqu7" xml:lang="sv" type="speaker">
           dess betänkanden jemte dertill hörande skrifvelser:
         </note>
         <note xml:id="i-YDosRJ4dDFUWCmUhhnCvGb" xml:lang="sv">
@@ -29125,7 +29145,7 @@
         <note xml:id="i-ES99hJoWbxbtHJwPmLG7ST" xml:lang="sv">
           — ul, » ledamot af St. U. I 31.
         </note>
-        <note xml:id="i-7RppEWwyYTSpThFBpxcwQB" xml:lang="sv">
+        <note xml:id="i-7RppEWwyYTSpThFBpxcwQB" xml:lang="sv" type="speaker">
           dess yttranden:
         </note>
         <note xml:id="i-EPpcVJK3HpLaUunz7Kayxp" xml:lang="unknown">
@@ -29162,7 +29182,7 @@
         <note xml:id="i-Qv1uMfJ9Sgs7vsB2XA72oh" xml:lang="sv">
           utsedd till suppleant i Jernv. U. I. 83.
         </note>
-        <note xml:id="i-4j5xhYg7m4emFGbUazx3XN" xml:lang="sv">
+        <note xml:id="i-4j5xhYg7m4emFGbUazx3XN" xml:lang="sv" type="speaker">
           dess yttranden:
         </note>
         <note xml:id="i-721Jpy6wrk3uH4U3nngY1C" xml:lang="unknown">
@@ -29175,7 +29195,7 @@
         <note xml:id="i-BKdjmSV3iRVwdajGgC88oM" xml:lang="sv">
           Boije af Gennäs, Constantin Axel Leonid, Godsegare. I. 4.
         </note>
-        <note xml:id="i-TXVuVJwiUAMmqh4JRdFjmX" xml:lang="sv">
+        <note xml:id="i-TXVuVJwiUAMmqh4JRdFjmX" xml:lang="sv" type="speaker">
           dess yttrande:
         </note>
         <note xml:id="i-5d1VZ6wGEPRukRDESBUtK4" xml:lang="fi">
@@ -29197,7 +29217,7 @@
           von W wv Carl Gabriel, Filos. Doktor, E. o. Professor. I. 7.
           P. 12/,. IL 474.
         </note>
-        <note xml:id="i-JyVeJWDNnVT57QHb6fYHnj" xml:lang="sv">
+        <note xml:id="i-JyVeJWDNnVT57QHb6fYHnj" xml:lang="sv" type="speaker">
           dess yttranden:
         </note>
         <note xml:id="i-C9D4kc6U3XbRzVqSwsxJsk" xml:lang="unknown">
@@ -29241,7 +29261,7 @@
         <note xml:id="i-22GCP2DGzsanRX2t1uG4zk" xml:lang="sv">
           0» » ledamot af Bev. U. I. 32.
         </note>
-        <note xml:id="i-JJYvWfipEkmkzm7n54WJYr" xml:lang="sv">
+        <note xml:id="i-JJYvWfipEkmkzm7n54WJYr" xml:lang="sv" type="speaker">
           dess yttranden:
         </note>
         <note xml:id="i-UD2BHbTn32jDwxb9oZN17q" xml:lang="fi">
@@ -29350,7 +29370,7 @@
         <note xml:id="i-DBzaxjGZze1SFqYnbxRY6A" xml:lang="sv">
           D.
         </note>
-        <note xml:id="i-HUE78W3roPnJgbnsRGnk5y" xml:lang="sv">
+        <note xml:id="i-HUE78W3roPnJgbnsRGnk5y" xml:lang="sv" type="speaker">
           Deputationer:
         </note>
         <note xml:id="i-QP1bhw8MXC99u67U9YvMk7" xml:lang="sv">
@@ -29401,7 +29421,7 @@
         <note xml:id="i-PtuvN3Pjxnqm4aSxnUfMje" xml:lang="sv">
           — v» —» ledamot af förstärkta Bev. U. I. 168.
         </note>
-        <note xml:id="i-5vuJkSgPCYBYepCXS2eMPG" xml:lang="sv">
+        <note xml:id="i-5vuJkSgPCYBYepCXS2eMPG" xml:lang="sv" type="speaker">
           dess yttranden:
         </note>
         <note xml:id="i-VbTX4ZD3snebBZiabh9XAi" xml:lang="unknown">
@@ -29545,7 +29565,7 @@
         <note xml:id="i-RETfdCZyk47RNFMsb6WobN" xml:lang="sv">
           I. 91. A. P. och ånyo U. P. 12/,. 654.
         </note>
-        <note xml:id="i-Y2xVBG6P57nmShNZHcT7M2" xml:lang="sv">
+        <note xml:id="i-Y2xVBG6P57nmShNZHcT7M2" xml:lang="sv" type="speaker">
           M yttranden:
         </note>
         <note xml:id="i-6hdQtvy9WyEkbsyLmC5AMY" xml:lang="unknown">
@@ -29623,7 +29643,7 @@
         <note xml:id="i-5E95ybgzwxF1qh5UmtaXbQ" xml:lang="sv">
           ” ” ” stånden. II. 913. befriad från detta uppdrag. II. 917.
         </note>
-        <note xml:id="i-57wTueYadTSgZTu7XLiqZd" xml:lang="sv">
+        <note xml:id="i-57wTueYadTSgZTu7XLiqZd" xml:lang="sv" type="speaker">
           — dess yttranden:
         </note>
         <note xml:id="i-NSurDFdYyZjzKeTVNPyRKu" xml:lang="fi">
@@ -29656,7 +29676,7 @@
         <note xml:id="i-N3h1rQYeYS85wqrxjheFNg" xml:lang="sv">
           »” 5
         </note>
-        <note xml:id="i-MfVyjepmQrGbhEDJ4hhdAy" xml:lang="sv">
+        <note xml:id="i-MfVyjepmQrGbhEDJ4hhdAy" xml:lang="sv" type="speaker">
           dess yttranden:
         </note>
         <note xml:id="i-D8ofUDbH9bnAkhnozDQR5Y" xml:lang="unknown">
@@ -29677,7 +29697,7 @@
         <note xml:id="i-P1uGwqmrsP9EiFCXHqEpxc" xml:lang="sv">
           utsedd till ledamot i R. U. I. 32.
         </note>
-        <note xml:id="i-Xpb6n5w2QSzrNfSHCz3xW2" xml:lang="sv">
+        <note xml:id="i-Xpb6n5w2QSzrNfSHCz3xW2" xml:lang="sv" type="speaker">
           dess yttrande:
         </note>
         <note xml:id="i-62UtGDN1P8Yt2gzb6QeGzj" xml:lang="unknown">
@@ -29701,7 +29721,7 @@
         <note xml:id="i-DktUURf3huztY5ufobMwdv" xml:lang="sv">
           utsedd till ledamot af Jernv, U.
         </note>
-        <note xml:id="i-5QbXU5xjqhRuuDhNCcR7EC" xml:lang="sv">
+        <note xml:id="i-5QbXU5xjqhRuuDhNCcR7EC" xml:lang="sv" type="speaker">
           dess yttranden:
         </note>
         <note xml:id="i-2EVb8RyZY9jvGQUwgrfvze" xml:lang="unknown">
@@ -29728,7 +29748,7 @@
         <note xml:id="i-HYnLAuc8CEJ4hVXnWHNWzX" xml:lang="sv">
           utsedd till ledamot af Ek. U. 1. 73.
         </note>
-        <note xml:id="i-DBDiRAg5dVXX5Lzk2t4vBi" xml:lang="sv">
+        <note xml:id="i-DBDiRAg5dVXX5Lzk2t4vBi" xml:lang="sv" type="speaker">
           dess yttranden:
         </note>
         <note xml:id="i-BosbxPKdF9aoA8BaaVH5eX" xml:lang="unknown">
@@ -29768,7 +29788,7 @@
         <note xml:id="i-MZ6Rc56uhitA53SYNNg6ni" xml:lang="sv">
           ning rörande representationsreformen. I. 97—101.
         </note>
-        <note xml:id="i-BiJSV4taSTbfijpqNx3ExP" xml:lang="sv">
+        <note xml:id="i-BiJSV4taSTbfijpqNx3ExP" xml:lang="sv" type="speaker">
           — dess betänkanden:
         </note>
         <note xml:id="i-8twdyFQUN1Va9AXgAiwTXH" xml:lang="sv">
@@ -29808,7 +29828,7 @@
         <note xml:id="i-M7Y5XoPmC4NoAn56AuyiQ8" xml:lang="sv">
           von Haartman, Frih. Carl August Gabriel, Godsegare. U.P.9/;.
         </note>
-        <note xml:id="i-D6bqaHD8fiByuj5gjg6eeE" xml:lang="sv">
+        <note xml:id="i-D6bqaHD8fiByuj5gjg6eeE" xml:lang="sv" type="speaker">
           dess n itande:
         </note>
         <note xml:id="i-LX8Y3wRsYP3o2nscUfuUNG" xml:lang="fi">
@@ -29820,7 +29840,7 @@
         <note xml:id="i-3mmiDjxq5HPTst9mbYgeT5" xml:lang="sv">
           29/19. 1 50. A. P. och ånyo U. P. 14/1. 63.
         </note>
-        <note xml:id="i-P4fLR1caSzLMeDZkqRfDwa" xml:lang="sv">
+        <note xml:id="i-P4fLR1caSzLMeDZkqRfDwa" xml:lang="sv" type="speaker">
           dess yttranden:
         </note>
         <note xml:id="i-DRfonvnXbY85qKN4sjFiAT" xml:lang="unknown">
@@ -29858,7 +29878,7 @@
         <note xml:id="i-Phy3dAfhWsjZ5po3XfSKJr" xml:lang="sv">
           — — utsedd till suppleant i Gr. U. I. 94.
         </note>
-        <note xml:id="i-WH4PRaUqK27h6Zh4wBUJfq" xml:lang="sv">
+        <note xml:id="i-WH4PRaUqK27h6Zh4wBUJfq" xml:lang="sv" type="speaker">
           dess yttranden:
         </note>
         <note xml:id="i-C9ybGAhMy4gCPkLzipARyZ" xml:lang="unknown">
@@ -30053,7 +30073,7 @@
         <note xml:id="i-2og5yrGkgpHagHznupBUL4" xml:lang="sv">
           utsedd till ledamot af Stora deputationen. I. 11.
         </note>
-        <note xml:id="i-7V5xUEns5PSNDX1UaN84XM" xml:lang="sv">
+        <note xml:id="i-7V5xUEns5PSNDX1UaN84XM" xml:lang="sv" type="speaker">
           — dess yttrande:
         </note>
         <note xml:id="i-WdY63haYjw2qcwwhuqHM4u" xml:lang="unknown">
@@ -30082,7 +30102,7 @@
         <note xml:id="i-3MyDVzTzMqFF5BcR1QFuJn" xml:lang="sv">
           — » » » » Bev. U. I 32.
         </note>
-        <note xml:id="i-5CriXBoksFiQDbgp71xNeY" xml:lang="sv">
+        <note xml:id="i-5CriXBoksFiQDbgp71xNeY" xml:lang="sv" type="speaker">
           dess yttranden:
         </note>
         <note xml:id="i-AhZ2xCwC4vivk7juyhRpDF" xml:lang="unknown">
@@ -30109,7 +30129,7 @@
         <note xml:id="i-RUZWxXcvaE8QSZWYLSPXsg" xml:lang="sv">
           vens äterlemnande. IL 924.
         </note>
-        <note xml:id="i-3pTjZo9HUxTfv43dWzxa85" xml:lang="sv">
+        <note xml:id="i-3pTjZo9HUxTfv43dWzxa85" xml:lang="sv" type="speaker">
           dess yttranden:
         </note>
         <note xml:id="i-BVLKhysrwAyirbChsPdZbm" xml:lang="unknown">
@@ -30137,7 +30157,7 @@
         <note xml:id="i-MHo6FC94hhpeQuamYQTR5o" xml:lang="unknown">
           Lagerborg, Rolf Heribert Hjalmar, Filos. Doktor. I. 6.
         </note>
-        <note xml:id="i-8QaR42tqnajjuu6ZVvLBof" xml:lang="sv">
+        <note xml:id="i-8QaR42tqnajjuu6ZVvLBof" xml:lang="sv" type="speaker">
           dess yttranden:
         </note>
         <note xml:id="i-P7kEAzpGxrZ8HXfCP5yxf4" xml:lang="fi">
@@ -30169,7 +30189,7 @@
           val af ledamöter, suppleanter och ordförande deri. I. 33, 44,
           48, 77, 92, 171, 294, 309, 338. II. 557, 655, 712, 760, 777, 795.
         </note>
-        <note xml:id="i-BxbC1qZ6DJ6PghTZZMfQ9u" xml:lang="sv">
+        <note xml:id="i-BxbC1qZ6DJ6PghTZZMfQ9u" xml:lang="sv" type="speaker">
           — dess betänkanden:
         </note>
         <note xml:id="i-9uRHwcT6Q2Yob6RwupUeFL" xml:lang="sv">
@@ -30244,7 +30264,7 @@
         <note xml:id="i-AgiqrzxwodEAbEAjRAkFGH" xml:lang="sv">
           dess afgifna meddelanden, uttalanden, apmärkningar o. för-
         </note>
-        <note xml:id="i-W7Dt4UXNBC5VP98bdLwnAK" xml:lang="sv">
+        <note xml:id="i-W7Dt4UXNBC5VP98bdLwnAK" xml:lang="sv" type="speaker">
           klaringar:
         </note>
         <note xml:id="i-3NHPKsPF8gqQ32Pb8BxjEM" xml:lang="unknown">
@@ -30305,7 +30325,7 @@
         <note xml:id="i-T2VKdzgxcS5atVrUyJNyAG" xml:lang="sv">
           Mannerheim, Grefve Carl Robert, Kammarjunkare, Affirsman. 1 3
         </note>
-        <note xml:id="i-LBGYby41ARsQtzcH3d8euZ" xml:lang="sv">
+        <note xml:id="i-LBGYby41ARsQtzcH3d8euZ" xml:lang="sv" type="speaker">
           dess yttrande:
         </note>
         <note xml:id="i-BEGFQHVWCnFtjd4PahFCqJ" xml:lang="fi">
@@ -30384,7 +30404,7 @@
         <note xml:id="i-JDVomyk9JUQEujjnAJmTi6" xml:lang="unknown">
           Register. 975
         </note>
-        <note xml:id="i-RJVYQitoFEneisz2v2Rw9B" xml:lang="sv">
+        <note xml:id="i-RJVYQitoFEneisz2v2Rw9B" xml:lang="sv" type="speaker">
           dess yttranden:
         </note>
         <note xml:id="i-Ff5CgHogUw8H33RRL3GHyW" xml:lang="sv">
@@ -30420,7 +30440,7 @@
         <note xml:id="i-WejRaLYhiZYEn8VuhSfteC" xml:lang="sv">
           dess tal vid detta tillfälle. II. 927—929.
         </note>
-        <note xml:id="i-Qt5CZrCoCGAb7yMLd6CXCR" xml:lang="sv">
+        <note xml:id="i-Qt5CZrCoCGAb7yMLd6CXCR" xml:lang="sv" type="speaker">
           dess yttrande:
         </note>
         <note xml:id="i-DDRb7f9kQsicVicmLH4PoE" xml:lang="sv">
@@ -30764,7 +30784,7 @@
         <note xml:id="i-6MnX1VieN1jG6Lb1ooTvat" xml:lang="sv">
           Protokollen vid urtima landtdagen 1899. II. 738—739,
         </note>
-        <note xml:id="i-SCWNC3dMzkEa5uRSG9cMzz" xml:lang="sv">
+        <note xml:id="i-SCWNC3dMzkEa5uRSG9cMzz" xml:lang="sv" type="speaker">
           774—1775, 779. N Protokollföringen vid Ständet. 1 36—38, 45—47.
           Protokollsutdrag:
         </note>
@@ -30969,7 +30989,7 @@
         <note xml:id="i-Rbbfnv3RX7vgHgxn4oxFpE" xml:lang="unknown">
           638, 711, 713—736.
         </note>
-        <note xml:id="i-H1ssvCrP9CyjLVX3ShcqXF" xml:lang="sv">
+        <note xml:id="i-H1ssvCrP9CyjLVX3ShcqXF" xml:lang="sv" type="speaker">
           dess yttranden:
         </note>
         <note xml:id="i-MCTsX9QbMrAFhEmLwaoi8r" xml:lang="unknown">
@@ -31009,7 +31029,7 @@
         <note xml:id="i-K6VZ8AG2bnSKtY3eUP5Xup" xml:lang="sv">
           PEE" &gt; suppleant i St. U. II. 760.
         </note>
-        <note xml:id="i-39AghepDAtBHcU8KfRur7n" xml:lang="sv">
+        <note xml:id="i-39AghepDAtBHcU8KfRur7n" xml:lang="sv" type="speaker">
           dess yttranden:
         </note>
         <note xml:id="i-T5biNtSwPYfF17vJeL4k42" xml:lang="unknown">
@@ -31037,7 +31057,7 @@
           von KN Johan Gerhard, Med. Licentiat, Kommunalläkare. U. P. 25/,.
           1. 346.
         </note>
-        <note xml:id="i-PDmiJs8Cw4vWFRr5uT5CAU" xml:lang="sv">
+        <note xml:id="i-PDmiJs8Cw4vWFRr5uT5CAU" xml:lang="sv" type="speaker">
           dess yttrande:
         </note>
         <note xml:id="i-VRHdC1QR9h8BhUkd7dsGDm" xml:lang="fi">
@@ -31067,7 +31087,7 @@
           Segerstråle,. Johan Viktor, Filos. Magister, Kollegiiassessor.
           U. P. 13/,. L. 91.
         </note>
-        <note xml:id="i-TKw8EGEDyw8N7AwpAUzZNR" xml:lang="sv">
+        <note xml:id="i-TKw8EGEDyw8N7AwpAUzZNR" xml:lang="sv" type="speaker">
           dess yttranden:
         </note>
         <note xml:id="i-UDGb31wZsVg9bDaaA4ACWC" xml:lang="unknown">
@@ -31091,7 +31111,7 @@
         <note xml:id="i-KFR6KwonkgwbZ1iqYxw2os" xml:lang="sv">
           utsedd till ledamot af Stora deputationen. I. 11.
         </note>
-        <note xml:id="i-MnTBRqoagJNziynoDeUJLD" xml:lang="sv">
+        <note xml:id="i-MnTBRqoagJNziynoDeUJLD" xml:lang="sv" type="speaker">
           dess yttranden:
         </note>
         <note xml:id="i-YNChBVJhekHTm91xah5qmS" xml:lang="fi">
@@ -31126,7 +31146,7 @@
         <note xml:id="i-XdW3nE3VMtnqyQVWBTjSMC" xml:lang="sv">
           befriad från detta uppdrag. I. 170.
         </note>
-        <note xml:id="i-GDQC5444G4sXRwEm7HCcwE" xml:lang="sv">
+        <note xml:id="i-GDQC5444G4sXRwEm7HCcwE" xml:lang="sv" type="speaker">
           dess yttranden:
         </note>
         <note xml:id="i-Hx4nLkqLcvynTvTH7UCfyY" xml:lang="unknown">
@@ -31144,7 +31164,7 @@
         <note xml:id="i-GuXZvJQGRX1JhkkDcYEhhr" xml:lang="unknown">
           33, 36, 39, 73, 96, 118, 120, 167. II. 760, 785.
         </note>
-        <note xml:id="i-95BB3vMxQWtcB4RejUUY3S" xml:lang="sv">
+        <note xml:id="i-95BB3vMxQWtcB4RejUUY3S" xml:lang="sv" type="speaker">
           dess betänkanden jemte till dem hörande skrifvelser:
         </note>
         <note xml:id="i-EZfYLxEWRCfPNMfQwaz7TY" xml:lang="sv">
@@ -31200,7 +31220,7 @@
           af bevillningsbudgeten för åren 1906 och 1907. II. 476, 553—556.
           Afgj. 557.
         </note>
-        <note xml:id="i-TjyTmJt9tmL9coLXiJivq8" xml:lang="sv">
+        <note xml:id="i-TjyTmJt9tmL9coLXiJivq8" xml:lang="sv" type="speaker">
           dess skrifvelser:
         </note>
         <note xml:id="i-S9tHHCDruneH4fuK1sF3V9" xml:lang="sv">
@@ -31221,7 +31241,7 @@
         <note xml:id="i-EU8smZWHy3R7jmn4zD8ypS" xml:lang="unknown">
           Stjernschantz, Wilhelm, Gardeslöjtnant. I. 6.
         </note>
-        <note xml:id="i-33BPWYWpm9J885FXd3HPqe" xml:lang="sv">
+        <note xml:id="i-33BPWYWpm9J885FXd3HPqe" xml:lang="sv" type="speaker">
           dess yttrande:
         </note>
         <note xml:id="i-4KUvRTD9Pgv7EdRs5diFUX" xml:lang="unknown">
@@ -31230,7 +31250,7 @@
         <note xml:id="i-ReysmFGNB6BZqGpukc2pCf" xml:lang="unknown">
           Stjernvall, Fredrik Gustaf Otto Selim, Senator. I. 12.
         </note>
-        <note xml:id="i-BvFJSsEAerc1NZiCdxXz3s" xml:lang="sv">
+        <note xml:id="i-BvFJSsEAerc1NZiCdxXz3s" xml:lang="sv" type="speaker">
           dess yttrande:
         </note>
         <note xml:id="i-Nvewvo89pszkdjeeJ516JQ" xml:lang="sv">
@@ -31328,7 +31348,7 @@
           sig med R. o. A.i frägan om regeringsledamöternas ansvarsskyldighet
           inför representationen. IL. 878.
         </note>
-        <note xml:id="i-D2GwvoUpkuGX4vYCUqGwnP" xml:lang="sv">
+        <note xml:id="i-D2GwvoUpkuGX4vYCUqGwnP" xml:lang="sv" type="speaker">
           — dess yttranden:
         </note>
         <note xml:id="i-JxTz6AfSHGq7DhpvULeHVx" xml:lang="fi">
@@ -31376,7 +31396,7 @@
         <note xml:id="i-Dd9JPbXCohft7ws6jUQSCq" xml:lang="sv">
           till Talmanskonferensen. I. 31, 171. II. 760, 795.
         </note>
-        <note xml:id="i-BJ3uyhZcRry6NM27Hebzi" xml:lang="sv">
+        <note xml:id="i-BJ3uyhZcRry6NM27Hebzi" xml:lang="sv" type="speaker">
           till Utskotten :
         </note>
         <note xml:id="i-L1eAL4aSELzHVYHZbuQMbL" xml:lang="unknown">
@@ -31428,10 +31448,14 @@
         <note xml:id="i-3DLbjnYf3NCRko3W9Ki5UA" xml:lang="unknown">
           af valmän. I. 30, 293. IL 757, 793—794.
         </note>
-        <note xml:id="i-CeU2UP2NeqmdW5mXi4xpyu" xml:lang="sv">
-          Valmän. Val af R. o. A:s = 1. 30, 293. 11. 757, 793—794. Vieelandtmarskalk
-          :
+        <note xml:id="i-CeU2UP2NeqmdW5mXi4xpyu" xml:lang="sv" type="speaker">
+          Valmän. Val af R. o. A:
         </note>
+        <u who="unknown">
+          <seg>
+            s = 1. 30, 293. 11. 757, 793—794. Vieelandtmarskalk :
+          </seg>
+        </u>
         <note xml:id="i-H1qsbXe7g1gGacmSW5q3QX" xml:lang="sv">
           Öfverdirektören Clas Alexis Constantin Gripenberg. Se under denna
           rubrik.
@@ -31476,7 +31500,7 @@
         <note xml:id="i-4aA6k5644EYCETs7mAehta" xml:lang="fi">
           » &gt; valman. I. 30.
         </note>
-        <note xml:id="i-6CKEkCmTHh3JGeb56oHCu7" xml:lang="sv">
+        <note xml:id="i-6CKEkCmTHh3JGeb56oHCu7" xml:lang="sv" type="speaker">
           » &gt;» ledamot af förstärkta Bev. U. I. 168. dess yttrande:
         </note>
         <note xml:id="i-BAXQNm4kZvAaFcUeQM9FEL" xml:lang="sv">
@@ -31505,7 +31529,7 @@
         <note xml:id="i-5vMqPbHqyvuwyQQXtUvQEY" xml:lang="unknown">
           330—333.
         </note>
-        <note xml:id="i-8ZebDGoub3pjtqpvV9PQwW" xml:lang="sv">
+        <note xml:id="i-8ZebDGoub3pjtqpvV9PQwW" xml:lang="sv" type="speaker">
           dess yttranden:
         </note>
         <note xml:id="i-B4gU5nY2UCpNWTHHjoUALy" xml:lang="unknown">
@@ -31542,7 +31566,7 @@
         <note xml:id="i-HuafZ7bsdwbcxQBGRoTCxS" xml:lang="sv">
           713-—736.
         </note>
-        <note xml:id="i-9Byn5w1BKbmHqt5DZj9eKP" xml:lang="sv">
+        <note xml:id="i-9Byn5w1BKbmHqt5DZj9eKP" xml:lang="sv" type="speaker">
           dess yttranden:
         </note>
         <note xml:id="i-GLaUJWxwse4vvoDHdScNPP" xml:lang="unknown">
@@ -31643,7 +31667,7 @@
         <note xml:id="i-2fq4DDn13SgqmpNHffiuqc" xml:lang="sv">
           Wrede, Frih. Carl Gustaf Garibaldi Fabian, Bruksegare. I. 8.
         </note>
-        <note xml:id="i-5TuC1v2aKXY8tfSAxTqyTq" xml:lang="sv">
+        <note xml:id="i-5TuC1v2aKXY8tfSAxTqyTq" xml:lang="sv" type="speaker">
           dess yttranden:
         </note>
         <note xml:id="i-VCjXZLkWd2w5h4cKaXdRCF" xml:lang="fi">
@@ -31665,7 +31689,7 @@
         <note xml:id="i-UBHkdA3g6wVA4cDnQMN2ei" xml:lang="sv">
           i Kejserliga Senatens för Finland Justitiedepartement. L. 3.
         </note>
-        <note xml:id="i-BcW4PKJLmRCJfB9XURuaj5" xml:lang="sv">
+        <note xml:id="i-BcW4PKJLmRCJfB9XURuaj5" xml:lang="sv" type="speaker">
           dess yttranden:
         </note>
         <note xml:id="i-3yPo759YJqC53hRY8LAwp9" xml:lang="unknown">
@@ -31695,7 +31719,7 @@
         <note xml:id="i-Wyz5sgJJ9hhAT5Fv85SZdB" xml:lang="fi">
           si % » valman. IL. 757.
         </note>
-        <note xml:id="i-8wQWE5oE7nttx8BxJBABnE" xml:lang="sv">
+        <note xml:id="i-8wQWE5oE7nttx8BxJBABnE" xml:lang="sv" type="speaker">
           dess yttranden:
         </note>
         <note xml:id="i-DdXoYYuyJNke7SSQUD6UbD" xml:lang="unknown">
@@ -31719,7 +31743,7 @@
         <note xml:id="i-J2CaUJUTjco8CtQwUfVGRk" xml:lang="sv">
           — &gt; » ordförande i Ek. U. 1 78
         </note>
-        <note xml:id="i-DjxvmgqHUwgQu6QALdiNVA" xml:lang="sv">
+        <note xml:id="i-DjxvmgqHUwgQu6QALdiNVA" xml:lang="sv" type="speaker">
           dess yttranden:
         </note>
         <note xml:id="i-NiBPkTcZhWEzZiw4ZUXj4K" xml:lang="unknown">
@@ -31748,7 +31772,7 @@
           dess yttrande: 1 271.
         </note>
         <pb facs="https://swerik-project.github.io/valtiopaivat-records-pdf/1905-1906/prot_1905-1906_adeln_II/prot_1905-1906_adeln_II-0521"/>
-        <note xml:id="i-YZSZxAfP4WUinwG91Ja2s8" xml:lang="sv">
+        <note xml:id="i-YZSZxAfP4WUinwG91Ja2s8" xml:lang="sv" type="speaker">
           Rättelser:
         </note>
         <note xml:id="i-QG3A7G32yHCkqfqJxU6zZd" xml:lang="sv" type="speaker">
@@ -32034,14 +32058,14 @@
           kvittenser öfver erlagda nedannämnda introduktionsafgifter, nämligen
           :
         </note>
-        <note xml:id="i-FKnxRrg1QKkdx6Cf7sRYrt" xml:lang="sv">
+        <note xml:id="i-FKnxRrg1QKkdx6Cf7sRYrt" xml:lang="sv" type="speaker">
           till Riddarhuskassan:
         </note>
         <note xml:id="i-FGd42cekUbWSn1wDsKGoCs" xml:lang="sv">
           för Grefve fyratusen, för Friherre tretusen tvähundra, och för
           Adelsman femtusen mark, samt
         </note>
-        <note xml:id="i-AcaP4ifyn1Ro8MnXYbyTLL" xml:lang="sv">
+        <note xml:id="i-AcaP4ifyn1Ro8MnXYbyTLL" xml:lang="sv" type="speaker">
           till Jungfrustiftskassan:
         </note>
         <note xml:id="i-KsBPikufJNr8S8vxuUoX9B" xml:lang="sv">
@@ -32149,7 +32173,7 @@
           3, 4 och 5 af nästföljande $ upptagna orsaker oberättigad att
           intaga säte å Riddarhuset, inträde närmaste ätteman i full hufvudmannarätt.
         </note>
-        <note xml:id="i-HBdaeZK4793WTJSmve7RgS" xml:lang="sv">
+        <note xml:id="i-HBdaeZK4793WTJSmve7RgS" xml:lang="sv" type="speaker">
           8 9. Från rättighet till säte och stämma ä Riddarhuset uteslutes:
         </note>
         <note xml:id="i-LTLMYc9KaPgStcATTBXRNc" xml:lang="sv">
@@ -32414,7 +32438,7 @@
           8 30. Utom frågor, som angå adelsmötes sammansättning och arbetssätt,
           må till öfverläggning och beslut förekomma,
         </note>
-        <note xml:id="i-XDjh6JHtWFNTEfPTDvYnTt" xml:lang="sv">
+        <note xml:id="i-XDjh6JHtWFNTEfPTDvYnTt" xml:lang="sv" type="speaker">
           vid lagtima adelsmöte:
         </note>
         <note xml:id="i-DCZMgj2EBRMBGagyPnQZYt" xml:lang="sv">
@@ -32438,7 +32462,7 @@
           4) motioner, som vid mötet väckas angående ändring af denna Riddarhusordning;
           samt
         </note>
-        <note xml:id="i-BwZuBTm9iycdqd3R5M7mcE" xml:lang="sv">
+        <note xml:id="i-BwZuBTm9iycdqd3R5M7mcE" xml:lang="sv" type="speaker">
           vid urtima adelsmöte:
         </note>
         <note xml:id="i-91EyhSfPXhEdrxc8xoS1Mf" xml:lang="sv">
@@ -33356,7 +33380,7 @@
         <note xml:id="i-8ZUrdUGYgP1nwQwig46J8B" xml:lang="sv">
           Helsingfors den 28 Juni 1906.
         </note>
-        <note xml:id="i-33NphoiL4ndXVGenfpPzoc" xml:lang="sv ">
+        <note xml:id="i-33NphoiL4ndXVGenfpPzoc" xml:lang="sv">
           Helsingfors 1906. Helsingfors Centraltryckeri.
         </note>
       </div>

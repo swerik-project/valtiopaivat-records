@@ -57,7 +57,7 @@
         <note xml:id="i-SEFcpQPta4wAJCGBq1Nryt" xml:lang="sv">
           Från den 3 April till den 13 Maj.
         </note>
-        <note xml:id="i-VJbGgMdGwwGaNY8wywkP6Y" xml:lang="sv ">
+        <note xml:id="i-VJbGgMdGwwGaNY8wywkP6Y" xml:lang="sv">
           HELSINGFORS,
         </note>
         <note xml:id="i-Vca4rKkxRFHLWKhgxhbmTj" xml:lang="sv">
@@ -18352,10 +18352,10 @@
         <note xml:id="i-HAXscsW3PZgggwsjur7w5B" xml:lang="sv">
           $$ 3, 4 och 5 gillades till alla delar.
         </note>
-        <note xml:id="i-9tHf2XXU2auM7kuXCQUKut" xml:lang="sv">
+        <note xml:id="i-9tHf2XXU2auM7kuXCQUKut" xml:lang="sv" type="speaker">
           med hänsyn till $ 6 beslöt sig ståndet för följande ändringar:
         </note>
-        <note xml:id="i-QQnukNpswkKnh4JQFrHfZW" xml:lang="sv">
+        <note xml:id="i-QQnukNpswkKnh4JQFrHfZW" xml:lang="sv" type="speaker">
           mom. a erhöll sådan formulering:
         </note>
         <note xml:id="i-EsFepCp91DTiCxBsPZs9Lh" xml:lang="sv">
@@ -18501,7 +18501,7 @@
           $ jämväl stadgande borde ingå om den i landets nordligare delar
           förekommande renskjutsen.
         </note>
-        <note xml:id="i-LxqD5mnRL2XCjAMnowaxTX" xml:lang="sv">
+        <note xml:id="i-LxqD5mnRL2XCjAMnowaxTX" xml:lang="sv" type="speaker">
           "Från bondeståndet med underrättelse:
         </note>
         <note xml:id="i-5MoVt24kpUAxVnNWBRChdy" xml:lang="sv">
@@ -21095,16 +21095,20 @@
         <note xml:id="i-Wmv99oy2sKDTjfYsvdUTdx" xml:lang="sv" type="speaker">
           :
         </note>
-        <u xml:id="i-SWf9TyQyVP1s6C2P9fC7qm" who="unknown">
-          <seg xml:id="i-465oUiHApd782JbPz84YpW" xml:lang="sv">
-            &gt; Herr Montgomery: Jag skall också för min del gerna förena
-            mig om ett sådant amendement, som herr Mechelin förslagit, ehuru
-            jag finner oegentligt att nu bestämma anslag, innan statsutskottets
-            "betänkande inkommit hvaraf man kan se, hvilka tillgångar kunna
-            för ändamålet päräknas. Men jag har enskilt fått mig upplyst,
-            att statsutskottet också anser en sådan summa som 8 mil- "joher
-            mark kunna användas för ändamålet och derför vill jag icke motsätta
-            mig, att R. o. A. nu uttalar sig angående densamma.
+        <u xml:id="i-SWf9TyQyVP1s6C2P9fC7qm" who="unknown"/>
+        <note xml:id="i-465oUiHApd782JbPz84YpW" xml:lang="sv" type="speaker">
+          &gt; Herr Montgomery:
+        </note>
+        <u who="unknown">
+          <seg>
+            Jag skall också för min del gerna förena mig om ett sådant amendement,
+            som herr Mechelin förslagit, ehuru jag finner oegentligt att nu
+            bestämma anslag, innan statsutskottets "betänkande inkommit hvaraf
+            man kan se, hvilka tillgångar kunna för ändamålet päräknas. Men
+            jag har enskilt fått mig upplyst, att statsutskottet också anser
+            en sådan summa som 8 mil- "joher mark kunna användas för ändamålet
+            och derför vill jag icke motsätta mig, att R. o. A. nu uttalar
+            sig angående densamma.
           </seg>
         </u>
         <note xml:id="i-2bZJvVBsthcja9iwV5yStb" xml:lang="sv">

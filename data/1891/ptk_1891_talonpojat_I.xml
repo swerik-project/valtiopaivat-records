@@ -23,18 +23,19 @@
     </encodingDesc>
   </teiHeader>
   <text>
-    <front>        <note xml:id="i-8r96XpfakmRVrET9Ja1sMs" xml:lang="sv">
-          År
-        </note>
-        <note xml:id="i-WcYY5x7q3H7Lw1ddxZLaxv" xml:lang="sv">
-          ” ”
-        </note>
-        <note xml:id="i-EfQPTkKryrbDj5peTvY1Hi" xml:lang="sv">
-          1819 1820 1821 1822 1823 1824 1825 1826
-        </note>
-        <note xml:id="i-SaaZhq9kHQeDCJZyGbK5kJ" xml:lang="unknown">
-          ” 1827 ” 1828 ” 1829
-        </note>
+    <front>
+      <note xml:id="i-8r96XpfakmRVrET9Ja1sMs" xml:lang="sv">
+        År
+      </note>
+      <note xml:id="i-WcYY5x7q3H7Lw1ddxZLaxv" xml:lang="sv">
+        ” ”
+      </note>
+      <note xml:id="i-EfQPTkKryrbDj5peTvY1Hi" xml:lang="sv">
+        1819 1820 1821 1822 1823 1824 1825 1826
+      </note>
+      <note xml:id="i-SaaZhq9kHQeDCJZyGbK5kJ" xml:lang="unknown">
+        ” 1827 ” 1828 ” 1829
+      </note>
       <div type="preface">
         <head>
           ptk_1891_talonpojat_I
@@ -70,12 +71,17 @@
         <note xml:id="i-PBpSdreUiP4cgsqAmFdqjx" xml:lang="sv">
           — 45
         </note>
-        <note xml:id="i-C2no2CVWi8jzXxuDhk2p57" xml:lang="fi">
-          Hänen : Majesteettinsa Keisari, Suomen Suuriruhtinas on armossa
-          katsonut hyväksi 3/20 päiväksi Tammikuuta tänne Helsingin kaupunkiin
-          kutsua Suomen valtiosäädyt kokoon varsinaisille valtiopäiville
-          näin kuuluvalla armollisella käskykirjeellä:
+        <note xml:id="i-C2no2CVWi8jzXxuDhk2p57" xml:lang="fi" type="speaker">
+          Hänen :
         </note>
+        <u who="unknown">
+          <seg>
+            Majesteettinsa Keisari, Suomen Suuriruhtinas on armossa katsonut
+            hyväksi 3/20 päiväksi Tammikuuta tänne Helsingin kaupunkiin kutsua
+            Suomen valtiosäädyt kokoon varsinaisille valtiopäiville näin kuuluvalla
+            armollisella käskykirjeellä:
+          </seg>
+        </u>
         <note xml:id="i-4ExFC4Y7XfdRFmTybhnugG" xml:lang="fi">
           Hänen Majesteettinsa Keisarin ja Suuriruhtinaan Armollinen Avoin
           Kirje ja Käsky
@@ -189,11 +195,11 @@
           varapuhemies ja sihteeri olivat Hänen Ylhäisyytensä Kenraalikuvernöörin
           edessä vannoneet Valtiopäiväjärjestyksessä määrätyn valan.
         </note>
-        <note xml:id="i-HtYa4DoPxm1kNtesbudUTN" xml:lang="fi">
+        <note xml:id="i-HtYa4DoPxm1kNtesbudUTN" xml:lang="fi" type="speaker">
           Astuttuansa sijallensa alkoi puhemies toimensa pitämällä säädylle
           seuraavan tervehdyspuheen:
         </note>
-        <note xml:id="i-932jRx2aQeJrJk8M9Lr4ci" xml:lang="fi">
+        <note xml:id="i-932jRx2aQeJrJk8M9Lr4ci" xml:lang="fi" type="speaker">
           Arvoisa Talonpoikaissääty!
         </note>
         <note xml:id="i-R1cjwJGxgKaPqBEhrvh2Dg" xml:lang="fi">
@@ -246,7 +252,7 @@
           ja minun että hänen ja säädyn välillä. Suokoon Jumala, että työmme
           näilläkin valtiopäivillä olisi isänmaalle hyödyksi!»
         </note>
-        <note xml:id="i-KPiuZUMsYP1LmzjpLqwWdH" xml:lang="fi">
+        <note xml:id="i-KPiuZUMsYP1LmzjpLqwWdH" xml:lang="fi" type="speaker">
           Tämän jälkeen lausui säädyn sihteeri seuraavat sanat:
         </note>
         <note xml:id="i-VdtSvb3zTreU2ebL54Hd2Q" xml:lang="fi">
@@ -815,7 +821,7 @@
         <note xml:id="i-DaCsKi1mxbWTUQ3ZtPa4h8" xml:lang="fi">
           Tämän tehtyä lähti lähetystö täyttämään tointansa.
         </note>
-        <note xml:id="i-N2oqa7a1FJxDy6J8q7ueKu" xml:lang="fi">
+        <note xml:id="i-N2oqa7a1FJxDy6J8q7ueKu" xml:lang="fi" type="speaker">
           Tavan mukaan vastaanotettuna astui sisään Porvarissäädyn tervehdys-lähetystö,
           jonka johtaja tuomiokapitulin sihteeri A. Herckman suomenkielellä
           lausui:
@@ -850,7 +856,7 @@
           talonpoikaissäädyssä. Talonpoikaissääty pyytää sydämellisesti
           samoin saada olla suljettuna porvarissäädyn suosioon.'*
         </note>
-        <note xml:id="i-Pik5kavo7Zf2Wady6VZ4LW" xml:lang="fi">
+        <note xml:id="i-Pik5kavo7Zf2Wady6VZ4LW" xml:lang="fi" type="speaker">
           Porvarissäädyn lähetystön poistuttua ilmoitettiin saapuneen ja
           vastaan otettiin Ritariston ja Aatelin tervehdys-lähetystö, jonka
           johtaja maanviljelysneuvos N. Grotenfelt sekä suomen että ruotsinkielellä
@@ -941,7 +947,7 @@
           arvoisa puhemies ja kunnioitettavan Talonpoikaissäädyn suosioon
           ja hyvään mieleen.
         </note>
-        <note xml:id="i-Mtq3ZHCxhWnWzywcEeZqaR" xml:lang="fi">
+        <note xml:id="i-Mtq3ZHCxhWnWzywcEeZqaR" xml:lang="fi" type="speaker">
           Puhemies lausui vastaukseksi seuraavat sanat:
         </note>
         <note xml:id="i-UoMs9ATY76mckB36ugyJzg" xml:lang="fi">
@@ -952,7 +958,7 @@
           Aatelissa, tulee vallitsemaan myös Talonpoikaissäädyssä. Talonpoikaissääty
           pyytää sulkeutua Ritariston ja Aatelin ystävyyteen ja suosioon.
         </note>
-        <note xml:id="i-9PNuqFySj3AaM4bDu5ZecP" xml:lang="fi">
+        <note xml:id="i-9PNuqFySj3AaM4bDu5ZecP" xml:lang="fi" type="speaker">
           Sittenkun Ritariston ja Aatelin lähetystö oli poistunut, astui
           esiin Pappissäädyn lähetystö, jonka johtaja, läänin rovasti V.
           L. Helander suomenkielellä lausui seuraavat sanat:
@@ -1041,7 +1047,7 @@
           pyytää sentähden näillä tervehdyssanoilla sulkeutua arvoisan Talonpoikaissäädyn
           ystävällisyyteen ja suosioon.'
         </note>
-        <note xml:id="i-3dVyRYeBsbHqjCyy1Tw1Rd" xml:lang="fi">
+        <note xml:id="i-3dVyRYeBsbHqjCyy1Tw1Rd" xml:lang="fi" type="speaker">
           Puhemies kiitti tervehdyksestä seuraavilla sanoilla:
         </note>
         <note xml:id="i-2VtZaToAt164qentHF2nHd" xml:lang="fi">
@@ -1187,7 +1193,7 @@
           Keisarille ja Suuriruhtinaalle. Talonpoikaissäädyn Puhemiehen
           tässä tilaisuudessa suomeksi lausuma puhe kuului näin:
         </note>
-        <note xml:id="i-NJhsb4rLyPRuVXR7wwkbtw" xml:lang="sv">
+        <note xml:id="i-NJhsb4rLyPRuVXR7wwkbtw" xml:lang="sv" type="speaker">
           , Herra Kreivi!
         </note>
         <note xml:id="i-CqvTo3AT6rWNQaAdNczMDg" xml:lang="fi">
@@ -1853,7 +1859,7 @@
           suomentaa vastauksensa ja lähettänyt sen Puhemiehelle Talonpoikaissäädyssä
           luettavaksi.
         </note>
-        <note xml:id="i-Ma4F6rxx3cLAYKoWKN5B7c" xml:lang="sv">
+        <note xml:id="i-Ma4F6rxx3cLAYKoWKN5B7c" xml:lang="sv" type="speaker">
           Herra Maamarsalkan vastauspuhe oli suomennettuna näin kuuluva;
         </note>
         <note xml:id="i-7ZnRok3y6v3shADEobAqpD" xml:lang="fi">
@@ -3261,7 +3267,7 @@
           allamainitut henkilöt, jättäen tarkastettaviksi heille annetut
           valtuuskirjat, nimittäin :
         </note>
-        <note xml:id="i-BoRaLGsSSeu4sRVXKUcWdX" xml:lang="sv">
+        <note xml:id="i-BoRaLGsSSeu4sRVXKUcWdX" xml:lang="sv" type="speaker">
           I Bondeständet:
         </note>
         <note xml:id="i-F4XdBDitd3AXx8cAhdYXux" xml:lang="sv">
@@ -3295,9 +3301,14 @@
         <note xml:id="i-2WcgYZmZAwz27NkWWzrMWz" xml:lang="fi">
           Raaseporin tuomiokunnan puolesta: Kartanonomistaja Erik Strähle.
         </note>
-        <note xml:id="i-EcHNpcC5JLRBPb6PF5kaG8" xml:lang="fi">
-          Lohjan tuomiokunnan puolesta: Rusthollari Kaarle Ojanen.
+        <note xml:id="i-EcHNpcC5JLRBPb6PF5kaG8" xml:lang="fi" type="speaker">
+          Lohjan tuomiokunnan puolesta:
         </note>
+        <u who="unknown">
+          <seg>
+            Rusthollari Kaarle Ojanen.
+          </seg>
+        </u>
         <note xml:id="i-Sxbf3yyg9m5d7xV758nxw6" xml:lang="fi">
           Helsingin tuomiokunnan puolesta: Filosofianmaisteri Edvard Duncker.
         </note>
@@ -3376,9 +3387,14 @@
         <note xml:id="i-42m1n5ZgY6bMsiUNbgEN2e" xml:lang="fi">
           lesta: Kunnallisneuvos Edvin Avellan. Euran tuomiokunnan puo-
         </note>
-        <note xml:id="i-Cz21H6R51p89fMbyYpGKcq" xml:lang="fi">
-          lesta: Rusthollari Wilhelm Witikkala:
+        <note xml:id="i-Cz21H6R51p89fMbyYpGKcq" xml:lang="fi" type="speaker">
+          lesta:
         </note>
+        <u who="unknown">
+          <seg>
+            Rusthollari Wilhelm Witikkala:
+          </seg>
+        </u>
         <note xml:id="i-WGim8db6cdce6DTM9KMU7p" xml:lang="fi">
           Wehmaan tuomiokunnan puolesta: Agronomi Uno Bremer.
         </note>
@@ -3590,18 +3606,28 @@
         <note xml:id="i-M7zKFwW3vRpJWtNKtMaR2u" xml:lang="fi">
           För Jokkas domsaga: Häradsdomaren Kaarle Muttilainen.
         </note>
-        <note xml:id="i-XVX3QAjkpPMsuLgYqyxKVH" xml:lang="fi">
-          Jääsken tuomiokunnan puolesta: Maanviljelijä Erik Pöysti.
+        <note xml:id="i-XVX3QAjkpPMsuLgYqyxKVH" xml:lang="fi" type="speaker">
+          Jääsken tuomiokunnan puolesta:
         </note>
+        <u who="unknown">
+          <seg>
+            Maanviljelijä Erik Pöysti.
+          </seg>
+        </u>
         <note xml:id="i-U4PaCrdiD8bHs2ardhMzPf" xml:lang="fi">
           Äyräpään tuomiokunnan puolesta: Talollinen Tuomas Poutiainen.
         </note>
         <note xml:id="i-3AFA1yP9WJ8G6HRfkcHjfo" xml:lang="fi">
           Käkisalmen — tuomiokunnan puolesta: Talollinen Sipro Ryösä.
         </note>
-        <note xml:id="i-12AHoSXMsuk8ip5ATQvXKd" xml:lang="fi">
-          Kurkijoen tuomiokunnan puolesta: Liikemies Jaakko Häkli.
+        <note xml:id="i-12AHoSXMsuk8ip5ATQvXKd" xml:lang="fi" type="speaker">
+          Kurkijoen tuomiokunnan puolesta:
         </note>
+        <u who="unknown">
+          <seg>
+            Liikemies Jaakko Häkli.
+          </seg>
+        </u>
         <note xml:id="i-QRAWsuYbwbNhgo5Axe6AZA" xml:lang="fi">
           Sortavalan tuomiokunnan puolesta: Lukkari Kaarle Heikki Teittinen.
           .
@@ -3723,7 +3749,7 @@
         <note xml:id="i-HxSNhXXGuiAryAM4rV6jo3" xml:lang="fi">
           3 p. Helmik. 57
         </note>
-        <note xml:id="i-4tmCWs1ePn883XXYqgAc48" xml:lang="fi">
+        <note xml:id="i-4tmCWs1ePn883XXYqgAc48" xml:lang="fi" type="speaker">
           Arvoisalle Talonpoikaissäädylle.
         </note>
         <note xml:id="i-JzyJmbDgkoaW3HCkdhekjU" xml:lang="fi">
@@ -3857,7 +3883,7 @@
         <note xml:id="i-TVJsay23aR6wiBEMxaLxJt" xml:lang="fi">
           Esitettiin seuraava edusmies Heikuran tekemä anomusesitys:
         </note>
-        <note xml:id="i-2969LPVaZYYRpBmgfAmxUS" xml:lang="fi">
+        <note xml:id="i-2969LPVaZYYRpBmgfAmxUS" xml:lang="fi" type="speaker">
           Arvoisalle Talonpoikaissäädylle.
         </note>
         <note xml:id="i-CzVVhRNWM1NhEeMmJcG4d2" xml:lang="fi">
@@ -4006,11 +4032,11 @@
         <note xml:id="i-UaQmRxR3v1k8kBVQny7DfL" xml:lang="fi">
           3 p. Helmik. 61
         </note>
-        <note xml:id="i-FCUqXSuo7utDPxyCTJGYPe" xml:lang="fi">
+        <note xml:id="i-FCUqXSuo7utDPxyCTJGYPe" xml:lang="fi" type="speaker">
           Esitettiin edusmiesten Heikuran ja Pitkäsen säädylle jät tämä
           näin kuuluva anomusesitys:
         </note>
-        <note xml:id="i-S9yMJ8ysJbFLo1HwqA8GPL" xml:lang="fi">
+        <note xml:id="i-S9yMJ8ysJbFLo1HwqA8GPL" xml:lang="fi" type="speaker">
           Arvoisalle Talonpoissäädylle.
         </note>
         <note xml:id="i-8dhjmqZ793dS4sKPopB4Kw" xml:lang="fi">
@@ -4061,7 +4087,7 @@
         <note xml:id="i-3W8NWVZvoFQ74AH8E9rADd" xml:lang="fi">
           62 3 p. Helmik.
         </note>
-        <note xml:id="i-GDMyKV22SFgM7uy8cYyEEd" xml:lang="fi">
+        <note xml:id="i-GDMyKV22SFgM7uy8cYyEEd" xml:lang="fi" type="speaker">
           Arvoisalle Talonpoikaissäädylle.
         </note>
         <note xml:id="i-55SEe6K5YF4yw4SmF2dGEv" xml:lang="fi">
@@ -4188,10 +4214,10 @@
           Edusmies Kydanderin ehdotuksesta pantiin esitys pöydälle samoin
           kuin edellinenkin.
         </note>
-        <note xml:id="i-MBrfP8kTrxoxVrrAL1QSgt" xml:lang="fi">
+        <note xml:id="i-MBrfP8kTrxoxVrrAL1QSgt" xml:lang="fi" type="speaker">
           Esitettiin edusmies Konkolan tekemä näin kuuluva anomusesitys:
         </note>
-        <note xml:id="i-8PyD9gYpPoaL8Snwn3wxkf" xml:lang="fi">
+        <note xml:id="i-8PyD9gYpPoaL8Snwn3wxkf" xml:lang="fi" type="speaker">
           Arvoisalle Talonpoikaissäädylle!
         </note>
         <note xml:id="i-3UNEkk5sTqoezvKjAHNjMz" xml:lang="fi">
@@ -4490,7 +4516,7 @@
         <note xml:id="i-2umkGfbqvvxqkvpXWa42Xq" xml:lang="fi">
           1) Edusmies Brusilan näin kuuluva anomus:
         </note>
-        <note xml:id="i-52ic3aXHXtgh868XBRa6dK" xml:lang="fi">
+        <note xml:id="i-52ic3aXHXtgh868XBRa6dK" xml:lang="fi" type="speaker">
           Arvoisalle Talonpoikaissäädylle!
         </note>
         <note xml:id="i-TidZU8fyLW9FiCsKgaQFig" xml:lang="fi">
@@ -4574,7 +4600,7 @@
         <note xml:id="i-N843K3zNM82kSLSWQD9Gc9" xml:lang="fi">
           2) Edusmies Kiipulan ynnä muiden allekirjoittama anomusesitys:
         </note>
-        <note xml:id="i-4jBhiPMH4McdYr8ypoav2j" xml:lang="fi">
+        <note xml:id="i-4jBhiPMH4McdYr8ypoav2j" xml:lang="fi" type="speaker">
           Arvoisalle Talonpoikaissäädylle.
         </note>
         <note xml:id="i-7iTz1EyN8FaEvWc2NFEPQ7" xml:lang="fi">
@@ -4748,7 +4774,7 @@
           Esitettiin seuraava edusmies kansakoulunopettaja Koiviston tekemä
           anomusehdotus:
         </note>
-        <note xml:id="i-2C4AkvrMD1inYYrcirsecy" xml:lang="fi">
+        <note xml:id="i-2C4AkvrMD1inYYrcirsecy" xml:lang="fi" type="speaker">
           Arvoisalle Talonpoikaissäädylle.
         </note>
         <note xml:id="i-LHXbVYMcMKkKDgyWeNwjD9" xml:lang="fi">
@@ -4822,11 +4848,11 @@
           Kun ei kukaan ollut anomusesitystä kannattanut, niin katsottiin
           sääty sen hyljänneeksi.
         </note>
-        <note xml:id="i-UDipqaqaf3cx1yZta1fy7t" xml:lang="fi">
+        <note xml:id="i-UDipqaqaf3cx1yZta1fy7t" xml:lang="fi" type="speaker">
           Esitettiin edusmies kansankoulunopettaja Koiviston tekemä näin
           kuuluva anomusesitys:
         </note>
-        <note xml:id="i-PB6Ef12yxVzCzJ2Kid2hu8" xml:lang="fi">
+        <note xml:id="i-PB6Ef12yxVzCzJ2Kid2hu8" xml:lang="fi" type="speaker">
           Arvoisalle Talonpoikaissäädylle.
         </note>
         <note xml:id="i-E8ALBMADo5nfWQinpqoZqV" xml:lang="fi">
@@ -4983,11 +5009,11 @@
           Kun tämän jälkeen tapahtuneessa julki-äänestyksessä eiäänet olivat
           tuntuvasti voitolla, katsottiin anomusesitys sen johdosta hyljätyksi.
         </note>
-        <note xml:id="i-9H9AQve4qqiatJEwu3HXM3" xml:lang="fi">
+        <note xml:id="i-9H9AQve4qqiatJEwu3HXM3" xml:lang="fi" type="speaker">
           Esitettiin edusmies kansakoulunopettaja Koiviston tekemä näin
           kuuluva anomusesitys:
         </note>
-        <note xml:id="i-XGuSxt2J723F9su9RRwNKe" xml:lang="fi">
+        <note xml:id="i-XGuSxt2J723F9su9RRwNKe" xml:lang="fi" type="speaker">
           Arvoisalle Talonpoikaissäädylle.
         </note>
         <note xml:id="i-SgEwAE9x2fhRwLQcAwGNX3" xml:lang="fi">
@@ -5224,11 +5250,11 @@
           Päätös: Toimitetussa julki-äänestyksessä havaittiin ei-äänet
           olleen voitolla ja katsottiin anomusesitys sen johdosta hyljätyksi.
         </note>
-        <note xml:id="i-ARfCzkJPgT1Xv4tDP7rQqk" xml:lang="fi">
+        <note xml:id="i-ARfCzkJPgT1Xv4tDP7rQqk" xml:lang="fi" type="speaker">
           Esitettiin edusmies kansakoulunopettaja Koiviston säädylle jättämä
           anomusesitys:
         </note>
-        <note xml:id="i-MgGXgCG1PtCkv9cfmhkG4T" xml:lang="fi">
+        <note xml:id="i-MgGXgCG1PtCkv9cfmhkG4T" xml:lang="fi" type="speaker">
           Arvoisalle Talonpoikaissäädylle.
         </note>
         <note xml:id="i-WvZfRey5vzcRxL38LY1XAX" xml:lang="fi">
@@ -5331,11 +5357,11 @@
         <note xml:id="i-KsJionAkuVwDGjYpTEDkiv" xml:lang="fi">
           Sääty yksimielisesti hyljäsi anomuksen ilman äänestystä.
         </note>
-        <note xml:id="i-KDxdrFtweuG1M6UyigSrWZ" xml:lang="fi">
+        <note xml:id="i-KDxdrFtweuG1M6UyigSrWZ" xml:lang="fi" type="speaker">
           Esitettiin edusmies kansakoulunopettaja Koiviston tekemä näin
           kuuluva anomusesitys:
         </note>
-        <note xml:id="i-W98KuWu8GVbCFPk67YjN1M" xml:lang="fi">
+        <note xml:id="i-W98KuWu8GVbCFPk67YjN1M" xml:lang="fi" type="speaker">
           Arvoisalle Talonpoikaissäädylle.
         </note>
         <note xml:id="i-CPapWFU5M2MF9bqHHpFcgX" xml:lang="fi">
@@ -5434,11 +5460,11 @@
           kaksi Säädyn jäsentä oli pyytänyt anomusta pöydälle, jätettiin
           sen käsitteleminen ensi istuntoon.
         </note>
-        <note xml:id="i-8WU61R4W8jqk4A5ABkoSqN" xml:lang="fi">
+        <note xml:id="i-8WU61R4W8jqk4A5ABkoSqN" xml:lang="fi" type="speaker">
           Esitettiin edusmies kansakoulunopettaja Koiviston säädylle jättämä
           näin kuuluva anomusesitys:
         </note>
-        <note xml:id="i-QTZ5dXnH63RZ4QuuSEZg2X" xml:lang="fi">
+        <note xml:id="i-QTZ5dXnH63RZ4QuuSEZg2X" xml:lang="fi" type="speaker">
           Arvoisalle Talonpoikaissäädylle.
         </note>
         <note xml:id="i-U7t24kNQZ7c2915LiPa21o" xml:lang="fi">
@@ -5500,7 +5526,7 @@
           Esitettiin edusmies kansakoulunopettaja Koiviston, y. m. näin
           kuuluva anomusesitys: N
         </note>
-        <note xml:id="i-6uxmUxSLmtFjZN3P8yf4K5" xml:lang="fi">
+        <note xml:id="i-6uxmUxSLmtFjZN3P8yf4K5" xml:lang="fi" type="speaker">
           Arvoisalle Talonpoikaissäädylle.
         </note>
         <note xml:id="i-PaN71wRe8QXpCToFjVyQU3" xml:lang="fi">
@@ -5593,11 +5619,15 @@
           Koska asiata oli laillisessa järjestyksessä pyydetty pöydälle,
           jätettiin se käyteltäväksi ensi istunnossa.
         </note>
-        <note xml:id="i-Ybvo88kFdKLQJLqWm1PvNN" xml:lang="fi">
+        <note xml:id="i-Ybvo88kFdKLQJLqWm1PvNN" xml:lang="fi" type="speaker">
           Esitettiin edusmies Leppäsen y. m. näin kuuluva anomusesitys:
-          :
         </note>
-        <note xml:id="i-D7k7ypjxE9wmbGWGp7s3fn" xml:lang="fi">
+        <u who="unknown">
+          <seg>
+            :
+          </seg>
+        </u>
+        <note xml:id="i-D7k7ypjxE9wmbGWGp7s3fn" xml:lang="fi" type="speaker">
           Arvoisalle Talonpoikaissäädylle!
         </note>
         <note xml:id="i-7qFRAB8mFx6zFno5oN9hHX" xml:lang="fi">
@@ -5643,7 +5673,7 @@
           Edusmies Forsmanin ehdotuksesta, jota edusmies Pulkkinen kannatti,
           lähetettiin anomusesitys yksimielisesti yleiseen va- Titusvaliokuntaan.
         </note>
-        <note xml:id="i-7K6ZN6DDLRL8gATJm2mMgJ" xml:lang="fi">
+        <note xml:id="i-7K6ZN6DDLRL8gATJm2mMgJ" xml:lang="fi" type="speaker">
           Esitettiin edusmies Rosenbergin tekemä näin kuuluva anomusesitys:
         </note>
         <note xml:id="i-BgRWMvHCmTkbbYMEGHXkra" xml:lang="sv">
@@ -5767,7 +5797,7 @@
           Keskustelun loputtua lähetettiin anomusesitys yksimielisesti
           valtiovaliokuntaan.
         </note>
-        <note xml:id="i-VyWKuFwtD6cjRBFuFdoAxt" xml:lang="fi">
+        <note xml:id="i-VyWKuFwtD6cjRBFuFdoAxt" xml:lang="fi" type="speaker">
           Esiteltiin edusmies Rosendergin säädylle jättämä näin kuuluva
           anomusesitys:
         </note>
@@ -5821,7 +5851,7 @@
           Esitettiin seuraava edusmiesten Ojasen ja Tensikkalan säädylle
           antama esitysehdotus:
         </note>
-        <note xml:id="i-7yzU6UsAsDhhHNCqHLqggg" xml:lang="fi">
+        <note xml:id="i-7yzU6UsAsDhhHNCqHLqggg" xml:lang="fi" type="speaker">
           Arvoisalle Talonpoikaissäädylle.
         </note>
         <note xml:id="i-9nXs6LveVQfwSTiFq4V1zu" xml:lang="fi">
@@ -6850,18 +6880,23 @@
         <note xml:id="i-4xHWQwWGi1cE1sNsaJ97gk" xml:lang="fi">
           104 5 p. Helmik.
         </note>
-        <note xml:id="i-BCkKdQpS1H686f8YoaVXbA" xml:lang="fi">
-          FEdusmies Pitkänen: Minä vaan tahdon edusmies Collianderin puheen
-          johdosta lausua muutaman sanan. Hän sanoi, etei voisi lakia säätää
-          sentähden, että tarvitsisi tarkastaji pitäisivät huolta lain täyttämisestä,
-          Minä tahtoisin kys tyykö sitte meillä tarkastajia jokaisessa kohdassa.
-          säädetään? Kuka esim. tarkastaa muut palkkaus: dat? — Edusmies
-          Lindberg mainitsi täällä, että hän tarkoitti sillä, josta hän
-          minua huomautti, että palvelijoilla on vaan 10 prosentin säästö
-          vuoden lopussa. Tuo vaan todistaisi, että tuhlaavaisuus on saanut
-          sitä suuremman vallan palvelusväestössä ja tekee yhä välttämättömämmäksi
-          tällaisen lain terpeellisuuden.
+        <note xml:id="i-BCkKdQpS1H686f8YoaVXbA" xml:lang="fi" type="speaker">
+          FEdusmies Pitkänen:
         </note>
+        <u who="unknown">
+          <seg>
+            Minä vaan tahdon edusmies Collianderin puheen johdosta lausua
+            muutaman sanan. Hän sanoi, etei voisi lakia säätää sentähden,
+            että tarvitsisi tarkastaji pitäisivät huolta lain täyttämisestä,
+            Minä tahtoisin kys tyykö sitte meillä tarkastajia jokaisessa kohdassa.
+            säädetään? Kuka esim. tarkastaa muut palkkaus: dat? — Edusmies
+            Lindberg mainitsi täällä, että hän tarkoitti sillä, josta hän
+            minua huomautti, että palvelijoilla on vaan 10 prosentin säästö
+            vuoden lopussa. Tuo vaan todistaisi, että tuhlaavaisuus on saanut
+            sitä suuremman vallan palvelusväestössä ja tekee yhä välttämättömämmäksi
+            tällaisen lain terpeellisuuden.
+          </seg>
+        </u>
         <note xml:id="i-QiyRWAEFeW4KjsiPwkZu7S" xml:lang="sv" type="speaker">
           Landtdagsmannen Hollmerus:
         </note>
@@ -7103,7 +7138,7 @@
         <note xml:id="i-PQsKZoZqByW3uPzzdheAhn" xml:lang="fi">
           108 5 p. Helmik.
         </note>
-        <note xml:id="i-NoXB14Pbx71RchbsgpcDJg" xml:lang="fi">
+        <note xml:id="i-NoXB14Pbx71RchbsgpcDJg" xml:lang="fi" type="speaker">
           Arvoisalle Talonpoikaissäädylle.
         </note>
         <note xml:id="i-2ThT9WWhdwFB8aqjgKMFYZ" xml:lang="fi">
@@ -7635,7 +7670,7 @@
           Anomukseen oli sittemmin tehty muodollisia korjauksia, joten
           se uudestaan laadittuna oli näin kuuluva:
         </note>
-        <note xml:id="i-EdgtmVQia5Afqgm8Fq8iGJ" xml:lang="fi">
+        <note xml:id="i-EdgtmVQia5Afqgm8Fq8iGJ" xml:lang="fi" type="speaker">
           Arvoisalle Talonpoikaissäädylle.
         </note>
         <note xml:id="i-7CY6KYibqeVRbkn54epmR3" xml:lang="fi">
@@ -7736,7 +7771,7 @@
           sekä Nilakan ja Pielaveden välisen Säviä- Virran syventämisestä
           ja saattamisesta laivakululle sopivaan kuntoon.
         </note>
-        <note xml:id="i-9tK7TguzDEtTNyoW4ReWPT" xml:lang="fi">
+        <note xml:id="i-9tK7TguzDEtTNyoW4ReWPT" xml:lang="fi" type="speaker">
           Yhteydessä tämän anomusesityksen kanssa esitettiin edusmiesten
           Häyrisen ja Konttisen säädylle sittemmin jättämä näin kuuluva
           anomusesitys:
@@ -7745,7 +7780,7 @@
         <note xml:id="i-6w2TrAQ8GiMbmwtvqTSfbw" xml:lang="fi">
           7 p. Helmik, 117
         </note>
-        <note xml:id="i-WSYyD99BbVLthCVUqy2U3y" xml:lang="fi">
+        <note xml:id="i-WSYyD99BbVLthCVUqy2U3y" xml:lang="fi" type="speaker">
           Arvoisalle Talonpoikaissäädylle!
         </note>
         <note xml:id="i-YK2A4Rn1KzUboQCnekMJ51" xml:lang="fi">
@@ -7865,10 +7900,10 @@
           Tämän jälkeen esitettiin järjestänsä yhdessä käsiteltäviksi seuraavat
           anomusesitykset:
         </note>
-        <note xml:id="i-SwcF3t3agjaDjPvn7JoYqj" xml:lang="fi">
+        <note xml:id="i-SwcF3t3agjaDjPvn7JoYqj" xml:lang="fi" type="speaker">
           1) Edusmiesten Häyrisen ja Konttisen:
         </note>
-        <note xml:id="i-HYUADpAv52z29j3A3qF8ea" xml:lang="fi">
+        <note xml:id="i-HYUADpAv52z29j3A3qF8ea" xml:lang="fi" type="speaker">
           Arvoisalle Talollissäädylle!
         </note>
         <note xml:id="i-JEznsPmnAFzawUYinhvr4c" xml:lang="fi">
@@ -7931,7 +7966,7 @@
         <note xml:id="i-3RPz6JZZaT8N6inLiLeqry" xml:lang="fi">
           2) Edusmies Pulkkisen tekemä:
         </note>
-        <note xml:id="i-Vn7dNwSzTj32SmzknXVM9T" xml:lang="fi">
+        <note xml:id="i-Vn7dNwSzTj32SmzknXVM9T" xml:lang="fi" type="speaker">
           Arvoisalle Talonpoikaissäädylle!
         </note>
         <note xml:id="i-Sz8UTXbP8ivccs3AQLyPd4" xml:lang="fi">
@@ -8015,7 +8050,7 @@
         <note xml:id="i-REydRxbjFBU1r5MetEDiW6" xml:lang="fi">
           3) Edusmiesten Lagerstedtin ja Roinin Säädylle antama, näin kuuluva
         </note>
-        <note xml:id="i-EjRhjbiCjHZo2r3jgmcBsD" xml:lang="fi">
+        <note xml:id="i-EjRhjbiCjHZo2r3jgmcBsD" xml:lang="fi" type="speaker">
           Arvoisalle Talonpoikaissäädylle.
         </note>
         <note xml:id="i-Xu4aoh728Ms1e8buor59dB" xml:lang="fi">
@@ -8096,10 +8131,10 @@
           Helsingissä 2 päivänä Helmikuuta 1891. Ernst Ivar Roini. F. W.
           Lagerstedt.
         </note>
-        <note xml:id="i-M8VZgirh4G9CDsxL2DL8f5" xml:lang="fi">
+        <note xml:id="i-M8VZgirh4G9CDsxL2DL8f5" xml:lang="fi" type="speaker">
           4) Edusmies Kanasen:
         </note>
-        <note xml:id="i-AuEzUEnKUqDwAVH9t8KiyF" xml:lang="fi">
+        <note xml:id="i-AuEzUEnKUqDwAVH9t8KiyF" xml:lang="fi" type="speaker">
           Arvoisalle Talonpoikaissäädylle.
         </note>
         <note xml:id="i-QtGah8Ti8vAshXpU64oDuK" xml:lang="fi">
@@ -8178,10 +8213,10 @@
         <note xml:id="i-XExwsfTDNURoPRwYTSouHx" xml:lang="fi">
           Antti Kananen. Wiitasaaren tuomiokunnan edusmies.
         </note>
-        <note xml:id="i-6JABPbEdvFzgpWpJv17crV" xml:lang="fi">
+        <note xml:id="i-6JABPbEdvFzgpWpJv17crV" xml:lang="fi" type="speaker">
           5) Edusmies Bremerin:
         </note>
-        <note xml:id="i-E9PK2KvpoSAaxDHQoLMrcX" xml:lang="fi">
+        <note xml:id="i-E9PK2KvpoSAaxDHQoLMrcX" xml:lang="fi" type="speaker">
           Arvoisalle Talonpoikaissäädylle.
         </note>
         <note xml:id="i-U3obPS5Zc74FA59WH3gF7a" xml:lang="fi">
@@ -8206,7 +8241,7 @@
         <note xml:id="i-RHpMcQM6MY1cTGdZzbktcW" xml:lang="fi">
           6) Edusmies Krookin laatima:
         </note>
-        <note xml:id="i-Woa6iazDiAKBzoTjLgyJTr" xml:lang="fi">
+        <note xml:id="i-Woa6iazDiAKBzoTjLgyJTr" xml:lang="fi" type="speaker">
           Arvoisa Talonpoikaissääty!
         </note>
         <note xml:id="i-4cRtuVE5LDhYVGJegBGyha" xml:lang="fi">
@@ -8270,7 +8305,7 @@
         <note xml:id="i-Y4q1FuQJ65Nw3wwz1xHME" xml:lang="fi">
           7) Edusmies Konkolan tekemä, näin kuuluva:
         </note>
-        <note xml:id="i-9oJv9GRTVTzL7T13tV26Az" xml:lang="fi">
+        <note xml:id="i-9oJv9GRTVTzL7T13tV26Az" xml:lang="fi" type="speaker">
           Arvoisalle Talonpoikaissäädylle.
         </note>
         <note xml:id="i-YMpjz16a4pVeCQ2Pr8PARA" xml:lang="fi">
@@ -8354,7 +8389,7 @@
           puoli selvillä, jonka eduksi vielä lisättäköön, että Päijänteen
           ja Keiteleen välinen kanavoitseminen tulee tarpeettomaksi. ;
         </note>
-        <note xml:id="i-HBDCe7JJJSbp8618xh1Fi3" xml:lang="fi">
+        <note xml:id="i-HBDCe7JJJSbp8618xh1Fi3" xml:lang="fi" type="speaker">
           Viitaten siihen, mitä edellä on esiintuotu pyydän arvoisan Talonpoikaissäädyn
           vaikuttamaan:
         </note>
@@ -8433,7 +8468,7 @@
         <note xml:id="i-CP1duLSAdMDYRAkhijLMWo" xml:lang="fi">
           9) Edusmies lautamies Koiviston laatima:
         </note>
-        <note xml:id="i-WDJYGrxwK6d1tbCzQauV6p" xml:lang="fi">
+        <note xml:id="i-WDJYGrxwK6d1tbCzQauV6p" xml:lang="fi" type="speaker">
           Arvoisalle Talonpoikaissäädylle.
         </note>
         <note xml:id="i-CLUGNF3ibRzH7Xj5LgJqbe" xml:lang="fi">
@@ -8503,10 +8538,10 @@
         <note xml:id="i-QhcWDvwK2uFaQmDbwNo8Cn" xml:lang="fi">
           Juho Koivisto.
         </note>
-        <note xml:id="i-RJaeiV1NRzHhMdnuK7SYjG" xml:lang="fi">
+        <note xml:id="i-RJaeiV1NRzHhMdnuK7SYjG" xml:lang="fi" type="speaker">
           Ilmajoen tuomiokunnasta. 10) Edusmies Klamin tekemä:
         </note>
-        <note xml:id="i-UZSt7cyd6SBLsLeCSMfkZU" xml:lang="fi">
+        <note xml:id="i-UZSt7cyd6SBLsLeCSMfkZU" xml:lang="fi" type="speaker">
           Arvoisalle Talonpoikaissäädylle.
         </note>
         <note xml:id="i-KD81SYXhP2hKow6k8YtwC8" xml:lang="fi">
@@ -8535,7 +8570,7 @@
         <note xml:id="i-JC1FNVHm2NuWdyN6Xpgpmk" xml:lang="fi">
           7 p. Helmlk. 131
         </note>
-        <note xml:id="i-Jqa3iSTB4z6FgexXzZXuZo" xml:lang="fi">
+        <note xml:id="i-Jqa3iSTB4z6FgexXzZXuZo" xml:lang="fi" type="speaker">
           . Niin täten saan minä paikkakuntalaisteni puolesta, nöyrimmästi
           pyytää arvoisaa Talonpoikaissäätyä antamaan myötävaikutustaan
           säädylliseen anomukseen siitä:
@@ -8673,9 +8708,14 @@
           Esitettiin järjestänsä yhdessä käsiteltäviksi seuraavat 8 Säädylle
           annettua koulu-anomusta:
         </note>
-        <note xml:id="i-PVFu3WRfMfTQiDK3QpQirG" xml:lang="fi">
-          1) Edusmies Lagerstedtin ynnä muiden: Arvoisalle Talonpoikaissäädylle.
+        <note xml:id="i-PVFu3WRfMfTQiDK3QpQirG" xml:lang="fi" type="speaker">
+          1) Edusmies Lagerstedtin ynnä muiden:
         </note>
+        <u who="unknown">
+          <seg>
+            Arvoisalle Talonpoikaissäädylle.
+          </seg>
+        </u>
         <note xml:id="i-N7GzGRCS9LDT82VdejibnR" xml:lang="fi">
           Etelä pohjanmaan 200,000:lla suomea puhuvalla asukkaalla ei vielä
           ole yksityistä eikä valtionkaan kannattamaa korkeampaa oppilaitosta
@@ -8719,9 +8759,14 @@
         <note xml:id="i-LM1dFXEsuxDkzvxPP7CK5i" xml:lang="unknown">
           F. W. Lagerstedt. E. I. Roini. J. Koivisto.
         </note>
-        <note xml:id="i-WqsThNqirhACFkzNuXMrAL" xml:lang="fi">
-          2) Edusmies Lagerstedtin ynnä muiden tekemä: Arvoisalle Talonpoikaissäädylle.
+        <note xml:id="i-WqsThNqirhACFkzNuXMrAL" xml:lang="fi" type="speaker">
+          2) Edusmies Lagerstedtin ynnä muiden tekemä:
         </note>
+        <u who="unknown">
+          <seg>
+            Arvoisalle Talonpoikaissäädylle.
+          </seg>
+        </u>
         <note xml:id="i-KLyed2uvBAsBQjMgrjnUgP" xml:lang="fi">
           Etelä-Pohjanmaan lavea, viljava ja väkirikas maakunta ei vieläkään
           ole saanut täydellistä valtion kannattamaa korkeampaa suomenkielistä
@@ -8806,7 +8851,7 @@
         <note xml:id="i-71xpgjsRMKbu8oZGNF7iSt" xml:lang="fi">
           136 7 p. Helmik. 3) Edusmies Siirilän laatima:
         </note>
-        <note xml:id="i-954ZVzz8ahM6pc6DRovj9F" xml:lang="fi">
+        <note xml:id="i-954ZVzz8ahM6pc6DRovj9F" xml:lang="fi" type="speaker">
           Arvoisalle Talonpoikaissäädylle.
         </note>
         <note xml:id="i-TTj7AhVHwUVA6aQEU3NGiq" xml:lang="fi">
@@ -8868,9 +8913,14 @@
         <note xml:id="i-WgcayADJSiiCCFzqBrHwRS" xml:lang="fi">
           Helsingissä, Helmikuun 3 p. 1891. J. Siirilä.
         </note>
-        <note xml:id="i-5QmskSfj8AXV5aq51whct4" xml:lang="fi">
-          4) Edusmies Pitkäsen: Arvoisalle Talonpoikaissäädylle:
+        <note xml:id="i-5QmskSfj8AXV5aq51whct4" xml:lang="fi" type="speaker">
+          4) Edusmies Pitkäsen:
         </note>
+        <u who="unknown">
+          <seg>
+            Arvoisalle Talonpoikaissäädylle:
+          </seg>
+        </u>
         <note xml:id="i-RdCSfyZrzU4hRGwpZjRbYx" xml:lang="fi">
           Vaikka kansamme sivistystarvetta onkin koetettu tyydyttää lukuisien
           oppikoulujen kautta, ei sittenkään kansamme opinhalu ja toiveet
@@ -8929,9 +8979,14 @@
         <note xml:id="i-3swjSgEBbXcPkeasFwyb9Y" xml:lang="fi">
           Juho Pitkänen.
         </note>
-        <note xml:id="i-KrXuzmMyKh7kwxLMqgy9uL" xml:lang="fi">
-          5) Edusmies Klamin tekemä: Arvoisalle Talonpoikaissäädylle :
+        <note xml:id="i-KrXuzmMyKh7kwxLMqgy9uL" xml:lang="fi" type="speaker">
+          5) Edusmies Klamin tekemä:
         </note>
+        <u who="unknown">
+          <seg>
+            Arvoisalle Talonpoikaissäädylle :
+          </seg>
+        </u>
         <note xml:id="i-RUkjJxAe4zqXz4nQnhuBx6" xml:lang="sv">
           Kun kansan sivistys on kansan paras tuki ja turva sen henkiselle
           sekä aineelliselle edistymiselle, niin siinä onkin suomenkansa
@@ -8985,7 +9040,7 @@
           lukuisen suomenkielisen väkiluvun kouluolot saataisiin tyydyttävämmälle
           kannalle, kuin ne nykyjään ovat.
         </note>
-        <note xml:id="i-RfSk3LauCyrbffeL8qsn6k" xml:lang="fi">
+        <note xml:id="i-RfSk3LauCyrbffeL8qsn6k" xml:lang="fi" type="speaker">
           Niin rohkenen minä arvoisan Talonpoikaissäädyn eteen tuoda sen
           hartaan toivomuksen, sekä pyytäisi toisia säätyjä yhdistymään:
         </note>
@@ -8999,9 +9054,14 @@
         <note xml:id="i-AdQEhWWRY8iGnH3V71VkWW" xml:lang="sv">
           Juho Klami.
         </note>
-        <note xml:id="i-NSi1HgC8JcCMvLc51qinme" xml:lang="fi">
-          6) Edusmies Ryösän: Arvoisalle Talonpoikaissäädylle!
+        <note xml:id="i-NSi1HgC8JcCMvLc51qinme" xml:lang="fi" type="speaker">
+          6) Edusmies Ryösän:
         </note>
+        <u who="unknown">
+          <seg>
+            Arvoisalle Talonpoikaissäädylle!
+          </seg>
+        </u>
         <note xml:id="i-4Low5CPCbrTdDcr8GAwy4P" xml:lang="fi">
           Kansamme sivistystarvetta on koitettu tyydyttää jos jonkinlaisten
           koulujen perustamisella, eikä tämä pyrintö olekaan väärään vetänyt.
@@ -9105,10 +9165,15 @@
           se lisäapu jonka tämä koulu uuden järjestelmänsä suhteen tulisi
           vuosittain tarvitsemaan enemmän kuin tähän asti.
         </note>
-        <note xml:id="i-6cNEKw85XDt6Qogj2BXdwp" xml:lang="fi">
+        <note xml:id="i-6cNEKw85XDt6Qogj2BXdwp" xml:lang="fi" type="speaker">
           Helsingissä Helmikuun 4 päivänä 1891. 8. Ryösä. 7). Edusmiesten
-          Brusilan ja Fellmanin yhteinen: Arvoisalle Talonpoikaissäädylle.
+          Brusilan ja Fellmanin yhteinen:
         </note>
+        <u who="unknown">
+          <seg>
+            Arvoisalle Talonpoikaissäädylle.
+          </seg>
+        </u>
         <note xml:id="i-EfiRRS8wCrvdSiK49BcWJr" xml:lang="fi">
           Valitsijaimme kehoituksesta saamme, luottaen arvoisan Talonpoikaissäädyn
           valistuksen ja sivistyksen harrastukseen, kunnioittaen anoa seuraavan
@@ -9160,7 +9225,7 @@
           Helsingissä Helmikuun 4 päivänä 1891. J. Brusila. n, August Fellman.
           8) Edusmiesten Hollmönin ja Wärrin yhdessä tekemä:
         </note>
-        <note xml:id="i-FDjHjuFErsbZNJJ1aA3XWV" xml:lang="fi">
+        <note xml:id="i-FDjHjuFErsbZNJJ1aA3XWV" xml:lang="fi" type="speaker">
           Arvoisalle Talonpoikaissäädylle.
         </note>
         <note xml:id="i-7HrcAFq1TZinnaHSCzpRq6" xml:lang="fi">
@@ -9208,7 +9273,7 @@
           pääkaupungissa ja Yliopistomme entisessä kotipaikassa, josta kansalaisuuden
           aatteen siemenet ensin kylvettiin, saada sivistystä omalla äidinkielellään.
         </note>
-        <note xml:id="i-8B5pyerHACWokeexVmYrvv" xml:lang="fi">
+        <note xml:id="i-8B5pyerHACWokeexVmYrvv" xml:lang="fi" type="speaker">
           Me ilmi lausumme avaran piirin hartaan toivomuksen, kun nöyrimmästi
           pyydämme arvoisaa säätyä yhdistymään alamaiseen pyyntöesitykseen
           :
@@ -9222,7 +9287,7 @@
           Kaikki nämät anomukset lähetettiin yksimielisesti edusmiesten
           Kiipulan ja Ojasen ehdotuksesta: yleiseen valitusvaliokuntaan.
         </note>
-        <note xml:id="i-UotbaVueDwcGS1wpGgNat1" xml:lang="fi">
+        <note xml:id="i-UotbaVueDwcGS1wpGgNat1" xml:lang="fi" type="speaker">
           Esitettiin edusmies Pitkäsen Säädylle jättämä näin kuuluva anomusesitys:
         </note>
         <note xml:id="i-2tE6FivYW7Nn1PfixThVAm" xml:lang="fi">
@@ -9264,10 +9329,10 @@
           Anomus pantiin edusmies kansakoulunopettaja Koiviston pyynnöstä,
           jota edusmies Avellan kannatti, pöydälle.
         </note>
-        <note xml:id="i-RaPq9TowkXBEUFdaaGr6M3" xml:lang="fi">
+        <note xml:id="i-RaPq9TowkXBEUFdaaGr6M3" xml:lang="fi" type="speaker">
           Esitettiin edusmies Pitkäsen tekemä näin kuuluva anomusesitys:
         </note>
-        <note xml:id="i-PP7SRqrA7GMNSsYdTvLZyk" xml:lang="fi">
+        <note xml:id="i-PP7SRqrA7GMNSsYdTvLZyk" xml:lang="fi" type="speaker">
           Arvoisalle Talonpoikaissäädylle.
         </note>
         <note xml:id="i-Nyq6doTQJrKSyYAiZAA6w8" xml:lang="fi">
@@ -9346,10 +9411,10 @@
           146 7 p. Helmik. FEdusmiesten Ojasen ja Lagerstedtin kannatettua
           edellisen puhujan pyyntöä, pantiin anomus pöydälle.
         </note>
-        <note xml:id="i-Vv892Fk766TUGgncgeLa8N" xml:lang="fi">
+        <note xml:id="i-Vv892Fk766TUGgncgeLa8N" xml:lang="fi" type="speaker">
           Esitettiin edusmiesten Tagerstedtin ja Roinin näin kuuluva anomusesitys:
         </note>
-        <note xml:id="i-EkuHQya2tu7AHTQhXTU1C2" xml:lang="fi">
+        <note xml:id="i-EkuHQya2tu7AHTQhXTU1C2" xml:lang="fi" type="speaker">
           Arvoisalle Talonpoikaissäädylle.
         </note>
         <note xml:id="i-Jz5PwKZE1ewyywFpg9W9oH" xml:lang="fi">
@@ -9482,7 +9547,7 @@
           Esitettiin edusmiesten Pitkäsen ja Heikuran säädylle jättämä
           näin kuuluva anomus:
         </note>
-        <note xml:id="i-DRNJPP1EFnM25utYmRt6iG" xml:lang="fi">
+        <note xml:id="i-DRNJPP1EFnM25utYmRt6iG" xml:lang="fi" type="speaker">
           Arvoisalle Talonpoikaissäädylle.
         </note>
         <note xml:id="i-Dq1mvdJzn9u8gEHH3UJaa4" xml:lang="fi">
@@ -10017,12 +10082,16 @@
         <note xml:id="i-dk3StnaVTLZcXvfYgJtiT" xml:lang="fi">
           Anomuksen johdosta syntyi seuraava keskustelu:
         </note>
-        <note xml:id="i-3Q2QX9FdHiL7QyMJZtJFRu" xml:lang="fi">
-          Edusmies kansakoulunopettaja Koivisto: Asiaa vähän tarkemmin
-          harkitakseni ehdottelin viime istunnossa tämän pyyntöesityksen
-          pöydälle panemista ja vähäsen sitä ajateltuani pyydän nyt lausua
-          lyhykäisesti mietteeni.
+        <note xml:id="i-3Q2QX9FdHiL7QyMJZtJFRu" xml:lang="fi" type="speaker">
+          Edusmies kansakoulunopettaja Koivisto:
         </note>
+        <u who="unknown">
+          <seg>
+            Asiaa vähän tarkemmin harkitakseni ehdottelin viime istunnossa
+            tämän pyyntöesityksen pöydälle panemista ja vähäsen sitä ajateltuani
+            pyydän nyt lausua lyhykäisesti mietteeni.
+          </seg>
+        </u>
         <note xml:id="i-45QnJD9gvhsVoCW3vKoCGX" xml:lang="fi">
           Jos kunnat tunnollisesti ja tasapuolisesti kohtelisivat erityisten
           kyläkuntien kohtuullisia ja oikeutettuja koulun perustamisvaatimuksia,
@@ -10137,11 +10206,11 @@
           Keskustelun tähän loputtua lähetettiin anomusesitys yksimielisesti
           yleiseen valitusvaliokuntaan.
         </note>
-        <note xml:id="i-K4HZ6qUogpGzTucj4CK8ga" xml:lang="fi">
+        <note xml:id="i-K4HZ6qUogpGzTucj4CK8ga" xml:lang="fi" type="speaker">
           Esitettiin edusmies Wärrin ynnä muiden Säädylle antama näin kuuluva
           anomusesitys:
         </note>
-        <note xml:id="i-MgpcxAu5qNdURwbceUwDaV" xml:lang="fi">
+        <note xml:id="i-MgpcxAu5qNdURwbceUwDaV" xml:lang="fi" type="speaker">
           Arvoisalle Talonpoikaissäädylle.
         </note>
         <note xml:id="i-hJZU1xdde7rcQYwH5YDKy" xml:lang="fi">
@@ -10260,11 +10329,11 @@
           olivat yhtyneet edusmies Castrenin lausuntoon, lähetettiin anomusesitys
           puhemiehen ehdotuksesta valtiovaliokuntaan.
         </note>
-        <note xml:id="i-DDdiH8PANkn1wDyb6ndorc" xml:lang="fi">
+        <note xml:id="i-DDdiH8PANkn1wDyb6ndorc" xml:lang="fi" type="speaker">
           Esitettiin edusmies Kiipulan ynnä muiden säädylle jättämä näin
           kuuluva anomusesitys:
         </note>
-        <note xml:id="i-PfoWRaSDKPqLTJsK31cnHH" xml:lang="fi">
+        <note xml:id="i-PfoWRaSDKPqLTJsK31cnHH" xml:lang="fi" type="speaker">
           Arvoisalle Talonpoikaissäädylle.
         </note>
         <note xml:id="i-JnsonPt1a3Ke23R5n9GVHi" xml:lang="fi">
@@ -10491,7 +10560,7 @@
         <note xml:id="i-XVfR3RgkPRHts9XQg7vswG" xml:lang="fi">
           2) Edusmiesten Avellanin ja Vitikkalan yhdessä tekemä anomusesitys:
         </note>
-        <note xml:id="i-KyBBYhN7vYSiix2gvgjsUh" xml:lang="fi">
+        <note xml:id="i-KyBBYhN7vYSiix2gvgjsUh" xml:lang="fi" type="speaker">
           Arvoisalle Talonpoikaissäädylle.
         </note>
         <note xml:id="i-SpfwBF8zBYXMs5EUJhmZFF" xml:lang="fi">
@@ -10627,7 +10696,7 @@
           Keskustelun loputtua lähetettiin molemmat anomusesitykset yleiseen
           valitusvaliokuntaan.
         </note>
-        <note xml:id="i-Wcq3zF32oWcS8njWHbHipc" xml:lang="fi">
+        <note xml:id="i-Wcq3zF32oWcS8njWHbHipc" xml:lang="fi" type="speaker">
           Esitettiin edusmiesten Strählen ja Hollmeruksen säädylle antama
           näin kuuluva anomusesitys:
         </note>
@@ -11404,7 +11473,7 @@
           Esitettiin yhdessä käsiteltäviksi seuraavat kaksi anomusesitystä:
           1) Edusmies Bremerin ynnä muiden tekemä:
         </note>
-        <note xml:id="i-Tw96cDXKUjBQWGhX7r2PGf" xml:lang="fi">
+        <note xml:id="i-Tw96cDXKUjBQWGhX7r2PGf" xml:lang="fi" type="speaker">
           Arvoisalle Talonpoikaissäädylle.
         </note>
         <note xml:id="i-TXyfBRJwJQjYG8fNLtZRFi" xml:lang="fi">
@@ -11439,7 +11508,7 @@
           Helsingissä Helmikuun 5 päivänä 1891. Uno Bremer. Kaarlo Wärri.
           K. V. Follmen.
         </note>
-        <note xml:id="i-WRE7TqL7reFaUeDJcsW8mU" xml:lang="fi">
+        <note xml:id="i-WRE7TqL7reFaUeDJcsW8mU" xml:lang="fi" type="speaker">
           2) Edusmies Rosenbergin:
         </note>
         <note xml:id="i-8z45tcQ3oEjjruxtG2WMK2" xml:lang="sv">
@@ -11481,7 +11550,7 @@
         <note xml:id="i-F3Pesn1XWEQ4eEUgsR8sJA" xml:lang="fi">
           180 10 p. Helmik.
         </note>
-        <note xml:id="i-CCCHVs3v5iuAfpNcWBxUoJ" xml:lang="sv">
+        <note xml:id="i-CCCHVs3v5iuAfpNcWBxUoJ" xml:lang="sv" type="speaker">
           Uti dessa petitioner framhölls med ojäfviga siffrof, hemtade
           frän officiella verk och handlingar, bland annat:
         </note>
@@ -11516,7 +11585,7 @@
           Amerika i stor skala fortgått, hvarigenom fattigvärdstungan i
           betydande grad stigit.
         </note>
-        <note xml:id="i-Dv4dFeztuRNKLkwHAvxbuU" xml:lang="sv">
+        <note xml:id="i-Dv4dFeztuRNKLkwHAvxbuU" xml:lang="sv" type="speaker">
           Statsutskottet vid 1888 års landtdag yttrar i sitt betänkande
           i frågan bl. a. följande:
         </note>
@@ -11640,7 +11709,7 @@
           så bör dock något tillgöras för att i någon mån lindra de mest
           betungade hemmanens svåra läge.
         </note>
-        <note xml:id="i-3pvQRP2UXFHQtaTyoaXJ1M" xml:lang="sv">
+        <note xml:id="i-3pvQRP2UXFHQtaTyoaXJ1M" xml:lang="sv" type="speaker">
           Jag anhåller derföre vördsamt att hedervärda ståndet ville hos
           Hans Kejserliga Majestät i underdånighet petitionera:
         </note>
@@ -11749,11 +11818,11 @@
           Keskustelu lopetettiin nyt tähän ja anomusesitykset pantiin tehdystä
           pyynnöstä pöydälle tulevaan istuntoon.
         </note>
-        <note xml:id="i-FPBfUXRQzut5fN4eajUEYB" xml:lang="fi">
+        <note xml:id="i-FPBfUXRQzut5fN4eajUEYB" xml:lang="fi" type="speaker">
           Esitettiin edusmies Lagerstedtin ynnä muiden laatima näin kuuluva
           anomusesitys:
         </note>
-        <note xml:id="i-U3PxxHJXi16EpWJX2PB9T5" xml:lang="fi">
+        <note xml:id="i-U3PxxHJXi16EpWJX2PB9T5" xml:lang="fi" type="speaker">
           Arvoisalle Talonpoikaissäädylle!
         </note>
         <note xml:id="i-ULVo5qX2SYc8WegY8fU7R2" xml:lang="fi">
@@ -11902,11 +11971,11 @@
         <note xml:id="i-7b5w8XbKdNsPM91zNGjqhq" xml:lang="fi">
           10 p. Helmik. 187
         </note>
-        <note xml:id="i-BPhMFVSrzC4a2LJJqjNSmB" xml:lang="fi">
+        <note xml:id="i-BPhMFVSrzC4a2LJJqjNSmB" xml:lang="fi" type="speaker">
           Esitettiin edusmies Paksuniemen — Säädylle jättämä näin kuuluva
           anomusesitys:
         </note>
-        <note xml:id="i-UCbRunGkuHhJWngMuZL2Y9" xml:lang="fi">
+        <note xml:id="i-UCbRunGkuHhJWngMuZL2Y9" xml:lang="fi" type="speaker">
           Arvoisalle Talonpoikaissäädylle!
         </note>
         <note xml:id="i-HRAZ92QtJ6GnAcUqxobDi6" xml:lang="fi">
@@ -11961,7 +12030,7 @@
         <note xml:id="i-PALWkH5ym5p5UE36HZpLd3" xml:lang="fi">
           188 10 p. Helmik.
         </note>
-        <note xml:id="i-DX89WQ2phbqfNSXujsgSPD" xml:lang="fi">
+        <note xml:id="i-DX89WQ2phbqfNSXujsgSPD" xml:lang="fi" type="speaker">
           ehdoittaa arvoisan talonpoikaissäädyn ja muitten säätyin myötävaikutuksella
           alamaisimmasti anoa:
         </note>
@@ -12023,7 +12092,7 @@
           Edusmiesten Roinin ja Lagerstedtin pyynnöstä pantiin anomusesitys
           pöydälle seuraavaan istuntoon.
         </note>
-        <note xml:id="i-6YgyUmTiYgoEWpzyJjGcHe" xml:lang="fi">
+        <note xml:id="i-6YgyUmTiYgoEWpzyJjGcHe" xml:lang="fi" type="speaker">
           Esitettiin edusmies Mattlarin ynnä muiden Säädylle jättämä näin
           kuuluva anomusesitys:
         </note>
@@ -12155,7 +12224,7 @@
           Esitettiin seuraava edusmies Alahanhon ja Karlstedtin Säädylle
           jättämä anomusesitys:
         </note>
-        <note xml:id="i-NKbHr72aV33AjjPvs3bJDH" xml:lang="fi">
+        <note xml:id="i-NKbHr72aV33AjjPvs3bJDH" xml:lang="fi" type="speaker">
           Arvoisalle Talonpoikaissäädylle.
         </note>
         <note xml:id="i-4AN6EXAUGyh1RMg96FvVbK" xml:lang="fi">
@@ -12193,7 +12262,7 @@
           Tampereelle sijoitettavan laitoksen tulisi tyydyttää, jäänyt odottamaan
           Säätyjen pyytämiä kiireitä toimenpiteitä.
         </note>
-        <note xml:id="i-7SWWBzxwbNbFe2Cyb6cA6Y" xml:lang="fi">
+        <note xml:id="i-7SWWBzxwbNbFe2Cyb6cA6Y" xml:lang="fi" type="speaker">
           Rohkenemme siis ehdotella, että arvoisa Talonpoikaissääty pyytäisi
           kanssa Säätyjä yhtymään alamaiseen anomukseen:
         </note>
@@ -12214,7 +12283,7 @@
           Esitettiin järjestänsä yhdessä käsiteltäviksi seuraavat 8 Säädylle
           annettua anomusesitystä: 1) Edusmies Witikkalan tekemä näin kuuluva:
         </note>
-        <note xml:id="i-Ne3Rsn2ksLr3khovCLJawf" xml:lang="fi">
+        <note xml:id="i-Ne3Rsn2ksLr3khovCLJawf" xml:lang="fi" type="speaker">
           Arvoisalle Talonpoikaissäädylle !
         </note>
         <note xml:id="i-PvQBcERpDkmRVeDd6hjaJS" xml:lang="fi">
@@ -12271,7 +12340,7 @@
         <note xml:id="i-CbsksHgRxaWiWUhaWnAGCh" xml:lang="fi">
           Furan tuomiokunnan edusmies.
         </note>
-        <note xml:id="i-CWh3dhkxsW8LpGht8vmREL" xml:lang="fi">
+        <note xml:id="i-CWh3dhkxsW8LpGht8vmREL" xml:lang="fi" type="speaker">
           2) Edusmies Hoikan Säädylle antama:
         </note>
         <note xml:id="i-87A7GnhGnZ41AkUWNHL6uo" xml:lang="fi" type="speaker">
@@ -12503,7 +12572,7 @@
         <note xml:id="i-XyDrvsVn66An3bBHMRxnvw" xml:lang="fi">
           K. Muttilainen. 5) Edusmies Landgrenin tekemä näin kuuluva:
         </note>
-        <note xml:id="i-4FjCXSP3rM6UiCmgY7UYtF" xml:lang="fi">
+        <note xml:id="i-4FjCXSP3rM6UiCmgY7UYtF" xml:lang="fi" type="speaker">
           Arvoisalle Talonpoikaissäädylle.
         </note>
         <note xml:id="i-EMinwXD6HGXhXrXnxoqE1R" xml:lang="fi">
@@ -12667,7 +12736,7 @@
           antavat ratapölkkyjä y. m. ilmaiseksi, jos yhdistysrata rakennetaan
           tätä suuntaa.
         </note>
-        <note xml:id="i-NewuSzbZ2UTCzLE9FGpXLW" xml:lang="fi">
+        <note xml:id="i-NewuSzbZ2UTCzLE9FGpXLW" xml:lang="fi" type="speaker">
           Kaiken sen nojalla kuin minulla nyt on ollut kunnia esiin tuoda
           saan nöyrimmästi anoa, että arvoisa Talonpoikaissääty suosiollisesti
           yhtyisi kannattamaan anomustani siitä:
@@ -12696,10 +12765,10 @@
         <note xml:id="i-N1AJWPogxfPjhMXLn2d4A5" xml:lang="fi">
           Helsingissä Helmikuun 7 p. 1891. Huugo Landgren.
         </note>
-        <note xml:id="i-KehcSDr8ACA3ibLX88vbWF" xml:lang="fi">
+        <note xml:id="i-KehcSDr8ACA3ibLX88vbWF" xml:lang="fi" type="speaker">
           Rantasalmen tuomiokunnan edusmies. 6) Edusmies Pöystin tekaisema:
         </note>
-        <note xml:id="i-FhHNxvMyvtFZR8cyKfTYE3" xml:lang="fi">
+        <note xml:id="i-FhHNxvMyvtFZR8cyKfTYE3" xml:lang="fi" type="speaker">
           Arvoisalle Talonpoikaissäädylle.
         </note>
         <note xml:id="i-2aaV47hnNKH6NJqD9HX4ib" xml:lang="fi">
@@ -12714,7 +12783,7 @@
           suureksi hyödyksi, että Imatran haararata yhtyisi Saimaan vesistöön,
           eikä päättyisi Imatran ravintolan edustalle.
         </note>
-        <note xml:id="i-H5NAosqLceWeAyAetLq22n" xml:lang="fi">
+        <note xml:id="i-H5NAosqLceWeAyAetLq22n" xml:lang="fi" type="speaker">
           Pyydän siis arvoisan Talonpoikaissäädyn kannatusta anomukselleni:
         </note>
         <note xml:id="i-M94VgxSvAoi9inkkbSxxAe" xml:lang="fi">
@@ -12727,7 +12796,7 @@
         <note xml:id="i-7YuQpmewBo2mgK1XptxUrA" xml:lang="fi">
           E. Pöysti. 7) Edusmies Kakkisen laatima:
         </note>
-        <note xml:id="i-7aqUQT1CskEru2b5x5dvmY" xml:lang="fi">
+        <note xml:id="i-7aqUQT1CskEru2b5x5dvmY" xml:lang="fi" type="speaker">
           Arvoisalle Talonpoikaissäädylle.
         </note>
         <note xml:id="i-VhMVaVxEr2ANvmG5DcDM5R" xml:lang="fi">
@@ -12793,7 +12862,7 @@
           tutkittua toteen näytetyksi mikä niistä tuottaisi enimmän maalle
           hyötyä ja tulisi kustannuksiinsa nähden kannattavaisimmaksi.
         </note>
-        <note xml:id="i-66VqF6fxyfvW9DEgJ9Bak2" xml:lang="fi">
+        <note xml:id="i-66VqF6fxyfvW9DEgJ9Bak2" xml:lang="fi" type="speaker">
           Sehtähden rohkenen nöyrimmästi arvoisalle Talonpoikaissäädylle
           esittää:
         </note>
@@ -12817,7 +12886,7 @@
         <note xml:id="i-UyNotNzJMy5VqgF4kwPj2v" xml:lang="fi">
           P. Kakkinen. 8) Edusmiesten Danielsonin ja Kyanderin allekirjoittama:
         </note>
-        <note xml:id="i-PTm4ftjM1tPsepxtVJHYk9" xml:lang="fi">
+        <note xml:id="i-PTm4ftjM1tPsepxtVJHYk9" xml:lang="fi" type="speaker">
           Arvoisalle Talonpoikaissäädylle.
         </note>
         <note xml:id="i-M11F3ufjuMPz89J63UTnWy" xml:lang="fi">
@@ -12969,10 +13038,15 @@
           E pikemmin pantaisiin toimeen ja kustannus suoritettaisiin yleisistä
           valtiovaroista.
         </note>
-        <note xml:id="i-JmA1dqans4iVibF4UZAC8R" xml:lang="fi">
+        <note xml:id="i-JmA1dqans4iVibF4UZAC8R" xml:lang="fi" type="speaker">
           Helsingissä 7 päivä Helmikuuta 1891. N E. I. Roini. 2) Edusmies
-          Kakkisen tekemä näin kuuluva: Arvoisalle Talonpoikaissäädylle.
+          Kakkisen tekemä näin kuuluva:
         </note>
+        <u who="unknown">
+          <seg>
+            Arvoisalle Talonpoikaissäädylle.
+          </seg>
+        </u>
         <note xml:id="i-GZ5zsYdFA4CL8MN1XwoBAc" xml:lang="fi">
           Kun tiedän että tässä on käsiteltävänä anomus Pielaveden ja Keiteleen
           y. m. näihin vesistöihin kanavoimisesta, josta mi-
@@ -13011,7 +13085,7 @@
           Esitettiin järjestänsä yhdessä käsiteltäviksi seuraavat 3 anomusesitystä:
           1) Edusmiesten Kyanderin ja Kirjalaisen yhdessä tekemä:
         </note>
-        <note xml:id="i-HPgPuwGfeZ6gztBTWWDNKa" xml:lang="fi">
+        <note xml:id="i-HPgPuwGfeZ6gztBTWWDNKa" xml:lang="fi" type="speaker">
           Arvoisalle Talonpoikaissäädylle.
         </note>
         <note xml:id="i-X7Xm39pKDbZbYsjnREvQXB" xml:lang="fi">
@@ -13062,7 +13136,7 @@
         <note xml:id="i-FHCworWWaXZrm7mGL1TjHW" xml:lang="fi">
           2) Edusmies Teittisen tekemä näin kuuluva:
         </note>
-        <note xml:id="i-TJBcDYjgswJf1EMxmHSNHi" xml:lang="fi">
+        <note xml:id="i-TJBcDYjgswJf1EMxmHSNHi" xml:lang="fi" type="speaker">
           Arvoisalle Talonpoikaissäädylle.
         </note>
         <note xml:id="i-Ene41PCt3cz3h8cUQektYi" xml:lang="fi">
@@ -13174,11 +13248,11 @@
           Kaikki nämä kolme anomusesitystä lähetettiin yksimielisesti edusmiesten
           Collianderin ja Heikuran ehdotuksesta yleiseen valitusvaliokuntaan.
         </note>
-        <note xml:id="i-8vgMe6zVkQ3B3XhZEpFf5c" xml:lang="fi">
+        <note xml:id="i-8vgMe6zVkQ3B3XhZEpFf5c" xml:lang="fi" type="speaker">
           Esitettiin edusmiesten Pitkäsen ja Heikuran Säädylle jättämä
           näin kuuluva anomusesitys:
         </note>
-        <note xml:id="i-VYGLog4HyEPZDWH9o7ptEq" xml:lang="fi">
+        <note xml:id="i-VYGLog4HyEPZDWH9o7ptEq" xml:lang="fi" type="speaker">
           Arvoisalle Talonpoikaissäädylle.
         </note>
         <note xml:id="i-CuDRoZoesGxozKMNA3LVpK" xml:lang="fi">
@@ -13244,7 +13318,7 @@
           Esitettiin yhdessä seuraavat 2 anomusesityslä: 1) Edusmies Laguksen
           laatima näin kuuluva:
         </note>
-        <note xml:id="i-HBTRmiDnLuyHE9L9ksPGZL" xml:lang="fi">
+        <note xml:id="i-HBTRmiDnLuyHE9L9ksPGZL" xml:lang="fi" type="speaker">
           Arvoisalle Talonpoikaissäädylle.
         </note>
         <note xml:id="i-U1XtvK15gJXVsM74YP7uJT" xml:lang="fi">
@@ -13302,7 +13376,7 @@
         <note xml:id="i-L4xocQpfaurLE1bvcuFVg8" xml:lang="fi">
           2) Edusmies kansakoulunopettaja Koiviston tekemä:
         </note>
-        <note xml:id="i-WGsKn9Vmgsk8WLBxFwbxXX" xml:lang="fi">
+        <note xml:id="i-WGsKn9Vmgsk8WLBxFwbxXX" xml:lang="fi" type="speaker">
           Arvoisalle Talonpoikaissäädylle.
         </note>
         <note xml:id="i-L732Yj5Dg68aW76NLLfsvB" xml:lang="fi">
@@ -13351,7 +13425,7 @@
           Molemmat anomusehdotukset lykkäsi Sääty edusmies Teittisen ehdotuksesta
           yksimielisesti yleiseen valitusvaliokuntaan.
         </note>
-        <note xml:id="i-2YaCFRwwSHQGbq5gjkhRzq" xml:lang="fi">
+        <note xml:id="i-2YaCFRwwSHQGbq5gjkhRzq" xml:lang="fi" type="speaker">
           Esitettiin edusmies Dunckerin Säädylle jättämä näin kuu- &lt;luva
           anomusesitys:
         </note>
@@ -13481,7 +13555,7 @@
         <note xml:id="i-D5cVHGqsWomg5agbqYxVD8" xml:lang="fi">
           Antti Punitala. P. Päivärinta. Aapel Häyrinen.
         </note>
-        <note xml:id="i-AH2EeYGBsNvZBbj9RK73zV" xml:lang="fi">
+        <note xml:id="i-AH2EeYGBsNvZBbj9RK73zV" xml:lang="fi" type="speaker">
           2) Edusmies Keräsen näin kuuluva:
         </note>
         <note xml:id="i-4zs6Uo1Fx5gEMtGECsChxc" xml:lang="fi">
@@ -13522,11 +13596,11 @@
           Molemmat anomukset lähetettiin yksimielisesti edusmiesten Pitkäsen
           ja Landgrenin ehdotuksesta yleiseen valitusvaliokuntaan.
         </note>
-        <note xml:id="i-CyPFpxApAnjQ5qN1UzQbiq" xml:lang="fi">
+        <note xml:id="i-CyPFpxApAnjQ5qN1UzQbiq" xml:lang="fi" type="speaker">
           Esitettiin edusmies Danielsonin Säädylle jättämä näin kuuluva
           anomuseitys:
         </note>
-        <note xml:id="i-4xMPXt7EjSHuM8jmrSvw1R" xml:lang="fi">
+        <note xml:id="i-4xMPXt7EjSHuM8jmrSvw1R" xml:lang="fi" type="speaker">
           Arvoisalle Talonpoikaissäädylle.
         </note>
         <note xml:id="i-Uu6T1Yf7BUYpqGYrkxBijE" xml:lang="fi">
@@ -13690,10 +13764,14 @@
         <note xml:id="i-92D2h8zN8yKDpCLbWSzZkS" xml:lang="fi">
           218 10 p. Helmik.
         </note>
-        <note xml:id="i-4AQA3DQZKyXhigAaWHhbk1" xml:lang="fi">
+        <note xml:id="i-4AQA3DQZKyXhigAaWHhbk1" xml:lang="fi" type="speaker">
           Esitettiin edusmies Pitkäsen tekemä näin kuuluva anomusesitys:
-          Arvoisalle Talonpoikaissäädylle.
         </note>
+        <u who="unknown">
+          <seg>
+            Arvoisalle Talonpoikaissäädylle.
+          </seg>
+        </u>
         <note xml:id="i-HjprGEf7JFFzinLVnBt26V" xml:lang="fi">
           Niin kau'an kuin kansakoulunopettajat ovat virassaan ja pysyvät
           terveinä, on heidän toimeentulonsa miten kuten, vaikka niukastikin
@@ -13743,11 +13821,11 @@
           ensi tulevaan istuntoon.
         </note>
         <pb facs="https://swerik-project.github.io/valtiopaivat-records-pdf/1891/ptk_1891_talonpojat_I/ptk_1891_talonpojat_I-0220"/>
-        <note xml:id="i-Ft6YJWzcKeQ8swsa2Lrus5" xml:lang="fi">
+        <note xml:id="i-Ft6YJWzcKeQ8swsa2Lrus5" xml:lang="fi" type="speaker">
           10 p. Helmik. —* 219 Esitettiin edusmies Pitkäsen näin kuuluva
           anomusesitys:
         </note>
-        <note xml:id="i-6RysH7TpPWytxCpesfSNxN" xml:lang="fi">
+        <note xml:id="i-6RysH7TpPWytxCpesfSNxN" xml:lang="fi" type="speaker">
           Arvoisalle Talonpoikaissäädylle.
         </note>
         <note xml:id="i-KJXbmTnhmcZaCUCDb2VeMU" xml:lang="fi">
@@ -13802,7 +13880,7 @@
           Esitettiin edusmies Paksuniemen Säädylle jättämä näin kuuluva
           anomusesitys: 4
         </note>
-        <note xml:id="i-JdmC3hU1q729uZ8qj8ccQn" xml:lang="fi">
+        <note xml:id="i-JdmC3hU1q729uZ8qj8ccQn" xml:lang="fi" type="speaker">
           Arvoisalle Talonpoikaissäädylle.
         </note>
         <note xml:id="i-Gde3j7ftDG1cB42QjcaQ7c" xml:lang="fi">
@@ -13895,11 +13973,11 @@
           Anomusehdotus lähetettiin yksimielisesti edusmies Avellanin ehdotuksesta
           yleisen valitusvaliokunnan käyttelyyn.
         </note>
-        <note xml:id="i-FewBMWUu5QG7KvQV7kQ5Te" xml:lang="fi">
+        <note xml:id="i-FewBMWUu5QG7KvQV7kQ5Te" xml:lang="fi" type="speaker">
           Esitettiin edusmies Bremerin ynnä muiden Säädylle jättämä näin
           kuuluva anomusesitys:
         </note>
-        <note xml:id="i-BWMbJYdwk5vSDjut3oVuri" xml:lang="fi">
+        <note xml:id="i-BWMbJYdwk5vSDjut3oVuri" xml:lang="fi" type="speaker">
           Arvoisalle Talonpoikaissäädylle.
         </note>
         <note xml:id="i-CZi3LPyY4MTdDhutafm3BF" xml:lang="fi">
@@ -14168,11 +14246,16 @@
         <note xml:id="i-RqLuEmjBfrrk53Fc1tYimp" xml:lang="fi">
           ruvettu pitäjittäin kesän aikana pitämään erityisiä karjanäytte-
         </note>
-        <note xml:id="i-7jvm1N4RAWXHes85mxpkVS" xml:lang="fi">
+        <note xml:id="i-7jvm1N4RAWXHes85mxpkVS" xml:lang="fi" type="speaker">
           lyitä. kotimaista lai ulkomaalaista. keino on osoittanut tulevansa
           parantamaan. voinut antaa palkintoa kaikille, laista ansainneen.
-          Luulen an eduksi ja kannatan sitä. Edusmies Lagus: Minä pyyt:
+          Luulen an eduksi ja kannatan sitä. Edusmies Lagus:
         </note>
+        <u who="unknown">
+          <seg>
+            Minä pyyt:
+          </seg>
+        </u>
         <note xml:id="i-8AepG6o2PrirjWW5D7e7M6" xml:lang="fi">
           On kuulutettu paikalle tuotavaksi karjaa, olipa se sitten
         </note>
@@ -14350,10 +14433,10 @@
           = Keskustelun tähän loputtua päätti Sääty lykätä anomuksen yleiseen
           valitusvaliokuntaan.
         </note>
-        <note xml:id="i-Xq54aihPYnHqbkjwoqYLfr" xml:lang="fi">
+        <note xml:id="i-Xq54aihPYnHqbkjwoqYLfr" xml:lang="fi" type="speaker">
           Esitettiin seuraava edusmies Keräsen Säädylle jättämä anomusesitys:
         </note>
-        <note xml:id="i-NHwM3hVydVsynts5GiHGzu" xml:lang="fi">
+        <note xml:id="i-NHwM3hVydVsynts5GiHGzu" xml:lang="fi" type="speaker">
           Arvoisa Talonpoikaissääty.
         </note>
         <note xml:id="i-SDuq1iyXpHunroAbkwsCdz" xml:lang="fi">
@@ -16352,7 +16435,7 @@
           tilaisuudessa ei oltu ensinkään palkkaa määrätty, valtiopäivämiespalkkioksi
           16 markkaa päivältä.
         </note>
-        <note xml:id="i-LhXdyZ9ejvTUZTeLiRQ4MF" xml:lang="fi">
+        <note xml:id="i-LhXdyZ9ejvTUZTeLiRQ4MF" xml:lang="fi" type="speaker">
           Tämän jälkeen esitteli Puhemies edusmies Heikuran ennen nostaman
           kysymyksen palkan nauttimisesta myöskin matkapäiviltä sekä yhdeltä
           valmistus- ja yhdeltä lähtöpäivältä, mistä syntyi seuraava keskustelu:
@@ -16686,10 +16769,10 @@
         <note xml:id="i-A7kotbomswrQR14YuTkJhc" xml:lang="fi">
           14 p. Helmik. 268
         </note>
-        <note xml:id="i-2h9afXNJaJ5awqfkkVafft" xml:lang="fi">
+        <note xml:id="i-2h9afXNJaJ5awqfkkVafft" xml:lang="fi" type="speaker">
           Esitettiin edusmies Kakkisen Säädylle jättämä näin kuuluva esitysehdotus:
         </note>
-        <note xml:id="i-VWWG3EZDyoCEUcWsL6eNxz" xml:lang="fi">
+        <note xml:id="i-VWWG3EZDyoCEUcWsL6eNxz" xml:lang="fi" type="speaker">
           Arvoisalle Talonpoikaissäädylle.
         </note>
         <note xml:id="i-TFvxE5uB42XvyzdmiWs6Tf" xml:lang="fi">
@@ -17307,7 +17390,7 @@
           Esitettiin edusmiesten Lagerstedtin, Roinin y. m. Säädylle jättämä
           näin kuuluva esitysehdotus:
         </note>
-        <note xml:id="i-MEmDbYkvZmPNTYcuUcaUJ3" xml:lang="fi">
+        <note xml:id="i-MEmDbYkvZmPNTYcuUcaUJ3" xml:lang="fi" type="speaker">
           Arvoisalle Talonpoikaissäädylle.
         </note>
         <note xml:id="i-M3194pLxDK4Q4UA2XV1FJk" xml:lang="fi">
@@ -17652,7 +17735,7 @@
           Esitettiin edusmies Keräsen, Alahanhon y. m. Säädylle jättämä
           näin kuuluva esitysehdotus:
         </note>
-        <note xml:id="i-QkcHAxbqn6JXY5XptoUDFX" xml:lang="fi">
+        <note xml:id="i-QkcHAxbqn6JXY5XptoUDFX" xml:lang="fi" type="speaker">
           Arvoisalle Talonpoikaissäädylle!
         </note>
         <note xml:id="i-4uDLaozvZH5EXHat4v8Pbf" xml:lang="fi">
@@ -17898,7 +17981,7 @@
           Esitettiin edusmiesten Lagerstedtin y. m. tekemä näin kuuluva
           anomusesitys:
         </note>
-        <note xml:id="i-KV8ES8ssBXfaRdHLmspahy" xml:lang="fi">
+        <note xml:id="i-KV8ES8ssBXfaRdHLmspahy" xml:lang="fi" type="speaker">
           Arvoisalle Talonpoikaissäädylle.
         </note>
         <note xml:id="i-XR6Bi8QjVECmqwXXfih5ZL" xml:lang="fi">
@@ -17946,10 +18029,10 @@
           Anomus lykättiin yksimielisesti edusmiesten Kiipulan ja kansakoulunopettaja
           Koiviston ehdotuksesta laki- ja talousvaliokunnan käyttelyyn.
         </note>
-        <note xml:id="i-Dndtom7j7oTUAnoYbEYNgq" xml:lang="fi">
+        <note xml:id="i-Dndtom7j7oTUAnoYbEYNgq" xml:lang="fi" type="speaker">
           Esitettiin edusmies Avellanin Säädylle jättämä näin kuuluva anomusesitys:
         </note>
-        <note xml:id="i-NCYPir4RkzpLRaByko1B7L" xml:lang="fi">
+        <note xml:id="i-NCYPir4RkzpLRaByko1B7L" xml:lang="fi" type="speaker">
           Arvoisalle Talonpoikaissäädylle.
         </note>
         <note xml:id="i-TAxWDAg36TSkbCn4ARxFS5" xml:lang="fi">
@@ -17996,10 +18079,10 @@
           Anomusehdotuksen lykkäsi Sääty edusmiesten Pitkäsen ja Keräsen
           ehdotuksesta laki- ja talousvaliokuntaan.
         </note>
-        <note xml:id="i-36DEevwQsq3y1fC4JAUWbC" xml:lang="fi">
+        <note xml:id="i-36DEevwQsq3y1fC4JAUWbC" xml:lang="fi" type="speaker">
           Esitettiin edusmies Fellmanin tekemä näin kuuluva esitysehdotus:
         </note>
-        <note xml:id="i-SpgQBH8WhraGjivPYgRfXa" xml:lang="fi">
+        <note xml:id="i-SpgQBH8WhraGjivPYgRfXa" xml:lang="fi" type="speaker">
           Arvoisalle Talonpoikaissäädylle!
         </note>
         <note xml:id="i-8X9M87xtLenqjSo8MxARaX" xml:lang="fi">
@@ -18133,7 +18216,7 @@
         <note xml:id="i-XB6XWqZoYB2ct7xXsFKdnh" xml:lang="fi">
           Päätös: Esitysehdotus lähetettiin yksimielisesti talousvaliokuntaan.
         </note>
-        <note xml:id="i-8t6ehncLjimvc9nogENjxh" xml:lang="fi">
+        <note xml:id="i-8t6ehncLjimvc9nogENjxh" xml:lang="fi" type="speaker">
           Esitettiin edusmies Niemelän ynnä muiden Säädylle jättämä näin
           kuuluva esitysehdotus:
         </note>
@@ -19071,10 +19154,10 @@
           Esitysehdotus lähetettiin yksimielisesti edusmiesten Landgrenin
           ja Pitkäsen ehdotuksesta talousvaliokunnan käyttelyyn.
         </note>
-        <note xml:id="i-PX6xQEPQPD1od41SbkVWVQ" xml:lang="fi">
+        <note xml:id="i-PX6xQEPQPD1od41SbkVWVQ" xml:lang="fi" type="speaker">
           Esitettiin edusmies Avellanin Säädylle jättämä näin kuuluva esitysehdotus:
         </note>
-        <note xml:id="i-9e4DwdC9e2gEAMsPiGDesz" xml:lang="fi">
+        <note xml:id="i-9e4DwdC9e2gEAMsPiGDesz" xml:lang="fi" type="speaker">
           Arvoisalle Talonpoikaissäädylle !
         </note>
         <note xml:id="i-UShBGtqyXKRfhEpZ4vrREZ" xml:lang="fi">
@@ -19287,11 +19370,11 @@
         <note xml:id="i-GC9sXcunSeAvKH5u95qokH" xml:lang="fi">
           Esitysehdotuksen lykkäsi Sääty ilman äänestystä laki- ja talousvaliokuntaan.
         </note>
-        <note xml:id="i-EHetjh1vhvzaG7QT1TLwYa" xml:lang="fi">
+        <note xml:id="i-EHetjh1vhvzaG7QT1TLwYa" xml:lang="fi" type="speaker">
           Esitettiin edusmiesten Teittisen ja Leppäsen Säädylle jättämä
           näin kuuluva anomusesitys:
         </note>
-        <note xml:id="i-W3x9ARThL39W4TDDHtgNir" xml:lang="fi">
+        <note xml:id="i-W3x9ARThL39W4TDDHtgNir" xml:lang="fi" type="speaker">
           Arvoisalle Talonpoikaissäädylle.
         </note>
         <note xml:id="i-MqqVW8NWeu7nxGUcpiMAdo" xml:lang="fi">
@@ -19639,10 +19722,10 @@
         <note xml:id="i-ExmL2xoW6NdYYjgwFHYhZN" xml:lang="fi">
           Esitettiin yhdessä käsiteltäväksi seuraavat kaksi anomusesitystä:
         </note>
-        <note xml:id="i-3YDRsooXsgeapooXA8dCKj" xml:lang="fi">
+        <note xml:id="i-3YDRsooXsgeapooXA8dCKj" xml:lang="fi" type="speaker">
           1) Edusmies Häyrisen näin kuuluva:
         </note>
-        <note xml:id="i-MBAGeALSQCJUyFswf6BPwb" xml:lang="fi">
+        <note xml:id="i-MBAGeALSQCJUyFswf6BPwb" xml:lang="fi" type="speaker">
           Arvoisalle Talonpoikaissäädylle.
         </note>
         <note xml:id="i-Rfkc69RRrQQsa19fog2Npg" xml:lang="fi">
@@ -19686,7 +19769,7 @@
         <note xml:id="i-CYwv3Dud36cgxuS41PL6cJ" xml:lang="fi">
           2) Edusmiesten Kakkisen ja Koiviston Säädylle jättämä näin kuuluva:
         </note>
-        <note xml:id="i-Ut5Cc267EwQqAaMW4iVKso" xml:lang="fi">
+        <note xml:id="i-Ut5Cc267EwQqAaMW4iVKso" xml:lang="fi" type="speaker">
           Arvoisalle Talonpoikaissäädylle.
         </note>
         <note xml:id="i-T3D4A7rsQn8En9aK5DDoXx" xml:lang="fi">
@@ -20051,11 +20134,11 @@
         <note xml:id="i-4wdwfzwar69k52HfcfMksS" xml:lang="fi">
           Keskustelun loputtua hyväksyi Sääty mietinnön ilman äänestystä.
         </note>
-        <note xml:id="i-7ZNBENw1ZcPkxYv1ir5AWK" xml:lang="fi">
+        <note xml:id="i-7ZNBENw1ZcPkxYv1ir5AWK" xml:lang="fi" type="speaker">
           Esitettiin edusmies Siirilän y. m. Säädylle jättämä näin kuuluva
           anomusesitys:
         </note>
-        <note xml:id="i-Qhday1DaC6JoxXJej6pV4K" xml:lang="fi">
+        <note xml:id="i-Qhday1DaC6JoxXJej6pV4K" xml:lang="fi" type="speaker">
           Arvoisalle Talonpoikaissäädylle!
         </note>
         <note xml:id="i-Pinjr1cMZPuju1jfHThyhB" xml:lang="fi">
@@ -20285,11 +20368,11 @@
           siinä olleen voitolla; joten Sääty katsottiin hyljänneeksi puheenlaisen
           anomus-ehdotuksen.
         </note>
-        <note xml:id="i-PX25eFjHeMLVDPoQ8ZZ7EF" xml:lang="fi">
+        <note xml:id="i-PX25eFjHeMLVDPoQ8ZZ7EF" xml:lang="fi" type="speaker">
           Tämän jälkeen tavan mukaan vastaan otettuna astui sisään Senaatin
           lähetystö, jonka johtaja herra senaattori Gylling lausui:
         </note>
-        <note xml:id="i-URAitdzktZS9rAtQafsn4D" xml:lang="fi">
+        <note xml:id="i-URAitdzktZS9rAtQafsn4D" xml:lang="fi" type="speaker">
           » Kunnioitettava herra Puhemies! Arvoisa Talonpoikaissääty!
         </note>
         <note xml:id="i-UyQYJ1EhwNDUpRf8tyKXPg" xml:lang="fi">
@@ -20307,7 +20390,7 @@
         <note xml:id="i-45ymEBX8XPiWWnX3ecvR9B" xml:lang="fi">
           17 p. Helmik. 819
         </note>
-        <note xml:id="i-GFCDBRdbLzLeGB38jqomyk" xml:lang="fi">
+        <note xml:id="i-GFCDBRdbLzLeGB38jqomyk" xml:lang="fi" type="speaker">
           Esitettiin edusmies Rosenbergin Säädylle jättämä näin kuuluva
           anomusesitys:
         </note>
@@ -20813,10 +20896,10 @@
         <note xml:id="i-DJwG6rU5QoBAm9h6UaYEkC" xml:lang="fi">
           17 p. Helmik. 327
         </note>
-        <note xml:id="i-S32XVkhxwMQMcXpi3i1LnE" xml:lang="fi">
+        <note xml:id="i-S32XVkhxwMQMcXpi3i1LnE" xml:lang="fi" type="speaker">
           Esitettiin edusmies Keräsen Säädylle jättämä näin kuuluva anomus-ehdotus:
         </note>
-        <note xml:id="i-AfkegCUExD4TKYvVRWkcrA" xml:lang="fi">
+        <note xml:id="i-AfkegCUExD4TKYvVRWkcrA" xml:lang="fi" type="speaker">
           Arvoisa Talonpoikaissääty.
         </note>
         <note xml:id="i-AR9FZJpJK3J7M4WDSCuJ8y" xml:lang="fi">
@@ -21141,7 +21224,7 @@
             lähettää pöytäkirjan- otteita valiokuntaan nähtäväksi.
           </seg>
         </u>
-        <note xml:id="i-QR2agY7BZbyCsaCxz8tWho" xml:lang="fi">
+        <note xml:id="i-QR2agY7BZbyCsaCxz8tWho" xml:lang="fi" type="speaker">
           Kun keskustelu oli loppunut esitti puhemies seuraavan
         </note>
         <note xml:id="i-P4UF9iq3CX7wyfBFdc8Mx3" xml:lang="fi">
@@ -21172,11 +21255,11 @@
         <note xml:id="i-9zZ6NcyMVrmrUv4TQ8njfV" xml:lang="fi">
           382 17 p. Helmik.
         </note>
-        <note xml:id="i-8aAwfTVZP4LEc65E1YGZPA" xml:lang="fi">
+        <note xml:id="i-8aAwfTVZP4LEc65E1YGZPA" xml:lang="fi" type="speaker">
           Esitettiin edusmies Tensikkalan Säädylle jättämä näin kuuluva
           anomusesitys:
         </note>
-        <note xml:id="i-79yM2fp4ew8bq1okGSNy4e" xml:lang="fi">
+        <note xml:id="i-79yM2fp4ew8bq1okGSNy4e" xml:lang="fi" type="speaker">
           Arvoisalle Talonpoikaissäädylle.
         </note>
         <note xml:id="i-WoPivHTbcPVf6LRS2Ft3RG" xml:lang="fi">
@@ -21370,7 +21453,7 @@
         <note xml:id="i-13KMyHi5xubHUnv3yUYx3u" xml:lang="fi">
           tös:
         </note>
-        <note xml:id="i-VkFYzt78PGLyY9YbhzBCwQ" xml:lang="fi">
+        <note xml:id="i-VkFYzt78PGLyY9YbhzBCwQ" xml:lang="fi" type="speaker">
           Esitettiin edusmies Hollmoruksen Säädylle jättämä näin kuuluva
           anomusesitys:
         </note>
@@ -21487,7 +21570,7 @@
         <note xml:id="i-9nWse8qJnv7QF9PM724ydY" xml:lang="fi">
           Edusmies Krook oli samaa mieltä kuin edusmiehet Konkola ja Pulkkinen.
         </note>
-        <note xml:id="i-LVTCkuisrZPMHGBGxkM3Dk" xml:lang="fi">
+        <note xml:id="i-LVTCkuisrZPMHGBGxkM3Dk" xml:lang="fi" type="speaker">
           Edusmies Forsman kannatti pyyntöesityksen valiokuntaan lähettämistä.
           :
         </note>
@@ -21513,29 +21596,33 @@
             lähetettäisiin yleiseen valitusvaliokuntaan.
           </seg>
         </u>
-        <note xml:id="i-Wvs8dDLDmXHi3Bv9uHzH3Q" xml:lang="sv">
-          Landtdagsmannen Hollm&amp;us: Mot landtdagsmannen Colliander
-          vill jag päpeka, att den af mig vid 1885 ärs landtdag inlämnade
-          petitionen icke blef dä förkastad därföre, att någon skulle hafva
-          motsagt betydelsen och vikten af frågan. Den grund, på hvilken
-          petitionsmemorialet vid 1885 års landtdag förkastades var, om
-          jag icke missminner mig, den att man icke ville vidtaga partiella
-          förändringar i kommunalförordningen. Det motiverades helt tydligt
-          att just det var skälet till förkastandet. Emellertid har redan
-          förut partiella förändringar i kommunalförordningen vidtagits
-          och att kommunalförordningen behöfver undergå ännu många dylika,
-          därom torde icke mera än. en mening finnas hos alla dem, som med
-          kommunalförordningen hafva något att skaffa. Att den nu ifrågavarande
-          saken tarfvar en förändring, tyckes framgå äfven däraf att vid
-          det kommunalmöte, som för ett år sedan hölls i Borgå stad, och
-          dit mer än hälften af Nylands läns kommuner skickat representanter,
-          alla dessa enades om vikten och behöfligheten af en förändring
-          i den nu ifrågavarande riktningen, Äfven vid denna landtdag har
-          till ståndet blifvit inlemnad en petition rörande en partiell
-          förändring i kommunalförordningen, som blifvit remitterad till
-          utskott. Jag vet icke hvarföre remiss till utskott af denna min
-          petition skulle mera vägras än af den andra.
+        <note xml:id="i-Wvs8dDLDmXHi3Bv9uHzH3Q" xml:lang="sv" type="speaker">
+          Landtdagsmannen Hollm&amp;us:
         </note>
+        <u who="unknown">
+          <seg>
+            Mot landtdagsmannen Colliander vill jag päpeka, att den af mig
+            vid 1885 ärs landtdag inlämnade petitionen icke blef dä förkastad
+            därföre, att någon skulle hafva motsagt betydelsen och vikten
+            af frågan. Den grund, på hvilken petitionsmemorialet vid 1885
+            års landtdag förkastades var, om jag icke missminner mig, den
+            att man icke ville vidtaga partiella förändringar i kommunalförordningen.
+            Det motiverades helt tydligt att just det var skälet till förkastandet.
+            Emellertid har redan förut partiella förändringar i kommunalförordningen
+            vidtagits och att kommunalförordningen behöfver undergå ännu många
+            dylika, därom torde icke mera än. en mening finnas hos alla dem,
+            som med kommunalförordningen hafva något att skaffa. Att den nu
+            ifrågavarande saken tarfvar en förändring, tyckes framgå äfven
+            däraf att vid det kommunalmöte, som för ett år sedan hölls i Borgå
+            stad, och dit mer än hälften af Nylands läns kommuner skickat
+            representanter, alla dessa enades om vikten och behöfligheten
+            af en förändring i den nu ifrågavarande riktningen, Äfven vid
+            denna landtdag har till ståndet blifvit inlemnad en petition rörande
+            en partiell förändring i kommunalförordningen, som blifvit remitterad
+            till utskott. Jag vet icke hvarföre remiss till utskott af denna
+            min petition skulle mera vägras än af den andra.
+          </seg>
+        </u>
         <note xml:id="i-R3Qp59YwdkVqi6zXCKMcN8" xml:lang="sv">
           Landtdagsmannen Pulkkinen åter tyckes alls icke hafva uppfattat
           meningen i denna petition. Han vill icke, om jag rätt uppfattat
@@ -21799,11 +21886,11 @@
           Ilmoitettiin tulleeksi ja pantiin asiakirjoihin toisista Säädyistä
           tulleita pöytäkirjan otteita.
         </note>
-        <note xml:id="i-F1vb8xiDy44rV8wkKgUksb" xml:lang="fi">
+        <note xml:id="i-F1vb8xiDy44rV8wkKgUksb" xml:lang="fi" type="speaker">
           Esitettiin edusmies Landgrenin Säädylle jättämä näin kuuluva
           anomus-esitys:
         </note>
-        <note xml:id="i-YbHwNnyKBe4HDRuunwvSCk" xml:lang="fi">
+        <note xml:id="i-YbHwNnyKBe4HDRuunwvSCk" xml:lang="fi" type="speaker">
           Arvoisalle Talonpoikaissäädylle.
         </note>
         <note xml:id="i-Ks4UCZzs91UXwqBChM7nKC" xml:lang="fi">
@@ -22215,7 +22302,7 @@
         <note xml:id="i-8W3RcV1FBWpDrVo6FXsWXh" xml:lang="fi">
           848 19 p. Helmik.
         </note>
-        <note xml:id="i-7yU8aoQ3LiBo8VErSBMhez" xml:lang="fi">
+        <note xml:id="i-7yU8aoQ3LiBo8VErSBMhez" xml:lang="fi" type="speaker">
           Esitettiin edusmies Lindbergin Säädylle jättämä näin kuuluva
           anomus:
         </note>
@@ -22477,10 +22564,10 @@
           Kun keskustelu oli tähän loppunut, päätti Sääty yksimielisesti
           lykätä puheenalaisen anomusehdotuksen yleiseen valitusvaliokuntaan.
         </note>
-        <note xml:id="i-GmQcX7BfTaSyvTKCy7K23P" xml:lang="fi">
+        <note xml:id="i-GmQcX7BfTaSyvTKCy7K23P" xml:lang="fi" type="speaker">
           Esitettiin edusmies Kiipulan Säädylle jättämä näin kuuluva anomusesitys:
         </note>
-        <note xml:id="i-72Rdzhf3jifYt2qVdMFiRF" xml:lang="fi">
+        <note xml:id="i-72Rdzhf3jifYt2qVdMFiRF" xml:lang="fi" type="speaker">
           Arvoisalle Talonpoikaissäädylle.
         </note>
         <note xml:id="i-8qc3DunB2k9RYDug3LX1p" xml:lang="fi">
@@ -22549,10 +22636,10 @@
           enemmistönä, katsottiin sen johdosta Sääty hyljänneeksi esillä
           olleen anomus-ehdotuksen.
         </note>
-        <note xml:id="i-7VCx79gB2gEM4TEYdHo7N7" xml:lang="fi">
+        <note xml:id="i-7VCx79gB2gEM4TEYdHo7N7" xml:lang="fi" type="speaker">
           Esitettiin edusmies Leppäsen Säädylle jättämä näin kuuluva anomusesitys:
         </note>
-        <note xml:id="i-2La3JJSpWmrbc8HwCF2qD1" xml:lang="fi">
+        <note xml:id="i-2La3JJSpWmrbc8HwCF2qD1" xml:lang="fi" type="speaker">
           Arvoisalle Talonpoikaissäädylle.
         </note>
         <note xml:id="i-HDVX9m7bFEmL5YXNRdmSio" xml:lang="fi">
@@ -23018,10 +23105,14 @@
           Toimitetussa lippuäänestyksessä, missä annettiin 38 eiääntä 17
           jaa-ääntä vastaan, Sääty hylkäsi puheena olevan anomusehdotuksen.
         </note>
-        <note xml:id="i-HfCaEjLPqkSo757oGH5ZEK" xml:lang="fi">
+        <note xml:id="i-HfCaEjLPqkSo757oGH5ZEK" xml:lang="fi" type="speaker">
           Esitettiin edusmies Collianderin näin kuuluva anomusesitys :
-          Arvoisalle Talonpoikaissäädylle.
         </note>
+        <u who="unknown">
+          <seg>
+            Arvoisalle Talonpoikaissäädylle.
+          </seg>
+        </u>
         <note xml:id="i-MZapLHuzEuhmdydi8ofFkM" xml:lang="fi">
           Henkinen elin-ehto kansallemme on, että jokainen sen jäsen omistaa
           sivistyksen ja tiedon tärkeimmät välikappaleet, siis etupäässä
@@ -23109,7 +23200,7 @@
           kansallisuudellemme vahingolliset ajanvirtaukset voivat järkähyttää.
           N
         </note>
-        <note xml:id="i-X9jEiSGEN7ucjSQWUFqwN4" xml:lang="fi">
+        <note xml:id="i-X9jEiSGEN7ucjSQWUFqwN4" xml:lang="fi" type="speaker">
           Tämän nojalla pyydän siis arvoisan Säädyn myötävaikutusta siihen:
         </note>
         <note xml:id="i-AnW3gG1qxymuPNLEajRniz" xml:lang="fi">
@@ -23166,10 +23257,14 @@
           on ottanut anomuksensa takaisin, niin eiköhän sopisi keskustelua
           siitä asiasta lakkauttaa?
         </note>
-        <note xml:id="i-5YPfw9bYeacTk8mQg6yjTP" xml:lang="fi">
-          Edusmies, kansakoulunopettaja Koivisto: Olisiko minulla lupa
-          lausua muutama sana?
+        <note xml:id="i-5YPfw9bYeacTk8mQg6yjTP" xml:lang="fi" type="speaker">
+          Edusmies, kansakoulunopettaja Koivisto:
         </note>
+        <u who="unknown">
+          <seg>
+            Olisiko minulla lupa lausua muutama sana?
+          </seg>
+        </u>
         <note xml:id="i-3C1ti668UWB1xSGAW6ptcx" xml:lang="fi">
           Puhemies: Ei, koska anomuksen tekijä hyväntahtoisesti on pyytänyt
           saada ottaa anomuksensa takaisin ja jos sääty tähän pyyntöön suostuu.
@@ -23212,10 +23307,10 @@
           olisi myös merkittävä pöytäkirjaan; ja yhdistyn edusmies Castrenin
           lausuntoon.
         </note>
-        <note xml:id="i-VyMYajBhMRPKtZ2ncfKuV8" xml:lang="fi">
+        <note xml:id="i-VyMYajBhMRPKtZ2ncfKuV8" xml:lang="fi" type="speaker">
           Esitettiin edusmies Forsmanin Säädylle jättämä anomusesitys:
         </note>
-        <note xml:id="i-A569uh9THjN2Bmpx39chUs" xml:lang="fi">
+        <note xml:id="i-A569uh9THjN2Bmpx39chUs" xml:lang="fi" type="speaker">
           Arvoisalle Talonpoikaissäädylle.
         </note>
         <note xml:id="i-CS6hwpMQJSWXzqYq19dEc" xml:lang="fi">
@@ -23356,11 +23451,11 @@
           lämpimästi kannattaneet, lykättiin se edusmies Forsmanin ehdotuksesta
           talousvaliokuntaan.
         </note>
-        <note xml:id="i-RAy9rFyxU46b1ysvrZsasR" xml:lang="fi">
+        <note xml:id="i-RAy9rFyxU46b1ysvrZsasR" xml:lang="fi" type="speaker">
           Esitettiin edusmies Caströnin ynnä muiden Säädylle jättämä näin
           kuuluva anomusesitys:
         </note>
-        <note xml:id="i-7v7snfcJwb6ukHZ9aR6T4W" xml:lang="fi">
+        <note xml:id="i-7v7snfcJwb6ukHZ9aR6T4W" xml:lang="fi" type="speaker">
           Arvoisalle Talonpoikaissäädylle.
         </note>
         <note xml:id="i-X7PjxHmQbLiA7s59DKkWR7" xml:lang="fi">
@@ -23610,11 +23705,11 @@
         <note xml:id="i-He34PmJk2T1f488kTpxF7x" xml:lang="fi">
           370 19 p. Helmlk.
         </note>
-        <note xml:id="i-SVocwzdtTki5K8UCyFCawU" xml:lang="fi">
+        <note xml:id="i-SVocwzdtTki5K8UCyFCawU" xml:lang="fi" type="speaker">
           Esitettiin edusmies Castrenin ynnä muiden Säädylle jättämä näin
           kuuluva anomusehdotus:
         </note>
-        <note xml:id="i-UgqAhGV126Wcyz8AQXKr8B" xml:lang="fi">
+        <note xml:id="i-UgqAhGV126Wcyz8AQXKr8B" xml:lang="fi" type="speaker">
           Arvoisalle Talonpoikaissäädylle.
         </note>
         <note xml:id="i-2WoHPjEJ4d3kozEyNNhGr7" xml:lang="fi">
@@ -23798,7 +23893,7 @@
           Esitettiin edusmiesten Pulkkisen ja Häklin tekemä näin kuuluva
           anomusehdotus:
         </note>
-        <note xml:id="i-8Qjrj31DuQsryF32SDhV9" xml:lang="fi">
+        <note xml:id="i-8Qjrj31DuQsryF32SDhV9" xml:lang="fi" type="speaker">
           Arvoisalle talonpoikaissäädylle.
         </note>
         <note xml:id="i-CKaurtNmHvC4EzZ2iaFVyn" xml:lang="fi">
@@ -23897,11 +23992,11 @@
           kun sitä oli kannatettu, jätettiin anomuksen käytteleminen ensi
           istuntoon.
         </note>
-        <note xml:id="i-XhP2nN85xPiHXNNr6hGn3k" xml:lang="fi">
+        <note xml:id="i-XhP2nN85xPiHXNNr6hGn3k" xml:lang="fi" type="speaker">
           Esitettiin edusmies Poutiaisen Säädylle jättämä näin kuuluva
           anomusehdotus:
         </note>
-        <note xml:id="i-P6mnLzgB4i7MytQqUwUi7g" xml:lang="fi">
+        <note xml:id="i-P6mnLzgB4i7MytQqUwUi7g" xml:lang="fi" type="speaker">
           Arvoisalle Talonpoikaissäädylle.
         </note>
         <note xml:id="i-WmqfqCxZ6qidDX8hme8y48" xml:lang="fi">
@@ -24318,12 +24413,12 @@
           on se, että muutoksen hakemusaika siten tulisi tekemään säntilleen
           6 viikkoa.
         </note>
-        <note xml:id="i-DP5W94WKdVuSLD1YKwDKEN" xml:lang="fi">
+        <note xml:id="i-DP5W94WKdVuSLD1YKwDKEN" xml:lang="fi" type="speaker">
           Puhujan oli keskeyttäminen lausuntonsa, kun sisään astui tavan
           mukaan vastaanotettuna Senaatin lähetystö, jonka johtaja herra
           senaattori Fellman lausui:
         </note>
-        <note xml:id="i-MTfP4X1rGY31CVjbs41NdS" xml:lang="fi">
+        <note xml:id="i-MTfP4X1rGY31CVjbs41NdS" xml:lang="fi" type="speaker">
           Kunnioitettava herra puhemies, arvoisa talonpoikaissääty !
         </note>
         <note xml:id="i-5QTW7D1qx7fAR8FGRKrF9x" xml:lang="fi">
@@ -25286,7 +25381,7 @@
           Esiteltiin edusmies Roinin y. m. Säädylle jättämä näin kuuluva
           anomusehdotus:
         </note>
-        <note xml:id="i-2DK5rQfbRviadQ4RZb7eUi" xml:lang="fi">
+        <note xml:id="i-2DK5rQfbRviadQ4RZb7eUi" xml:lang="fi" type="speaker">
           Arvoisalle Talonpoikaissäädylle.
         </note>
         <note xml:id="i-33AgTY81N8kD8A5Mn5NGeZ" xml:lang="fi">
@@ -26938,7 +27033,7 @@
           asiata Säädyssä käyteltäessä syntynyt keskustelupöytäkirja, niin
           pian kuin se valmistuisi, talousvaliokunnalle toimitettava.
         </note>
-        <note xml:id="i-AvT2BD9BQdGFYp4det1sZz" xml:lang="fi">
+        <note xml:id="i-AvT2BD9BQdGFYp4det1sZz" xml:lang="fi" type="speaker">
           Esitettiin edusmies Paksuniemen Säädylle antama näin kuuluva
           anomusesitys:
         </note>
@@ -26946,7 +27041,7 @@
         <note xml:id="i-HinTyetsvBpHZPqajrCRk1" xml:lang="fi">
           422 24 p. Helmik.
         </note>
-        <note xml:id="i-EpRNfKfKwUkaszUFNrYeVJ" xml:lang="fi">
+        <note xml:id="i-EpRNfKfKwUkaszUFNrYeVJ" xml:lang="fi" type="speaker">
           Arvoisalle Talonpoikaissäädylle!
         </note>
         <note xml:id="i-LBPuPVCzKN9QjxmsyRiX3j" xml:lang="fi">
@@ -27011,7 +27106,7 @@
         <note xml:id="i-FSHMTk2JSeEviE1nyW9iWN" xml:lang="fi">
           1) Edusmies Kiipulan laatima näin kuuluva:
         </note>
-        <note xml:id="i-Y3NGizXBktaWwf161tMxgA" xml:lang="fi">
+        <note xml:id="i-Y3NGizXBktaWwf161tMxgA" xml:lang="fi" type="speaker">
           Arvoisalle Talonpoikaissäädylle.
         </note>
         <note xml:id="i-V9gPvCaRASkfARg2pU1vCP" xml:lang="fi">
@@ -27047,7 +27142,7 @@
         <note xml:id="i-YF59rGS5HVgwVhXEoZG2xc" xml:lang="fi">
           2) Edusmies Poutiaisen ja Ryösän yhdessä tekemä:
         </note>
-        <note xml:id="i-GpbtvSMHmogaHtU7BFFTas" xml:lang="fi">
+        <note xml:id="i-GpbtvSMHmogaHtU7BFFTas" xml:lang="fi" type="speaker">
           Arvoisalle Talonpoikaissäädylle!
         </note>
         <note xml:id="i-DPVao4T7TFUxt371TEVBRv" xml:lang="fi">
@@ -27091,10 +27186,10 @@
         <note xml:id="i-9BpyTDVVGxqvg1vHVfRR4o" xml:lang="fi">
           T. Poutiainen. S. Ryösä.
         </note>
-        <note xml:id="i-LRSFbSBvaxBkaaCo69yob" xml:lang="fi">
+        <note xml:id="i-LRSFbSBvaxBkaaCo69yob" xml:lang="fi" type="speaker">
           3) Edusmies, kansakoulunopettaja Koiviston tekemä näin kuuluva:
         </note>
-        <note xml:id="i-VqeVmdRishTRN6gGMjiBWu" xml:lang="fi">
+        <note xml:id="i-VqeVmdRishTRN6gGMjiBWu" xml:lang="fi" type="speaker">
           Arvoisalle Talonpoikaissäädylle!
         </note>
         <note xml:id="i-HKXaZpQ3WbytEFp7cVjSFY" xml:lang="fi">
@@ -28403,14 +28498,19 @@
           Vähitellen on uusia professorinvirkoja yliopistoon asetettu, ja
           niin tulee epäilemättä vastedeskin tapahtumaan.
         </note>
-        <note xml:id="i-G6PrBqY5CJsEXjWMr6SZAe" xml:lang="sv">
-          Landtdagsmannen »Strähle: Då jag begärde ordet, var det min afsigt
-          att bemöta de synpunkter, som blifvit framhällna af landtdagsmannen
-          Niemelä och Meurman, men dä landtdagsmannen Castrén, Danielson
-          och Avellan redan hafva gjort det, vill jag icke upptaga ständets
-          tid med att försvara utskottsbetänkandet, utan ber jag att i allo
-          få förena mig om deras utlätande och förty godkänna betänkandet.
+        <note xml:id="i-G6PrBqY5CJsEXjWMr6SZAe" xml:lang="sv" type="speaker">
+          Landtdagsmannen »Strähle:
         </note>
+        <u who="unknown">
+          <seg>
+            Då jag begärde ordet, var det min afsigt att bemöta de synpunkter,
+            som blifvit framhällna af landtdagsmannen Niemelä och Meurman,
+            men dä landtdagsmannen Castrén, Danielson och Avellan redan hafva
+            gjort det, vill jag icke upptaga ständets tid med att försvara
+            utskottsbetänkandet, utan ber jag att i allo få förena mig om
+            deras utlätande och förty godkänna betänkandet.
+          </seg>
+        </u>
         <note xml:id="i-Cc5sSsW2fTdKrvYAJk45Na" xml:lang="fi" type="speaker">
           Edusmies Niemelä:
         </note>
@@ -29588,7 +29688,7 @@
           kertomus ynnä sen johdosta Säädyssä syntyneestä keskustelusta
           tehty pöytäkirja päätettiin lähettää pankkivaliokuntaan.
         </note>
-        <note xml:id="i-YQsr245wDN42MK6BYchVfR" xml:lang="fi">
+        <note xml:id="i-YQsr245wDN42MK6BYchVfR" xml:lang="fi" type="speaker">
           Julkiluettiin yleiseltä valitusvaliokunnalta tullut näin kuuluva
           kirjoitus:
         </note>

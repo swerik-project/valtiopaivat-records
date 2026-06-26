@@ -906,7 +906,7 @@
             hyväksymistä.
           </seg>
         </u>
-        <note xml:id="i-R95wAJfdL8y1yFuKcrJfHX" xml:lang="fi">
+        <note xml:id="i-R95wAJfdL8y1yFuKcrJfHX" xml:lang="fi" type="speaker">
           Kun yleinen keskustelu oli julistettu lopetetuksi, esitti Puhemies
           näin kuuluvan
         </note>
@@ -1073,7 +1073,7 @@
           merenkulku talvisaikana laivareitissä, jonka poikki talvitie on
           johdettu.
         </note>
-        <note xml:id="i-oG5ojU9Ha8Hy5fxS4jQfd" xml:lang="fi">
+        <note xml:id="i-oG5ojU9Ha8Hy5fxS4jQfd" xml:lang="fi" type="speaker">
           Säädylle tiedoksi luettiin lakivaliokunnalta saapunut näin kuuluva
           kirjoitus:
         </note>
@@ -2101,10 +2101,15 @@
           kotimaisille tavaran välittäjille ja se pelko, joka maakauppiailla
           tässä suhteessa on ollut, poistetuksi.
         </note>
-        <note xml:id="i-WFP4dohzaJh5nJVnJNdJMR" xml:lang="fi">
-          Edusmies Näs: Hvarpä äsikten, att kontrollen af beredda fodermedel
-          icke vore af behofvet påkallad, grundar sig, har jag
+        <note xml:id="i-WFP4dohzaJh5nJVnJNdJMR" xml:lang="fi" type="speaker">
+          Edusmies Näs:
         </note>
+        <u who="unknown">
+          <seg>
+            Hvarpä äsikten, att kontrollen af beredda fodermedel icke vore
+            af behofvet påkallad, grundar sig, har jag
+          </seg>
+        </u>
         <pb facs="https://swerik-project.github.io/valtiopaivat-records-pdf/1900/ptk_1900_talonpojat_II/ptk_1900_talonpojat_II-0037"/>
         <note xml:id="i-Hwo7ehqvDfpCAgGfPdfKg8" xml:lang="fi">
           552 'Talonpoikaissääty 23 p:nä maalisk. 1900.
@@ -2452,7 +2457,7 @@
             koskeva lainsäännös olisi poistettava.
           </seg>
         </u>
-        <note xml:id="i-4nE5V9fhUF8Q6YAezy7VzG" xml:lang="fi">
+        <note xml:id="i-4nE5V9fhUF8Q6YAezy7VzG" xml:lang="fi" type="speaker">
           Kun keskustelu oli julistettu lopetetuksi, esitti Puhemies ensinnä
           näin kuuluvan
         </note>
@@ -2860,7 +2865,7 @@
             on annettu.
           </seg>
         </u>
-        <note xml:id="i-VnPWmrZt9ZH25yoyD7edDW" xml:lang="fi">
+        <note xml:id="i-VnPWmrZt9ZH25yoyD7edDW" xml:lang="fi" type="speaker">
           Kun keskustelu puheena olevan kohdan johdosta oli julistettu
           lopetetuksi, esitti Puhemies ensinnä näin kuuluvan
         </note>
@@ -2882,7 +2887,7 @@
           alaisen kohdan poistamisesta esillä olevasta asetusehdotuksen
           pykälästä.
         </note>
-        <note xml:id="i-C4Z9iP2oyddudgi5UKFVZq" xml:lang="fi">
+        <note xml:id="i-C4Z9iP2oyddudgi5UKFVZq" xml:lang="fi" type="speaker">
           Tämän jälkeen Puhemies esitti seuraavan 2) äänestysesityksen
           :
         </note>
@@ -3005,26 +3010,30 @@
         <note xml:id="i-KKPREVGZjwTiRHf3dVQooY" xml:lang="fi">
           Mietinnön 10 sivulla oleva ponsilause esitettyä sai sananvuoron
         </note>
-        <note xml:id="i-JCLyqXDLFfNLy2nQEsPVNx" xml:lang="fi">
-          edusmies Reuter, joka lausui: Utskottet har i sin motivering
-          bland annat ocksä nämnt, att det icke anser sig kunna närmare
-          angifva riktningen för den förordade nya lagstiftningen. Det nämner,
-          ,att af vintersjöfartens obestridliga nytta för landet i dess
-          helhet borde följa, att äfven staten betraktas, som en intressent,
-          den där kraftigt borde bidraga till byggande och underhäll af
-          de rörliga broar eller andra anstalter, som blifva nödiga för
-          vintervägarnes ledande öfver ängbätarnas rännor i isen. Denna
-          äsikt har inom utskottet med sä mycket större skäl kunnat uttalas,
-          som jämväl Kejs. Senaten genom ofvan anförda resolution af den
-          13 April 1899 gifvit stöd för densamma". Detta tycktes ju såsom
-          en mycket lofvande början för ett slutligt reglerande utaf denna
-          nu föreliggande fråga. Men utskottet har äfven uttalat sig därhän,
-          ,att utskottet icke kunnat undgå att beakta, hurusom en lagstiftning
-          rörande vintersjöfarten i farleder öfver hvilka vintervägar äro
-          anlagda, delvis hänför sig till vattenrätts-lagstiftningens område,
-          hvars revision är föremål för en nåd. proposition vid innevarande
-          landtdag. Inom utskottet
+        <note xml:id="i-JCLyqXDLFfNLy2nQEsPVNx" xml:lang="fi" type="speaker">
+          edusmies Reuter, joka lausui:
         </note>
+        <u who="unknown">
+          <seg>
+            Utskottet har i sin motivering bland annat ocksä nämnt, att det
+            icke anser sig kunna närmare angifva riktningen för den förordade
+            nya lagstiftningen. Det nämner, ,att af vintersjöfartens obestridliga
+            nytta för landet i dess helhet borde följa, att äfven staten betraktas,
+            som en intressent, den där kraftigt borde bidraga till byggande
+            och underhäll af de rörliga broar eller andra anstalter, som blifva
+            nödiga för vintervägarnes ledande öfver ängbätarnas rännor i isen.
+            Denna äsikt har inom utskottet med sä mycket större skäl kunnat
+            uttalas, som jämväl Kejs. Senaten genom ofvan anförda resolution
+            af den 13 April 1899 gifvit stöd för densamma". Detta tycktes
+            ju såsom en mycket lofvande början för ett slutligt reglerande
+            utaf denna nu föreliggande fråga. Men utskottet har äfven uttalat
+            sig därhän, ,att utskottet icke kunnat undgå att beakta, hurusom
+            en lagstiftning rörande vintersjöfarten i farleder öfver hvilka
+            vintervägar äro anlagda, delvis hänför sig till vattenrätts-lagstiftningens
+            område, hvars revision är föremål för en nåd. proposition vid
+            innevarande landtdag. Inom utskottet
+          </seg>
+        </u>
         <pb facs="https://swerik-project.github.io/valtiopaivat-records-pdf/1900/ptk_1900_talonpojat_II/ptk_1900_talonpojat_II-0051"/>
         <note xml:id="i-7T5fEQX6NYwyBNFtAUx7Yu" xml:lang="fi">
           566 Talonpoikaissääty 23 p:nä maalisk. 1900.
@@ -3154,13 +3163,13 @@
         <note xml:id="i-9UraXFcMhCHVjk6kBce2xs" xml:lang="fi">
           Mietintö pantiin pöydälle säädyn ensintulevaan täysi-istuntoon.
         </note>
-        <note xml:id="i-EXQcXmncJS3KHHPxXCTGpD" xml:lang="fi">
+        <note xml:id="i-EXQcXmncJS3KHHPxXCTGpD" xml:lang="fi" type="speaker">
           Säädylle tiedoksi luettiin näin kuuluva kirjelmä:
         </note>
         <note xml:id="i-V5rsjCwi878jxFGkkDa2Hj" xml:lang="fi">
           Suomen Valtiosäätyjen LAKIVALIOKUNTA.
         </note>
-        <note xml:id="i-XKjS42xnnnpnYVpe34jUWC" xml:lang="fi">
+        <note xml:id="i-XKjS42xnnnpnYVpe34jUWC" xml:lang="fi" type="speaker">
           Arvoisalle Talonpoikaissäädylle.
         </note>
         <note xml:id="i-M5c3jrqFRfozeVv27etPKA" xml:lang="fi">
@@ -3202,7 +3211,7 @@
         <note xml:id="i-F8C4TdfqK5DWRWPjoKTPXZ" xml:lang="fi">
           Suomen Valtiosäätyjen LAKI- ja TALOUSVALIOKUNTA.
         </note>
-        <note xml:id="i-73pLU8zqLAqVbDEKwPCinC" xml:lang="fi">
+        <note xml:id="i-73pLU8zqLAqVbDEKwPCinC" xml:lang="fi" type="speaker">
           Arvoisalle Talonpoikaissäädylle.
         </note>
         <note xml:id="i-CGwK9DXRiFYmdpoKjKFzKa" xml:lang="fi">
@@ -3261,7 +3270,7 @@
         <note xml:id="i-WVk4ovoZLMqvdp8pxyT5B5" xml:lang="fi">
           Suomen Valtiosäätyjen LAKI- ja TALOUSVALIOKUNTA.
         </note>
-        <note xml:id="i-Dzv2bYsXqJrn4fCEeEmWrn" xml:lang="fi">
+        <note xml:id="i-Dzv2bYsXqJrn4fCEeEmWrn" xml:lang="fi" type="speaker">
           — Arvoisalle Talonpoikaissäädylle.
         </note>
         <note xml:id="i-3pMaBemQgnJRZ3GXriYtir" xml:lang="fi">
@@ -3296,7 +3305,7 @@
         <note xml:id="i-2ce6jdg79hwmebg3chbQaZ" xml:lang="fi">
           YLEINEN VALITUSVALIOKUNTA.
         </note>
-        <note xml:id="i-LfPif5aU1R1nXyNtoQN7E2" xml:lang="fi">
+        <note xml:id="i-LfPif5aU1R1nXyNtoQN7E2" xml:lang="fi" type="speaker">
           Arvoisalle Talonpoikaissäädylle.
         </note>
         <note xml:id="i-6qXZzvMEFPAnppLXMXZUjX" xml:lang="fi">
@@ -3588,13 +3597,13 @@
         <note xml:id="i-YXidriVatgxaNsNQXbKCyM" xml:lang="fi">
           578 Talonpoikaissääty 27 p:nä maalisk. 1900.
         </note>
-        <note xml:id="i-LF3inb5iicp4kNtYWVEiPq" xml:lang="fi">
+        <note xml:id="i-LF3inb5iicp4kNtYWVEiPq" xml:lang="fi" type="speaker">
           Esillä olevan mietinnön käsittely oli nyt keskeytettävä, kun
           tavanmukaisesti vastaanotettuna säätyyn saapui senaattori Johan
           Julian Serlachius, seurassaan esittelijäsihteeri Arthur Kniper,
           joista edellinen lausui:
         </note>
-        <note xml:id="i-VtnAXkgMvPKxbsrREMm2Sw" xml:lang="fi">
+        <note xml:id="i-VtnAXkgMvPKxbsrREMm2Sw" xml:lang="fi" type="speaker">
           Kunnioitettava herra Puhemies, arvoisa Talonpoikaissääty !
         </note>
         <note xml:id="i-YH9ck5ZN5Cf37uVq6VW8K2" xml:lang="fi">
@@ -4720,7 +4729,7 @@
           on asiaa tutkimassa ja esitys sen antaman mietinnön johdosta luultavasti
           saadaan ensi valtiopäiville, niin yhdistyn ensimmäiseen vastalauseeseen.
         </note>
-        <note xml:id="i-PXQbBCorhhfpoXty7duQoZ" xml:lang="fi">
+        <note xml:id="i-PXQbBCorhhfpoXty7duQoZ" xml:lang="fi" type="speaker">
           Kun yleinen keskustelu asiasta oli julistettu päättyneeksi, esitti
           Puhemies seuraavan
         </note>
@@ -4963,7 +4972,7 @@
             päinvastaiseen suuntaan.
           </seg>
         </u>
-        <note xml:id="i-EoY5DicdMpiP6Qxq6YDFFK" xml:lang="fi">
+        <note xml:id="i-EoY5DicdMpiP6Qxq6YDFFK" xml:lang="fi" type="speaker">
           Kun keskustelu esillä olevan pykälän johdosta oli julistettu
           lopetetuksi, esitti Puhemies näin kuuluvan
         </note>
@@ -4995,7 +5004,7 @@
           2, 3 ja 4 $ sekä asetusehdotuksen otsakirjoitus ja johdanto hyväksyttiin
           semmoisikseen kuin valiokunta ne oli ehdottanut.
         </note>
-        <note xml:id="i-ExN47mJ3PDk4R3xSGhnzQ5" xml:lang="fi">
+        <note xml:id="i-ExN47mJ3PDk4R3xSGhnzQ5" xml:lang="fi" type="speaker">
           Puhemies luki julki näin kuuluvan kirjelmän:
         </note>
         <note xml:id="i-2xpaSSaG6nqFyJitLHkeB2" xml:lang="fi">
@@ -7394,7 +7403,7 @@
             määräys säätylaissa.
           </seg>
         </u>
-        <note xml:id="i-BQTTJkDEb6uexSi9xMFYkc" xml:lang="fi">
+        <note xml:id="i-BQTTJkDEb6uexSi9xMFYkc" xml:lang="fi" type="speaker">
           Kun keskustelu puheena olevasta kohdasta oli julistettu lopetetuksi,
           esitti Puhemies säädyn vastattavaksi seuraavan
         </note>
@@ -7622,7 +7631,7 @@
             minä en ryhdy mihinkään pitempiin selityksiin asiassa.
           </seg>
         </u>
-        <note xml:id="i-6Cc8htfaHXmFv1PgyPDbgu" xml:lang="fi">
+        <note xml:id="i-6Cc8htfaHXmFv1PgyPDbgu" xml:lang="fi" type="speaker">
           Kun keskustelu pykälän johdosta oli julistettu lopetetuksi, esitti
           Puhemies näin kuuluvan
         </note>
@@ -7719,7 +7728,7 @@
             voi katsoa, että nämä muistutukset ovat oikeutettuja. N :
           </seg>
         </u>
-        <note xml:id="i-9GNvqdtxhE8yjbgYKp6zKs" xml:lang="fi">
+        <note xml:id="i-9GNvqdtxhE8yjbgYKp6zKs" xml:lang="fi" type="speaker">
           Sittenkun sääty oli hyväksynyt esillä olevan pykälän sisällyksen
           sellaisenaan, esitti Puhemies edusmies Avellanin äsken keskustelussa
           tekemäin ehdotusten johdosta säädyn vastattavaksi ensiksi näin
@@ -7818,7 +7827,7 @@
           koskee maalaiskansakoulujen mies- ja naisopettajien palkkaamiseksi
           maksettavan valtioavun korottamista.
         </note>
-        <note xml:id="i-2j7peMfycVXoQo6FRBAhs5" xml:lang="fi">
+        <note xml:id="i-2j7peMfycVXoQo6FRBAhs5" xml:lang="fi" type="speaker">
           Ensimmäinen ponsilause mietinnön 18 sivulla. Kesku stelu:
         </note>
         <note xml:id="i-QJF7AVAGgrX4gtmV2bbT5E" xml:lang="fi" type="speaker">
@@ -8096,10 +8105,15 @@
           siis, että sääty lausuisi periaatteellisesti hyväksyvänsä mietinnön
           18 sivulla olevan tätä asiaa koskevan kohdan perustelun.
         </note>
-        <note xml:id="i-TZoMdxxpvBVXt2WwhFzziD" xml:lang="fi">
-          Edusmies Näs: Jag ansluter mig till lanätäagsm. Flygares senaste
-          uttalande i saken.
+        <note xml:id="i-TZoMdxxpvBVXt2WwhFzziD" xml:lang="fi" type="speaker">
+          Edusmies Näs:
         </note>
+        <u who="unknown">
+          <seg>
+            Jag ansluter mig till lanätäagsm. Flygares senaste uttalande
+            i saken.
+          </seg>
+        </u>
         <note xml:id="i-8ekYnEXAkGcsgyrNAbHviQ" xml:lang="fi" type="speaker">
           Edusmies Halonen:
         </note>
@@ -8347,9 +8361,14 @@
           tiistaina, tulevan huhtikuun 3 päivänä klo 7 i. p., julisti Puhemies
           tämän täysi-istunnon päättyneeksi klo 1,45 yöllä.
         </note>
-        <note xml:id="i-TZKHBKH4sxEW9iPB4kapRv" xml:lang="unknown">
-          In fidem: Vilho Luukkonen:
+        <note xml:id="i-TZKHBKH4sxEW9iPB4kapRv" xml:lang="unknown" type="speaker">
+          In fidem:
         </note>
+        <u who="unknown">
+          <seg>
+            Vilho Luukkonen:
+          </seg>
+        </u>
         <note xml:id="i-Kf4oJvWN6enuZw5UitX7VJ" xml:lang="fi">
           Tiistaina 3 p:nä huhtikuuta 1900 k:lo 7 i. p.
         </note>
@@ -8850,7 +8869,7 @@
         <note xml:id="i-SSsTp9pRYU7tsWE3Xz7wNA" xml:lang="fi">
           TOIMITUSVALIOKUNTA.
         </note>
-        <note xml:id="i-3Qeyf9XrCe1Kb4mWbzCsDz" xml:lang="fi">
+        <note xml:id="i-3Qeyf9XrCe1Kb4mWbzCsDz" xml:lang="fi" type="speaker">
           Arvoisalle Talonpoikaissäädylle.
         </note>
         <note xml:id="i-MLouF8MCz5ygXGWpxFP16o" xml:lang="fi">
@@ -9007,7 +9026,7 @@
         <note xml:id="i-9astC8s9ZM8VerMQX9bAuC" xml:lang="fi">
           Perjantaina 6 p:nä huhtikuuta 1900 k:lo 7 i. p.
         </note>
-        <note xml:id="i-LdNti4aQYQ6AQvWWXKiJyJ" xml:lang="fi">
+        <note xml:id="i-LdNti4aQYQ6AQvWWXKiJyJ" xml:lang="fi" type="speaker">
           Puhemies luki julki senaattori Enebergiltä saapuneen näin kuuluvan
           kirjelmän:
         </note>
@@ -9361,7 +9380,7 @@
         <note xml:id="i-8nWquoev6uCmSk81oUCaSZ" xml:lang="fi">
           YLEINEN VALITUSVALIOKUNTA.
         </note>
-        <note xml:id="i-TBQ2bYWTALAKgS8BAinD3v" xml:lang="fi">
+        <note xml:id="i-TBQ2bYWTALAKgS8BAinD3v" xml:lang="fi" type="speaker">
           Arvoisalle Talonpoikaissäädylle.
         </note>
         <note xml:id="i-H6s4vKXjGob1Kupe1eRKHu" xml:lang="fi">
@@ -9429,7 +9448,7 @@
         <note xml:id="i-VZnsaP44EvU36pkt3y7CpR" xml:lang="fi">
           Suomen Säätyjen VALTIOVALIOKUNTA.
         </note>
-        <note xml:id="i-4v9b1ZmXKQ7N1U3ZuCsdji" xml:lang="fi">
+        <note xml:id="i-4v9b1ZmXKQ7N1U3ZuCsdji" xml:lang="fi" type="speaker">
           Arvoisalle Talonpoikaissäädylle.
         </note>
         <note xml:id="i-VwfuXMdzPRwWK45XqrmhWg" xml:lang="fi">
@@ -9764,7 +9783,7 @@
             Minä kannatan sitä, että sääty pysyy entisessä päätöksessään.
           </seg>
         </u>
-        <note xml:id="i-2bEUCSdnH7naor5ESqoGkA" xml:lang="fi">
+        <note xml:id="i-2bEUCSdnH7naor5ESqoGkA" xml:lang="fi" type="speaker">
           Kun keskustelu käsillä olevan momentin johdosta oli julistettu
           lopetetuksi, esitti Puhemies säädyn vastattavaksi näin kuuluvan
         </note>
@@ -10641,7 +10660,7 @@
         <note xml:id="i-LtaAr89GjrvpHQNMtgfp3q" xml:lang="fi">
           Mietintö pantiin pöydälle säädyn ensintulevaan täysiistuntoon.
         </note>
-        <note xml:id="i-LoJrwNV87CQrGBrbyNVCYs" xml:lang="fi">
+        <note xml:id="i-LoJrwNV87CQrGBrbyNVCYs" xml:lang="fi" type="speaker">
           Luettiin julki säädyn valitsijamiesten puheenjohtajalta saapunut
           näin kuuluva:
         </note>
@@ -10688,7 +10707,7 @@
         <note xml:id="i-5CvQxu9PBAjpuk3otmtdGx" xml:lang="fi">
           Esitettiin säädylle asetettu näin kuuluva kirjoitus:
         </note>
-        <note xml:id="i-XPvcecHHfmpyGpcrx3fehD" xml:lang="fi">
+        <note xml:id="i-XPvcecHHfmpyGpcrx3fehD" xml:lang="fi" type="speaker">
           Arvoisalle Talonpoikaissäädylle.
         </note>
         <note xml:id="i-PoumiBww3siwwmEtvdZGQv" xml:lang="sv">
@@ -10792,7 +10811,7 @@
           Luettiin säädylle tiedoksi yleiseltä valitusvaliokunnalta saapunut
           seuraava kirjelmä:
         </note>
-        <note xml:id="i-Y6WxsvHdvFSCh3jkeptFVs" xml:lang="fi">
+        <note xml:id="i-Y6WxsvHdvFSCh3jkeptFVs" xml:lang="fi" type="speaker">
           Suomen säätyjen YLEINEN VALITUSVALIOKUNTA. Arvoisalle Talonpoikaissäädylle.
         </note>
         <note xml:id="i-TeNNc3zuTujrW1ATHBKRNk" xml:lang="fi">
@@ -10823,7 +10842,7 @@
         <note xml:id="i-CSuYKCQF5KqhQVfpWiiAr6" xml:lang="fi">
           Suomen Säätyjen YLEINEN VALITUSVALIOKUNTA.
         </note>
-        <note xml:id="i-PfXpzAappco4v6sPhE7rbV" xml:lang="fi">
+        <note xml:id="i-PfXpzAappco4v6sPhE7rbV" xml:lang="fi" type="speaker">
           Arvoisalle Talonpoikaissäädylle.
         </note>
         <note xml:id="i-CZgj6HviAAiaZZznds1mob" xml:lang="fi">
@@ -11046,18 +11065,23 @@
           konaan poistettava. Mutta kun en tahdo tehdä mitään muutoksia,
           niin hyväksyn minäkin valiokunnan mietinnön.
         </note>
-        <note xml:id="i-AFtDkHcvfeWhsV3XxUCkpv" xml:lang="fi">
-          Edusmies Näs: Om man nägot närmare med litet mera eftertanke
-          genomläser nu föreliggande betänkande och följaktligen de motiv
-          utskottet däri framhäller säsom grundvalen för dess afböjande
-          kläm och yttermera den jämförande öfversikt af de motiv, som reservanterna
-          i reservationen framställa, sä finner man, att motiverna i den
-          sistnämnda äro enklare och därjemte pä sak gående, särskildt med
-          fäst afseende pä den för handen varande tidens allmänna praktiska
-          kraf, hvadan jag för min del anser, att klämmen i reservationen
-          är att föredraga. På grund af hvad jag haft äran framhälla understöder
-          jag sälunda reservationen.
+        <note xml:id="i-AFtDkHcvfeWhsV3XxUCkpv" xml:lang="fi" type="speaker">
+          Edusmies Näs:
         </note>
+        <u who="unknown">
+          <seg>
+            Om man nägot närmare med litet mera eftertanke genomläser nu
+            föreliggande betänkande och följaktligen de motiv utskottet däri
+            framhäller säsom grundvalen för dess afböjande kläm och yttermera
+            den jämförande öfversikt af de motiv, som reservanterna i reservationen
+            framställa, sä finner man, att motiverna i den sistnämnda äro
+            enklare och därjemte pä sak gående, särskildt med fäst afseende
+            pä den för handen varande tidens allmänna praktiska kraf, hvadan
+            jag för min del anser, att klämmen i reservationen är att föredraga.
+            På grund af hvad jag haft äran framhälla understöder jag sälunda
+            reservationen.
+          </seg>
+        </u>
         <note xml:id="i-VFx4z2dpm5AQzm9p6JeG6S" xml:lang="fi" type="speaker">
           Edusmies Halonen:
         </note>
@@ -13107,7 +13131,7 @@
             kannot pois, vieläpä maan altakin.
           </seg>
         </u>
-        <note xml:id="i-WZH5VvTA4yDU2Q3aoXscvG" xml:lang="fi">
+        <note xml:id="i-WZH5VvTA4yDU2Q3aoXscvG" xml:lang="fi" type="speaker">
           Kun keskustelu asiasta oli julistettu lopetetuksi, esitti Puhemies
           säädyn vastattavaksi näin kuuluvan
         </note>
@@ -13265,7 +13289,7 @@
           Edellä mainitun pyyntökirjelmän yhteydessä esitettiin samalla
           näin kuuluva kirjoitus:
         </note>
-        <note xml:id="i-2x1jmZGgeXbyyC4pwjRABE" xml:lang="fi">
+        <note xml:id="i-2x1jmZGgeXbyyC4pwjRABE" xml:lang="fi" type="speaker">
           Arvoisalle Talonpoikaissäädylle.
         </note>
         <note xml:id="i-SFVG6tY2LQXrTWF928XE4L" xml:lang="fi">
@@ -13283,7 +13307,7 @@
         <note xml:id="i-AnsFmAFPL1LKB7w1m1ZmN2" xml:lang="fi">
           kuin myös tällainen:
         </note>
-        <note xml:id="i-PCoNQ7mmgjWgu4xb9HWXc2" xml:lang="fi">
+        <note xml:id="i-PCoNQ7mmgjWgu4xb9HWXc2" xml:lang="fi" type="speaker">
           Arvoisalle Talonpoikaissäädylle.
         </note>
         <note xml:id="i-29v1KypzpawZAwrCQnnS1n" xml:lang="sv">
@@ -13303,7 +13327,7 @@
         <note xml:id="i-FMCCrP21WMdTZLBrYYjNmm" xml:lang="fi">
           ynnä vielä viimeiseksi seuraava-sisältöinen:
         </note>
-        <note xml:id="i-P6H4J6GQNmDb3yWoCTmm3c" xml:lang="fi">
+        <note xml:id="i-P6H4J6GQNmDb3yWoCTmm3c" xml:lang="fi" type="speaker">
           Arvoisalle Talonpoikaissäädylle.
         </note>
         <note xml:id="i-2wZHwkHw95LWvhykBMBrS8" xml:lang="fi">
@@ -13960,13 +13984,13 @@
         <note xml:id="i-CAgkXwS5FBZ9AK98bJzo8U" xml:lang="fi">
           Tarkastusvaliokunta. 755
         </note>
-        <note xml:id="i-3ApsR4SpRg4cpDqYH1J6Ww" xml:lang="fi">
+        <note xml:id="i-3ApsR4SpRg4cpDqYH1J6Ww" xml:lang="fi" type="speaker">
           Säädylle tiedoksi luettiin näin kuuluva kirjelmä:
         </note>
         <note xml:id="i-RUxvaXB19xh3LYtvCmyujf" xml:lang="fi">
           Suomen Valtiosäätyjen TARKASTUSVALIOKUNTA.
         </note>
-        <note xml:id="i-ZDDeAFGdakFu8bE1oxSc8" xml:lang="fi">
+        <note xml:id="i-ZDDeAFGdakFu8bE1oxSc8" xml:lang="fi" type="speaker">
           Arvoisalle Talonpoikaissäädylle.
         </note>
         <note xml:id="i-8ZePWgrsTy7A2GFLSaFiLM" xml:lang="fi">
@@ -13986,7 +14010,7 @@
         <note xml:id="i-MjHeLSXDxL3jEfpDesom84" xml:lang="fi">
           Suomen Valtiosäätyjen LAKIVALIOKUNTA.
         </note>
-        <note xml:id="i-ShWVQ2A7YXmNz749TTmLzC" xml:lang="fi">
+        <note xml:id="i-ShWVQ2A7YXmNz749TTmLzC" xml:lang="fi" type="speaker">
           Arvoisalle Talonpoikaissäädylle.
         </note>
         <note xml:id="i-jm6VJEvdyeWmYy7UTAAvK" xml:lang="fi">
@@ -14102,9 +14126,14 @@
           Ilmoitettiin toisista säädyistä vielä saapuneen useita pöytäkirjanotteita,
           jotka liitettiin säädyn asiakirjoihin.
         </note>
-        <note xml:id="i-CTwFs3YFUsNuatWgesDomY" xml:lang="fi">
-          Säädylle esitettiin näin kuuluva kirjoitus: Arvoisalle Talonpoikaissäädylle.
+        <note xml:id="i-CTwFs3YFUsNuatWgesDomY" xml:lang="fi" type="speaker">
+          Säädylle esitettiin näin kuuluva kirjoitus:
         </note>
+        <u who="unknown">
+          <seg>
+            Arvoisalle Talonpoikaissäädylle.
+          </seg>
+        </u>
         <note xml:id="i-RoH3CWtpk59mbv1npf8d1N" xml:lang="fi">
           Arvoisalta Talonpoikaissäädyltä pyydän täten nöyrimmästi lupaa
           julkaista kokonaisuudessaan tai lyhennysotteina Viipurin kaupungissa
@@ -14608,7 +14637,7 @@
           vastuunalaisilta toimittajilta säädylle tuodut kirjelmät, ollen
           ensinmainittu näin kuuluva:
         </note>
-        <note xml:id="i-DiF5zja2FW5ANj2p47LYuE" xml:lang="fi">
+        <note xml:id="i-DiF5zja2FW5ANj2p47LYuE" xml:lang="fi" type="speaker">
           Arvoisalle Talonpoikaissäädylle.
         </note>
         <note xml:id="i-XxkiqdtTYMQP4CXPBidAxu" xml:lang="fi">
@@ -14650,7 +14679,7 @@
         <note xml:id="i-BuiW8GQwbrALpWv3PuUHqx" xml:lang="fi">
           Suomen Valtiosäätyjen YLEINEN VALITUSVALIOKUNTA.
         </note>
-        <note xml:id="i-RUM5qY6N1RCWVeVDDeZ8VZ" xml:lang="fi">
+        <note xml:id="i-RUM5qY6N1RCWVeVDDeZ8VZ" xml:lang="fi" type="speaker">
           Arvoisalle Talonpoikaissäädylle.
         </note>
         <note xml:id="i-HuKBV9BVxxo73aeX3CXHMk" xml:lang="fi">
@@ -14783,7 +14812,7 @@
         <note xml:id="i-J9rdMnDgUhEYTmSjauYgQq" xml:lang="fi">
           Suomen Säätyjen LAKIVALIOKUNTA.
         </note>
-        <note xml:id="i-SwCW9eSpEsdYqPt1JvEJcP" xml:lang="fi">
+        <note xml:id="i-SwCW9eSpEsdYqPt1JvEJcP" xml:lang="fi" type="speaker">
           Arvoisalle Talonpoikaissäädylle.
         </note>
         <note xml:id="i-Y2PRmCCvWJVDedBGykPkDt" xml:lang="fi">
@@ -15233,7 +15262,7 @@
             jotka jo mainitsin.
           </seg>
         </u>
-        <note xml:id="i-KJxSrziXuztiUdqNfnUfha" xml:lang="fi">
+        <note xml:id="i-KJxSrziXuztiUdqNfnUfha" xml:lang="fi" type="speaker">
           Kun keskustelu kysymyksessä olevista ponsilauseista oli julistettu
           päättyneeksi, esitti Puhemies ensiksi näin kuuluvan
         </note>
@@ -15258,7 +15287,7 @@
           voitolla, joten sääty tällä kertaa oli hyväksynyt puheena olevan
           ponnen sellaisenaan.
         </note>
-        <note xml:id="i-PAS1d1zs8PF4iHNCBpLaGY" xml:lang="fi">
+        <note xml:id="i-PAS1d1zs8PF4iHNCBpLaGY" xml:lang="fi" type="speaker">
           Tämän jälkeen Puhemies esitti näin kuuluvan äänestysesityksen
           :
         </note>
@@ -16816,7 +16845,7 @@
           asetukseen sama sana ,tuberkuloosi* ja sitten tuo entinen asetus
           nystyrätautineen häviää.
         </note>
-        <note xml:id="i-7WW2GTvXyGfpD3Uwoj39gh" xml:lang="fi">
+        <note xml:id="i-7WW2GTvXyGfpD3Uwoj39gh" xml:lang="fi" type="speaker">
           Keskustelun lopetetuksi julistettuaan Puhemies esitti näin kuuluvan
         </note>
         <note xml:id="i-TZWSnLtPorquhXe4xf2amr" xml:lang="fi">
@@ -17288,10 +17317,15 @@
             tulee sitä toisin käsittämään.
           </seg>
         </u>
-        <note xml:id="i-X4h5KjiM3GdFva69924nsQ" xml:lang="fi">
-          Edusmies Leppänen, Liperin tuomiokunnasta: Minä myös yhdyn edusmiesten
-          Bremerin ja Hollmönin mielipiteeseen tässä
+        <note xml:id="i-X4h5KjiM3GdFva69924nsQ" xml:lang="fi" type="speaker">
+          Edusmies Leppänen, Liperin tuomiokunnasta:
         </note>
+        <u who="unknown">
+          <seg>
+            Minä myös yhdyn edusmiesten Bremerin ja Hollmönin mielipiteeseen
+            tässä
+          </seg>
+        </u>
         <pb facs="https://swerik-project.github.io/valtiopaivat-records-pdf/1900/ptk_1900_talonpojat_II/ptk_1900_talonpojat_II-0289"/>
         <note xml:id="i-D6Pek4n75dWo2RzYMJ2WfP" xml:lang="fi">
           810 Talonpoikaissääty 3 p:nä toukok. 1900.
@@ -17300,7 +17334,7 @@
           asiassa, enkä pidä soveliaana sitä tapaa, että mietintöä moititaan,
           vaikka ei ole ehdotettavana mitään parempaa sijaan.
         </note>
-        <note xml:id="i-LcsasEfWrobujqmLZoYmDj" xml:lang="fi">
+        <note xml:id="i-LcsasEfWrobujqmLZoYmDj" xml:lang="fi" type="speaker">
           Kun keskustelu oli julistettu päättyneeksi, esitti Puhemies näin
           kuuluvan
         </note>
@@ -17613,7 +17647,7 @@
           Kun keskustelu oli julistettu päättyneeksi, katsottiin säädyn
           tahtovan hyväksyä 7 8:n viimeisen kohdan.
         </note>
-        <note xml:id="i-EvE1EMhq7iZieKVN9Cq8d" xml:lang="fi">
+        <note xml:id="i-EvE1EMhq7iZieKVN9Cq8d" xml:lang="fi" type="speaker">
           Vaan edusmies Roihan äsken tekemän ehdotuksen johdosta, jota
           keskustelussa oli kannatettu, Puhemies esitti näin kuuluvan
         </note>
@@ -17939,7 +17973,7 @@
         <note xml:id="i-REuwVjAMgzPRv4VgojRnKp" xml:lang="fi">
           Suomen Valtiosäätyjen TALOUSVALIOKUNTA.
         </note>
-        <note xml:id="i-WTwsUTrmYrekLMjsJwarWd" xml:lang="fi">
+        <note xml:id="i-WTwsUTrmYrekLMjsJwarWd" xml:lang="fi" type="speaker">
           Arvoisalle Talonpoikaissäädylle.
         </note>
         <note xml:id="i-TN675ZH7gBpPMAGXjp5DXE" xml:lang="fi">
@@ -18055,26 +18089,31 @@
           »asianmukaisesti", kaikki tämä sillä tavalla kuin sanat valiokunnan
           tekemässä asetusehdotuksessa kuuluvat.
         </note>
-        <note xml:id="i-EBRTjmTKYq86YTJZXaGhqG" xml:lang="fi">
-          Edusmies Näs: Jämte det jag ansluter mig till utskottets betänkande,
-          vill jag med afseende ä innehället i förevarande paragraf om civilregistrator
-          endast hafva tillagdt, att jag anser, att prästerskapet i de evangelisk-lutherska
-          församlingarna vore den lämpligaste myndigheten att sköta om ifrägavarande
-          civilinregistrering utan vidare tillökning af deras nuvarande
-          löneförmäner, hvilka i sig själfva äro sä pass rundligt dem tillagda,
-          att ett sä litet tidsödande arbete, som detta komme att blifva,
-          nog kunde skötas jämsides med deras öfriga tjänsteäligganden.
-          Med hänsyn till det sist anförda framhäller jag säsom min äsikt,
-          att ständet borde äterremittera betänkandet till utskottet i och
-          för omformulering af denna paragraf i omnämndt syfte. Fä vi icke
-          en lagbestämning härom, sä komma vi — mer än sannolikt — att i
-          dessa civilregistreringstjänstemän få ännu en löntagare mera bland
-          personalen i vär kyrkliga synod, hvilken enligt min uppfattning
-          allaredan bort vara fulltalig. Jag tror icke häller, att prästerskapet
-          själft har nägot emot att emottaga uppdraget, ty ju flera församlingsmedlemmar
-          upptagas i registret, dess mindre arbete fä de med den kvarblifna
-          delen, under det att löneförmänerna blifva nästan desamma.
+        <note xml:id="i-EBRTjmTKYq86YTJZXaGhqG" xml:lang="fi" type="speaker">
+          Edusmies Näs:
         </note>
+        <u who="unknown">
+          <seg>
+            Jämte det jag ansluter mig till utskottets betänkande, vill jag
+            med afseende ä innehället i förevarande paragraf om civilregistrator
+            endast hafva tillagdt, att jag anser, att prästerskapet i de evangelisk-lutherska
+            församlingarna vore den lämpligaste myndigheten att sköta om ifrägavarande
+            civilinregistrering utan vidare tillökning af deras nuvarande
+            löneförmäner, hvilka i sig själfva äro sä pass rundligt dem tillagda,
+            att ett sä litet tidsödande arbete, som detta komme att blifva,
+            nog kunde skötas jämsides med deras öfriga tjänsteäligganden.
+            Med hänsyn till det sist anförda framhäller jag säsom min äsikt,
+            att ständet borde äterremittera betänkandet till utskottet i och
+            för omformulering af denna paragraf i omnämndt syfte. Fä vi icke
+            en lagbestämning härom, sä komma vi — mer än sannolikt — att i
+            dessa civilregistreringstjänstemän få ännu en löntagare mera bland
+            personalen i vär kyrkliga synod, hvilken enligt min uppfattning
+            allaredan bort vara fulltalig. Jag tror icke häller, att prästerskapet
+            själft har nägot emot att emottaga uppdraget, ty ju flera församlingsmedlemmar
+            upptagas i registret, dess mindre arbete fä de med den kvarblifna
+            delen, under det att löneförmänerna blifva nästan desamma.
+          </seg>
+        </u>
         <note xml:id="i-JsmpTZ87F91txDmUrDfKAA" xml:lang="fi" type="speaker">
           Edusmies Koskelin:
         </note>
@@ -19155,7 +19194,7 @@
           = Edusmies Leppänen, Ilomantsin tuomiokunnasta, kannatti valiokunnan
           laatimaa ehdotusta kysymyksessä olevaan pykälään nähden.
         </note>
-        <note xml:id="i-4s1KkY1cM3JbsSkRYCa4SB" xml:lang="fi">
+        <note xml:id="i-4s1KkY1cM3JbsSkRYCa4SB" xml:lang="fi" type="speaker">
           Keskustelun esillä olevasta pykälästä lopetetuksi julistettuaan,
           Puhemies esitti ensiksi näin kuuluvan
         </note>
@@ -19238,7 +19277,7 @@
             säädyn lopullinen päätös.
           </seg>
         </u>
-        <note xml:id="i-AzUrJDKvrRgEG9c8gThr29" xml:lang="fi">
+        <note xml:id="i-AzUrJDKvrRgEG9c8gThr29" xml:lang="fi" type="speaker">
           Tämän jälkeen Puhemies esitti ja sääty hyväksyi näin kuuluvan
         </note>
         <note xml:id="i-M3curvW3GDTKmAjVfCTMen" xml:lang="fi">
@@ -19932,7 +19971,7 @@
           olisivatkin olleet samaa mieltä. Mutta se ei ole suinkaan kirkon
           syy, vaan se on eräiden sen johtavien syy.
         </note>
-        <note xml:id="i-5ibgxq9VhTBT3KT3qbUmBH" xml:lang="fi">
+        <note xml:id="i-5ibgxq9VhTBT3KT3qbUmBH" xml:lang="fi" type="speaker">
           Sittenkun keskustelu käsiteltävänä olleesta asetusehdotuksesta
           oli julistettu lopetetuksi, esitti Puhemies näin kuuluvan
         </note>
@@ -20102,7 +20141,7 @@
           Tarkastettiin säädyn tässä täysi-istunnossa tekemistä päätöksistä
           laadittu pöytäkirja, olematta säädyllä sen johdosta mitään muistuttamista.
         </note>
-        <note xml:id="i-UHKo4usSdR7S1itpT5pzFa" xml:lang="fi">
+        <note xml:id="i-UHKo4usSdR7S1itpT5pzFa" xml:lang="fi" type="speaker">
           Säädylle tiedoksi luettiin yleiseltä valitusvaliokunnalta saapunut
           näin kuuluva kirjoitus:
         </note>
@@ -20337,7 +20376,7 @@
         <note xml:id="i-EgghWTffhdciJ4vobh6ehV" xml:lang="fi">
           Mietinnön 8 sivulla alkavan asetusehdotuksen johdosta syntyneessä
         </note>
-        <note xml:id="i-JpB4ctdCb8MirT2q4pDVuL" xml:lang="fi">
+        <note xml:id="i-JpB4ctdCb8MirT2q4pDVuL" xml:lang="fi" type="speaker">
           yleiskeskustelussa sai ensiksi sananvuoron edusmies Huoponen,
           joka lausui:
         </note>
@@ -20934,14 +20973,19 @@
         <note xml:id="i-FPWBs1FHTWQfx3AKcPfeJA" xml:lang="fi">
           Mallasjuomain myynti ja anniskelu. 871
         </note>
-        <note xml:id="i-WNQCu7f7eHLkrNKYkhR9kh" xml:lang="fi">
+        <note xml:id="i-WNQCu7f7eHLkrNKYkhR9kh" xml:lang="fi" type="speaker">
           niitäkin, jotka täydestä vakaumuksesta puolustavat kunnallista
           kielto-oikeutta, pitävät mahdollisena ehkä yleistä kieltolakiakin
           ja äänestävät sen puolesta. He ovat joutuneet nyt siihen tilaan,
           että vastapuolueen miehet saavat osottaa heihin sormillaan sanoen
-          ivaten: tuo mies äänesti pelosta, ettei häntä valita uudestaan.
-          Sen hyvän on heille tehnyt raittiusmielisten jyrkin ryhmä.
+          ivaten:
         </note>
+        <u who="unknown">
+          <seg>
+            tuo mies äänesti pelosta, ettei häntä valita uudestaan. Sen hyvän
+            on heille tehnyt raittiusmielisten jyrkin ryhmä.
+          </seg>
+        </u>
         <note xml:id="i-6C8osxiGx3r8Pty32ZgL4U" xml:lang="fi">
           Mitä itse asiaan tulee, niin minä suon kaiken kunnioituksen niille
           toista sataa tuhansille, jotka ovat lausuneet mielipiteenään,
@@ -21404,7 +21448,7 @@
             laatua.
           </seg>
         </u>
-        <note xml:id="i-3qrP6L5EJRCvmkvT4QbFfC" xml:lang="fi">
+        <note xml:id="i-3qrP6L5EJRCvmkvT4QbFfC" xml:lang="fi" type="speaker">
           Kun keskustelu oli julistettu lopetetuksi, esitti Puhemies seuraavan
         </note>
         <note xml:id="i-MQyXWqBK9N1EbGbwvy8YDZ" xml:lang="fi">
@@ -21460,7 +21504,7 @@
             kohden olisi hyväksyttävä.
           </seg>
         </u>
-        <note xml:id="i-XCAWbtS596zcGF5AbCi8op" xml:lang="fi">
+        <note xml:id="i-XCAWbtS596zcGF5AbCi8op" xml:lang="fi" type="speaker">
           Keskustelun päätetyksi julistettuaan Puhemies esitti seuraavan
         </note>
         <note xml:id="i-FLkuiZsSSNSLyJ4wJJWxYE" xml:lang="fi">
@@ -21591,7 +21635,7 @@
           Edusmies Teittinen kannatti edusm. Avellanin ehdotusta, että
           sana ,tahi* muutettaisiin sanaksi ,eikä*.
         </note>
-        <note xml:id="i-8qADEhXw9oFfUw1uVwDTfa" xml:lang="fi">
+        <note xml:id="i-8qADEhXw9oFfUw1uVwDTfa" xml:lang="fi" type="speaker">
           Kun keskustelu puheena olleesta momentista oli julistettu päättyneeksi,
           esitti Puhemies näin kuuluvan
         </note>
@@ -21611,7 +21655,7 @@
           Huutoäänestyksen tapahduttua tunnustettiin jaa-äänten olleen
           voitolla, joten edusmies Landgrenin ehdotus oli hyväksytty vastaesitykseksi.
         </note>
-        <note xml:id="i-Lt6LaeV9Xtk5KXe8ENfEKL" xml:lang="fi">
+        <note xml:id="i-Lt6LaeV9Xtk5KXe8ENfEKL" xml:lang="fi" type="speaker">
           Tämän jälkeen Puhemies esitti seuraavan
         </note>
         <note xml:id="i-AenVvAqiW1giWMNG9d4FHt" xml:lang="fi">
@@ -21882,7 +21926,7 @@
             behöfver göra det under marknaden.
           </seg>
         </u>
-        <note xml:id="i-PgV3qvRepQgKwnZRqhkg2u" xml:lang="fi">
+        <note xml:id="i-PgV3qvRepQgKwnZRqhkg2u" xml:lang="fi" type="speaker">
           Lopetetuksi julistetussa keskustelussa tehtyjen ja kannatettujen
           ehdotusten johdosta Puhemies esitti ensin seuraavan
         </note>
@@ -22455,7 +22499,7 @@
           Edusmies Rossi kannatti vastalausetta edusm. Perhon esittämillä
           syillä.
         </note>
-        <note xml:id="i-41CfTQsV2FbNtpb3MfUpo8" xml:lang="fi">
+        <note xml:id="i-41CfTQsV2FbNtpb3MfUpo8" xml:lang="fi" type="speaker">
           Kun keskustelu käsillä olleesta mietinnöstä oli julistettu 1opetetuksi,
           esitti Puhemies säädyn vastattavaksi seuraavan
         </note>
@@ -22642,12 +22686,17 @@
         <note xml:id="i-7PyyTYkLse2nWwi19me7VP" xml:lang="fi">
           Edusmies Könni niinikään kannatti toista vastalausetta.
         </note>
-        <note xml:id="i-JDurKHyoGudfrCRkiA4X72" xml:lang="fi">
-          Edusmies Näs: Dä jag icke kunnat godkänna vare sig den i petitionförslaget
-          omordade förändrinden af den arbetsordning våra statsjärnvägar
-          följa, eller kan förena mig om utskottets beslut, vill jag här
-          i korthet sammanfatta min afvikande uppfattning i
+        <note xml:id="i-JDurKHyoGudfrCRkiA4X72" xml:lang="fi" type="speaker">
+          Edusmies Näs:
         </note>
+        <u who="unknown">
+          <seg>
+            Dä jag icke kunnat godkänna vare sig den i petitionförslaget
+            omordade förändrinden af den arbetsordning våra statsjärnvägar
+            följa, eller kan förena mig om utskottets beslut, vill jag här
+            i korthet sammanfatta min afvikande uppfattning i
+          </seg>
+        </u>
         <pb facs="https://swerik-project.github.io/valtiopaivat-records-pdf/1900/ptk_1900_talonpojat_II/ptk_1900_talonpojat_II-0373"/>
         <note xml:id="i-KJ494c3AjLooiLcXbFrnVD" xml:lang="fi">
           896 Talonpoikaissääty 8 p:nä toukok. 1900.
@@ -26258,7 +26307,7 @@
           yhtyivät siihen muodostukseen, jonka edusm. Pitkänen viimeksi
           oli useinmainitulle ponsiehdotuksellensa antanut.
         </note>
-        <note xml:id="i-ErFgfqjD5BDBmPwRxqE9xj" xml:lang="fi">
+        <note xml:id="i-ErFgfqjD5BDBmPwRxqE9xj" xml:lang="fi" type="speaker">
           Kun keskustelu asiasta oli julistettu päättyneeksi, esitti Puhemies
           näin kuuluvan
         </note>
@@ -26340,7 +26389,7 @@
           Tarkastettiin säädyn tässä täysi-istunnossa tekemät päätökset,
           olematta säädyllä niiden suhteen mitään muistuttamista.
         </note>
-        <note xml:id="i-5XRs7tLVvXGtVW5Qtq9waQ" xml:lang="fi">
+        <note xml:id="i-5XRs7tLVvXGtVW5Qtq9waQ" xml:lang="fi" type="speaker">
           Puhemies luki julki hänen ylhäisyydeltään Suomen kenraalikuvernööriltä
           saapuneen, suomennoksena näin kuuluvan kirjeen:
         </note>
@@ -26393,7 +26442,7 @@
         <note xml:id="i-Rz4jm8xTYMkrXZve5SGU3e" xml:lang="sv">
           N
         </note>
-        <note xml:id="i-HvQQ4Wvh9Y4xEP2P3MgnnN" xml:lang="fi">
+        <note xml:id="i-HvQQ4Wvh9Y4xEP2P3MgnnN" xml:lang="fi" type="speaker">
           Säädylle tiedoksi luettiin näin kuuluva kirjelmä:
         </note>
         <note xml:id="i-6BRkgi5osdhyCZ8iwhhohS" xml:lang="fi">
@@ -26402,7 +26451,7 @@
         <note xml:id="i-8KTTwi9P4SLQuzoAZFMh1B" xml:lang="fi">
           TALOUSVALIOKUNTA. N
         </note>
-        <note xml:id="i-EkAjhWhgEjjua6HTTgFPAh" xml:lang="fi">
+        <note xml:id="i-EkAjhWhgEjjua6HTTgFPAh" xml:lang="fi" type="speaker">
           Arvoisalle Talonpoikaissäädylle.
         </note>
         <note xml:id="i-6dh1ib88UmrJS7aYWhbCQ9" xml:lang="fi">
@@ -26435,7 +26484,7 @@
         <note xml:id="i-UQWexbBU7DUhgi5ngnS2bc" xml:lang="fi">
           Suomen Valtiosäätyjen PANKKIVALIOKUNTA.
         </note>
-        <note xml:id="i-Pboi85XLntL3ukkaxrYfjT" xml:lang="fi">
+        <note xml:id="i-Pboi85XLntL3ukkaxrYfjT" xml:lang="fi" type="speaker">
           Arvoisalle Talonpoikaissäädylle.
         </note>
         <note xml:id="i-XRxrcidVLtobyQ2i4nMhXv" xml:lang="fi">
@@ -27085,7 +27134,7 @@
             varojaan lisätä.
           </seg>
         </u>
-        <note xml:id="i-NpackuD7DXaRGjqhfBipYC" xml:lang="fi">
+        <note xml:id="i-NpackuD7DXaRGjqhfBipYC" xml:lang="fi" type="speaker">
           Kun keskustelu käsiteltävänä olleen pykälän johdosta oli julistettu
           lopetetuksi, esitti Puhemies seuraavan
         </note>
@@ -27553,7 +27602,7 @@
         <note xml:id="i-UDqNnXxfqTapi2griAyP5D" xml:lang="fi">
           Samoin hyväksyttiin muutkin mietinnön 2 ja 3 sivulla olevat ponsiehdotukset.
         </note>
-        <note xml:id="i-NZnDqSjWNTsMWqrvCpCH8u" xml:lang="fi">
+        <note xml:id="i-NZnDqSjWNTsMWqrvCpCH8u" xml:lang="fi" type="speaker">
           Säädylle esitettiin näin kuuluva kirjoitus:
         </note>
         <note xml:id="i-2LzZyyvM8hkUQDADMtjt5i" xml:lang="fi">
@@ -27707,9 +27756,14 @@
           aikaansaamista. 2, Tästä oli valiokunnalle ja muille säädyille
           pöytäkirjanotteella tieto annettava.
         </note>
-        <note xml:id="i-RyM3BAFNyDbuLvdDrUtcMS" xml:lang="fi">
-          In fidem: A. Almberg. kuin myös porvarissäädyltä saapunut tämmöinen:
+        <note xml:id="i-RyM3BAFNyDbuLvdDrUtcMS" xml:lang="fi" type="speaker">
+          In fidem:
         </note>
+        <u who="unknown">
+          <seg>
+            A. Almberg. kuin myös porvarissäädyltä saapunut tämmöinen:
+          </seg>
+        </u>
         <note xml:id="i-MgUsFpudgUeWC5zuUzGTN" xml:lang="sv">
           Utdrag ur protokollet, fördt vid Borgareständets plenum den 8
           maj 1900.
@@ -29242,18 +29296,28 @@
         <note xml:id="i-VEXc3xe6ZDRNjrLzXJLvtB" xml:lang="fi">
           Päätös: Käsillä ollut pykälä hyväksyttiin muuttamatta. 25 $:n
         </note>
-        <note xml:id="i-VvfaPKD4QcK9CJKNmYEFMK" xml:lang="fi">
-          johdosta lausui edusmies Nordström: Här ville jag göra det tillägg,
-          att synemännen värkställa förrättningen under domareansvar.
+        <note xml:id="i-VvfaPKD4QcK9CJKNmYEFMK" xml:lang="fi" type="speaker">
+          johdosta lausui edusmies Nordström:
         </note>
-        <note xml:id="i-2Mg1mEtHr96tq1xiuiWXab" xml:lang="fi">
-          Päätös: Pykälä hyväksyttiin semmoisenaan. 26 $ ynnä III luvun
-          otsakirjoitus hyväksyttiin muistutuksitta. IV luku, 27 ja 28 $:t
-          hyväksyttiin muistutuksetta semmoisinaan. 29 $:n johdosta lausui
-          edusmies Meurman: Minä en käsitä, miten käytännössä tullaan ratkaisemaan,
-          onko rakennus hävinnyt vanhuuttaan ja ilman vuokramiehen tuottamusta.
-          Kaiketi myönnetään,
+        <u who="unknown">
+          <seg>
+            Här ville jag göra det tillägg, att synemännen värkställa förrättningen
+            under domareansvar.
+          </seg>
+        </u>
+        <note xml:id="i-2Mg1mEtHr96tq1xiuiWXab" xml:lang="fi" type="speaker">
+          Päätös:
         </note>
+        <u who="unknown">
+          <seg>
+            Pykälä hyväksyttiin semmoisenaan. 26 $ ynnä III luvun otsakirjoitus
+            hyväksyttiin muistutuksitta. IV luku, 27 ja 28 $:t hyväksyttiin
+            muistutuksetta semmoisinaan. 29 $:n johdosta lausui edusmies Meurman:
+            Minä en käsitä, miten käytännössä tullaan ratkaisemaan, onko rakennus
+            hävinnyt vanhuuttaan ja ilman vuokramiehen tuottamusta. Kaiketi
+            myönnetään,
+          </seg>
+        </u>
         <note xml:id="i-JSVYvsV1PVsGxrNWXGHwKG" xml:lang="fi">
           että lavea tila riidoille on tässäkin avattu, kun tämmöinen likimain
           mahdoton selvitys on saatava. En ole tahtonut edellisten
@@ -30704,7 +30768,7 @@
           Edusmies Kilpiäinen kannatti valiokunnan mietintöä samoilla syillä
           kuin edusmiehet Aulin ja Tuomikoski.
         </note>
-        <note xml:id="i-8q3PrKH6u7vKDCvWHmiw8h" xml:lang="fi">
+        <note xml:id="i-8q3PrKH6u7vKDCvWHmiw8h" xml:lang="fi" type="speaker">
           Sittenkun keskustelu käsillä olleesta pykälästä oli julistettu
           päättyneeksi, hyväksyi sääty Puhemiehen esittämän näin kuuluvan
         </note>
@@ -31383,13 +31447,13 @@
           on arkkipiispa lähettänyt talonpoikaissäädylle pappissäädyn lämpimät
           tervehdykset.
         </note>
-        <note xml:id="i-VSMD7pjq5iEbw15sHyGz7v" xml:lang="fi">
+        <note xml:id="i-VSMD7pjq5iEbw15sHyGz7v" xml:lang="fi" type="speaker">
           Säädylle tiedoksi luettiin näin kuuluva kirjelmä:
         </note>
         <note xml:id="i-5U9z326ETsmk7Wcqpjg6nA" xml:lang="fi">
           Suomen Valtiosäätyjen LAKIVALIOKUNTA.
         </note>
-        <note xml:id="i-KrTra4bVEHCSxFiTVuA1Vk" xml:lang="fi">
+        <note xml:id="i-KrTra4bVEHCSxFiTVuA1Vk" xml:lang="fi" type="speaker">
           Arvoisalle Talonpoikaissäädylle.
         </note>
         <note xml:id="i-A81otyixy7vMyD2GQxrukh" xml:lang="fi">
@@ -31419,7 +31483,7 @@
         <note xml:id="i-NxFe1sSKt97Q5CVSec5Psp" xml:lang="fi">
           1040 Talonpoikaissääty 16 p:nä toukok. 1900.
         </note>
-        <note xml:id="i-GkFwqH5ikvhLC218hW94m1" xml:lang="fi">
+        <note xml:id="i-GkFwqH5ikvhLC218hW94m1" xml:lang="fi" type="speaker">
           Säädylle esitettiin näin kuuluva kirjoitus:
         </note>
         <note xml:id="i-N9TS3osEf2M8TAyWTnKEtC" xml:lang="fi">
@@ -31570,7 +31634,7 @@
         <note xml:id="i-CJvNpRVCbbMBfJcLjcEEq" xml:lang="fi">
           Määrärahoja eräihin rautatierakennuksiin. 1043
         </note>
-        <note xml:id="i-EP1mDgagndwqwu1TGiaFpg" xml:lang="fi">
+        <note xml:id="i-EP1mDgagndwqwu1TGiaFpg" xml:lang="fi" type="speaker">
           Säädylle tiedoksi luettiin valtiovaliokunnalta saapunut näin
           kuuluva kirjelmä:
         </note>
@@ -33242,7 +33306,7 @@
           Keskustelun päätyttyä valiokunnan ehdotus, mikäli se koski 2
           $:n 1 ja 2 momenttia, hyväksyttiin.
         </note>
-        <note xml:id="i-UJer9VJ54Z34y4yEn3Ac4S" xml:lang="fi">
+        <note xml:id="i-UJer9VJ54Z34y4yEn3Ac4S" xml:lang="fi" type="speaker">
           2 &amp;n 3 momentista keskustelussa tehdyn ehdotuksen johdosta
           Puhemies säädyn vastattavaksi esitti näin kuuluvan
         </note>

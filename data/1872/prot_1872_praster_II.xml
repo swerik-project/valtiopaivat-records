@@ -11980,7 +11980,7 @@
         <note xml:id="i-P7wUHZxMAqzV5CZoK8Raae" xml:lang="sv">
           Presteständet 1872. 25 april. 829
         </note>
-        <note xml:id="i-QgoRKp2FbaD6nGzBZzwSWc" xml:lang="sv">
+        <note xml:id="i-QgoRKp2FbaD6nGzBZzwSWc" xml:lang="sv" type="speaker">
           Herr talmannen framställde härpä följande Proposition:
         </note>
         <note xml:id="i-3bALLjkMqZvta5werT8zfp" xml:lang="sv">
@@ -19598,13 +19598,18 @@
         <note xml:id="i-Mdt9toJY6MPj98nANcnHqf" xml:lang="sv">
           960 Presteständet 1872. 6 maj.
         </note>
-        <note xml:id="i-KFuYYaSJUtCJuvZmMW4paR" xml:lang="sv">
+        <note xml:id="i-KFuYYaSJUtCJuvZmMW4paR" xml:lang="sv" type="speaker">
           Föredrogos följande från medständen inkomna protokolisutdrag,
           nemligen:
         </note>
-        <note xml:id="i-JAcxxaWxm9kXhkKwxp1ZWA" xml:lang="sv">
-          A) frän ridderskapet och adeln: 1) sä lydande:
+        <note xml:id="i-JAcxxaWxm9kXhkKwxp1ZWA" xml:lang="sv" type="speaker">
+          A) frän ridderskapet och adeln:
         </note>
+        <u who="unknown">
+          <seg>
+            1) sä lydande:
+          </seg>
+        </u>
         <note xml:id="i-XZvKchX7sb4c8wh57njKFw" xml:lang="sv">
           Utdrag ur Ridderskapets och Adelns protokoll vid landtdagen i
           Helsingfors den 25 april 1872.
@@ -19741,7 +19746,7 @@
           betänkande i anledning af nädiga propositionen angäende väckt
           fräga om försäljning af statsjernvägarne i landet;
         </note>
-        <note xml:id="i-Ue6p8hrofFagkqcGjWzdcw" xml:lang="sv">
+        <note xml:id="i-Ue6p8hrofFagkqcGjWzdcw" xml:lang="sv" type="speaker">
           12) sä lydande:
         </note>
         <note xml:id="i-BJQ9GBGHdbqTUdeQGmapGm" xml:lang="sv">
@@ -19816,43 +19821,47 @@
           delgifvas, helst lämpliga utvägar härtill i landets aldra flesta
           kommuner allaredan torde finnas för handen.
         </note>
-        <note xml:id="i-B6nL4W7aF5C9xNpThJPP9W" xml:lang="sv">
+        <note xml:id="i-B6nL4W7aF5C9xNpThJPP9W" xml:lang="sv" type="speaker">
           Utskottet har tagit detta petitionsärende under ompröfning och
           finner detsamma bäde kunna och böra ses frän tvenne olika synpunkter:
-          församlingens och kommunens. Frän församlingsvärdens sida mäste
-          petitionen erkännas dess fulla berättigande, dä ju medgifvas måste,
-          att sä länge prestens tid och ähäga omedelbart efter den offentliga
-          gudstjenstens slut skall upptagas af slika publikationer, hvilkas
-          innehäll redan i och för sig föga egnar sig för predikstolen,
-          särskilda till församlingsadministrationen hörande äligganden,
-          säsom barndop, begrafningar, brudvigslar m. m., mäste komma att
-          i de många församlingar. hvilka betjenas af en prest, lemnas tillsvidare
-          &amp; sido, själavärdens ännu mera ömmande och ofta äfven lika
-          brådskande intressen att förtiga. Petitionen torde också derföre
-          icke möta någon motsägelse från de lekmäns sida, hvilka i vår
-          närvarande tid lifvas af ett varmare kyrkligt intresse, likasom
-          dess syfte enligt utskottets öfvertygelse icke kan sakna fullt
-          erkännande och understöd hos landets prestestånd. Men då medgifvas
-          måste att församlingar finnas hos oss, i hvilka den kommunala
-          vården icke ännu blifvit fullt afskild från den kyrkliga och således
-          ett fullt tillgodoseende af hvarderas intressen icke ännu kan
-          hafva gjort sig gällande för det allmänna medvetande, hvarförutan
-          anskaffande af skild funktionär för dessa kungörelsers publicerande
-          i socknestuga eller dylikt skulle, under afsaknad af härtill pligtig
-          och lämplig kommunal tjensteman, för församlingarna medföra nya
-          kostnader, tvekar utskottet att obetingadt och i hela dess vidd
-          tillstyrka petitionsförslagets omfattande. Utskottet anser fastmer
-          i allo rådligt att petitionerandet i detta mål icke må utgå omedelbart
-          från Presteståndet och vid innevarande landtdag, utan att hela
-          denna för församlingsvården vigtiga angelägenhet hellre bör af
-          Presteståndet hänskjutas till instundande kyrkomöte, för att der
-          af församlingarnas såväl prester som lekmän gemensamt öfvervägas,
-          och sedan i föreskrifven ordning framhållas måhända i det syfte,
-          att ,sekulära kungörelsers uppläsande af prest från predikstol
-          må för framtiden i de församlingar upphöra, der skild kommunalförvaltning
-          är införd och således särskild till detta åliggande lämplig person
-          i kommunalnämndens ordförande eller sekreterare måste förefinnas.*
         </note>
+        <u who="unknown">
+          <seg>
+            församlingens och kommunens. Frän församlingsvärdens sida mäste
+            petitionen erkännas dess fulla berättigande, dä ju medgifvas måste,
+            att sä länge prestens tid och ähäga omedelbart efter den offentliga
+            gudstjenstens slut skall upptagas af slika publikationer, hvilkas
+            innehäll redan i och för sig föga egnar sig för predikstolen,
+            särskilda till församlingsadministrationen hörande äligganden,
+            säsom barndop, begrafningar, brudvigslar m. m., mäste komma att
+            i de många församlingar. hvilka betjenas af en prest, lemnas tillsvidare
+            &amp; sido, själavärdens ännu mera ömmande och ofta äfven lika
+            brådskande intressen att förtiga. Petitionen torde också derföre
+            icke möta någon motsägelse från de lekmäns sida, hvilka i vår
+            närvarande tid lifvas af ett varmare kyrkligt intresse, likasom
+            dess syfte enligt utskottets öfvertygelse icke kan sakna fullt
+            erkännande och understöd hos landets prestestånd. Men då medgifvas
+            måste att församlingar finnas hos oss, i hvilka den kommunala
+            vården icke ännu blifvit fullt afskild från den kyrkliga och således
+            ett fullt tillgodoseende af hvarderas intressen icke ännu kan
+            hafva gjort sig gällande för det allmänna medvetande, hvarförutan
+            anskaffande af skild funktionär för dessa kungörelsers publicerande
+            i socknestuga eller dylikt skulle, under afsaknad af härtill pligtig
+            och lämplig kommunal tjensteman, för församlingarna medföra nya
+            kostnader, tvekar utskottet att obetingadt och i hela dess vidd
+            tillstyrka petitionsförslagets omfattande. Utskottet anser fastmer
+            i allo rådligt att petitionerandet i detta mål icke må utgå omedelbart
+            från Presteståndet och vid innevarande landtdag, utan att hela
+            denna för församlingsvården vigtiga angelägenhet hellre bör af
+            Presteståndet hänskjutas till instundande kyrkomöte, för att der
+            af församlingarnas såväl prester som lekmän gemensamt öfvervägas,
+            och sedan i föreskrifven ordning framhållas måhända i det syfte,
+            att ,sekulära kungörelsers uppläsande af prest från predikstol
+            må för framtiden i de församlingar upphöra, der skild kommunalförvaltning
+            är införd och således särskild till detta åliggande lämplig person
+            i kommunalnämndens ordförande eller sekreterare måste förefinnas.*
+          </seg>
+        </u>
         <note xml:id="i-QrGCSbRVxhkwY9To2Nxmxx" xml:lang="sv">
           Remissakten får utskottet äran härjemte återställa.
         </note>
@@ -20644,7 +20653,7 @@
         <note xml:id="i-5Ur8mCQA5pPVwc9Er9FsUr" xml:lang="sv">
           Till justering upplästes fyra protokollsutdrag för den 6 dennes,
         </note>
-        <note xml:id="i-JxvBCP1MFjqEcW4FXJTrpu" xml:lang="sv">
+        <note xml:id="i-JxvBCP1MFjqEcW4FXJTrpu" xml:lang="sv" type="speaker">
           Föredrogs och antecknades följande från ridderskapet och adeln
           inkomna protokollsutdrag:
         </note>
@@ -20743,7 +20752,7 @@
         <note xml:id="i-VrK3EXrtwCfJsXXp5BLpR8" xml:lang="sv">
           Föredrogs en skrifvelse frän statsutskottet af den 3 dennes,
         </note>
-        <note xml:id="i-STaHDpnFGFKgaDMW9rynxd" xml:lang="sv">
+        <note xml:id="i-STaHDpnFGFKgaDMW9rynxd" xml:lang="sv" type="speaker">
           sä lydande:
         </note>
         <note xml:id="i-3sicUbjpDwpFwcPrBTaCyP" xml:lang="sv">
@@ -20811,7 +20820,7 @@
           ändamål, det åligga statsutskottet att aflemna nytt betänkande
           i ämnet.
         </note>
-        <note xml:id="i-sbgXyB4ueq62PwcNkJA11" xml:lang="sv">
+        <note xml:id="i-sbgXyB4ueq62PwcNkJA11" xml:lang="sv" type="speaker">
           Pä Statsutskottets vägnar:
         </note>
         <note xml:id="i-JpYnpikJpgp99XoqCA6rfL" xml:lang="sv">
@@ -20838,7 +20847,7 @@
         <note xml:id="i-37qApKE8JSccxSk9o5aS8S" xml:lang="sv">
           982 Presteståndet 1872. 7 maj.
         </note>
-        <note xml:id="i-TsNMf8HYNXBMELkKnqPWhm" xml:lang="sv">
+        <note xml:id="i-TsNMf8HYNXBMELkKnqPWhm" xml:lang="sv" type="speaker">
           Föredrogs och antecknades efterföljande från medstånden inkomna
           protokollsutdrag nemligen:
         </note>
@@ -21163,12 +21172,16 @@
           bestämmande af tid, inom hvilken anmälan om äktenskapsjäf bör
           vid laga domstol fullföljas.
         </note>
-        <note xml:id="i-JTLGQNoFF77GJmSqAqyGc" xml:lang="sv">
+        <note xml:id="i-JTLGQNoFF77GJmSqAqyGc" xml:lang="sv" type="speaker">
           Betänkandet blef af ståndet enhälligt godkändt utan diskussion;
-          och skulle ståndet således ingå till H. K. M:t med underdånig
-          petition om proposition till nästa landtdag i det syfte betänkandet
-          innehåller.
+          och skulle ståndet således ingå till H. K. M:
         </note>
+        <u who="unknown">
+          <seg>
+            t med underdånig petition om proposition till nästa landtdag
+            i det syfte betänkandet innehåller.
+          </seg>
+        </u>
         <note xml:id="i-2r75Sgq2qKMDCVkUfTPgNY" xml:lang="sv">
           Föredrogs enskilda besvärsutskottets bordlagda betänkande i anledning
           af biskop Schaumans petitionsmemorial angående annat rum än predikstolen
@@ -23184,7 +23197,7 @@
           Professor Ehrström erinrade att vid proklama äfven skedde stemning,
           som delgafs genom tidningarne och anslag.
         </note>
-        <note xml:id="i-7MpjtmW2R647TEd7f534ex" xml:lang="sv">
+        <note xml:id="i-7MpjtmW2R647TEd7f534ex" xml:lang="sv" type="speaker">
           Herr talmannen framställde härå följande Proposition:
         </note>
         <note xml:id="i-9DD2b3BmuMRKnd2CxNGK5i" xml:lang="sv">
@@ -23315,7 +23328,7 @@
           i jemförelse med stadsfartyg derigenom, att de ej vore skyldige
           att hafva examineradt befäl, hvilket dock för de sednare var nödvändigt.
         </note>
-        <note xml:id="i-29gWL5NVnphdbshrxpzBec" xml:lang="sv">
+        <note xml:id="i-29gWL5NVnphdbshrxpzBec" xml:lang="sv" type="speaker">
           Härå framställdes följande Proposition:
         </note>
         <note xml:id="i-E4qE1YBbWFF7cGxEHdKthF" xml:lang="sv">
@@ -23960,7 +23973,7 @@
           stadgande om forum för den brottslige, och i detta afseende TO
           lämpligt att bibehålla uttrycket ,dit den brottslige först anänder".
         </note>
-        <note xml:id="i-XbNYgyd6fSPtHotVhSkgMz" xml:lang="sv">
+        <note xml:id="i-XbNYgyd6fSPtHotVhSkgMz" xml:lang="sv" type="speaker">
           Herr talmannen framställde härå följande proposition:
         </note>
         <note xml:id="i-RsqKkBm2yMkR1T5b2qMEAS" xml:lang="sv">
@@ -24322,7 +24335,7 @@
           regeringen velat endast höra ständerna, men icke fordrat definitivt
           afgörande.
         </note>
-        <note xml:id="i-TGmmHVRBnbCGaNhs94xnHd" xml:lang="sv">
+        <note xml:id="i-TGmmHVRBnbCGaNhs94xnHd" xml:lang="sv" type="speaker">
           Herr talmannen framstälde härå följande Proposition:
         </note>
         <note xml:id="i-BSiSRt1BJw8vyKFBvRArq6" xml:lang="sv">
@@ -24384,7 +24397,7 @@
         <note xml:id="i-QyawbCHVTiAwuY1iCv64tm" xml:lang="sv">
           Vice pastorn Öller understödde prosten Hjelt.
         </note>
-        <note xml:id="i-Tf1NVppE6HYNMf1gDa7KnW" xml:lang="sv">
+        <note xml:id="i-Tf1NVppE6HYNMf1gDa7KnW" xml:lang="sv" type="speaker">
           Vice pastorn Lilius förenade sig med doktor Hornborg. Herr talmannen
           framställde härä följande Proposition:
         </note>
@@ -24595,7 +24608,7 @@
         <note xml:id="i-Ke6gLSobu5VnCcTdVJ38YE" xml:lang="sv">
           Bordlades.
         </note>
-        <note xml:id="i-Hkk19suTM5KgQm8YNVbmJj" xml:lang="sv">
+        <note xml:id="i-Hkk19suTM5KgQm8YNVbmJj" xml:lang="sv" type="speaker">
           Föredrogs följande från medstånden inkomna protokollsutdrag,
           nemligen :
         </note>
@@ -24603,7 +24616,7 @@
         <note xml:id="i-NVnYK7ZZV2BF1MP6SbwpK8" xml:lang="sv">
           1050 Presteståndet 1872. 13 maj.
         </note>
-        <note xml:id="i-JdbhTuBzewybaLonJiFmJi" xml:lang="sv">
+        <note xml:id="i-JdbhTuBzewybaLonJiFmJi" xml:lang="sv" type="speaker">
           A) från borgareståndet:
         </note>
         <note xml:id="i-J7BBETdE4imVX7E4oh58Ja" xml:lang="sv">
@@ -29051,7 +29064,7 @@
         <note xml:id="i-SFmejZGbzDkMCSkxh7PStt" xml:lang="sv">
           1126 Presteståndet 1872. 18 maj.
         </note>
-        <note xml:id="i-ExNXNsqWLbrQtryp1YjFe9" xml:lang="sv">
+        <note xml:id="i-ExNXNsqWLbrQtryp1YjFe9" xml:lang="sv" type="speaker">
           Föredrogs enskilda. besvärsutskottets skrifvelse af den 16 dennes,
           så lydande:
         </note>
@@ -29081,7 +29094,7 @@
         <note xml:id="i-8d3q3hjrvDTMxgEGj41QYE" xml:lang="sv">
           Bordlades.
         </note>
-        <note xml:id="i-G8iGjopVRKw2KYzuLj1t9o" xml:lang="sv">
+        <note xml:id="i-G8iGjopVRKw2KYzuLj1t9o" xml:lang="sv" type="speaker">
           Föredrogs och antecknades följande frän medständen inkomna protokollsutdrag,
           nemligen:
         </note>
@@ -30603,10 +30616,10 @@
         <note xml:id="i-AQVjDdDRSPUWfNZ4612N6k" xml:lang="sv">
           Presteståndet 1872. 18 maj. 1153
         </note>
-        <note xml:id="i-QT9utoiUQrMmSxtysU9AoP" xml:lang="sv">
+        <note xml:id="i-QT9utoiUQrMmSxtysU9AoP" xml:lang="sv" type="speaker">
           Föredrogs följande från medstånden inkomna protokollsutdrag nemligen:
         </note>
-        <note xml:id="i-YWDaSPdcT7dvAoTpgeBriN" xml:lang="sv">
+        <note xml:id="i-YWDaSPdcT7dvAoTpgeBriN" xml:lang="sv" type="speaker">
           A) från ridderskapet och adeln, så lydande:
         </note>
         <note xml:id="i-25SqNzYVNxA8v8pdhe6998" xml:lang="sv">
@@ -30640,9 +30653,14 @@
           Bordlades intilldess statsutskottet, till hvars behandling ärendet
           öfverlemnats, inkommit med betänkande deröfver.
         </note>
-        <note xml:id="i-NFaNqoVDq9N8t9EHaBjsbm" xml:lang="sv">
-          B) frän bondeständet: 1) sä lydande:
+        <note xml:id="i-NFaNqoVDq9N8t9EHaBjsbm" xml:lang="sv" type="speaker">
+          B) frän bondeständet:
         </note>
+        <u who="unknown">
+          <seg>
+            1) sä lydande:
+          </seg>
+        </u>
         <note xml:id="i-13FjisoSpG1v9Uw1wfGWBL" xml:lang="sv">
           Utdrag af Bondeständets protokoll vid landtdagen i Helsingfors,
           den 16 maj 1872.
@@ -30737,7 +30755,7 @@
           Föredrogs ett protokollsutdrag frän ridderskapet och adeln af
           den 18 dennes,
         </note>
-        <note xml:id="i-GVhXEVrpTJ8UvMHkHjDpMa" xml:lang="sv">
+        <note xml:id="i-GVhXEVrpTJ8UvMHkHjDpMa" xml:lang="sv" type="speaker">
           sä lydande:
         </note>
         <note xml:id="i-34pU4f5kYSHbHjfck1mGCx" xml:lang="sv">
@@ -30817,7 +30835,7 @@
           af ståndet antagen; hvarom underrättelse borde i protokollsutdrag
           afgå till medstånden och lagutskottet.
         </note>
-        <note xml:id="i-SufJaUm4jUSitTMfzpENMP" xml:lang="sv">
+        <note xml:id="i-SufJaUm4jUSitTMfzpENMP" xml:lang="sv" type="speaker">
           Föredrogs och antecknades följande från bondeståndet inkomna
           protokollsutdrag, nemligen:
         </note>

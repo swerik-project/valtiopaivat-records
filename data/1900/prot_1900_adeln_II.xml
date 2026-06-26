@@ -85,7 +85,7 @@
         <note xml:id="i-4cMLDm22f2yMDrcxBWoCMK" xml:lang="sv">
           ———3—nÄ
         </note>
-        <note xml:id="i-LtaLbmx1KaEgjfk9meeibf" xml:lang="sv ">
+        <note xml:id="i-LtaLbmx1KaEgjfk9meeibf" xml:lang="sv">
           HELSINGFORS 1900, HELSINGFORS CENTRALTRYCKERI.
         </note>
         <pb facs="https://swerik-project.github.io/valtiopaivat-records-pdf/1900/prot_1900_adeln_II/prot_1900_adeln_II-0003"/>
@@ -16145,7 +16145,7 @@
         <note xml:id="i-enwYFxHgjD8rcMTWqHuA6" xml:lang="sv">
           Offentligt register öfver odöpta.
         </note>
-        <note xml:id="i-K3fQtu3qseviwoLzLFhwkw" xml:lang="sv">
+        <note xml:id="i-K3fQtu3qseviwoLzLFhwkw" xml:lang="sv" type="speaker">
           Föredrogs ett frän Borgareständet anländt protokollsutdrag af
           följande lydelse:
         </note>
@@ -26852,10 +26852,14 @@
           morgondagens plenum vara beredda att verkställa val af ledamöter
           och suppleanter i det förstärkta utskottet.
         </note>
-        <note xml:id="i-GktyamqGs2rbX4bviUpwYg" xml:lang="sv">
-          Bland R. 0. A:s medlemmar hade utdelats och bordlades till nästa
-          plenum:
+        <note xml:id="i-GktyamqGs2rbX4bviUpwYg" xml:lang="sv" type="speaker">
+          Bland R. 0. A:
         </note>
+        <u who="unknown">
+          <seg>
+            s medlemmar hade utdelats och bordlades till nästa plenum:
+          </seg>
+        </u>
         <note xml:id="i-UGd6MvqVhT7C3zsRcwjqoh" xml:lang="sv">
           Lag- och Ekonomiutskottets betänkanden
         </note>

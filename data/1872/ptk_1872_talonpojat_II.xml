@@ -289,7 +289,7 @@
             puhuja puolusti siis yhteensovitus ehdoitusta.
           </seg>
         </u>
-        <note xml:id="i-6a7FGULWR9UHmP8C5gfFWQ" xml:lang="fi">
+        <note xml:id="i-6a7FGULWR9UHmP8C5gfFWQ" xml:lang="fi" type="speaker">
           Puhemies teki seuraavan äänestysesityksen :
         </note>
         <note xml:id="i-M7PbaDEAi8AdRPy86TamQe" xml:lang="fi">
@@ -3995,7 +3995,7 @@
             merila'issa.
           </seg>
         </u>
-        <note xml:id="i-SgtzsKGxKpJuYNUvj8FYRU" xml:lang="fi">
+        <note xml:id="i-SgtzsKGxKpJuYNUvj8FYRU" xml:lang="fi" type="speaker">
           Puhemies teki tämän jälkeen seuraavan äänestysesityksen:
         </note>
         <note xml:id="i-2trW6fxw2ZvppZqBj3dVqC" xml:lang="fi">
@@ -6488,7 +6488,7 @@
           Kenraalikuvernöörin viraston kirje 44 p:nä Toukokuuta luettiin
           ja oli seuraavasta sisälläpidosta:
         </note>
-        <note xml:id="i-PbWDzNQyTBvV2tP3DtT9gW" xml:lang="fi">
+        <note xml:id="i-PbWDzNQyTBvV2tP3DtT9gW" xml:lang="fi" type="speaker">
           wArvoisan Talonpojansäädyn Puhemiehelle.
         </note>
         <note xml:id="i-8Q1VuLPcWChT4tt4ECSPnu" xml:lang="fi">
@@ -8464,7 +8464,7 @@
             annetut ilmoitukset heistä eivät ole oikeita
           </seg>
         </u>
-        <note xml:id="i-4eyPm3mgWdet6z7nBK4CzM" xml:lang="fi">
+        <note xml:id="i-4eyPm3mgWdet6z7nBK4CzM" xml:lang="fi" type="speaker">
           Tämän jälkeen esitteli varapuhemies tämän ääntöesityksen :
         </note>
         <note xml:id="i-JDRcQLPyfy4zpAjZxu7Cm" xml:lang="fi">
@@ -12791,10 +12791,15 @@
             kanssa.
           </seg>
         </u>
-        <note xml:id="i-LKhQyg1z1KW7yakoEU9fVw" xml:lang="fi">
+        <note xml:id="i-LKhQyg1z1KW7yakoEU9fVw" xml:lang="fi" type="speaker">
           Puhemies julisti tämän jälkeen keskustelun lopetetuksi ja esitteli
-          mitä ensin 3 S:ään tuli seuraavan ääntö-esityksen:
+          mitä ensin 3 S:
         </note>
+        <u who="unknown">
+          <seg>
+            ään tuli seuraavan ääntö-esityksen:
+          </seg>
+        </u>
         <note xml:id="i-QNFw3GpAghfUK896TUnCGM" xml:lang="fi">
           Joka tahtoo että vero paloviinan-valmistuksesta pysytettäisiin
           1 markassa kannulta vastaa jaa; joka taas tahtoo sen korottamista
@@ -17672,7 +17677,7 @@
           puheeksi otetuista rahanmääräyksistä sekä varain hankkimisesta
           niitä varten.
         </note>
-        <note xml:id="i-3z3KP3NcZidvy2tGsNkZvA" xml:lang="fi">
+        <note xml:id="i-3z3KP3NcZidvy2tGsNkZvA" xml:lang="fi" type="speaker">
           Porvarissäädyltä ilmoituksella :
         </note>
         <pb facs="https://swerik-project.github.io/valtiopaivat-records-pdf/1872/ptk_1872_talonpojat_II/ptk_1872_talonpojat_II-0254"/>
@@ -17881,7 +17886,7 @@
             yhdistyä edusmies Riihimäen kanssa siitä että kutsumus hyväksyttäisiin.
           </seg>
         </u>
-        <note xml:id="i-DBLGRkz8W47WQ5UX68xVJn" xml:lang="fi">
+        <note xml:id="i-DBLGRkz8W47WQ5UX68xVJn" xml:lang="fi" type="speaker">
           Tämän jälkeen julisti puhemies keskustelun lopetetuksi ja ehdoitteli
           seuraavan ääntö-esityksen:
         </note>
@@ -21118,7 +21123,7 @@
             puhuja tahtonut ottaa päättääksensä.
           </seg>
         </u>
-        <note xml:id="i-YJFVe74jbdLiotM7iQHsK6" xml:lang="fi">
+        <note xml:id="i-YJFVe74jbdLiotM7iQHsK6" xml:lang="fi" type="speaker">
           Puhemies julisti tämän jälkeen keskustelun lopetetuksi ja esitteli
           seuraavan ääntö-ehdoituksen :
         </note>
@@ -23082,7 +23087,7 @@
           ryhtyä mihinkään toimiin valtiovaliokunnan ehdoituksen johdosta
           tämän asian lykkäämisestä enennettyyn valtiovaliokuntaan.
         </note>
-        <note xml:id="i-PYcYuL1NZpt8gKVBWug4EM" xml:lang="fi">
+        <note xml:id="i-PYcYuL1NZpt8gKVBWug4EM" xml:lang="fi" type="speaker">
           Puhemies pyysi saada, niinkuin edellisinäkin valtiopäivinä on
           ollut tapana, säädylle lukea sen puheen, jonka puhemies aikoi
           huomenna valtiopäiviä lopetettaissa pitää hänen ylhäisyydellensä
@@ -23352,7 +23357,7 @@
             laatuun ajatella niinkuin Puhakka oli tehnyt.
           </seg>
         </u>
-        <note xml:id="i-NZBvRd1wYRednrfAk5pxov" xml:lang="fi">
+        <note xml:id="i-NZBvRd1wYRednrfAk5pxov" xml:lang="fi" type="speaker">
           Tämän jälkeen julisti puhemies keskustelun lopetetuksi ja ehdoitteli
           seuraavan ääntö-esityksen:
         </note>
@@ -23556,7 +23561,7 @@
           puolesta sanomaan muille säädyille jäähyväistervehdykset, lukivat
           nyt säädyn kuultavaksi pidettävät puheensa.
         </note>
-        <note xml:id="i-C1412jZUTR3JxUvH1LdaZT" xml:lang="fi">
+        <note xml:id="i-C1412jZUTR3JxUvH1LdaZT" xml:lang="fi" type="speaker">
           Edusmies Duncker”'in puhe oli näin kuuluva:
         </note>
         <note xml:id="i-VbZiQ8FhoMVCgEK71aGJB9" xml:lang="fi">
@@ -23699,11 +23704,11 @@
           puolesta lausumaan kanssasäädyille jäähyväistervehdykset, lähtivät
           tätä tointansa täyttämään.
         </note>
-        <note xml:id="i-FV8bu7gD4Uo4aq6hyuqM5X" xml:lang="fi">
+        <note xml:id="i-FV8bu7gD4Uo4aq6hyuqM5X" xml:lang="fi" type="speaker">
           Porvarissäädystä tuli lähetystö laamanni Cajanderin johdolla,
           joka puhui:
         </note>
-        <note xml:id="i-4HEMfuw929GqkdgDp9qVta" xml:lang="fi">
+        <note xml:id="i-4HEMfuw929GqkdgDp9qVta" xml:lang="fi" type="speaker">
           n Kunnioitettava Puhemies sekä arvoisa Talonpoikaissääty !
         </note>
         <note xml:id="i-2h9SuqkNd7WwdHkD17TBwR" xml:lang="fi">
@@ -23720,7 +23725,7 @@
           sille näillä valtiopäivillä on osoittanut ja toivoo että se yhä
           edeskinpäin on pysyvä.*
         </note>
-        <note xml:id="i-DH9JFad53Foto7b1F5jhqZ" xml:lang="fi">
+        <note xml:id="i-DH9JFad53Foto7b1F5jhqZ" xml:lang="fi" type="speaker">
           Ritariston ja Aatelin lähetystöä johti vapaaherra Boije, joka
           lausui:
         </note>
@@ -23747,7 +23752,7 @@
           Aateli pyytää olla suljettuna arvoisan Talonpoikaissäädyn ja sen
           kunnioitetun puhemiehen hyväntahtoisuuteen ja ystävälliseen muistoon*.
         </note>
-        <note xml:id="i-WNFVpmXSEQq3CxsU7dMHcn" xml:lang="fi">
+        <note xml:id="i-WNFVpmXSEQq3CxsU7dMHcn" xml:lang="fi" type="speaker">
           N Vihdoin tuli lähetystö Papissäädystä, tuomioprovasti B o r
           g'in johdolla, joka säädylle lausui seuraavat sanat:
         </note>
@@ -23802,7 +23807,7 @@
           ja pyytäen että Talonpoikaissääty vastaiseksikin saisi olla suljettuna
           kunn. muitten säätyjen ystävyyteen ja suosioon.
         </note>
-        <note xml:id="i-9wuni9Z3SateKohM7eUaHm" xml:lang="fi">
+        <note xml:id="i-9wuni9Z3SateKohM7eUaHm" xml:lang="fi" type="speaker">
           Tämän jälkeen piti Puhemies säädylle seuraavan puheen:
         </note>
         <note xml:id="i-KeiXfGRSdujLkCd8SprJT4" xml:lang="fi">
@@ -23863,7 +23868,7 @@
           Ja nyt, rakkaat veljet, jätän minä teidät kaikki tästä tilasta
           Jumalan Kaikkivaltiaan haltuun !*
         </note>
-        <note xml:id="i-HmHG6ZdRmbcxWQGxY6PQfF" xml:lang="fi">
+        <note xml:id="i-HmHG6ZdRmbcxWQGxY6PQfF" xml:lang="fi" type="speaker">
           Sen jälkeen lausui Sihteeri säädylle seuraavat sanat:
         </note>
         <note xml:id="i-MKCkeq2N8xkZpWNvsATwLA" xml:lang="fi">
@@ -23892,10 +23897,14 @@
           Jääkäät hyvästi rakkaat ystävät! Jumalan rauha olkoon Teidän
           kanssanne!*
         </note>
-        <note xml:id="i-EsrmXypBGS1Kd5aivWe836" xml:lang="fi">
+        <note xml:id="i-EsrmXypBGS1Kd5aivWe836" xml:lang="fi" type="speaker">
           Lopuksi puhui edusmies Heikkilä säädyn puolesta seuraavaisesti:
-          nArvoisa Puhemies ja säätymme virasto!
         </note>
+        <u who="unknown">
+          <seg>
+            nArvoisa Puhemies ja säätymme virasto!
+          </seg>
+        </u>
         <note xml:id="i-JHU5aCaBPQCYP4yuH4s1ja" xml:lang="fi">
           Tällä tärkeällä eron hetkellä, jolla minulla on kunnia olla säätymme
           sydänten tulkkina, saan siten lausua muutamia sanoja.
@@ -25799,7 +25808,7 @@
         <note xml:id="i-5XEKKXNYEzEhgJkK5pXuCi" xml:lang="fi">
           Erityinen valitusvaliokunta:
         </note>
-        <note xml:id="i-PxpMDsPbSheQDkVkDAUTqb" xml:lang="fi">
+        <note xml:id="i-PxpMDsPbSheQDkVkDAUTqb" xml:lang="fi" type="speaker">
           Talonpoikaissäädyn :
         </note>
         <note xml:id="i-Foxsa3ibYJjYq6wxFfdwYt" xml:lang="fi">
@@ -25894,10 +25903,14 @@
           n:o 18 anom. ehd. n:o 100 luotsitaloja koskevien sääntöjen kumoamisesta,
           e. II. 754, k. 754—755, p. 755.
         </note>
-        <note xml:id="i-D4RJXrtRJrqnGp8g8xgUje" xml:lang="fi">
-          Eriuskolaislaki: kts. Yl. valitusvkn. miet. n:o 13. Esitykset,
-          Keisarillisen Majestestin:
+        <note xml:id="i-D4RJXrtRJrqnGp8g8xgUje" xml:lang="fi" type="speaker">
+          Eriuskolaislaki:
         </note>
+        <u who="unknown">
+          <seg>
+            kts. Yl. valitusvkn. miet. n:o 13. Esitykset, Keisarillisen Majestestin:
+          </seg>
+        </u>
         <note xml:id="i-YWB9w8Pv3TBiptJYwz9Ssp" xml:lang="fi">
           n:o 1 varain määräämisestä kulkuväylän parantamiseen Mikkelin
           kaupungin ja Saimaan selkäveden välillä, k. I. 16—17,1. 17. —
@@ -26129,7 +26142,7 @@
         <note xml:id="i-MWxDFiHtnRqxD2tPcKvdJJ" xml:lang="fi">
           Heinävero, kts. aitaus.
         </note>
-        <note xml:id="i-7Ss1zoCgBX3GGp11fNYmUE" xml:lang="fi">
+        <note xml:id="i-7Ss1zoCgBX3GGp11fNYmUE" xml:lang="fi" type="speaker">
           Holhoja :
         </note>
         <note xml:id="i-SkmKw6x6N9z8GKMx8PrX59" xml:lang="fi">
@@ -26196,7 +26209,7 @@
           Joensuun — yli-alkeiskoulun laajentamisesta täydelliseksi suomalaiseksi
           alkeisopistoksi, kts. anom. ehd. n:o 44.
         </note>
-        <note xml:id="i-A6jSg98YECWmhizaC2jpcA" xml:lang="fi">
+        <note xml:id="i-A6jSg98YECWmhizaC2jpcA" xml:lang="fi" type="speaker">
           Joutolaiset:
         </note>
         <note xml:id="i-41RCKAkTrg1286wAWYveFK" xml:lang="fi">
@@ -26261,7 +26274,7 @@
         <note xml:id="i-Koyfu1kSV5XjwH7PJXJqtV" xml:lang="fi">
           Kaskonviljelys, kts. anom. ehd. n:rot 4 ja 18.
         </note>
-        <note xml:id="i-PnKRwrS26yohWjvJ1BRRg7" xml:lang="fi">
+        <note xml:id="i-PnKRwrS26yohWjvJ1BRRg7" xml:lang="fi" type="speaker">
           Nanppa:
         </note>
         <note xml:id="i-7avdCzbjNbo8ibBXMsXKAg" xml:lang="fi">
@@ -26271,7 +26284,7 @@
           — kauppaa ja elinkeinoa koskevan asetuksen muuttamisesta, kts.
           arm. es. n:o 22.
         </note>
-        <note xml:id="i-6hnUA2PqZjnxTkUJBdqBFg" xml:lang="fi">
+        <note xml:id="i-6hnUA2PqZjnxTkUJBdqBFg" xml:lang="fi" type="speaker">
           Kenraalikuvernööri:
         </note>
         <note xml:id="i-GNepc8SXNTYhfvkFrRHQ44" xml:lang="fi">
@@ -26738,7 +26751,7 @@
         <note xml:id="i-8KDa2nAUoHzyzxBjguu4JZ" xml:lang="fi">
           Laki- ja talousvaliokunta kts. Yhd. laki- ja talousvkn.
         </note>
-        <note xml:id="i-SGC58AgH36kVNGKJ38DjU1" xml:lang="fi">
+        <note xml:id="i-SGC58AgH36kVNGKJ38DjU1" xml:lang="fi" type="speaker">
           Lapinmaa:
         </note>
         <note xml:id="i-JT9UQVjas4Z2t8KEGeNxcG" xml:lang="fi">
@@ -26801,7 +26814,7 @@
         <note xml:id="i-U6WVNGe1kUNj4otAtFjk6P" xml:lang="fi">
           Lähetystö:
         </note>
-        <note xml:id="i-4586a1TKQnVQH88AerKnud" xml:lang="fi">
+        <note xml:id="i-4586a1TKQnVQH88AerKnud" xml:lang="fi" type="speaker">
           Talonpoikaissäädyn :
         </note>
         <note xml:id="i-8n7k1uPCiQd8qdDEQLzoek" xml:lang="fi">
@@ -26855,7 +26868,7 @@
         <note xml:id="i-XogFBsFzpozjTULJij6Qj1" xml:lang="fi">
           Lääninkokous, kts. anom. ehd. n:o 40.
         </note>
-        <note xml:id="i-QDvRPaYP7pqLYvfX6AUqXo" xml:lang="fi">
+        <note xml:id="i-QDvRPaYP7pqLYvfX6AUqXo" xml:lang="fi" type="speaker">
           Maanmittausvirasto:
         </note>
         <note xml:id="i-8ad9Tf3i9az8vjN2owmqsd" xml:lang="fi">
@@ -26893,7 +26906,7 @@
         <note xml:id="i-UybmNNqX9PiSE8pFaC61NW" xml:lang="fi">
           Merilaki, sen uudistaminen, kts. arm. es. n:o 3.
         </note>
-        <note xml:id="i-4aEtm2gqx9a8rGH9u1Lai2" xml:lang="fi">
+        <note xml:id="i-4aEtm2gqx9a8rGH9u1Lai2" xml:lang="fi" type="speaker">
           Merilakivaliokunta:
         </note>
         <note xml:id="i-9b6QHNoTSdsnsxhDpBQuCW" xml:lang="fi">
@@ -27000,7 +27013,7 @@
           kouluissa, oleva paikkakunnan, kts. anom. ehd. n:o 99. Painovapaus,
           kts. anom. ehd. n:o 28 ja 53.
         </note>
-        <note xml:id="i-9E7DMH8aecuFvk2zpQH2vL" xml:lang="fi">
+        <note xml:id="i-9E7DMH8aecuFvk2zpQH2vL" xml:lang="fi" type="speaker">
           Palvelusväki:
         </note>
         <note xml:id="i-p3giF9jqvbN76uprDr2GR" xml:lang="fi">
@@ -27036,7 +27049,7 @@
         <note xml:id="i-VEWtjkaVvPXUvx3RVR9oej" xml:lang="fi">
           Pankintilintarkastajain vaali. IL 577.
         </note>
-        <note xml:id="i-Hobu7HZ63iapcr3vLFhDPh" xml:lang="fi">
+        <note xml:id="i-Hobu7HZ63iapcr3vLFhDPh" xml:lang="fi" type="speaker">
           Pankkivaltuusmiehet:
         </note>
         <note xml:id="i-KUx5ivJ1VEK3613eTLt6dM" xml:lang="fi">
@@ -27179,7 +27192,7 @@
         <note xml:id="i-HMMjXzetwmULQsBKC6oUKA" xml:lang="fi">
           Puhemiesneuvosto: jäsenet siihen valitaan. I. 10.
         </note>
-        <note xml:id="i-gtFY4KsbnzEHRrbujMUEk" xml:lang="fi">
+        <note xml:id="i-gtFY4KsbnzEHRrbujMUEk" xml:lang="fi" type="speaker">
           Puhemies:
         </note>
         <note xml:id="i-XZSbjAFR1Rjo1YJyGT5KGg" xml:lang="fi">
@@ -27394,10 +27407,15 @@
           Rautatien rakentamiseen annettavista ehdoista, kts. Y. valitusvkn.
           miet. n:o 7.
         </note>
-        <note xml:id="i-KbXfe5BrWJTdWDRY3TK8zd" xml:lang="fi">
+        <note xml:id="i-KbXfe5BrWJTdWDRY3TK8zd" xml:lang="fi" type="speaker">
           Rautatien laitosten y. m. panttauksesta, kts. Lakivkn. miet.
-          n:o 21. Rusthollit :
+          n:
         </note>
+        <u who="unknown">
+          <seg>
+            o 21. Rusthollit :
+          </seg>
+        </u>
         <note xml:id="i-KubEEG8rRHU9raon5hLnC3" xml:lang="fi">
           niiden veroittaminen asetettava muitten verotilain kannalle,
           kts.
@@ -27617,7 +27635,7 @@
         <note xml:id="i-CL4UsDiCiGA3YnxoHJEq2W" xml:lang="fi">
           saakka on ollut, kts. anom. ehd. n:o 98.
         </note>
-        <note xml:id="i-EVSSzT2fGj4T5M4qaM4J7Y" xml:lang="fi">
+        <note xml:id="i-EVSSzT2fGj4T5M4qaM4J7Y" xml:lang="fi" type="speaker">
           Tiedesaura:
         </note>
         <note xml:id="i-ByUMM6BFPBF56XbHDHjYFd" xml:lang="fi">
@@ -27670,7 +27688,7 @@
           Tulitorni: Bogskärin vedenalaiselle karille, kts. arm. es. n:o
           23.
         </note>
-        <note xml:id="i-6fGMiV6mC17M21LB6YdzK2" xml:lang="fi">
+        <note xml:id="i-6fGMiV6mC17M21LB6YdzK2" xml:lang="fi" type="speaker">
           Tulkki, talonpoikaissäädyn. I. 2. Turku:
         </note>
         <note xml:id="i-2ApBzYwgANqhxiravC8dq5" xml:lang="fi">
@@ -27698,7 +27716,7 @@
         <note xml:id="i-wmtaDpdMQz3nxktu9DvK7" xml:lang="fi">
           Vahingonpalkkio rikosasioissa, kts. arm. es. n:o 9.
         </note>
-        <note xml:id="i-32VktFoxjMnjxSnxJ2faA8" xml:lang="fi">
+        <note xml:id="i-32VktFoxjMnjxSnxJ2faA8" xml:lang="fi" type="speaker">
           Valtiovarasto-valiokunta :
         </note>
         <note xml:id="i-SKicrgzoGsaKHuJi5Eseg9" xml:lang="fi">

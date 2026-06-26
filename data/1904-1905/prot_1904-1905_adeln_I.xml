@@ -46,13 +46,13 @@
         <note xml:id="i-CrWDN2dXnH4qeu4Mb8hp3G" xml:lang="sv">
           LANDTDAGEN
         </note>
-        <note xml:id="i-MyoKYzpBfQfRsZxfR8Feg1" xml:lang="fi ">
+        <note xml:id="i-MyoKYzpBfQfRsZxfR8Feg1" xml:lang="fi">
           1904—190585.
         </note>
         <note xml:id="i-KyjVkDdJbugcbNKdT2awAq" xml:lang="sv">
           FÖRSTA HÄFTET.
         </note>
-        <note xml:id="i-EMW1y4uAR1Rwyh1cJUUeck" xml:lang="sv ">
+        <note xml:id="i-EMW1y4uAR1Rwyh1cJUUeck" xml:lang="sv">
           HELSINGFORS CENTRALTRYCKERI.
         </note>
         <pb facs="https://swerik-project.github.io/valtiopaivat-records-pdf/1904-1905/prot_1904-1905_adeln_I/prot_1904-1905_adeln_I-0003"/>
@@ -73,7 +73,7 @@
         <note xml:id="i-RLLDe5Zhw6fCeqXABco2Nz" xml:lang="sv">
           Torsdagen den 8 December kl. 12 pä dagen.
         </note>
-        <note xml:id="i-GBnw5pU67hmcR5zGGDFLtH" xml:lang="sv">
+        <note xml:id="i-GBnw5pU67hmcR5zGGDFLtH" xml:lang="sv" type="speaker">
           Hr Landtmarskalken öppnade sammanträdet med följande tal:
         </note>
         <note xml:id="i-5JwKmvwUXKAgRDgb6YkFdc" xml:lang="sv">
@@ -100,7 +100,7 @@
           af R. o. A., som vid de verkstälda anteckningarna tillstädeskommit,
           och inhemtades häraf att polletter blifvit uttagna för
         </note>
-        <note xml:id="i-2ToZf2eZKb4oE8Ua1SVnC2" xml:lang="sv">
+        <note xml:id="i-2ToZf2eZKb4oE8Ua1SVnC2" xml:lang="sv" type="speaker">
           Grefliga ätterna:
         </note>
         <note xml:id="i-ATD7pxYCTWkRvRh2WkWZwG" xml:lang="sv">
@@ -115,7 +115,7 @@
           » 8. Mannerheim, af Grefve Carl Robert Mannerheim, Kammarjunkare,
           Aflärsman.
         </note>
-        <note xml:id="i-QVgkpggiEHZUFQvGbYkpGC" xml:lang="sv">
+        <note xml:id="i-QVgkpggiEHZUFQvGbYkpGC" xml:lang="sv" type="speaker">
           Friherrliga ätterna:
         </note>
         <note xml:id="i-AZH44yxS3mUu1DNuxhU7zG" xml:lang="sv">
@@ -273,7 +273,7 @@
         <note xml:id="i-JRCg35ZN6cr8TCq8dwsjKg" xml:lang="sv">
           36.
         </note>
-        <note xml:id="i-MvLetmaYfe99jQWpsRep95" xml:lang="sv">
+        <note xml:id="i-MvLetmaYfe99jQWpsRep95" xml:lang="sv" type="speaker">
           Adliga ätterna:
         </note>
         <note xml:id="i-VQML4Qbuiw6w8ZSiVRKt8R" xml:lang="sv">
@@ -439,7 +439,7 @@
           Tigerstedt, af Herr Axel Fredrik Tigerstedt, Filos. Magister,
           Ofverintendent, Godsegare.
         </note>
-        <note xml:id="i-SBWoRprL4fUxRF6aKYPx4s" xml:lang="sv">
+        <note xml:id="i-SBWoRprL4fUxRF6aKYPx4s" xml:lang="sv" type="speaker">
           von Schantx, af Herr Berndt Adam Emil von Schantz, Godsegare.
           :
         </note>
@@ -896,7 +896,7 @@
           för tiden sedan senaste landtdag; och blef densamma på Hr Landtmarskalkens
           framställning bordlagd.
         </note>
-        <note xml:id="i-8uo6bixTayRH6LPS4jHV9C" xml:lang="sv">
+        <note xml:id="i-8uo6bixTayRH6LPS4jHV9C" xml:lang="sv" type="speaker">
           Berättelsen var af följande lydelse:
         </note>
         <note xml:id="i-TYKwZw4LGY8A8DTQLGsbko" xml:lang="sv">
@@ -2356,7 +2356,7 @@
         <note xml:id="i-C5oYbkHy1wb2a4oZvFiry9" xml:lang="sv">
           Hr Emil af Hällströms tal till Bondeständet var af föijande lydelse:
         </note>
-        <note xml:id="i-E6mZ42FnNJQsdL7WDfrXqk" xml:lang="fi">
+        <note xml:id="i-E6mZ42FnNJQsdL7WDfrXqk" xml:lang="fi" type="speaker">
           Arvoisa Talonpoikaissääty! Kunnioitettava Puhemies!
         </note>
         <note xml:id="i-7fMTwfJwDXvyKZwdddkWsn" xml:lang="fi">
@@ -3994,12 +3994,17 @@
             jag mig i allo i det uttalande, som i dag at Hr Antell har gjorts.
           </seg>
         </u>
-        <note xml:id="i-UB1m96GjEWmYDxnZudyfcr" xml:lang="fi">
-          Hr Järnefelt: Minäkin kuulun niihin, jotka eilen pyysivät sananvuoroa
-          voimatta sitä saada, ja pyydän nyt saada kaikin puolin yhtyä Hra
-          Alexis Gripenbergin eiliseen lausuntoon sekä siihen, mitä Hra
-          Kasten Antell tänään lausui.
+        <note xml:id="i-UB1m96GjEWmYDxnZudyfcr" xml:lang="fi" type="speaker">
+          Hr Järnefelt:
         </note>
+        <u who="unknown">
+          <seg>
+            Minäkin kuulun niihin, jotka eilen pyysivät sananvuoroa voimatta
+            sitä saada, ja pyydän nyt saada kaikin puolin yhtyä Hra Alexis
+            Gripenbergin eiliseen lausuntoon sekä siihen, mitä Hra Kasten
+            Antell tänään lausui.
+          </seg>
+        </u>
         <note xml:id="i-XCXXWz5H7JBsfPSR75MRD3" xml:lang="sv" type="speaker">
           Hr W. von Kraemer:
         </note>
@@ -6928,7 +6933,7 @@
         <note xml:id="i-PgD49tHUJQ6h6PaojopLLB" xml:lang="fi">
           Korkea-arvoisalle Ritaristolle ja Aatelille.
         </note>
-        <note xml:id="i-SN5NGtgMhg9pso1AG5ftHG" xml:lang="fi">
+        <note xml:id="i-SN5NGtgMhg9pso1AG5ftHG" xml:lang="fi" type="speaker">
           Viitaten edellisten valtiopäiväin lausunnoihin ja vallankin v.
           1900 rautatievaliokunnan mietintöön liitettyyn, Edv. Avellanin
           tekemään vastalauseesen, rohkenen kunnioittaen ehdottaa:
@@ -11815,7 +11820,7 @@
         <note xml:id="i-5MAxzMShdoFDDDNqKwS2Sc" xml:lang="sv">
           Gift qvinnas ställning.
         </note>
-        <note xml:id="i-QB7PyEvshurTdk7EYP9CGz" xml:lang="sv">
+        <note xml:id="i-QB7PyEvshurTdk7EYP9CGz" xml:lang="sv" type="speaker">
           Hr Rein hade till R. o. A. inlemnat och föredrog nu följande
           petitionsmemoria! :
         </note>
@@ -11962,7 +11967,7 @@
         <note xml:id="i-Kbpnk3XdLsRu3uZwztoPLC" xml:lang="sv">
           Prokuratorns berättelse.
         </note>
-        <note xml:id="i-DhCqgxvY8hUgiz873fvjn4" xml:lang="sv">
+        <note xml:id="i-DhCqgxvY8hUgiz873fvjn4" xml:lang="sv" type="speaker">
           Hr von Knorring föredrog ett så lydande petitionsmemorial:
         </note>
         <note xml:id="i-SfpPWTLbHGPTgniTDr77iN" xml:lang="sv">
@@ -12082,7 +12087,7 @@
         <note xml:id="i-LtLouwxggoFd6zHSTp7wT9" xml:lang="sv">
           Samfällighetsskogar.
         </note>
-        <note xml:id="i-Px6iSMjLuEs2PK7Zd8gzbV" xml:lang="sv">
+        <note xml:id="i-Px6iSMjLuEs2PK7Zd8gzbV" xml:lang="sv" type="speaker">
           Hr von Knorring föredrog ett till R. o. A. inlemnadt petitionsförslag
           af följande lydelse:
         </note>
@@ -12360,7 +12365,7 @@
           inlösande afsedda ändamälet att upphjelpa befolkningen i denna
           landsdel ur dess hetryekta läge som ack att tillgodose ett rätt-
         </note>
-        <note xml:id="i-YJBMEDWrHfiuhADVGoHWK5" xml:lang="sv">
+        <note xml:id="i-YJBMEDWrHfiuhADVGoHWK5" xml:lang="sv" type="speaker">
           visans kraf, tillåter jag mig föreslå en underdänig petition
           derom:
         </note>
@@ -12394,7 +12399,7 @@
         <note xml:id="i-NxVAqbmFBvQxZuA1KWvEcw" xml:lang="sv">
           'Missförhällandena i Wiborgs län.
         </note>
-        <note xml:id="i-XeE8R4XmGNzrSfUm1UxfR3" xml:lang="sv">
+        <note xml:id="i-XeE8R4XmGNzrSfUm1UxfR3" xml:lang="sv" type="speaker">
           Af Hr Forsman upplästes ett af honom jemte flere andra medlemmar
           af R. o. A. undertecknadt sä lydande petitionsmemorial :
         </note>
@@ -12600,7 +12605,7 @@
         <note xml:id="i-T6JqzzX6y1ykq7TxSkuQ1F" xml:lang="sv">
           Civiläktenskap.
         </note>
-        <note xml:id="i-DMynVscZLNdcPAi5f7BCVM" xml:lang="sv">
+        <note xml:id="i-DMynVscZLNdcPAi5f7BCVM" xml:lang="sv" type="speaker">
           Hr Mauritz Gripenberg föredrog ett petitionsmemorial af följande
           innehåll:
         </note>
@@ -21756,7 +21761,7 @@
         <note xml:id="i-8CCRq6hHxP9S2rqRgHtz4K" xml:lang="sv">
           R. o. A. 1905. 24 Jan. | 349
         </note>
-        <note xml:id="i-XpZ3MNagGqAs7dUktANP9d" xml:lang="fi ">
+        <note xml:id="i-XpZ3MNagGqAs7dUktANP9d" xml:lang="fi">
           År 1905.
         </note>
         <note xml:id="i-NeM2RUACRW5eRYU33PNPKf" xml:lang="sv">
@@ -25702,9 +25707,14 @@
             om val af ytterligare tvä suppleanter.
           </seg>
         </u>
-        <note xml:id="i-NeeSpRoLKYVSRCix89QgD1" xml:lang="fi">
-          Hr Bläfield: Yhdyn edellisen puhujan lausuntoon.
+        <note xml:id="i-NeeSpRoLKYVSRCix89QgD1" xml:lang="fi" type="speaker">
+          Hr Bläfield:
         </note>
+        <u who="unknown">
+          <seg>
+            Yhdyn edellisen puhujan lausuntoon.
+          </seg>
+        </u>
         <note xml:id="i-WerLWmPaxoCwLoSQXByao4" xml:lang="sv">
           Sedan diskussionen i frägan härmed afstannat, framstälde Hr Vieelandtmarskalken
           till Ständets besvarande följande
@@ -25930,11 +25940,14 @@
         <note xml:id="i-CWRE3FDBZUt4v8n5B5Z9Mg" xml:lang="sv" type="speaker">
           Frih. von Alfthan fortsatte:
         </note>
-        <u xml:id="i-AYM2pZ2uWfqaW5aAxxvJBX" who="i-8XNxnftYHEi8sGEojxrwPD">
-          <seg xml:id="i-7gdmBycphTcGmJ3CvcwW5f" xml:lang="sv">
-            »Friherre R. A. Wrede anhöll härefter om ordet och yttrade: I
-            anseende till det af Hr Landtmarskalken nu meddelade beslut ber
-            jag att pä grund af 46 8 i L. O. få deremot nedlägga min reservation.
+        <u xml:id="i-AYM2pZ2uWfqaW5aAxxvJBX" who="i-8XNxnftYHEi8sGEojxrwPD"/>
+        <note xml:id="i-7gdmBycphTcGmJ3CvcwW5f" xml:lang="sv" type="speaker">
+          »Friherre R. A. Wrede anhöll härefter om ordet och yttrade:
+        </note>
+        <u who="unknown">
+          <seg>
+            I anseende till det af Hr Landtmarskalken nu meddelade beslut
+            ber jag att pä grund af 46 8 i L. O. få deremot nedlägga min reservation.
           </seg>
         </u>
         <note xml:id="i-GnXxzSPsPgHuiHXS73xfTT" xml:lang="sv">

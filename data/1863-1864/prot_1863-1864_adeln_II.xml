@@ -60,7 +60,7 @@
         <note xml:id="i-9ctg16pdUJ6RiuqtuNJkwt" xml:lang="sv">
           — 524822
         </note>
-        <note xml:id="i-FAPQVJ8wYM2oiWRpWo6SgR" xml:lang="sv ">
+        <note xml:id="i-FAPQVJ8wYM2oiWRpWo6SgR" xml:lang="sv">
           HELSINGFORS,
         </note>
         <note xml:id="i-6fp66vYJY4dAc4MXuYPKpt" xml:lang="sv">
@@ -5846,7 +5846,7 @@
         <note xml:id="i-TSsaK1QsRgdNV7YZ7aKVbY" xml:lang="sv">
           8 9.
         </note>
-        <note xml:id="i-HwZrT2EWgsRa1KXCsC263D" xml:lang="sv">
+        <note xml:id="i-HwZrT2EWgsRa1KXCsC263D" xml:lang="sv" type="speaker">
           Från rättighet till säte och stämma &amp; riddarhuset uteslutas:
         </note>
         <note xml:id="i-TuyGzR7VZRjz8b7PxPJH1M" xml:lang="sv">
@@ -18375,12 +18375,16 @@
         <note xml:id="i-F1fY61CZt4grCSp1t92DMF" xml:lang="sv" type="speaker">
           Herr Gripenberg:
         </note>
-        <u xml:id="i-AfHcJgo43TrfZ2VvCJfQNE" who="unknown">
-          <seg xml:id="i-KBhkchs8VjSxjZ7wq6PgYL" xml:lang="sv">
-            J. U. 8., erhöll härå ordet och yttrade: Jemte det jag får tillkännagifva,
-            att jag icke deltagit uti sistförsiggångna votering, af den orsak
-            att jag hvarken kunnat godkänna propositionen eller kontrapropositionen,
-            anmäler jag emot det nu fattade beslutet min reservation.
+        <u xml:id="i-AfHcJgo43TrfZ2VvCJfQNE" who="unknown"/>
+        <note xml:id="i-KBhkchs8VjSxjZ7wq6PgYL" xml:lang="sv" type="speaker">
+          J. U. 8., erhöll härå ordet och yttrade:
+        </note>
+        <u who="unknown">
+          <seg>
+            Jemte det jag får tillkännagifva, att jag icke deltagit uti sistförsiggångna
+            votering, af den orsak att jag hvarken kunnat godkänna propositionen
+            eller kontrapropositionen, anmäler jag emot det nu fattade beslutet
+            min reservation.
           </seg>
         </u>
         <note xml:id="i-DfLweM8wyqziDrfG3ARMuH" xml:lang="sv">

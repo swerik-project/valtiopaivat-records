@@ -58,10 +58,10 @@
         <note xml:id="i-GRgQ5aXRjADnYPWLwNZw29" xml:lang="sv">
           FRÄN LANDTDAGENS BÖRJAN TILL OCH MED DEN 5 MAJ.
         </note>
-        <note xml:id="i-8gyGx1TXiAfw94MNctUYZ6" xml:lang="sv ">
+        <note xml:id="i-8gyGx1TXiAfw94MNctUYZ6" xml:lang="sv">
           HELSINGFORS 1900,
         </note>
-        <note xml:id="i-4YCCNk1GvnJfVfbDRgC3Cj" xml:lang="sv ">
+        <note xml:id="i-4YCCNk1GvnJfVfbDRgC3Cj" xml:lang="sv">
           HELSINGFORS CENTRALTRYCKERI.
         </note>
         <pb facs="https://swerik-project.github.io/valtiopaivat-records-pdf/1900/prot_1900_borgare_I/prot_1900_borgare_I-0003"/>
@@ -142,10 +142,14 @@
           för Borgå: stadsläkaren därstädes, medicinelicentiaten Johan
           Albert Lindh;
         </note>
-        <note xml:id="i-EWEbFm8YjivaJ4uLycvDBA" xml:lang="sv">
-          för Nykarleby: häradshöfdingen Johan Fredrik Barck, från nämda
-          stad:
+        <note xml:id="i-EWEbFm8YjivaJ4uLycvDBA" xml:lang="sv" type="speaker">
+          för Nykarleby:
         </note>
+        <u who="unknown">
+          <seg>
+            häradshöfdingen Johan Fredrik Barck, från nämda stad:
+          </seg>
+        </u>
         <note xml:id="i-LLcQ4eE2QmsMvxFNXb5p8v" xml:lang="sv">
           för Gamlakarleby: handlanden Karl Herman Renlund, från Helsingfors;
         </note>
@@ -822,7 +826,7 @@
         <note xml:id="i-GHuHZ5mZTmebaULBhtPt89" xml:lang="sv" type="speaker">
           Hr Levonius till bondeständet:
         </note>
-        <note xml:id="i-BdseF3JmtQNNr9twExM2Ee" xml:lang="fi">
+        <note xml:id="i-BdseF3JmtQNNr9twExM2Ee" xml:lang="fi" type="speaker">
           Korkeasti kunnioitettu puhemies, arvoisa talonpoikaissääty!
         </note>
         <note xml:id="i-68QcG2WNVxZTdJFLEhVLEV" xml:lang="fi">
@@ -912,7 +916,7 @@
           Hälsningsdeputationen från bondeståndet anlände nu, företrädd
           af landtdagsmannen Koskelin, som yttrade:
         </note>
-        <note xml:id="i-6wsXzyFds1manCW12FoUAo" xml:lang="fi">
+        <note xml:id="i-6wsXzyFds1manCW12FoUAo" xml:lang="fi" type="speaker">
           Kunnioitettava herra puhemies, hyvinarvoisa porvarissääty!
         </note>
         <note xml:id="i-FwYaybNFrwTVbgq9VJ3oEC" xml:lang="fi">
@@ -1086,7 +1090,7 @@
           Prästeständets hälsningsdeputation inträdde härä, företrädd af
           prosten Heman, som yttrade:
         </note>
-        <note xml:id="i-7CN85ewDEj2mEAYz5UF9sT" xml:lang="fi">
+        <note xml:id="i-7CN85ewDEj2mEAYz5UF9sT" xml:lang="fi" type="speaker">
           Kunnioitettava herra puhemies, hyvinarvoisa porvarissääty!
         </note>
         <note xml:id="i-DFQhqkGJkFjLEK8PBR6hFp" xml:lang="fi">
@@ -2245,7 +2249,7 @@
         <note xml:id="i-T8J6EGWxQrPxhSQ4DwXoaQ" xml:lang="sv">
           Antecknades att från medständen anländt särskilda protokollsutdrag.
         </note>
-        <note xml:id="i-FPs6rjzLCeTF2DG5xp8h2n" xml:lang="sv">
+        <note xml:id="i-FPs6rjzLCeTF2DG5xp8h2n" xml:lang="sv" type="speaker">
           Frän ständets elektorer hade inkommit ett sälydande protokoll:
         </note>
         <note xml:id="i-P3aZzceUkdFcwwKJLwdWG1" xml:lang="sv">
@@ -2276,7 +2280,7 @@
           blifvit utsedda, suppleanterna i samma utskott skulle väljas,
           hvardera skildt för sig.
         </note>
-        <note xml:id="i-3LNzG2uhTgS7yLhju2uGkR" xml:lang="sv">
+        <note xml:id="i-3LNzG2uhTgS7yLhju2uGkR" xml:lang="sv" type="speaker">
           j Härefter skreds till själfva valet, som lämnade följande resultat:
         </note>
         <pb facs="https://swerik-project.github.io/valtiopaivat-records-pdf/1900/prot_1900_borgare_I/prot_1900_borgare_I-0043"/>
@@ -2293,7 +2297,7 @@
           Anthoni 1 röst; till andra suppleant: hr Barck 19 röster samt
           hrr Berneri och Levonius hvardera 1 röst;
         </note>
-        <note xml:id="i-DoCoXcejqi1NyQJ9SN6Ce6" xml:lang="sv">
+        <note xml:id="i-DoCoXcejqi1NyQJ9SN6Ce6" xml:lang="sv" type="speaker">
           i ekonomiutskottet :
         </note>
         <note xml:id="i-VGyaSExDzXwGw2M5Vu8XPF" xml:lang="sv">
@@ -2308,7 +2312,7 @@
         <note xml:id="i-TeMySK5Tx2ZZQDffkXUzWW" xml:lang="sv">
           till andra suppleant: hr Cadenius 16 och hr Walmari 5 röster;
         </note>
-        <note xml:id="i-2FYzuEGm1hJ7x2LgKxUEKG" xml:lang="sv">
+        <note xml:id="i-2FYzuEGm1hJ7x2LgKxUEKG" xml:lang="sv" type="speaker">
           i statsutskottet:
         </note>
         <note xml:id="i-Q8CLR6SBTFVZVwtPwGjkDy" xml:lang="sv">
@@ -2323,7 +2327,7 @@
           till andra suppleant: hr Krogius 19 röster samt hrr Löfgren och
           Neovius hvardera 1 röst;
         </note>
-        <note xml:id="i-QSQNAuzgpb83FrCGqqb2St" xml:lang="sv">
+        <note xml:id="i-QSQNAuzgpb83FrCGqqb2St" xml:lang="sv" type="speaker">
           i bevillningsutskottet :
         </note>
         <note xml:id="i-S5h1hptA4uXyM1D6qRiU9a" xml:lang="sv">
@@ -2337,7 +2341,7 @@
           1 röst; till andra suppleant: hr Killinen 20 röster och hr Erkko
           1 röst;
         </note>
-        <note xml:id="i-PRvQGjAUsb38X8QRW5GYqP" xml:lang="sv">
+        <note xml:id="i-PRvQGjAUsb38X8QRW5GYqP" xml:lang="sv" type="speaker">
           i bankutskottet :
         </note>
         <note xml:id="i-829RFT3hEznm6fK8ySqtCw" xml:lang="sv">
@@ -2353,7 +2357,7 @@
           till första suppleant: hr Kerttula 19 röster: till andra suppleant:
           hr Lindblom 18 röster och hr Schwindt 1 röst;
         </note>
-        <note xml:id="i-3cBRcDDT3xxm4XLcKxsqdW" xml:lang="sv">
+        <note xml:id="i-3cBRcDDT3xxm4XLcKxsqdW" xml:lang="sv" type="speaker">
           i expeditionsutskottet :
         </note>
         <note xml:id="i-WjoC2AkC84kRk93MZ7NkLc" xml:lang="sv">
@@ -2367,7 +2371,7 @@
           till andra suppleant: hr Anthoni 19 röster samt hrr Lilius och
           Schwindt hvardera 1 röst;
         </note>
-        <note xml:id="i-UZJVhGCJnExZvsZKfZJTVw" xml:lang="sv">
+        <note xml:id="i-UZJVhGCJnExZvsZKfZJTVw" xml:lang="sv" type="speaker">
           i lag- och ekonomiutskottet :
         </note>
         <note xml:id="i-VkyAaKNHAMLEhHSqA1XgmD" xml:lang="sv">
@@ -2381,7 +2385,7 @@
           till andra suppleant: hr Lilius 16 och hr Genetz 2 röster samt
           hrr Lille, Pentzin och Roschier enhvar 1 röst;
         </note>
-        <note xml:id="i-S1UWWLJ5SySSmA3mGNcNYH" xml:lang="sv">
+        <note xml:id="i-S1UWWLJ5SySSmA3mGNcNYH" xml:lang="sv" type="speaker">
           i vattenrättsutskottet :
         </note>
         <note xml:id="i-34hw81e3rLF2yWisQR7cGQ" xml:lang="sv">
@@ -2394,7 +2398,7 @@
         <note xml:id="i-pucMP7Hgfy6sWaxgd9XGL" xml:lang="sv">
           till andra suppleant: hr Liljeroos 21 röster;
         </note>
-        <note xml:id="i-FYo8vP8rDbjm1wQ7TNFWh8" xml:lang="sv">
+        <note xml:id="i-FYo8vP8rDbjm1wQ7TNFWh8" xml:lang="sv" type="speaker">
           i allmänna besvärsutskottet :
         </note>
         <note xml:id="i-HjfPGiCwWsywHrBSwcXDgJ" xml:lang="sv">
@@ -3498,7 +3502,7 @@
         <note xml:id="i-TsvwRa52gcGmofrWrXmnN2" xml:lang="fi">
           Hyvinarvoisalle porvarissäädylle.
         </note>
-        <note xml:id="i-Tm79DTfJG6JRUm4McpJGEc" xml:lang="fi">
+        <note xml:id="i-Tm79DTfJG6JRUm4McpJGEc" xml:lang="fi" type="speaker">
           Nojautuen edellisten, varsinaisten valtiopäivien lausuntoihin
           ja päätöksiin sekä erinäisten rautatiesuuntain taloudellista tutkimusta
           varten asetetun komitean mietintöön, rohkenen täten kunnioittaen
@@ -3827,7 +3831,7 @@
           I enlighet med hr Erkkos därom gjorda anhållan remitterades petitionsförslaget
           till järnvägsutskottet.
         </note>
-        <note xml:id="i-PZ2nLCbsQeKCg7AJmugnTU" xml:lang="sv">
+        <note xml:id="i-PZ2nLCbsQeKCg7AJmugnTU" xml:lang="sv" type="speaker">
           Hr Kerttula uppläste ett af honom jämte hrr Levonius och Relander
           undertecknadt petitionsmemorial, sålydande:
         </note>
@@ -3969,7 +3973,7 @@
           Pä hr Kerttulas anhällan blet petitionsförslaget remitteradt
           till järnvägsutskottet.
         </note>
-        <note xml:id="i-EHjWsP41WzKkA5GbcY8apB" xml:lang="sv">
+        <note xml:id="i-EHjWsP41WzKkA5GbcY8apB" xml:lang="sv" type="speaker">
           Hr Holmberg, Emil, uppläste ett af honom jämte hrr Neovius och
           Pentzin undertecknadt petitionsmemoriol, af följande lydelse:
         </note>
@@ -4124,7 +4128,7 @@
           I enlighet med hr Holmbergs anhållan blef petitionsförslaget
           remitteradt till ekonomiutskottet.
         </note>
-        <note xml:id="i-F1q3EXuPsdvjUUwrJa8tX1" xml:lang="sv">
+        <note xml:id="i-F1q3EXuPsdvjUUwrJa8tX1" xml:lang="sv" type="speaker">
           Hr Öberg uppläste ett af honom jämte hrr Juselius. Arthur, och
           Eck undertecknadt, sälydande petitionsmemorial:
         </note>
@@ -4494,7 +4498,7 @@
           275 » » Tammerfors &gt; iw o: s m 929 » &gt; » Mäntyluoto . .
           . . . 348 » » Raumo . Ä 8 Goan 337 »
         </note>
-        <note xml:id="i-RjsmpF96JkhWS3xNFqjh5g" xml:lang="sv ">
+        <note xml:id="i-RjsmpF96JkhWS3xNFqjh5g" xml:lang="sv">
           N Helsingfors =. = = oo ooo oo so &gt; 380 &gt;
         </note>
         <pb facs="https://swerik-project.github.io/valtiopaivat-records-pdf/1900/prot_1900_borgare_I/prot_1900_borgare_I-0083"/>
@@ -4579,9 +4583,14 @@
         <note xml:id="i-NZN3XsjMMKnPS2kSquffaw" xml:lang="unknown">
           T. L. Eck. Albert Öberg. F. A. Juselius.
         </note>
-        <note xml:id="i-7g7e4rPj5AE6FLvhATgoCU" xml:lang="fi">
-          Tähän yhdyn: Alfrid Aejmelaeus.
+        <note xml:id="i-7g7e4rPj5AE6FLvhATgoCU" xml:lang="fi" type="speaker">
+          Tähän yhdyn:
         </note>
+        <u who="unknown">
+          <seg>
+            Alfrid Aejmelaeus.
+          </seg>
+        </u>
         <note xml:id="i-QvtGkcYhb37aefqMzNQPE5" xml:lang="sv">
           Hr Eck uppläste klämmen i petitionsmemorialet, hvarefter detsamma
           pä hr Ecks anhällan remitterades till järnvägsutskottet.
@@ -4723,7 +4732,7 @@
         <note xml:id="i-2foTbLgHzkhuA4WJsMa7bm" xml:lang="sv">
           På yrkande af hr Öhman blef ärendet bordlagdt till nästa plenum.
         </note>
-        <note xml:id="i-KCwNxjxAj3RzgCvUxPhsz8" xml:lang="sv">
+        <note xml:id="i-KCwNxjxAj3RzgCvUxPhsz8" xml:lang="sv" type="speaker">
           Hr Tötterman uppläste ett af honom inlämnadt petitionsmemorial,
           af följande lydelse:
         </note>
@@ -4784,7 +4793,7 @@
           I enlighet med petitionärens anhällan blef petitionsförslaget
           remitteradt till allmänna besvärsutskottet.
         </note>
-        <note xml:id="i-57n9kN4K7Vvwdrhb858PjR" xml:lang="sv">
+        <note xml:id="i-57n9kN4K7Vvwdrhb858PjR" xml:lang="sv" type="speaker">
           Af hr Tötterman hade vidare inlämnats ett petitionsmemorial,
           lydande säsom följer:
         </note>
@@ -5010,7 +5019,7 @@
         <note xml:id="i-81H6dmeds8dEdT6HY5unkV" xml:lang="sv">
           Emil Schybergson. Mauritx Hallberg. K. H. Renlund.
         </note>
-        <note xml:id="i-GchAKSXwqaK25k9VbWnfjX" xml:lang="sv">
+        <note xml:id="i-GchAKSXwqaK25k9VbWnfjX" xml:lang="sv" type="speaker">
           Om förestäende petition förena sig:
         </note>
         <note xml:id="i-QxBu5FrDoGYT5ZiHqP2gck" xml:lang="sv">
@@ -5137,7 +5146,7 @@
           ärendet till järnvägsutskottet, som genom protokollsutdrag äfven
           skulle erhålla del af hr Schybergsons yttrande.
         </note>
-        <note xml:id="i-CFNPrRt29AhVK6CsQDDm4E" xml:lang="sv">
+        <note xml:id="i-CFNPrRt29AhVK6CsQDDm4E" xml:lang="sv" type="speaker">
           Hr Renlund uppläste ett af honom ingifvet petitionsmemorial af
           följande lydelse:
         </note>
@@ -5248,7 +5257,7 @@
           I enlighet med petitionärens anhällan remitterades petitionsförslaget
           till järnvägsutskottet.
         </note>
-        <note xml:id="i-3Y1hoqBx8QH8tBiSM6ofk6" xml:lang="sv">
+        <note xml:id="i-3Y1hoqBx8QH8tBiSM6ofk6" xml:lang="sv" type="speaker">
           Hr Eck uppläste ett af honom jämte hr Juselius, Arthur, och Öberg
           undertecknadt, sälydande petitionsmemorial:
         </note>
@@ -5324,7 +5333,7 @@
           Pä hr Ecks anhällan remitterades petitionsförslaget till allmänna
           besvärsutskottet.
         </note>
-        <note xml:id="i-BUb5uwuhvg1o71pmb2fqTx" xml:lang="sv">
+        <note xml:id="i-BUb5uwuhvg1o71pmb2fqTx" xml:lang="sv" type="speaker">
           Hr Andersin uppläste ett af honom inlämnadt, sälydande petitionsmemorial:
         </note>
         <pb facs="https://swerik-project.github.io/valtiopaivat-records-pdf/1900/prot_1900_borgare_I/prot_1900_borgare_I-0098"/>
@@ -5391,7 +5400,7 @@
           Petitionären anhöll att petitionsförslaget mätte remitteras till
           järnvägsutskottet; hvartill ståndet biföll.
         </note>
-        <note xml:id="i-VJcNbUK4LGUa51GoiapNa7" xml:lang="sv">
+        <note xml:id="i-VJcNbUK4LGUa51GoiapNa7" xml:lang="sv" type="speaker">
           Af hr Boisman hade inlämnats ett sälydande petitionsmemorial:
         </note>
         <note xml:id="i-WfNo7Jv6haotdCmBUQPxNy" xml:lang="sv">
@@ -6449,7 +6458,7 @@
           utskott inlämna utredning om att slika bidrag blifvit behörigen
           utfästa.
         </note>
-        <note xml:id="i-BrQKrafQUSYYSeR1bWBzRS" xml:lang="sv">
+        <note xml:id="i-BrQKrafQUSYYSeR1bWBzRS" xml:lang="sv" type="speaker">
           Vi anhålla förty vördsammast om vällofliga borgareståndets benägna
           medvärkan till en underdånig petition därom:
         </note>
@@ -6481,7 +6490,7 @@
         <note xml:id="i-GwYXJdLvtEYfVcv6Mtk7Cu" xml:lang="sv">
           116 Skolor.
         </note>
-        <note xml:id="i-5kSvrzP2rEjkBWvedHpke5" xml:lang="sv">
+        <note xml:id="i-5kSvrzP2rEjkBWvedHpke5" xml:lang="sv" type="speaker">
           Föredrogs ett af hr Pelkonen, Juho, inlämnadt, sälydande petitionsmemoria!:
         </note>
         <note xml:id="i-WiHPwotM32X4zWoYcf4XDP" xml:lang="fi">
@@ -6573,7 +6582,7 @@
           i enlighet med petitionärens anhållan, remitterades till allmännä
           besvärsutskottet.
         </note>
-        <note xml:id="i-Y4J1u2QKCRy1sXYCV3EicX" xml:lang="sv">
+        <note xml:id="i-Y4J1u2QKCRy1sXYCV3EicX" xml:lang="sv" type="speaker">
           Föredrogs ett af hr Stenström ingifvet petitionsmemorial af följande
           lydelse:
         </note>
@@ -6698,7 +6707,7 @@
           petitionsförslaget, pä petitionärens anhällan, till allmänna
           besvärsutskottet.
         </note>
-        <note xml:id="i-GArzBewzfpFr6BeuzzbrxR" xml:lang="sv">
+        <note xml:id="i-GArzBewzfpFr6BeuzzbrxR" xml:lang="sv" type="speaker">
           Hr Boisman uppläste ett af honom inlämnadt petitionsmemorial
           af följande lydelse:
         </note>
@@ -20557,40 +20566,45 @@
           markalla, jota lisättyä pohjapalkkaa seuraisi palkankorotukset
           samassa suhteessa kuin nykyäänkin.
         </note>
-        <note xml:id="i-23xrHUZhCiGJoFpE35XAdN" xml:lang="fi">
-          Hr Lilius: Kun pyysin puheenvuoroa tässä asiassa, oli aikomukseni
-          tehdä sama ehdotus, minkä hra Killinen vastikään on esittänyt.
-          Minä voin siis yhtyä hänen ehdotukseensa ja teen sen pääasiassa
-          syystä, johonka hra Killinen viimeksi on viittaamalla koskenut.
-          Kansakoululaitoksemme voimallinen kehittäminen on aina ollut Suomen
-          edustuslaitoksen tärkeimpiä tehtäviä. Tämä kehittyminen = edellyttää
-          toiselta puolen, että meillä niin kaupungeissa kuin maaseudulla
-          on siksi riittävästi kansakouluja, että kansan koko nouseva polvi
-          on tilaisuudessa saamaan niissä opetusta, ja toiselta puolen,
-          että kansakoululaitoksemme palveluksessa on riittävästi hyviä
-          työvoimia. Katsoen siihen, minkälaisiksi työansiot meidän maassa
-          ovat viime aikoina kehittyneet ja niitten rinnalla myöskin elantokustannukset
-          ovat muodostuneet, näyttää minusta mahdottomalta sillä pohjapalkalla,
-          jota nykyään maalaiskansakoulujen opettajakunta valtiovaroista
-          nanttii, saada riittävästi kunnollista väkeä kansakoulun palvelukseen.
-          Teoreettisen kasvatuksen hankkiminen vie kansakoulunopettajalta
-          jonkun verran enemmän aikaa, kuin ammattiopetuksen teoreettinen
-          puoli ammattilaiselta. Mutta minä luulen, että meidän maassa maaseudullakin
-          käy jo nyt ja vielä enemmän vastedes miltei mahdottomaksi saada
-          kunnollista työnjohtajaa vähemmällä kuin 150 markan kuukausipalkalla
-          eli siis 1,800 markan vuosipalkalla. Kun työansiot käytöllisissä
-          toimissa näin osottautuvat korkeammiksi kuin kansakoulunopettajatoimen
-          alalla, on siitä seurauksena, että kansan vähävaraisempien kerrosten
-          henkisesti ja ruumiillisesti kykenevimmät ainekset kernaammin
-          etsivät toimeentuloaan käytöllisiltä aloilta, joilla parempi toimeentulo
-          on saatavissa. Sitä osaa näistä aineksista, joka pyrkii kansakoulualalle,
-          ei siis voida edellyttää henkisesti kykenevimmäksi. Että tämä
-          seikka on omiansa haitallisesti vaikuttamaan kansakouluopetuksen
-          menestymiseen, on minun käsitykseni mukaan aivan selvää. Edellyttämällä,
-          että meiltä valtiovaroja tarkoitusta varten riittää, pyydän saada
-          yhtyä hra Killisen ehdotukseen, koska se paremmin kuin valiokunnan
-          ehdotus sattuu asian ytimeen.
+        <note xml:id="i-23xrHUZhCiGJoFpE35XAdN" xml:lang="fi" type="speaker">
+          Hr Lilius:
         </note>
+        <u who="unknown">
+          <seg>
+            Kun pyysin puheenvuoroa tässä asiassa, oli aikomukseni tehdä
+            sama ehdotus, minkä hra Killinen vastikään on esittänyt. Minä
+            voin siis yhtyä hänen ehdotukseensa ja teen sen pääasiassa syystä,
+            johonka hra Killinen viimeksi on viittaamalla koskenut. Kansakoululaitoksemme
+            voimallinen kehittäminen on aina ollut Suomen edustuslaitoksen
+            tärkeimpiä tehtäviä. Tämä kehittyminen = edellyttää toiselta puolen,
+            että meillä niin kaupungeissa kuin maaseudulla on siksi riittävästi
+            kansakouluja, että kansan koko nouseva polvi on tilaisuudessa
+            saamaan niissä opetusta, ja toiselta puolen, että kansakoululaitoksemme
+            palveluksessa on riittävästi hyviä työvoimia. Katsoen siihen,
+            minkälaisiksi työansiot meidän maassa ovat viime aikoina kehittyneet
+            ja niitten rinnalla myöskin elantokustannukset ovat muodostuneet,
+            näyttää minusta mahdottomalta sillä pohjapalkalla, jota nykyään
+            maalaiskansakoulujen opettajakunta valtiovaroista nanttii, saada
+            riittävästi kunnollista väkeä kansakoulun palvelukseen. Teoreettisen
+            kasvatuksen hankkiminen vie kansakoulunopettajalta jonkun verran
+            enemmän aikaa, kuin ammattiopetuksen teoreettinen puoli ammattilaiselta.
+            Mutta minä luulen, että meidän maassa maaseudullakin käy jo nyt
+            ja vielä enemmän vastedes miltei mahdottomaksi saada kunnollista
+            työnjohtajaa vähemmällä kuin 150 markan kuukausipalkalla eli siis
+            1,800 markan vuosipalkalla. Kun työansiot käytöllisissä toimissa
+            näin osottautuvat korkeammiksi kuin kansakoulunopettajatoimen
+            alalla, on siitä seurauksena, että kansan vähävaraisempien kerrosten
+            henkisesti ja ruumiillisesti kykenevimmät ainekset kernaammin
+            etsivät toimeentuloaan käytöllisiltä aloilta, joilla parempi toimeentulo
+            on saatavissa. Sitä osaa näistä aineksista, joka pyrkii kansakoulualalle,
+            ei siis voida edellyttää henkisesti kykenevimmäksi. Että tämä
+            seikka on omiansa haitallisesti vaikuttamaan kansakouluopetuksen
+            menestymiseen, on minun käsitykseni mukaan aivan selvää. Edellyttämällä,
+            että meiltä valtiovaroja tarkoitusta varten riittää, pyydän saada
+            yhtyä hra Killisen ehdotukseen, koska se paremmin kuin valiokunnan
+            ehdotus sattuu asian ytimeen.
+          </seg>
+        </u>
         <note xml:id="i-GfUiTaZrpW9rFVGTcGkbi1" xml:lang="unknown" type="speaker">
           Hr Neovius:
         </note>

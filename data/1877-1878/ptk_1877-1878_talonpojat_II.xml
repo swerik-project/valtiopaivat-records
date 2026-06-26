@@ -770,7 +770,7 @@
             man» sä skulle svårigheterna blifva ännu större.
           </seg>
         </u>
-        <note xml:id="i-Fq6c517GXZK35WJrkAZcx7" xml:lang="fi">
+        <note xml:id="i-Fq6c517GXZK35WJrkAZcx7" xml:lang="fi" type="speaker">
           Keskustelun tähän päätyttyä esitteli puhemies seuraavan äänmösesityksen
           :
         </note>
@@ -842,7 +842,7 @@
         <note xml:id="i-BtPKtduQFuu9VZRJyKHy6M" xml:lang="sv">
           28.
         </note>
-        <note xml:id="i-U7eALDCMk3KT5XACkgysTd" xml:lang="fi">
+        <note xml:id="i-U7eALDCMk3KT5XACkgysTd" xml:lang="fi" type="speaker">
           Tämän johdosta lausui edusmies H. Jaatinen saatuansa puhevuoron
           :
         </note>
@@ -1202,21 +1202,25 @@
           ehdoitteleisin, että paikka otettaisiin tässä suhteessa kysymykseen,
           vaan ei isäntä.
         </note>
-        <note xml:id="i-VUiB12gbWB3gLKLmwKBtEk" xml:lang="sv">
-          Landtdagsmannen Hollm&amp;6rus: Beträffande denna $ har såväl
-          komit6n som nådiga propositionen och utskottets betänkande just
-          gätt ut pä att förändra det gamla stadgandet; ty tjenaren tjenar
-          icke stället, utan husbonden. Jag för min del är likväl utaf den
-          äsigten, att ännu en större förmän borde beredas en gammal trogen
-          tjenare. Jag föreslär säledes, att här efter orden »hos en och
-          samme husbonde» skulle tilläggas orden: eller dess barn tjenat
-          tillsammans 25 &amp;r. Ty en husbonde kan sälja sin lägenhet ät
-          sin son, sedan tjenaren tjenat till ex. 24, och dä mäste denne
-          ytterligare tjena 25 är, förrän han kan komma i ätnjutande af
-          den förmån, som denna 8 åsyftar. Dock vill jag icke utsträcka
-          detta längre än till barn i första ledet, och således icke till
-          arfvingar i allmänhet.
+        <note xml:id="i-VUiB12gbWB3gLKLmwKBtEk" xml:lang="sv" type="speaker">
+          Landtdagsmannen Hollm&amp;6rus:
         </note>
+        <u who="unknown">
+          <seg>
+            Beträffande denna $ har såväl komit6n som nådiga propositionen
+            och utskottets betänkande just gätt ut pä att förändra det gamla
+            stadgandet; ty tjenaren tjenar icke stället, utan husbonden. Jag
+            för min del är likväl utaf den äsigten, att ännu en större förmän
+            borde beredas en gammal trogen tjenare. Jag föreslär säledes,
+            att här efter orden »hos en och samme husbonde» skulle tilläggas
+            orden: eller dess barn tjenat tillsammans 25 &amp;r. Ty en husbonde
+            kan sälja sin lägenhet ät sin son, sedan tjenaren tjenat till
+            ex. 24, och dä mäste denne ytterligare tjena 25 är, förrän han
+            kan komma i ätnjutande af den förmån, som denna 8 åsyftar. Dock
+            vill jag icke utsträcka detta längre än till barn i första ledet,
+            och således icke till arfvingar i allmänhet.
+          </seg>
+        </u>
         <note xml:id="i-FDhpv1hMtdGRhTuZ9gt9Lv" xml:lang="sv" type="speaker">
           Landtdagsmannen Suutarla:
         </note>
@@ -1523,16 +1527,20 @@
             puolusti edusmiesten Riihimäen ja Avellanin lausuntoja.
           </seg>
         </u>
-        <note xml:id="i-XjnzjtvKpynYmJ84rug3ZK" xml:lang="sv">
-          Landtdagsmannen Hollm6rus: Jag kan icke för min del godkänna,
-          att orden »der sä skäligt pröfvas» skulle uteslutas. Ty dä skulle
-          arfvingarne alltid vara skyldiga, att föda tjenaren, ifall husbonden
-          icke kan det. Det kunde hända, att en prest i Enare socken har
-          en tjenare, som tjenat honom 25 är, och att hans son är prest
-          pä Åland. I1frägavarande skyldighet skulle dä komma att ganska
-          svärt drabba den senare, och då kunde man säga, att det icke är
-          »skäligt».
+        <note xml:id="i-XjnzjtvKpynYmJ84rug3ZK" xml:lang="sv" type="speaker">
+          Landtdagsmannen Hollm6rus:
         </note>
+        <u who="unknown">
+          <seg>
+            Jag kan icke för min del godkänna, att orden »der sä skäligt
+            pröfvas» skulle uteslutas. Ty dä skulle arfvingarne alltid vara
+            skyldiga, att föda tjenaren, ifall husbonden icke kan det. Det
+            kunde hända, att en prest i Enare socken har en tjenare, som tjenat
+            honom 25 är, och att hans son är prest pä Åland. I1frägavarande
+            skyldighet skulle dä komma att ganska svärt drabba den senare,
+            och då kunde man säga, att det icke är »skäligt».
+          </seg>
+        </u>
         <note xml:id="i-Wb47cvdvvqsofc7mVMA635" xml:lang="fi" type="speaker">
           Edusmies Avellan:
         </note>
@@ -2132,11 +2140,11 @@
         <note xml:id="i-6r1MUwkqVgQkHCmpVVzEgM" xml:lang="sv" type="speaker">
           Suomenmaan Herra
         </note>
-        <u xml:id="i-WtFTxhB5RAYMRBqNvkcqjd" who="unknown">
-          <seg xml:id="i-BEHYwisNLF5C3bdCvbir6V" xml:lang="fi">
-            virkaatekevälle Kenraalikuvernöörille!
-          </seg>
-        </u>
+        <u xml:id="i-WtFTxhB5RAYMRBqNvkcqjd" who="unknown"/>
+        <note xml:id="i-BEHYwisNLF5C3bdCvbir6V" xml:lang="fi" type="speaker">
+          virkaatekevälle Kenraalikuvernöörille!
+        </note>
+        <u who="unknown"/>
         <note xml:id="i-QcBoJZAvuj1Zt8yuwWkJbV" xml:lang="fi">
           Sen ohessa, että Keisarillinen Majesteetti, niinkuin minun Teidän
           Ylhäisyydellenne annettu kirjeeni tältä päivältä N:o 140 sisältää,
@@ -3409,20 +3417,24 @@
         <note xml:id="i-AXZw1auo4akWvc5zq7eQWH" xml:lang="fi">
           934 Talonpoikaissääty 1877. 3 p. Lokak.
         </note>
-        <note xml:id="i-7D8iHmfUXzQt8XAnTbM7Fd" xml:lang="sv">
-          Landtdagsmannen Hollm6rus: Ingalunda är denna $ onödig och icke
-          heller strider den mot &amp; 24, ty den som fyllt 50 år vägras
-          icke att fiytta till annan kommun. Denna $ har tillkommit blott
-          för att skydda kommunen mot andra kommuners fattighjon och orkeslösa.
-          Nägon tidsbestämmelse mäste här finnas och utskottet har ansett
-          50 är vara den rättaste. Dä en person har vistats 50 är i en och
-          samma kommun och der tillbragt sin bästa arbetstid, har kommunen
-          sälunda haft gagn af honom. Om han återigen icke varit der 50
-          är, utan endast någon tid, sä kat detta inträffa i hvilken kommun
-          som helst och kommunerna säledes blifva gvitta hvarandra. — Att
-          &amp;:n gäller lika väl fastighets ägare som fattiga, är klart,
-          ifall de förre nämligen blifva fattiga.
+        <note xml:id="i-7D8iHmfUXzQt8XAnTbM7Fd" xml:lang="sv" type="speaker">
+          Landtdagsmannen Hollm6rus:
         </note>
+        <u who="unknown">
+          <seg>
+            Ingalunda är denna $ onödig och icke heller strider den mot &amp;
+            24, ty den som fyllt 50 år vägras icke att fiytta till annan kommun.
+            Denna $ har tillkommit blott för att skydda kommunen mot andra
+            kommuners fattighjon och orkeslösa. Nägon tidsbestämmelse mäste
+            här finnas och utskottet har ansett 50 är vara den rättaste. Dä
+            en person har vistats 50 är i en och samma kommun och der tillbragt
+            sin bästa arbetstid, har kommunen sälunda haft gagn af honom.
+            Om han återigen icke varit der 50 är, utan endast någon tid, sä
+            kat detta inträffa i hvilken kommun som helst och kommunerna säledes
+            blifva gvitta hvarandra. — Att &amp;:n gäller lika väl fastighets
+            ägare som fattiga, är klart, ifall de förre nämligen blifva fattiga.
+          </seg>
+        </u>
         <note xml:id="i-LLpVMVGT5WFCeAfi58meP4" xml:lang="sv" type="speaker">
           Landtdagsmannen Svedberg:
         </note>
@@ -4071,7 +4083,7 @@
         <note xml:id="i-WHtUmrvpyZLCnmWjNUmKF3" xml:lang="fi">
           $ 30.
         </note>
-        <note xml:id="i-9LRZRRCZzW6kCNTzfL9G3j" xml:lang="fi">
+        <note xml:id="i-9LRZRRCZzW6kCNTzfL9G3j" xml:lang="fi" type="speaker">
           Tämän johdosta lausui edusmies Avellan:
         </note>
         <note xml:id="i-Wz1iguQWP4Qn63oyuVfajs" xml:lang="fi">
@@ -4253,28 +4265,32 @@
           y. m. saa kotipaikalta mennä pois, pitää suorittaman vaivaismaksu.
           Minä lyhimmästä tärkeimpään puolustan tätä armollista esitystä.
         </note>
-        <note xml:id="i-HpMZmbXzkmW1BFQdDgMsw1" xml:lang="sv">
-          Landtdagsmannen Hollm6rus: Från den kommun, der jag är boende,
-          har jag den erfarenhet, att om jordegaren ähvälfves ifrågavarande
-          ansvarighet för dem, som bo pä hans mark, sä blifver följden den,
-          att man nödgas afskrifva deras utskylder pä kommunalstämman. I
-          vär kommun försökte man efter öfverenskommelse införa samma stadgande,
-          som finnes i denna 30 $. Första året inflöto utskylderna ordentligt,
-          men sedan blef det ett »rop i landet», som var förfärligt. Alla
-          ville drifva bort den lösa befolkningen. Det var icke sä lätt
-          att fä dem att arbeta för sina utskylder. Knappt en af tio beqvämade
-          sig dertill, och dem, som hade egna rum, kunde man icke så lätt
-          fördrifva. Följden var, att jordegarena fingo betala deras afgifter
-          och resterna stego till större belopp än förut, hvarför man ock
-          frångick denna bestämning. Då kommunalförfattningen af år 1865
-          bestämmer, att man för resters indrifvande är berättigad anlita
-          kronofogde, som i sådant afseende meddelar utmätningsorder, så
-          är man alltid i tillfälle att utfå något och då kronolänsman,
-          förutom fattigafgiften, debiterar 4 mark 1 utmätningsarvode, så
-          betalar man nog hellre sin fattigafgift ordentligt än man låter
-          det skrida derhän. Således är denna $ alldeles öfverflödig och
-          olämplig.
+        <note xml:id="i-HpMZmbXzkmW1BFQdDgMsw1" xml:lang="sv" type="speaker">
+          Landtdagsmannen Hollm6rus:
         </note>
+        <u who="unknown">
+          <seg>
+            Från den kommun, der jag är boende, har jag den erfarenhet, att
+            om jordegaren ähvälfves ifrågavarande ansvarighet för dem, som
+            bo pä hans mark, sä blifver följden den, att man nödgas afskrifva
+            deras utskylder pä kommunalstämman. I vär kommun försökte man
+            efter öfverenskommelse införa samma stadgande, som finnes i denna
+            30 $. Första året inflöto utskylderna ordentligt, men sedan blef
+            det ett »rop i landet», som var förfärligt. Alla ville drifva
+            bort den lösa befolkningen. Det var icke sä lätt att fä dem att
+            arbeta för sina utskylder. Knappt en af tio beqvämade sig dertill,
+            och dem, som hade egna rum, kunde man icke så lätt fördrifva.
+            Följden var, att jordegarena fingo betala deras afgifter och resterna
+            stego till större belopp än förut, hvarför man ock frångick denna
+            bestämning. Då kommunalförfattningen af år 1865 bestämmer, att
+            man för resters indrifvande är berättigad anlita kronofogde, som
+            i sådant afseende meddelar utmätningsorder, så är man alltid i
+            tillfälle att utfå något och då kronolänsman, förutom fattigafgiften,
+            debiterar 4 mark 1 utmätningsarvode, så betalar man nog hellre
+            sin fattigafgift ordentligt än man låter det skrida derhän. Således
+            är denna $ alldeles öfverflödig och olämplig.
+          </seg>
+        </u>
         <note xml:id="i-BxdN8cy8aCfaXknujPh4To" xml:lang="sv" type="speaker">
           Landtdagsmannen Suutarla
         </note>
@@ -7038,7 +7054,7 @@
         <note xml:id="i-4Qmo4SWA8VuPFSbA42XvtY" xml:lang="fi">
           Ensimmäinen osa hyväksyttiin yksimielisesti.
         </note>
-        <note xml:id="i-2zfFbciPXtSpKrvNvyQ3AK" xml:lang="fi">
+        <note xml:id="i-2zfFbciPXtSpKrvNvyQ3AK" xml:lang="fi" type="speaker">
           Toisen osan johdosta lausui edusmies Hegerström:
         </note>
         <note xml:id="i-XTHstW2mCQgtBAoihWyrZp" xml:lang="fi">
@@ -7143,37 +7159,41 @@
           mietintö n:o 4 H. K. M. Armollisen esityksen johdosta, joka koskee
           kyydinpidon ja kestikievarien järjestämistä.
         </note>
-        <note xml:id="i-6e2nWd78TfdnH97rUWXJbp" xml:lang="sv">
-          Landtdagsmannen Aschan, som först erhöll ordet, yttrade: Denna
-          fräga har vid flera föregäende landtdagar varit föremäl för behandling
-          och flera komit6er hafva varit tillsatta för att lösa densamma.
-          Men hittills synes det mig som om frägan icke ännu vunnit sin
-          lösning. Nu kommer sammansatta Lag- och Ekonomiutskottet med sitt
-          betänkande, som i intet afseende kan anses lindra skjutsningstungan
-          för de hällskjutningsskyldige. Medan de förut voro skyldige att
-          skjutsa en gäng i dygnet, sä föreslär betänkandet att de nu skola
-          skjutsa två gånger i dygnet. Då förr alla samhällsklasser icke
-          voro berättigade att begagna hällskjuts, föreslår utskottet nu
-          att hvem som helst får göra det, således äfven lösdrifvare och
-          tiggare, som hemsändas, hvaraf åter skjutsningstungan blifver
-          ännu tyngre. Då den nådiga propositionen remitterades till sammansatta
-          lag- och ekonomiutskottet, yttrade sig en talare, att om hällskjutsen
-          vore en skatt, som äläge jorden, så önskade han veta huru stor
-          denna skatt vore. Härpä har utskottet icke lemnat något svar.
-          Det förvånar mig så mycket mera, att utskottet icke funnit något
-          medel för att lindra skjutsningstungan, då af den nådiga propositionen
-          tydligen framgår, att regeringen på ett eller annan sätt velat
-          lindra jordegarenes tunga, t. ex. dä den medgifver att militieboställen
-          skola deltaga i hällskjutsningen. Hvad hade då varit lättare för
-          utskottet än att föreslå något slags statsunderstöd för hållskjutsningens
-          utgörande? Jag för min del kan icke godkänna utskottsbetänkandet,
-          utan föreslår, att det skulle återremitteras till utskottet för
-          att omarbetas i sådant syfte, att för hvarje mantal fastställdes
-          ett maximum, antingen af hållskjutsningsdygn, som jordegaren ålåge
-          skjutsa, derest skjutsningen utgjordes in natura, eller af det
-          penningebelopp, som han hade att högst betala, der skjutsningen
-          öfverlätes på entreprenad;
+        <note xml:id="i-6e2nWd78TfdnH97rUWXJbp" xml:lang="sv" type="speaker">
+          Landtdagsmannen Aschan, som först erhöll ordet, yttrade:
         </note>
+        <u who="unknown">
+          <seg>
+            Denna fräga har vid flera föregäende landtdagar varit föremäl
+            för behandling och flera komit6er hafva varit tillsatta för att
+            lösa densamma. Men hittills synes det mig som om frägan icke ännu
+            vunnit sin lösning. Nu kommer sammansatta Lag- och Ekonomiutskottet
+            med sitt betänkande, som i intet afseende kan anses lindra skjutsningstungan
+            för de hällskjutningsskyldige. Medan de förut voro skyldige att
+            skjutsa en gäng i dygnet, sä föreslär betänkandet att de nu skola
+            skjutsa två gånger i dygnet. Då förr alla samhällsklasser icke
+            voro berättigade att begagna hällskjuts, föreslår utskottet nu
+            att hvem som helst får göra det, således äfven lösdrifvare och
+            tiggare, som hemsändas, hvaraf åter skjutsningstungan blifver
+            ännu tyngre. Då den nådiga propositionen remitterades till sammansatta
+            lag- och ekonomiutskottet, yttrade sig en talare, att om hällskjutsen
+            vore en skatt, som äläge jorden, så önskade han veta huru stor
+            denna skatt vore. Härpä har utskottet icke lemnat något svar.
+            Det förvånar mig så mycket mera, att utskottet icke funnit något
+            medel för att lindra skjutsningstungan, då af den nådiga propositionen
+            tydligen framgår, att regeringen på ett eller annan sätt velat
+            lindra jordegarenes tunga, t. ex. dä den medgifver att militieboställen
+            skola deltaga i hällskjutsningen. Hvad hade då varit lättare för
+            utskottet än att föreslå något slags statsunderstöd för hållskjutsningens
+            utgörande? Jag för min del kan icke godkänna utskottsbetänkandet,
+            utan föreslår, att det skulle återremitteras till utskottet för
+            att omarbetas i sådant syfte, att för hvarje mantal fastställdes
+            ett maximum, antingen af hållskjutsningsdygn, som jordegaren ålåge
+            skjutsa, derest skjutsningen utgjordes in natura, eller af det
+            penningebelopp, som han hade att högst betala, der skjutsningen
+            öfverlätes på entreprenad;
+          </seg>
+        </u>
         <pb facs="https://swerik-project.github.io/valtiopaivat-records-pdf/1877-1878/ptk_1877-1878_talonpojat_II/ptk_1877-1878_talonpojat_II-0106"/>
         <note xml:id="i-Wycwaudkixo4LRMKGT5dnw" xml:lang="fi">
           Talonpoikaissääty 1877. 9 p. Lokak. 989
@@ -7581,43 +7601,47 @@
           asetusehdotuksessa edellä puolen päivän istunnossa oli otettu
           keskusteltavaksi.
         </note>
-        <note xml:id="i-RtCxrojU5bSSJjKoSpZEkm" xml:lang="sv">
-          Landtdagsmannen Gadolin, som först erhöll ordet, yttrade: I hufvudsak
-          är jag af samma äsigt, som landtdagsmannen Meurman uttalat. Jag
-          ville blott nämna, att utskottsbetänkandet innehäller i början
-          att »Uti den till landets är 1863—64 församlade Ständer aflätna
-          nädiga propositionen, angäende lindring af jordegares skyldighet
-          till hällskjutsning samt väg- och brobyggnad, framhälles hurusom
-          jordbruksnäringens frigörande frän omedelbart deltagande i skjutsningsbesväret
-          vore endast sälunda möjligt, att staten öfvertoge alla anstalter
-          till de resandes fortskaffande.&gt; Här har regeringen påpekat,
-          att den anser, att jordlägenheterna borde blifva befriade från
-          hällskjutsningstungan. Vidare har äfven den komité, som nedsattes
-          för att, i anledning af ständernas beslut under 1863—64 års landtdag,
-          afgifva yttrande i denna fråga, också föreslagit, att trafiken
-          borde sköta sig sjelf eller att skjutslegan skulle bero på hvad
-          entreprenören fordrar. Äfven nu tillsatta utskott säger, att den
-          enda utvägen, som kan anlitas för ändamålets vinnande d. v. s.
-          jordens befriande från hållskjutsningstumgan, vore att öfverallt
-          införa hållskjutsning på entreprenad, der det låter sig göra,
-          blott emot ätnjutandet af skjutslegan. Då denna tanke nu varit
-          länge erkänd samt styrelsen äfven .medgifvit det vara obilligt,
-          att hällskjutsningen skall päföras jordlägenheterna, sä skulle
-          jag anse, att det icke vore att befara sä särdeles stora svärigheter,
-          om ett dylikt aflyftande nu genast skulle ske. Om skjutslegan
-          vid den första entreprenaden äfven skulle stiga nägot högt pä
-          den grund att entreprenören icke kan beräkna hvad hällskjutsningen
-          kostar, sä skulle likväl snart legan minskas till sitt normala
-          värde derigenom, att det bildade sig en skild entreprenörsklass.
-          Jag anser derför det enda radikala medel att fä denna sak utredd
-          vara, att skjutslegan blifver beroende derpä, hvad entreprenören
-          bjuder. Men för den händelse att detta dock icke skulle vinna
-          regeringens godkännande, om man ocksä skulle fä städernas medverkan
-          dertill, sä skulle dock den föreslagna legan, 2 mark per mil frän
-          stad och 1 mark 60 penni pä landet, bidraga dertill, att mången
-          etreprenör skulle ätaga sig skjutshällningen utan skild ersättning.
-          Skulle dock entreprenörens fordran
+        <note xml:id="i-RtCxrojU5bSSJjKoSpZEkm" xml:lang="sv" type="speaker">
+          Landtdagsmannen Gadolin, som först erhöll ordet, yttrade:
         </note>
+        <u who="unknown">
+          <seg>
+            I hufvudsak är jag af samma äsigt, som landtdagsmannen Meurman
+            uttalat. Jag ville blott nämna, att utskottsbetänkandet innehäller
+            i början att »Uti den till landets är 1863—64 församlade Ständer
+            aflätna nädiga propositionen, angäende lindring af jordegares
+            skyldighet till hällskjutsning samt väg- och brobyggnad, framhälles
+            hurusom jordbruksnäringens frigörande frän omedelbart deltagande
+            i skjutsningsbesväret vore endast sälunda möjligt, att staten
+            öfvertoge alla anstalter till de resandes fortskaffande.&gt; Här
+            har regeringen påpekat, att den anser, att jordlägenheterna borde
+            blifva befriade från hällskjutsningstungan. Vidare har äfven den
+            komité, som nedsattes för att, i anledning af ständernas beslut
+            under 1863—64 års landtdag, afgifva yttrande i denna fråga, också
+            föreslagit, att trafiken borde sköta sig sjelf eller att skjutslegan
+            skulle bero på hvad entreprenören fordrar. Äfven nu tillsatta
+            utskott säger, att den enda utvägen, som kan anlitas för ändamålets
+            vinnande d. v. s. jordens befriande från hållskjutsningstumgan,
+            vore att öfverallt införa hållskjutsning på entreprenad, der det
+            låter sig göra, blott emot ätnjutandet af skjutslegan. Då denna
+            tanke nu varit länge erkänd samt styrelsen äfven .medgifvit det
+            vara obilligt, att hällskjutsningen skall päföras jordlägenheterna,
+            sä skulle jag anse, att det icke vore att befara sä särdeles stora
+            svärigheter, om ett dylikt aflyftande nu genast skulle ske. Om
+            skjutslegan vid den första entreprenaden äfven skulle stiga nägot
+            högt pä den grund att entreprenören icke kan beräkna hvad hällskjutsningen
+            kostar, sä skulle likväl snart legan minskas till sitt normala
+            värde derigenom, att det bildade sig en skild entreprenörsklass.
+            Jag anser derför det enda radikala medel att fä denna sak utredd
+            vara, att skjutslegan blifver beroende derpä, hvad entreprenören
+            bjuder. Men för den händelse att detta dock icke skulle vinna
+            regeringens godkännande, om man ocksä skulle fä städernas medverkan
+            dertill, sä skulle dock den föreslagna legan, 2 mark per mil frän
+            stad och 1 mark 60 penni pä landet, bidraga dertill, att mången
+            etreprenör skulle ätaga sig skjutshällningen utan skild ersättning.
+            Skulle dock entreprenörens fordran
+          </seg>
+        </u>
         <pb facs="https://swerik-project.github.io/valtiopaivat-records-pdf/1877-1878/ptk_1877-1878_talonpojat_II/ptk_1877-1878_talonpojat_II-0114"/>
         <note xml:id="i-8GdSXNgFqcc1B7SRoeL1xX" xml:lang="fi">
           Talonpoikaissääty 1877. 9 p. Lokak. 997
@@ -10443,17 +10467,21 @@
             förklaringar.
           </seg>
         </u>
-        <note xml:id="i-SrpfoUVDUTDjQ8mMfzXeQB" xml:lang="sv">
+        <note xml:id="i-SrpfoUVDUTDjQ8mMfzXeQB" xml:lang="sv" type="speaker">
           Landtdagsmannen Langö6n ville fästa uppmärksamheten vid de olika
-          naturförhällandena inom skilda härad, hvaraf följde oli- :ka utgifter,
-          sä att ett skjutsningsdygn kunde pä sina ställen kosta 3 mark,
-          pä andra åter 1 '/,. Isynnerhet blefve skilnaden stor, om gästgifveriet
-          befinner sig i närheten af stad eller in i landet, hvar- -af följden
-          blefve, ifall hästarna fördelades pä alla gästgifverier, att en
-          del ätoge sig en tredubbel tunga i förhällande till de andra,
-          hvarför talaren icke kunde godkänna mera än det tillägg landtdagsmannen
-          Svedberg föreslagit.
+          naturförhällandena inom skilda härad, hvaraf följde oli- :
         </note>
+        <u who="unknown">
+          <seg>
+            ka utgifter, sä att ett skjutsningsdygn kunde pä sina ställen
+            kosta 3 mark, pä andra åter 1 '/,. Isynnerhet blefve skilnaden
+            stor, om gästgifveriet befinner sig i närheten af stad eller in
+            i landet, hvar- -af följden blefve, ifall hästarna fördelades
+            pä alla gästgifverier, att en del ätoge sig en tredubbel tunga
+            i förhällande till de andra, hvarför talaren icke kunde godkänna
+            mera än det tillägg landtdagsmannen Svedberg föreslagit.
+          </seg>
+        </u>
         <note xml:id="i-CnugpxiQmGcpSGWetE2qM5" xml:lang="sv" type="speaker">
           Landtdagsmannen Malm:
         </note>
@@ -12111,18 +12139,23 @@
         <note xml:id="i-CcHhuBoKqNzmyqwTUeZ8Ks" xml:lang="fi">
           1062 Talonpoikaissääty 1877. 18 p. Lokak.
         </note>
-        <note xml:id="i-BVjuFM3oS4Rqor1EqdvEeZ" xml:lang="sv">
-          Landtdagsmannen Lang6n: Jag tror i sanning mig icke vinna medhäll
-          i ständet, hvilket jag jemväl redan till fullo erfarit, men för
-          att freda mitt samvete, mäste jag likväl yppa min äsigt och högeligen
-          förundra mig deröfver, att det i ståndet gifves ingen, som sanningsenligt
-          skulle utreda denna sak, sä att nu den ene ähvälfvas större skyldigheter
-          än den andre. Jag för min del skulle nog ansett, att de, hvilka
-          äro älagda reservskjutsen, skulle blifva befriade frän skjutshällningen,
-          ty den reservskyldige drabbar vida större tunga, än den hällskjutningsskyldige,
-          emedan den förre alltid mäste ha häst i beredskap under 50 dygn
-          af äret, utan att derför erhålla nägon nämnbar godtgörelse.
+        <note xml:id="i-BVjuFM3oS4Rqor1EqdvEeZ" xml:lang="sv" type="speaker">
+          Landtdagsmannen Lang6n:
         </note>
+        <u who="unknown">
+          <seg>
+            Jag tror i sanning mig icke vinna medhäll i ständet, hvilket
+            jag jemväl redan till fullo erfarit, men för att freda mitt samvete,
+            mäste jag likväl yppa min äsigt och högeligen förundra mig deröfver,
+            att det i ståndet gifves ingen, som sanningsenligt skulle utreda
+            denna sak, sä att nu den ene ähvälfvas större skyldigheter än
+            den andre. Jag för min del skulle nog ansett, att de, hvilka äro
+            älagda reservskjutsen, skulle blifva befriade frän skjutshällningen,
+            ty den reservskyldige drabbar vida större tunga, än den hällskjutningsskyldige,
+            emedan den förre alltid mäste ha häst i beredskap under 50 dygn
+            af äret, utan att derför erhålla nägon nämnbar godtgörelse.
+          </seg>
+        </u>
         <note xml:id="i-F68VHfFRgBnSpuK7Krbmiz" xml:lang="fi" type="speaker">
           Edusmies Avellan
         </note>
@@ -12906,18 +12939,22 @@
         <note xml:id="i-FFrE4jN37J4AVWxS1JFFk2" xml:lang="fi">
           1072 Talonpoikaissääty 1877. 16 p. Lokak.
         </note>
-        <note xml:id="i-FfULZMhuEveFfYZaajLcc5" xml:lang="sv">
-          Landtdagsmannen Lang&amp;n: Jag gillar icke detta moment hvarken
-          i den nädiga propositionen eller utskottets betänkande. Dä den
-          ädla grundsats gjort sig gällande, att man begynt hämma djurplägeriet,
-          skulle jag genom antagande af detta moment icke vilja åter uppväcka
-          det till lif. Här föreslås nemligen, att en häst skall färdas
-          en 15 versts väg fram och tillbaka tvä gänger i dygnet. Jag har
-          derföre ansett Herr Cleves reservation, hvari föreslås, att man
-          ej behöfver skjutsa tvä gänger i dygnet dä hället är längre än
-          en mil, böra med förkastande af den nädiga propositionen och utskottets
-          betänkande i detta moment antagas.
+        <note xml:id="i-FfULZMhuEveFfYZaajLcc5" xml:lang="sv" type="speaker">
+          Landtdagsmannen Lang&amp;n:
         </note>
+        <u who="unknown">
+          <seg>
+            Jag gillar icke detta moment hvarken i den nädiga propositionen
+            eller utskottets betänkande. Dä den ädla grundsats gjort sig gällande,
+            att man begynt hämma djurplägeriet, skulle jag genom antagande
+            af detta moment icke vilja åter uppväcka det till lif. Här föreslås
+            nemligen, att en häst skall färdas en 15 versts väg fram och tillbaka
+            tvä gänger i dygnet. Jag har derföre ansett Herr Cleves reservation,
+            hvari föreslås, att man ej behöfver skjutsa tvä gänger i dygnet
+            dä hället är längre än en mil, böra med förkastande af den nädiga
+            propositionen och utskottets betänkande i detta moment antagas.
+          </seg>
+        </u>
         <note xml:id="i-29CMD81Zr41Mfsncv1HMmb" xml:lang="sv" type="speaker">
           Landtdagsmannen Keto
         </note>
@@ -13959,17 +13996,22 @@
         <note xml:id="i-JAaTH5dpXHh2FKsxanc1KF" xml:lang="fi">
           1 momentista lausuivat:
         </note>
-        <note xml:id="i-7LRGUzr6a7D8fZLmnuhhtT" xml:lang="sv">
-          Landtdagsmannen Lang6n: Jag kan icke godkänna den nädiga propositionen,
-          ej heller utskottets betänkande i denna del. Af dem har jag icke
-          fätt klart för mig, hvaraf den princip har uppstätt, att entreprenören
-          borde erhälla större skjutslega, än den som in natura utgör skjuts.
-          Ehuru i Sverige t. ex. entreprenören har dubbel skjutslega, finnes
-          dock derstädes 260 gästgifverier, hvarest in natura utgöres skjuts.
-          Det torde finnas nägra naturliga orsaker, ty jag tror icke att
-          folket vore sä enfaldigt, att det icke förstode sin egen fördel.
-          Slika hinder finnas jemväl i värt land. Sä
+        <note xml:id="i-7LRGUzr6a7D8fZLmnuhhtT" xml:lang="sv" type="speaker">
+          Landtdagsmannen Lang6n:
         </note>
+        <u who="unknown">
+          <seg>
+            Jag kan icke godkänna den nädiga propositionen, ej heller utskottets
+            betänkande i denna del. Af dem har jag icke fätt klart för mig,
+            hvaraf den princip har uppstätt, att entreprenören borde erhälla
+            större skjutslega, än den som in natura utgör skjuts. Ehuru i
+            Sverige t. ex. entreprenören har dubbel skjutslega, finnes dock
+            derstädes 260 gästgifverier, hvarest in natura utgöres skjuts.
+            Det torde finnas nägra naturliga orsaker, ty jag tror icke att
+            folket vore sä enfaldigt, att det icke förstode sin egen fördel.
+            Slika hinder finnas jemväl i värt land. Sä
+          </seg>
+        </u>
         <pb facs="https://swerik-project.github.io/valtiopaivat-records-pdf/1877-1878/ptk_1877-1878_talonpojat_II/ptk_1877-1878_talonpojat_II-0203"/>
         <note xml:id="i-PymWwKgFYGvXW9apUxZEv8" xml:lang="fi">
           1086 — Talonpöikaissääty 1877. 16 p. Lokak.
@@ -14666,7 +14708,7 @@
             ja Mäkelä yhdistyivät edelliseen puhujaan.
           </seg>
         </u>
-        <note xml:id="i-GPBxv1cgLCHbRxbgSDSXrn" xml:lang="fi">
+        <note xml:id="i-GPBxv1cgLCHbRxbgSDSXrn" xml:lang="fi" type="speaker">
           Keskustelun — päätyttyä ehdoitteli puhemies näin kuuluvan äänestysesityksen
           :
         </note>
@@ -15561,7 +15603,7 @@
         <note xml:id="i-62NY97xdNCvwX5yb8yb7BV" xml:lang="fi">
           1108 Talonpoikaissääty 1877. 18 p. Lokak. +
         </note>
-        <note xml:id="i-4GmPA8Dnmwtr4GRucaYkUq" xml:lang="fi">
+        <note xml:id="i-4GmPA8Dnmwtr4GRucaYkUq" xml:lang="fi" type="speaker">
           Esiteltiin säädyn entisen notarion varatuomari Snellmanin säädyn
           sihteerille antama näin kuuluva kirjoitus:
         </note>
@@ -16155,11 +16197,16 @@
             propositionens ordalydelse.
           </seg>
         </u>
-        <note xml:id="i-EvMHnGSef6jsFgHQKmeYLz" xml:lang="sv">
-          Landtdagsmannen Lang6n: Jag förenar mig med landtdagsmannen Duncker.
-          Utskottet föreslär, att 1 person medförande 12 lisp. vigt, redskapen
-          inberäknad, samt dertill skjutskarlen finge åka
+        <note xml:id="i-EvMHnGSef6jsFgHQKmeYLz" xml:lang="sv" type="speaker">
+          Landtdagsmannen Lang6n:
         </note>
+        <u who="unknown">
+          <seg>
+            Jag förenar mig med landtdagsmannen Duncker. Utskottet föreslär,
+            att 1 person medförande 12 lisp. vigt, redskapen inberäknad, samt
+            dertill skjutskarlen finge åka
+          </seg>
+        </u>
         <pb facs="https://swerik-project.github.io/valtiopaivat-records-pdf/1877-1878/ptk_1877-1878_talonpojat_II/ptk_1877-1878_talonpojat_II-0234"/>
         <note xml:id="i-7PfAY1pQfpTPtTCaBGj9Mx" xml:lang="fi">
           Talonpoikaissääty 1877. 18 p. Lokak. 1117
@@ -16444,7 +16491,7 @@
             järjestämistä, nyt oli mainitun tehtävänsä täyttänyt.
           </seg>
         </u>
-        <note xml:id="i-VXDNhdx6ybsSPgdi86D3No" xml:lang="fi">
+        <note xml:id="i-VXDNhdx6ybsSPgdi86D3No" xml:lang="fi" type="speaker">
           22 &amp;n 2 kohta. Tämän johdosta lausui edusmies Langön:
         </note>
         <note xml:id="i-Y7eyhKDSWcUiX6UUomN6pV" xml:lang="sv">
@@ -17410,17 +17457,22 @@
           deraf, att skjutskarlen fär efter 2 timmars väntan begifva sig
           bort.
         </note>
-        <note xml:id="i-NRBC69XveBWAsCCDaf5ziD" xml:lang="sv">
-          Landtdagsmannen Lang6n: Jag är af samma tanke som landtdagsmannen
-          Meurman. Beträffande orden: »utan skäl hindrad» sä har man här
-          användt den gamla lagens ord. Ty uti slutmeningen af 28 Kap. 7
-          $ B. B. finnes detta förhållande förklaradt, och endast en dalers
-          bot utsatt för hvarje timme, hvarunder gästgifvaren fördröjer
-          en resandes fortkomst. Jag för min del ville, att ifrägakomna
-          böter bestämdes till 2 mk i timmen för gästgifvaren och hoppas,
-          att den resande desslikes finge böta 2 mk i timmen. Det vore,
-          enligt min tanke, öfverensstämmande med vär gällande lag.
+        <note xml:id="i-NRBC69XveBWAsCCDaf5ziD" xml:lang="sv" type="speaker">
+          Landtdagsmannen Lang6n:
         </note>
+        <u who="unknown">
+          <seg>
+            Jag är af samma tanke som landtdagsmannen Meurman. Beträffande
+            orden: »utan skäl hindrad» sä har man här användt den gamla lagens
+            ord. Ty uti slutmeningen af 28 Kap. 7 $ B. B. finnes detta förhållande
+            förklaradt, och endast en dalers bot utsatt för hvarje timme,
+            hvarunder gästgifvaren fördröjer en resandes fortkomst. Jag för
+            min del ville, att ifrägakomna böter bestämdes till 2 mk i timmen
+            för gästgifvaren och hoppas, att den resande desslikes finge böta
+            2 mk i timmen. Det vore, enligt min tanke, öfverensstämmande med
+            vär gällande lag.
+          </seg>
+        </u>
         <note xml:id="i-5qzcR7hXTj2MUTyugky5se" xml:lang="fi" type="speaker">
           Edusmies Puhakka:
         </note>
@@ -17733,15 +17785,20 @@
           »3:lta päivältä Tammikuuta 1872» oikaistiin kuuluvaksi »30:ltä
           päivältä Tammikuuta 1872.
         </note>
-        <note xml:id="i-X8bFZa56rYz1qTPzKwuV1a" xml:lang="sv">
+        <note xml:id="i-X8bFZa56rYz1qTPzKwuV1a" xml:lang="sv" type="speaker">
           Landtdagsmannen K e to, hvilken härefter först begärde ordet
-          yttrade: Jag skulle föreslä, att landets höglofliga ständer skulle
-          i underdänighet hos Hans Kejserliga Majestät anhälla, att inom
-          förloppet af 10 är infordra utredning, huru hällskjutsningen utvecklat
-          sig i landet, samt att H. K. Majestät till följande landtdag skulle
-          afläta en nädig proposition i det syfte, att skjutsningstungan
-          blefve aflyftad frän jorden.
+          yttrade:
         </note>
+        <u who="unknown">
+          <seg>
+            Jag skulle föreslä, att landets höglofliga ständer skulle i underdänighet
+            hos Hans Kejserliga Majestät anhälla, att inom förloppet af 10
+            är infordra utredning, huru hällskjutsningen utvecklat sig i landet,
+            samt att H. K. Majestät till följande landtdag skulle afläta en
+            nädig proposition i det syfte, att skjutsningstungan blefve aflyftad
+            frän jorden.
+          </seg>
+        </u>
         <note xml:id="i-VfaUb9Gouyi3HkB4CRSTsc" xml:lang="fi" type="speaker">
           Edusmies Meurman:
         </note>
@@ -18646,7 +18703,7 @@
             kaipaavan, koska kunnat edeltäkäsin voivat tästä asiasta keskustella.
           </seg>
         </u>
-        <note xml:id="i-F5CxEdSmmF8AxJRF8RiTCa" xml:lang="fi">
+        <note xml:id="i-F5CxEdSmmF8AxJRF8RiTCa" xml:lang="fi" type="speaker">
           Tämän jälkeen saapui korkean arsoisesta Pappissäädystä tullut
           lähettikunta, johdatettuna herra kirkkoherra Hornborgilta, joka
           lausui, niinkuin seuraa:
@@ -19163,14 +19220,19 @@
             yhdistyi edusmies Siveniuksen mietteesen.
           </seg>
         </u>
-        <note xml:id="i-JmW9HegLQravQ6gn183Sj3" xml:lang="sv">
-          Landtdagsmannen Hollmö6rus: Hvad folkskolelärare beträffar, sä
-          är jag af samma äsigt som landtdagsmannen Avellan, men hvad beträffar
-          kommunala tjenster, sä finnes det intet skäl, att derför befria
-          någon. I afseende å äldersbestämningen är jag åter ense med kommunalrådet
-          Stråhle, emedan denna tjenst medför resor o. d., som kunna vara
-          menliga för helsan hos en älderstigen.
+        <note xml:id="i-JmW9HegLQravQ6gn183Sj3" xml:lang="sv" type="speaker">
+          Landtdagsmannen Hollmö6rus:
         </note>
+        <u who="unknown">
+          <seg>
+            Hvad folkskolelärare beträffar, sä är jag af samma äsigt som
+            landtdagsmannen Avellan, men hvad beträffar kommunala tjenster,
+            sä finnes det intet skäl, att derför befria någon. I afseende
+            å äldersbestämningen är jag åter ense med kommunalrådet Stråhle,
+            emedan denna tjenst medför resor o. d., som kunna vara menliga
+            för helsan hos en älderstigen.
+          </seg>
+        </u>
         <note xml:id="i-JbcAH1F91rHLovixA7LK79" xml:lang="fi" type="speaker">
           Edusmies Hannikainen
         </note>
@@ -19422,7 +19484,7 @@
           Tapahtuneessa äänestyksessä voittivat »jaa»-äänet. Vastalauseen
           ilmoitti edusmies Sivenius.
         </note>
-        <note xml:id="i-8Lc9bPVLUbFSRfWEskiCy4" xml:lang="fi">
+        <note xml:id="i-8Lc9bPVLUbFSRfWEskiCy4" xml:lang="fi" type="speaker">
           Puhemies esitti sitte seuraavan äänestysesityksen :
         </note>
         <note xml:id="i-B9BQorTUsTF1jZnpUpABwY" xml:lang="fi">
@@ -20035,7 +20097,7 @@
         <note xml:id="i-TuoUevxJ72RQZCttf13VJy" xml:lang="fi">
           Keskustelun päätyttyä esiteltiin seuraava äänestysesitys:
         </note>
-        <note xml:id="i-5XEjApew4XEyBoQs33752J" xml:lang="fi">
+        <note xml:id="i-5XEjApew4XEyBoQs33752J" xml:lang="fi" type="speaker">
           Joka vastaäänestykseksi tahtoo edusmies Karlstedtin ehdoituksen,
           vastaa »jaa&gt;:
         </note>
@@ -22153,17 +22215,21 @@
             yhdistyi edusmies Meurmanin kanssa.
           </seg>
         </u>
-        <note xml:id="i-6wXtFsGCUErNFaqKwQEKGm" xml:lang="sv">
-          Landtdagsmannen Hollm6rus: Jag kan icke förstå, hvarför icke
-          klämmen i betänkandet eller herr Björkenheims reservation kunde
-          utgöra ständets svar. Ständet har visserligen förkastat propositionen
-          om häradsrätternas reorganisation, men deraf följer icke, att
-          regeringen icke kunde förelägga ett nytt förslag derutinnan. Ej
-          heller kan jag förstå hvarför man skall göra denna författning
-          beroende af tiden för häradsrätternas reorganisation, hvarför
-          jag vidhåller att herr Björkenheims reservation skulle antagas
-          härvidlag.
+        <note xml:id="i-6wXtFsGCUErNFaqKwQEKGm" xml:lang="sv" type="speaker">
+          Landtdagsmannen Hollm6rus:
         </note>
+        <u who="unknown">
+          <seg>
+            Jag kan icke förstå, hvarför icke klämmen i betänkandet eller
+            herr Björkenheims reservation kunde utgöra ständets svar. Ständet
+            har visserligen förkastat propositionen om häradsrätternas reorganisation,
+            men deraf följer icke, att regeringen icke kunde förelägga ett
+            nytt förslag derutinnan. Ej heller kan jag förstå hvarför man
+            skall göra denna författning beroende af tiden för häradsrätternas
+            reorganisation, hvarför jag vidhåller att herr Björkenheims reservation
+            skulle antagas härvidlag.
+          </seg>
+        </u>
         <note xml:id="i-KEEMGdsFF7vEk5XxEAmSoB" xml:lang="fi" type="speaker">
           Edusmies Hartonen
         </note>
@@ -27002,27 +27068,31 @@
         <note xml:id="i-U5KYzw91h5h9Xsxzr6V49E" xml:lang="fi">
           13 kohdasta.
         </note>
-        <note xml:id="i-RoZ3D69USXcpMSDiYNbbR7" xml:lang="sv">
+        <note xml:id="i-RoZ3D69USXcpMSDiYNbbR7" xml:lang="sv" type="speaker">
           Landtdagsmannen G a d olin, som försttillsades ordet, yttrade:
-          I ståndet har senast anförts, att slöjdundervisningen i folkskolan
-          endast sträcker sig till bagateller, såsom till förfärdigande
-          af små räfsor och dylikt samt deremot förordats, att den samma
-          borde afse något mera dugligt och praktiskt användbart. Utskottet
-          påekar likväl, att det är »handfärdigheten&gt; som bör uppöfvas
-          och - man engång förvärfvat sig den, så kan man sedan nog förfärdiga
-          större saker, såsom plogar, kärror o. s. v., hvilket man icke
-          kan genast fordra af 8—12 års barn i folkskolorna. Jag anser det
-          vara mycket maktpåliggande, att en dylik slöjdundervisning i folkskolorna
-          bedrifves, och vet af egen erfarenhet huru stor nytta man har
-          deraf, att man redan från barndomen vant sig att nyttja knifven.
-          Att åter nedsätta anslaget från 84,600 mark till 30,000 mark d.
-          v. s. 6,000 mark årligen, anser jag icke vara lämpligt, emedan
-          man med sä ringa anslag icke skall kunna förskaffa eleverna någon
-          färdighet i handslöjd. Folkskolelärarene kunna nemligen icke alltid
-          sjelfva undervisa i handslöjd, utan måste dertill anlitas några
-          deri skickliga personer och till deras aflönande är 6,000 mk.
-          altför litet. Jag godkänner derför betänkandet i denna punkt.
         </note>
+        <u who="unknown">
+          <seg>
+            I ståndet har senast anförts, att slöjdundervisningen i folkskolan
+            endast sträcker sig till bagateller, såsom till förfärdigande
+            af små räfsor och dylikt samt deremot förordats, att den samma
+            borde afse något mera dugligt och praktiskt användbart. Utskottet
+            påekar likväl, att det är »handfärdigheten&gt; som bör uppöfvas
+            och - man engång förvärfvat sig den, så kan man sedan nog förfärdiga
+            större saker, såsom plogar, kärror o. s. v., hvilket man icke
+            kan genast fordra af 8—12 års barn i folkskolorna. Jag anser det
+            vara mycket maktpåliggande, att en dylik slöjdundervisning i folkskolorna
+            bedrifves, och vet af egen erfarenhet huru stor nytta man har
+            deraf, att man redan från barndomen vant sig att nyttja knifven.
+            Att åter nedsätta anslaget från 84,600 mark till 30,000 mark d.
+            v. s. 6,000 mark årligen, anser jag icke vara lämpligt, emedan
+            man med sä ringa anslag icke skall kunna förskaffa eleverna någon
+            färdighet i handslöjd. Folkskolelärarene kunna nemligen icke alltid
+            sjelfva undervisa i handslöjd, utan måste dertill anlitas några
+            deri skickliga personer och till deras aflönande är 6,000 mk.
+            altför litet. Jag godkänner derför betänkandet i denna punkt.
+          </seg>
+        </u>
         <note xml:id="i-2m8Q23dPt5KaKWFKhBuocx" xml:lang="sv">
           Landtdagsmannen S v ed b erg var, beträffande summans storlek,
           af samma äsigt som landtdagsmannen Meurman. Ehuru talaren icke
@@ -28262,44 +28332,48 @@
           tehtyjen anomusten johdosta, jotka koskevat opetuskieltä alkeisopistoissa
           sekä uusien lyseojen perustamista.
         </note>
-        <note xml:id="i-snWJtQDdVExtjewSEst87" xml:lang="sv">
+        <note xml:id="i-snWJtQDdVExtjewSEst87" xml:lang="sv" type="speaker">
           Landtdagsmannen Gadolin, som härvid först erhöll ordet yttrade:
-          Jag ville icke yttra mig i denna fräga och jag gör det nu också
-          motvilligt, dä jag ser hvilken riktning diskussionen tagit i ständet,
-          men dä första momentet i betänkandet tyckes stä pä sä neutral
-          mark, att deri ingenting störande borde förefinnas, sä vill jag,
-          godkännande betänkandet i denna punkt, bemöta det inkast man deremot
-          gjort pä den grund, att utskottet häri skulle hafva infört nägonting
-          alldeles nytt. Dä jag för 50 är tillbaka gick uti Äbo Kathedralskola,
-          sä existerade der redan dä den praxis, att pä de två öfversta
-          klasserna teologi, logik och rhetorik lästes pä latin. Undervisningen
-          i latin var nämligen pä de lägre klasserna sä grundlig, att man
-          erhöll öfaing och färdighet att tala latin, hvaraf man sedan hade
-          stor nytta vid akademien, der all undervisning försiggick pä latin.
-          Ett annat exempel är ”kadettskolan i Fredrikshamn. Der sker undervisningen
-          pä de högre specialklasserna i vissa ämnen pä ryska, hvaraf är
-          den fördel, att de utdimitterade kadetterna vid ankomsten till
-          Ryssland hafva någon öfning i ryska språket, utan hvilken de icke
-          skulle kunna slå sig ut i sin tjenst. Samma fördel skulle ernås
-          om man i våra skolor i vissa ämnen skulle undervisa på det andra
-          språket. Isynnerhet vore det mycket maktpåliggande för eleverna
-          vid de svenska skolorna, emedan derigenom kunde förekommas, att
-          embetsmännen vore okunnige i finska. I barndomen har man nemligen
-          mycket lättare att lära sig ett språk, än vid mera framskriden
-          ålder, då man aldrig kan förvärfva sig någon större färdighet
-          deri. Samma vore äfven fallet med de finska skolorna och de derifrån
-          utgångna tjenstemännen. Huru svårt skulle icke t. ex. en prest
-          hafva att taga sig fram bland svenska talande, om han icka kunde
-          svenska. Jag vet visst, att hvad jag här yttrar om den förmän,
-          som finska talande skulle hafva af kunskap i svenska spräket,
-          icke vinner nägon anklang, men jag ville likväl påpeka hvad senator
-          Snellman, som icke allenast sjelf varit en erfaren pedagog, utan
-          äfven är en af landets mest framstående män i intellektuelt afseende
-          och dessutom en ifrare för finska språkets framåtgående, yttrat
-          i denna fråga. Ståndet borde hålla sig till detta yttrande som
-          icke innehåller någonting partiskt. Jag för min del godkänner
-          detta moment i utskottets betänkande.
         </note>
+        <u who="unknown">
+          <seg>
+            Jag ville icke yttra mig i denna fräga och jag gör det nu också
+            motvilligt, dä jag ser hvilken riktning diskussionen tagit i ständet,
+            men dä första momentet i betänkandet tyckes stä pä sä neutral
+            mark, att deri ingenting störande borde förefinnas, sä vill jag,
+            godkännande betänkandet i denna punkt, bemöta det inkast man deremot
+            gjort pä den grund, att utskottet häri skulle hafva infört nägonting
+            alldeles nytt. Dä jag för 50 är tillbaka gick uti Äbo Kathedralskola,
+            sä existerade der redan dä den praxis, att pä de två öfversta
+            klasserna teologi, logik och rhetorik lästes pä latin. Undervisningen
+            i latin var nämligen pä de lägre klasserna sä grundlig, att man
+            erhöll öfaing och färdighet att tala latin, hvaraf man sedan hade
+            stor nytta vid akademien, der all undervisning försiggick pä latin.
+            Ett annat exempel är ”kadettskolan i Fredrikshamn. Der sker undervisningen
+            pä de högre specialklasserna i vissa ämnen pä ryska, hvaraf är
+            den fördel, att de utdimitterade kadetterna vid ankomsten till
+            Ryssland hafva någon öfning i ryska språket, utan hvilken de icke
+            skulle kunna slå sig ut i sin tjenst. Samma fördel skulle ernås
+            om man i våra skolor i vissa ämnen skulle undervisa på det andra
+            språket. Isynnerhet vore det mycket maktpåliggande för eleverna
+            vid de svenska skolorna, emedan derigenom kunde förekommas, att
+            embetsmännen vore okunnige i finska. I barndomen har man nemligen
+            mycket lättare att lära sig ett språk, än vid mera framskriden
+            ålder, då man aldrig kan förvärfva sig någon större färdighet
+            deri. Samma vore äfven fallet med de finska skolorna och de derifrån
+            utgångna tjenstemännen. Huru svårt skulle icke t. ex. en prest
+            hafva att taga sig fram bland svenska talande, om han icka kunde
+            svenska. Jag vet visst, att hvad jag här yttrar om den förmän,
+            som finska talande skulle hafva af kunskap i svenska spräket,
+            icke vinner nägon anklang, men jag ville likväl påpeka hvad senator
+            Snellman, som icke allenast sjelf varit en erfaren pedagog, utan
+            äfven är en af landets mest framstående män i intellektuelt afseende
+            och dessutom en ifrare för finska språkets framåtgående, yttrat
+            i denna fråga. Ståndet borde hålla sig till detta yttrande som
+            icke innehåller någonting partiskt. Jag för min del godkänner
+            detta moment i utskottets betänkande.
+          </seg>
+        </u>
         <pb facs="https://swerik-project.github.io/valtiopaivat-records-pdf/1877-1878/ptk_1877-1878_talonpojat_II/ptk_1877-1878_talonpojat_II-0406"/>
         <note xml:id="i-7j6fQoAaMtg9ZEmcoARvqc" xml:lang="fi">
           Talonpoikaissääty 1877. 29 p. Lokak. 1289
@@ -28668,7 +28742,7 @@
         <note xml:id="i-XGuAqWubmjtuyMFuLiDcka" xml:lang="fi">
           Edusmies | Alahan hp oli samaa mieltä kuin edusmies Hannuksela.
         </note>
-        <note xml:id="i-35rBFx3vv1v5vXBowT5GYL" xml:lang="fi">
+        <note xml:id="i-35rBFx3vv1v5vXBowT5GYL" xml:lang="fi" type="speaker">
           Keskustelu julistettiin tämän jälkeen päätetyksi ja puhemies
           esitteli näin kuuluvan ääntöesityksen :
         </note>
@@ -30029,24 +30103,29 @@
         <note xml:id="i-Tx2k9bvapBSuVyBfQhPjQj" xml:lang="fi">
           Vastalauseen tekivät edusmiehet Hassinen, Puhakka ja Hannikainen.
         </note>
-        <note xml:id="i-RPQqZVv2iWYDrf6E67tMkN" xml:lang="sv">
-          Landtdagsmannen Hollm6rus: Då uti detta stånd ingen röst höjt
-          sig från de svenska medlemmarnes sida emot de fullt berättigade
-          anspråk pä finska skolor, som uti ståndet gjorts, och man således
-          af fullt hjerta har medgifvit allt, jag för min del röstar äfven
-          gerna för att Finlands folk mä erhålla finska skolor sä mänga
-          som möjligt, sä mäste jag inlägga min reservation emot det af
-          ståndet fattade beslut, att indraga den svenska parallelafdelningen
-          i Åbo, att förvandla Björneborgs fyrklassiga lyceum till finskt
-          äfvensom S:t Michels lyceum, som efter det Kuopio lyceum förfinskades,
-          var det enda återstående svenska lyceum i det inre af landet,
-          hvadan således alla de medborgare, som önska åt sina barn undervisning.
-          på svenska äro tvungna att skicka dem ända till de långt aflägsna
-          kusterna. Jag vill inlägga min reservation mot dessa delar af
-          ståndets beslut, emedan man har beslutit indragandet och förändrande
-          af dessa lyceer innan det visat sig vara en sådan brist på elever,
-          att dessa icke skulle behöfvas.
+        <note xml:id="i-RPQqZVv2iWYDrf6E67tMkN" xml:lang="sv" type="speaker">
+          Landtdagsmannen Hollm6rus:
         </note>
+        <u who="unknown">
+          <seg>
+            Då uti detta stånd ingen röst höjt sig från de svenska medlemmarnes
+            sida emot de fullt berättigade anspråk pä finska skolor, som uti
+            ståndet gjorts, och man således af fullt hjerta har medgifvit
+            allt, jag för min del röstar äfven gerna för att Finlands folk
+            mä erhålla finska skolor sä mänga som möjligt, sä mäste jag inlägga
+            min reservation emot det af ståndet fattade beslut, att indraga
+            den svenska parallelafdelningen i Åbo, att förvandla Björneborgs
+            fyrklassiga lyceum till finskt äfvensom S:t Michels lyceum, som
+            efter det Kuopio lyceum förfinskades, var det enda återstående
+            svenska lyceum i det inre af landet, hvadan således alla de medborgare,
+            som önska åt sina barn undervisning. på svenska äro tvungna att
+            skicka dem ända till de långt aflägsna kusterna. Jag vill inlägga
+            min reservation mot dessa delar af ståndets beslut, emedan man
+            har beslutit indragandet och förändrande af dessa lyceer innan
+            det visat sig vara en sådan brist på elever, att dessa icke skulle
+            behöfvas.
+          </seg>
+        </u>
         <note xml:id="i-CH1WuBhJrr6NpWNy8s7GRA" xml:lang="sv" type="speaker">
           Landtdagsmannen Malm
         </note>
@@ -31978,7 +32057,7 @@
           </seg>
         </u>
         <pb facs="https://swerik-project.github.io/valtiopaivat-records-pdf/1877-1878/ptk_1877-1878_talonpojat_II/ptk_1877-1878_talonpojat_II-0460"/>
-        <note xml:id="i-7DqDJ5LV1qiqXn1nHQELHS" xml:lang="fi">
+        <note xml:id="i-7DqDJ5LV1qiqXn1nHQELHS" xml:lang="fi" type="speaker">
           Talonpoikaissääty 1877. 2 p. Marrask. 1343:
         </note>
         <note xml:id="i-DveqQPdW74mGyJVYZty2x2" xml:lang="fi">
@@ -32643,7 +32722,7 @@
             ja Pahkamaa puolustivat myös edusmies Avellanin ehdoitusta.
           </seg>
         </u>
-        <note xml:id="i-S82cCMGm67PhPZz6yFuYWc" xml:lang="fi">
+        <note xml:id="i-S82cCMGm67PhPZz6yFuYWc" xml:lang="fi" type="speaker">
           Keskustelu loppui ja puhemies esitti seuraavan äänostysesityksen
           :
         </note>
@@ -40599,19 +40678,23 @@
             yhdistyi edellisen puhujan lausuntoon.
           </seg>
         </u>
-        <note xml:id="i-YErThXoarvU2heZSKMHkQW" xml:lang="sv">
-          T.andtdagsmannen Svedberg: Jag förnekar icke nödvändigheten af
-          reformer i kriminallagen, men jag kan icke finna nödvändigheten
-          af dessa ifrågavarande miljoner. Jag anser, att vär tid genomgäs
-          af en sjuklig filantropi, som hos oss blifver desto större, när
-          man försöker utifrän importera reformförslag i afseende &amp;
-          fängelseinrättningarnas reorganisation. I ett land, der den fria
-          och ärlige arbetaren ofta fär äta barkbröd och der han hvarje
-          dag mäste strida mot de största försakelser för att lifnära sig
-          och sin familj, bör man taga hänsyn till dessa förhållanden och
-          icke ställa sä till, att banditen för ett bättre lif, än den frie
-          arbetaren.
+        <note xml:id="i-YErThXoarvU2heZSKMHkQW" xml:lang="sv" type="speaker">
+          T.andtdagsmannen Svedberg:
         </note>
+        <u who="unknown">
+          <seg>
+            Jag förnekar icke nödvändigheten af reformer i kriminallagen,
+            men jag kan icke finna nödvändigheten af dessa ifrågavarande miljoner.
+            Jag anser, att vär tid genomgäs af en sjuklig filantropi, som
+            hos oss blifver desto större, när man försöker utifrän importera
+            reformförslag i afseende &amp; fängelseinrättningarnas reorganisation.
+            I ett land, der den fria och ärlige arbetaren ofta fär äta barkbröd
+            och der han hvarje dag mäste strida mot de största försakelser
+            för att lifnära sig och sin familj, bör man taga hänsyn till dessa
+            förhållanden och icke ställa sä till, att banditen för ett bättre
+            lif, än den frie arbetaren.
+          </seg>
+        </u>
         <note xml:id="i-5nyttbLWKRnZk8tuLE5Sqr" xml:lang="sv">
           Pä denna grund anser äfven jag, att utskottet handlat välbetänkt,
           när det försökt spara pä medlen och icke velat uppoffra allt för
@@ -41404,20 +41487,25 @@
             Liukkosen kanssa.
           </seg>
         </u>
-        <note xml:id="i-BHwpM38JKL86Zwx8bVXR2X" xml:lang="sv">
-          Landtdagsmanen, Gadolin: Ocksä jag hyllar samma äsigter, som
-          landtdagsmännen Strähle och Svedberg hafva yttrat. Dä fängvärden
-          alltid tillhört staten, kan jag ej finna, hvarför staten nu icke
-          skulle bekosta de byggnader, som dertill behöfvas. Man vet, att
-          statens inkomster är för år hafva stigit. Man skulle således tycka,
-          att till en sädan vigtig sak, som denna, staten borde hafva gjort
-          besparingar. Och kan allt icke ske pä en gång, så är det ej heller
-          nägon sä brädskande sak. Dessutom anser jag, att bevillning icke
-          är här pä sin plats, ock det kan icke heller nekas, att Finlands
-          folk varit benäget att gifva anslag till förmän för fängelseväsendet.
-          Jag godkänner utskottets betänkande och anser den föreslagna summan
-          vara det högsta belopp, som kan komma i fräga.
+        <note xml:id="i-BHwpM38JKL86Zwx8bVXR2X" xml:lang="sv" type="speaker">
+          Landtdagsmanen, Gadolin:
         </note>
+        <u who="unknown">
+          <seg>
+            Ocksä jag hyllar samma äsigter, som landtdagsmännen Strähle och
+            Svedberg hafva yttrat. Dä fängvärden alltid tillhört staten, kan
+            jag ej finna, hvarför staten nu icke skulle bekosta de byggnader,
+            som dertill behöfvas. Man vet, att statens inkomster är för år
+            hafva stigit. Man skulle således tycka, att till en sädan vigtig
+            sak, som denna, staten borde hafva gjort besparingar. Och kan
+            allt icke ske pä en gång, så är det ej heller nägon sä brädskande
+            sak. Dessutom anser jag, att bevillning icke är här pä sin plats,
+            ock det kan icke heller nekas, att Finlands folk varit benäget
+            att gifva anslag till förmän för fängelseväsendet. Jag godkänner
+            utskottets betänkande och anser den föreslagna summan vara det
+            högsta belopp, som kan komma i fräga.
+          </seg>
+        </u>
         <note xml:id="i-5gy5r6WJxMsNLwZjgqp9YR" xml:lang="fi">
           Yleisen keskustelun tähän päätyttyä ruvettiin mietintöä tarkastamaan
           kohdittain, jolloin esitettiin a) kohta.
@@ -43192,10 +43280,15 @@
             till ett annat tillfälle der herr Björkenheim sjelf varit närvarande.
           </seg>
         </u>
-        <note xml:id="i-VjdeYBH8BX4xtbeYaA5osL" xml:lang="sv">
-          Landtdagsmannen Hollm6rus: Landtdagsmannen Avellan synes icke
-          hafva fattat mina ord, när jag talte om motstånd.
+        <note xml:id="i-VjdeYBH8BX4xtbeYaA5osL" xml:lang="sv" type="speaker">
+          Landtdagsmannen Hollm6rus:
         </note>
+        <u who="unknown">
+          <seg>
+            Landtdagsmannen Avellan synes icke hafva fattat mina ord, när
+            jag talte om motstånd.
+          </seg>
+        </u>
         <pb facs="https://swerik-project.github.io/valtiopaivat-records-pdf/1877-1878/ptk_1877-1878_talonpojat_II/ptk_1877-1878_talonpojat_II-0610"/>
         <note xml:id="i-3e5XqXzADLtKJgcPHiAV7n" xml:lang="fi">
           Talonpoikaissääty 1877. 15 p. Marrask. 1493
@@ -45897,7 +45990,7 @@
             olla enemmän syytä hyljätä tämä valiokunnan mietintö.
           </seg>
         </u>
-        <note xml:id="i-8wh2a6oZhKbPMSVtDqvsPw" xml:lang="fi">
+        <note xml:id="i-8wh2a6oZhKbPMSVtDqvsPw" xml:lang="fi" type="speaker">
           Keskustelun tähän päätyttyä, esitti puhemies seuraavan äänestysesityksen:
         </note>
         <note xml:id="i-B5RiEJvNS2KoXm7ssmRPTU" xml:lang="fi">
@@ -45976,11 +46069,11 @@
         <note xml:id="i-RTkouV5HVf1nJ2AnQRJUwP" xml:lang="fi">
           1536 Talonpoikaissääty 1877. 20 p. Marrask.
         </note>
-        <note xml:id="i-HcoYa1Mp7yJ62BEDmTPXeU" xml:lang="fi">
+        <note xml:id="i-HcoYa1Mp7yJ62BEDmTPXeU" xml:lang="fi" type="speaker">
           Tuli lähetystö Porvarissäädystä herra Nystönin johdannolla, joka
           lausui seuraavalla tavalla:
         </note>
-        <note xml:id="i-TN9fRP13UYN5Frvq2a2LYo" xml:lang="fi">
+        <note xml:id="i-TN9fRP13UYN5Frvq2a2LYo" xml:lang="fi" type="speaker">
           Kunnioitettava puhemies ja arvoisa Talonpoikaissääty !
         </note>
         <note xml:id="i-Ji4yenQGejizqxYdweTLCL" xml:lang="fi">
@@ -46236,7 +46329,7 @@
             jotka sitä tekisivät ja niin itse menettäisivät virkansa.
           </seg>
         </u>
-        <note xml:id="i-GkPjgak3iiRzZ3ruaB51Qg" xml:lang="fi">
+        <note xml:id="i-GkPjgak3iiRzZ3ruaB51Qg" xml:lang="fi" type="speaker">
           Ilmoitettiin ja vastaan otettiin lähetystö Ritaristosta ja Aatelista
           hra Järnefeltin johdannolla, joka lausui seuraavasti:
         </note>
@@ -46244,7 +46337,7 @@
         <note xml:id="i-C6q43AZpcm1MbWSLj9nB4i" xml:lang="fi">
           1540 Talonpoikaissääty 1877. 20 p. Marrask.
         </note>
-        <note xml:id="i-7moQm62v2GYC4hppghLDZE" xml:lang="fi">
+        <note xml:id="i-7moQm62v2GYC4hppghLDZE" xml:lang="fi" type="speaker">
           Korkeasti kunnioitettava puhemies! Hyvin arvoisa Talonpoikaissääty
           !
         </note>
@@ -47094,22 +47187,26 @@
         <note xml:id="i-ALHLKu1NBPESwhmp5875YK" xml:lang="fi">
           Talonpoikaissääty 1877. 20 p. Marrask. 1553
         </note>
-        <note xml:id="i-3Ms1YAEk87mmbqqwTgdgiz" xml:lang="sv">
+        <note xml:id="i-3Ms1YAEk87mmbqqwTgdgiz" xml:lang="sv" type="speaker">
           I anledning häraf begärdes ordet af landtdagsmannen S v e dberg
-          som yttrade: Jag kan icke godkänna utskottsbetänkandet, emedan
-          enligt detsamma den fattigaste skulle likställas med miljonären
-          och'fä betala lika mycket som han. Härvid borde dock skilnad ega
-          rum och som jag icke kan finna ett lämpligare sätt för ifrägavarande
-          medels anskaffande än det af herr Grotenfelt i hans reservation
-          framställda, sä godkänner jag sagda reservation. Hvad beträffar
-          utskottets förslag att betalningen skulle fördelas pä fem är,
-          sä anser jag det vara mindre väl betänkt, emedan först och främst
-          fördelningen icke är verkställd enligt rättvisa grunder och det
-          dessutom kunde blifva praxis äfven framdeles att uttaxera medel
-          efter samma grunder. Om herr Grotenfelts reservation icke skulle
-          blifva godkänd, sä päyrkar jag derför att hela afgiften skulle
-          pä ett är uttagas.
+          som yttrade:
         </note>
+        <u who="unknown">
+          <seg>
+            Jag kan icke godkänna utskottsbetänkandet, emedan enligt detsamma
+            den fattigaste skulle likställas med miljonären och'fä betala
+            lika mycket som han. Härvid borde dock skilnad ega rum och som
+            jag icke kan finna ett lämpligare sätt för ifrägavarande medels
+            anskaffande än det af herr Grotenfelt i hans reservation framställda,
+            sä godkänner jag sagda reservation. Hvad beträffar utskottets
+            förslag att betalningen skulle fördelas pä fem är, sä anser jag
+            det vara mindre väl betänkt, emedan först och främst fördelningen
+            icke är verkställd enligt rättvisa grunder och det dessutom kunde
+            blifva praxis äfven framdeles att uttaxera medel efter samma grunder.
+            Om herr Grotenfelts reservation icke skulle blifva godkänd, sä
+            päyrkar jag derför att hela afgiften skulle pä ett är uttagas.
+          </seg>
+        </u>
         <note xml:id="i-NQPySaP31BqRgkTYG4e7Wi" xml:lang="sv" type="speaker">
           Tandtdagsmannen Eklund:
         </note>
@@ -47135,19 +47232,24 @@
             vinner bifall, sä bör frågan äterremitteras till utskottet.
           </seg>
         </u>
-        <note xml:id="i-LMmCSUktYgWZBw2waPVkJR" xml:lang="sv">
-          Landtdagsmannen Hollm&amp;rus: Äfven jag är af den äsigten, att
-          detta utskottsbetänkande ingalunda är rättvist, dä den fattige
-          skall betala lika med den rike. Jag skulle vara benägen att ansluta
-          mig till herr Grotenfelts reservation, om den skulle fullt uttömma
-          den skilnad, som förefinnes mellan rika och fattiga. Jord besittes
-          icke blott af rika utan äfven af fattiga. Om något lämpligare
-          förslag skulle finnas, som fullt skulle göra skillnad mellan de
-          olika kategorier, efter hvilka betalningsgrunderna skulle regleras,
-          sä skulle jag ansluta mig dertill, men dä nägot sädant icke förefinnes
-          och herr Grotenfelts reservation icke är uttömmande, så ansluter
-          jag mig till herr Masalins reservation. Här är nu
+        <note xml:id="i-LMmCSUktYgWZBw2waPVkJR" xml:lang="sv" type="speaker">
+          Landtdagsmannen Hollm&amp;rus:
         </note>
+        <u who="unknown">
+          <seg>
+            Äfven jag är af den äsigten, att detta utskottsbetänkande ingalunda
+            är rättvist, dä den fattige skall betala lika med den rike. Jag
+            skulle vara benägen att ansluta mig till herr Grotenfelts reservation,
+            om den skulle fullt uttömma den skilnad, som förefinnes mellan
+            rika och fattiga. Jord besittes icke blott af rika utan äfven
+            af fattiga. Om något lämpligare förslag skulle finnas, som fullt
+            skulle göra skillnad mellan de olika kategorier, efter hvilka
+            betalningsgrunderna skulle regleras, sä skulle jag ansluta mig
+            dertill, men dä nägot sädant icke förefinnes och herr Grotenfelts
+            reservation icke är uttömmande, så ansluter jag mig till herr
+            Masalins reservation. Här är nu
+          </seg>
+        </u>
         <note xml:id="i-YFCJTvhjsTyJj6JMZ2PJhq" xml:lang="sv">
           98
         </note>
@@ -47304,7 +47406,7 @@
           Tapahtuneessa äänestyksessä sääty suurella jaa-enemmistöllä päätti
           hyväksyä mietinnön muuttamatta.
         </note>
-        <note xml:id="i-QZPzHyjBTmsNwH9DCk2UDe" xml:lang="fi">
+        <note xml:id="i-QZPzHyjBTmsNwH9DCk2UDe" xml:lang="fi" type="speaker">
           Vastalauseen päätöstä vastaan tekivät edusmiehet Keto ja Svedberg,
           jonka jälkeen edusmies Heikkilä pyysi puheenvuoroa ja lausui:
         </note>
@@ -49126,37 +49228,41 @@
             yhdistyi edusm. Dunckerin kanssa.
           </seg>
         </u>
-        <note xml:id="i-BqpyNPwqzLRGGKNyCivkmu" xml:lang="sv">
-          Landtdagsmannon S trähle: Under den diskussion, som i ständet
-          förevarit i anledning af denna fråga, har man klart framhållit
-          att ständet icke kan godkänna den föreslagna reformen och det
-          af tvä skäl. Det första är det, att häradsrätterna lida af brister,
-          som den föreslagna reformen icko skulle afhjelpa. Jag för min
-          del anser icke att de päpekade bristerna äro helt och hället skilda
-          frän frägan om häradsrätternas permanens och tror icke att de
-          sä bero af hvarandra, att den ena icke kan komma till ständ utan
-          den andra. Hvad särskildt beträffar häradsrätternas permanens,
-          sä är det af ständet erkändt, att det vore önskvärdt, att häradsrätternas
-          sammanträden. skulle ske oftare. Jag tror äfven att det vore önskvärdt,
-          men jag anser å andra sidan att denna häradsrätternas ambulatoriska
-          ställning har sin grund i faktiska förhällanden frän de tider,
-          dä denna institution inrättades. Frägan gäller säledes, fortbestä
-          dessa förhällanden ännu, eller har den nuvarande tiden sä omgestaltat
-          dem, att man kan inrätta permanenta domstolar? TI allmänhet tyckas
-          äsigterna icke hafva varit delade derom, att i större delen af
-          landet domsagorna äro så vidsträckta och befolkningens gleshet
-          så stor, att permanenta domstolar icke kunna komma till stånd.
-          Naturligast vore då att dela dessa domsagor, göra territorierna
-          mindre, för att folket icke skulle få alltför lång väg till domstolarnes
-          sessioner och svårigheten att erhålla rättvisa förstoras. Har
-          nu komitén, som utarbetat förslaget, hvarpå den nåd. propositionen
-          grundar sig, sett saken ur denna synpunkt? Dertill kan man med
-          full säkerhet svara, att den icke har gjort det. Den har visserligen
-          ökat domsagorna med 6 ä 7 nya, men dä det gäller reglerandet af
-          domsagorna i hela landet, sä måste man anse det vara alltför litet.
-          Äfven jag har pä denna grund icke ansett mig böra med min ringa
-          röst under-
+        <note xml:id="i-BqpyNPwqzLRGGKNyCivkmu" xml:lang="sv" type="speaker">
+          Landtdagsmannon S trähle:
         </note>
+        <u who="unknown">
+          <seg>
+            Under den diskussion, som i ständet förevarit i anledning af
+            denna fråga, har man klart framhållit att ständet icke kan godkänna
+            den föreslagna reformen och det af tvä skäl. Det första är det,
+            att häradsrätterna lida af brister, som den föreslagna reformen
+            icko skulle afhjelpa. Jag för min del anser icke att de päpekade
+            bristerna äro helt och hället skilda frän frägan om häradsrätternas
+            permanens och tror icke att de sä bero af hvarandra, att den ena
+            icke kan komma till ständ utan den andra. Hvad särskildt beträffar
+            häradsrätternas permanens, sä är det af ständet erkändt, att det
+            vore önskvärdt, att häradsrätternas sammanträden. skulle ske oftare.
+            Jag tror äfven att det vore önskvärdt, men jag anser å andra sidan
+            att denna häradsrätternas ambulatoriska ställning har sin grund
+            i faktiska förhällanden frän de tider, dä denna institution inrättades.
+            Frägan gäller säledes, fortbestä dessa förhällanden ännu, eller
+            har den nuvarande tiden sä omgestaltat dem, att man kan inrätta
+            permanenta domstolar? TI allmänhet tyckas äsigterna icke hafva
+            varit delade derom, att i större delen af landet domsagorna äro
+            så vidsträckta och befolkningens gleshet så stor, att permanenta
+            domstolar icke kunna komma till stånd. Naturligast vore då att
+            dela dessa domsagor, göra territorierna mindre, för att folket
+            icke skulle få alltför lång väg till domstolarnes sessioner och
+            svårigheten att erhålla rättvisa förstoras. Har nu komitén, som
+            utarbetat förslaget, hvarpå den nåd. propositionen grundar sig,
+            sett saken ur denna synpunkt? Dertill kan man med full säkerhet
+            svara, att den icke har gjort det. Den har visserligen ökat domsagorna
+            med 6 ä 7 nya, men dä det gäller reglerandet af domsagorna i hela
+            landet, sä måste man anse det vara alltför litet. Äfven jag har
+            pä denna grund icke ansett mig böra med min ringa röst under-
+          </seg>
+        </u>
         <pb facs="https://swerik-project.github.io/valtiopaivat-records-pdf/1877-1878/ptk_1877-1878_talonpojat_II/ptk_1877-1878_talonpojat_II-0702"/>
         <note xml:id="i-RwwmgRsuVwBVHAeEn3ycKG" xml:lang="fi">
           Talonpoikaissaäty 1877. 24 p. Marrask. 1585
@@ -52618,21 +52724,26 @@
             eduista, esim. papiston palkkojen maksuja välttääkseen y. m.
           </seg>
         </u>
-        <note xml:id="i-27PxaCafpNAsUBYrKqd86h" xml:lang="sv">
-          Landtdagsmannen Lang6n: Religionsfrihetens princip vill jag ej
-          helt och hället förneka; men tror dock,att den lämpar si endast
-          för en ganska ringa del af folket. Dä man under den tid af 10
-          år, som vår nuvarande kyrkolag varit i gällande kraft, icke saknat
-          ifrågavarande dissenterlag, torde den vara temmeligen onödig.
-          Det förhällandet, att man genom denna lag kunde fä flere olika,
-          samma sak gällande författningar, förenade i en enda, förordar
-          lagförslagets antagande, men nämnde fördel skulle derigenom dock
-          icke fullkomligt vinnas. Dä jag dertill tager i betraktande, att
-          vi icke, pä grund af ifrägavarande förslag, kunde erhälla fullkomlig
-          religionsfrihet, sä förkastar jag förslaget uti sin helhet, päminnande
-          om, att Finlands folk redan omkring trehundra år med bestämdhet
-          och hängifvenhet försvarat, samt sig till bästa om-
+        <note xml:id="i-27PxaCafpNAsUBYrKqd86h" xml:lang="sv" type="speaker">
+          Landtdagsmannen Lang6n:
         </note>
+        <u who="unknown">
+          <seg>
+            Religionsfrihetens princip vill jag ej helt och hället förneka;
+            men tror dock,att den lämpar si endast för en ganska ringa del
+            af folket. Dä man under den tid af 10 år, som vår nuvarande kyrkolag
+            varit i gällande kraft, icke saknat ifrågavarande dissenterlag,
+            torde den vara temmeligen onödig. Det förhällandet, att man genom
+            denna lag kunde fä flere olika, samma sak gällande författningar,
+            förenade i en enda, förordar lagförslagets antagande, men nämnde
+            fördel skulle derigenom dock icke fullkomligt vinnas. Dä jag dertill
+            tager i betraktande, att vi icke, pä grund af ifrägavarande förslag,
+            kunde erhälla fullkomlig religionsfrihet, sä förkastar jag förslaget
+            uti sin helhet, päminnande om, att Finlands folk redan omkring
+            trehundra år med bestämdhet och hängifvenhet försvarat, samt sig
+            till bästa om-
+          </seg>
+        </u>
         <pb facs="https://swerik-project.github.io/valtiopaivat-records-pdf/1877-1878/ptk_1877-1878_talonpojat_II/ptk_1877-1878_talonpojat_II-0754"/>
         <note xml:id="i-4muDaV4P2wpBiEkJEZbfbs" xml:lang="fi">
           Talonpoikaissääty 1877. 29 p. Marrask. 1637
@@ -52865,27 +52976,31 @@
             ja Sivenius yhtyivät edusmiesten Riihimäen ja Pahkamaan lausuntoihin.
           </seg>
         </u>
-        <note xml:id="i-ENhjhqdQPKQx6JdrhFK9zb" xml:lang="sv">
-          Landtdagsmannen Hollm6rus: På intet ställe uti den heliga skrift
-          finnes sagdt, att någon viss trosbekännelse vore den enda saliggörande.
-          Således är det påståendet, att man icke kan blifva salig utom
-          den lutherska kyrkan, oberättigadt. Det är i denna punkt, som
-          den katholska kyrkan skiljer sig från de öfriga. Att nu påstå
-          detsamma om den lutherska kyrkan det är att betrakta saken från
-          katholsk synpunkt. Den katholska kyrkan har också förbjutit sina
-          medlemmar att ransaka den heliga skrift icke derför att den heliga
-          skrift ej skulle innehålla sanningar, men derför att menniskornas
-          uppfattning är så olika. Man kan icke få två ur att gå lika, huru
-          skulle man då kunna fordra att två menniskor skola tänka lika?
-          Det är menniskoandens obestridliga rättighet att få granska och
-          bilda sig en öfvertygelse, ty annors än den tro, hon har, en död
-          tro. Det är derför som kyrkolagen tillåter att de, som hafva en
-          annan uppfattning om sanningen än den lutherska kyrkan, få utträda
-          från densamma, och detta anser jag vara fullt berättigadt. Att
-          sanningen slutligen skall segra, derpå tviflar jag icke äfven
-          om dissenter skulle mera förekomma än nu är fallet; irrläror skola
-          icke hafva ett
+        <note xml:id="i-ENhjhqdQPKQx6JdrhFK9zb" xml:lang="sv" type="speaker">
+          Landtdagsmannen Hollm6rus:
         </note>
+        <u who="unknown">
+          <seg>
+            På intet ställe uti den heliga skrift finnes sagdt, att någon
+            viss trosbekännelse vore den enda saliggörande. Således är det
+            påståendet, att man icke kan blifva salig utom den lutherska kyrkan,
+            oberättigadt. Det är i denna punkt, som den katholska kyrkan skiljer
+            sig från de öfriga. Att nu påstå detsamma om den lutherska kyrkan
+            det är att betrakta saken från katholsk synpunkt. Den katholska
+            kyrkan har också förbjutit sina medlemmar att ransaka den heliga
+            skrift icke derför att den heliga skrift ej skulle innehålla sanningar,
+            men derför att menniskornas uppfattning är så olika. Man kan icke
+            få två ur att gå lika, huru skulle man då kunna fordra att två
+            menniskor skola tänka lika? Det är menniskoandens obestridliga
+            rättighet att få granska och bilda sig en öfvertygelse, ty annors
+            än den tro, hon har, en död tro. Det är derför som kyrkolagen
+            tillåter att de, som hafva en annan uppfattning om sanningen än
+            den lutherska kyrkan, få utträda från densamma, och detta anser
+            jag vara fullt berättigadt. Att sanningen slutligen skall segra,
+            derpå tviflar jag icke äfven om dissenter skulle mera förekomma
+            än nu är fallet; irrläror skola icke hafva ett
+          </seg>
+        </u>
         <pb facs="https://swerik-project.github.io/valtiopaivat-records-pdf/1877-1878/ptk_1877-1878_talonpojat_II/ptk_1877-1878_talonpojat_II-0758"/>
         <note xml:id="i-LzjixgeL9xVBXGqY1Cutkh" xml:lang="fi">
           Talonpoikaissääty 1877. 29 p. Marrask. 1641
@@ -53991,17 +54106,17 @@
         <note xml:id="i-Qmr6XUdsy1i5CiXmK7vCic" xml:lang="fi" type="speaker">
           Edusmies Hartonen
         </note>
-        <u xml:id="i-MHLCacWqo1EtbCSfSiovqL" who="i-Xh6wcQRwoXZhyJtJuX4okd">
-          <seg xml:id="i-NZCeCGcSEgXbN73keZ2F6u" xml:lang="fi">
-            hyväksyi valiokunnan mietinnön, sen esiintuomilla syillä, ynnä
-            vielä sillä lisäsyyllä, että koska teiden voimassa pito kuuluu
-            kihlakunnan oikeuden alle, on tientekolahkona oleva käräjäkunta.
-            Puhuja huomautti lopuksi, edusmies Meurmanin muistutuksen johdosta,
-            että muka käräjäkunnat ovat niin vaihtelevaiset, kuntien vaihettelevan
-            vielä enemmin, joten ei siinä pitäisi olla mitään pätevää perustusta
-            otaksumaan kuntaa tentekolahkoksi.
-          </seg>
-        </u>
+        <u xml:id="i-MHLCacWqo1EtbCSfSiovqL" who="i-Xh6wcQRwoXZhyJtJuX4okd"/>
+        <note xml:id="i-NZCeCGcSEgXbN73keZ2F6u" xml:lang="fi" type="speaker">
+          hyväksyi valiokunnan mietinnön, sen esiintuomilla syillä, ynnä
+          vielä sillä lisäsyyllä, että koska teiden voimassa pito kuuluu
+          kihlakunnan oikeuden alle, on tientekolahkona oleva käräjäkunta.
+          Puhuja huomautti lopuksi, edusmies Meurmanin muistutuksen johdosta,
+          että muka käräjäkunnat ovat niin vaihtelevaiset, kuntien vaihettelevan
+          vielä enemmin, joten ei siinä pitäisi olla mitään pätevää perustusta
+          otaksumaan kuntaa tentekolahkoksi.
+        </note>
+        <u who="unknown"/>
         <note xml:id="i-81WAAVfjvoK89k3KbBNgXS" xml:lang="sv">
           Landtdagsmannen Lang6n godkände äfven betänkandet pä de af utskottet
           framhällna skäl.

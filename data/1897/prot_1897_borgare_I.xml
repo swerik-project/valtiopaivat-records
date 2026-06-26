@@ -73,7 +73,7 @@
         <note xml:id="i-889vTpBvWFZ6LWdWfRHL1C" xml:lang="sv">
           FÖRSTA HÄFTET.
         </note>
-        <note xml:id="i-GuMWVX7cMBMyEobL7zf4Ux" xml:lang="sv ">
+        <note xml:id="i-GuMWVX7cMBMyEobL7zf4Ux" xml:lang="sv">
           HELSINGFORS HELSINGFORS CENTRALTRYOCKERI 1897. |
         </note>
         <pb facs="https://swerik-project.github.io/valtiopaivat-records-pdf/1897/prot_1897_borgare_I/prot_1897_borgare_I-0003"/>
@@ -542,7 +542,7 @@
           Hälsningsdeputationen från bondeståndet anlände nu, företrädd
           af landtdagsmannen Oittinen, som yttrade:
         </note>
-        <note xml:id="i-V92qgz571yebDPUuuPpMV" xml:lang="fi">
+        <note xml:id="i-V92qgz571yebDPUuuPpMV" xml:lang="fi" type="speaker">
           Kunnioitettava herra puhemies ja hyvinarvoisa porvarissääty !
         </note>
         <note xml:id="i-XyeqkjKyXu7QpKjM4MWLn7" xml:lang="fi">
@@ -597,7 +597,7 @@
           ne erilaiset olot, missä näitten säätyjen jäsenet kansalaisina
           toimivat.
         </note>
-        <note xml:id="i-U7b88jy2e3E3gF7fyikbgV" xml:lang="fi">
+        <note xml:id="i-U7b88jy2e3E3gF7fyikbgV" xml:lang="fi" type="speaker">
           Herra puhemies, hyvinarvoisa porvarissääty !
         </note>
         <note xml:id="i-Wcj2eH94SqVGAnBRnyG3ou" xml:lang="fi">
@@ -725,11 +725,13 @@
         <note xml:id="i-cX9dFqBgwCmQNiW8WvqZo" xml:lang="sv" type="speaker">
           R. o. A:
         </note>
-        <u xml:id="i-6LKGt3aLVMSjDwUK8T2Fe6" who="unknown">
-          <seg xml:id="i-7ikzKG5JDenUXg4g1Mv8Hh" xml:lang="sv">
-            s hälsningsdeputation inträdde härå, företrädd af friherre von
-            Born, som yttrade:
-          </seg>
+        <u xml:id="i-6LKGt3aLVMSjDwUK8T2Fe6" who="unknown"/>
+        <note xml:id="i-7ikzKG5JDenUXg4g1Mv8Hh" xml:lang="sv" type="speaker">
+          s hälsningsdeputation inträdde härå, företrädd af friherre von
+          Born, som yttrade:
+        </note>
+        <u who="unknown">
+          <seg/>
         </u>
         <note xml:id="i-VPGTVLr6SJSLHCZoW8anLs" xml:lang="sv">
           Högädle hr talman, vällofliga borgareständ! Till det vällofliga
@@ -858,10 +860,15 @@
           i kejserliga slottet, hvarest landtdagens högtidliga öppnande
           försiggick enligt faststäldt ceremoniel.
         </note>
-        <note xml:id="i-FshonX5fngpGyA8VELMwGG" xml:lang="sv">
-          H. K. M:ts vid nästberörda tillfällo upplästa nädiga tal till
-          Finlands ständer var af följande lydelse:
+        <note xml:id="i-FshonX5fngpGyA8VELMwGG" xml:lang="sv" type="speaker">
+          H. K. M:
         </note>
+        <u who="unknown">
+          <seg>
+            ts vid nästberörda tillfällo upplästa nädiga tal till Finlands
+            ständer var af följande lydelse:
+          </seg>
+        </u>
         <note xml:id="i-QP7F68Trhk1ZcJSfCohtb9" xml:lang="sv">
           Representanter för finska folket!
         </note>
@@ -3527,7 +3534,7 @@
           till andre suppleant: hr Grahn 14 och hr Löfgren 2 röster samt
           hr Levonius 1 röst;
         </note>
-        <note xml:id="i-UmMdQEZh4RvnYdGfsRtXjC" xml:lang="sv">
+        <note xml:id="i-UmMdQEZh4RvnYdGfsRtXjC" xml:lang="sv" type="speaker">
           till ledamöter:
         </note>
         <note xml:id="i-QHxo2cHBrdDpaV4qDdDNcw" xml:lang="sv">
@@ -3545,7 +3552,7 @@
           till andre suppleant: hr Wegelius 15 och hr Löfgren 2 röster
           samt hr Stenroth 1 röst;
         </note>
-        <note xml:id="i-QEhLr7UjLiF3cWSgNvaiCm" xml:lang="sv">
+        <note xml:id="i-QEhLr7UjLiF3cWSgNvaiCm" xml:lang="sv" type="speaker">
           till ledamöter:
         </note>
         <note xml:id="i-WMfzEx7Nr34wCa8riG5zKh" xml:lang="sv">
@@ -3561,7 +3568,7 @@
           till andre suppleant: hr Sikio 16 röster samt hrr Hjelt och Schybergson,
           hvardera, 1 röst;
         </note>
-        <note xml:id="i-GJyfji1kb2RCtWkBqLXZ3i" xml:lang="sv">
+        <note xml:id="i-GJyfji1kb2RCtWkBqLXZ3i" xml:lang="sv" type="speaker">
           till ledamöter:
         </note>
         <note xml:id="i-BAiE2eokh7DCfGviPmCbJ4" xml:lang="sv">
@@ -3575,10 +3582,10 @@
         <note xml:id="i-VYGXTavdS17isedZXhmnp9" xml:lang="sv">
           till andre suppleant: hr Kerttula 15 röster.
         </note>
-        <note xml:id="i-Wpcvt9jBQF3A4hHAqHTb3N" xml:lang="sv">
+        <note xml:id="i-Wpcvt9jBQF3A4hHAqHTb3N" xml:lang="sv" type="speaker">
           Pä grund af de sälunda försiggängna valen voro altsä utsedde:
         </note>
-        <note xml:id="i-6JEtV4iTARLKa7fWoLPjuk" xml:lang="sv">
+        <note xml:id="i-6JEtV4iTARLKa7fWoLPjuk" xml:lang="sv" type="speaker">
           i lagutskottet:
         </note>
         <note xml:id="i-BhWTasGhsWgxmH862rmZpo" xml:lang="sv">
@@ -3589,28 +3596,28 @@
         <note xml:id="i-NHUsvh5mqxAm9GkXKsj7Cq" xml:lang="sv">
           30 jan. Utskottsval. 63
         </note>
-        <note xml:id="i-5xJF3tiXQsPfmR5fQ7wMWc" xml:lang="sv">
+        <note xml:id="i-5xJF3tiXQsPfmR5fQ7wMWc" xml:lang="sv" type="speaker">
           i ekonomiutskottet:
         </note>
         <note xml:id="i-GYJTwVDviEDDWAEWf3WHPQ" xml:lang="sv">
           till ledamöter: hrr Renlund, Forselius, Pentzin och Brofeldt;
           samt till suppleanter: hrr Heimberger och Grahn;
         </note>
-        <note xml:id="i-PsYP5hqhi6JHJPW9WtboqR" xml:lang="sv">
+        <note xml:id="i-PsYP5hqhi6JHJPW9WtboqR" xml:lang="sv" type="speaker">
           i statsutskottet:
         </note>
         <note xml:id="i-9TSfTrp5J4RRpGqiQvr1xR" xml:lang="sv">
           till ledamöter: hrr Hallberg, Heikel, Borenius och Öhman; samt
           till suppleanter: hrr Wasenius och Wegelius;
         </note>
-        <note xml:id="i-FrK8rveWsXBF3xhuN79EHs" xml:lang="sv">
+        <note xml:id="i-FrK8rveWsXBF3xhuN79EHs" xml:lang="sv" type="speaker">
           i bevillningsutskottet:
         </note>
         <note xml:id="i-RHctunwBTxEKatgPswirFq" xml:lang="sv">
           till ledamöter: hrr Berneri, Aejmelaeus och Hjorth; samt till
           suppleanter: hrr Stenroth och Sikio;
         </note>
-        <note xml:id="i-AFtveVuyYTnAerjDJPmvq" xml:lang="sv">
+        <note xml:id="i-AFtveVuyYTnAerjDJPmvq" xml:lang="sv" type="speaker">
           i bankutskottet:
         </note>
         <note xml:id="i-4n3F6quyzJpdkcQoxAwnuH" xml:lang="sv">
@@ -3666,7 +3673,7 @@
           Upplästes till justering och godkändes särskilda utdrag ur borgareständets
           vid senaste plenum förda protokoll.
         </note>
-        <note xml:id="i-9FmGK7bcMfDWqCCsAj5WuL" xml:lang="sv">
+        <note xml:id="i-9FmGK7bcMfDWqCCsAj5WuL" xml:lang="sv" type="speaker">
           Från ståndets elektorer hade ankommit ett så lydande protokoll:
         </note>
         <note xml:id="i-DPtXfV9vrxzAcLe4SWkq7V" xml:lang="sv">
@@ -3689,7 +3696,7 @@
         <note xml:id="i-49ot1Jv6xjCgsG6BW5vAwX" xml:lang="sv">
           Detta antecknadt, skreds till valet, som utföll sålunda att
         </note>
-        <note xml:id="i-2FSen6zp6KZe5QtrSApEQA" xml:lang="sv">
+        <note xml:id="i-2FSen6zp6KZe5QtrSApEQA" xml:lang="sv" type="speaker">
           till ledamöter:
         </note>
         <note xml:id="i-4CEYLdGXmFQdWA6wqXTTgi" xml:lang="sv">
@@ -3705,7 +3712,7 @@
           till andre suppleant: hr Åkerman 15 röster och hr Genetz 1 röst;
           |
         </note>
-        <note xml:id="i-6cdFGMFwsCik8StReaafUL" xml:lang="sv">
+        <note xml:id="i-6cdFGMFwsCik8StReaafUL" xml:lang="sv" type="speaker">
           till ledamöter:
         </note>
         <note xml:id="i-DxDaeg43mtX51m4W1yTHve" xml:lang="sv">
@@ -3721,7 +3728,7 @@
         <note xml:id="i-VzeMidq7XyuABqdZwUb8iH" xml:lang="sv">
           till andre suppleant: hr Genetz 17 röster;
         </note>
-        <note xml:id="i-NznVgijoxGew7dxHGC9z4U" xml:lang="sv">
+        <note xml:id="i-NznVgijoxGew7dxHGC9z4U" xml:lang="sv" type="speaker">
           till ledamöter:
         </note>
         <note xml:id="i-S2xfmBJAXcRvThJxXhRrkA" xml:lang="sv">
@@ -3738,7 +3745,7 @@
           till andre suppleant: hr Juselius, Artur, 13 och hr Aejmeleus
           3 röster samt hr Heimberger 1 röst;
         </note>
-        <note xml:id="i-4vK4jnSZiCxe3V2eprojfK" xml:lang="sv">
+        <note xml:id="i-4vK4jnSZiCxe3V2eprojfK" xml:lang="sv" type="speaker">
           till ledamöter:
         </note>
         <note xml:id="i-2kX8rgX8yNh3opEiLVE11P" xml:lang="sv">
@@ -3761,17 +3768,17 @@
         <note xml:id="i-81vvaS9yZUXnbBusYTix4W" xml:lang="sv">
           66 Utskottsval. 8 febr.
         </note>
-        <note xml:id="i-MSbuVvPbzoRcQ2FwRTjtCZ" xml:lang="sv">
+        <note xml:id="i-MSbuVvPbzoRcQ2FwRTjtCZ" xml:lang="sv" type="speaker">
           På grund af det sålunda försiggångna valet voro altså utsedde:
         </note>
-        <note xml:id="i-7vvMkyCm6UQLa7RQrguSER" xml:lang="sv">
+        <note xml:id="i-7vvMkyCm6UQLa7RQrguSER" xml:lang="sv" type="speaker">
           i lag- och ekonomiutskottet:
         </note>
         <note xml:id="i-L5EqMEMthoeG3AjMo6imLo" xml:lang="sv">
           till ledamöter: hrr Nysten, von Pfaler, Stigzelius och Grönroos;
           samt till suppleanter: hrr Herckman och Åkerman;
         </note>
-        <note xml:id="i-NN5AC9PK7J1ZyrPNkCbUFt" xml:lang="sv">
+        <note xml:id="i-NN5AC9PK7J1ZyrPNkCbUFt" xml:lang="sv" type="speaker">
           i kommunalutskottet:
         </note>
         <note xml:id="i-RVSrT4ghZWfxeyPFQhbptU" xml:lang="sv">
@@ -4163,10 +4170,14 @@
         <note xml:id="i-DZ8H4o2nAbWiujZcQNFQHs" xml:lang="sv" type="speaker">
           :
         </note>
-        <u xml:id="i-7tPyZYCu7du97EDagEWpZb" who="unknown">
-          <seg xml:id="i-HkkQmgFjgam2iX7sFNqAWr" xml:lang="sv">
-            Hr Öhman: I likhet med hr von Pfaler anser jag den i förevarande
-            nädiga proposition föreslagna förändringen beträffande lagstiftningen
+        <u xml:id="i-7tPyZYCu7du97EDagEWpZb" who="unknown"/>
+        <note xml:id="i-HkkQmgFjgam2iX7sFNqAWr" xml:lang="sv" type="speaker">
+          Hr Öhman:
+        </note>
+        <u who="unknown">
+          <seg>
+            I likhet med hr von Pfaler anser jag den i förevarande nädiga
+            proposition föreslagna förändringen beträffande lagstiftningen
             angäende förmynderskap, närmast föranledd af den nya utsökningslagen
             och till densamma hörande författningar, vara af behofvet synnerligen
             päkallad och därför böra med tillfredsställelse emottagas. Nägra
@@ -9045,11 +9056,16 @@
         <note xml:id="i-5gBhenpiJAS7zQGBJGGT7K" xml:lang="sv">
           12 febr. 12 8 L. O. 161
         </note>
-        <note xml:id="i-V5CRNe6fn7qpDD9awnztze" xml:lang="fi">
-          Hr Stenroth: Keskustelu on jo venynyt pitkälle. En sen takia
-          tahdo asiata pitkittää. Mutta en voi kuitenkaan olla kokonaan
-          vastaamatta hra Lillen lausuntoon.
+        <note xml:id="i-V5CRNe6fn7qpDD9awnztze" xml:lang="fi" type="speaker">
+          Hr Stenroth:
         </note>
+        <u who="unknown">
+          <seg>
+            Keskustelu on jo venynyt pitkälle. En sen takia tahdo asiata
+            pitkittää. Mutta en voi kuitenkaan olla kokonaan vastaamatta hra
+            Lillen lausuntoon.
+          </seg>
+        </u>
         <note xml:id="i-SvYFr5Rr8pVSBzBcJyN34D" xml:lang="fi">
           Hra Lille on nyt muun muassa sanonut että minä olen vastannut
           hänelle ainoastaan korupuheilla. Olen koettanut selittää että
@@ -9318,22 +9334,27 @@
           å planläggning och ledning lämnar nödig garanti för att det afsedda
           ändamålet skall vinnas.
         </note>
-        <note xml:id="i-YTW6qik6K5Ro55ppgQB6P9" xml:lang="fi">
-          Hr Relander: Kun tein anomusehdotustani, niin kyllä tiesin että
-          aikanaan oli ollut samanlainen kysymys lääkäriseuran herättämänä
-          esillä, mutta sain täällä tietää että silloin asetetun toimikunnan
-          työstä ei tähän saakka ole tullut paljoa mitään. Hra Holmberg
-          täällä nyt ilmoittaa että tämä toimikunta olisi jo päässyt töissään
-          jotensakin pitkälle ja että olisi joukunlainen mahdollisuus milt'ei
-          varmuus saada tämä sanatoorio toimeen, ilman että valtio suoranaisesti
-          ryhtyisi sitä perustamaan. Siinä tapauksessa että tämmöinen mahdollisuus
-          on olemassa, ei minullakaan omasta puolestani olisi mitään sitä
-          vastaan ettei valtio nimenomaan ottaisi tämän laitoksen omaan
-          huostaansa. Aikomukseni olikin alussa tehdä ehdotukseni siihen
-          suuntaan. Mutta minulle täällä vakuutettiin että on ihan mahdotonta
-          saada laitosta sillä tavalla toimeen. Jos taasen pääkaupungin
-          lääkärit, jotka tämän asian paremmin
+        <note xml:id="i-YTW6qik6K5Ro55ppgQB6P9" xml:lang="fi" type="speaker">
+          Hr Relander:
         </note>
+        <u who="unknown">
+          <seg>
+            Kun tein anomusehdotustani, niin kyllä tiesin että aikanaan oli
+            ollut samanlainen kysymys lääkäriseuran herättämänä esillä, mutta
+            sain täällä tietää että silloin asetetun toimikunnan työstä ei
+            tähän saakka ole tullut paljoa mitään. Hra Holmberg täällä nyt
+            ilmoittaa että tämä toimikunta olisi jo päässyt töissään jotensakin
+            pitkälle ja että olisi joukunlainen mahdollisuus milt'ei varmuus
+            saada tämä sanatoorio toimeen, ilman että valtio suoranaisesti
+            ryhtyisi sitä perustamaan. Siinä tapauksessa että tämmöinen mahdollisuus
+            on olemassa, ei minullakaan omasta puolestani olisi mitään sitä
+            vastaan ettei valtio nimenomaan ottaisi tämän laitoksen omaan
+            huostaansa. Aikomukseni olikin alussa tehdä ehdotukseni siihen
+            suuntaan. Mutta minulle täällä vakuutettiin että on ihan mahdotonta
+            saada laitosta sillä tavalla toimeen. Jos taasen pääkaupungin
+            lääkärit, jotka tämän asian paremmin
+          </seg>
+        </u>
         <pb facs="https://swerik-project.github.io/valtiopaivat-records-pdf/1897/prot_1897_borgare_I/prot_1897_borgare_I-0168"/>
         <note xml:id="i-GCkcGzJreyjZ1siJjK1qNM" xml:lang="sv">
           166 Tuberkulosen. 12 febr.
@@ -21226,10 +21247,12 @@
         <note xml:id="i-HPqHBuv9WDqcCvcaFcYFLS" xml:lang="sv" type="speaker">
           Hr Kyander:
         </note>
-        <u xml:id="i-HBwhxafqvKTxSqPDhhi6rE" who="i-DpU7gVJYPRauQkC2oTYNZa">
-          <seg xml:id="i-9rHiPPszPNyfNnBtWQFQ8m" xml:lang="fi">
-            Hra Nystenin lausunnon johdosta pyydän huomauttaa:
-          </seg>
+        <u xml:id="i-HBwhxafqvKTxSqPDhhi6rE" who="i-DpU7gVJYPRauQkC2oTYNZa"/>
+        <note xml:id="i-9rHiPPszPNyfNnBtWQFQ8m" xml:lang="fi" type="speaker">
+          Hra Nystenin lausunnon johdosta pyydän huomauttaa:
+        </note>
+        <u who="unknown">
+          <seg/>
         </u>
         <note xml:id="i-2Y637KFguf7nCNscWZpbwa" xml:lang="fi">
           Tarkastaessamme maamme karttaa, havaitsemme Savonradan suunnan
@@ -21346,12 +21369,16 @@
           ajatuksista, joita hra Hallberg tässä äskettäin saman paikkakunnan
           suhteen esille toi.
         </note>
-        <note xml:id="i-UEsvFBVpPkmBHEhJB89gFj" xml:lang="fi">
-          Hr Killinen: Kun täällä joka kerta, kun on rautatieasia ollut
-          esillä, on koetettu Savonradan jatkamista syrjäyttää ja lykätä
-          epätietoiseen tulevaisuuteen, niin pyydän minäkin lausua sen johdosta
-          muutaman sanan.
+        <note xml:id="i-UEsvFBVpPkmBHEhJB89gFj" xml:lang="fi" type="speaker">
+          Hr Killinen:
         </note>
+        <u who="unknown">
+          <seg>
+            Kun täällä joka kerta, kun on rautatieasia ollut esillä, on koetettu
+            Savonradan jatkamista syrjäyttää ja lykätä epätietoiseen tulevaisuuteen,
+            niin pyydän minäkin lausua sen johdosta muutaman sanan.
+          </seg>
+        </u>
         <note xml:id="i-Sstzn8jW6jnL2C6D82bi6y" xml:lang="fi">
           Koska edellinen puhuja mainitsi äskettäin vapaaherra von Alfthanin
           lausunnon, joka koskee Karjalanradan jatkamista, niin minä pyydän
@@ -31639,10 +31666,15 @@
             lagen kan godkännas.
           </seg>
         </u>
-        <note xml:id="i-3eMGtTJrjkLLLX5jpZQUoo" xml:lang="fi">
-          Hr Stenroth: Välttääkseni useampia äänestyksiä pyydän saada yhtyä
-          hra Heikelin ehdotukseen.
+        <note xml:id="i-3eMGtTJrjkLLLX5jpZQUoo" xml:lang="fi" type="speaker">
+          Hr Stenroth:
         </note>
+        <u who="unknown">
+          <seg>
+            Välttääkseni useampia äänestyksiä pyydän saada yhtyä hra Heikelin
+            ehdotukseen.
+          </seg>
+        </u>
         <note xml:id="i-BVEzbNSHn53vtG2UXHvk9N" xml:lang="sv">
           Diskussionen förklarades härmed afslutad, hvarefter hr talmannen
           rörande förslaget att utesluta orden »brand- och dyrkfritt» framstälde
@@ -32775,7 +32807,7 @@
           Efter skedd anmälan inträdde en deputation från bondeständet,
           anförd af landtdagsmannen K. Ojanen, som därvid yttrade:
         </note>
-        <note xml:id="i-8y4h1s9FLrMfPxLLL7qHpi" xml:lang="fi">
+        <note xml:id="i-8y4h1s9FLrMfPxLLL7qHpi" xml:lang="fi" type="speaker">
           Kunnioitettava hra puhemies! Hyvinarvoisa porvarissääty !
         </note>
         <note xml:id="i-PNoGB3qGjk6JNmmxiUPGTV" xml:lang="fi">

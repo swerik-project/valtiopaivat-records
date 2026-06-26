@@ -71,7 +71,7 @@
         <note xml:id="i-JZJXjEVqduneBqh3sT4eHM" xml:lang="sv">
           FRÅN OCH MED DEN 1 TILL OCH MED DEN 27 OKTOBER,
         </note>
-        <note xml:id="i-9xrjsAteeWT48tpnWwYooZ" xml:lang="sv ">
+        <note xml:id="i-9xrjsAteeWT48tpnWwYooZ" xml:lang="sv">
           HELSINGFORS, HELSINGFORS CENTRALTRYCKERI, 1898.
         </note>
         <pb facs="https://swerik-project.github.io/valtiopaivat-records-pdf/1877-1878/prot_1877-1878_praster_III/prot_1877-1878_praster_III-0003"/>
@@ -5025,12 +5025,16 @@
         <note xml:id="i-DRfL6Uf35Qp7UMJLKBatdS" xml:lang="sv" type="speaker">
           :
         </note>
-        <u xml:id="i-D9gUKJ4NzCSKbtpMERkJPs" who="unknown">
-          <seg xml:id="i-TSzjeXEZk2LDG5yp56ESLY" xml:lang="sv">
-            Prosten Hjelt: I afseende å denna paragraf tager jag mig frihéten
-            att fästa uppmärksamheten på en omständighet, som torde förtjena
-            tagas i betraktande. Utskottet har föreslagit, att personer som
-            vistats i Ryssland någon längre tid, icke mer böra falla fattigvården
+        <u xml:id="i-D9gUKJ4NzCSKbtpMERkJPs" who="unknown"/>
+        <note xml:id="i-TSzjeXEZk2LDG5yp56ESLY" xml:lang="sv" type="speaker">
+          Prosten Hjelt:
+        </note>
+        <u who="unknown">
+          <seg>
+            I afseende å denna paragraf tager jag mig frihéten att fästa
+            uppmärksamheten på en omständighet, som torde förtjena tagas i
+            betraktande. Utskottet har föreslagit, att personer som vistats
+            i Ryssland någon längre tid, icke mer böra falla fattigvården
             i deras hemorter till last, utan att underhållskostnaden för dem
             borde drabba kronan. Detsamma borde förhällandet väl vara äfven
             med dem, som under en längre tid vistats icke i Ryssland, utan

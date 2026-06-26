@@ -51,10 +51,10 @@
         <note xml:id="i-8PNhiWktbaQzrifdRDYTaa" xml:lang="sv">
           FRÅN DEN 16 MAJ TILL LANDTDAGENS SLUT.
         </note>
-        <note xml:id="i-8PixtaUoP6ydvBbkFuH5k1" xml:lang="sv " type="speaker">
+        <note xml:id="i-8PixtaUoP6ydvBbkFuH5k1" xml:lang="sv" type="speaker">
           HELSINGFORS 1905
         </note>
-        <note xml:id="i-8hhyMLACvFbQSYugQFr9iV" xml:lang="sv ">
+        <note xml:id="i-8hhyMLACvFbQSYugQFr9iV" xml:lang="sv">
           HELSINGFORS CENTRALTRYCKERI.
         </note>
         <pb facs="https://swerik-project.github.io/valtiopaivat-records-pdf/1882/prot_1882_praster_III/prot_1882_praster_III-0002"/>
@@ -923,40 +923,44 @@
           Cleves uttalade äsigt. Jag biträder deruti helt och hället utskottets
           betänkande.
         </note>
-        <note xml:id="i-YLHmn1tkxxPW314dRtg8J7" xml:lang="fi">
-          Professor Forsman, G. Z.: Pyysin sananvuoroa sen kysymyksen johdosta,
-          jonka professori Donner täällä teki ja joka koskee sitä eri ehdotusta,
-          minkä muutamat vastalausujat ovat tehneet rahamääräyksen suhteen.
-          Niinkuin professori Donner myöskin on huomauttanut, niin asian
-          käytännöllisyyden puolesta nämä ehdotukset eivät paljoa eriä toisistaan;
-          toisen mukaan olisi puheina olevaan tarkoitukseen määrättävä 532,000
-          markkaa, toisen mukaan 475,000. Tuo pieni erotus 57,000 markkaa
-          on ylipäänsä vähäpätöinen, mutta se ei olekaan se, joka nuo ehdotukset
-          oikeastaan toisistaan erottaa. Asiata valiokunnassa käsiteltäessä
-          arveltiin enemmistön puolelta, että tämä 475,000 markkaa, joka
-          eri käsitysten taisteltua vihdoin ilmaantui ikäänkuin sopimussummaksi
-          säätyjen ja hallituksen välillä, nyt myöskin olisi pysytettävä
-          entisessä määrässään koskemattomana, koska ajateltiin arkaluontoisem
-          - maksi asiaksi purkaa tämä sopimus kuin suorastaan kieltää pyydetty
-          rahamääräys kansakoulujen hyväksi. Jälkimmäinen mahdollisuus oli
-          nimittäin jo verokomiteassa otaksuttu aivan luonnolliseksi asiaksi,
-          sitte kuin säätyjen budgetti tästä lähin tulisi saamaan lisätyitä
-          kustannuksia sotalaitosta varten. Verokomiteassa arveltiin mahdolliseksi,
-          että myöskin yleinen valtiorahasto, jonka tulot ovat aikain kuluessa
-          lisääntyneet, tulisi puolestaan helpottamaan niitä uusia kuormia,
-          jotka sotalaitoksen tähden ovat kansan kannatettavat. Katsottiin
-          sopimattomaksi, että, kun tämä uusi tarve kumminkin = tulisi pääasiallisesti
-          rasittamaan suostuntabudgettia, yleinen valtiovarasto ci tulisi
-          sen vuoksi mitään lisättyä rasitusta kantamaan, ja sen tähden
-          ehdoteltiin jo silloin, että koko kansakoululaitos jätettäisiin
-          yleisen valtiovaraston kustannettavaksi. Tämä on ollut asian peeriaatteellinen
-          puoli; on katsottu kohtuuden vaativan, että kansakoululaitos joutuisi
-          mainitusta syystä yleisen valtiovaraston huostaan ja toisella
-          puolen on arveltu soveliaammaksi, että tämä vanha sovittu määrä
-          475,000 markkaa, joka karttaverosta on annettu yleiseen valtiovarastoon,
-          olisi entisellänsä, aivan samalla tavalla kuin esim. se määrä,
-          joka viinaveroista myöskin
+        <note xml:id="i-YLHmn1tkxxPW314dRtg8J7" xml:lang="fi" type="speaker">
+          Professor Forsman, G. Z.:
         </note>
+        <u who="unknown">
+          <seg>
+            Pyysin sananvuoroa sen kysymyksen johdosta, jonka professori
+            Donner täällä teki ja joka koskee sitä eri ehdotusta, minkä muutamat
+            vastalausujat ovat tehneet rahamääräyksen suhteen. Niinkuin professori
+            Donner myöskin on huomauttanut, niin asian käytännöllisyyden puolesta
+            nämä ehdotukset eivät paljoa eriä toisistaan; toisen mukaan olisi
+            puheina olevaan tarkoitukseen määrättävä 532,000 markkaa, toisen
+            mukaan 475,000. Tuo pieni erotus 57,000 markkaa on ylipäänsä vähäpätöinen,
+            mutta se ei olekaan se, joka nuo ehdotukset oikeastaan toisistaan
+            erottaa. Asiata valiokunnassa käsiteltäessä arveltiin enemmistön
+            puolelta, että tämä 475,000 markkaa, joka eri käsitysten taisteltua
+            vihdoin ilmaantui ikäänkuin sopimussummaksi säätyjen ja hallituksen
+            välillä, nyt myöskin olisi pysytettävä entisessä määrässään koskemattomana,
+            koska ajateltiin arkaluontoisem - maksi asiaksi purkaa tämä sopimus
+            kuin suorastaan kieltää pyydetty rahamääräys kansakoulujen hyväksi.
+            Jälkimmäinen mahdollisuus oli nimittäin jo verokomiteassa otaksuttu
+            aivan luonnolliseksi asiaksi, sitte kuin säätyjen budgetti tästä
+            lähin tulisi saamaan lisätyitä kustannuksia sotalaitosta varten.
+            Verokomiteassa arveltiin mahdolliseksi, että myöskin yleinen valtiorahasto,
+            jonka tulot ovat aikain kuluessa lisääntyneet, tulisi puolestaan
+            helpottamaan niitä uusia kuormia, jotka sotalaitoksen tähden ovat
+            kansan kannatettavat. Katsottiin sopimattomaksi, että, kun tämä
+            uusi tarve kumminkin = tulisi pääasiallisesti rasittamaan suostuntabudgettia,
+            yleinen valtiovarasto ci tulisi sen vuoksi mitään lisättyä rasitusta
+            kantamaan, ja sen tähden ehdoteltiin jo silloin, että koko kansakoululaitos
+            jätettäisiin yleisen valtiovaraston kustannettavaksi. Tämä on
+            ollut asian peeriaatteellinen puoli; on katsottu kohtuuden vaativan,
+            että kansakoululaitos joutuisi mainitusta syystä yleisen valtiovaraston
+            huostaan ja toisella puolen on arveltu soveliaammaksi, että tämä
+            vanha sovittu määrä 475,000 markkaa, joka karttaverosta on annettu
+            yleiseen valtiovarastoon, olisi entisellänsä, aivan samalla tavalla
+            kuin esim. se määrä, joka viinaveroista myöskin
+          </seg>
+        </u>
         <pb facs="https://swerik-project.github.io/valtiopaivat-records-pdf/1882/prot_1882_praster_III/prot_1882_praster_III-0018"/>
         <note xml:id="i-JqXJK6KM5ufaaN2bA4KsKG" xml:lang="sv">
           Presteståndet 1882. 16 maj. 1275
@@ -1722,7 +1726,7 @@
         <note xml:id="i-7YTXa4w5ESMWeSrf9KKCsW" xml:lang="sv">
           1288 Presteständet 1882. 16 maj.
         </note>
-        <note xml:id="i-7ah8dhiSGSKXwLA28mqHpM" xml:lang="sv">
+        <note xml:id="i-7ah8dhiSGSKXwLA28mqHpM" xml:lang="sv" type="speaker">
           Talmannen för vinnande af kontraproposition mot utskottets betänkande
           i denna punkt följande omröstningsproposition :
         </note>
@@ -1875,7 +1879,7 @@
           bifall var fränvarande och professor Estlander, som af förut anmäldt
           sjukdomsfall var förhindrad att infinna sig.
         </note>
-        <note xml:id="i-BCsUWXCrt5nocetErbwkoh" xml:lang="sv">
+        <note xml:id="i-BCsUWXCrt5nocetErbwkoh" xml:lang="sv" type="speaker">
           Föredrogs och bordlades att i sin ordning till behandling företagas:
         </note>
         <note xml:id="i-XmuD3AL4UBVzHcqB5KQS1h" xml:lang="sv">
@@ -1918,7 +1922,7 @@
         <note xml:id="i-GLB8QxotULy9Uk2HdCEPb6" xml:lang="sv">
           7 och 8 SS gillades;
         </note>
-        <note xml:id="i-EEwrtTD6pvFP7EXVcszbM" xml:lang="sv">
+        <note xml:id="i-EEwrtTD6pvFP7EXVcszbM" xml:lang="sv" type="speaker">
           9 $ antogs, likväl sålunda att andra meningen skulle i den svenska
           texten erhålla följande lydelse:
         </note>
@@ -12980,7 +12984,7 @@
           föreslagit, tillkomma ordföranden, äfvensom att ur momentets sista
           mening orden »till åren» skulle utgå.
         </note>
-        <note xml:id="i-P6SjjnGLewy8KryvxyxNs4" xml:lang="sv">
+        <note xml:id="i-P6SjjnGLewy8KryvxyxNs4" xml:lang="sv" type="speaker">
           Momm. f)—i) godkändes utan ändring enligt betänkandet. Beträffande
           mom. k) yttrade sig:
         </note>
@@ -13023,7 +13027,7 @@
         <note xml:id="i-WUQKuEQVHzJiDgkug2aHqw" xml:lang="sv">
           Presteståndet 1882. 23 maj. 1485
         </note>
-        <note xml:id="i-EThyzHhGpLTGaUUTgwX1ZE" xml:lang="sv">
+        <note xml:id="i-EThyzHhGpLTGaUUTgwX1ZE" xml:lang="sv" type="speaker">
           Härä anhöll professor G. Z. Forsman om ordet för att göra följande
           anmärkning:
         </note>
@@ -13085,7 +13089,7 @@
           att ät bankfnllmäktiges ordförande skulle ansläs ett tilläggsarvode
           af 1,000 mark.
         </note>
-        <note xml:id="i-Knt8Ts4CsapMEz2zGnM4cW" xml:lang="sv">
+        <note xml:id="i-Knt8Ts4CsapMEz2zGnM4cW" xml:lang="sv" type="speaker">
           Till Ständet hade inkommit och meddelades till kännedom protokollsutdrag:
         </note>
         <note xml:id="i-XnJNd7QgaEk1P523ECQhow" xml:lang="sv">
@@ -20430,7 +20434,7 @@
           Upplästes till justering och godkändes utdrag ur Presteständets
           protokoll för den 27 maj.
         </note>
-        <note xml:id="i-D3wXdzU6tw4UY1JTq87yfq" xml:lang="sv">
+        <note xml:id="i-D3wXdzU6tw4UY1JTq87yfq" xml:lang="sv" type="speaker">
           Föredrogs och bordlades att i sin ordning till behandling förekomma:
         </note>
         <note xml:id="i-D4jSwGHofXe7hpfbpHnCYA" xml:lang="sv">
@@ -20463,7 +20467,7 @@
           att medhinna beredningen af nedannämnda, utaf Stånden till detsamma
           öfverlemnade petitionsförslag, nemligen:
         </note>
-        <note xml:id="i-HxWPEn6MFFENDGQ8hz6ZJc" xml:lang="sv">
+        <note xml:id="i-HxWPEn6MFFENDGQ8hz6ZJc" xml:lang="sv" type="speaker">
           a) från Ridderskapet och adeln inkomna:
         </note>
         <note xml:id="i-HULSfGniNqFyGqZXZAXHZU" xml:lang="sv">
@@ -20483,7 +20487,7 @@
           4:0) angående reorganisation af styrelseverket, af Herr L. Mechelin
           ;
         </note>
-        <note xml:id="i-DsZAQmMA6YAJ7kazirGUPq" xml:lang="sv">
+        <note xml:id="i-DsZAQmMA6YAJ7kazirGUPq" xml:lang="sv" type="speaker">
           b) frän Presteständet inkomna:
         </note>
         <note xml:id="i-GbZtuxQdCKZA735ezime1W" xml:lang="sv">
@@ -20510,7 +20514,7 @@
           6:0) angäende tillsättande af ett Ständernas granskningsutskott
           under landtdagarna, af Landtdagsmannen J. Forsman;
         </note>
-        <note xml:id="i-BEfkyrEnSjn9713mZP69Tw" xml:lang="sv">
+        <note xml:id="i-BEfkyrEnSjn9713mZP69Tw" xml:lang="sv" type="speaker">
           c) från Borgareständet inkomna:
         </note>
         <pb facs="https://swerik-project.github.io/valtiopaivat-records-pdf/1882/prot_1882_praster_III/prot_1882_praster_III-0357"/>
@@ -20526,7 +20530,7 @@
           1743 och införande af röstbegränsning vid val af stadstjenstemän,
           af Landtdagsmännen Edvard Molander och L. J. Hammarén, gemensamt;
         </note>
-        <note xml:id="i-XCikPenW8KjWJBSCaRfaby" xml:lang="sv">
+        <note xml:id="i-XCikPenW8KjWJBSCaRfaby" xml:lang="sv" type="speaker">
           d) från Bondeståndet inkomna:
         </note>
         <note xml:id="i-AfX13WFn7miMZUAdfC82xa" xml:lang="sv">
@@ -20562,7 +20566,7 @@
           ofvannämnda petitionsförslag förvaras i Lagutskottets arkiv, Utskottet
           har äran Högvördiga Presteständet härigenom underrätta.
         </note>
-        <note xml:id="i-K56DXrze33k5kEHZRNEpVq" xml:lang="sv">
+        <note xml:id="i-K56DXrze33k5kEHZRNEpVq" xml:lang="sv" type="speaker">
           På Lagutskottets vägnar:
         </note>
         <note xml:id="i-22xzsCHMwpdNBaDBK2aDUX" xml:lang="unknown">
@@ -20733,7 +20737,7 @@
         <note xml:id="i-KPQtGdJHGyL8GPZgaRBUZp" xml:lang="sv">
           Sedan det föreliggande betänkandet sålunda blifvit genom-
         </note>
-        <note xml:id="i-6TC1vPpoNWsu6e2a7LjvM1" xml:lang="sv">
+        <note xml:id="i-6TC1vPpoNWsu6e2a7LjvM1" xml:lang="sv" type="speaker">
           gänget, fann Ständet slutligen godt bifalla till ett inom Ständet
           väckt förslag:
         </note>
@@ -20875,7 +20879,7 @@
         <note xml:id="i-K4x8nW2sUvSqPdtZac7vXj" xml:lang="sv">
           1620 Presteståndet 1882. 30 maj.
         </note>
-        <note xml:id="i-VbeMgJbBDGvMTt1WomUkzM" xml:lang="sv">
+        <note xml:id="i-VbeMgJbBDGvMTt1WomUkzM" xml:lang="sv" type="speaker">
           Beträffande $ 54:
         </note>
         <note xml:id="i-5wxcsvJhymnNmuQQVRpqdE" xml:lang="sv">
@@ -29700,7 +29704,7 @@
           svenska och finska spräkens begagnande vid särskilda domstolar
           och myndigheter i landet
         </note>
-        <note xml:id="i-75a6vUGVAPyMTB8VzqCPoX" xml:lang="sv">
+        <note xml:id="i-75a6vUGVAPyMTB8VzqCPoX" xml:lang="sv" type="speaker">
           beslutit gifva utskottets allmänna uttalande ä sidan 7 följande
           formulering:
         </note>
@@ -30006,7 +30010,7 @@
           På herr Talmannens derom gjorda framställning blef utskottets
           berörde hemställan af Presteståndet enhälligt godkänd.
         </note>
-        <note xml:id="i-RjRN8yDafELeib7YuVwsXP" xml:lang="sv">
+        <note xml:id="i-RjRN8yDafELeib7YuVwsXP" xml:lang="sv" type="speaker">
           Professor Runeberg anhöll härefter om ordet för att till Ståndet
           göra följande hemställan:
         </note>
@@ -30022,7 +30026,7 @@
           skulle inbjuda Bondeståndet att förena sig om de tre öfriga Ståndens
           beslut.
         </note>
-        <note xml:id="i-CG4wptc6K7V6eYT5Ky47dV" xml:lang="sv">
+        <note xml:id="i-CG4wptc6K7V6eYT5Ky47dV" xml:lang="sv" type="speaker">
           Med anledning häraf yttrade sig följande talare:
         </note>
         <note xml:id="i-6ARuvyrKegn74a1kaBEM8p" xml:lang="sv">
@@ -32658,7 +32662,7 @@
         <note xml:id="i-XRZ84aoFnnz9VAUp3U46yP" xml:lang="sv">
           1824 Presteståndet 1882. 5 juni.
         </note>
-        <note xml:id="i-MTwtd4iAKcveWoQZcu2xJS" xml:lang="sv">
+        <note xml:id="i-MTwtd4iAKcveWoQZcu2xJS" xml:lang="sv" type="speaker">
           Till Ståndet hade inkommit och meddelades till kännedom protokollsutdrag:
         </note>
         <note xml:id="i-LsWxhEmKtrCMSA8PYWLtNj" xml:lang="sv">
@@ -32790,9 +32794,14 @@
           reservation, framstälda yrkande, till följd hvaraf jemväl $ 47
           skulle uti ingressen bland der uppräknade lagrum införas;
         </note>
-        <note xml:id="i-Q9e5opCecY5MwYRK1uu7hx" xml:lang="sv">
-          från: Borgareständet med meddelande:
+        <note xml:id="i-Q9e5opCecY5MwYRK1uu7hx" xml:lang="sv" type="speaker">
+          från:
         </note>
+        <u who="unknown">
+          <seg>
+            Borgareständet med meddelande:
+          </seg>
+        </u>
         <note xml:id="i-5E4Zv9jrUhwCRWWbQ8FMmP" xml:lang="sv">
           att Ständet vid behandlingen af allmänna besvärsutskottets betänkande
           angående reorganisation af landets skolväsende af de pä sidd.
@@ -32967,7 +32976,7 @@
           hvilka utskottets förslag i öfrigt godkändes, undergä nödig omredigering
           ;
         </note>
-        <note xml:id="i-8BPz3FF6sij7yVWn33L9Ya" xml:lang="sv">
+        <note xml:id="i-8BPz3FF6sij7yVWn33L9Ya" xml:lang="sv" type="speaker">
           att Ständet godkänt:
         </note>
         <note xml:id="i-HEzMqRM9xEUkA43gmn42fU" xml:lang="sv">
@@ -34809,7 +34818,7 @@
         <note xml:id="i-RjEQjfoAJCXGcUkutEDryt" xml:lang="sv">
           icke medhunnit. III. 1745—1746.
         </note>
-        <note xml:id="i-7u7beNNFAdKWD4AHwV2aE1" xml:lang="sv">
+        <note xml:id="i-7u7beNNFAdKWD4AHwV2aE1" xml:lang="sv" type="speaker">
           dess betänkanden:
         </note>
         <note xml:id="i-TNoPgJCyLPFq3f8tyrXeui" xml:lang="sv">
@@ -35185,7 +35194,7 @@
         <note xml:id="i-VHLc4vMmZdS9PhvqPFZCuF" xml:lang="sv">
           Register. 1871
         </note>
-        <note xml:id="i-UYyqMxCfARjmNAJN7k9mJG" xml:lang="sv">
+        <note xml:id="i-UYyqMxCfARjmNAJN7k9mJG" xml:lang="sv" type="speaker">
           dess yttranden:
         </note>
         <note xml:id="i-HepJMNaTsgnTFzeS6U2ZXh" xml:lang="unknown">
@@ -35748,7 +35757,7 @@
           assisterade Domprosten Renvall i kyrkan vid gudstjensten vid
           landtdagens afslutande. III. 1855.
         </note>
-        <note xml:id="i-8twDSMq36ArXeGTcnQMsQH" xml:lang="sv">
+        <note xml:id="i-8twDSMq36ArXeGTcnQMsQH" xml:lang="sv" type="speaker">
           dess yttranden:
         </note>
         <note xml:id="i-WyUorrCBwL6pBYjsLj8Qce" xml:lang="unknown">
@@ -36260,7 +36269,7 @@
         <note xml:id="i-7FKrm6MZCqfPwU76xUzko2" xml:lang="unknown">
           elektor. I. 9.
         </note>
-        <note xml:id="i-54bV2w7dRhQFceTVT9mupT" xml:lang="sv">
+        <note xml:id="i-54bV2w7dRhQFceTVT9mupT" xml:lang="sv" type="speaker">
           - ledamot i bevillningsutskottet. I. 31. - afled d. 11 febr.
           1882. I. 180. — dess petition:
         </note>
@@ -36268,7 +36277,7 @@
           ang. inrättande af ett finskt lyceum i Nyslott. I. 74—75. R.
           I 92. Se allm. besv. utsk. bet. N:o 13.
         </note>
-        <note xml:id="i-Ejo6jKXeZeDiwVsQzRw2AZ" xml:lang="sv">
+        <note xml:id="i-Ejo6jKXeZeDiwVsQzRw2AZ" xml:lang="sv" type="speaker">
           dess yttranden:
         </note>
         <note xml:id="i-LVJ6ecetT4P2TnpkzBfe5u" xml:lang="unknown">
@@ -36302,7 +36311,7 @@
           ang. prostitutionens stäfjande. I. 145—147. B. I. 147. R. I 250.
           A. III. 1613.
         </note>
-        <note xml:id="i-6AA4iJrsUuQaETU7iA1cis" xml:lang="sv">
+        <note xml:id="i-6AA4iJrsUuQaETU7iA1cis" xml:lang="sv" type="speaker">
           dess yttranden:
         </note>
         <note xml:id="i-MVwuJhnZqMHjE91c77MXcy" xml:lang="unknown">
@@ -36349,7 +36358,7 @@
           officierade vid altaret under gudstjensten vid landtdagens slut.
           III. 1855.
         </note>
-        <note xml:id="i-3z5Hfr3nawePqoPbdTyJen" xml:lang="sv">
+        <note xml:id="i-3z5Hfr3nawePqoPbdTyJen" xml:lang="sv" type="speaker">
           dess petition:
         </note>
         <note xml:id="i-DMpRuKpeWYTw3nVHycK3Ee" xml:lang="sv">
@@ -36517,7 +36526,7 @@
         <note xml:id="i-Nz9JVsZFxNocwanzt5EcYF" xml:lang="sv">
           Register. 1889
         </note>
-        <note xml:id="i-GU5cJVbPXErPXAUjLqh6yY" xml:lang="sv">
+        <note xml:id="i-GU5cJVbPXErPXAUjLqh6yY" xml:lang="sv" type="speaker">
           dess yttranden:
         </note>
         <note xml:id="i-AvmyDdc6QckDscW3VbuRto" xml:lang="unknown">
@@ -36756,7 +36765,7 @@
           assisterade Domprosten Renvall vid gudstjensten vid landtdagens
           afslutande. III. 1855.
         </note>
-        <note xml:id="i-HCahX5aenwEJzebVNxvVU1" xml:lang="sv">
+        <note xml:id="i-HCahX5aenwEJzebVNxvVU1" xml:lang="sv" type="speaker">
           dess petitioner:
         </note>
         <note xml:id="i-NLG4japWui4VjW8x4GTpac" xml:lang="sv">
@@ -36775,7 +36784,7 @@
         <note xml:id="i-Bi9xubezCWSRRtyycyTpBT" xml:lang="sv">
           ang. prostitutionens stäfjande. I. 145—147. A. III. 1613.
         </note>
-        <note xml:id="i-5m7BftcuajFSLtR7YheNjG" xml:lang="sv">
+        <note xml:id="i-5m7BftcuajFSLtR7YheNjG" xml:lang="sv" type="speaker">
           - dess yttranden:
         </note>
         <note xml:id="i-DXQpDiTX6yh4arTDchG8UA" xml:lang="unknown">
@@ -37234,7 +37243,7 @@
         <note xml:id="i-5HAF7Tygv3pAkQsRYzggx1" xml:lang="sv">
           ledamot i lagutskottet. I. 30.
         </note>
-        <note xml:id="i-Q3oAjFyXqCk5YaqZh9CVuy" xml:lang="sv">
+        <note xml:id="i-Q3oAjFyXqCk5YaqZh9CVuy" xml:lang="sv" type="speaker">
           dess petition:
         </note>
         <note xml:id="i-MTDBSEFkTwmmrR6snHLTvS" xml:lang="sv">
@@ -37376,7 +37385,7 @@
           officierade vid altaret under gudstjensten vid landtdagens slut.
           III. 1855.
         </note>
-        <note xml:id="i-Wg7bpU3J7xdtnNfvkxZhi" xml:lang="sv">
+        <note xml:id="i-Wg7bpU3J7xdtnNfvkxZhi" xml:lang="sv" type="speaker">
           dess petition:
         </note>
         <note xml:id="i-U51pJ2W6MYxvVij8L5yFx9" xml:lang="sv">
@@ -37387,7 +37396,7 @@
           Uleåborg. I. 122--123. R. I. 166. Se allm. besv. utsk. bet. N:o
           13.
         </note>
-        <note xml:id="i-BwqD4ndJTTTJQbCWaNb6fS" xml:lang="sv">
+        <note xml:id="i-BwqD4ndJTTTJQbCWaNb6fS" xml:lang="sv" type="speaker">
           dess yttranden:
         </note>
         <note xml:id="i-AVuC5JwBoauEMZvTbyMTZV" xml:lang="sv">
@@ -37485,7 +37494,7 @@
         <note xml:id="i-FBCtH2Nct1yH3mpnxjQyy2" xml:lang="sv">
           heter. A. III. 1839—1840. N
         </note>
-        <note xml:id="i-6xgEYxkPz56SBYEbgZv6x9" xml:lang="sv">
+        <note xml:id="i-6xgEYxkPz56SBYEbgZv6x9" xml:lang="sv" type="speaker">
           — dess betänkanden:
         </note>
         <note xml:id="i-9UCxuya8WsuT8bWEDDi4uv" xml:lang="sv">
@@ -37650,7 +37659,7 @@
           Tal uti tronsalen vid landtdagens öppnande, Talmannens. 1. 12—14.
           Talman, Biskop A. J. Hornborg utsedd till. I. 1.
         </note>
-        <note xml:id="i-49magDPqq5mATRMxQAVXR4" xml:lang="sv">
+        <note xml:id="i-49magDPqq5mATRMxQAVXR4" xml:lang="sv" type="speaker">
           dess yttranden:
         </note>
         <note xml:id="i-3KJPLNb7BJi2HNHnpaQHfL" xml:lang="unknown">
@@ -37884,7 +37893,7 @@
         <note xml:id="i-A23B6dAjebCtD2pxMem1FA" xml:lang="sv">
           —=--- ledamot i ensk. hesvärsutskottet. I. 32, 51.
         </note>
-        <note xml:id="i-UCwaEcXmdLVPsTrhsVPeea" xml:lang="sv">
+        <note xml:id="i-UCwaEcXmdLVPsTrhsVPeea" xml:lang="sv" type="speaker">
           —=— dess petition:
         </note>
         <note xml:id="i-VBYcERTHkhfnBDspRyYMW7" xml:lang="sv">

@@ -55,7 +55,7 @@
         <note xml:id="i-KRMSPLURgqE78zRQicntUU" xml:lang="sv">
           från den 8 januari till och med den 19 februari 1864.
         </note>
-        <note xml:id="i-SitXunnsfcYHsFXRcMaf9q" xml:lang="sv ">
+        <note xml:id="i-SitXunnsfcYHsFXRcMaf9q" xml:lang="sv">
           HELSINGFORS,
         </note>
         <note xml:id="i-SVWcXsaarn1uCyjNs1ZvbR" xml:lang="unknown">
@@ -167,9 +167,14 @@
           och hon i deras bus vistas samt bröd deras äter, deras bifall
           utverkas bör, som lag säger.”
         </note>
-        <note xml:id="i-12uXVBZdFqSqArGYqjbtAP" xml:lang="sv">
-          2:0. Borgareständets:
+        <note xml:id="i-12uXVBZdFqSqArGYqjbtAP" xml:lang="sv" type="speaker">
+          2:
         </note>
+        <u who="unknown">
+          <seg>
+            0. Borgareständets:
+          </seg>
+        </u>
         <note xml:id="i-EW5FsvKUVG9c9ByNrhFAH5" xml:lang="sv">
           ”Med ändring af 2 &amp; 19 kap. Ä. B. samt hvad giftermälsbalken
           om giftomän innehäller, varder stadgadt som följer:
@@ -194,9 +199,14 @@
           de fall 2 &amp; 6 kap. G. B. innehåller, hafve dock fader eller
           moder väld att göra henne arflös.” samt
         </note>
-        <note xml:id="i-LgeRpMptix2MuhHRQH9Uxy" xml:lang="sv">
-          3:0. Bondeständets:
+        <note xml:id="i-LgeRpMptix2MuhHRQH9Uxy" xml:lang="sv" type="speaker">
+          3:
         </note>
+        <u who="unknown">
+          <seg>
+            0. Bondeständets:
+          </seg>
+        </u>
         <note xml:id="i-GteTMKxKUv1cqk9vM3dQBJ" xml:lang="sv">
           ”Med ändring af 2 &amp; 19 kap. Ä. B. samt hvad giftermälsbalken
           om giftomän innehäller, varder stadgadt som följer:
@@ -387,7 +397,7 @@
           icke påkalla någon åtgärd från ståndets sida, utan skulle läggas
           till handlingarne.
         </note>
-        <note xml:id="i-YbBqas6SAiV1Py59ivNUyT" xml:lang="sv">
+        <note xml:id="i-YbBqas6SAiV1Py59ivNUyT" xml:lang="sv" type="speaker">
           Utdrag af presteståndets pleniprotokoll för den 8 och 11 sistlidne
           december, så lydande:
         </note>
@@ -534,7 +544,7 @@
           anledning af petitionsförslaget om upphörande af den förhöjda
           terminsafgiften vid elementarläroverken.
         </note>
-        <note xml:id="i-EvrFm5BSZtsjqx4gDtJ6ML" xml:lang="sv">
+        <note xml:id="i-EvrFm5BSZtsjqx4gDtJ6ML" xml:lang="sv" type="speaker">
           Af herr talemannen framställdes följande proposition:
         </note>
         <note xml:id="i-BzKe7bhAaLUvaD14eVyL3u" xml:lang="sv">
@@ -25515,14 +25525,18 @@
         <note xml:id="i-Wcr5Kw16gUDAzkPPqqKjy2" xml:lang="sv" type="speaker">
           &gt; Herr O:
         </note>
-        <u xml:id="i-WWYUEuaSeEuaucUwg8Lznn" who="i-3azMqGSRVZPNhg24uDkjHa">
-          <seg xml:id="i-96tPRdQoKd1B14mB2EoXUN" xml:lang="sv">
-            F. Grönberg: Då Hans Kejserliga Majestät har till ständernes
-            antagande framställt grunderna för den blifvande författningen
-            och derjemte äfven meddelat ett särskildt förslag till denna författning;
-            sä synes det mig obestridligt att meningen äfven varit att ständerne
-            skulle yttra sig öfver förslaget. Jag förordar derföre att förslaget
-            nu upptäges till granskning.
+        <u xml:id="i-WWYUEuaSeEuaucUwg8Lznn" who="i-3azMqGSRVZPNhg24uDkjHa"/>
+        <note xml:id="i-96tPRdQoKd1B14mB2EoXUN" xml:lang="sv" type="speaker">
+          F. Grönberg:
+        </note>
+        <u who="unknown">
+          <seg>
+            Då Hans Kejserliga Majestät har till ständernes antagande framställt
+            grunderna för den blifvande författningen och derjemte äfven meddelat
+            ett särskildt förslag till denna författning; sä synes det mig
+            obestridligt att meningen äfven varit att ständerne skulle yttra
+            sig öfver förslaget. Jag förordar derföre att förslaget nu upptäges
+            till granskning.
           </seg>
         </u>
         <note xml:id="i-TqmqrL4Aw1JyyRxM4VninH" xml:lang="sv">

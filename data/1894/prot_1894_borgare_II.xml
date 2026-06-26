@@ -57,7 +57,7 @@
         <note xml:id="i-S5kByRrfFuoYSj4BmHKLSb" xml:lang="sv">
           FRÅN OCH MED DEN 19 APRIL TILL LANDTDAGENS SLUT,
         </note>
-        <note xml:id="i-2giHxofqk7HYzFKtD8kjUQ" xml:lang="sv ">
+        <note xml:id="i-2giHxofqk7HYzFKtD8kjUQ" xml:lang="sv">
           HELSINGFORS, HELSINGFORS CENTRAL-TRYCKERI, 1894.
         </note>
         <pb facs="https://swerik-project.github.io/valtiopaivat-records-pdf/1894/prot_1894_borgare_II/prot_1894_borgare_II-0002"/>
@@ -33759,7 +33759,7 @@
           pä därom skedd anmälan, inträdde, anförd af landtdagsmannen Ojanen,
           som yttrade:
         </note>
-        <note xml:id="i-553xQSfAmLDHFsxQWfqn7z" xml:lang="fi">
+        <note xml:id="i-553xQSfAmLDHFsxQWfqn7z" xml:lang="fi" type="speaker">
           Kunnioitettava hra puhemies, hyvinarvoisa porvarissääty !
         </note>
         <note xml:id="i-HBvvLNBzHiLgGTf3sKdZiF" xml:lang="fi">
@@ -55093,13 +55093,17 @@
           Härefter anmäldes och inträdde en deputation ifrån bondeståndet,
           anförd af
         </note>
-        <note xml:id="i-ChR5nUj8hpKbruEaDtAAhv" xml:lang="fi">
-          landtdagsmannen Pitkänen, som yttrade: »Korkeasti kunnioitettava
-          herra puhemies! Hyvinarvoinen porvarissääty! Talonpoikaissäädyn
-          puolesta pyydämme sen lähetystönä lausua teille, herra puhemies
-          ja hyvinarvoinen porvarissääty, ystävällisen ja kunnioittavimman
-          jäähyväistervehdyksemme !
+        <note xml:id="i-ChR5nUj8hpKbruEaDtAAhv" xml:lang="fi" type="speaker">
+          landtdagsmannen Pitkänen, som yttrade:
         </note>
+        <u who="unknown">
+          <seg>
+            »Korkeasti kunnioitettava herra puhemies! Hyvinarvoinen porvarissääty!
+            Talonpoikaissäädyn puolesta pyydämme sen lähetystönä lausua teille,
+            herra puhemies ja hyvinarvoinen porvarissääty, ystävällisen ja
+            kunnioittavimman jäähyväistervehdyksemme !
+          </seg>
+        </u>
         <note xml:id="i-TcodxNAdAqwiGP9XziCzMS" xml:lang="fi">
           Loppuun on kulunut taasen eduskuntatehtävämme työaika, eikä toimistamme
           ole jälellä muuta kuin lausua toisillemme j väistunteemme. Eivätkä
@@ -55569,7 +55573,7 @@
           1629—1631. 1631—1638.
         </note>
         <pb facs="https://swerik-project.github.io/valtiopaivat-records-pdf/1894/prot_1894_borgare_II/prot_1894_borgare_II-0923"/>
-        <note xml:id="i-JasmBWUse4eTutMm7ZwmZM" xml:lang="sv">
+        <note xml:id="i-JasmBWUse4eTutMm7ZwmZM" xml:lang="sv" type="speaker">
           Förkortningar:
         </note>
         <note xml:id="i-PLEFziAhQDbVCyM1EEYKtg" xml:lang="sv">
@@ -55629,7 +55633,7 @@
         <note xml:id="i-XnZmuLB6EfeyFgSaQjMMao" xml:lang="sv">
           borgareståndets medlemmar.
         </note>
-        <note xml:id="i-RdBdT2CPj3FvrfqH6uxSHQ" xml:lang="fi">
+        <note xml:id="i-RdBdT2CPj3FvrfqH6uxSHQ" xml:lang="fi" type="speaker">
           Talman:
         </note>
         <note xml:id="i-5mwsqSmwn728KEKGytcNg7" xml:lang="sv">
@@ -55655,13 +55659,13 @@
         <note xml:id="i-PGpH3EeqEDiKevSxH6c96h" xml:lang="sv">
           — dess afskedstal till ståndet. II. 1636—1637.
         </note>
-        <note xml:id="i-RDMFfgQXHShu2mxNM5WtMT" xml:lang="fi">
+        <note xml:id="i-RDMFfgQXHShu2mxNM5WtMT" xml:lang="fi" type="speaker">
           Vicetalman:
         </note>
         <note xml:id="i-R7yPvGAcEAKoyJq5oXBvmY" xml:lang="sv">
           fybergb, August, hofrättsassessor; se följande.
         </note>
-        <note xml:id="i-HFiJYP7mSU5hxAL82c34qX" xml:lang="sv">
+        <note xml:id="i-HFiJYP7mSU5hxAL82c34qX" xml:lang="sv" type="speaker">
           Ledamöter:
         </note>
         <note xml:id="i-7hZQhbwT5oh2w4ptV9yQyt" xml:lang="sv">
@@ -55679,7 +55683,7 @@
         <note xml:id="i-5NgyWbyob6zbS71dCpa5Yv" xml:lang="sv">
           dess m. fl:s petition. I. 290—298, 302—335.
         </note>
-        <note xml:id="i-FXDFSoPsKR3jhMkzBcukhn" xml:lang="sv">
+        <note xml:id="i-FXDFSoPsKR3jhMkzBcukhn" xml:lang="sv" type="speaker">
           dess yttranden:
         </note>
         <note xml:id="i-M1EP26asVqVn7uu73H9TY6" xml:lang="unknown">
@@ -55844,7 +55848,7 @@
           oo,» — S. U. IL 1605. — "dess m. fl:s motion. I. 102—104, 161—164.
           — n": v » = petitioner. I. 107—108; 137—139.
         </note>
-        <note xml:id="i-UckkpnKBwUn76aQn2dNUgU" xml:lang="sv">
+        <note xml:id="i-UckkpnKBwUn76aQn2dNUgU" xml:lang="sv" type="speaker">
           dess yttranden:
         </note>
         <note xml:id="i-VxRiiVufQpfAun8SNkiRQV" xml:lang="unknown">
@@ -55882,7 +55886,7 @@
         <note xml:id="i-PTgeK3HE3MQrDd4ETvYWtJ" xml:lang="sv">
           dess m. fl:s petitioner. I. 82—84; 121—122.
         </note>
-        <note xml:id="i-RgKurqhdW1YM8pQaa3fSQh" xml:lang="sv">
+        <note xml:id="i-RgKurqhdW1YM8pQaa3fSQh" xml:lang="sv" type="speaker">
           dess yttranden:
         </note>
         <note xml:id="i-QSuyKH5quonqco4XtXGH7m" xml:lang="unknown">
@@ -55910,7 +55914,7 @@
         <note xml:id="i-QX2Fgj1kwNvjjeFCEJ88fo" xml:lang="sv">
           dess m. fi. petition. I. 290—298; 302—335.
         </note>
-        <note xml:id="i-JvCdJDjWoxNMJ8bequqvMP" xml:lang="sv">
+        <note xml:id="i-JvCdJDjWoxNMJ8bequqvMP" xml:lang="sv" type="speaker">
           dess yttranden:
         </note>
         <note xml:id="i-Lk69UjZkc6S8F9E2i52Awv" xml:lang="unknown">
@@ -55939,7 +55943,7 @@
         <note xml:id="i-HdAPb9gz3E7zgDq2bKk7hF" xml:lang="sv">
           — dess m. fs petition. I. 290—298, 302—335.
         </note>
-        <note xml:id="i-XBj1BRjARMbZGa6kscBYSy" xml:lang="sv">
+        <note xml:id="i-XBj1BRjARMbZGa6kscBYSy" xml:lang="sv" type="speaker">
           dess yttranden:
         </note>
         <note xml:id="i-6yqmAgJxWxDwtm3dGcNxAY" xml:lang="unknown">
@@ -56010,7 +56014,7 @@
           — dess m. fl:s petitioner. I. 41—42,53—54; 208—210; 271—274; 290—298;
           302—335.
         </note>
-        <note xml:id="i-79kGBFQ6Xj8NiGW9SMECxj" xml:lang="sv">
+        <note xml:id="i-79kGBFQ6Xj8NiGW9SMECxj" xml:lang="sv" type="speaker">
           dess yttranden:
         </note>
         <note xml:id="i-ChMWjKZf2FKXxjpp7BtG61" xml:lang="unknown">
@@ -56085,7 +56089,7 @@
         <note xml:id="i-HZzxdrrHsmdQy9w2xq8oJH" xml:lang="sv">
           dess m. fl:s petition. I. 42—44, 54—57.
         </note>
-        <note xml:id="i-EAE3sBymrghyywNw4Jiga4" xml:lang="sv">
+        <note xml:id="i-EAE3sBymrghyywNw4Jiga4" xml:lang="sv" type="speaker">
           dess yttranden:
         </note>
         <note xml:id="i-JVjpqoAi7t5DcSwCzCeKsr" xml:lang="unknown">
@@ -56129,7 +56133,7 @@
         <note xml:id="i-XKCKKQVYgPbe1csmjGTVTS" xml:lang="sv">
           dess m. fl:s petition. I. 42—44, 54—57,
         </note>
-        <note xml:id="i-KYBuQYhdUJmvywDAqmxQ9m" xml:lang="sv">
+        <note xml:id="i-KYBuQYhdUJmvywDAqmxQ9m" xml:lang="sv" type="speaker">
           dess yttranden:
         </note>
         <note xml:id="i-CKYUoKzCY3Uv1deRyz2jdw" xml:lang="unknown">
@@ -56154,7 +56158,7 @@
           254—267; 267—269. | dess m. fl:s petitioner. I. 41-—42, 53—54;
           208—210; 271—274; 290 —298, 302—335.
         </note>
-        <note xml:id="i-R8MLAzneDhbF1jGw2EgiFp" xml:lang="sv">
+        <note xml:id="i-R8MLAzneDhbF1jGw2EgiFp" xml:lang="sv" type="speaker">
           dess yttranden:
         </note>
         <note xml:id="i-2AXA9mK9pmsgFLxiEXHqQi" xml:lang="unknown">
@@ -56249,10 +56253,14 @@
         <note xml:id="i-4ickKofx8o2poxSRB4C4CD" xml:lang="sv">
           — dess petitioner. I. 57—58, 86—87; 215—220.
         </note>
-        <note xml:id="i-Naa1x1NX2XYS2aV8sqUfXd" xml:lang="sv">
-          — dess m. fl:s petitioner. I. 214—215, 269—271; 290—298, 302—335.
-          dess yttranden:
+        <note xml:id="i-Naa1x1NX2XYS2aV8sqUfXd" xml:lang="sv" type="speaker">
+          — dess m. fl:
         </note>
+        <u who="unknown">
+          <seg>
+            s petitioner. I. 214—215, 269—271; 290—298, 302—335. dess yttranden:
+          </seg>
+        </u>
         <note xml:id="i-Fd9fZnEBGtNta59tQRJc7p" xml:lang="unknown">
           I. 24—25, 190, 195, 241—244, 249, 272—273, 328—329, 338, 343,
           410—411, 527—528, 545—546, 556—557, 704, 706—707, 709—710.
@@ -56403,7 +56411,7 @@
         <note xml:id="i-LhypfMuZDvmzMdSTGFMZQj" xml:lang="sv">
           dess 1. fl:s petition. I. 290—298, 302—335.
         </note>
-        <note xml:id="i-2bf6dS2im3d4LT1mY7C87f" xml:lang="sv">
+        <note xml:id="i-2bf6dS2im3d4LT1mY7C87f" xml:lang="sv" type="speaker">
           dess yttranden:
         </note>
         <note xml:id="i-K3TWVzZ6U5BTeJmfUW1Lmn" xml:lang="unknown">
@@ -56495,7 +56503,7 @@
         <note xml:id="i-XocHjgLejiU2iSp4bvH26D" xml:lang="sv">
           dess m. fl:s petition, I. 290—298, 302—335.
         </note>
-        <note xml:id="i-YHs5GzUhDuWjRkE8nr7uPu" xml:lang="sv">
+        <note xml:id="i-YHs5GzUhDuWjRkE8nr7uPu" xml:lang="sv" type="speaker">
           dess yttranden:
         </note>
         <note xml:id="i-CBD2xGLEFbrp73vGaLGega" xml:lang="unknown">
@@ -56553,7 +56561,7 @@
         <note xml:id="i-2mYAHdc4wePd9STWJ66y38" xml:lang="sv">
           dess m. fi:s petitioner. I. 121—122; 220—222.
         </note>
-        <note xml:id="i-LdfpeJVyzPXAR4AdfgWRqo" xml:lang="sv">
+        <note xml:id="i-LdfpeJVyzPXAR4AdfgWRqo" xml:lang="sv" type="speaker">
           dess yttranden:
         </note>
         <note xml:id="i-PZgoesNU716Azsem4Y1Vzg" xml:lang="unknown">
@@ -56572,7 +56580,7 @@
         <note xml:id="i-LQkzZdM9ofcpfsbcgHuPG3" xml:lang="sv">
           utsedd till suppleant i E. U. I. 39. dess petition. I. 174—178.
         </note>
-        <note xml:id="i-JtZQ7Zpz9KptdZnvxwP9Rq" xml:lang="sv">
+        <note xml:id="i-JtZQ7Zpz9KptdZnvxwP9Rq" xml:lang="sv" type="speaker">
           dess yttranden:
         </note>
         <note xml:id="i-Mtzt4GsvaHWPdzRRMFoimg" xml:lang="unknown">
@@ -56590,7 +56598,7 @@
         <note xml:id="i-Qm78mTgcPm2VdbnKEbtV4n" xml:lang="sv">
           dess m. fl:s petition. II 290—298, 302—335.
         </note>
-        <note xml:id="i-4BSJPoLT9LvURa3UbCR9ux" xml:lang="sv">
+        <note xml:id="i-4BSJPoLT9LvURa3UbCR9ux" xml:lang="sv" type="speaker">
           dess yttranden:
         </note>
         <note xml:id="i-UMmMBBve3ktK2vWrhevzg4" xml:lang="unknown">
@@ -56676,10 +56684,14 @@
         <note xml:id="i-T3bwH5eza9y2HxAjJsBmN4" xml:lang="unknown">
           dess m. fl:s motion. I. 198—202, 254—267.
         </note>
-        <note xml:id="i-WZor9fEs5YiufvXV36AN3j" xml:lang="sv">
-          dess m. fl:s petitioner. I. 82—84; 107—108; 290—298, 302—335.
-          dess yttranden:
+        <note xml:id="i-WZor9fEs5YiufvXV36AN3j" xml:lang="sv" type="speaker">
+          dess m. fl:
         </note>
+        <u who="unknown">
+          <seg>
+            s petitioner. I. 82—84; 107—108; 290—298, 302—335. dess yttranden:
+          </seg>
+        </u>
         <note xml:id="i-J6cjwKBJ7JRxv6wR7SpNFU" xml:lang="unknown">
           I 34, 146, 182, 198, 202, 255, 2537—259, 264—265, 301, 323—324,
           345, 356—358, 441 (2), 459, 511—512, 564—565, 578, 627—628, 630,
@@ -56723,7 +56735,7 @@
         <note xml:id="i-S9suykGu4wugyvkTNBdNQS" xml:lang="sv">
           dess m. fl:s petitioner. I. 42—44, 54—57; 166—168.
         </note>
-        <note xml:id="i-BmvwvY9pi8yAdwVnEezrK2" xml:lang="sv">
+        <note xml:id="i-BmvwvY9pi8yAdwVnEezrK2" xml:lang="sv" type="speaker">
           dess yttranden:
         </note>
         <note xml:id="i-J5k15QZh8ZRhR3rU1wThLL" xml:lang="unknown">
@@ -56741,7 +56753,7 @@
         <note xml:id="i-9gYB557gWPr3KpPix8vzpU" xml:lang="sv">
           dess m. fl:s petition. I. 290—298, 302—335.
         </note>
-        <note xml:id="i-2V9ihN6hWLQEiFhXTkqrCN" xml:lang="sv">
+        <note xml:id="i-2V9ihN6hWLQEiFhXTkqrCN" xml:lang="sv" type="speaker">
           — dess yttranden:
         </note>
         <note xml:id="i-Tdy3ZJvPFFtotFUUYzGd3u" xml:lang="unknown">
@@ -56768,7 +56780,7 @@
         <note xml:id="i-268wHjaDG1pTtDrMDJ3ozh" xml:lang="sv">
           — dess petitioner. I. 108—112; 112—114; 164.
         </note>
-        <note xml:id="i-TJsNb2HDNXFnXYQg42fo1X" xml:lang="sv">
+        <note xml:id="i-TJsNb2HDNXFnXYQg42fo1X" xml:lang="sv" type="speaker">
           dess yttranden:
         </note>
         <note xml:id="i-TCKNT1dfDHKm7rguiJa49F" xml:lang="unknown">
@@ -56843,7 +56855,7 @@
           Akesson, Knut Gustaf, hofrättsassessor; ombud för Nikolaistad.
           — — utsedd till ledamot i L. U. I. 39.
         </note>
-        <note xml:id="i-PefF5cb5nH3fu9Kf9bKrsf" xml:lang="sv">
+        <note xml:id="i-PefF5cb5nH3fu9Kf9bKrsf" xml:lang="sv" type="speaker">
           dess yttranden:
         </note>
         <note xml:id="i-9fgBoGTL9fBBNi4gFbTjLX" xml:lang="unknown">
@@ -56896,7 +56908,7 @@
         <note xml:id="i-Uwst3P5grXuYuLeqgVFKGU" xml:lang="sv">
           dess m. fl. petitioner. I. 42—44, 54—57; 82—84.
         </note>
-        <note xml:id="i-T5EJszsXJYPrsGiz7Syq9T" xml:lang="sv">
+        <note xml:id="i-T5EJszsXJYPrsGiz7Syq9T" xml:lang="sv" type="speaker">
           dess yttranden:
         </note>
         <note xml:id="i-DnJ72wWbggstnCfjsEYmJg" xml:lang="unknown">
@@ -57290,7 +57302,7 @@
         <note xml:id="i-J3kReig7W8nXDbrHac3CjJ" xml:lang="sv">
           1668 Register.
         </note>
-        <note xml:id="i-L3G3SAns8EKAgHYvzXp3s4" xml:lang="sv">
+        <note xml:id="i-L3G3SAns8EKAgHYvzXp3s4" xml:lang="sv" type="speaker">
           dess betänkanden:
         </note>
         <note xml:id="i-CMdikMfr8bLy3LoAhCjeSg" xml:lang="sv">
@@ -57519,7 +57531,7 @@
         <note xml:id="i-WeC7aPzu6dN1hhzf19H9gg" xml:lang="sv">
           val af ny ledamot och af en ytterligare suppleant. II. 938, 971—972.
         </note>
-        <note xml:id="i-4aeot4jcYpeHyG1DAyiT19" xml:lang="sv">
+        <note xml:id="i-4aeot4jcYpeHyG1DAyiT19" xml:lang="sv" type="speaker">
           dess betänkanden:
         </note>
         <note xml:id="i-HvoSHQNaCSLwfGpsv2prKV" xml:lang="sv">
@@ -58284,7 +58296,7 @@
         <note xml:id="i-EaCBat6Sqdq183g3gpisy1" xml:lang="sv">
           med anmälan om val af ordförande. I. 151.
         </note>
-        <note xml:id="i-BMudYoVogwRMj9HcTQ94dy" xml:lang="sv">
+        <note xml:id="i-BMudYoVogwRMj9HcTQ94dy" xml:lang="sv" type="speaker">
           dess betänkanden:
         </note>
         <note xml:id="i-WQWbKfEza8JhsK7X9vWfFh" xml:lang="sv">
@@ -58360,10 +58372,15 @@
         <note xml:id="i-We2P4P2AojD88HaWvomfzJ" xml:lang="sv">
           Kansli, brgsts; ordnande af. I. 3; 6—7; — dess aflöning. 1. 341—342.
         </note>
-        <note xml:id="i-PyDKQ33HduW2kpRv7ju7fs" xml:lang="sv">
+        <note xml:id="i-PyDKQ33HduW2kpRv7ju7fs" xml:lang="sv" type="speaker">
           Karelska hanan, dess förbindando förmedels järnväg eller kanal
-          med Ladoga; se pet. n:o 7 o. Jv. U. bet. n:ris 1 o. 3.
+          med Ladoga; se pet. n:
         </note>
+        <u who="unknown">
+          <seg>
+            o 7 o. Jv. U. bet. n:ris 1 o. 3.
+          </seg>
+        </u>
         <note xml:id="i-SxxqnqDcBcnJxnvHteHAwk" xml:lang="sv">
           Keuru— Suolahti—3uonenjoki-hanan; se pet. n:o 12 och Jv. U. bet.
           n:ris 1 och 2.
@@ -58495,7 +58512,7 @@
           — — val af ytterligare ledamöter och suppleanter däri. I. 434—435.
           — — val af ordförande i II afd. I. 454.
         </note>
-        <note xml:id="i-VL4D2qN1obxWNCfYRqQmN1" xml:lang="sv">
+        <note xml:id="i-VL4D2qN1obxWNCfYRqQmN1" xml:lang="sv" type="speaker">
           — dess betänkanden:
         </note>
         <note xml:id="i-Q1Cz5c7w5QdvY9AXC2vgu4" xml:lang="sv">
@@ -58649,7 +58666,7 @@
         <note xml:id="i-XEkdYWqtUh9FFpyLhwrsFJ" xml:lang="sv">
           — val af ytterligare ledamöter och suppleanter däri. I. 581—582.
         </note>
-        <note xml:id="i-MTKKRTEtsMKuvfHu1C7S4x" xml:lang="sv">
+        <note xml:id="i-MTKKRTEtsMKuvfHu1C7S4x" xml:lang="sv" type="speaker">
           — dess betänkanden:
         </note>
         <note xml:id="i-8XM7YGv4prZVnrMeyxZnkH" xml:lang="sv">
@@ -58856,7 +58873,7 @@
           — i anl. af D. D. M. M:s krönings- och H. K. H. Tronföljarens
           födelsedag. II. 1098; — svar härä. 1I. 1450.
         </note>
-        <note xml:id="i-RYUL4truodD9DJxXocXSL3" xml:lang="sv">
+        <note xml:id="i-RYUL4truodD9DJxXocXSL3" xml:lang="sv" type="speaker">
           Lyceer, se Läroinrättningar. :
         </note>
         <note xml:id="i-UDuP8mQjJkhGjXuFPD3xkt" xml:lang="sv">
@@ -59025,7 +59042,7 @@
           — —- statens öfvertagande af privata samskolan i Hangö; se pet.
           n:o 50 0. A. B. U. bet. n:o 22.
         </note>
-        <note xml:id="i-VDM2RW936EM8X9EfJrps8o" xml:lang="sv">
+        <note xml:id="i-VDM2RW936EM8X9EfJrps8o" xml:lang="sv" type="speaker">
           se vidare A. B. U. betänkanden:
         </note>
         <note xml:id="i-QNrAmVEYJF22naSGu1KRCu" xml:lang="sv">
@@ -59101,7 +59118,7 @@
           Mossiske trosbekännars, ordnande af dessas rättsliga ställning;
           se pet. n:o 22 o. 1. U. bet. n:o 12.
         </note>
-        <note xml:id="i-TPTKc245RrxzJtWD3YZRgh" xml:lang="sv">
+        <note xml:id="i-TPTKc245RrxzJtWD3YZRgh" xml:lang="sv" type="speaker">
           Notionar:
         </note>
         <note xml:id="i-NoZagmddsjtK5qGhyghLNK" xml:lang="sv">
@@ -59564,10 +59581,15 @@
           49 hr Caströns m. fl:s, angående ändring af 12 och 13 $$ L. O.
           I. 290—298 BI; 302—335 R. se L. U. bet. n:o 14.
         </note>
-        <note xml:id="i-BDsxKfPc9fPhhaGaNk25os" xml:lang="sv">
+        <note xml:id="i-BDsxKfPc9fPhhaGaNk25os" xml:lang="sv" type="speaker">
           50 hr Stenströms, om statens öfvertagande af privata svenska
-          samskolan i Hangö. I. 298—299 R. se A. B. U. bet. n:o 22.
+          samskolan i Hangö. I. 298—299 R. se A. B. U. bet. n:
         </note>
+        <u who="unknown">
+          <seg>
+            o 22.
+          </seg>
+        </u>
         <note xml:id="i-6GVB4QkEUzrB8eQEEvTfqk" xml:lang="sv">
           51 hr Forselius', om upphjälpaude af hönsskötseln i landet. I.
           335 —338 BI; 343—344 R.; se E. U. bet. n:o 6.
@@ -60041,7 +60063,7 @@
           — ang. förstärkt utsk. i fråga om beloppet af förhöjd bevillning.
           II. 1599; 1605; 1608; 1623.
         </note>
-        <note xml:id="i-7VfjVipPwhgoCrxpBqMG98" xml:lang="sv">
+        <note xml:id="i-7VfjVipPwhgoCrxpBqMG98" xml:lang="sv" type="speaker">
           = — dess betänkanden:
         </note>
         <pb facs="https://swerik-project.github.io/valtiopaivat-records-pdf/1894/prot_1894_borgare_II/prot_1894_borgare_II-0973"/>

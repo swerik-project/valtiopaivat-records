@@ -54,10 +54,10 @@
         <note xml:id="i-Ubj96KxSgXaRWkYaQmSmea" xml:lang="sv">
           Från landtagens början till den 1 April.
         </note>
-        <note xml:id="i-7q3QtvYf8XECkzru76erB1" xml:lang="sv ">
+        <note xml:id="i-7q3QtvYf8XECkzru76erB1" xml:lang="sv">
           HELSINGFORS,
         </note>
-        <note xml:id="i-5NdqXu5WEEzmzqtdhxpZZT" xml:lang="sv ">
+        <note xml:id="i-5NdqXu5WEEzmzqtdhxpZZT" xml:lang="sv">
           HELSINGFORS CENTRAL-TRYCKERI,
         </note>
         <pb facs="https://swerik-project.github.io/valtiopaivat-records-pdf/1891/prot_1891_adeln_I/prot_1891_adeln_I-0002"/>
@@ -80,10 +80,14 @@
         <note xml:id="i-7bpk2JipaeHinTnadv2PGb" xml:lang="sv">
           Landtmarskaikens helsning till Ständet.
         </note>
-        <note xml:id="i-TekXBJmSVuLgwhWDZmeZU1" xml:lang="sv">
-          Herr Landtmarskalken öppnade detta R. o. A:s första sammanträde
-          med följande helsningsta!:
+        <note xml:id="i-TekXBJmSVuLgwhWDZmeZU1" xml:lang="sv" type="speaker">
+          Herr Landtmarskalken öppnade detta R. o. A:
         </note>
+        <u who="unknown">
+          <seg>
+            s första sammanträde med följande helsningsta!:
+          </seg>
+        </u>
         <note xml:id="i-3wvHhERFSvcb8ygD8bboCM" xml:lang="sv">
           Högvälborne och välborne Herrar Grefvar, Friherrar samt Ridders-
           och Adelsmän!
@@ -187,7 +191,7 @@
           att uppläsa de tal, med hvilka de ä R. o. A:s vägnar ämnade helsa
           Medständen, med anledning hvaraf
         </note>
-        <note xml:id="i-X374L7MdEXamkXZfedHRNr" xml:lang="sv">
+        <note xml:id="i-X374L7MdEXamkXZfedHRNr" xml:lang="sv" type="speaker">
           Hr L. Lindelöf uppläste helsningstalet till Presteständet, hvilket
           var sä lydande:
         </note>
@@ -249,7 +253,7 @@
           Med denna önskan och förhoppning anhäller R. o. A. att fä innesluta
           sig i Högv. Presteständets vänskap och bevägenhet.
         </note>
-        <note xml:id="i-Fdgxkz69f1EGHy2zgMo8Bc" xml:lang="sv">
+        <note xml:id="i-Fdgxkz69f1EGHy2zgMo8Bc" xml:lang="sv" type="speaker">
           Frih. Wredes helsningstal till Borgareständet var af följande
           innehäll:
         </note>
@@ -422,7 +426,7 @@
         <note xml:id="i-NQXygSWzt59DJCmKKtSMVc" xml:lang="fi">
           21. 26.
         </note>
-        <note xml:id="i-K1QysqmLTG2ja67MHZ1zzB" xml:lang="sv">
+        <note xml:id="i-K1QysqmLTG2ja67MHZ1zzB" xml:lang="sv" type="speaker">
           Grefliga ätten:
         </note>
         <note xml:id="i-6gQd5EXubPY73JJWBAtTAK" xml:lang="sv">
@@ -443,7 +447,7 @@
         <note xml:id="i-9JJgaqAasEvngcSCoHjqxV" xml:lang="sv">
           Berg, af fullm. Frih. Otto Albert Wrede, Godsförvaltare.
         </note>
-        <note xml:id="i-9SCFEvwXbs6N9seLucVAQp" xml:lang="sv">
+        <note xml:id="i-9SCFEvwXbs6N9seLucVAQp" xml:lang="sv" type="speaker">
           Friherrliga ätten:
         </note>
         <note xml:id="i-VBqvzpkHyktd5Thpjz2P1b" xml:lang="sv">
@@ -535,7 +539,7 @@
           von Willebrand, af Frih. Reinhold Felix von Willebrand, J. U.
           Kandidat, Vicehäradshöfding.
         </note>
-        <note xml:id="i-9QzxdjeAAkqAdxZ12nFsyB" xml:lang="sv">
+        <note xml:id="i-9QzxdjeAAkqAdxZ12nFsyB" xml:lang="sv" type="speaker">
           Adliga ätten:
         </note>
         <note xml:id="i-WB3G5dNyi7BBDuDDim47PZ" xml:lang="sv">
@@ -974,7 +978,7 @@
           anstäld en stenografchef, ansvarig för protokollföringen, jemte
           nödigt antal stenografbiträden och renskrifningspersonal.
         </note>
-        <note xml:id="i-XqUWqD7vhbt53vYSKRnKCq" xml:lang="sv">
+        <note xml:id="i-XqUWqD7vhbt53vYSKRnKCq" xml:lang="sv" type="speaker">
           Säsom stenografchefer fär Föreningen föreslä:
         </note>
         <note xml:id="i-6KXKDjBZB847VT5CHwpeNX" xml:lang="sv">
@@ -1043,7 +1047,7 @@
         <note xml:id="i-5T8XJNLshy3edTh6MRRK1q" xml:lang="sv">
           Helsingfors, den 19 Januari 1891.
         </note>
-        <note xml:id="i-Hwg9xmaq5GNbxhCz9W2Gtc" xml:lang="sv">
+        <note xml:id="i-Hwg9xmaq5GNbxhCz9W2Gtc" xml:lang="sv" type="speaker">
           Ä Stenografiska Föreningens vägnar:
         </note>
         <note xml:id="i-62qhwoBNWwNcnwg4mc1USt" xml:lang="unknown">
@@ -1219,7 +1223,7 @@
           sig att vara inneslutet i välborne Herr Landtmarskalkens och Höglofliga
           R. o. A:s ynnest och välvilja.
         </note>
-        <note xml:id="i-DSucbaN6uewDb9g26bzSkE" xml:lang="sv">
+        <note xml:id="i-DSucbaN6uewDb9g26bzSkE" xml:lang="sv" type="speaker">
           Hr Landtmarskalken besvarade Presteständets helsning sälunda:
         </note>
         <note xml:id="i-4HMfj6KBfZx8Fwzd5Kmjjb" xml:lang="sv">
@@ -1399,7 +1403,7 @@
           vapaasukuisen H:ra Salaneuvoksen ja maamarsalkan, sekä Korkeaarvoisen
           R. ja A. suosioon ja ystävyyteen.
         </note>
-        <note xml:id="i-2dZTpo2sJ2z1sE7VRyiera" xml:lang="sv">
+        <note xml:id="i-2dZTpo2sJ2z1sE7VRyiera" xml:lang="sv" type="speaker">
           Eller i svensk öfversättning, sä lydande:
         </note>
         <note xml:id="i-QKQVVwGYkSUwEncbfnwJ74" xml:lang="sv">
@@ -1436,7 +1440,7 @@
           i Högvälborne Hr Geheimerädet och Landtmarskalkens och R. o. A:s
           bevägenhet och vänskap.
         </note>
-        <note xml:id="i-FPEKVGvUXTsq9RAggGAPPG" xml:lang="sv">
+        <note xml:id="i-FPEKVGvUXTsq9RAggGAPPG" xml:lang="sv" type="speaker">
           Bondeständets helsning besvarades af Hr Landtmarskalken i följande
           ordalag:
         </note>
@@ -1478,7 +1482,7 @@
         <note xml:id="i-XbyZGUyXbrBWD21ySwBeEp" xml:lang="sv">
           22 R. 0. A. 1891. 23 Jan. —
         </note>
-        <note xml:id="i-BDYRjpydEBStZWJSVafrzS" xml:lang="sv">
+        <note xml:id="i-BDYRjpydEBStZWJSVafrzS" xml:lang="sv" type="speaker">
           till Hans Excellens Generalguvernören och som var af följande
           lydelse:
         </note>
@@ -1616,7 +1620,7 @@
         <note xml:id="i-XWcwaSWA6mSmDKnro4x8se" xml:lang="sv">
           pollet uttagits för
         </note>
-        <note xml:id="i-KhTbTFyeuobg44rZCFXY2Y" xml:lang="sv">
+        <note xml:id="i-KhTbTFyeuobg44rZCFXY2Y" xml:lang="sv" type="speaker">
           Friherrliga ätterna:
         </note>
         <note xml:id="i-VLsDi44YYLvjTu5kJoGZej" xml:lang="sv">
@@ -1750,10 +1754,15 @@
         <note xml:id="i-5FnhH9qtsqsLJutAMcMgKq" xml:lang="sv">
           26 axe R. o -A. 1891. 26 Jan. -- = ESS
         </note>
-        <note xml:id="i-KfEdDfCNf8G47JUiKBNZgf" xml:lang="sv">
+        <note xml:id="i-KfEdDfCNf8G47JUiKBNZgf" xml:lang="sv" type="speaker">
           Sedan summeringen afslutats, tillkännagaf Hr Landtmarskalken,
-          att till R. o. A:s valmän blifvit utsedde:
+          att till R. o. A:
         </note>
+        <u who="unknown">
+          <seg>
+            s valmän blifvit utsedde:
+          </seg>
+        </u>
         <note xml:id="i-6tmqkjpUCw4d5fKPJJmq4B" xml:lang="sv">
           Frih. Rabbe Axel Wrede med . . . . . . 78 röster. » Otto Wrede
           . . . Komo = A Em UT 45 » Axel Cedercreutz . . &lt; 2 . . . 18
@@ -1886,10 +1895,15 @@
           och beslöts härvid på Hr Landtmarskalkens framställning och i
           enlighet med Talmanskonferensens förslag att remittera propositionerna
         </note>
-        <note xml:id="i-S4sbVey8F9rmfi4s9vwbBc" xml:lang="sv">
-          N:o 1 angående delning af jordlägenheter och om legoaftal rörande
-          jord pä landet, till Lag: och Ekonomiutskottet:
+        <note xml:id="i-S4sbVey8F9rmfi4s9vwbBc" xml:lang="sv" type="speaker">
+          N:
         </note>
+        <u who="unknown">
+          <seg>
+            o 1 angående delning af jordlägenheter och om legoaftal rörande
+            jord pä landet, till Lag: och Ekonomiutskottet:
+          </seg>
+        </u>
         <note xml:id="i-K5J3iEJFJCd2jvRpwLFA9a" xml:lang="sv">
           N:o 2 angående förändrad lydelse af % 12 i nådiga förordningen
           om personella utskylderna, gifven den 20 Februari 1865, till Ekonomiutskottet.
@@ -2361,10 +2375,10 @@
           och suppleanter i nedannämnda utskott följande ständsmedlemmar,
           nemligen:
         </note>
-        <note xml:id="i-Kp7hoQeB86TLHqo8Q6ph4k" xml:lang="sv">
+        <note xml:id="i-Kp7hoQeB86TLHqo8Q6ph4k" xml:lang="sv" type="speaker">
           till Lagutskottet:
         </note>
-        <note xml:id="i-HJ2K98b3YyUyW4b1Rc87SU" xml:lang="sv">
+        <note xml:id="i-HJ2K98b3YyUyW4b1Rc87SU" xml:lang="sv" type="speaker">
           till ledamöter:
         </note>
         <note xml:id="i-KMMk9RG5VrHSrz7GLY5PHQ" xml:lang="sv">
@@ -2389,10 +2403,10 @@
           » Borgareständet: Hrr Berg och Jansson. » Bondeständet: Hrr M.
           Heikura och J. Koivisto.
         </note>
-        <note xml:id="i-9FM3fo5Nx4xSQz2rTdyZYY" xml:lang="sv">
+        <note xml:id="i-9FM3fo5Nx4xSQz2rTdyZYY" xml:lang="sv" type="speaker">
           till Ekonomiutskottet:
         </note>
-        <note xml:id="i-XPVaHgNGoCzkC6sVM5ZfVh" xml:lang="sv">
+        <note xml:id="i-XPVaHgNGoCzkC6sVM5ZfVh" xml:lang="sv" type="speaker">
           till ledamöter:
         </note>
         <note xml:id="i-CxEDgFHrLncYP4LoyrTntz" xml:lang="sv">
@@ -2406,10 +2420,10 @@
           » Borgareständet: Hrr Junnelius och Alopaeus. » Bondeständet:
           Hrr A. Häyrinen och H. Krook.
         </note>
-        <note xml:id="i-VWyEg5LEWWtiAyEgnWfrw4" xml:lang="sv">
+        <note xml:id="i-VWyEg5LEWWtiAyEgnWfrw4" xml:lang="sv" type="speaker">
           till Statsutskottet:
         </note>
-        <note xml:id="i-Js2LfFVQJ1QvTprniYCwRy" xml:lang="sv">
+        <note xml:id="i-Js2LfFVQJ1QvTprniYCwRy" xml:lang="sv" type="speaker">
           till ledamöter:
         </note>
         <note xml:id="i-RPijf11G8W8gYiBj7HgF2D" xml:lang="sv">
@@ -2418,7 +2432,7 @@
           Bondeständet: Hrr A. Meurman, K. Wärri, J. Häkli och K. Kiipula;
           samt
         </note>
-        <note xml:id="i-3VRbz8C2wwZ9NJTWTpmeKa" xml:lang="sv">
+        <note xml:id="i-3VRbz8C2wwZ9NJTWTpmeKa" xml:lang="sv" type="speaker">
           till suppleanter:
         </note>
         <note xml:id="i-7Yfkn89zg2EcfgLEfgSMNx" xml:lang="sv">
@@ -2442,10 +2456,10 @@
         <note xml:id="i-MB6a6qucugpvkhtW6jm91S" xml:lang="sv">
           Frän
         </note>
-        <note xml:id="i-VScYWbjk5WpE22xMKJkjH3" xml:lang="sv">
+        <note xml:id="i-VScYWbjk5WpE22xMKJkjH3" xml:lang="sv" type="speaker">
           till Bevillningsutskottet :
         </note>
-        <note xml:id="i-6sd7nkRCXg6AcNA7g9cqMJ" xml:lang="sv">
+        <note xml:id="i-6sd7nkRCXg6AcNA7g9cqMJ" xml:lang="sv" type="speaker">
           till ledamöter :
         </note>
         <note xml:id="i-FXb6euqwSNnmTCpzfuLarR" xml:lang="sv">
@@ -2471,17 +2485,17 @@
           och Borenius. Bondeständet: Hrr H. Landgrön, K. G. Rosenberg och
           A. Fellman. samt
         </note>
-        <note xml:id="i-E637EAmPXShUrKCiXjezio" xml:lang="sv">
+        <note xml:id="i-E637EAmPXShUrKCiXjezio" xml:lang="sv" type="speaker">
           till suppleanter:
         </note>
         <note xml:id="i-9KUaashMpEWPL8QJ6p2J8Y" xml:lang="sv">
           Presteständet: Hrr Böök och Wilén. Borgareständet: Hrr Sundman
           och Carlström. Bondeständet: Hrr J. Siirilä och J. Filppula.
         </note>
-        <note xml:id="i-79zzwmY5RadUiBFAxtSskx" xml:lang="sv">
+        <note xml:id="i-79zzwmY5RadUiBFAxtSskx" xml:lang="sv" type="speaker">
           till Allmänna Besvärsutskottet :
         </note>
-        <note xml:id="i-WPPnNbsena1pNhCtf8nAC6" xml:lang="sv">
+        <note xml:id="i-WPPnNbsena1pNhCtf8nAC6" xml:lang="sv" type="speaker">
           till ledamöter:
         </note>
         <note xml:id="i-EkBJj3hSvn8Y6HFCTjJVt8" xml:lang="sv">
@@ -2494,7 +2508,7 @@
         <note xml:id="i-DrTTqfcXfM8GwtyScBZabM" xml:lang="sv">
           samt
         </note>
-        <note xml:id="i-AvrEjCCULZw3ujDLPrvhAv" xml:lang="sv">
+        <note xml:id="i-AvrEjCCULZw3ujDLPrvhAv" xml:lang="sv" type="speaker">
           till suppleanter:
         </note>
         <note xml:id="i-KbkCnbmP1YVJnURJ4rLEyk" xml:lang="sv">
@@ -2505,10 +2519,10 @@
         <note xml:id="i-TVa2rnnbUxUXWSKVwctTm" xml:lang="sv">
           40 R. o. A. 1891. 8 Febr.
         </note>
-        <note xml:id="i-KW4UYRd3UpSdtf3gQjoYJn" xml:lang="sv">
+        <note xml:id="i-KW4UYRd3UpSdtf3gQjoYJn" xml:lang="sv" type="speaker">
           till Expeditionsutskottet :
         </note>
-        <note xml:id="i-6eDPNTopcHtfJKQvhdkmmP" xml:lang="sv">
+        <note xml:id="i-6eDPNTopcHtfJKQvhdkmmP" xml:lang="sv" type="speaker">
           till ledamöter:
         </note>
         <note xml:id="i-EqE2eee66aVmTHWLh7RjiY" xml:lang="sv">
@@ -2516,7 +2530,7 @@
           Hrr Gummerus och Serlachius. » Bondeständet: Hrr J. Castrén och
           J. Forsman; samt
         </note>
-        <note xml:id="i-3yNqpZw4aeNT7NCg6vR8f6" xml:lang="sv">
+        <note xml:id="i-3yNqpZw4aeNT7NCg6vR8f6" xml:lang="sv" type="speaker">
           till suppleanter:
         </note>
         <note xml:id="i-EvcXTAKFbVTgpRHJJLWVWX" xml:lang="sv">
@@ -2528,10 +2542,10 @@
         <note xml:id="i-96RpbUKG7pYcTrGCFDwVsh" xml:lang="sv">
           ss Bondeständet: Hrr K. Ojanen och K. A. Karlstedt. samt
         </note>
-        <note xml:id="i-54h5DTJUD5mS3uLbpgxQXi" xml:lang="sv">
+        <note xml:id="i-54h5DTJUD5mS3uLbpgxQXi" xml:lang="sv" type="speaker">
           till Lag- och Ekonomiutskottet:
         </note>
-        <note xml:id="i-J8WzwvmoebNLczNDzo8n4b" xml:lang="sv">
+        <note xml:id="i-J8WzwvmoebNLczNDzo8n4b" xml:lang="sv" type="speaker">
           till ledamöter:
         </note>
         <note xml:id="i-9efkqPp2cPqQqV8QkSkdaG" xml:lang="sv">
@@ -2540,7 +2554,7 @@
           » Bondeständet: Hrr Edv. Duncker, K. A. Karlstedt, J. » Lagus
           och E. Stråhle; samt
         </note>
-        <note xml:id="i-Cz61chpkxk53F1n4psWsmR" xml:lang="sv">
+        <note xml:id="i-Cz61chpkxk53F1n4psWsmR" xml:lang="sv" type="speaker">
           till suppleanter:
         </note>
         <note xml:id="i-XW1iz9pAgQ5BnBw72YhaVy" xml:lang="sv">
@@ -3435,7 +3449,7 @@
         <note xml:id="i-RML2TpB6haq3YQD7zhxPZG" xml:lang="sv">
           Anteckning af brott i frejdebevis.
         </note>
-        <note xml:id="i-QHtmQvZm2czrJfjmFAkhAf" xml:lang="sv">
+        <note xml:id="i-QHtmQvZm2czrJfjmFAkhAf" xml:lang="sv" type="speaker">
           Af Frih. Th. Bruun hade inlemnats ett petitionsmemorial hvilket
           upplästes af Riddarhusfiskalen och var af följande innehäll:
         </note>
@@ -3771,14 +3785,14 @@
         <note xml:id="i-4VTNxtWLsD5J9zUEForhAi" xml:lang="sv">
           Lördagen den 7 Februari kl. 6 e. m.
         </note>
-        <note xml:id="i-9fSaUxmsy3nuLSJLcorzVN" xml:lang="sv">
+        <note xml:id="i-9fSaUxmsy3nuLSJLcorzVN" xml:lang="sv" type="speaker">
           Polletter hade ytterligare uttagits för Frih. ätten:
         </note>
         <note xml:id="i-X9GxXGDY1ANYBpbpPJ6rMG" xml:lang="sv">
           N:o 43. af Schulten af Frih. Max Widekind af Schulten, e. 0.
           Professor, samt
         </note>
-        <note xml:id="i-PCBwcut9ofHT7B76KrsaaY" xml:lang="sv">
+        <note xml:id="i-PCBwcut9ofHT7B76KrsaaY" xml:lang="sv" type="speaker">
           för adliga ätterna:
         </note>
         <note xml:id="i-MXdSMdurM1fGZBKMuH8kV9" xml:lang="sv">
@@ -4396,7 +4410,7 @@
         <note xml:id="i-TpN7VaiibDCDsd7hULP8fM" xml:lang="sv">
           Kustjernväy till Åbo.
         </note>
-        <note xml:id="i-99CQytSv4bEjSegGVjLsH5" xml:lang="sv">
+        <note xml:id="i-99CQytSv4bEjSegGVjLsH5" xml:lang="sv" type="speaker">
           Likaså bordlades till nästa plenum ett af Frih. Edv. Hisinger
           ingifvet petitionsmemorial, så lydande:
         </note>
@@ -4499,7 +4513,7 @@
         <note xml:id="i-EBePrkh7D3Vy8zccSP1ZnV" xml:lang="sv">
           Byggnad för de vetenskapliga föreningarne i Helsingfors.
         </note>
-        <note xml:id="i-9MsKcEF4MXXGPcQJtjqxYt" xml:lang="sv">
+        <note xml:id="i-9MsKcEF4MXXGPcQJtjqxYt" xml:lang="sv" type="speaker">
           Hr Lindelöf uppläste ett petitionsmemorial af följande lydelse:
         </note>
         <pb facs="https://swerik-project.github.io/valtiopaivat-records-pdf/1891/prot_1891_adeln_I/prot_1891_adeln_I-0076"/>
@@ -4591,7 +4605,7 @@
         <note xml:id="i-JNGynxKVF7KLvTgVmFXWGB" xml:lang="sv">
           Inrättandet af en arkeologisk byrå.
         </note>
-        <note xml:id="i-MeeaWyMubw6Tbr4oYVF3ME" xml:lang="sv">
+        <note xml:id="i-MeeaWyMubw6Tbr4oYVF3ME" xml:lang="sv" type="speaker">
           Till nästa plenum bordlades jemväl ett petitionsmemorial af Frih.
           Edv, Hisinger så lydande:
         </note>
@@ -4626,7 +4640,7 @@
           första försök, som redan visat att den rätta organisationen icke
           blifvit träffad. |
         </note>
-        <note xml:id="i-H8pw6Q7PfCKMe5ZrDAE1A7" xml:lang="sv">
+        <note xml:id="i-H8pw6Q7PfCKMe5ZrDAE1A7" xml:lang="sv" type="speaker">
           För att närmare motivera denna min åsigt anhåller jag vördsamt
           att få anföra följande:
         </note>
@@ -4934,7 +4948,7 @@
           af förhällandena möjligen starkare krafter förefinnas, dä skall
           sjelffallet saken i samma män lida skada *
         </note>
-        <note xml:id="i-LA1QGFpHwy8GbWCsb6RqeT" xml:lang="sv">
+        <note xml:id="i-LA1QGFpHwy8GbWCsb6RqeT" xml:lang="sv" type="speaker">
           Beträffande de administrativa bristerna hos en arkeologisk kommission
           yttrar den danske arkeologen:
         </note>
@@ -6039,7 +6053,7 @@
           fem år, räknadt från den 1 Juni 1890, mot en förhöjning i hyran
           från 3,000 till 3,200 mark för året.
         </note>
-        <note xml:id="i-9VPGYQY175JNA3X7UuEG1S" xml:lang="sv">
+        <note xml:id="i-9VPGYQY175JNA3X7UuEG1S" xml:lang="sv" type="speaker">
           För de i riddarhuset uthyrda lokalerna erlägges för närvarande
           af:
         </note>
@@ -6807,7 +6821,7 @@
           äro hemtade från 1872 års Instruktion, synes någon särskild motivering
           icke vara behöflig.
         </note>
-        <note xml:id="i-5UWuYAhEZ5XS6Zzwha3SBW" xml:lang="sv">
+        <note xml:id="i-5UWuYAhEZ5XS6Zzwha3SBW" xml:lang="sv" type="speaker">
           Beträffande:
         </note>
         <note xml:id="i-HxxKQTfnr4z1coh9buzTv4" xml:lang="sv">
@@ -6887,7 +6901,7 @@
         <note xml:id="i-LhfnYMCGKuM2FYbLKXhTXT" xml:lang="sv">
           $ 4.
         </note>
-        <note xml:id="i-UbXN9cJHWZFdCoxTURgbJf" xml:lang="sv">
+        <note xml:id="i-UbXN9cJHWZFdCoxTURgbJf" xml:lang="sv" type="speaker">
           Riddarhusdirektionen tillkommer i allmänhet:
         </note>
         <note xml:id="i-xVmkvQMQkNHtxQZjtUv5Q" xml:lang="sv">
@@ -6952,7 +6966,7 @@
         <note xml:id="i-QmFw9TZPoepJtVRpcHnUWA" xml:lang="sv">
           $7.
         </note>
-        <note xml:id="i-M84BZksg19hnFnPeVZv8HD" xml:lang="sv">
+        <note xml:id="i-M84BZksg19hnFnPeVZv8HD" xml:lang="sv" type="speaker">
           Fräga, som angär:
         </note>
         <note xml:id="i-UAmps2FHVTn5kwfpdvrAYr" xml:lang="sv">
@@ -7024,7 +7038,7 @@
         <note xml:id="i-S18vLMPciT1DRVstDPofK2" xml:lang="sv">
           $ 9.
         </note>
-        <note xml:id="i-WjuTdxtAMMV9h6ofyzkdjJ" xml:lang="sv">
+        <note xml:id="i-WjuTdxtAMMV9h6ofyzkdjJ" xml:lang="sv" type="speaker">
           Vid tillträde af förvaltningen och derefter vid hvarje ärs början
           utser Direktionen bland dess medlemmar:
         </note>
@@ -7395,7 +7409,7 @@
         <note xml:id="i-E4urftgwhzSyHHdoqy98hK" xml:lang="sv">
           $ 33.
         </note>
-        <note xml:id="i-8vm86ijWrC1ouhxz6oPiVd" xml:lang="sv">
+        <note xml:id="i-8vm86ijWrC1ouhxz6oPiVd" xml:lang="sv" type="speaker">
           Jemte fullgörande af hvad enligt Riddarhusordningen särskildt
           tillkommer Riddarhussekreteraren, äligger honom:
         </note>
@@ -7458,7 +7472,7 @@
         <note xml:id="i-QqMhtoyfPVWF8NKfytSsNb" xml:lang="sv">
           $ 35.
         </note>
-        <note xml:id="i-XRxWCoPpZnqFoVQHpu3jmo" xml:lang="sv">
+        <note xml:id="i-XRxWCoPpZnqFoVQHpu3jmo" xml:lang="sv" type="speaker">
           Riddarhuskamreraren äligger:
         </note>
         <note xml:id="i-PaytwdfCUwDk9KKcbvqjRc" xml:lang="sv">
@@ -8228,7 +8242,7 @@
         <note xml:id="i-To8UezYHGnYvtBmAaHkisa" xml:lang="sv">
           $ 9.
         </note>
-        <note xml:id="i-NQ7nEAvrxqGdBA4Cagziqc" xml:lang="sv">
+        <note xml:id="i-NQ7nEAvrxqGdBA4Cagziqc" xml:lang="sv" type="speaker">
           Genom betjeningen åligger Ekonomen ombesörja:
         </note>
         <note xml:id="i-NM8H23mQzV5cdyhY28ZmLx" xml:lang="sv">
@@ -8348,11 +8362,11 @@
         <note xml:id="i-KtzDXY6aXMVEVJo83PcXyY" xml:lang="sv">
           Bilaga till Riddarhusdirektionens Berättelse.
         </note>
-        <note xml:id="i-RUdKic7DXUQniGBqTKTPty" xml:lang="sv">
+        <note xml:id="i-RUdKic7DXUQniGBqTKTPty" xml:lang="sv" type="speaker">
           I Riddarhusbyggnaden hafva under åren 1889 och 1890 följande
           arbeten blifvit utförda:
         </note>
-        <note xml:id="i-SUvXU7eGCTddKPQt9PVQWS" xml:lang="sv">
+        <note xml:id="i-SUvXU7eGCTddKPQt9PVQWS" xml:lang="sv" type="speaker">
           På vinden:
         </note>
         <note xml:id="i-EtdDpUAQdqszgTAZfMJEdT" xml:lang="sv">
@@ -8560,7 +8574,7 @@
           I gardskarlens rum i källarvåningen insattes en luftvexlingsventil
           i yttre väggen för att möjliggöra en vädring af rummet.
         </note>
-        <note xml:id="i-QuCyGbUxBbYz71EXRGbeHP" xml:lang="sv">
+        <note xml:id="i-QuCyGbUxBbYz71EXRGbeHP" xml:lang="sv" type="speaker">
           Följande mälnings- och tapetseringsarbeten hafva i riddarhuset
           utförts:
         </note>
@@ -8971,7 +8985,7 @@
         <note xml:id="i-JYXrKZZ5BrjBMTCW12wDeU" xml:lang="sv">
           Transport 7
         </note>
-        <note xml:id="i-Nhm3btd4CyjC2eUaP9a7FT" xml:lang="sv">
+        <note xml:id="i-Nhm3btd4CyjC2eUaP9a7FT" xml:lang="sv" type="speaker">
           Inkomst 1890:
         </note>
         <note xml:id="i-XA59MK2fTxGNQQoaCoHwVy" xml:lang="sv">
@@ -9052,7 +9066,7 @@
         <note xml:id="i-Ksq4DLfES3W4PwT5Dw93SK" xml:lang="sv">
           Bil. Litt. D.' 1890.
         </note>
-        <note xml:id="i-Ya3fZxZ1dRmWciqM2EWvL6" xml:lang="sv">
+        <note xml:id="i-Ya3fZxZ1dRmWciqM2EWvL6" xml:lang="sv" type="speaker">
           Transport mg Utgift 1890:
         </note>
         <note xml:id="i-FgXYLP6VsDBHqpKnTN6h6z" xml:lang="sv">
@@ -9204,7 +9218,7 @@
         <note xml:id="i-Y3vJFzXfBq9GNhaL4i9mWx" xml:lang="sv">
           Inkomst 1888: | Räntor: &gt; + ss sm sm m mm 36 ve 9,536/67
         </note>
-        <note xml:id="i-PnLXn7pFuodM2kQ7FonuwP" xml:lang="sv">
+        <note xml:id="i-PnLXn7pFuodM2kQ7FonuwP" xml:lang="sv" type="speaker">
           Inkomst 1889:
         </note>
         <note xml:id="i-C7gwLf7bpMS84weTM6oN8K" xml:lang="sv">
@@ -9243,13 +9257,13 @@
         <note xml:id="i-7jmVhdzRmzmu7iUHsjkbA9" xml:lang="sv">
           räkenskaper för åren 1888, 1889 &amp; 1890.
         </note>
-        <note xml:id="i-UL6XBjfLF7swPauq1Vv5co" xml:lang="sv">
+        <note xml:id="i-UL6XBjfLF7swPauq1Vv5co" xml:lang="sv" type="speaker">
           Kredit. Utgift 1888:
         </note>
         <note xml:id="i-TDzScDYCw55R5dU6NFZTxU" xml:lang="sv">
           Pensioner . . : Häftning af räkenskaper S
         </note>
-        <note xml:id="i-M7dC27f41wFUtZkNynnaDP" xml:lang="sv">
+        <note xml:id="i-M7dC27f41wFUtZkNynnaDP" xml:lang="sv" type="speaker">
           Utgift 1889:
         </note>
         <note xml:id="i-8t6tY8LDosaBbQYoaBMYcj" xml:lang="sv">
@@ -9258,7 +9272,7 @@
         <note xml:id="i-6Y7sdz5UJR67WJG9MFikz6" xml:lang="sv">
           . Utgift 1890: Pensioner Diverse .
         </note>
-        <note xml:id="i-PM7bQF5c7mjB2rm6BoL1hR" xml:lang="sv">
+        <note xml:id="i-PM7bQF5c7mjB2rm6BoL1hR" xml:lang="sv" type="speaker">
           Behållning till år 1891:
         </note>
         <note xml:id="i-Xe8wszyjwpxkXy3QTQQ8eR" xml:lang="sv">
@@ -11911,7 +11925,7 @@
         <note xml:id="i-TvXDS8xDoM3rgEfZBn3n91" xml:lang="sv">
           R. o. A. 1891. 10 Febr. 209
         </note>
-        <note xml:id="i-DdjyHiKdMQ4EkCdFc4aa66" xml:lang="sv">
+        <note xml:id="i-DdjyHiKdMQ4EkCdFc4aa66" xml:lang="sv" type="speaker">
           skott till densamma, äfvensom bidragets fördelning presterskapet
           emellan, fastställes pä följande sätt:
         </note>
@@ -13215,7 +13229,7 @@
         <note xml:id="i-WEx6fT5ws5ExVeNxuqkHkR" xml:lang="sv">
           utskänkningsrörelse, jemte skyldighet att erlägga kommunala ut
         </note>
-        <note xml:id="i-EyxZiUoxzNnN6F6xsTeLwC" xml:lang="sv">
+        <note xml:id="i-EyxZiUoxzNnN6F6xsTeLwC" xml:lang="sv" type="speaker">
           skylder, påföras en särskild utskänkningsskatt till kronan, hvar:
         </note>
         <note xml:id="i-2vrCfVeQwo6kChRJ6AkodL" xml:lang="sv">
@@ -15246,7 +15260,7 @@
         <note xml:id="i-RgRYYUFfpUnTxGJ6VyYPK1" xml:lang="sv">
           Summa:
         </note>
-        <note xml:id="i-Svt2sSYSF4svkMJ8yTvTEe" xml:lang="fi ">
+        <note xml:id="i-Svt2sSYSF4svkMJ8yTvTEe" xml:lang="fi">
           1900—1903.
         </note>
         <note xml:id="i-DqU7hA1QzW8KRCeFpLYB17" xml:lang="sv">
@@ -15266,7 +15280,7 @@
         <note xml:id="i-6gDCYnvzGT553EdMTA6FB5" xml:lang="sv">
           Summa:
         </note>
-        <note xml:id="i-3TiRCkipNXhF8giY2Lepm2" xml:lang="fi ">
+        <note xml:id="i-3TiRCkipNXhF8giY2Lepm2" xml:lang="fi">
           1903—1906.
         </note>
         <note xml:id="i-3gEmieA98cDQ8Ab4rMHojk" xml:lang="sv">
@@ -15275,7 +15289,7 @@
         <note xml:id="i-MfkkJ8WiYGLkusuHP8hGm7" xml:lang="sv">
           Summa:
         </note>
-        <note xml:id="i-LjYYwsPTXXeUvDL6oJC1dq" xml:lang="fi ">
+        <note xml:id="i-LjYYwsPTXXeUvDL6oJC1dq" xml:lang="fi">
           1906—1909.
         </note>
         <note xml:id="i-JmKTMUo6egtL9NDS2CJign" xml:lang="fi">
@@ -15417,7 +15431,7 @@
         <note xml:id="i-Q4XixDu3rtFaR3MDEgQnmc" xml:lang="sv">
           Vidare föredrogs af
         </note>
-        <note xml:id="i-7ZkvJ3mC8CxthgzRrtWPd5" xml:lang="sv">
+        <note xml:id="i-7ZkvJ3mC8CxthgzRrtWPd5" xml:lang="sv" type="speaker">
           Hr N. Grotenfelt ett sälunda formuleradt petitionsmenorial:
         </note>
         <note xml:id="i-WrfHSaWBQH4ewaLwg5tcUj" xml:lang="sv">
@@ -15463,7 +15477,7 @@
           lösning förefinnas än den att ifrågavarande skolors omorganisation
           och fortfarande underhåll åhvälfves staten.
         </note>
-        <note xml:id="i-2ZMxMrHVH5jqbkdnu6avMM" xml:lang="sv">
+        <note xml:id="i-2ZMxMrHVH5jqbkdnu6avMM" xml:lang="sv" type="speaker">
           Med afseende å hvad jag nu haft äran anföra, får jag vördsammast
           föreslå:
         </note>
