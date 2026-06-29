@@ -162,10 +162,14 @@
           för Jakobstad: medicine- och kirurgiedoktorn Woldemar Backman,
           från nämda stad;
         </note>
-        <note xml:id="i-XYS9HETRo6NzVpTcUdDJ1A" xml:lang="sv">
-          för Fredrikshamn: jurisutriusqvekandidaten Kaarlo Castrén, från
-          Helsingfors:
+        <note xml:id="i-XYS9HETRo6NzVpTcUdDJ1A" xml:lang="sv" type="speaker">
+          för Fredrikshamn:
         </note>
+        <u who="unknown">
+          <seg>
+            jurisutriusqvekandidaten Kaarlo Castrén, från Helsingfors:
+          </seg>
+        </u>
         <note xml:id="i-6mHRwEnzBrc1hA13YcptdN" xml:lang="sv">
           för Villmanstrand: borgmästaren Otto Johannes Lundson, från nämda
           stad;
@@ -588,7 +592,7 @@
         <note xml:id="i-FhRe9DXZJ1i43jX1f7CYsr" xml:lang="sv" type="speaker">
           Hr Brofeldt till bondeständet:
         </note>
-        <note xml:id="i-XjYSk2uBEeCFQgVSHxvYAT" xml:lang="fi" type="speaker">
+        <note xml:id="i-XjYSk2uBEeCFQgVSHxvYAT" xml:lang="fi">
           Korkeasti kunnioitettu puhemies, arvoisa talonpoikaissääty!
         </note>
         <note xml:id="i-GZcvm1uNYGbf9aFr4cKYZV" xml:lang="fi">
@@ -804,10 +808,10 @@
           Från prästeståndet anlände härefter en hälsningsdeputation, anförd
           af professorn Theodor Homön, som yttrade:
         </note>
-        <note xml:id="i-L6nYcyxSNKXH7iN9YYvk3D" xml:lang="fi" type="speaker">
+        <note xml:id="i-L6nYcyxSNKXH7iN9YYvk3D" xml:lang="fi">
           Korkeasti kunnioitettu hra puhemies, hyvin arvoisa porvarissääty!
         </note>
-        <note xml:id="i-DuEokrTrCSg4GCf2pdQGh" xml:lang="fi" type="speaker">
+        <note xml:id="i-DuEokrTrCSg4GCf2pdQGh" xml:lang="fi">
           Pappissääty pyytää meidän kauttamme lähettää kunnioittavan veljellisen
           tervehdyksensä hyvin arvoisalle porvarissäädylle.
         </note>
@@ -864,7 +868,7 @@
           ja pyytää porvarissääty sulkeutua korkea-arvoisen pappissäädyn
           luottamukseen ja ystävyyteen.
         </note>
-        <note xml:id="i-B6NLbVosJpWzNpSxJuaYbK" xml:lang="sv" type="speaker">
+        <note xml:id="i-B6NLbVosJpWzNpSxJuaYbK" xml:lang="sv">
           R. o. A:
         </note>
         <u xml:id="i-HFwXBZGBHNYPJLMnv6c2CH" who="unknown">
@@ -938,7 +942,7 @@
           R. o. A. utber sig härmed att få vara inneslutet i vällofliga
           borgareständets och hr talmannens vänskap och förtroende.
         </note>
-        <note xml:id="i-GiTvJJ83J9RPGJWLxf8rnt" xml:lang="sv" type="speaker">
+        <note xml:id="i-GiTvJJ83J9RPGJWLxf8rnt" xml:lang="sv">
           Hr talmannen svarade:
         </note>
         <u xml:id="i-7ukfM35cmeHVkKdEcWgEC2" who="unknown">
@@ -967,11 +971,11 @@
           i kejserliga palatset efter slutad gudstjänst i Nikolaikyrkan,
           hvilken skulle vidtaga kl. *92 pä dagen.
         </note>
-        <note xml:id="i-5sENZM5uoN51RLthvqP54B" xml:lang="sv" type="speaker">
+        <note xml:id="i-5sENZM5uoN51RLthvqP54B" xml:lang="sv">
           Hälsningsdeputationen frän bondeständet anlände nu, anförd af
           landtdagsmannen Kallio, hvilken yttrade:
         </note>
-        <note xml:id="i-FzAZ9WZ5AQPrmUqJZ6nmuf" xml:lang="fi" type="speaker">
+        <note xml:id="i-FzAZ9WZ5AQPrmUqJZ6nmuf" xml:lang="fi">
           Korkeasti kunnioitettu puhemies! Hyvinarvoisa porvarissääty!
         </note>
         <note xml:id="i-Pqu8p6PjoHUvxVrc7g9uzr" xml:lang="fi">
@@ -2937,7 +2941,7 @@
         <note xml:id="i-Y32fSMGwHRFGx7in9nh1NQ" xml:lang="sv">
           till andra suppleant: hr Teodor Heikel 15 och hr Neovius 6 röster;
         </note>
-        <note xml:id="i-AqH2ALtjGiLfWdhFUmDrvB" xml:lang="sv" type="speaker">
+        <note xml:id="i-AqH2ALtjGiLfWdhFUmDrvB" xml:lang="sv">
           i lagutskottet:
         </note>
         <note xml:id="i-SA7ATBMGZ5mZwrSknSQz6K" xml:lang="sv">
@@ -2964,14 +2968,14 @@
         <note xml:id="i-JV1nAJ7Nw88gzoEWGsiME6" xml:lang="sv">
           52 Utskottsval. 28 dec.
         </note>
-        <note xml:id="i-Fi5RnGTUdC3yWviuG8dqQ9" xml:lang="sv" type="speaker">
+        <note xml:id="i-Fi5RnGTUdC3yWviuG8dqQ9" xml:lang="sv">
           i grundlagsutskottet :
         </note>
         <note xml:id="i-LSUfYauAyr6KacGSH6khaS" xml:lang="sv">
           till ledamöter: hrr Renvall, Mikkola, Mäkelin och Erkko; till
           suppleanter: hrr Söderholm och Teodor Heikel;
         </note>
-        <note xml:id="i-D2h55PsnUvA9nhuLVJjCrp" xml:lang="sv" type="speaker">
+        <note xml:id="i-D2h55PsnUvA9nhuLVJjCrp" xml:lang="sv">
           i lagutskottet :
         </note>
         <note xml:id="i-QduoTvHW5uSimQueJH4gdk" xml:lang="sv">
@@ -3228,7 +3232,7 @@
           tätä keisarillisen senaatin päätöstä, kahdeksantoista markkaa
           kolmekymmentäkaksi penniä. Tätä kaikki asianomaiset noudattakoot.
         </note>
-        <note xml:id="i-3TCc4XKbwGsxjGi4SctiM8" xml:lang="fi" type="speaker">
+        <note xml:id="i-3TCc4XKbwGsxjGi4SctiM8" xml:lang="fi">
           Keisarillinen Suomen senaatti:
         </note>
         <note xml:id="i-6p9fgXR2C89Dbh4HXBSbeo" xml:lang="sv">
@@ -25150,7 +25154,7 @@
           kontraproposition emot utskottets uttalande antaga hr Tuomis förslag,
           rösta ja; de, det icke göra,
         </note>
-        <note xml:id="i-XKhRFnwBvnz16bqiem2NXD" xml:lang="fi" type="speaker">
+        <note xml:id="i-XKhRFnwBvnz16bqiem2NXD" xml:lang="fi">
           rösta nej;
         </note>
         <note xml:id="i-WWRu3tpUXUZfsA7J1DZFd9" xml:lang="sv">
@@ -27728,7 +27732,7 @@
           godkänna första klämmen å sida 10, för sävidt angår statsunderstödets
           storlek, rösta ja; de, det icke göra,
         </note>
-        <note xml:id="i-GBQ1PeCuf6N4dA8QFPuyML" xml:lang="fi" type="speaker">
+        <note xml:id="i-GBQ1PeCuf6N4dA8QFPuyML" xml:lang="fi">
           rösta nej;
         </note>
         <note xml:id="i-8ipVUbg9rJWKpEVQ6QFfYS" xml:lang="sv">
@@ -30864,7 +30868,7 @@
           Propositionen besvarades med öfvervägande ja, och hade borgareståndet
           således antagit utskottets förslag å sida 15 oförändradt.
         </note>
-        <note xml:id="i-8un2UjYkjdyBs2UASdCDwL" xml:lang="sv" type="speaker">
+        <note xml:id="i-8un2UjYkjdyBs2UASdCDwL" xml:lang="sv">
           Hr talmannen yttrade härå:
         </note>
         <u xml:id="i-FCVZH2XjQyQVXjZHkxQj5U" who="unknown">
